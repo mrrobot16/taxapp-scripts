@@ -1,0 +1,1497 @@
+SCHEDULE I 
+(Form 1041)
+Department of the Treasury  
+Internal Revenue Service  
+Alternative Minimum Tax—Estates and Trusts
+Attach to Form 1041.  
+Go to www.irs.gov/Form1041 for instructions and the latest information.
+OMB No. 1545-0092
+2022
+Name of estate or trust
+Employer identification number
+Part I
+Estate’s or Trust’s Share of Alternative Minimum Taxable Income
+1 
+Adjusted total income or (loss) (from Form 1041, line 17). ESBTs, see instructions .
+.
+.
+.
+.
+.
+.
+1
+2 
+Interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3 
+Taxes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Refund of taxes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+(                          )
+5
+Depletion (difference between regular tax and AMT) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Net operating loss deduction. Enter as a positive amount .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Interest from specified private activity bonds exempt from the regular tax .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Qualified small business stock (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Exercise of incentive stock options (excess of AMT income over regular tax income) .
+.
+.
+.
+.
+.
+9
+10
+Other estates and trusts (amount from Schedule K-1 (Form 1041), box 12, code A) 
+.
+.
+.
+.
+.
+.
+10
+11
+Disposition of property (difference between AMT and regular tax gain or loss) 
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Depreciation on assets placed in service after 1986 (difference between regular tax and AMT) .
+.
+.
+12
+13
+Passive activities (difference between AMT and regular tax income or loss) .
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Loss limitations (difference between AMT and regular tax income or loss) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Circulation costs (difference between regular tax and AMT) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Long-term contracts (difference between AMT and regular tax income) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+Mining costs (difference between regular tax and AMT) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18
+Research and experimental costs (difference between regular tax and AMT) .
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+Income from certain installment sales before January 1, 1987 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 (                          )
+20
+Intangible drilling costs preference 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21
+Other adjustments, including income-based related adjustments 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22
+Alternative tax net operating loss deduction (See the instructions for the limitation that applies.) 
+.
+.
+22 (                          )
+23
+Adjusted alternative minimum taxable income. Combine lines 1 through 22 .
+.
+.
+.
+.
+.
+.
+.
+.
+23
+Note: Complete Part II below before going to line 24.
+24
+Income distribution deduction from Part II, line 42 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+25
+Estate tax deduction (from Form 1041, line 19) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+26
+Add lines 24 and 25 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26
+27
+Estate’s or trust’s share of alternative minimum taxable income. Subtract line 26 from line 23 .
+.
+.
+27
+If line 27 is:
+• $26,500 or less, stop here and enter -0- on Form 1041, Schedule G, line 1c. The estate or trust isn’t 
+liable for the alternative minimum tax.
+• Over $26,500, but less than $194,300, go to line 43.
+• $194,300 or more, enter the amount from line 27 on line 49 and go to line 50.
+• ESBTs, see instructions.
+Part II
+Income Distribution Deduction on a Minimum Tax Basis
+28
+Adjusted alternative minimum taxable income (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28
+29
+Adjusted tax-exempt interest (other than amounts included on line 7) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29
+30
+Total net gain from Schedule D (Form 1041), line 19, column (1). If a loss, enter -0- 
+.
+.
+.
+.
+.
+.
+30
+31 
+Capital gains for the tax year allocated to corpus and paid or permanently set aside for charitable 
+purposes (from Form 1041, Schedule A, line 4) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+31
+32
+Capital gains paid or permanently set aside for charitable purposes from gross income (see instructions)
+32
+33
+Capital gains computed on a minimum tax basis included on line 23 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33 (                          )
+34
+Capital losses computed on a minimum tax basis included on line 23. Enter as a positive amount .
+.
+34
+35 
+Distributable net alternative minimum taxable income (DNAMTI). Combine lines 28 through 34. If zero 
+or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+35
+36
+Income required to be distributed currently (from Form 1041, Schedule B, line 9) 
+.
+.
+.
+.
+.
+.
+.
+36
+37
+Other amounts paid, credited, or otherwise required to be distributed (from Form 1041, Schedule B, line 10)
+37
+38
+Total distributions. Add lines 36 and 37 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+38
+39
+Tax-exempt income included on line 38 (other than amounts included on line 7) 
+.
+.
+.
+.
+.
+.
+.
+39
+40
+Tentative income distribution deduction on a minimum tax basis. Subtract line 39 from line 38 .
+.
+.
+40
+For Paperwork Reduction Act Notice, see the Instructions for Form 1041.
+Cat. No. 51517Q
+Schedule I (Form 1041) 2022
+Schedule I (Form 1041) 2022
+Page 2
+Part II
+Income Distribution Deduction on a Minimum Tax Basis (continued)
+41 
+Tentative income distribution deduction on a minimum tax basis. Subtract line 29 from line 35. If zero 
+or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+41
+42 
+Income distribution deduction on a minimum tax basis. Enter the smaller of line 40 or line 41. 
+Enter here and on line 24 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+42
+Part III
+Alternative Minimum Tax
+43
+Exemption amount .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+43
+$26,500
+44
+Enter the amount from line 27 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+44
+45
+Phase-out of exemption amount .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+45
+$88,300
+46
+Subtract line 45 from line 44. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+46
+47
+Multiply line 46 by 25% (0.25) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+47
+48
+Subtract line 47 from line 43. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+48
+49
+Subtract line 48 from line 44 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+49
+50 
+ 
+Go to Part IV of Schedule I to figure line 50 if the estate or trust has qualified dividends or has a gain
+on lines 18a and 19 of column (2) of Schedule D (Form 1041) (as refigured for the AMT, if necessary). 
+Otherwise, if line 49 is:
+• $206,100 or less, multiply line 49 by 26% (0.26).
+• Over $206,100, multiply line 49 by 28% (0.28) and subtract $4,122 from the result .
+.
+.
+.
+.
+.
+50
+51
+Alternative minimum foreign tax credit (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+51
+52
+Tentative minimum tax. Subtract line 51 from line 50 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+52
+53
+Enter the tax from Form 1041, Schedule G, line 1a (minus any foreign tax credit from Schedule G, line 2a) 
+53
+54 
+Alternative minimum tax. Subtract line 53 from line 52. If zero or less, enter -0-. Enter here and on
+Form 1041, Schedule G, line 1c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+54
+Part IV
+Line 50 Computation Using Maximum Capital Gains Rates
+Caution: If you didn’t complete Part V of Schedule D (Form 1041), the Schedule D Tax Worksheet, or the
+Qualified Dividends Tax Worksheet in the Instructions for Form 1041, see the instructions before completing 
+this part.
+55
+Enter the amount from line 49 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+55
+56 
+ 
+ 
+Enter the amount from line 26 of Schedule D (Form 1041), line 13 of the 
+Schedule D Tax Worksheet, or line 4 of the Qualified Dividends Tax Worksheet 
+in the Instructions for Form 1041, whichever applies (as refigured for the AMT, 
+if necessary) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+56
+57 
+ 
+Enter the amount from Schedule D (Form 1041), line 18b, column (2) (as 
+refigured for the AMT, if necessary). If you didn’t complete Schedule D for the
+regular tax or the AMT, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+57
+58 
+ 
+ 
+If you didn’t complete a Schedule D Tax Worksheet for the regular tax or the 
+AMT, enter the amount from line 56. Otherwise, add lines 56 and 57 and enter 
+the smaller of that result or the amount from line 10 of the Schedule D Tax 
+Worksheet (as refigured for the AMT, if necessary) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+58
+59
+Enter the smaller of line 55 or line 58 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+59
+60
+Subtract line 59 from line 55 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+60
+61 
+If line 60 is $206,100 or less, multiply line 60 by 26% (0.26). Otherwise, multiply line 60 by 28% (0.28) 
+and subtract $4,122 from the result .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+61
+62
+Maximum amount subject to the 0% rate 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+62
+$2,800
+63 
+ 
+ 
+ 
+Enter the amount from line 27 of Schedule D (Form 1041), line 14 of the
+Schedule D Tax Worksheet, or line 5 of the Qualified Dividends Tax Worksheet 
+in the Instructions for Form 1041, whichever applies (as figured for the regular 
+tax). If you didn’t complete Schedule D or either worksheet for the regular tax, 
+enter the amount from Form 1041, line 23; if zero or less, enter -0- .
+.
+.
+.
+63
+64
+Subtract line 63 from line 62. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+64
+65
+Enter the smaller of line 55 or line 56 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+65
+66
+Enter the smaller of line 64 or line 65. This amount is taxed at 0% .
+.
+.
+.
+66
+67
+Subtract line 66 from line 65 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+67
+Schedule I (Form 1041) 2022
+Schedule I (Form 1041) 2022
+Page 3
+Part IV
+Line 50 Computation Using Maximum Capital Gains Rates (continued)
+68
+Maximum amount subject to rates below 20% 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+68
+$13,700
+69
+Enter the amount from line 64 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+69
+70 
+ 
+ 
+ 
+Enter the amount from line 27 of Schedule D (Form 1041), line 18 of the
+Schedule D Tax Worksheet, or line 5 of the Qualified Dividends Tax 
+Worksheet, whichever applies (as figured for the regular tax). If you didn’t 
+complete Schedule D or either worksheet for the regular tax, enter the amount 
+from Form 1041, line 23; if zero or less, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+70
+71
+Add line 69 and line 70 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+71
+72
+Subtract line 71 from line 68. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+72
+73
+Enter the smaller of line 67 or line 72 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+73
+74
+Multiply line 73 by 15% (0.15) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+74
+75
+Add lines 66 and 73 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+75
+If lines 75 and 55 are the same, skip lines 76 through 80 and go to line 81. Otherwise, go to line 76.
+76
+Subtract line 75 from line 65 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+76
+77
+Multiply line 76 by 20% (0.20) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+77
+If line 57 is zero or blank, skip lines 78 through 80 and go to line 81. Otherwise, go to line 78.
+78
+Add lines 60, 75, and 76 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+78
+79
+Subtract line 78 from line 55 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+79
+80
+Multiply line 79 by 25% (0.25) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+80
+81
+Add lines 61, 74, 77, and 80 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+81
+82 
+If line 55 is $206,100 or less, multiply line 55 by 26% (0.26). Otherwise, multiply line 55 by 28% (0.28) 
+and subtract $4,122 from the result .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+82
+83
+Enter the smaller of line 81 or line 82 here and on line 50 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+83
+Schedule I (Form 1041) 2022

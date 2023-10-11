@@ -1,0 +1,17 @@
+The document is a Schedule K-2 form for Form 1120-S, which is used to report shareholders' pro rata share items for international transactions. The form is divided into several parts, and the taxpayer must check the applicable parts and complete and attach them if necessary.
+
+Part I is for reporting corporations' other current year international information, such as gain on personal property sale, foreign oil and gas taxes, splitter arrangements, etc.
+
+Part II is for reporting the foreign tax credit limitation. It includes sections for reporting gross income from various sources, such as sales, services, rental real estate income, royalties, capital gains, etc.
+
+Part III is for providing other information for the preparation of Form 1116, which is used to claim the foreign tax credit. It includes sections for reporting apportionment factors for research and experimental expenses, interest expense, and foreign taxes.
+
+Part IV is for reporting distributions from foreign corporations to S corporations.
+
+Part V is for reporting information on shareholders' section 951(a)(1) and section 951A inclusions.
+
+Part VI is for providing information to complete Form 8621, which is used to report passive foreign investment company (PFIC) income. It includes sections for general information, QEF information, mark-to-market information, and section 1291 and other information.
+
+Part VII is for reporting S corporations' interest in foreign corporation income under section 960. It includes sections for reporting various categories of income from foreign corporations.
+
+The form includes instructions and spaces for entering the name of the corporation, employer identification number (EIN), and other relevant information.

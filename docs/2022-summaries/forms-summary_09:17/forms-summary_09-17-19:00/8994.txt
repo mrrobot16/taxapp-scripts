@@ -1,0 +1,13 @@
+Form 8994 is a document issued by the Internal Revenue Service (IRS) for employers to claim the Employer Credit for Paid Family and Medical Leave. The form must be attached to the employer's tax return.
+
+The form starts with a series of questions that determine whether the employer is eligible to file Form 8994. These questions include whether the employer has a written policy providing at least 2 weeks of annual paid family and medical leave for qualifying employees, whether the policy provides at least 50% of wages normally paid to qualifying employees, whether the employer has paid family and medical leave to at least one qualifying employee during the tax year, and whether the employer has included non-interference language in their policy for qualifying employees not covered by the Family and Medical Leave Act.
+
+If the employer answers "No" to any of these questions, they are instructed to stop and not file Form 8994, with exceptions for partnerships or S corporations explained in the instructions.
+
+The form then moves on to Line 1, where the employer enters the total paid family and medical leave credit figured for wages paid to qualifying employees during the tax year. The instructions mention the use of the Paid Family and Medical Leave Credit Worksheet and an adjustment that needs to be made to the deduction for salaries and wages.
+
+Line 2 is specific to partnerships and S corporations, instructing them to report the employer credit for paid family and medical leave on Schedule K. For all other entities, Line 2 instructs them to report the amount on Form 3800, Part III, Line 4j.
+
+Finally, Line 3 instructs the employer to add the amounts from Lines 1 and 2. The form concludes with a reference to the Paperwork Reduction Act Notice, which can be found in the separate instructions.
+
+Overall, Form 8994 is a tool for employers to claim the Employer Credit for Paid Family and Medical Leave and provides instructions on how to complete the form and where to report the credit on their tax return.

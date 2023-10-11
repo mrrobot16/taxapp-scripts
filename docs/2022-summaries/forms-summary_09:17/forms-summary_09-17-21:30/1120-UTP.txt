@@ -1,0 +1,9 @@
+The document is a form called Schedule UTP (Uncertain Tax Position) for corporations filing Form 1120, 1120-F, 1120-L, or 1120-PC with the Internal Revenue Service (IRS). The form is divided into three parts.
+
+Part I is for reporting uncertain tax positions for the current tax year. It includes columns for UTP number, primary IRC (Internal Revenue Code) sections, primary IRC subsections, revenue rulings or procedures, regulation sections, regulation subsections, timing codes (permanent, temporary, or both), pass-through entity EIN (Employer Identification Number), major tax position, ranking of tax position, form or schedule, line number, and amount.
+
+Part II is for reporting uncertain tax positions for prior tax years. It has the same columns as Part I, but is used to report positions from previous years.
+
+Part III is for providing concise descriptions of the uncertain tax positions listed in Parts I and II. The UTP number from Part I or II is indicated, followed by a description of the position.
+
+The form is used to disclose uncertain tax positions to the IRS, allowing for transparency and potential resolution of any disputes or disagreements.

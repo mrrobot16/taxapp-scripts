@@ -1,0 +1,23 @@
+Schedule A (Form 990-T) is a document used by organizations to report their unrelated business taxable income from an unrelated trade or business. The document includes various sections where the organization can enter information such as their name, employer identification number, unrelated business activity code, and a description of the unrelated trade or business.
+
+Part I of the form focuses on reporting the organization's unrelated trade or business income. This includes information on gross receipts or sales, expenses, and net income. Part II covers deductions that are not taken elsewhere on the form, such as compensation of officers, directors, and trustees, salaries and wages, repairs and maintenance, and other deductions.
+
+Part III is used to calculate the cost of goods sold for the organization. It includes information on inventory at the beginning and end of the year, purchases, cost of labor, additional section 263A costs, and other costs.
+
+Part IV is for reporting rent income from real property and personal property leased with real property. It includes details on the property, rent received or accrued, and deductions directly connected with the income.
+
+Part V focuses on unrelated debt-financed income and requires information on the debt-financed property, gross income, deductions directly connected with the property, average acquisition debt, and average adjusted basis.
+
+Part VI is used to report interest, annuities, royalties, and rents from controlled organizations. It includes information on the controlled organization's name, employer identification number, net unrelated income, total specified payments made, and deductions directly connected with the income.
+
+Part VII covers investment income of section 501(c)(7), (9), or (17) organizations. It requires a description of the income, the amount of income, deductions directly connected with the income, and set-asides.
+
+Part VIII focuses on exploited exempt activity income, other than advertising income. It requires a description of the exploited activity, gross unrelated business income, and expenses directly connected with the production of the income.
+
+Part IX is for reporting advertising income and requires information on the periodical(s) and gross advertising income. It also includes a section for direct advertising costs.
+
+Part X is used to report the compensation of officers, directors, and trustees. It includes their names, titles, percentage of time devoted to the business, and compensation attributable to unrelated business.
+
+Part XI is for any supplemental information that the organization wants to provide.
+
+Overall, Schedule A (Form 990-T) is a detailed document that organizations use to report their unrelated business taxable income and related information.

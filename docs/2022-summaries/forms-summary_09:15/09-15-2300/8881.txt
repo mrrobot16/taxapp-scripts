@@ -1,0 +1,9 @@
+Form 8881 is a document provided by the Department of the Treasury and the Internal Revenue Service (IRS). It is used to claim the Credit for Small Employer Pension Plan Startup Costs and Auto-Enrollment. 
+
+Part I of the form is for claiming the credit for small employer pension plan startup costs. It requires the taxpayer to enter the qualified startup costs incurred during the tax year and then calculate one-half of that amount. The number of employees eligible to participate in the pension plan is also entered, and the greater of $500 or the number of eligible employees is calculated. The smaller of the calculated amount and the one-half of the startup costs is then determined. 
+
+Part II of the form is for claiming the small employer auto-enrollment credit. The taxpayer can enter $500 if an auto-enrollment option is provided for retirement savings. 
+
+The totals for both parts are then added together to determine the total credit. For partnerships and S corporations, the amount is reported on Schedule K, while for all others, it is reported on Form 3800, Part III, line 1j. 
+
+The form also includes a section for future use and a reference to the Paperwork Reduction Act Notice.

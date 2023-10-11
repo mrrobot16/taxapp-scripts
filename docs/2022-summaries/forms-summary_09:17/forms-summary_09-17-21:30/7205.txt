@@ -1,0 +1,26 @@
+Form 7205 is a document issued by the Internal Revenue Service (IRS) for claiming the Energy Efficient Commercial Buildings Deduction. This form must be attached to the taxpayer's tax return. The form consists of four parts:
+
+Part I: Building and EECBP Information
+- This section requires the taxpayer to provide the address of the building and the date the energy efficient commercial building property (EECBP) was placed in service.
+- The taxpayer must also specify the EECBP system and computed energy savings percentage.
+- There is an option to check if the interim lighting rule was used.
+- The potential amount per square foot based on energy savings and system is calculated.
+- The building square footage and potential section 179D deduction amount are also recorded.
+
+Part II: Computation of Energy Efficient Commercial Buildings Deduction Amount
+- This section involves calculations based on previous years' claims and the maximum amount allowed.
+- The taxpayer subtracts the total per square foot amount claimed in prior years from the maximum amount allowed.
+- There is a check to determine if the amount in column 2(b) is greater than or equal to column 1(e).
+- If column 2(c) is checked, the taxpayer enters the amount from column 1(g) and skips column 2(e) and column 2(f) before proceeding to column 2(g).
+- If column 2(e) is checked, the taxpayer multiplies column 2(b) by column 1(f).
+- The cost of energy efficient commercial building property placed in service during the tax year is recorded.
+- The greater of column 2(d) or column 2(f) is entered, followed by the lesser of column 2(g) or column 2(h).
+- Designers enter the amount of the section 179D deduction allocated to them, while building owners enter the amount from column 2(i).
+
+Part III: Certification Information for Each Property Listed in Part I
+- This section requires the name, employer, and address of the qualified individual completing the certification.
+
+Part IV: Designer Allocation Information for Each Property Listed in Part I (to be completed by Designer only)
+- This section is to be completed by the designer and includes the identified owner of the building, name of the building owner's authorized representative completing the allocation, and their address.
+
+The form concludes with a section for the total section 179D deduction, which is added from column 2(k) and entered on the appropriate line of the taxpayer's return.

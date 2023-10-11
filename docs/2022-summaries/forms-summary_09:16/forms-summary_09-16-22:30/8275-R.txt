@@ -1,0 +1,13 @@
+Form 8275-R is a document provided by the Internal Revenue Service (IRS) for taxpayers to disclose items or positions that are contrary to Treasury regulations. This form is used in cases where the taxpayer wants to disclose information that may be seen as non-compliant with IRS regulations. 
+
+The form consists of several parts. Part I requires the taxpayer to provide general information such as the regulation section, item or group of items being disclosed, a detailed description of the items, the form or schedule related to the items, and the line number on the tax return where the items are reported.
+
+Part II is for the taxpayer to provide a detailed explanation of the items being disclosed. This section allows the taxpayer to provide additional information or reasoning for the disclosure.
+
+Part III is specifically for partners, shareholders, beneficiaries, or residual interest holders who are making adequate disclosure for a pass-through item. It requires the name, address, and ZIP code of the pass-through entity, the identifying number of the entity, the tax year of the entity, and the IRS center where the entity filed its return.
+
+Part IV is for providing additional explanations that may not fit in Parts I and II.
+
+Form 8275-R should be attached to the taxpayer's tax return when making such disclosures. The form also includes a reference to the IRS website for more information and instructions on how to complete the form.
+
+The form includes an OMB number for paperwork reduction act notice, indicating that the form is subject to the Paperwork Reduction Act.

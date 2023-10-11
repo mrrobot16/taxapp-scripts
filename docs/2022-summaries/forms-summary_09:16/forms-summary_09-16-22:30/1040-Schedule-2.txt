@@ -1,0 +1,29 @@
+Schedule 2 (Form 1040) is a document that taxpayers in the United States attach to their Form 1040, 1040-SR, or 1040-NR to report additional taxes. The form is divided into two parts.
+
+Part I, titled "Tax," includes the following sections:
+
+1. Alternative minimum tax: Taxpayers must attach Form 6251 to report any alternative minimum tax owed.
+2. Excess advance premium tax credit repayment: Taxpayers must attach Form 8962 to report any excess advance premium tax credit repayment.
+3. The sum of lines 1 and 2 is entered on Form 1040, 1040-SR, or 1040-NR, line 17.
+
+Part II, titled "Other Taxes," includes the following sections:
+
+4. Self-employment tax: Taxpayers must attach Schedule SE to report self-employment tax.
+5. Social security and Medicare tax on unreported tip income: Taxpayers must attach Form 4137 to report social security and Medicare tax on unreported tip income.
+6. Uncollected social security and Medicare tax on wages: Taxpayers must attach Form 8919 to report uncollected social security and Medicare tax on wages.
+7. Total additional social security and Medicare tax: Taxpayers must add lines 5 and 6 to calculate the total additional social security and Medicare tax.
+8. Additional tax on IRAs or other tax-favored accounts: Taxpayers must attach Form 5329 if required, or check the box if not required.
+9. Household employment taxes: Taxpayers must attach Schedule H to report household employment taxes.
+10. Repayment of first-time homebuyer credit: Taxpayers must attach Form 5405 if required.
+11. Additional Medicare Tax: Taxpayers must attach Form 8959 to report additional Medicare Tax.
+12. Net investment income tax: Taxpayers must attach Form 8960 to report net investment income tax.
+13. Uncollected social security and Medicare or RRTA tax on tips or group-term life insurance from Form W-2, box 12.
+14. Interest on tax due on installment income from the sale of certain residential lots and timeshares.
+15. Interest on the deferred tax on gain from certain installment sales with a sales price over $150,000.
+16. Recapture of low-income housing credit: Taxpayers must attach Form 8611 to report the recapture of low-income housing credit.
+
+Part II also includes additional sections for reporting other additional taxes, such as recapture of other credits, additional tax on HSA distributions, additional tax on Archer MSA distributions, and various other tax types. Taxpayers must list the type and amount of each additional tax and calculate the total additional taxes on line 18.
+
+Finally, taxpayers may also report a section 965 net tax liability installment from Form 965-A on line 20.
+
+The total of all other taxes reported on lines 4, 7 through 16, and 18 is entered on Form 1040, 1040-SR, or 1040-NR, line 23 or 23b, depending on the form used.

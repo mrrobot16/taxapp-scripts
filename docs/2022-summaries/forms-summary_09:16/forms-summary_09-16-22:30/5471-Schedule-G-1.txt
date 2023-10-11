@@ -1,0 +1,15 @@
+Schedule G-1 (Form 5471) is a document that must be attached to Form 5471 for reporting purposes. It is used to provide information about a cost-sharing arrangement (CSA) in which a foreign corporation participated during the tax year. 
+
+The form asks for the following information:
+
+1. A brief description of the CSA.
+2. Whether the foreign corporation became a participant in the CSA during the tax year.
+3. Whether the CSA was in effect before January 5, 2009.
+4. The foreign corporation's share of reasonably anticipated benefits for the CSA during the tax year.
+5. Whether a U.S. taxpayer made any platform contributions to the CSA during the tax year, and if so, the present value of those contributions. It also asks for the method used to determine the price of the platform contribution transaction(s).
+6. The total amount of stock-based compensation deductions claimed by the filer for the tax year, as well as the total amount of deductions for stock-based compensation that was granted during the term of the CSA and reasonably allocable to the intangible development activity.
+7. The total amount of intangible development costs for the CSA, as well as the amount of intangible development costs allocable to the foreign corporation based on its reasonably anticipated benefits share.
+
+The form should be completed separately for each CSA in which the foreign corporation participated during the tax year, and all amounts should be reported in U.S. dollars.
+
+For further instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form5471.

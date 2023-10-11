@@ -1,0 +1,17 @@
+Form 8938 is a statement of specified foreign financial assets that must be attached to a tax return in the United States. It is used to report information about foreign deposit and custodial accounts, as well as other foreign assets.
+
+The form begins with general information such as the taxpayer's name, taxpayer identification number, and the type of filer (individual, partnership, corporation, or trust). If the filer is a specified individual, they must provide the name and taxpayer identification number of the individual who closely holds the partnership or corporation, or the current beneficiary of the trust.
+
+Part I of the form requires the filer to provide a summary of their foreign deposit and custodial accounts. This includes the number of accounts and their maximum value during the tax year. The filer must also indicate whether any accounts were closed during the tax year.
+
+Part II requires a summary of other foreign assets, including the number of assets and their maximum value during the tax year. The filer must indicate whether any assets were acquired or sold during the tax year.
+
+Part III is a summary of tax items attributable to specified foreign financial assets. The filer must report various tax items such as interest, dividends, royalties, gains or losses, deductions, and credits for both foreign deposit and custodial accounts and other foreign assets.
+
+Part IV provides an exception for specified foreign financial assets that are already reported on other forms. The filer must indicate the number of forms filed for each type of asset, such as Forms 3520, 3520-A, 5471, 8621, and 8865. These assets do not need to be reported on Form 8938.
+
+Part V requires detailed information for each foreign deposit and custodial account included in the summary provided in Part I. The filer must provide information such as the type of account, account number, whether the account was opened or closed during the tax year, and the maximum value of the account. They must also indicate if a foreign currency exchange rate was used to convert the value of the account into U.S. dollars.
+
+Part VI requires detailed information for each other foreign asset included in the summary provided in Part II. The filer must provide a description of the asset, identifying number or designation, acquisition and disposition dates if applicable, whether the asset is jointly owned with a spouse, and the maximum value of the asset. They must also indicate if a foreign currency exchange rate was used to convert the value of the asset into U.S. dollars. If the asset is stock of a foreign entity or an interest in a foreign entity, additional information such as the name of the entity, GIIN, and mailing address must be provided. If the asset is not stock of a foreign entity, information about the issuer or counterparty must be provided.
+
+Overall, Form 8938 is a comprehensive form that requires taxpayers to report detailed information about their specified foreign financial assets. It is important for taxpayers to accurately complete this form to comply with U.S. tax laws and regulations.

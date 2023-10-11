@@ -1,0 +1,16 @@
+Schedule E (Form 5471) is a document used to report income, war profits, and excess profits taxes paid or accrued by a foreign corporation. It is attached to Form 5471 and is used to claim a foreign tax credit on the U.S. tax return.
+
+The form is divided into three parts:
+
+Part I: Taxes for Which a Foreign Tax Credit Is Allowed
+This section is used to report taxes paid or accrued directly by the foreign corporation. It requires the name of the payor entity, the tax identification number of the payor entity, the amount of taxes paid or accrued, the country or U.S. possession to which the tax is paid, the foreign tax year of the payor entity, the U.S. tax year of the payor entity, the income subject to tax in the foreign jurisdiction, and the local currency in which the tax is payable.
+
+Part II: Taxes Deemed Paid by Foreign Corporation
+This section is used to report taxes deemed paid by a lower-tier distributing foreign corporation. It requires the name of the lower-tier distributing foreign corporation, the tax identification number of the lower-tier distributing foreign corporation, the country or U.S. possession to which the tax is paid, the PTEP group, the annual PTEP account, the PTEP distributed, the total amount of PTEP in the PTEP group, and the total amount of the PTEP group taxes with respect to the PTEP group.
+
+Part III: Taxes for Which a Foreign Tax Credit Is Disallowed
+This section is used to report taxes for which a foreign tax credit is disallowed. It requires the name of the payor entity, the tax identification number of the payor entity, and separate columns for different types of disallowed taxes, including Section 901(j), Section 901(k) and (l), Section 901(m), U.S. taxes, suspended taxes, and other disallowed taxes.
+
+The form also includes a Schedule E-1, which is used to report taxes paid, accrued, or deemed paid on earnings and profits (E&P) of the foreign corporation. It includes sections for different types of E&P, such as Subpart F income, tested income, residual income, and suspended taxes.
+
+Overall, Schedule E (Form 5471) provides a detailed breakdown of the foreign taxes paid or accrued by a foreign corporation and allows for the calculation of the foreign tax credit on the U.S. tax return.

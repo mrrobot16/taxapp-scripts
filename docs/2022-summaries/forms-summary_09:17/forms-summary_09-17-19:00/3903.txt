@@ -1,0 +1,19 @@
+Form 3903 is a document provided by the Internal Revenue Service (IRS) for individuals who are eligible to deduct moving expenses on their tax return. The form is to be attached to Form 1040, 1040-SR, or 1040-NR.
+
+Before beginning the form, individuals must certify that they meet the requirements for deducting moving expenses. This includes being a member of the Armed Forces on active duty and moving due to a military order for a permanent change of station.
+
+The form consists of several sections:
+
+1. Transportation and storage of household goods and personal effects: This section is for individuals to report the expenses incurred for transporting and storing their belongings during the move.
+
+2. Travel (including lodging) from old home to new home: This section is for reporting the expenses related to travel, such as transportation and lodging, from the old residence to the new residence. It specifically excludes the cost of meals.
+
+3. Total expenses: This section requires individuals to add up the amounts reported in lines 1 and 2.
+
+4. Government payments: Individuals need to enter the total amount paid by the government for the expenses listed in lines 1 and 2, which is not included in box 1 of their Form W-2 (wages). This amount should be shown in box 12 of the Form W-2 with code P.
+
+5. Deduction calculation: If the total expenses (line 3) are not more than the government payments (line 4), the individual cannot deduct their moving expenses. If line 3 is less than line 4, they should subtract line 3 from line 4 and include the result on their tax return. If line 3 is more than line 4, they should subtract line 4 from line 3 and enter the result on Schedule 1 (Form 1040), line 14. This amount represents their moving expense deduction.
+
+The form also includes a notice regarding the Paperwork Reduction Act and provides a catalog number for reference.
+
+For detailed instructions and the latest information, individuals are directed to visit the IRS website at www.irs.gov/Form3903.

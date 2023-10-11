@@ -1,0 +1,266 @@
+Attention: 
+Copy A of this form is provided for informational purposes only. Copy A appears in red, 
+similar to the official IRS form. The official printed version of Copy A of this IRS form is 
+scannable, but the online version of it, printed from this website, is not. Do not print and file 
+copy A downloaded from this website; a penalty may be imposed for filing with the IRS 
+information return forms that can’t be scanned. See part O in the current General 
+Instructions for Certain Information Returns, available at www.irs.gov/form1099, for more 
+information about penalties.
+Please note that Copy B and other copies of this form, which appear in black, may be 
+downloaded and printed and used to satisfy the requirement to provide the information to 
+the recipient.
+To order official IRS information returns, which include a scannable Copy A for filing with 
+the IRS and all other applicable copies of the form, visit www.IRS.gov/orderforms. Click on 
+Employer and Information Returns, and we’ll mail you the forms you request and their 
+instructions, as well as any publications you may order.
+Information returns may also be filed electronically using the IRS Filing Information Returns 
+Electronically (FIRE) system (visit www.IRS.gov/FIRE) or the IRS Affordable Care Act 
+Information Returns (AIR) program (visit www.IRS.gov/AIR).
+See IRS Publications 1141, 1167, and 1179 for more information about printing these tax 
+forms.
+   
+Form 1099-A
+(Rev. January 2022)
+Cat. No. 14412G
+Acquisition or 
+Abandonment of 
+Secured Property
+Copy A
+For 
+Internal Revenue 
+Service Center
+Department of the Treasury - Internal Revenue Service
+File with Form 1096. 
+OMB No. 1545-0877
+For Privacy Act 
+and Paperwork 
+Reduction Act 
+Notice, see the 
+current General 
+Instructions for 
+Certain 
+Information 
+Returns.
+For calendar year     
+20
+8080
+VOID
+CORRECTED
+LENDER’S name, street address, city or town, state or province, country, ZIP or 
+foreign postal code, and telephone no.
+LENDER’S TIN
+BORROWER’S TIN
+BORROWER’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Date of lender’s acquisition or 
+knowledge of abandonment
+2 Balance of principal 
+outstanding
+$
+3
+4 Fair market value of property
+$
+5 Check if the borrower was personally liable for repayment of 
+the debt .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+6 Description of property
+Form 1099-A (Rev. 1-2022)
+www.irs.gov/Form1099A
+Do  Not  Cut  or  Separate  Forms  on  This  Page  —  Do  Not  Cut or  Separate  Forms  on  This  Page
+   
+Form 1099-A
+(Rev. January 2022)
+Acquisition or 
+Abandonment of 
+Secured Property
+Copy B
+For Borrower
+Department of the Treasury - Internal Revenue Service
+This is important tax 
+information and is being 
+furnished to the IRS. If 
+you are required to file a 
+return, a negligence 
+penalty or other 
+sanction may be 
+imposed on you if 
+taxable income results 
+from this transaction 
+and the IRS determines 
+that it has not been 
+reported.
+OMB No. 1545-0877
+For calendar year     
+20
+CORRECTED (if checked)
+LENDER’S name, street address, city or town, state or province, country, ZIP or 
+foreign postal code, and telephone no.
+LENDER’S TIN
+BORROWER’S TIN
+BORROWER’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code 
+Account number (see instructions)
+1 Date of lender’s acquisition or 
+knowledge of abandonment
+2 Balance of principal 
+outstanding
+$
+3
+4 Fair market value of property
+$
+5 If checked, the borrower was personally liable for repayment 
+of the debt 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+6 Description of property
+Form 1099-A (Rev. 1-2022)
+(keep for your records)
+www.irs.gov/Form1099A
+Instructions for Borrower
+Certain lenders who acquire an interest in property that was security for a loan 
+or who have reason to know that such property has been abandoned must 
+provide you with this statement. You may have reportable income or loss 
+because of such acquisition or abandonment. Gain or loss from an acquisition is 
+generally measured by the difference between your adjusted basis in the 
+property and the amount of your debt canceled in exchange for the property or, 
+if greater, the sale proceeds. If you abandoned the property, you may have 
+income from the discharge of indebtedness in the amount of the unpaid balance 
+of your canceled debt. The tax consequences of abandoning property depend 
+on whether or not you were personally liable for the debt. Losses on acquisitions 
+or abandonments of property held for personal use are not deductible. See Pub. 
+4681 for information about your tax consequences.
+Property means any real property (such as a personal residence), any 
+intangible property, and tangible personal property that is held for investment or 
+used in a trade or business.
+If you borrowed money on this property with someone else, each of you 
+should receive this statement.
+Borrower’s taxpayer identification number (TIN). For your protection, this 
+form may show only the last four digits of your TIN (social security number 
+(SSN), individual taxpayer identification number (ITIN), adoption taxpayer 
+identification number (ATIN), or employer identification number (EIN)). However, 
+the issuer has reported your complete TIN to the IRS.
+Account number. May show an account or other unique number the lender 
+assigned to distinguish your account.
+Box 1. For a lender’s acquisition of property that was security for a loan, the 
+date shown is generally the earlier of the date title was transferred to the lender 
+or the date possession and the burdens and benefits of ownership were 
+transferred to the lender. This may be the date of a foreclosure or execution sale 
+or the date your right of redemption or objection expired. For an abandonment, 
+the date shown is the date on which the lender first knew or had reason to know 
+that the property was abandoned or the date of a foreclosure, execution, or 
+similar sale.
+Box 2. Shows the debt (principal only) owed to the lender on the loan when the 
+interest in the property was acquired by the lender or on the date the lender first 
+knew or had reason to know that the property was abandoned.
+Box 3. Reserved for future use.
+Box 4. Shows the fair market value of the property. If the amount in box 4 is less 
+than the amount in box 2, and your debt is canceled, you may have cancellation 
+of debt income. If the property was your main home, see Pub. 523 to figure any 
+taxable gain or ordinary income.
+Box 5. Shows whether you were personally liable for repayment of the debt 
+when the debt was created or, if modified, when it was last modified.
+Box 6. Shows the description of the property acquired by the lender or 
+abandoned by you. If “CCC” is shown, the form indicates the amount of any 
+Commodity Credit Corporation loan outstanding when you forfeited your 
+commodity. 
+Future developments. For the latest information about developments related to 
+Form 1099-A and its instructions, such as legislation enacted after they were 
+published, go to www.irs.gov/Form1099A.
+Free File Program. Go to www.irs.gov/FreeFile to see if you qualify for no-cost 
+online federal tax preparation, e-filing, and direct deposit or payment options.
+   
+Form 1099-A
+(Rev. January 2022)
+Acquisition or 
+Abandonment of 
+Secured Property
+Copy C
+For Lender
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-0877
+For Privacy Act 
+and Paperwork 
+Reduction Act 
+Notice, see the 
+current General 
+Instructions for 
+Certain 
+Information 
+Returns.
+For calendar year     
+20
+VOID
+CORRECTED
+LENDER’S name, street address, city or town, state or province, country, ZIP or 
+foreign postal code, and telephone no.
+LENDER’S TIN
+BORROWER’S TIN
+BORROWER’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Date of lender’s acquisition or 
+knowledge of abandonment
+2 Balance of principal 
+outstanding
+$
+3
+4 Fair market value of property
+$
+5 Check if the borrower was personally liable for repayment of 
+the debt .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+6 Description of property
+Form 1099-A (Rev. 1-2022)
+www.irs.gov/Form1099A
+Instructions for Lender
+To complete Form 1099-A, use:
+• The current General Instructions for Certain Information 
+Returns, and
+• The current Instructions for Forms 1099-A and 1099-C.
+To order these instructions and additional forms, go to 
+www.irs.gov/EmployerForms.
+Caution: Because paper forms are scanned during 
+processing, you cannot file certain Forms 1096, 1097, 1098, 
+1099, 3921, or 5498 that you print from the IRS website.
+Filing and furnishing. For filing and furnishing instructions, 
+including due dates, and to request filing or furnishing 
+extensions, see the current General Instructions for Certain 
+Information Returns.
+Need help? If you have questions about reporting on Form 
+1099-A, call the information reporting customer service site 
+toll free at 866-455-7438 or 304-263-8700 (not toll free). 
+Persons with a hearing or speech disability with access to 
+TTY/TDD equipment can call 304-579-4827 (not toll free).

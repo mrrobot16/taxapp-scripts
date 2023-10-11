@@ -1,0 +1,17 @@
+Form 5884-A is a document provided by the Internal Revenue Service (IRS) for employers who have been affected by qualified disasters. The form is to be attached to the employer's tax return. The purpose of the form is to calculate the Employee Retention Credit for employers affected by these disasters.
+
+The form has several sections and lines for the employer to enter relevant information. In line 1a, employers affected by a 2018 through 2019 qualified disaster should enter the total qualified wages paid or incurred during the applicable period while the business was inoperable. Similarly, in line 1b, employers affected by a 2020 qualified disaster should enter the total qualified wages paid or incurred during the applicable period while the business was inoperable. The total of lines 1a and 1b should be entered in line 1c.
+
+In line 2, the employer should multiply the amount in line 1c by 40% (0.40). The instructions provide guidance on the adjustment that needs to be made to the deduction for salaries and wages.
+
+Line 3 is for the employee retention credit from partnerships, S corporations, cooperatives, estates, and trusts. The instructions provide further details on how to calculate this credit.
+
+Line 4 is the sum of lines 2 and 3. Cooperatives, estates, and trusts should proceed to line 5, while partnerships and S corporations should report this amount on Schedule K. All others should report this amount on Form 3800, Part III, line 1aa.
+
+Line 5 is for the amount allocated to patrons of the cooperative or beneficiaries of the estate or trust. The instructions provide further guidance on how to determine this amount.
+
+Line 6 is for cooperatives, estates, and trusts to subtract the amount in line 5 from line 4. This amount should be reported on Form 3800, Part III, line 1aa.
+
+The form includes a space for the employer's name and identifying number. The instructions and the latest information can be found on the IRS website.
+
+Please note that this summary is based on the form as of March 2021 and may be subject to change. It is always recommended to refer to the latest version of the form and consult with a tax professional or the IRS for specific guidance.

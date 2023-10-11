@@ -1,0 +1,17 @@
+Schedule G (Form 8865) is a document used by taxpayers to report the application of the gain deferral method under Section 721(c) of the Internal Revenue Code. It is attached to Form 8865, which is used to report information about a foreign partnership.
+
+The form is divided into several parts:
+
+- Part I: Section 721(c) Property: This section requires the taxpayer to provide information about the property involved in the gain deferral contribution, including the tax year of the contribution, description of the property, recovery period, and whether it is effectively connected income property.
+
+- Part II: Remaining Built-in Gain, Remedial Income, and Gain Recognition: This section tracks the remaining built-in gain at the beginning and end of the tax year, as well as any remedial income allocated to the U.S. transferor and gain recognized due to acceleration events or section 367 transfers.
+
+- Part III: Allocation Percentages of Partnership Items: This section allocates partnership items (income, gain, deduction, and loss) with respect to the Section 721(c) property to the U.S. transferor and related domestic and foreign partners.
+
+- Part IV: Allocation of Items to U.S. Transferor: This section further breaks down the allocation of income, gain, deduction, and loss to the U.S. transferor with respect to the Section 721(c) property.
+
+- Part V: Additional Information: This section asks a series of yes or no questions regarding events or transfers related to the Section 721(c) property. If any of the questions are answered affirmatively, the taxpayer is instructed to complete Schedule H.
+
+- Part VI: Supplemental Information: This section allows the taxpayer to provide any additional information that may be relevant to the gain deferral method application.
+
+The document includes instructions and references to additional forms and resources for further guidance.

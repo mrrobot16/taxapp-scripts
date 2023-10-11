@@ -1,0 +1,855 @@
+SCHEDULE D 
+(Form 1041)
+Department of the Treasury  
+Internal Revenue Service
+Capital Gains and Losses
+Attach to Form 1041, Form 5227, or Form 990-T. 
+Use Form 8949 to list your transactions for lines 1b, 2, 3, 8b, 9, and 10.
+Go to www.irs.gov/F1041 for instructions and the latest information.
+OMB No. 1545-0092
+2022
+Name of estate or trust 
+Employer identification number 
+Did you dispose of any investment(s) in a qualified opportunity fund during the tax year? .
+.
+.
+.
+.
+.
+.
+ 
+If “Yes,” attach Form 8949 and see its instructions for additional requirements for reporting your gain or loss.
+Yes
+No
+Note: Form 5227 filers need to complete only Parts I and II. 
+Part I 
+Short-Term Capital Gains and Losses—Generally Assets Held 1 Year or Less (see instructions) 
+See instructions for how to figure the amounts to enter on the 
+lines below. 
+This form may be easier to complete if you round off cents to 
+whole dollars.
+(d)  
+Proceeds  
+(sales price) 
+(e)  
+Cost  
+(or other basis) 
+(g)  
+Adjustments  
+ to gain or loss from   
+Form(s) 8949, Part I,   
+line 2, column (g)
+(h) Gain or (loss) 
+Subtract column (e)     
+from column (d) and 
+combine the result with 
+column (g) 
+1a Totals for all short-term transactions reported on Form 
+1099-B for which basis was reported to the IRS and for 
+which you have no adjustments (see instructions). 
+However, if you choose to report all these transactions 
+on Form 8949, leave this line blank and go to line 1b .
+1b Totals for all transactions reported on Form(s) 8949 with 
+Box A checked 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 Totals for all transactions reported on Form(s) 8949 with 
+Box B checked 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 Totals for all transactions reported on Form(s) 8949 with 
+Box C checked 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Short-term capital gain or (loss) from Forms 4684, 6252, 6781, and 8824 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Net short-term gain or (loss) from partnerships, S corporations, and other estates or trusts .
+.
+.
+.
+5
+6
+Short-term capital loss carryover. Enter the amount, if any, from line 9 of the 2021 Capital Loss 
+Carryover Worksheet .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+(                             )
+7
+Net short-term capital gain or (loss). Combine lines 1a through 6 in column (h). Enter here and on
+Part III, line 17, column (3)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+7
+Part II
+Long-Term Capital Gains and Losses—Generally Assets Held More Than 1 Year (see instructions) 
+See instructions for how to figure the amounts to enter on the 
+lines below. 
+This form may be easier to complete if you round off cents to 
+whole dollars.
+(d)  
+Proceeds  
+(sales price) 
+(e)  
+Cost  
+(or other basis) 
+(g)  
+Adjustments  
+ to gain or loss from   
+Form(s) 8949, Part II,  
+line 2, column (g)
+(h) Gain or (loss) 
+Subtract column (e)     
+from column (d) and 
+combine the result with 
+column (g) 
+8a Totals for all long-term transactions reported on Form 
+1099-B for which basis was reported to the IRS and for 
+which you have no adjustments (see instructions). 
+However, if you choose to report all these transactions 
+on Form 8949, leave this line blank and go to line 8b .
+8b Totals for all transactions reported on Form(s) 8949 with 
+Box D checked 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 Totals for all transactions reported on Form(s) 8949 with 
+Box E checked 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 Totals for all transactions reported on Form(s) 8949 with 
+Box F checked.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Long-term capital gain or (loss) from Forms 2439, 4684, 6252, 6781, and 8824 .
+.
+.
+.
+.
+.
+.
+.  
+11
+12
+Net long-term gain or (loss) from partnerships, S corporations, and other estates or trusts .
+.
+.
+.
+12
+13
+Capital gain distributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14 
+Gain from Form 4797, Part I .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15
+Long-term capital loss carryover. Enter the amount, if any, from line 14 of the 2021 Capital Loss 
+Carryover Worksheet .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+(                             )
+16
+Net long-term capital gain or (loss). Combine lines 8a through 15 in column (h). Enter here and on
+Part III, line 18a, column (3) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+16
+For Paperwork Reduction Act Notice, see the Instructions for Form 1041. 
+Cat. No. 11376V 
+Schedule D (Form 1041) 2022
+Schedule D (Form 1041) 2022
+Page  2 
+Part III 
+Summary of Parts I and II   
+Caution: Read the instructions before completing this part.   
+(1) Beneficiaries’  
+(see instr.)     
+(2) Estate’s   
+or trust’s     
+(3) Total     
+17 
+Net short-term gain or (loss) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18
+Net long-term gain or (loss): 
+a Total for year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18a 
+b Unrecaptured section 1250 gain (see line 18 of the worksheet) 
+.
+.
+18b 
+c 28% rate gain 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18c 
+19 
+Total net gain or (loss). Combine lines 17 and 18a .
+.
+.
+.
+.
+ 19 
+Note: If line 19, column (3), is a net gain, enter the gain on Form 1041, line 4 (or Schedule A (Form 990-T), Part I, line 4a). If lines 18a and 19, column (2), 
+are net gains, go to Part V, and don’t complete Part IV. If line 19, column (3), is a net loss, complete Part IV and the Capital Loss Carryover 
+Worksheet, as necessary. 
+Part IV 
+Capital Loss Limitation 
+20
+Enter here and enter as a (loss) on Form 1041, line 4 (or Schedule A (Form 990-T), Part I, line 4c, if a 
+trust), the smaller of: 
+a The loss on line 19, column (3) or b $3,000 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 (                          )
+Note: If the loss on line 19, column (3), is more than $3,000, or if Form 1041, page 1, line 23 (or Form 990-T, Part I, line 11), is a loss, complete the 
+Capital Loss Carryover Worksheet in the instructions to figure your capital loss carryover. 
+Part V 
+Tax Computation Using Maximum Capital Gains Rates 
+Form 1041 filers. Complete this part only if both lines 18a and 19 in column (2) are gains, or an amount is entered in Part I or Part II and there is an 
+entry on Form 1041, line 2b(2), and Form 1041, line 23, is more than zero. 
+Caution: Skip this part and complete the Schedule D Tax Worksheet in the instructions if: 
+•  Either line 18b, col. (2), or line 18c, col. (2), is more than zero, or 
+•  Both Form 1041, line 2b(1), and Form 4952, line 4g, are more than zero, or 
+•  There are amounts on lines 4e and 4g of Form 4952.
+Form 990-T trusts. Complete this part only if both lines 18a and 19 are gains, or qualified dividends are included in income in Part I of Form 990-T, 
+and Form 990-T, Part I, line 11, is more than zero. Skip this part and complete the Schedule D Tax Worksheet in the instructions if either line 18b, col. 
+(2), or line 18c, col. (2), is more than zero. 
+21
+Enter taxable income from Form 1041, line 23 (or Form 990-T, Part I, line 11)  
+21 
+22 
+Enter the smaller of line 18a or 19 in column (2) but not 
+less than zero 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+23 
+ 
+Enter the estate’s or trust’s qualified dividends from 
+Form 1041, line 2b(2) (or enter the qualified dividends 
+included in income in Part I of Form 990-T) .
+.
+.
+.
+23
+24
+Add lines 22 and 23 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+25 
+If the estate or trust is filing Form 4952, enter the 
+amount from line 4g; otherwise, enter -0- 
+.
+.
+.
+.  
+25 
+26 
+Subtract line 25 from line 24. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+26 
+27 
+Subtract line 26 from line 21. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+27 
+28 
+Enter the smaller of the amount on line 21 or $2,800 
+.
+.
+.
+.
+.
+.
+.
+.
+28 
+29 
+Enter the smaller of the amount on line 27 or line 28 
+.
+.
+.
+.
+.
+.
+.
+.
+29 
+30
+Subtract line 29 from line 28. If zero or less, enter -0-. This amount is taxed at 0% .
+.
+.
+.
+.
+.
+.  
+30
+31
+Enter the smaller of line 21 or line 26 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+31
+32
+Subtract line 30 from line 26 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+32
+33
+Enter the smaller of line 21 or $13,700 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33
+34
+Add lines 27 and 30 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+34 
+35
+Subtract line 34 from line 33. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+35 
+36 
+Enter the smaller of line 32 or line 35 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+36 
+37
+Multiply line 36 by 15% (0.15) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+37 
+38
+Enter the amount from line 31 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+38 
+39
+Add lines 30 and 36 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+39 
+40
+Subtract line 39 from line 38. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+40
+41
+Multiply line 40 by 20% (0.20) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+41
+42 
+Figure the tax on the amount on line 27. Use the 2022 Tax Rate Schedule for Estates 
+and Trusts (see the Schedule G instructions in the Instructions for Form 1041) .
+.
+42
+43
+Add lines 37, 41, and 42 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+43
+44 
+Figure the tax on the amount on line 21. Use the 2022 Tax Rate Schedule for Estates 
+and Trusts (see the Schedule G instructions in the Instructions for Form 1041) .
+.
+44
+45 
+Tax on all taxable income. Enter the smaller of line 43 or line 44 here and on Form 1041, Schedule G, 
+Part I, line 1a (or Form 990-T, Part II, line 2) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+45
+Schedule D (Form 1041) 2022 

@@ -1,0 +1,13 @@
+Form 990-BL is an information and initial excise tax return for Black Lung Benefit Trusts and certain related persons. It is used by organizations that qualify under section 501(c)(21) of the Internal Revenue Code to report their revenue, expenses, and balance sheets.
+
+The form includes several sections where the organization must provide information about their revenue and expenses, including contributions received, investment income, and other payments made for the benefit of eligible coal miners. The organization must also provide information about their assets and liabilities at the beginning and end of the year.
+
+There is a questionnaire section where the organization must answer yes or no to specific questions related to changes in their governing instrument, taxes on self-dealing, and taxes on taxable expenditures. If the organization answers yes to any of these questions, they must provide additional information on Schedule A.
+
+The form also includes a section for the organization to provide a statement with respect to contributors, which is not open for public inspection.
+
+Finally, there is a section for the organization to summarize the taxes due on self-dealing and taxable expenditures.
+
+The form must be signed by an officer or trustee of the organization and includes a declaration of preparer. The form also includes sections for the preparer's information, including their name, signature, and PTIN.
+
+Overall, Form 990-BL is used by Black Lung Benefit Trusts and certain related persons to report their financial information and calculate any excise taxes they may owe.

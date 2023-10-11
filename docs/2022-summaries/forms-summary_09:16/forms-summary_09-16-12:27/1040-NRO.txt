@@ -1,0 +1,11 @@
+Schedule OI (Form 1040-NR) is a document provided by the Internal Revenue Service (IRS) for taxpayers to provide additional information regarding their tax situation. It is to be attached to Form 1040-NR, which is used by nonresident aliens to file their U.S. income tax return.
+
+The Schedule OI form consists of several sections with questions related to the taxpayer's citizenship, residence, immigration status, and presence in the United States during the tax year. It also asks about the taxpayer's filing history, ownership of a trust, receipt of high compensation, and any income exempt from tax under a U.S. income tax treaty.
+
+The form provides checkboxes for the taxpayer to indicate their answers to each question and additional space for them to provide necessary details or attachments, if required.
+
+Taxpayers are instructed to answer all the questions on the form accurately and to refer to the IRS website for the latest instructions and information regarding Form 1040-NR.
+
+The form includes an OMB control number and a sequence number for administrative purposes. It also includes a notice about the Paperwork Reduction Act, which informs taxpayers about the legal requirement to provide the requested information and the potential penalties for non-compliance.
+
+Overall, Schedule OI (Form 1040-NR) is a supplementary document that helps the IRS gather specific information from nonresident alien taxpayers to ensure accurate and complete reporting of their tax obligations in the United States.

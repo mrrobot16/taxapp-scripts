@@ -1,0 +1,11 @@
+Form 1065 is a U.S. Return of Partnership Income form used by partnerships to report their income, deductions, and other relevant information to the Internal Revenue Service (IRS). The form is divided into several sections and schedules that require the partnership to provide details about their business activities, assets, liabilities, income, deductions, and partners.
+
+The form begins with basic information about the partnership, such as its name, address, business activity, and employer identification number. The partnership is also required to indicate whether this is an initial return, final return, or an amended return, and provide information about any changes in name or address.
+
+The income section of the form requires the partnership to report its gross receipts or sales, returns and allowances, cost of goods sold, and other income or losses from various sources. Deductions are also reported, including salaries and wages, guaranteed payments to partners, repairs and maintenance expenses, interest expenses, and other deductions.
+
+Partners are required to report their distributive share of the partnership's income, losses, and other items on Schedule K. This includes ordinary business income, rental income, interest income, dividends, capital gains, and other items. The partnership is also required to provide information about its balance sheet, including assets, liabilities, and partners' capital accounts.
+
+The form also includes schedules for reporting other information, such as the type of entity filing the return, ownership interests in the partnership, international tax items, and other relevant details.
+
+Partnerships must accurately complete and file Form 1065 to fulfill their tax obligations and provide the IRS with the necessary information to assess their tax liability.

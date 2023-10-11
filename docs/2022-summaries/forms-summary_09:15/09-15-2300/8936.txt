@@ -1,0 +1,15 @@
+Form 8936 is a document provided by the Internal Revenue Service (IRS) for individuals to claim the Qualified Plug-in Electric Drive Motor Vehicle Credit. This credit applies to qualified plug-in electric drive motor vehicles placed in service before 2023, qualified two-wheeled plug-in electric vehicles acquired before but placed in service in 2022, and new clean vehicles placed in service after 2022.
+
+The form is divided into three parts. Part I is for calculating the tentative credit for each vehicle. Part II is for individuals who used their vehicle for business or investment purposes, and Part III is for calculating the credit for personal use of the vehicle.
+
+The form requires individuals to provide information such as the year, make, and model of the vehicle, vehicle identification number, date the vehicle was placed in service, cost of the vehicle (for two-wheeled vehicles), phase-out percentage, and business/investment use percentage.
+
+Based on the provided information, individuals can calculate the tentative credit for each vehicle, taking into account factors such as the phase-out percentage and business/investment use percentage.
+
+Part II is only applicable for individuals who used their vehicle for business or investment purposes. It involves calculations related to the Section 179 expense deduction and determining the maximum credit per vehicle.
+
+Part III is for calculating the credit for personal use of the vehicle. Individuals can calculate the personal use part of the credit based on the information provided in Part I and Part II.
+
+The form also includes instructions and references to additional forms and schedules that may be required for reporting the credit.
+
+It is important for individuals to consult the latest instructions and information provided by the IRS for accurate reporting and calculation of the Qualified Plug-in Electric Drive Motor Vehicle Credit.

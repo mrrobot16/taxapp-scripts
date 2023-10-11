@@ -1,0 +1,9 @@
+Schedule R (Form 943) is an allocation schedule for aggregate Form 943 filers. It is used by employers to allocate wages and taxes to their clients or customers. The form requires the employer to provide their employer identification number (EIN), name as shown on Form 943, and indicate the type of filer (Section 3504 Agent, CPEO, or Other Third Party). The form is completed for a specific calendar year.
+
+The form consists of multiple sections, each with several lines for entering different amounts related to wages and taxes. The employer must complete a separate line for each client or customer and provide their EIN. For CPEOs, there is an additional field to indicate the type of wages. The employer must enter amounts from specific lines on Form 943, such as line 1, line 2, line 4, line 6, and line 8. There are also fields for entering amounts from other lines on Form 943, such as line 12a, lines 12b and 14d (total), line 12d and 14f (total), lines 12e and 14g (total), line 12f, line 13, and line 14a.
+
+The form includes subtotals for clients, which are calculated by adding up the amounts entered on the corresponding lines for each client. These subtotals are then included on Schedule R, Page 1, line 7. There are also sections reserved for future use, indicated by letters such as L, R, T, X, and Y.
+
+The form includes a continuation sheet for employers who need additional space to enter information for their clients. The continuation sheet follows the same format as the main form, with fields for entering the client's EIN and various amounts.
+
+Overall, Schedule R (Form 943) is a detailed form that helps employers allocate wages and taxes to their clients or customers. It requires careful completion and adherence to the instructions provided.

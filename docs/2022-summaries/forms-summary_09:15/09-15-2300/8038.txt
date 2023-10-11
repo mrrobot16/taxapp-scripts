@@ -1,0 +1,17 @@
+Form 8038 is an information return used for reporting tax-exempt private activity bond issues. The form is used by issuers to provide details about the bond issue, including the issuer's name, employer identification number, and contact information. 
+
+Part II of the form requires the issuer to specify the type of issue and provide the issue price. There are various types of issues listed, such as exempt facility bonds, qualified residential rental projects, and qualified public educational facility bonds.
+
+Part IV asks for information about the uses of the bond proceeds, including accrued interest, bond issuance costs, credit enhancement, and refunding of prior bonds.
+
+Part V is used to describe the property financed by the bond proceeds, such as land, buildings, equipment, and other types of property.
+
+If the bond issue includes refunding bonds, Part VI requires details about the refunded bonds, including the remaining weighted average maturity and the date of issuance.
+
+Other sections of the form cover miscellaneous information, such as the approval of the issue by governmental units, election to pay a penalty in lieu of arbitrage rebate, and the establishment of procedures to ensure compliance with tax regulations.
+
+The form also includes sections for volume caps, where the issuer can provide information about the allocation of state volume caps and exemptions from volume limitations.
+
+The form must be signed by the issuer's authorized representative and includes a consent for the IRS to disclose the issuer's return information to authorized individuals.
+
+This summary provides an overview of the sections and information required on Form 8038. For more detailed instructions and the latest information, it is recommended to refer to the official IRS instructions for the form.

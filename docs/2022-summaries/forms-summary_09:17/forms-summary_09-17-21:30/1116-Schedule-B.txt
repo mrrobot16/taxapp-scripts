@@ -1,0 +1,9 @@
+Schedule B (Form 1116) is a document provided by the Internal Revenue Service (IRS) for taxpayers to reconcile their foreign tax carryover amounts. It is used in conjunction with Form 1116, which is used to claim a foreign tax credit.
+
+The Schedule B form includes various boxes that taxpayers must check based on the category of income for which they are claiming the foreign tax credit. These categories include foreign branch category income, passive category income, general category income, Section 901(j) income, certain income re-sourced by treaty, and lump-sum distributions.
+
+The form also includes spaces to enter the foreign tax carryover amounts from the 10th preceding tax year through the current tax year. Taxpayers must adjust these amounts for any carryback adjustments or adjustments for section 905(c) redeterminations. The adjusted foreign tax carryover amount is then used to determine the foreign tax carryover used in the current tax year, the foreign tax carryover expired unused in the current tax year, and the foreign tax carryover generated in the current tax year.
+
+Finally, taxpayers must enter the actual or estimated amount of the foreign tax carryover to be carried back to the prior tax year, if applicable. The total foreign tax carryover amount is then calculated by combining the adjusted carryover amount with the amounts used, expired unused, and generated in the current tax year.
+
+Taxpayers are required to complete a separate Schedule B (Form 1116) for each applicable category of income and attach it to their Form 1116. The form provides instructions and additional information on how to complete it correctly.

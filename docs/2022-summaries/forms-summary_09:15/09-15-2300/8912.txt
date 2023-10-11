@@ -1,0 +1,13 @@
+Form 8912 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim credits for tax credit bonds. The form is divided into several parts.
+
+Part I is for reporting the current year credit. It includes lines for entering the bond credits from Part III and Part IV of the form, as well as any carryforward of credits from previous years.
+
+Part II is for determining the allowable credit. It includes lines for entering the regular tax before credits, alternative minimum tax, foreign tax credit, certain allowable credits, and general business credit. The net income tax is then calculated by subtracting line 10e from line 9.
+
+Part III is for reporting bond credits received from Form 1097-BTC. Taxpayers are instructed to enter the name of the issuer, identifying number, and amount reported on Form 1097-BTC.
+
+Part IV is for reporting bond credits from bonds held by the taxpayer or their nominee that were not reported on Form 1097-BTC. Taxpayers are instructed to enter the bond issuer's name, city or town, state, employer identification number, dates of issuance and maturity, and the CUSIP number or principal payment dates. The outstanding bond principal, credit rate, and resulting credit amount are also entered.
+
+The form includes instructions for reporting the credit amount on the appropriate line of the taxpayer's tax return, such as Schedule 3 for individuals, Schedule J for corporations, or Schedule G for estates and trusts.
+
+Overall, Form 8912 is used to calculate and claim credits for tax credit bonds and requires taxpayers to provide information about the bonds and credits received.

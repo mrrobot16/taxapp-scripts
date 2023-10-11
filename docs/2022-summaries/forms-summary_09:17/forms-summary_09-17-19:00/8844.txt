@@ -1,0 +1,11 @@
+Form 8844 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Empowerment Zone Employment Credit. This credit is applicable to businesses located in designated empowerment zones that hire employees residing in those zones. 
+
+The form requires the taxpayer to enter the total qualified empowerment zone wages paid or incurred during the current year. This amount is then multiplied by 20% to calculate the credit. 
+
+Partnerships, S corporations, cooperatives, estates, and trusts may have additional adjustments to make to the credit, which are explained in the instructions. 
+
+The form also includes a section for cooperatives, estates, and trusts to report the credit allocated to their patrons or beneficiaries. 
+
+Finally, the form instructs partnerships and S corporations to report the credit amount on Schedule K, while all others are instructed to report it on Form 3800, Part III, line 3. 
+
+Taxpayers can find detailed instructions and the latest information on Form 8844 on the IRS website at www.irs.gov/Form8844.

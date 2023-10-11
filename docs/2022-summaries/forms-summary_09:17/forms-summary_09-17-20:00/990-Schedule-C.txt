@@ -1,0 +1,828 @@
+SCHEDULE C 
+(Form 990)
+Department of the Treasury 
+Internal Revenue Service
+Political Campaign and Lobbying Activities
+For Organizations Exempt From Income Tax Under section 501(c) and section 527
+Complete if the organization is described below.       Attach to Form 990 or Form 990-EZ.  
+Go to www.irs.gov/Form990 for instructions and the latest information.
+OMB No. 1545-0047
+2022
+Open to Public 
+Inspection
+If the organization answered “Yes,” on Form 990, Part IV, line 3, or Form 990-EZ, Part V, line 46 (Political Campaign Activities), then
+•  Section 501(c)(3) organizations: Complete Parts I-A and B. Do not complete Part I-C.
+•  Section 501(c) (other than section 501(c)(3)) organizations: Complete Parts I-A and C below. Do not complete Part I-B.
+•  Section 527 organizations: Complete Part I-A only.
+If the organization answered “Yes,” on Form 990, Part IV, line 4, or Form 990-EZ, Part VI, line 47 (Lobbying Activities), then
+•  Section 501(c)(3) organizations that have filed Form 5768 (election under section 501(h)): Complete Part II-A. Do not complete Part II-B.
+•  Section 501(c)(3) organizations that have NOT filed Form 5768 (election under section 501(h)): Complete Part II-B. Do not complete Part II-A.
+If the organization answered “Yes,” on Form 990, Part IV, line 5 (Proxy Tax) (See separate instructions) or Form 990-EZ, Part V, line 35c (Proxy 
+Tax) (See separate instructions), then
+•  Section 501(c)(4), (5), or (6) organizations: Complete Part III.
+Name of organization
+Employer identification number
+Part I-A
+Complete if the organization is exempt under section 501(c) or is a section 527 organization.
+1 
+Provide a description of the organization’s direct and indirect political campaign activities in Part IV. See instructions for 
+definition of “political campaign activities.”
+2 
+Political campaign activity expenditures. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$ 
+3 
+Volunteer hours for political campaign activities. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Part I-B
+Complete if the organization is exempt under section 501(c)(3).
+1 
+Enter the amount of any excise tax incurred by the organization under section 4955
+.
+.
+.
+.
+.  $ 
+2 
+Enter the amount of any excise tax incurred by organization managers under section 4955 .
+.
+.
+$ 
+3 
+If the organization incurred a section 4955 tax, did it file Form 4720 for this year? .
+.
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+4a Was a correction made? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+b If “Yes,” describe in Part IV.
+Part I-C
+Complete if the organization is exempt under section 501(c), except section 501(c)(3).
+1 
+Enter the amount directly expended by the filing organization for section 527 exempt function
+activities .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  $ 
+2 
+Enter the amount of the filing organization’s funds contributed to other organizations for section 
+527 exempt function activities .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  $ 
+3 
+Total exempt function expenditures. Add lines 1 and 2. Enter here and on Form 1120-POL, 
+line 17b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$ 
+4 
+Did the filing organization file Form 1120-POL for this year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+5 
+ 
+ 
+ 
+Enter the names, addresses and employer identification number (EIN) of all section 527 political organizations to which the filing 
+organization made payments. For each organization listed, enter the amount paid from the filing organization’s funds. Also enter 
+the amount of political contributions received that were promptly and directly delivered to a separate political organization, such 
+as a separate segregated fund or a political action committee (PAC). If additional space is needed, provide information in Part IV.
+(a) Name
+(b) Address
+(c) EIN
+(d) Amount paid from 
+ filing organization’s 
+  funds. If none, enter -0-.
+(e) Amount of political 
+contributions received and 
+promptly and directly 
+delivered to a separate 
+political organization. 
+If none, enter -0-.
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+For Paperwork Reduction Act Notice, see the Instructions for Form 990 or 990-EZ.
+Cat. No. 50084S
+Schedule C (Form 990) 2022
+Schedule C (Form 990) 2022
+Page 2
+Part II-A
+Complete if the organization is exempt under section 501(c)(3) and filed Form 5768 (election under 
+section 501(h)).
+A Check  
+if the filing organization belongs to an affiliated group (and list in Part IV each affiliated group member’s name, address, 
+EIN, expenses, and share of excess lobbying expenditures).
+B Check 
+if the filing organization checked box A and “limited control” provisions apply.
+Limits on Lobbying Expenditures  
+(The term “expenditures” means amounts paid or incurred.)
+(a) Filing 
+organization’s totals
+(b) Affiliated 
+ group totals
+1 a
+Total lobbying expenditures to influence public opinion (grassroots lobbying) 
+.
+.
+.
+.
+b Total lobbying expenditures to influence a legislative body (direct lobbying) .
+.
+.
+.
+.
+c Total lobbying expenditures (add lines 1a and 1b) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+d Other exempt purpose expenditures .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+e Total exempt purpose expenditures (add lines 1c and 1d) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+f 
+Lobbying nontaxable amount. Enter the amount from the following table in both
+columns.
+If the amount on line 1e, column (a) or (b) is: 
+The lobbying nontaxable amount is:
+Not over $500,000
+20% of the amount on line 1e.
+Over $500,000 but not over $1,000,000
+$100,000 plus 15% of the excess over $500,000.
+Over $1,000,000 but not over $1,500,000
+$175,000 plus 10% of the excess over $1,000,000.
+Over $1,500,000 but not over $17,000,000
+$225,000 plus 5% of the excess over $1,500,000.
+Over $17,000,000
+$1,000,000.
+g Grassroots nontaxable amount (enter 25% of line 1f) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+h Subtract line 1g from line 1a. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+i 
+Subtract line 1f from line 1c. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+j 
+If there is an amount other than zero on either line 1h or line 1i, did the organization file Form 4720 
+reporting  section 4911 tax for this year? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+4-Year Averaging Period Under Section 501(h) 
+ (Some organizations that made a section 501(h) election do not have to complete all of the five columns below. 
+ See the separate instructions for lines 2a through 2f.) 
+Lobbying Expenditures During 4-Year Averaging Period
+Calendar year (or fiscal year 
+beginning in)
+(a) 2019
+(b) 2020
+(c) 2021
+(d) 2022
+(e) Total
+2a
+Lobbying nontaxable amount
+b 
+ 
+Lobbying ceiling amount  
+(150% of line 2a, column (e))
+c Total lobbying expenditures
+d Grassroots nontaxable amount
+e 
+ 
+Grassroots ceiling amount 
+(150% of line 2d, column (e))
+f 
+Grassroots lobbying expenditures
+Schedule C (Form 990) 2022
+Schedule C (Form 990) 2022
+Page 3
+Part II-B
+Complete if the organization is exempt under section 501(c)(3) and has NOT filed Form 5768 
+(election under section 501(h)).
+For each “Yes” response on lines 1a through 1i below, provide in Part IV a detailed 
+description of the lobbying activity.
+(a)
+(b)
+Yes
+No
+Amount
+1 
+ 
+During the year, did the filing organization attempt to influence foreign, national, state, or local 
+legislation, including any attempt to influence public opinion on a legislative matter or 
+referendum, through the use of:
+a Volunteers? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Paid staff or management (include compensation in expenses reported on lines 1c through 1i)?
+c Media advertisements? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+d Mailings to members, legislators, or the public? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+e Publications, or published or broadcast statements? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+f 
+Grants to other organizations for lobbying purposes? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+g Direct contact with legislators, their staffs, government officials, or a legislative body? 
+.
+.
+.
+h Rallies, demonstrations, seminars, conventions, speeches, lectures, or any similar means? .
+.
+i 
+Other activities? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+j 
+Total. Add lines 1c through 1i .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 a Did the activities in line 1 cause the organization to be not described in section 501(c)(3)? 
+.
+.
+b If “Yes,” enter the amount of any tax incurred under section 4912 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c If “Yes,” enter the amount of any tax incurred by organization managers under section 4912 
+.
+d If the filing organization incurred a section 4912 tax, did it file Form 4720 for this year? 
+.
+.
+.
+Part III-A
+Complete if the organization is exempt under section 501(c)(4), section 501(c)(5), or section 
+501(c)(6).
+Yes
+No
+1 
+Were substantially all (90% or more) dues received nondeductible by members? .
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Did the organization make only in-house lobbying expenditures of $2,000 or less? .
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Did the organization agree to carry over lobbying and political campaign activity expenditures from the prior year?
+3 
+Part III-B
+Complete if the organization is exempt under section 501(c)(4), section 501(c)(5), or section 
+501(c)(6) and if either (a) BOTH Part III-A, lines 1 and 2, are answered “No” OR (b) Part III-A, line 3, is 
+answered “Yes.”
+1 
+Dues, assessments and similar amounts from members 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Section 162(e) nondeductible lobbying and political expenditures (do not include amounts of 
+political  expenses for which the section 527(f) tax was paid).
+a Current year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b Carryover from last year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c 
+3 
+Aggregate amount reported in section 6033(e)(1)(A) notices of nondeductible section 162(e) dues .
+.
+3 
+4 
+ 
+If notices were sent and the amount on line 2c exceeds the amount on line 3, what portion of the
+excess does the organization agree to carryover to the reasonable estimate of nondeductible lobbying 
+and political expenditures next year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Taxable amount of lobbying and political expenditures. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+Part IV
+Supplemental Information
+Provide the descriptions required for Part I-A, line 1; Part I-B, line 4; Part I-C, line 5; Part II-A (affiliated group list); Part II-A, lines 1 and  
+2 (See instructions); and Part II-B, line 1. Also, complete this part for any additional information.
+Schedule C (Form 990) 2022
+Schedule C (Form 990) 2022
+Page 4
+Part IV
+Supplemental Information (continued)
+Schedule C (Form 990) 2022

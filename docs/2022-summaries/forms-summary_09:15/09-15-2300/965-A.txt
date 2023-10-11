@@ -1,0 +1,11 @@
+Form 965-A is a document used by taxpayers to report their net 965 tax liability and make elections regarding the payment of this liability. The form consists of several parts.
+
+Part I requires the taxpayer to report their net 965 tax liability for each taxable year. It includes columns for the year of the Section 965 inclusion, liability assumed, or liability triggering event, the taxpayer's net tax liability with and without 965 amounts, and the net 965 tax liability (the difference between the two). It also includes columns for S Corporation shareholder total deferred net 965 tax liability and the net 965 tax liability eligible for installment payment election.
+
+Part II is a record of the amount of net 965 tax liability paid by the taxpayer for each year. It includes columns for the year of the Section 965 inclusion, liability assumed, or triggering event, and columns for the amount paid for each year. It also includes a column for the net 965 tax liability remaining unpaid.
+
+Part III is specific to S Corporation shareholders and requires them to report the calculation of their net 965 tax liability related to 965 amounts allocated from an S Corporation. It includes columns for the year of the 965(a) inclusion, the S Corporation name and tax identification number, the taxpayer's net tax liability with and without 965 amounts from the S Corporation, and the net 965 tax liability related to 965 amounts from the S Corporation. It also includes a column for the deferral election made and the deferred net 965 tax liability.
+
+Part IV is an annual report of the deferred net 965 tax liability related to 965 amounts allocated from S Corporations. It includes columns for the election or transfer year, the S Corporation name and tax identification number, the beginning deferred net 965 tax liability, the net 965 tax liability triggered, the deferred 965 net tax liability transferred in or out by agreement, and the tax identification number of the transferee or transferor. It also includes a column for the deferred net tax liability at the end of the reporting year.
+
+The form includes instructions and a website where taxpayers can find more information.

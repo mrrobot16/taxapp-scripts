@@ -1,0 +1,11 @@
+Schedule M-3 is a form that corporations with total assets of $10 million or more must attach to their Form 1120 or 1120-C when filing their tax return. The form is used to reconcile the corporation's net income (loss) per its financial statements with its taxable income per its tax return.
+
+The form is divided into three parts. Part I requires the corporation to provide financial information and reconcile its net income (loss) per its income statement with its net income (loss) per its books and records. The corporation must also indicate if it filed an SEC Form 10-K and whether its income statement has been restated.
+
+Part II focuses on the reconciliation of net income (loss) per the income statement of includible corporations with taxable income per the tax return. The form requires the corporation to provide detailed information on various income (loss) items and their differences between the income statement and tax return.
+
+Part III deals with the reconciliation of expense/deduction items between the income statement and tax return. The corporation must provide information on various expense (deduction) items and their differences between the income statement and tax return.
+
+The form also includes sections for the corporation to enter the total amount of assets and liabilities of entities included or removed, as well as information on consolidated groups, parent corporations, subsidiary corporations, and sub-consolidated groups.
+
+It is important for the corporation to accurately complete Schedule M-3 to ensure that the net income (loss) per the income statement reconciles with the taxable income per the tax return.

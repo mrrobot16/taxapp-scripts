@@ -1,0 +1,11 @@
+The Schedule SE (Form 1040) is a document used by self-employed individuals in the United States to calculate their self-employment tax. It is to be attached to Form 1040, 1040-SR, or 1040-NR. The form includes two parts.
+
+Part I is for calculating the self-employment tax. It provides instructions for individuals who are ministers, members of a religious order, or Christian Science practitioners and have $400 or more of net earnings from self-employment. It also includes lines for reporting net farm profit or loss, net profit or loss from non-farm self-employment, and the calculation of the self-employment tax.
+
+Part II provides optional methods for figuring net earnings for individuals engaged in farming or non-farm self-employment. The farm optional method can be used if the individual's gross farm income is not more than $9,060 or their net farm profits are less than $6,540. The nonfarm optional method can be used if the individual's net nonfarm profits are less than $6,540 and also less than 72.189% of their gross nonfarm income. There are specific calculations and limitations outlined in this section.
+
+The form also includes spaces for entering personal information such as the name and social security number of the individual with self-employment income. It provides instructions for reporting church employee income and includes lines for entering specific amounts related to social security retirement or disability benefits, Conservation Reserve Program payments, and wages subject to social security tax.
+
+Once all calculations are completed, the form provides the final self-employment tax amount, which is to be entered on Schedule 2 (Form 1040), line 4. It also includes a deduction for one-half of the self-employment tax, which is to be entered on Schedule 1 (Form 1040), line 15.
+
+Overall, the Schedule SE is a comprehensive form that self-employed individuals use to calculate their self-employment tax liability and report their income and deductions related to self-employment.

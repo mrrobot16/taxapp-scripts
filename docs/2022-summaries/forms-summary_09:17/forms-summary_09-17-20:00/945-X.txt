@@ -1,0 +1,146 @@
+Form   945-X:
+(Rev. February 2014)
+Adjusted Annual Return of Withheld Federal Income Tax or Claim for Refund
+Department of the Treasury — Internal Revenue Service
+OMB No. 1545-1430
+Employer identification number 
+(EIN)
+—
+Name (not your trade name)
+Trade name (if any)
+Address
+Number                    Street                                                                            Suite or room number
+City
+State
+ZIP code
+Foreign country name
+Foreign province/county
+Foreign postal code
+Return You Are Correcting ...
+Enter the calendar year of the return  
+you are correcting: 
+(YYYY) 
+Enter the date you discovered errors:
+(MM / DD / YYYY) 
+Read the separate instructions before you complete this form. Use this form to correct administrative errors made on Form 945, 
+Annual Return of Withheld Federal Income Tax. Use a separate Form 945-X for each year that needs correction. Type or print within 
+the boxes. You MUST complete both pages. Do not attach this form to Form 945. 
+ Select ONLY one process. 
+Part 1:
+1.
+Adjusted return of withheld federal income tax. Check this box if you underreported amounts. Also check this box if you overreported 
+amounts and you would like to use the adjustment process to correct the errors. You must check this box if you are correcting both 
+underreported and overreported amounts on this form. The amount shown on line 5, if less than zero, may only be applied as a credit to 
+your Form 945 for the tax period in which you are filing this form. 
+2.
+Claim. Check this box if you overreported amounts only and you would like to use the claim process to ask for a refund or abatement of 
+the amount shown on line 5. Do not check this box if you are correcting ANY underreported amounts on this form. 
+Enter the corrections for the calendar year you are correcting. If any line does not apply, leave it blank. 
+Part 2:
+Column 1 
+Total corrected  
+amount   
+(for ALL payees) 
+— 
+Column 2 
+Amount originally  
+reported or as  
+previously corrected  
+(for ALL payees) 
+= 
+Column 3 
+Difference   
+(If this amount is a  
+negative number,  use 
+a minus sign.) 
+3.
+Federal income tax withheld 
+(Form 945, line 1) 
+.
+.
+.
+ 
+. 
+— 
+. 
+= 
+. 
+4.
+Backup withholding   
+(Form 945, line 2) 
+.
+.
+.
+. 
+— 
+. 
+= 
+. 
+5. Total. Combine the amounts in lines 3 and 4 of Column 3 .
+.
+.
+.
+.
+.
+.
+.
+. 
+If line 5 is less than zero: 
+• If you checked line 1, this is the amount you want applied as a credit to your Form 945 for the tax period in which you are   
+   filing this form. 
+• If you checked line 2, this is the amount you want refunded or abated. 
+If line 5 is more than zero, this is the amount you owe. Pay this amount when you file this return. For information on how to 
+pay, see Amount You Owe in the instructions for line 5. 
+Next ■▶
+For Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 20336X
+Form 945-X (Rev. 2-2014) 
+IRS.gov/form945x
+Name (not your trade name) 
+Employer identification number (EIN) 
+Calendar Year (YYYY) 
+Explain your corrections for the calendar year you are correcting. 
+Part 3:
+6.
+Check here if any corrections you entered on a line include both underreported and overreported amounts.  
+Explain both your underreported and overreported amounts on line 7. 
+7.
+You must give us a detailed explanation of how you determined your corrections. See the separate instructions. 
+Sign here. You must complete both pages of this form and sign it. 
+Part 4:
+Under penalties of perjury, I declare that I have filed an original Form 945 and that I have examined this adjusted return or claim and any schedules or  
+statements that are attached, and to the best of my knowledge and belief, they are true, correct, and complete. Declaration of preparer (other than 
+taxpayer) is based on all information of which preparer has any knowledge. 
+✗
+Sign your 
+name here
+Date
+Print your 
+name here
+Print your 
+title here
+Best daytime phone
+Paid Preparer Use Only 
+Check if you are self-employed 
+.
+.
+.
+.
+.
+.
+.
+.
+Preparer’s name 
+Preparer’s signature 
+Firm’s name (or yours if  
+self-employed) 
+Address 
+City 
+State 
+PTIN 
+Date 
+EIN 
+Phone 
+ZIP code 
+Page 2
+Form 945-X (Rev. 2-2014)

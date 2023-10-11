@@ -1,0 +1,137 @@
+Attention: 
+You may file Forms W-2 and W-3 electronically on the SSA’s Employer 
+W-2 Filing Instructions and Information web page, which is also accessible 
+at www.socialsecurity.gov/employer.  You can create fill-in versions of 
+Forms W-2 and W-3 for filing with SSA. You may also print out copies for 
+filing with state or local governments, distribution to your employees, and 
+for your records.
+Note: Copy A of this form is provided for informational purposes only. Copy A appears in 
+red, similar to the official IRS form. The official printed version of this IRS form is scannable, 
+but the online version of it, printed from this website, is not. Do not print and file Copy A 
+downloaded from this website with the SSA; a penalty may be imposed for filing forms that 
+can’t be scanned. See the penalties section in the current General Instructions for Forms 
+W-2 and W-3, available at www.irs.gov/w2, for more information.
+Please note that Copy B and other copies of this form, which appear in black, may be 
+downloaded, filled in, and printed and used to satisfy the requirement to provide the 
+information to the recipient.
+To order official IRS information returns such as Forms W-2 and W-3, which include a 
+scannable Copy A for filing, go to IRS’ Online Ordering for Information Returns and 
+Employer Returns page, or visit www.irs.gov/orderforms and click on Employer and 
+Information returns. We’ll mail you the scannable forms and any other products you order.
+See IRS Publications 1141, 1167, and 1179 for more information about printing these tax 
+forms.
+  
+DO NOT STAPLE
+33333
+a   Control number
+For Official Use Only:  
+OMB No. 1545-0008
+b  
+Kind of Payer 
+(Check one)
+941
+Military
+943
+944
+CT-1
+Hshld. 
+emp.
+Medicare 
+govt. emp.
+ 
+Kind of Employer 
+(Check one)
+None apply
+501c non-govt.
+State/local 
+non-501c
+State/local 501c
+Federal govt.
+Third-party 
+sick pay     
+(Check if 
+applicable) 
+c Total number of Forms W-2
+d Establishment number
+e Employer identification number (EIN)
+f  Employer’s name
+g Employer’s address and ZIP code
+h Other EIN used this year
+1 Wages, tips, other compensation
+2 Federal income tax withheld
+3 Social security wages
+4 Social security tax withheld
+5 Medicare wages and tips
+6 Medicare tax withheld
+7 Social security tips
+8 Allocated tips
+9
+10 Dependent care benefits
+11 Nonqualified plans
+12a Deferred compensation
+12b
+13 For third-party sick pay use only
+14 Income tax withheld by payer of third-party sick pay
+15 State  
+Employer’s state ID number
+16 State wages, tips, etc.
+17 State income tax
+18 Local wages, tips, etc.
+19 Local income tax
+Employer’s contact person
+Employer’s telephone number
+For Official Use Only
+Employer’s fax number
+Employer’s email address
+Under penalties of perjury, I declare that I have examined this return and accompanying documents, and, to the best of my knowledge and belief, they are true, correct, and 
+complete.
+Signature:
+Title:
+Date:
+Form W-3 Transmittal of Wage and Tax Statements
+2023
+Department of the Treasury 
+Internal Revenue Service
+Send this entire page with the entire Copy A page of Form(s) W-2 to the Social Security Administration (SSA).  
+Photocopies are not acceptable. Do not send Form W-3 if you filed electronically with the SSA. 
+Do not send any payment (cash, checks, money orders, etc.) with Forms W-2 and W-3.
+Reminder
+Separate instructions. See the 2023 General Instructions for Forms 
+W-2 and W-3 for information on completing this form. Do not file Form 
+W-3 for Form(s) W-2 that were submitted electronically to the SSA.
+Purpose of Form
+Complete a Form W-3 transmittal only when filing paper Copy A of 
+Form(s) W-2, Wage and Tax Statement. Don’t file Form W-3 alone. All 
+paper forms must comply with IRS standards and be machine readable. 
+Photocopies are not acceptable. Use a Form W-3 even if only one 
+paper Form W-2 is being filed. Make sure both the Form W-3 and 
+Form(s) W-2 show the correct tax year and employer identification 
+number (EIN). Make a copy of this form and keep it with Copy D (For 
+Employer) of Form(s) W-2 for your records. The IRS recommends 
+retaining copies of these forms for 4 years.
+E-Filing
+The SSA strongly suggests employers report Form W-3 and Forms W-2 
+Copy A electronically instead of on paper. The SSA provides two free   
+e-filing options on its Business Services Online (BSO) website.
+• W-2 Online. Use fill-in forms to create, save, print, and submit up to 
+50 Forms W-2 at a time to the SSA.
+• File Upload. Upload wage files to the SSA you have created using 
+payroll or tax software that formats the files according to the SSA’s 
+Specifications for Filing Forms W-2 Electronically (EFW2).
+W-2 Online fill-in forms or file uploads will be on time if submitted by 
+January 31, 2024. For more information, go to www.SSA.gov/bso. First-
+time filers, select “Register”; returning filers, select “Log In.”
+When To File Paper Forms
+Mail Form W-3 with Copy A of Form(s) W-2 by January 31, 2024.
+Where To File Paper Forms
+Send this entire page with the entire Copy A page of Form(s) W-2 to:
+Social Security Administration  
+Direct Operations Center  
+Wilkes-Barre, PA 18769-0001
+Note: If you use “Certified Mail” to file, change the ZIP code to 
+“18769-0002.” If you use an IRS-approved private delivery service, add 
+“ATTN: W-2 Process, 1150 E. Mountain Dr.” to the address and change 
+the ZIP code to “18702-7997.” See Pub. 15 (Circular E), Employer’s Tax 
+Guide, for a list of IRS-approved private delivery services.
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 10159Y

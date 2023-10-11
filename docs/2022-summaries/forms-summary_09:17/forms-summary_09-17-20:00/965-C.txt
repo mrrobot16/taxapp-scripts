@@ -1,0 +1,332 @@
+Form  965-C
+(December 2019)
+Department of the Treasury 
+Internal Revenue Service
+Transfer Agreement Under Section 965(h)(3)
+▶ Go to www.irs.gov/Form965C for instructions and the latest information.
+OMB No. 1545-0123
+File in Duplicate 
+(see When and Where To File 
+in the separate instructions)
+Part I 
+Transferor Information
+Name of eligible section 965(h) transferor (see instructions for definition)
+Taxpayer identification number
+Address (number, street, room, suite, or P.O. box number)
+City or town, state or province, country, and ZIP or foreign postal code
+Part II 
+Transferee Information
+Name of eligible section 965(h) transferee (see instructions for definition)
+Taxpayer identification number
+Address (number, street, room, suite, or P.O. box number)
+City or town, state or province, country, and ZIP or foreign postal code
+Part III 
+Acceleration Event
+1
+Select the acceleration event leading to this transfer agreement:
+a 
+A liquidation, sale, exchange, or other disposition of substantially all of the assets of the transferor (other 
+than by reason of death)
+(1) Did the transferee acquire substantially all of the transferor’s assets? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+(2) Is the acceleration event a qualifying consolidated group member transaction? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+(3) If the event is a qualifying consolidated group member transaction, is the transferee the departing member 
+or a qualified successor? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+b
+Transferor became a member of a consolidated group
+c 
+Transferor is a consolidated group that ceased to exist or otherwise discontinued filing a consolidated
+return resulting from (check the box below that applies)
+(1) 
+Acquisition of a consolidated group in which the acquired consolidated group members joined a 
+different consolidated group as of the day following the acquisition
+If the box on line 1c(1) is checked, is the transferee the agent (within the meaning of Regulations section
+1.1502‐77) of the consolidated group? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+(2) 
+Consolidated group ceasing to exist due to the transfer of the assets of one or more members to other 
+members with one entity (the successor entity) remaining
+If the box on line 1c(2) is checked, is the transferee the successor entity? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+(3) 
+ 
+ 
+Consolidated group ceasing to exist due to the termination of the subchapter S election (pursuant to 
+section 1362(d)) of a shareholder of the common parent of the group, and, for the shareholder’s tax 
+year immediately following the termination, the shareholder joins in the filing of a consolidated return as 
+a consolidated group that includes all of the members of the former consolidated group.
+If the box on line 1c(3) is checked, is the transferee the agent of the consolidated group that the
+shareholder whose subchapter S election was terminated and all of the members of the former 
+consolidated group joined?  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+2
+Enter the date of the acceleration event .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+3
+Provide a detailed description of the acceleration event:
+Part IV 
+Report of Unpaid Section 965(h) Net Tax Liability Being Assumed
+4
+Enter the amount of the transferor’s section 965(h) net tax liability remaining unpaid (see instructions) 
+$
+5
+Enter the date on which the next installment payment is due .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part V 
+Transferee’s Ability to Pay Remaining Liability
+6 
+Is the transferee able to make the remaining payments required under section 965(h) with respect to the
+section 965(h) net tax liability being assumed? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+7
+Does the transferee’s leverage ratio exceed 3:1? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+8
+Provide any additional information pertaining to the transferee’s ability to pay:
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 72022G
+Form 965-C (12-2019)
+Form 965-C (12-2019)
+Page 2
+Part VI 
+Terms of Agreement
+By signing this transfer agreement, you agree to the following:
+• This document constitutes an agreement by the transferee to assume the liability of the transferor for any unpaid installment 
+payments of the transferor under section 965(h).
+• The transferee and the transferor (if it continues to exist immediately after the acceleration event) agree to comply with all of the 
+conditions and requirements of section 965(h) and Regulations section 1.965-7(b), as well as any other applicable requirements of 
+the regulations under section 965.
+• If the transferor continues to exist immediately after the acceleration event, the transferor and any successor to the transferor will 
+remain jointly and severally liable for any unpaid installment payments of the transferor under section 965(h), including, if applicable, 
+under Regulations section 1.1502-6.
+• If the Commissioner requests additional information (for example, additional information regarding the ability of the transferee to 
+fully pay the remaining section 965(h) net tax liability), the transferee will provide such information.
+• If the Commissioner determines, at the time of submission or such later date until the section 965(h) net tax liability has been fully 
+paid, that this transfer agreement contains a material misrepresentation or material omission, or if the transferee does not provide 
+the additional information requested by the Commissioner within a reasonable timeframe communicated by the Commissioner to 
+the transferee, the Commissioner may reject the transfer agreement effective as of the date of the related acceleration event or, in 
+the alternative, on the date the Commissioner determines that this transfer agreement includes a material misrepresentation or 
+material omission.
+• If the Commissioner rejects the transfer agreement, at the time of submission or such later date, any unpaid installment payments 
+of the transferor assumed by the transferee become due and payable on the date of rejection. 
+• The transferee waives the right to a notice of liability and consents to the immediate assessment of the portion of the transferor’s 
+section 965(h) net tax liability remaining unpaid, as shown in Part IV. The transferee understands that by signing this agreement, the 
+transferee will not be able to contest this liability in Tax Court, except as additional transferee or fiduciary liability is determined for 
+this year.
+Transferor Signature
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this form, and to the best of my knowledge and belief, Parts I, III and IV are true, correct and 
+complete. I certify that I have the authority to execute this transfer agreement for the eligible section 965(h) transferor reported in Part I.
+▲
+Signature
+▲
+Date
+Print name
+Print title
+Email address
+Daytime phone
+Transferee Signature
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this form, and to the best of my knowledge and belief, Parts II, III, IV, and V are true, correct and 
+complete. I certify that I have the authority to execute this transfer agreement for the eligible section 965(h) transferee reported in Part II.
+▲
+Signature
+▲
+Date
+Print Name
+Print title
+Email address
+Daytime phone
+If either the transferor or the transferee is a corporation, the agreement must be signed with the corporate name, followed by the 
+signature and title of the officer authorized to sign.
+Form 965-C (12-2019)

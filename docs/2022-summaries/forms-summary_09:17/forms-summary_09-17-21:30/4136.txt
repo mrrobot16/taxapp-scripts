@@ -1,0 +1,7 @@
+Form 4136 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim a credit for federal tax paid on fuels. The form includes various sections for different types of fuel and their respective rates, gallons used, amount of credit, and credit reference numbers (CRN). 
+
+The form covers nontaxable uses of gasoline, nontaxable uses of aviation gasoline, nontaxable uses of undyed diesel fuel, nontaxable uses of undyed kerosene (other than kerosene used in aviation), kerosene used in aviation, sales by registered ultimate vendors of undyed diesel fuel, sales by registered ultimate vendors of undyed kerosene (other than kerosene for use in aviation), sales by registered ultimate vendors of kerosene for use in aviation, biodiesel, renewable diesel, or sustainable aviation fuel mixture credit, nontaxable use of alternative fuel, alternative fuel credit, registered credit card issuers, nontaxable use of a diesel-water fuel emulsion, diesel-water fuel emulsion blending, and exported dyed fuels and exported gasoline blendstocks.
+
+Taxpayers must provide the necessary information for each section, including the type of use, rate, gallons, amount of credit, and CRN. The form also includes cautions and exceptions related to certain claims, such as providing certificates or explanations for specific types of use.
+
+The total income tax credit claimed is calculated by adding the amounts from all the sections and is reported on the appropriate line of the taxpayer's tax return.

@@ -1,0 +1,9 @@
+Form 3800 is a document issued by the Internal Revenue Service (IRS) for taxpayers to claim the General Business Credit on their tax return. The form consists of three parts.
+
+Part I of the form is for calculating the current year credit for credits not allowed against the Tentative Minimum Tax (TMT). Taxpayers must complete Part III before filling out Part I and II. This section requires the taxpayer to enter the general business credit and passive activity credits from all Parts III with the corresponding boxes checked. It also includes fields for the carryforward and carryback of general business credit to and from the following year.
+
+Part II of the form calculates the allowable credit based on the regular tax before credits and the alternative minimum tax. It includes fields for various tax forms such as Form 1040, Form 1120, and Form 1041, depending on the taxpayer's filing status.
+
+Part III of the form is divided into different sections for different types of business credits, such as investment credits, research activities credits, low-income housing credits, and more. Taxpayers must complete a separate Part III for each type of credit they are claiming.
+
+Overall, Form 3800 is a comprehensive form that helps taxpayers calculate and claim the General Business Credit on their tax return. It requires taxpayers to provide detailed information about their credits and calculate the allowable credit based on their tax situation.

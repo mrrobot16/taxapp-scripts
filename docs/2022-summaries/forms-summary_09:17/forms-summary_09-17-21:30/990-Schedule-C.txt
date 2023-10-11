@@ -1,0 +1,21 @@
+Schedule C is a form provided by the Internal Revenue Service (IRS) for organizations exempt from income tax under section 501(c) and section 527 of the tax code. It is to be completed and attached to Form 990 or Form 990-EZ. The form is used to report political campaign and lobbying activities.
+
+The form consists of several parts that need to be completed based on the organization's tax-exempt status and its activities. 
+
+Part I-A is to be completed by organizations exempt under section 501(c) or section 527. It requires a description of the organization's direct and indirect political campaign activities, as well as the expenditures and volunteer hours related to those activities.
+
+Part I-B is to be completed by organizations exempt under section 501(c)(3). It requires information on any excise tax incurred by the organization or its managers under section 4955. It also asks whether the organization filed Form 4720 for the tax year and if any corrections were made.
+
+Part I-C is to be completed by organizations exempt under section 501(c), except section 501(c)(3). It requires information on the organization's expenditures for section 527 exempt function activities and funds contributed to other organizations for the same purpose. It also asks whether the organization filed Form 1120-POL for the tax year.
+
+Part II-A is to be completed by organizations exempt under section 501(c)(3) that have filed Form 5768 (election under section 501(h)). It includes information on lobbying expenditures and provides a table for calculating the lobbying nontaxable amount.
+
+Part II-B is to be completed by organizations exempt under section 501(c)(3) that have not filed Form 5768. It asks about the organization's lobbying activities and whether they caused the organization to be not described in section 501(c)(3). It also asks about any taxes incurred under section 4912 and whether Form 4720 was filed.
+
+Part III-A is to be completed by organizations exempt under section 501(c)(4), section 501(c)(5), or section 501(c)(6). It asks about dues received from members and in-house lobbying expenditures.
+
+Part III-B is to be completed if certain conditions are met based on the answers in Part III-A. It asks for information on dues, assessments, and similar amounts from members, as well as section 162(e) nondeductible lobbying and political expenditures.
+
+Part IV is for providing supplemental information, including descriptions required for various parts of the form.
+
+Overall, Schedule C is a detailed form that helps organizations report their political campaign and lobbying activities to the IRS. It ensures compliance with tax regulations and provides transparency regarding these activities.

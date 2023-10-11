@@ -1,0 +1,125 @@
+Form   4506-A
+(November 2021)
+Department of the Treasury  
+Internal Revenue Service 
+Request for a Copy of Exempt or Political Organization 
+IRS Form
+▶  Type or print clearly. Request may be rejected if the form is incomplete or illegible.
+▶  Information about Form 4506-A and its separate instructions is at www.irs.gov/form4506ab.
+OMB No. 1545-0495
+You may not have to complete Form 4506-A to get the copies you need. 
+•    The following returns can be found online: Form 8871 and Form 8872 at www.irs.gov/polorgs; Form 990, Form 990-EZ, Form 990-PF and 
+Form 990-T at Tax Exempt Organization Search (TEOS) www.irs.gov/teos.
+•   Public disclosure by the organization. Exempt or political organizations must make their returns, reports, notices, and exempt applications 
+available for public inspection. You can visit the organization to inspect the material instead of requesting it from the IRS. The organization may be 
+able to provide copies to you. 
+•     Form 990-N (e-Postcard) annual electronic notice is available for inspection at www.irs.gov/teos.
+•     Machine Readable Data: E-filed Forms 990, 990-EZ and 990-PF are available at www.irs.gov/teos (see instructions).
+1 Exempt or political organization. Complete a separate Form 4506-A for each organization.
+Name 
+Employer identification number 
+Address 
+City or town, state or province, country, and ZIP or foreign postal code 
+2 Requester.
+Name 
+Address 
+City or town, state or province, country, and ZIP or foreign postal code 
+Contact person 
+Phone 
+Date 
+3 Category of requester:  
+You must check a box. 
+Commercial user 
+Non-commercial scientific institution 
+Media 
+Name of media outlet 
+Educational institution 
+All others 
+4 Reason for request. All requesters, except commercial users, must provide an explanation of how the records will be used to avoid being 
+charged the commercial rate. Attach additional sheets if necessary. 
+Lines 5–8. For each applicable form, check the box(es) for the item(s) you are requesting. You may request more than one form. For each form 
+requested, complete either the paper or USB and enter the specific tax year(s), as indicated. If ordering a partial set in USB or Sample USB, indicate 
+the state(s), and month(s) requested. If you check “other” you must indicate the specific form(s) you are requesting on the line provided. See 
+instructions for more information.  
+Note. USB and Sample USB are not available for individual exempt organizations. Sample USB requests are not available for individual states.
+5 
+Form 990, Form 990-EZ: 
+a
+Paper request 
+Tax year(s) or period(s) requested: 
+YYYYMM
+;
+YYYYMM
+;
+YYYYMM
+b
+USB request: 
+Yearly
+Sample
+State(s):
+; 
+; 
+Calendar year(s): 
+; 
+; 
+6 
+Form 990-PF: 
+a
+Paper request
+Tax year(s) or period(s) requested: 
+YYYYMM
+;
+YYYYMM
+;
+YYYYMM
+b
+USB request:  
+Yearly
+Sample
+State(s):
+; 
+; 
+Calendar year(s): 
+; 
+; 
+7 
+Form 990-T (501(c)(3) organizations filed after August 17, 2006): 
+a
+Paper request
+Tax year(s) or period(s) requested: 
+YYYYMM
+;
+YYYYMM
+;
+YYYYMM
+b
+USB request: 
+Yearly
+Sample
+State(s):
+; 
+; 
+Calendar year(s): 
+; 
+; 
+8 
+Form 5227 (for tax years beginning after December 31, 2006): 
+a
+Paper request 
+Tax year(s) or period(s) requested: 
+YYYYMM
+;
+YYYYMM
+;
+YYYYMM
+b
+Other form(s) 
+Tax year(s) or period(s) requested:
+YYYYMM
+;
+YYYYMM
+;
+YYYYMM
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions. 
+Catalog Number 41722P
+Form 4506-A (Rev. 11-2021) 

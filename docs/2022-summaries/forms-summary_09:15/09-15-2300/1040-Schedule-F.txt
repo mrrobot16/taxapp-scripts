@@ -1,0 +1,13 @@
+Schedule F (Form 1040) is a document used to report profit or loss from farming activities. It is attached to Form 1040, Form 1040-SR, Form 1040-NR, Form 1041, or Form 1065. The form requires the taxpayer to provide information such as their name, social security number, principal crop or activity, accounting method (cash or accrual), employer ID number, and whether they materially participated in the business.
+
+The form also asks whether the taxpayer made any payments in 2022 that would require them to file Form(s) 1099, and if so, whether they filed the required forms. 
+
+Part I of the form is for reporting farm income using the cash method. It includes sections for reporting sales of purchased livestock and other resale items, sales of livestock, produce, grains, and other products raised, cooperative distributions, agricultural program payments, Commodity Credit Corporation (CCC) loans, crop insurance proceeds, federal crop disaster payments, custom hire (machine work) income, and other income.
+
+Part II is for reporting farm expenses using both the cash and accrual methods. It includes sections for reporting car and truck expenses, chemicals, conservation expenses, custom hire (machine work), depreciation and section 179 expense, employee benefit programs, feed, fertilizers and lime, freight and trucking, gasoline, fuel, and oil, insurance, interest, labor hired, pension and profit-sharing plans, rent or lease, repairs and maintenance, seeds and plants, storage and warehousing, supplies, taxes, utilities, and veterinary, breeding, and medicine expenses.
+
+Part III is for reporting farm income using the accrual method. It includes sections for reporting sales of livestock, produce, grains, and other products, cooperative distributions, agricultural program payments, CCC loans, crop insurance proceeds, custom hire (machine work) income, and other income. It also requires the taxpayer to report the inventory of livestock, produce, grains, and other products at the beginning and end of the year, as well as the cost of livestock, produce, grains, and other products purchased and sold during the year.
+
+Part IV provides a list of principal agricultural activity codes that classify farms by their primary activity. Taxpayers are instructed to select the code that best identifies their primary farming activity and enter the six-digit number on line B.
+
+The form includes additional instructions and information that can be found on the IRS website.

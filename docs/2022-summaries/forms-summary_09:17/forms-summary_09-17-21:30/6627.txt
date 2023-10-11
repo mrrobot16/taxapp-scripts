@@ -1,0 +1,17 @@
+Form 6627 is a document provided by the Internal Revenue Service (IRS) for reporting and calculating environmental taxes. The form is to be attached to Form 720, and it includes several parts for different types of taxes.
+
+Part I of the form focuses on the tax on petroleum. It requires the taxpayer to provide information on the barrels of crude oil received at a U.S. refinery, crude oil taxed before receipt at the refinery, and taxable crude oil. The form provides columns to enter the rate and calculate the tax for each line.
+
+Part II of the form pertains to the tax on chemicals (excluding ozone-depleting chemicals). It lists various chemicals along with their general formulas or symbols, tons used, rates, and the corresponding taxes to be calculated.
+
+Part III of the form is for the tax on imported chemical substances. It requires information on imported chemical substances, the taxable chemical used in the manufacture of the substance, conversion factors or entry values, rates, and taxes to be calculated.
+
+Part IV of the form addresses the tax on ozone-depleting chemicals (ODCs). It provides options for elections related to reporting the tax on post-1989 ODCs and post-1990 ODCs. The form includes columns for ODCs, the number of pounds, tax per pound, and the corresponding taxes to be calculated.
+
+Part V of the form focuses on the ODC tax on imported products. It requires information on imported products, the applicable ODC, the number of products, ODC weight of the product, tax per pound, entry value, and the corresponding taxes to be calculated.
+
+Part VI of the form pertains to the tax on floor stocks of ODCs. It requires information on ODCs, the number of pounds, tax per pound, and the corresponding taxes to be calculated.
+
+The form provides spaces to enter the total taxes for each part, which are then to be transferred to Form 720 for reporting purposes.
+
+Overall, Form 6627 is a comprehensive document that assists taxpayers in calculating and reporting various environmental taxes related to petroleum, chemicals, imported chemical substances, ozone-depleting chemicals, imported products, and floor stocks of ODCs.

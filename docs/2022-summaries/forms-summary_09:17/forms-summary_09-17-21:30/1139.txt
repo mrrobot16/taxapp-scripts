@@ -1,0 +1,11 @@
+Form 1139 is an application form used by corporations in the United States to apply for a tentative refund of taxes. The form is filed separately from the corporation's income tax return and is used when the corporation has experienced a net operating loss (NOL), net capital loss, unused general business credit, or other applicable reasons for filing.
+
+The form requires the corporation to provide information such as their name, employer identification number, date of incorporation, address, and phone number. The corporation must also indicate the reason for filing and attach any necessary computations.
+
+Additional sections of the form ask for details regarding the tax year of the loss or credit, whether a loss resulted in the release of a foreign tax credit, if a consolidated return was filed or if the corporation joined a consolidated group, and if an extension of time was granted for filing the return.
+
+The form also includes sections for the corporation to indicate if they have filed a petition in Tax Court, if any part of the decrease in tax is due to a reportable transaction, and to provide a computation of the decrease in tax for the applicable tax years.
+
+Finally, the form includes sections to calculate the corporation's taxable income, deductions, credits, and total tax liability. The corporation must sign the form under penalties of perjury, declaring that the information provided is true, correct, and complete.
+
+The form includes instructions and a website link for additional guidance and the latest information.

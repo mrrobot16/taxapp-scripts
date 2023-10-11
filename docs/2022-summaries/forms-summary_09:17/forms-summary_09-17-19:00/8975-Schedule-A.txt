@@ -1,0 +1,11 @@
+The document is a form called Schedule A (Form 8975) provided by the Internal Revenue Service (IRS) of the Department of the Treasury in the United States. The form is used for reporting tax jurisdiction and constituent entity information for multinational enterprise groups. 
+
+The form requires separate completion for each tax jurisdiction of the multinational enterprise group. It includes two parts: Part I for tax jurisdiction information and Part II for constituent entity information. 
+
+In Part I, financial amounts must be stated in U.S. dollars, and information such as revenues, profit (loss) before income tax, income tax paid, income tax accrued in the current year, stated capital, accumulated earnings, number of employees, and tangible assets other than cash and cash equivalents must be provided. 
+
+Part II requires information on constituent entities resident in the tax jurisdiction, including entity role, tax identification number (TIN), tax jurisdiction of organization or incorporation if different from the tax jurisdiction of residence, and main business activities. 
+
+Part III is for any additional information related to the information reported in Parts I and II. 
+
+The form provides a website for instructions and the latest information, and it includes a Paperwork Reduction Act Notice.

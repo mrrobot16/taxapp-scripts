@@ -1,0 +1,849 @@
+Form 1120-ND
+(Rev. October 2013)
+Department of the Treasury  
+Internal Revenue Service 
+Return for Nuclear Decommissioning Funds and 
+Certain Related Persons 
+▶ Information about Form 1120-ND and its separate instructions is at www.irs.gov/form1120nd.
+OMB No. 1545-0954
+For calendar year 20
+, or fiscal year beginning
+, 20
+, and ending
+, 20
+Please Type or Print 
+Name of fund
+Name of trustee or disqualified person (complete if filing to report section 4951 taxes)
+Address of filer. Number, street, and room or suite no. If a P.O. box, see instructions.
+City or town, state or province, country, ZIP or foreign postal code
+A    Employer identification number of fund 
+      (see instructions)
+B    Identifying number of trustee or  
+      disqualified person (see instructions)
+C  Return filed for (see Specific Instructions, check applicable box): 
+Fund
+Trustee 
+Disqualified person
+D  Check applicable boxes: 
+(1) 
+Final return 
+(2) 
+Name change 
+(3) 
+Address change 
+(4) 
+Amended return 
+E  The books are in care of ▶
+Phone no. ▶
+Located at ▶
+Part I—Computation of Fund Income Tax 
+Income 
+1 
+Taxable interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Capital gain net income (attach Schedule D (Form 1120)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+2 
+3 
+Other income (attach schedule) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+3 
+4 
+Gross income. Add lines 1 through 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+4 
+Deductions 
+5 
+Trustees fees 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+5 
+6 
+Taxes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+6 
+7 
+Accounting and legal services .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+7 
+8 
+Other deductions (attach schedule) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+8 
+9 
+Total deductions. Add lines 5 through 8 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+9 
+10 
+Modified gross income before net operating loss deduction. Subtract line 9 from line 4 .
+ 
+10 
+11 
+Net operating loss deduction (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+11 
+Tax and Payments 
+12 
+Modified gross income. Subtract line 11 from line 10 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+12 
+13 
+Total tax. Multiply line 12 by 20% 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+13 
+14 
+Payments: 
+a Overpayment from prior year 
+allowed as a credit 
+.
+.
+.  
+14a 
+b Current year estimated tax 
+payments 
+.
+.
+.
+.
+.
+.  
+14b 
+c Refund applied for on Form 
+4466 .
+.
+.
+.
+.
+.
+.
+.  
+14c (
+)
+d Subtract line 14c from the total of lines 14a and 14b 
+.
+.
+.
+ 
+14d 
+e Tax deposited with Form 7004 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+14e 
+f 
+Total payments. Add lines 14d and 14e .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+14f 
+15 
+Estimated tax penalty. Check if Form 2220 is attached          .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Tax due. If line 14f is smaller than the total of lines 13 and 15, enter amount owed 
+.
+.
+16 
+17 
+Overpayment. If line 14f is larger than the total of lines 13 and 15, enter amount overpaid 
+17 
+18 
+Enter amount of line 17 you want: Credited to next year’s estimated tax ▶
+Refunded ▶
+18 
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true, 
+correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+▲
+Signature of officer
+Date
+▲
+Title
+May the IRS discuss this return with 
+the preparer shown below (see 
+instructions)?
+Yes
+ No 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name     ▶
+Firm’s address ▶
+Firm's EIN ▶
+Phone no. 
+For Paperwork Reduction and Privacy Act Notice, see separate instructions.
+Cat. No. 11507K
+Form 1120-ND (Rev. 10-2013)
+Form 1120-ND (Rev. 10-2013) 
+Page 2 
+Schedule L 
+Balance Sheets 
+(a) Beginning of year 
+(b) End of year 
+Assets 
+1 
+Cash 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+1 
+2 
+Certificates of deposit .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+U.S. government obligations 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+State and local government obligations .
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Other assets (attach schedule) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+5 
+6 
+Total assets. Add lines 1 through 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Liabilities and Fund Balance 
+7 
+Liabilities .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+7 
+8 
+Fund balance 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+8 
+9 
+Total liabilities and fund balance. Add lines 7 and 8 .
+.
+.
+.  
+9 
+Schedule M 
+Other Information 
+Yes No
+1a Enter name of the electing taxpayer ▶
+b Enter the employer identification number of the electing taxpayer ▶
+2 a Enter the amount of contributions the fund received during the year under section 468A(a) .  ▶
+$ 
+b Enter the ruling amount for the tax year under section 468A(d)(2) 
+.
+.
+.
+.
+.
+.
+.  ▶
+$ 
+c 
+Enter the amount of distributions includible in income by the electing taxpayer under section 468A(c)(1)  ▶
+$ 
+d Enter the amount of tax-exempt interest received or accrued for the year .
+.
+.
+.
+.  ▶
+$ 
+3 
+During the year were any contributions received other than cash payments deductible by the electing taxpayer under section 468A? 
+4 
+During the year were fund assets used for any purpose other than paying the fund’s administrative or incidental 
+expenses (including taxes), for making investments, or for direct or indirect payment of decommissioning costs  of
+a nuclear power plant owned or leased by the electing taxpayer? If “Yes,” attach an explanation .
+.
+.
+.
+.
+.
+5 
+Self-dealing (see instructions): 
+a Has the fund engaged in any of the following acts during the year, either directly or indirectly, with one or more 
+disqualified persons? 
+(i) Sale, exchange, or leasing of property 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(ii) Borrowing or lending of money or other extension of credit .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(iii) Furnishing of goods, services, or facilities 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(iv) Payment of compensation (or payment or reimbursement of expenses) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(v) Transfer to, or use by or for the benefit of, a disqualified person of any part of the fund’s income or assets .
+b If any of lines 5a(i) through 5a(v) are answered “Yes,” were all of the acts self-dealing exceptions? (see inst.) .
+.  
+c If the answer to line 5b is “No,” attach a schedule listing the act; the date of the act; and the name, address,  and 
+identifying number of each trustee and/or disqualified person who engaged in the act. 
+d Has any self-dealer or trustee taken any action to “correct” any act of self-dealing? See instructions for the 
+definition of “correct.” .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach complete details of the corrective action. Also explain any uncorrected acts. 
+Part II—Initial Taxes on Self-Dealing (Section 4951)  
+ Section A.—Acts of Self-Dealing and Tax Computation 
+(a)  Act number 
+(b)  Date of act 
+(c)  Description of act 
+1 
+2 
+(d)  Names of disqualified persons liable for tax 
+(e)  Names of trustees liable for tax 
+(f)  Amount involved in act 
+(g)  Initial tax on self-dealing disqualified person (10% of column (f)) 
+(h)  Tax on trustee (if applicable) (21/2% of column (f)) 
+Total .
+.
+.
+.
+.
+.
+.
+. ▶
+Section B.—Summary of Initial Taxes 
+1 
+Enter section 4951 tax on disqualified person (Section A, column (g)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Enter section 4951 tax on trustee (Section A, column (h)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+2 
+3 
+Total section 4951 taxes (add lines 1 and 2) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Tax paid with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+4 
+5 
+Tax due. Enter the excess, if any, of line 3 over line 4. (Do not enter this amount in Part I.) Pay in
+full with return. (Make check or money order payable to “United States Treasury.”) 
+.
+.
+.
+.
+.
+5 
+6 
+Overpayment. Enter the excess, if any, of line 4 over line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+6 
+Form 1120-ND (Rev. 10-2013)

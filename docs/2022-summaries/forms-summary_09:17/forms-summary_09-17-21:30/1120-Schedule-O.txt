@@ -1,0 +1,13 @@
+Schedule O (Form 1120) is a document provided by the Internal Revenue Service (IRS) for corporations to consent and provide information regarding their apportionment plan as a member of a controlled group. The form is to be attached to Form 1120, 1120-C, 1120-F, 1120-FSC, 1120-L, 1120-PC, 1120-REIT, or 1120-RIC.
+
+Part I of the form requires the corporation to provide information about the type of controlled group they belong to (parent-subsidiary, brother-sister, combined, or life insurance companies only) and the duration of their membership in the group.
+
+Part I also requires the corporation to indicate their consent and representation regarding the apportionment plan. They can choose to adopt a new plan, amend the current plan, terminate the current plan without adopting a new one, or terminate the current plan and adopt a new one. If the corporation chooses to terminate the current plan, they must indicate whether it was elected or required by the component members of the group.
+
+If the corporation did not choose any of the options in line 3, they must indicate whether there is currently no apportionment plan in effect, or if there is already an apportionment plan in effect that was adopted for a previous tax year.
+
+Part I also asks if the group is adopting or amending the plan after the due date of the tax return for the corporation, and if there is at least one year remaining on the statute of limitations for assessing any resulting deficiency.
+
+Part II of the form provides space for the corporation to list the names and employer identification numbers of the group members, their tax year end, and any apportionment information such as accumulated earnings credit, penalty for failure to pay estimated tax, and other relevant details.
+
+The form includes instructions and a notice regarding the Paperwork Reduction Act.

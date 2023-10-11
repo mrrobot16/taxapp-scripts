@@ -1,0 +1,19 @@
+Schedule A (Form 1040) is a document provided by the Internal Revenue Service (IRS) for taxpayers to report their itemized deductions. It is to be attached to Form 1040 or 1040-SR when filing taxes. The document includes various sections for reporting different types of deductions.
+
+The first section, "Medical and Dental Expenses," instructs taxpayers to report their qualifying medical and dental expenses. It cautions against including expenses that have been reimbursed or paid by others.
+
+The second section, "Taxes You Paid," allows taxpayers to report state and local taxes, including income taxes or general sales taxes, real estate taxes, and personal property taxes. There is a limit of $10,000 ($5,000 for married filing separately) for these deductions.
+
+The third section, "Interest You Paid," provides instructions for reporting home mortgage interest and points. It includes a reminder that the deduction for mortgage interest may be limited.
+
+The fourth section, "Investment Interest," instructs taxpayers to attach Form 4952 if required to report investment interest.
+
+The fifth section, "Gifts to Charity," provides instructions for reporting cash or check donations to charitable organizations. It also instructs taxpayers to attach Form 8283 if the total donation amount exceeds $500.
+
+The sixth section, "Casualty and Theft Losses," instructs taxpayers to report any casualty and theft losses from a federally declared disaster, excluding net qualified disaster losses. Taxpayers are required to attach Form 4684 and enter the amount from line 18 of that form.
+
+The seventh section, "Other Itemized Deductions," allows taxpayers to report any other deductible expenses not covered in the previous sections. Taxpayers are instructed to list the type and amount of these deductions.
+
+The document concludes with a section to calculate the total itemized deductions by adding the amounts from lines 4 through 16. The total amount is then entered on Form 1040 or 1040-SR, line 12. There is also an option to check a box if the taxpayer chooses to itemize deductions even if they are less than the standard deduction.
+
+Overall, Schedule A (Form 1040) provides a structured format for taxpayers to report their itemized deductions and claim eligible deductions on their tax return.

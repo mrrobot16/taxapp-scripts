@@ -1,0 +1,11 @@
+Form 8915-C is a tax form issued by the Internal Revenue Service (IRS) for the tax year 2022. It is used to report qualified 2018 disaster retirement plan distributions and repayments. The form is to be attached to Form 1040, 1040-SR, or 1040-NR.
+
+The form consists of two parts. Part I is for reporting qualified 2018 disaster distributions from retirement plans other than IRAs, and Part II is for reporting qualified 2018 disaster distributions from traditional, SEP, SIMPLE, and Roth IRAs.
+
+In Part I, taxpayers are required to enter the amounts from their 2020 and 2021 Form 8915-C, lines 11 and 8 respectively. They also need to subtract the amount from line 3b from line 3a and enter the result on line 4. Additionally, taxpayers need to report any repayments made before filing their 2022 tax return on line 5, and add lines 4 and 5 to get the total on line 6. The amount subject to tax in 2022 is calculated by subtracting line 6 from line 1 and entered on line 7.
+
+In Part II, taxpayers follow a similar process as in Part I. They enter the amounts from their 2020 and 2021 Form 8915-C, lines 27 and 17 respectively. They subtract the amount from line 9b from line 9a and enter the result on line 10a. They report any repayments made before filing their 2022 tax return on line 12, and add lines 11 and 12 to get the total on line 13. The amount subject to tax in 2022 is calculated by subtracting line 13 from line 8 and entered on line 14.
+
+The form includes spaces for the taxpayer's name, social security number, address, and signature. It also includes sections for paid preparer information if applicable.
+
+Taxpayers should refer to the instructions provided on the IRS website for more detailed guidance on completing the form.

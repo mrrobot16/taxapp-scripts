@@ -1,0 +1,13 @@
+Schedule E (Form 1040) is a supplemental form used to report supplemental income and loss from various sources such as rental real estate, royalties, partnerships, S corporations, estates, trusts, and REMICs. The form is attached to Form 1040, 1040-SR, 1040-NR, or 1041.
+
+Part I of the form is used to report income or loss from rental real estate and royalties. It includes sections for reporting payments that require filing Form 1099, the physical address and type of each property, fair rental and personal use days, and income and expenses related to the properties.
+
+Part II is used to report income or loss from partnerships and S corporations. It includes sections for reporting the name, type, and identification number of each partnership or S corporation, as well as passive and nonpassive income and loss.
+
+Part III is used to report income or loss from estates and trusts. It includes sections for reporting the name and identification number of each estate or trust, as well as passive and nonpassive income and loss.
+
+Part IV is used to report income or loss from real estate mortgage investment conduits (REMICs) as a residual holder. It includes sections for reporting the name, identification number, and income from Schedules Q.
+
+Part V is a summary section that calculates the total income or loss from all sources reported on the form.
+
+The form also includes instructions and references to additional forms and resources on the IRS website for further guidance.

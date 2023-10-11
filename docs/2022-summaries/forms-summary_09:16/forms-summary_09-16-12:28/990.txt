@@ -1,0 +1,29 @@
+Form 990 is a document that must be completed by tax-exempt organizations in the United States, such as nonprofits and charities, to report their financial information to the Internal Revenue Service (IRS). The form collects information about the organization's mission, activities, governance, revenue, expenses, assets, liabilities, and net assets or fund balances.
+
+The form is divided into several parts:
+
+Part I: Summary - This section collects basic information about the organization, such as its name, address, and tax-exempt status.
+
+Part II: Signature Block - This section is where the organization's authorized representative signs the form under penalties of perjury, certifying that the information provided is true, correct, and complete.
+
+Part III: Statement of Program Service Accomplishments - This section requires the organization to describe its mission and program services, including any significant changes or new services.
+
+Part IV: Checklist of Required Schedules - This section asks the organization to indicate which additional schedules, if any, are required to be completed and attached to the form.
+
+Part V: Statements Regarding Other IRS Filings and Tax Compliance - This section asks the organization to provide information about other IRS filings and tax compliance, such as Forms W-2G and 1096, backup withholding, and foreign bank accounts.
+
+Part VI: Governance, Management, and Disclosure - This section asks the organization to provide information about its governing body, management, and policies, such as conflict of interest and whistleblower policies.
+
+Part VII: Compensation of Officers, Directors, Trustees, Key Employees, Highest Compensated Employees, and Independent Contractors - This section requires the organization to disclose the compensation of its officers, directors, key employees, and independent contractors.
+
+Part VIII: Statement of Revenue - This section collects information about the organization's revenue, including contributions, program service revenue, investment income, and other revenue.
+
+Part IX: Statement of Functional Expenses - This section collects information about the organization's expenses, categorized by program service expenses, management and general expenses, and fundraising expenses.
+
+Part X: Balance Sheet - This section collects information about the organization's assets, liabilities, and net assets or fund balances.
+
+Part XI: Reconciliation of Net Assets - This section reconciles the organization's revenue, expenses, and net assets or fund balances from the beginning to the end of the year.
+
+Part XII: Financial Statements and Reporting - This section asks the organization to provide information about the preparation, review, and audit of its financial statements.
+
+Overall, Form 990 provides a comprehensive overview of a tax-exempt organization's financial information and helps ensure transparency and accountability in the nonprofit sector.

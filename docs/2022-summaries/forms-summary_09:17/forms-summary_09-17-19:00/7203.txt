@@ -1,0 +1,9 @@
+Form 7203 is a tax form for S corporation shareholders to determine their stock and debt basis limitations. It is used to calculate the shareholder's stock basis and debt basis at the beginning and end of the corporation's tax year. 
+
+The form includes several sections and lines for the shareholder to enter various information, such as the stock basis at the beginning of the tax year, basis from capital contributions or additional stock acquired during the year, and different types of income and deductions that affect the stock and debt basis. 
+
+The form also has sections for the shareholder to report the amount of debt they have and any adjustments to the debt basis, as well as any gain on loan repayment. 
+
+Finally, the form includes a section for the shareholder to report their allowable loss and deduction items, including ordinary business losses, net rental real estate losses, net capital losses, and other deductions. 
+
+Overall, Form 7203 helps S corporation shareholders calculate their stock and debt basis limitations, which are important for determining the tax consequences of certain transactions and activities related to their S corporation shares.

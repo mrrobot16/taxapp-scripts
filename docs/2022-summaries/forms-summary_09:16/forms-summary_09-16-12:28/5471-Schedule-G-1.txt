@@ -1,0 +1,17 @@
+Schedule G-1 (Form 5471) is a document that is attached to Form 5471, which is used to report information about certain foreign corporations. This particular schedule is used to report information related to a Cost Sharing Arrangement (CSA) in which the foreign corporation was a participant during the tax year.
+
+The document begins with general instructions, stating that a separate Schedule G-1 should be completed for each CSA. All amounts should be reported in U.S. dollars. 
+
+The schedule then asks for a brief description of the CSA being reported. It also asks if the foreign corporation became a participant in the CSA during the tax year and if the CSA was in effect before January 5, 2009.
+
+Next, the schedule asks for the foreign corporation's share of reasonably anticipated benefits for the CSA during the tax year, expressed as a percentage.
+
+The schedule then asks if a U.S. taxpayer made any platform contributions to the CSA during the tax year. If yes, the present value of the platform contributions should be entered in U.S. dollars. The schedule also provides a list of methods that can be used to determine the price of the platform contribution transaction(s), and the taxpayer should check the box for the method used.
+
+The schedule also asks for information related to stock-based compensation deductions. The total amount of stock-based compensation deductions claimed by the filer for the tax year should be entered, as well as the total amount of deductions for stock-based compensation that was granted during the term of the CSA and is directly identified with, or reasonably allocable to, the intangible development activity under the CSA.
+
+The schedule also asks if any stock-based compensation was granted during the term of the CSA to individuals who performed functions in business activities that generate cost shared intangibles but were not treated as directly identified with, or reasonably allocable to, the intangible development activity.
+
+Finally, the schedule asks for the total amount of intangible development costs for the CSA for the tax year, as well as the amount of intangible development costs allocable to the foreign corporation based on its reasonably anticipated benefits share.
+
+The document concludes with a reference to the Paperwork Reduction Act Notice and provides the form's catalog number.

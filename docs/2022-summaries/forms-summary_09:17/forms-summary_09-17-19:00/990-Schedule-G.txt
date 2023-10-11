@@ -1,0 +1,11 @@
+Schedule G (Form 990) is a supplemental form that organizations in the United States must complete if they answered "Yes" to certain questions on their Form 990 or Form 990-EZ. It is used to provide additional information regarding fundraising or gaming activities.
+
+Part I of Schedule G is for organizations that answered "Yes" to Form 990, Part IV, line 17, indicating that they engaged in fundraising activities. This section asks organizations to indicate the fundraising activities they used, such as mail solicitations, internet and email solicitations, phone solicitations, in-person solicitations, solicitation of non-government grants, solicitation of government grants, and special fundraising events. If the organization had a written or oral agreement with any individual or entity in connection with professional fundraising services, they must list the 10 highest paid individuals or entities and provide information on their activities and compensation.
+
+Part II of Schedule G is for organizations that answered "Yes" to Form 990, Part IV, line 18, or reported more than $15,000 of fundraising event contributions and gross income on Form 990-EZ, lines 1 and 6b. This section requires organizations to list fundraising events with gross receipts greater than $5,000 and provide information on revenue, direct expenses, cash prizes, noncash prizes, rent/facility costs, food and beverages, entertainment, and other direct expenses.
+
+Part III of Schedule G is for organizations that answered "Yes" to Form 990, Part IV, line 19, or reported more than $15,000 on Form 990-EZ, line 6a, indicating that they engaged in gaming activities. This section asks organizations to provide information on revenue, direct expenses, cash prizes, noncash prizes, rent/facility costs, other direct expenses, volunteer labor, and net gaming income. They must also indicate the state(s) in which the organization conducts gaming activities and whether they are licensed to conduct gaming activities in each state.
+
+Part IV of Schedule G is for organizations to provide supplemental information and explanations required by previous sections of the form, as well as any additional information deemed necessary.
+
+Schedule G (Form 990) is to be attached to the organization's Form 990 or Form 990-EZ.

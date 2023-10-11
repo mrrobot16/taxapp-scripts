@@ -1,0 +1,9 @@
+Schedule A (Form 8992) is a document provided by the Internal Revenue Service (IRS) for the purpose of computing Global Intangible Low-Taxed Income (GILTI) for Controlled Foreign Corporations (CFCs). The form requires the identification of the person filing the schedule and the U.S. shareholder. It includes calculations for net tested income and GILTI allocated to tested income CFCs.
+
+The form provides space to input information for each CFC, including the name, EIN or Reference ID, tested income, tested loss, pro rata share of tested income, pro rata share of tested loss, pro rata share of qualified business asset investment (QBAI), pro rata share of tested loss QBAI amount, pro rata share of tested interest income, pro rata share of tested interest expense, GILTI allocation ratio, and GILTI allocated to tested income CFCs.
+
+The form includes a continuation sheet if additional space is needed. Totals for each column should be included on line 1 of the form.
+
+The form provides a reference to the IRS website for instructions and the latest information on Form 8992.
+
+Please note that this summary is based on the provided document and may not include all details or specific instructions. It is recommended to refer to the official instructions and seek professional advice when completing this form.

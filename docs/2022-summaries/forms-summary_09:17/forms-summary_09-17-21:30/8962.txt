@@ -1,0 +1,15 @@
+Form 8962 is a document issued by the Internal Revenue Service (IRS) that taxpayers must attach to their Form 1040, 1040-SR, or 1040-NR when claiming the Premium Tax Credit (PTC). The form is used to calculate and reconcile the PTC, which is a tax credit designed to help individuals and families afford health insurance premiums.
+
+The form is divided into several parts. In Part I, taxpayers must enter their tax family size, modified adjusted gross income (AGI), dependents' modified AGI, household income, and the federal poverty line amount. These numbers are used to determine eligibility for the PTC.
+
+In Part II, taxpayers must determine whether they need to allocate policy amounts with another taxpayer or use the alternative calculation for the year of marriage. Depending on their circumstances, they may need to skip certain lines and calculations.
+
+In Part III, taxpayers calculate the excess advance payment of the PTC, which is the amount of the PTC that they received in advance but must repay if their actual income is higher than estimated. The form provides a repayment limitation to help determine the amount to be repaid.
+
+Part IV allows taxpayers to allocate policy amounts for up to four policies. They must provide policy numbers, the Social Security Number (SSN) of the other taxpayer, allocation start and stop months, and allocation percentages for premium, second lowest cost silver plan (SLCSP), and advance payment of the PTC.
+
+Part V is for taxpayers who are eligible to use the alternative calculation for the year of marriage. They must provide alternative entries for their SSN and their spouse's SSN, including alternative family size, monthly contribution amount, and start and stop months.
+
+The form concludes with a summary section where taxpayers enter the total premium tax credit, advance payment of the PTC, and net premium tax credit. If there is an excess advance payment of the PTC, taxpayers must also calculate the repayment amount and enter it on Schedule 2 (Form 1040), line 2.
+
+Overall, Form 8962 is a crucial document for taxpayers claiming the Premium Tax Credit, as it helps them calculate and reconcile their eligibility for this tax credit based on their income and insurance coverage.

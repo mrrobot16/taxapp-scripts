@@ -1,0 +1,9 @@
+Form 940 is the Employers Annual Federal Unemployment (FUTA) Tax Return for the year 2022. It is used by employers to report their FUTA tax liability. The form requires the employer to provide their employer identification number (EIN), name, trade name (if any), address, and other relevant information. 
+
+The form is divided into several parts. Part 1 asks the employer to provide information about their return, including whether they had to pay state unemployment tax in one or more states. Part 2 is used to determine the FUTA tax before adjustments, including total payments to employees and payments exempt from FUTA tax. Part 3 is used to determine adjustments to the FUTA tax liability, such as exclusions from state unemployment tax and credit reductions. 
+
+Part 4 is used to determine the final FUTA tax liability and any balance due or overpayment. Part 5 is used to report the FUTA tax liability by quarter if it exceeds $500. Part 6 asks if the employer wants to designate a third-party to discuss the return with the IRS. Part 7 is where the employer must sign the form under penalties of perjury.
+
+The form also includes instructions for completing it and a payment voucher, Form 940-V, which should be used if making a payment with Form 940. The instructions provide specific guidance on how to fill out the form and make payments, including information on electronic funds transfer and potential penalties for late or incorrect payments.
+
+The form includes a Privacy Act and Paperwork Reduction Act Notice, which explains the purpose of the form and the obligations of the employer to provide accurate information. It also provides estimated average times for completing and filing the form and invites comments and suggestions for improving the form.

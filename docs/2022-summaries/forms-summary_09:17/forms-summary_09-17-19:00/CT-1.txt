@@ -1,0 +1,15 @@
+Form CT-1 is the Employers Annual Railroad Retirement Tax Return used by employers to report and pay their railroad retirement taxes. The form includes various sections for reporting different types of taxes based on compensation paid to employees in the railroad industry.
+
+In Part I of the form, employers are required to enter the amount of compensation paid in 2022 for each tax category, such as Tier 1 Employer Tax, Tier 1 Employer Medicare Tax, Tier 2 Employer Tax, Tier 1 Employee Tax, Tier 1 Employee Medicare Tax, Tier 1 Employee Additional Medicare Tax, Tier 2 Employee Tax, Tier 1 Employer Tax for Sick Pay, Tier 1 Employer Medicare Tax for Sick Pay, Tier 1 Employee Tax for Sick Pay, Tier 1 Employee Medicare Tax for Sick Pay, and Tier 1 Employee Additional Medicare Tax for Sick Pay. The form provides the applicable tax rates for each category, and employers are required to calculate and enter the corresponding tax amount.
+
+Part I also includes a section for adjustments to the employer and employee railroad retirement taxes based on compensation. Employers need to refer to the instructions and attach any required statements for these adjustments.
+
+The form also includes sections for reporting nonrefundable and refundable credits related to qualified sick and family leave compensation and COBRA premium assistance credit. Employers need to enter the relevant amounts and follow the instructions for each credit.
+
+Part II of the form is a record of railroad retirement tax liability for monthly schedule depositors. Employers need to complete this section if they were monthly schedule depositors for the entire year. It requires entering the tax liability for each month of the year.
+
+The form also includes a payment voucher (Form CT-1(V)) that employers can use to make a payment with Form CT-1. The voucher requires the employer's identification number, the amount paid, and the business name and address.
+
+The form concludes with a privacy act and paperwork reduction act notice, providing information on the collection and use of the information provided on the form, as well as estimated average time for completing and filing the form.
+
+Overall, Form CT-1 is a comprehensive form for employers in the railroad industry to report and pay their railroad retirement taxes.

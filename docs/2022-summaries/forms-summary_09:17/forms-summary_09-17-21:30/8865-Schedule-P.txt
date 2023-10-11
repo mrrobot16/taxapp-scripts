@@ -1,0 +1,21 @@
+Schedule P (Form 8865) is a document provided by the Internal Revenue Service (IRS) for reporting acquisitions, dispositions, and changes of interests in a foreign partnership under Section 6046A. This form is to be attached to Form 8865 and is used by taxpayers to provide necessary information regarding these transactions.
+
+The form is divided into four parts:
+
+Part I: Acquisitions
+This section requires the taxpayer to provide the name, address, and identification number of the person from whom their interest in the foreign partnership was acquired. Additionally, the date of acquisition, fair market value (FMV) of the interest acquired, basis in the interest acquired, percentage of interest before the acquisition, and percentage of interest after the acquisition must be reported.
+
+Part II: Dispositions
+In this section, the taxpayer needs to provide the name, address, and identification number of the person who acquired their interest in the foreign partnership. The date of disposition, FMV of the interest disposed, basis in the interest disposed, percentage of interest before the disposition, and percentage of interest after the disposition should be reported.
+
+Part III: Change in Proportional Interest
+This part requires a description of the change in proportional interest, the date of the change, FMV of the interest, basis in the interest, percentage of interest before the change, and percentage of interest after the change.
+
+Part IV: Supplemental Information Required To Be Reported
+This section is for any additional information that may be required to be reported, as specified in the instructions.
+
+Taxpayers are advised to refer to the instructions for Form 8865 and visit the IRS website for the latest information and instructions related to Schedule P.
+
+This form is subject to the Paperwork Reduction Act Notice, which can be found in the instructions for Form 8865.
+
+Overall, Schedule P (Form 8865) is a crucial document for taxpayers to accurately report acquisitions, dispositions, and changes of interests in a foreign partnership to the IRS.

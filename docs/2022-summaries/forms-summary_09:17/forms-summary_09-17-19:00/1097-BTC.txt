@@ -1,0 +1,9 @@
+Form 1097-BTC is a tax form used by issuers of certain tax credit bonds or their agents, as well as recipients of Form 1097-BTC who are further distributing the credit. The form is filed annually with the IRS and provides information on the amount of tax credit allowed for each month of the calendar year.
+
+The form includes sections for the issuer's name, address, and telephone number, as well as the recipient's name, address, and taxpayer identification number. The issuer must indicate whether they are the issuer of the bond or its agent, or if they received the form and are distributing the credit to others.
+
+The form also includes boxes to report the total amount of credit allowed for the calendar year, a code and unique identifier, the type of bond, and the amount of credit allowed for each month of the year. There is also a section for additional comments.
+
+The instructions for recipients explain that they may only claim the credit amount from each quarter once and that the credits for the fourth quarter will be reported together with the annual aggregate total. The instructions also provide information on the taxpayer identification number and limitations on certain credits.
+
+The instructions for payers explain how to complete the form and when to furnish it to the recipient. They also provide guidance on filing and furnishing instructions, as well as how to request extensions. The instructions include contact information for assistance with reporting on Form 1097-BTC.

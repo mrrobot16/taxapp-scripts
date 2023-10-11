@@ -1,0 +1,1097 @@
+SCHEDULE H 
+(Form 990)
+Department of the Treasury  
+Internal Revenue Service 
+Hospitals
+Complete if the organization answered “Yes” on Form 990, Part IV, question 20a.  
+Attach to Form 990.   
+Go to www.irs.gov/Form990 for instructions and the latest information. 
+OMB No. 1545-0047
+2022 
+Open to Public 
+Inspection
+Name of the organization
+Employer identification number
+Part I
+Financial Assistance and Certain Other Community Benefits at Cost
+Yes
+No
+1a
+Did the organization have a financial assistance policy during the tax year? If “No,” skip to question 6a .
+.
+1a
+b
+If “Yes,” was it a written policy? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+2 
+If the organization had multiple hospital facilities, indicate which of the following best describes application of
+the financial assistance policy to its various hospital facilities during the tax year:
+Applied uniformly to all hospital facilities
+Applied uniformly to most hospital facilities 
+Generally tailored to individual hospital facilities
+3 
+ 
+Answer the following based on the financial assistance eligibility criteria that applied to the largest number of
+the organization’s patients during the tax year.
+a Did the organization use Federal Poverty Guidelines (FPG) as a factor in determining eligibility for providing 
+free care? If “Yes,” indicate which of the following was the FPG family income limit for eligibility for free care:  
+3a
+100%
+150%
+200%
+Other
+%
+b 
+ 
+Did the organization use FPG as a factor in determining eligibility for providing discounted care? If “Yes,”
+indicate which of the following was the family income limit for eligibility for discounted care: 
+.
+.
+.
+.
+.
+3b
+200%
+250%
+300%
+350%
+400%
+Other
+%
+c 
+ 
+ 
+If the organization used factors other than FPG in determining eligibility, describe in Part VI the criteria used 
+for determining eligibility for free or discounted care. Include in the description whether the organization used 
+an asset test or other threshold, regardless of income, as a factor in determining eligibility for free or 
+discounted care.  
+4 
+Did the organization’s financial assistance policy that applied to the largest number of its patients during the
+tax year provide for free or discounted care to the “medically indigent”? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5a
+Did the organization budget amounts for free or discounted care provided under its financial assistance policy during the tax year?
+5a
+b
+If “Yes,” did the organization’s financial assistance expenses exceed the budgeted amount? .
+.
+.
+.
+.
+5b
+c If “Yes” to line 5b, as a result of budget considerations, was the organization unable to provide free or 
+discounted care to a patient who was eligible for free or discounted care? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c
+6a
+Did the organization prepare a community benefit report during the tax year?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a
+b
+If “Yes,” did the organization make it available to the public? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6b
+Complete the following table using the worksheets provided in the Schedule H instructions. Do not submit 
+these worksheets with the Schedule H.
+7
+Financial Assistance and Certain Other Community Benefits at Cost
+ Financial Assistance and 
+Means-Tested Government Programs
+(a) Number of 
+activities or 
+programs (optional)
+(b) Persons 
+served  
+(optional)
+(c) Total community 
+benefit expense
+(d) Direct offsetting 
+revenue
+(e) Net community 
+benefit expense
+(f) Percent  
+of total  
+expense
+a 
+Financial Assistance at cost (from 
+Worksheet 1)
+.
+.
+.
+.
+.
+.
+b
+Medicaid (from Worksheet 3, column a) 
+c 
+  
+ 
+Costs of other means-tested 
+government programs (from 
+Worksheet 3, column b) 
+.
+.
+.
+d
+Total. Financial Assistance and  
+Means-Tested Government Programs  
+ Other Benefits
+     
+     
+     
+      
+     
+     
+e 
+  
+ 
+Community health improvement 
+services and community benefit 
+operations (from Worksheet 4) .
+.
+f 
+Health professions education 
+(from Worksheet 5) 
+.
+.
+.
+.
+g Subsidized health services (from 
+Worksheet 6) .
+.
+.
+.
+.
+.  
+h
+Research (from Worksheet 7) 
+.
+i 
+  
+ 
+Cash and in-kind contributions  
+for community benefit (from 
+Worksheet 8) .
+.
+.
+.
+.
+.
+j
+Total. Other Benefits .
+.
+.
+.
+k
+Total. Add lines 7d and 7j
+.
+.
+For Paperwork Reduction Act Notice, see the Instructions for Form 990.
+Cat. No. 50192T
+Schedule H (Form 990) 2022
+Schedule H (Form 990) 2022
+Page 2 
+Part II
+Community Building Activities. Complete this table if the organization conducted any community building 
+activities during the tax year, and describe in Part VI how its community building activities promoted the 
+health of the communities it serves.
+(a) Number of 
+activities or 
+programs 
+(optional)
+(b) Persons 
+served 
+(optional)
+(c) Total community 
+building expense
+(d) Direct offsetting 
+revenue
+(e) Net community 
+building expense
+(f) Percent of  
+total expense
+1
+Physical improvements and housing
+2
+Economic development
+3
+Community support
+4
+Environmental improvements
+5 
+ 
+Leadership development and training 
+for community members
+6
+Coalition building
+7
+Community health improvement advocacy
+8
+Workforce development
+9
+Other
+10
+Total
+Part III
+Bad Debt, Medicare, & Collection Practices
+Section A. Bad Debt Expense
+Yes
+No
+1 
+Did the organization report bad debt expense in accordance with Healthcare Financial Management Association Statement No. 15?
+1
+2 
+Enter the amount of the organization’s bad debt expense. Explain in Part VI the
+methodology used by the organization to estimate this amount   .
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3 
+ 
+ 
+Enter the estimated amount of the organization’s bad debt expense attributable to 
+patients eligible under the organization’s financial assistance policy. Explain in Part VI the
+methodology used by the organization to estimate this amount and the rationale, if any, 
+for including this portion of bad debt as community benefit 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4 
+Provide in Part VI the text of the footnote to the organization’s financial statements that describes bad debt 
+expense or the page number on which this footnote is contained in the attached financial statements.
+Section B. Medicare
+5
+Enter total revenue received from Medicare (including DSH and IME) .
+.
+.
+.
+.
+.
+.
+5
+6
+Enter Medicare allowable costs of care relating to payments on line 5 .
+.
+.
+.
+.
+.
+.
+6
+7
+Subtract line 6 from line 5. This is the surplus (or shortfall) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8 
+ 
+Describe in Part VI the extent to which any shortfall reported on line 7 should be treated as community 
+benefit. Also describe in Part VI the costing methodology or source used to determine the amount reported
+on line 6. Check the box that describes the method used:
+Cost accounting system
+Cost to charge ratio
+Other
+Section C. Collection Practices
+9a
+Did the organization have a written debt collection policy during the tax year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a
+b If “Yes,” did the organization’s collection policy that applied to the largest number of its patients during the tax year contain provisions 
+on the collection practices to be followed for patients who are known to qualify for financial assistance? Describe in Part VI  
+9b
+Part IV
+Management Companies and Joint Ventures (owned 10% or more by officers, directors, trustees, key employees, and physicians—see instructions) 
+(a) Name of entity
+(b) Description of primary  
+activity of entity
+(c) Organization’s 
+profit % or stock 
+ownership %
+(d) Officers, directors, 
+trustees, or key 
+employees’ profit %  
+or stock ownership %
+(e) Physicians’  
+profit % or stock  
+ownership %
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Schedule H (Form 990) 2022
+Schedule H (Form 990) 2022
+Page 3 
+Part V
+Facility Information 
+Section A. Hospital Facilities
+(list in order of size, from largest to smallest—see instructions)
+How many hospital facilities did the organization operate during 
+the tax year?
+Licensed hospital
+General medical & surgical
+Children’s hospital
+Teaching hospital
+Critical access hospital
+Research facility
+ER–24 hours
+ER–other
+Name, address, primary website address, and state license number 
+(and if a group return, the name and EIN of the subordinate hospital 
+organization that operates the hospital facility):
+  
+  
+  
+  
+  
+  
+  
+  
+Other (describe)   
+Facility 
+reporting 
+group 
+1
+ 2
+3
+4
+5
+6
+7
+8
+9
+10
+Schedule H (Form 990) 2022
+Schedule H (Form 990) 2022
+Page 4 
+Part V
+Facility Information (continued)
+Section B. Facility Policies and Practices
+(complete a separate Section B for each of the hospital facilities or facility reporting groups listed in Part V, Section A)
+Name of hospital facility or letter of facility reporting group:
+Line number of hospital facility, or line numbers of hospital 
+facilities in a facility reporting group (from Part V, Section A):
+Yes
+No
+Community Health Needs Assessment 
+1 
+Was the hospital facility first licensed, registered, or similarly recognized by a state as a hospital facility in the
+current tax year or the immediately preceding tax year? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2 
+Was the hospital facility acquired or placed into service as a tax-exempt hospital in the current tax year or 
+the immediately preceding tax year? If “Yes,” provide details of the acquisition in Section C 
+.
+.
+.
+.
+.
+2 
+3 
+During the tax year or either of the two immediately preceding tax years, did the hospital facility conduct a 
+community health needs assessment (CHNA)? If “No,” skip to line 12 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+If “Yes,” indicate what the CHNA report describes (check all that apply): 
+a
+A definition of the community served by the hospital facility  
+b 
+Demographics of the community 
+c 
+Existing health care facilities and resources within the community that are available to respond to the
+health needs of the community 
+d
+How data was obtained 
+e
+The significant health needs of the community 
+f 
+Primary and chronic disease needs and other health issues of uninsured persons, low-income persons, 
+and minority groups 
+g 
+The process for identifying and prioritizing community health needs and services to meet the
+community health needs 
+h
+The process for consulting with persons representing the community’s interests 
+i 
+The impact of any actions taken to address the significant health needs identified in the hospital 
+facility’s prior CHNA(s)
+j
+Other (describe in Section C) 
+4 
+Indicate the tax year the hospital facility last conducted a CHNA:  20
+5 
+ 
+ 
+In conducting its most recent CHNA, did the hospital facility take into account input from persons who represent 
+the broad interests of the community served by the hospital facility, including those with special knowledge of or 
+expertise in public health? If “Yes,” describe in Section C how the hospital facility took into account input from 
+persons who represent the community, and identify the persons the hospital facility consulted 
+.
+.
+.
+.
+.
+5 
+6 
+ 
+a Was the hospital facility’s CHNA conducted with one or more other hospital facilities? If “Yes,” list the other 
+hospital facilities in Section C
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a 
+b 
+ 
+Was the hospital facility’s CHNA conducted with one or more organizations other than hospital facilities? If “Yes,” 
+list the other organizations in Section C  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6b 
+7
+Did the hospital facility make its CHNA report widely available to the public? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+If “Yes,” indicate how the CHNA report was made widely available (check all that apply):
+a
+Hospital facility’s website (list url):
+b 
+Other website (list url):
+c
+Made a paper copy available for public inspection without charge at the hospital facility
+d
+Other (describe in Section C) 
+8 
+ 
+Did the hospital facility adopt an implementation strategy to meet the significant community health needs 
+identified through its most recently conducted CHNA? If “No,” skip to line 11
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+8 
+9 
+Indicate the tax year the hospital facility last adopted an implementation strategy:  20
+10
+Is the hospital facility’s most recently adopted implementation strategy posted on a website? .
+.
+.
+.
+.
+10
+a
+If “Yes,” (list url):
+b If “No,” is the hospital facility’s most recently adopted implementation strategy attached to this return? .
+.
+10b
+11 
+ 
+Describe in Section C how the hospital facility is addressing the significant needs identified in its most 
+recently conducted CHNA and any such needs that are not being addressed together with the reasons why
+such needs are not being addressed.
+12 a Did the organization incur an excise tax under section 4959 for the hospital facility’s failure to conduct a 
+CHNA as required by section 501(r)(3)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12a
+b If “Yes” to line 12a, did the organization file Form 4720 to report the section 4959 excise tax? .
+.
+.
+.
+.
+12b
+c If “Yes” to line 12b, what is the total amount of section 4959 excise tax the organization reported on Form
+4720 for all of its hospital facilities? $
+Schedule H (Form 990) 2022
+Schedule H (Form 990) 2022
+Page 5
+Part V
+Facility Information (continued)
+Financial Assistance Policy (FAP)
+Name of hospital facility or letter of facility reporting group:
+Yes
+No
+Did the hospital facility have in place during the tax year a written financial assistance policy that:
+13
+Explained eligibility criteria for financial assistance, and whether such assistance included free or discounted care? 
+13 
+If “Yes,” indicate the eligibility criteria explained in the FAP: 
+a 
+Federal poverty guidelines (FPG), with FPG family income limit for eligibility for free care of 
+and FPG family income limit for eligibility for discounted care of
+%
+%
+b 
+Income level other than FPG (describe in Section C)
+c
+Asset level
+d
+Medical indigency
+e
+Insurance status
+f
+Underinsurance status
+g
+Residency
+h
+Other (describe in Section C)
+14
+Explained the basis for calculating amounts charged to patients? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Explained the method for applying for financial assistance? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+If “Yes,” indicate how the hospital facility’s FAP or FAP application form (including accompanying instructions) 
+explained the method for applying for financial assistance (check all that apply): 
+a 
+Described the information the hospital facility may require an individual to provide as part of his or her 
+application
+b 
+Described the supporting documentation the hospital facility may require an individual to submit as part 
+of his or her application
+c 
+Provided the contact information of hospital facility staff who can provide an individual with information
+about the FAP and FAP application process
+d 
+Provided the contact information of nonprofit organizations or government agencies that may be
+sources of assistance with FAP applications
+e
+Other (describe in Section C)
+16
+Was widely publicized within the community served by the hospital facility? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+If “Yes,” indicate how the hospital facility publicized the policy (check all that apply): 
+a
+The FAP was widely available on a website (list url):
+b
+The FAP application form was widely available on a website (list url):
+c
+A plain language summary of the FAP was widely available on a website (list url):
+d 
+The FAP was available upon request and without charge (in public locations in the hospital facility and 
+by mail)
+e 
+The FAP application form was available upon request and without charge (in public locations in the
+hospital facility and by mail)
+f 
+A plain language summary of the FAP was available upon request and without charge (in public
+locations in the hospital facility and by mail)
+g 
+ 
+Individuals were notified about the FAP by being offered a paper copy of the plain language summary of
+the FAP, by receiving a conspicuous written notice about the FAP on their billing statements, and via 
+conspicuous public displays or other measures reasonably calculated to attract patients’ attention
+h 
+Notified members of the community who are most likely to require financial assistance about availability 
+of the FAP
+i 
+The FAP, FAP application form, and plain language summary of the FAP were translated into the
+primary language(s) spoken by Limited English Proficiency (LEP) populations
+j
+Other (describe in Section C)
+Schedule H (Form 990) 2022
+Schedule H (Form 990) 2022
+Page 6
+Part V
+Facility Information (continued)
+Billing and Collections
+Name of hospital facility or letter of facility reporting group:
+Yes
+No
+17 
+ 
+Did the hospital facility have in place during the tax year a separate billing and collections policy, or a written
+financial assistance policy (FAP) that explained all of the actions the hospital facility or other authorized party 
+may take upon nonpayment? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+17 
+18 
+ 
+Check all of the following actions against an individual that were permitted under the hospital facility’s 
+policies during the tax year before making reasonable efforts to determine the individual’s eligibility under the
+facility’s FAP:
+a 
+Reporting to credit agency(ies)
+b 
+Selling an individual’s debt to another party
+c 
+Deferring, denying, or requiring a payment before providing medically necessary care due to nonpayment 
+of a previous bill for care covered under the hospital facility’s FAP
+d
+Actions that require a legal or judicial process
+e
+Other similar actions (describe in Section C)
+f
+None of these actions or other similar actions were permitted
+19 
+Did the hospital facility or other authorized party perform any of the following actions during the tax year 
+before making reasonable efforts to determine the individual’s eligibility under the facility’s FAP? .
+.
+.
+.
+19 
+If “Yes,” check all actions in which the hospital facility or a third party engaged: 
+a
+Reporting to credit agency(ies)
+b
+Selling an individual’s debt to another party
+c 
+Deferring, denying, or requiring a payment before providing medically necessary care due to 
+nonpayment of a previous bill for care covered under the hospital facility’s FAP
+d
+Actions that require a legal or judicial process
+e
+Other similar actions (describe in Section C)
+20 
+Indicate which efforts the hospital facility or other authorized party made before initiating any of the actions listed (whether or 
+not checked) in line 19 (check all that apply):
+a 
+Provided a written notice about upcoming ECAs (Extraordinary Collection Action) and a plain language summary of the
+FAP at least 30 days before initiating those ECAs (if not, describe in Section C)
+b
+Made a reasonable effort to orally notify individuals about the FAP and FAP application process (if not, describe in Section C)
+c
+Processed incomplete and complete FAP applications (if not, describe in Section C)
+d
+Made presumptive eligibility determinations (if not, describe in Section C)
+e
+Other (describe in Section C)
+f
+None of these efforts were made
+Policy Relating to Emergency Medical Care
+21 
+ 
+Did the hospital facility have in place during the tax year a written policy relating to emergency medical care 
+that required the hospital facility to provide, without discrimination, care for emergency medical conditions to 
+individuals regardless of their eligibility under the hospital facility’s financial assistance policy? 
+.
+.
+.
+.
+21
+If “No,” indicate why:
+a
+The hospital facility did not provide care for any emergency medical conditions
+b
+The hospital facility’s policy was not in writing
+c 
+The hospital facility limited who was eligible to receive care for emergency medical conditions (describe
+in Section C)
+d 
+Other (describe in Section C)
+Schedule H (Form 990) 2022
+Schedule H (Form 990) 2022
+Page 7
+Part V
+Facility Information (continued)
+Charges to Individuals Eligible for Assistance Under the FAP (FAP-Eligible Individuals)
+Name of hospital facility or letter of facility reporting group:
+Yes
+No
+22 
+Indicate how the hospital facility determined, during the tax year, the maximum amounts that can be charged
+to FAP-eligible individuals for emergency or other medically necessary care:
+a 
+The hospital facility used a look-back method based on claims allowed by Medicare fee-for-service 
+during a prior 12-month period
+b 
+The hospital facility used a look-back method based on claims allowed by Medicare fee-for-service and 
+all private health insurers that pay claims to the hospital facility during a prior 12-month period
+c 
+ 
+The hospital facility used a look-back method based on claims allowed by Medicaid, either alone or in
+combination with Medicare fee-for-service and all private health insurers that pay claims to the hospital 
+facility during a prior 12-month period
+d 
+The hospital facility used a prospective Medicare or Medicaid method
+23 
+ 
+During the tax year, did the hospital facility charge any FAP-eligible individual to whom the hospital facility 
+provided emergency or other medically necessary services more than the amounts generally billed to 
+individuals who had insurance covering such care? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+If “Yes,” explain in Section C.
+24 
+During the tax year, did the hospital facility charge any FAP-eligible individual an amount equal to the gross 
+charge for any service provided to that individual?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+If “Yes,” explain in Section C.
+Schedule H (Form 990) 2022
+Schedule H (Form 990) 2022
+Page 8 
+Part V
+Facility Information (continued)
+Section C. Supplemental Information for Part V, Section B. Provide descriptions required for Part V, Section B, lines
+2, 3j, 5, 6a, 6b, 7d, 11, 13b, 13h, 15e, 16j, 18e, 19e, 20a, 20b, 20c, 20d, 20e, 21c, 21d, 23, and 24. If applicable, provide
+separate descriptions for each hospital facility in a facility reporting group, designated by facility reporting group letter 
+and hospital facility line number from Part V, Section A (“A, 1,” “A, 4,” “B, 2,” “B, 3,” etc.) and name of hospital facility.
+Schedule H (Form 990) 2022
+Schedule H (Form 990) 2022
+Page 9 
+Part V
+Facility Information (continued)
+Section D. Other Health Care Facilities That Are Not Licensed, Registered, or Similarly Recognized as a Hospital Facility
+(list in order of size, from largest to smallest)
+How many non-hospital health care facilities did the organization operate during the tax year?
+Name and address
+Type of facility (describe)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Schedule H (Form 990) 2022
+Schedule H (Form 990) 2022
+Page 10 
+Part VI
+Supplemental Information
+Provide the following information.
+1
+Required descriptions. Provide the descriptions required for Part I, lines 3c, 6a, and 7; Part II and Part III, lines 2, 3, 4, 8, and 9b.
+2 
+Needs assessment. Describe how the organization assesses the health care needs of the communities it serves, in addition to 
+any CHNAs reported in Part V, Section B.
+3 
+ 
+Patient education of eligibility for assistance. Describe how the organization informs and educates patients and persons
+who may be billed for patient care about their eligibility for assistance under federal, state, or local government programs or 
+under the organization’s financial assistance policy.
+4 
+Community information. Describe the community the organization serves, taking into account the geographic area and 
+demographic constituents it serves.
+5 
+ 
+Promotion of community health. Provide any other information important to describing how the organization’s hospital facilities or 
+other health care facilities further its exempt purpose by promoting the health of the community (for example, open medical staff, 
+community board, use of surplus funds, etc.).
+6 
+Affiliated health care system. If the organization is part of an affiliated health care system, describe the respective roles of the
+organization and its affiliates in promoting the health of the communities served.
+7 
+State filing of community benefit report. If applicable, identify all states with which the organization, or a related organization, 
+files a community benefit report.
+Schedule H (Form 990) 2022

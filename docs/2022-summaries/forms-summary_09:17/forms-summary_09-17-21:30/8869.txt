@@ -1,0 +1,11 @@
+Form 8869 is a document provided by the Internal Revenue Service (IRS) for making a Qualified Subchapter S Subsidiary Election. This form is used by a parent S Corporation to elect for one of its subsidiaries to be treated as a Qualified Subchapter S Subsidiary (QSub) for tax purposes.
+
+The form consists of two parts. Part I requires the parent S Corporation to provide information such as its name, address, employer identification number (EIN), tax year ending, service center where the last return was filed, and contact information of an officer or legal representative.
+
+Part II is for providing information about the subsidiary corporation for which the election is being made. This includes the subsidiary's name, address, EIN (if any), date of incorporation, state of incorporation, and the date the election is to take effect.
+
+The form also includes questions regarding whether the subsidiary has previously filed a federal income tax return, the service center where the last return was filed, the tax year ending date of the last return, and the type of return filed. It also asks if the election is being made in combination with a section 368(a)(1)(F) reorganization and if the subsidiary's last return was filed as part of a consolidated return.
+
+The form must be signed by an officer of the parent corporation, declaring that the information provided is true, correct, and complete.
+
+The form includes a Paperwork Reduction Act Notice, and taxpayers can find instructions and the latest information on the IRS website at www.irs.gov/Form8869.

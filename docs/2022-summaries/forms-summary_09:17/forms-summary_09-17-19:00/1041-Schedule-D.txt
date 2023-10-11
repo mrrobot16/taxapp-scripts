@@ -1,0 +1,13 @@
+Schedule D (Form 1041) is a tax form used to report capital gains and losses for an estate or trust. It should be attached to Form 1041, Form 5227, or Form 990-T. The form provides instructions on how to calculate and report short-term and long-term capital gains and losses. 
+
+Part I of the form is used to report short-term capital gains and losses for assets held for one year or less. It includes fields to enter the proceeds (sales price), cost (or other basis), adjustments to gain or loss from Form 8949, and the resulting gain or loss. There are also separate lines to report totals for short-term transactions reported on Form 1099-B and Form 8949.
+
+Part II is used to report long-term capital gains and losses for assets held for more than one year. It follows a similar format to Part I, with fields to enter the proceeds, cost, adjustments from Form 8949, and the resulting gain or loss. There are also separate lines to report totals for long-term transactions reported on Form 1099-B and Form 8949.
+
+Part III is a summary of Parts I and II, providing a calculation of the net short-term gain or loss and net long-term gain or loss. It includes separate columns for beneficiaries, estates or trusts, and the total.
+
+Part IV is used to determine the capital loss limitation. It instructs the taxpayer to enter the smaller of the loss on line 19 or $3,000, which will be reported as a loss on Form 1041 (or Schedule A for trusts).
+
+Part V is used to compute the tax using maximum capital gains rates. This part is completed if there are gains on both lines 18a and 19 in column (2), or if there are specific entries on Form 1041 or Form 990-T. It provides calculations for taxable income, qualified dividends, and various tax rates.
+
+The form concludes with a cautionary note and a reference to the Instructions for Form 1041 for additional paperwork reduction act notice and the Schedule D Tax Worksheet for further tax computation.

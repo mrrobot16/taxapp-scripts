@@ -1,0 +1,11 @@
+Form 941 is a quarterly tax return form for employers in the United States. The form is used to report wages, tips, and other compensation paid to employees, as well as federal income tax withheld from these payments. The form also includes sections for reporting social security and Medicare taxes, adjustments, credits, and deposits.
+
+The form requires the employer to provide their employer identification number (EIN), name, trade name (if any), and address. The employer must also indicate the quarter being reported and provide information on the number of employees and the amounts of wages and taxes withheld.
+
+The form includes separate sections for reporting taxable social security wages, tips, and Medicare wages, as well as adjustments for fractions of cents, sick pay, tips, and group-term life insurance. The form also includes sections for reporting tax credits for increasing research activities and qualified sick and family leave wages.
+
+The form must be completed in its entirety and signed by the employer. It can be filed electronically or by mail, along with any required payment, using Form 941-V, the payment voucher.
+
+The form includes a privacy and paperwork reduction notice, explaining the purpose of the form and the requirements for providing accurate information. It also provides estimated average times for completing and filing the form.
+
+Overall, Form 941 is a comprehensive tax return form for employers to report their quarterly tax liabilities and provide necessary information to the IRS.

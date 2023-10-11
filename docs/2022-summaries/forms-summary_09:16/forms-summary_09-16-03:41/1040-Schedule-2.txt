@@ -1,0 +1,11 @@
+Schedule 2 is an additional tax form that must be attached to Form 1040, 1040-SR, or 1040-NR. It includes two parts: Part I for Tax and Part II for Other Taxes. 
+
+In Part I, taxpayers are required to report alternative minimum tax and excess advance premium tax credit repayment. The total of these taxes is entered on Form 1040, 1040-SR, or 1040-NR, line 17.
+
+In Part II, taxpayers are required to report various other taxes, including self-employment tax, social security and Medicare tax on unreported tip income, uncollected social security and Medicare tax on wages, additional tax on IRAs or other tax-favored accounts, household employment taxes, repayment of first-time homebuyer credit, additional Medicare Tax, net investment income tax, and others. The total of these taxes is entered on Form 1040 or 1040-SR, line 23, or Form 1040-NR, line 23b.
+
+There are also spaces provided to report other additional taxes, such as recapture of other credits, additional tax on HSA distributions, golden parachute payments, and more. The total of these additional taxes is entered on line 18.
+
+Lastly, there is a section for Section 965 net tax liability installment from Form 965-A, and the total other taxes from lines 4, 7 through 16, and 18 is entered on line 21.
+
+This form should be completed and attached to the appropriate tax form when filing taxes.

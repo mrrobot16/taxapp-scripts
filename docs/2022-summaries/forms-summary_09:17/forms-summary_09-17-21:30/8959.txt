@@ -1,0 +1,41 @@
+Form 8959 is a document issued by the Internal Revenue Service (IRS) in the United States. It is used to calculate and report the Additional Medicare Tax owed by individuals.
+
+The form consists of several parts:
+
+Part I: Additional Medicare Tax on Medicare Wages
+- Line 1: Enter the total Medicare wages and tips from Form W-2, box 5.
+- Line 2: Enter any unreported tips from Form 4137, line 6.
+- Line 3: Enter any wages from Form 8919, line 6.
+- Line 4: Add lines 1 through 3.
+- Line 5: Enter the applicable amount based on filing status.
+- Line 6: Subtract line 5 from line 4.
+- Line 7: Multiply line 6 by 0.9% (0.009) to calculate the Additional Medicare Tax on Medicare wages.
+
+Part II: Additional Medicare Tax on Self-Employment Income
+- Line 8: Enter the self-employment income from Schedule SE, Part I, line 6.
+- Line 9: Enter the applicable amount based on filing status.
+- Line 10: Enter the amount from line 4.
+- Line 11: Subtract line 10 from line 9.
+- Line 12: Subtract line 11 from line 8.
+- Line 13: Multiply line 12 by 0.9% (0.009) to calculate the Additional Medicare Tax on self-employment income.
+
+Part III: Additional Medicare Tax on Railroad Retirement Tax Act (RRTA) Compensation
+- Line 14: Enter the railroad retirement (RRTA) compensation and tips from Form W-2, box 14.
+- Line 15: Enter the applicable amount based on filing status.
+- Line 16: Subtract line 15 from line 14.
+- Line 17: Multiply line 16 by 0.9% (0.009) to calculate the Additional Medicare Tax on railroad retirement (RRTA) compensation.
+
+Part IV: Total Additional Medicare Tax
+- Line 18: Add lines 7, 13, and 17 to calculate the total Additional Medicare Tax.
+
+Part V: Withholding Reconciliation
+- Line 19: Enter the Medicare tax withheld from Form W-2, box 6.
+- Line 20: Enter the amount from line 1.
+- Line 21: Multiply line 20 by 1.45% (0.0145) to calculate the regular Medicare tax withholding on Medicare wages.
+- Line 22: Subtract line 21 from line 19 to calculate the Additional Medicare Tax withholding on Medicare wages.
+- Line 23: Enter any Additional Medicare Tax withholding on railroad retirement (RRTA) compensation from Form W-2, box 14.
+- Line 24: Add lines 22 and 23 to calculate the total Additional Medicare Tax withholding.
+
+The total Additional Medicare Tax calculated on line 18 should be reported on Schedule 2 (Form 1040), line 11, and the total Additional Medicare Tax withholding calculated on line 24 should be included with federal income tax withholding on the appropriate line of the individual's tax return.
+
+The form includes instructions and can be attached to various tax forms, such as Form 1040, 1040-SR, 1040-NR, 1040-PR, or 1040-SS. For more information and the latest updates, taxpayers are directed to visit the IRS website.

@@ -1,0 +1,14 @@
+Form 982 is a document provided by the Internal Revenue Service (IRS) for taxpayers to report the reduction of tax attributes due to the discharge of indebtedness. This form should be attached to the taxpayer's income tax return.
+
+The form is divided into three parts:
+
+Part I: General Information
+In this section, the taxpayer must indicate the reason for excluding the discharged indebtedness from gross income by checking the applicable box(es). The options include a discharge of indebtedness in a title 11 case, a discharge of indebtedness to the extent insolvent (not in a title 11 case), a discharge of qualified farm indebtedness, a discharge of qualified real property business indebtedness, or a discharge of qualified principal residence indebtedness. The taxpayer must also enter the total amount of discharged indebtedness excluded from gross income.
+
+Part II: Reduction of Tax Attributes
+This section requires the taxpayer to provide a description of any transactions resulting in the reduction in basis under section 1017. The taxpayer must also indicate the amount excluded from gross income and how it is applied, such as reducing the basis of depreciable real property, reducing the basis of depreciable property under section 108(b)(5), reducing net operating loss, reducing general business credit carryover, reducing minimum tax credit, reducing net capital loss, reducing the basis of nondepreciable and depreciable property, or reducing the basis of the principal residence.
+
+Part III: Consent of Corporation to Adjustment of Basis of Its Property Under Section 1082(a)(2)
+This section is specifically for corporations that have excluded a certain amount from gross income under section 1081(b). The corporation must provide consent to have the basis of its property adjusted in accordance with the regulations prescribed under section 1082(a)(2). The corporation must also provide details about its organization under the laws of a specific state.
+
+Taxpayers should refer to the instructions provided by the IRS for further guidance on completing Form 982. The latest version of the form and instructions can be found on the IRS website.

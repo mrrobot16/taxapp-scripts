@@ -1,0 +1,242 @@
+     
+Form 1099-Q
+(Rev. November 2019)
+For calendar year     
+20
+Cat. No. 32223J
+Payments From 
+Qualified 
+Education 
+Programs 
+(Under Sections 
+529 and 530)
+Copy A
+For 
+Internal Revenue 
+Service Center
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-1760
+File with Form 1096.
+For Privacy Act 
+and Paperwork 
+Reduction Act 
+Notice, see the 
+current General 
+Instructions for 
+Certain Information 
+Returns.
+3131
+VOID
+CORRECTED
+PAYER’S/TRUSTEE’S name, street address, city or town, state or province, 
+country, ZIP or foreign postal code, and telephone no.
+PAYER’S/TRUSTEE’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Gross distribution
+$
+2 Earnings
+$
+3 Basis
+$
+4 Trustee-to-trustee        
+transfer
+5 Distribution is from:
+• Qualified tuition program—
+Private
+or State
+• Coverdell ESA
+6 Check if the recipient is     
+not the designated      
+beneficiary
+Form 1099-Q (Rev. 11-2019)
+www.irs.gov/Form1099Q
+Do Not Cut or Separate Forms on This Page — Do Not Cut or Separate Forms on This Page
+     
+Form 1099-Q
+(Rev. November 2019)
+For calendar year     
+20
+Payments From 
+Qualified 
+Education 
+Programs 
+(Under Sections 
+529 and 530)
+Copy B
+For Recipient
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-1760
+This is important tax 
+information and is 
+being furnished to 
+the IRS. If you are 
+required to file a return, 
+ a negligence penalty 
+or other sanction may 
+be imposed on you 
+ if this income is 
+taxable and the IRS 
+determines that it has 
+not been reported.
+CORRECTED (if checked)
+PAYER’S/TRUSTEE’S name, street address, city or town, state or province, 
+country, ZIP or foreign postal code, and telephone no.
+PAYER’S/TRUSTEE’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Gross distribution
+$
+2 Earnings
+$
+3 Basis
+$
+4 Trustee-to-trustee        
+transfer
+5 Distribution is from:
+• Qualified tuition program—
+Private
+or State
+• Coverdell ESA
+6 If this box is checked, the 
+recipient is not the 
+designated beneficiary
+If the fair market value (FMV) is shown below, see Pub. 970, 
+Tax Benefits for Education, for how to figure earnings.
+Form 1099-Q (Rev. 11-2019)
+(keep for your records)
+www.irs.gov/Form1099Q
+Instructions for Recipient
+Distributions from Coverdell education savings accounts (CESAs) under section 530 
+and qualified tuition programs (QTPs) under section 529, including rollovers, may be 
+taxable. Nontaxable distributions from CESAs and QTPs are not required to be 
+reported on your income tax return. You must determine the taxability of any 
+distribution. See Pub. 970 and the Instructions for Forms 1040 and 1040-SR for more 
+information. Also see Form 5329 and its separate instructions.
+Recipient’s taxpayer identification no. (TIN). For your protection, this form may 
+show only the last four digits of your TIN (SSN, ITIN, ATIN, or EIN). However, the payer 
+or trustee has reported your complete TIN to the IRS.
+Account number. May show an account or other unique number the payer has 
+assigned to distinguish your account.
+Box 1. Shows the gross distribution (including in-kind distributions) paid to you this 
+year from a QTP or a CESA. This amount is the total of the amounts shown in boxes 2 
+and 3. See Pub. 970 for more information.
+Caution: For CESA distributions (other than earnings on excess contributions) made during the 
+calendar year, the payer/trustee is not required to report amounts in boxes 2 and 3. Instead, the 
+payer/trustee may report the fair market value of the CESA as of December 31 of the calendar 
+year in the blank box below boxes 5 and 6. To figure your earnings and basis, use the Coverdell 
+ESA—Taxable Distributions and Basis worksheet in Pub. 970.
+Box 2. Shows the earnings part of the gross distribution shown in box 1. Generally, 
+amounts distributed that are used to pay for qualified education expenses, transferred 
+between trustees, or rolled over to another qualified education program or to an ABLE 
+account, within 60 days, are not included in income. 
+ Under a QTP, the amount in box 2 is included in income if there has been (a) more 
+than one transfer or rollover within any 12-month period with respect to the same 
+beneficiary, or (b) a change in the designated beneficiary and the new designated 
+beneficiary is not a family member. 
+Under a CESA, the amount in box 2 is included in income if there has been a 
+change in the designated beneficiary and the new designated beneficiary is not a 
+family member or is over age 30 (except for beneficiaries with special needs).
+Also, an additional 10% tax may apply to part or all of any amount included in 
+income from the CESA or QTP. See Form 5329 and your tax return instructions for 
+more information.
+If a final (total) distribution is made from your account and you have not recovered 
+your contributions, see Pub. 970 to determine if you have a deductible loss and how to 
+claim it.
+Box 3. Shows your basis in the gross distribution reported in box 1.
+Box 4. This box is checked if a trustee-to-trustee transfer was made from one QTP to 
+another QTP, from one CESA to another CESA, from a CESA to a QTP, or from a QTP to an 
+ABLE account. However, in certain transfers from a CESA, the box will be blank.
+Box 5. Shows whether the gross distribution was from a QTP (private or state) or from 
+a CESA.
+Box 6. The designated beneficiary is the individual named in the document creating 
+the trust or custodial account to receive the benefit of the funds in the account. If you 
+are not the designated beneficiary, see Pub. 970 and the Instructions for Forms 1040 
+and 1040-SR.
+Distribution codes. For the calendar year, the payer/trustee may, but is not required 
+to, report (in the box below boxes 5 and 6) one of the following codes to identify the 
+distribution you received: 1—Distributions (including transfers); 2—Excess 
+contributions plus earnings taxable in the calendar year; 3—Excess contributions plus 
+earnings taxable in the prior calendar year; 4—Disability; 5—Death; or 6—Prohibited 
+transaction.  
+Future developments. For the latest information about developments related to Form 
+1099-Q and its instructions, such as legislation enacted after they were published, go 
+to www.irs.gov/Form1099Q.
+     
+Form 1099-Q
+(Rev. November 2019)
+For calendar year     
+20
+Payments From 
+Qualified 
+Education 
+Programs 
+(Under Sections 
+529 and 530)
+Copy C
+For Payer
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-1760
+For Privacy Act 
+and Paperwork 
+Reduction Act 
+Notice, see the 
+current General 
+Instructions for 
+Certain 
+Information 
+Returns.
+VOID
+CORRECTED
+PAYER’S/TRUSTEE’S name, street address, city or town, state or province, 
+country, ZIP or foreign postal code, and telephone no.
+PAYER’S/TRUSTEE’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Gross distribution
+$
+2 Earnings
+$
+3 Basis
+$
+4 Trustee-to-trustee        
+transfer
+5 Distribution is from:
+• Qualified tuition program—
+Private
+or State
+• Coverdell ESA
+6 Check if the recipient is     
+not the designated      
+beneficiary
+Form 1099-Q (Rev. 11-2019)
+www.irs.gov/Form1099Q
+Instructions for Payer/Trustee
+To complete Form 1099-Q, use: 
+• The current General Instructions for Certain 
+Information Returns, and 
+• The current Instructions for Form 1099-Q.
+To order these instructions and additional forms, go 
+to www.irs.gov/Form1099Q.
+Filing and furnishing. For filing and furnishing 
+instructions, including due dates, and to request filing or 
+furnishing extensions, see the current General 
+Instructions for Certain Information Returns.
+To file electronically, you must have software that 
+generates a file according to the specifications in Pub. 
+1220. 
+Need help? If you have questions about reporting on 
+Form 1099-Q, call the information reporting customer 
+service site toll free at 866-455-7438 or 304-263-8700 
+(not toll free). Persons with a hearing or speech 
+disability with access to TTY/TDD equipment can call 
+304-579-4827 (not toll free).

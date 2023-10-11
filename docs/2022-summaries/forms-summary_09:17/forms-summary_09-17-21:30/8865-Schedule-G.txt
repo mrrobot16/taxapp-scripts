@@ -1,0 +1,15 @@
+Schedule G (Form 8865) is a document used by taxpayers to report the application of the gain deferral method under Section 721(c) of the Internal Revenue Code. The form is attached to Form 8865 and is used to provide detailed information about the transfer of property to a partnership and the allocation of income, gain, deduction, and loss related to that property.
+
+The form is divided into several parts. Part I requires information about the Section 721(c) property, including the tax year of the contribution, description of the property, recovery period, and whether it is considered effectively connected income property. It also requires information about the fair market value, basis, and built-in gain of the property at the time of the contribution. Additionally, Part I includes a section for reporting events such as acceleration, termination, successorship, tax disposition of a portion of partnership interest, and section 367 transfer.
+
+Part II focuses on the remaining built-in gain, remedial income allocated to the U.S. transferor, and gain recognized due to acceleration events and section 367 transfers.
+
+Part III requires the allocation percentages of partnership items (income, gain, deduction, and loss) with respect to the Section 721(c) property. This includes separate percentages for the U.S. transferor, related domestic partners, and related foreign partners.
+
+Part IV deals with the allocation of items to the U.S. transferor specifically, including income, gain, deduction, and loss.
+
+Part V asks additional questions related to acceleration events, termination events, successor events, tax dispositions of partnership interest, and section 367 transfers. If any of these events occurred, the taxpayer may need to complete Schedule H.
+
+Part VI provides space for supplemental information that may be necessary to provide a complete and accurate report.
+
+Overall, Schedule G (Form 8865) is a detailed form that helps taxpayers report and allocate income, gain, deduction, and loss related to Section 721(c) property transferred to a partnership.

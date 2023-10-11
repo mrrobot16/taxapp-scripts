@@ -1,0 +1,11 @@
+The Schedule K-1 (Form 8865) is a tax form used by partnerships to report the partner's share of income, deductions, credits, and other items for the tax year. The form is filed with the Internal Revenue Service (IRS) and provides information about the partnership and the individual partner.
+
+The form is divided into three parts. Part I requires the partnership's employer identification number, reference ID number, and the partnership's name, address, city, state, and ZIP code.
+
+Part II collects information about the partner, including their Social Security number or taxpayer identification number, name, address, city, state, and ZIP code. If the partner's interest in the partnership is owned through a disregarded entity, the disregarded entity's taxpayer identification number and name must also be provided.
+
+Part III is where the partner's share of income, deductions, credits, and other items are reported. This includes ordinary business income or loss, net rental real estate income or loss, guaranteed payments for services and capital, interest income, dividends, royalties, capital gains or losses, section 179 deductions, other deductions, self-employment earnings or losses, credits, alternative minimum tax items, tax-exempt income and nondeductible expenses, distributions, and any other relevant information.
+
+The form also includes sections for the partner's share of profit, loss, capital, and deductions, as well as a capital account analysis and net unrecognized section 704(c) gain or loss.
+
+The Schedule K-1 (Form 8865) is used to report the partner's share of income and deductions for tax purposes. It is important for both partnerships and partners to accurately complete and file this form to comply with IRS regulations.

@@ -1,0 +1,15 @@
+Form 8902 is a document provided by the Internal Revenue Service (IRS) for corporations to report and calculate the alternative tax on qualifying shipping activities. The form is to be attached to the corporation's income tax return. 
+
+The form consists of several parts. 
+
+Part I requires the corporation to indicate whether they previously made a section 1354 election, are making a section 1354 election for the current tax year, revoking their election, or had their election automatically terminated due to no longer being a qualifying vessel operator. 
+
+Part II asks for other information, such as whether the corporation is a member of an electing group and if any member of the group has income from qualifying secondary activities or qualifying incidental activities. 
+
+Part III is for providing vessel information, including vessel name, IMO number, USCG VIN number, flag, vessel type, and whether the vessel is used in U.S. foreign trade. 
+
+Part IV involves calculating notional shipping income, which includes determining dead weight tons, net tons, and daily notional shipping income. 
+
+Finally, Part V calculates the alternative tax on qualifying shipping activities based on the total annual notional shipping income. The result is entered on the Other taxes line of Form 1120 or Form 1120-F. 
+
+The form includes additional instructions and information on how to complete each section.

@@ -1,0 +1,9 @@
+Form 8609 is a document provided by the Department of the Treasury and the Internal Revenue Service for the purpose of allocating and certifying the Low-Income Housing Credit. The form consists of two parts.
+
+Part I of the form includes sections to be completed by the housing credit agency. It requires information such as the address of the building, the name and address of the housing credit agency, the name, address, and taxpayer identification number (TIN) of the building owner receiving the allocation, and the employer identification number of the agency. It also includes fields for the building identification number, date of allocation, maximum housing credit dollar amount allowable, maximum applicable credit percentage allowable, maximum qualified basis, and the percentage of the aggregate basis financed by tax-exempt bonds. Additionally, there are checkboxes to indicate if the eligible basis used in the computation was increased under high-cost area provisions and if the building is located in a qualified disaster zone.
+
+Part II of the form is to be completed by building owners with respect to the first year of the credit period. It includes fields for the eligible basis of the building, the original qualified basis of the building at the close of the first year of the credit period, and whether the building is part of a multiple building project. There are also checkboxes for various elections, such as reducing eligible basis under section 42(i)(2)(B), reducing eligible basis for market-rate units above the average quality standards of low-income units, and making elections related to the credit period and partnership status.
+
+The form includes spaces for signatures, taxpayer identification number, and date.
+
+For more detailed instructions and the latest information, individuals are directed to visit the website www.irs.gov/Form8609.

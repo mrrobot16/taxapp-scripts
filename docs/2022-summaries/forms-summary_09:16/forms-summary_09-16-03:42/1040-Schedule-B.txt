@@ -1,0 +1,16 @@
+Schedule B (Form 1040) is a document provided by the Internal Revenue Service (IRS) for taxpayers to report their interest and ordinary dividends. It is to be attached to Form 1040 or 1040-SR.
+
+The form is divided into three parts:
+
+Part I: Interest
+Taxpayers are instructed to list the name of the payer and the amount of interest received. If the interest is from a seller-financed mortgage used for personal residence, additional instructions are provided. Excludable interest on series EE and I U.S. savings bonds issued after 1989 should be reported by attaching Form 8815. The result of subtracting excludable interest from the total interest is entered on Form 1040 or 1040-SR.
+
+Part II: Ordinary Dividends
+Taxpayers are instructed to list the name of the payer and the amount of ordinary dividends received. If the dividends were reported on Form 1099-DIV or a substitute statement from a brokerage firm, the payer's name should be listed. The total amount of ordinary dividends is entered on Form 1040 or 1040-SR.
+
+Part III: Foreign Accounts and Trusts
+Taxpayers must complete this part if they had over $1,500 of taxable interest or ordinary dividends, had a foreign account, or received a distribution from, or were a grantor of, or a transferor to, a foreign trust. The part includes questions regarding financial interest in or signature authority over a foreign financial account and the requirement to file FinCEN Form 114 (FBAR) or Form 8938 (Statement of Specified Foreign Financial Assets). If applicable, taxpayers are required to provide the name(s) of the foreign country(-ies) where the financial account(s) are located. Additionally, if they received a distribution from, or were the grantor of, or transferor to, a foreign trust, they may have to file Form 3520.
+
+The form includes a reminder about the potential penalties for failing to file FinCEN Form 114 and the requirement to file Form 8938 if necessary.
+
+Overall, Schedule B (Form 1040) is a tool for taxpayers to report their interest and ordinary dividends and disclose information related to foreign accounts and trusts if applicable.

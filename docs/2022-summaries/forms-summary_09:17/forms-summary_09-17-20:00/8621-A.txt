@@ -1,0 +1,944 @@
+Form 8621-A
+(December 2013) 
+Department of the Treasury  
+Internal Revenue Service 
+Return by a Shareholder Making Certain Late Elections To End  
+Treatment as a Passive Foreign Investment Company 
+▶ Information about Form 8621-A and its separate instructions is at www.irs.gov/form8621a. 
+▶ File Form 8621-A separately from your income tax return. See separate instructions. 
+OMB No. 1545-1950 
+Attachment   
+Sequence No. 69A
+Name of shareholder 
+Identifying number (see instructions) 
+Number, street, and room or suite no. (If a P.O. box, see instructions.) 
+City or town, state, and ZIP code or country 
+Check type of shareholder filing the return: 
+Individual 
+Corporation 
+Partnership 
+S Corporation 
+Nongrantor Trust 
+Estate 
+Name of shareholder contact (see instructions) 
+Telephone number of shareholder contact 
+Name of former passive foreign investment company (PFIC) or Section 1297(e) PFIC 
+Employer identification number (if any) 
+Address (Enter number, street, city or town, and country.) 
+Part I 
+Elections (see instructions) 
+A 
+Late Deemed Dividend Election With Respect to a Former PFIC. I, a shareholder of a Former PFIC, within the meaning of
+Regulations section 1.1291-9(j)(2)(iv), elect to make a late deemed dividend election with respect to the Former PFIC. My 
+holding period in the stock of the Former PFIC includes the termination date, as defined in Regulations section 1.1298-3(d). I 
+am requesting consent to make this election before a representative of the Internal Revenue Service has raised upon audit 
+the PFIC status of the Former PFIC for any of its taxable years. Complete Part II, lines 1, 2, and 3, and Part IV. 
+B 
+Late Deemed Sale Election With Respect to a Former PFIC. I, a shareholder of a Former PFIC, within the meaning of 
+Regulations section 1.1291-9(j)(2)(iv), elect to make a late deemed sale election with respect to the Former PFIC. My holding 
+period in the stock of the Former PFIC includes the termination date, as defined in Regulations section 1.1298-3(d). I am 
+requesting consent to make this election before a representative of the Internal Revenue Service has raised upon audit the 
+PFIC status of the Former PFIC for any of its taxable years. Complete Part II, lines 1, 2, and 4, and Part IV. 
+C 
+Late Deemed Dividend Election With Respect to a Section 1297(e) PFIC. I, a shareholder of a Section 1297(e) PFIC, within 
+the meaning of Regulations section 1.1291-9(j)(2)(v), elect to make a late deemed dividend election with respect  to the Section 
+1297(e) PFIC. My holding period in the stock of the Section 1297(e) PFIC includes the CFC qualification date,  as defined in 
+Regulations section 1.1297-3(d). I am requesting consent to make this election before a  representative of the Internal Revenue 
+Service has raised upon audit the PFIC status of the Section1297(e) PFIC for any of its taxable years. Complete Part III, lines 5, 
+6, and 7, and Part IV. 
+D 
+Late Deemed Sale Election With Respect to a Section 1297(e) PFIC. I, a shareholder of a Section 1297(e) PFIC, within the
+meaning of Regulations section 1.1291-9(j)(2)(v), elect to make a late deemed sale election with respect to the Section
+1297(e) PFIC. My holding period in the stock of the Section 1297(e) PFIC includes the CFC qualification date, as defined in
+Regulations section 1.1297-3(d). I am requesting consent to make this election before a  representative of the Internal
+Revenue Service has raised upon audit the PFIC status of the Section 1297(e) PFIC for any of its taxable years. Complete 
+Part III, lines 5, 6, and 8, and Part IV. 
+Part II 
+Information for Elections With Respect to Former PFICs 
+1 
+The termination date, as defined in Regulations section 1.1298-3(d), for the Former PFIC is 
+, 
+. 
+2 
+The taxable year of the shareholder in which the termination date falls is the taxable year beginning
+, 
+and ending 
+, 
+ (“election year”). 
+3 
+The shareholder’s pro rata share of the post-1986 earnings and profits of the Former PFIC that is treated as distributed to the 
+shareholder on the termination date is                                
+$ 
+ . Attach a  schedule  that shows the  calculation  of  this  amount 
+as required under Regulations section 1.1298-3(c)(5)(ii). In addition, if the shareholder filed a Form 5471 for the Former PFIC for 
+the election year, attach Schedule J (Form 5471). 
+4 
+The amount of gain the shareholder elects to recognize on the deemed sale of the shareholder’s  interest in the  Former PFIC is
+$ 
+ . Complete the balance sheet on page 4 for the Former PFIC for the election year. 
+Part III 
+Information for Elections With Respect to Section 1297(e) PFICs 
+5 
+The CFC qualification date, as defined in Regulations section 1.1297-3(d), for the Section 1297(e) PFIC 
+is 
+, 
+. 
+6 
+The taxable year of the shareholder in which the CFC qualification date falls is the taxable year beginning 
+, 
+ and ending 
+, 
+ (“election year”). 
+7 
+The shareholder’s pro rata share of the post-1986 earnings and profits of the Section 1297(e) PFIC that is treated as distributed
+to the shareholder on the CFC qualification date is
+$ 
+ . Attach a schedule that shows the calculation of this
+amount as required under Regulations section 1.1297-3(c)(5)(ii). In addition, if the shareholder filed a Form 5471 for the Section 
+1297(e) PFIC for the election year, attach Schedule J (Form 5471). 
+8 
+The amount of gain the shareholder elects to recognize on the deemed sale of the shareholder’s interest in the Section 1297(e) 
+PFIC  is $ 
+ . Complete the balance sheet on page 4 for the Section 1297(e) PFIC for the election year. 
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 39480Y 
+Form  8621-A (12-2013) 
+Form 8621-A (12-2013) 
+Page 2 
+Part IV 
+Computation of Tax and Interest Due 
+9a
+Excess distribution. Enter amount from line 3 or 4 of Part II or line 7 or 8 of Part III 
+.
+.
+.
+.
+9a 
+b Attach a statement that (a) shows the shareholder’s holding period for each share of stock or 
+block of shares held, (b) allocates the amount on line 9a to each day in the shareholder’s holding 
+period, and (c) aggregates all amounts that are allocated to the same taxable year.
+10 
+Enter the total of the amounts determined in line 9b that are allocable to the election year and to 
+taxable years before the foreign corporation became a PFIC (pre-PFIC years) 
+.
+.
+.
+.
+.
+.
+10 
+11 
+Enter the shareholder’s income tax liability for the election year if the amount on line 10 above 
+had been included in gross income for such year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Enter the amount of the shareholder’s income tax liability (see instructions), as reported on its 
+original or amended income tax return for the election year. .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Subtract line 12 from line 11 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Enter the aggregate increases in tax (before credits) for each taxable year in the shareholder’s 
+holding period (other than the election year and pre-PFIC years) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Foreign tax credit (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Subtract line 15 from line 14 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Determine interest on each net increase in tax determined on line 16 above in the manner 
+described in the instructions. Enter the aggregate amount of interest here 
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Add lines 13, 16, and 17 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Determine interest on the line 18 amount in the manner described in these instructions. Enter the 
+aggregate amount of interest here. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+If the shareholder received an excess distribution in a prior taxable year that was not reported on a 
+Form 8621, the shareholder must determine the additional tax and interest due under section 1291 as a 
+result of such excess distribution (including the interest from the due date of the return for the taxable 
+year in which the excess distribution was received until the date this form is filed with the IRS). Attach  a 
+completed Form 8621 showing the computation of the amount and enter the amount here .
+.
+.
+.
+20 
+21 
+Balance due. Add lines 18 through 20 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+Important: Attach to Form 8621-A a copy of the Form 8621 filed by the shareholder for any taxable year in which the shareholder received
+an excess distribution from the foreign corporation. 
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge
+and belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge. 
+Signature and Title (if any) 
+Date 
+▶
+▶
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer's signature
+Date
+Check           if 
+self-employed
+PTIN
+Firm’s name     ▶
+Firm's EIN  ▶
+Firm's address  ▶
+Phone no.
+Form  8621-A (12-2013) 
+Form 8621-A (12-2013) 
+Page 3 
+Closing Agreement on Final Determination Covering Specific Matters   
+▶  File this Closing Agreement in Duplicate (see instructions). 
+Name of shareholder 
+Identifying number (see instructions) 
+Name of passive foreign investment company 
+EIN or identifying number (see instructions) 
+Under section 7121 of the Internal Revenue Code of 1986, as amended (“the Code”), the shareholder filing this Form 8621-A (“Shareholder”), 
+and the Commissioner of Internal Revenue (“Commissioner”) hereby make the following closing agreement (“Closing Agreement”). 
+WHEREAS, Shareholder is requesting consent to make the election specified in Part I of this Form 8621-A with respect to the  PFIC 
+specified on page 1 of this Form 8621-A (“Corporation”). 
+WHEREAS, Shareholder has completed ALL of the applicable information requested on pages 1 and 2 of this Form 8621-A, which 
+is incorporated into this closing agreement by reference. 
+WHEREAS, under Regulations section 1.1298-3(e)(1) and Regulations section 1.1297-3(e)(1), the  Commissioner may grant consent 
+to 
+make 
+a 
+late 
+purging 
+election 
+if 
+(1) 
+Shareholder 
+requests 
+consent 
+to 
+make 
+such 
+election 
+before 
+a representative of the Internal Revenue Service raises upon audit the PFIC status of the foreign corporation for any taxable year 
+of Shareholder; (2) Shareholder has agreed in a closing agreement with the Commissioner to eliminate any prejudice to the interests 
+of the U.S. Government as a consequence of Shareholder’s inability to file amended returns for the taxable year in which the CFC 
+qualification date or termination date, as applicable, falls, or an earlier closed taxable year in which Shareholder has taken a position 
+that is inconsistent with the treatment of the Corporation as a PFIC; and (3) Shareholder satisfies the procedural requirements set 
+forth in Regulations section 1.1298-3(e)(3) or Regulations section 1.1297-3(e)(3). 
+WHEREAS, Regulations section 1.1298-3(e)(2) and Regulations section 1.1297-3(e)(2) provide that the  interests of the U.S. 
+Government are prejudiced if granting relief would result in Shareholder having a lower tax liability (other than 
+by a de minimis amount), taking into account applicable interest charges, for the taxable year that includes the CFC qualification 
+date or termination date, as applicable (or a prior taxable year in which Shareholder took a position on a return that was inconsistent 
+with the treatment of the Corporation as a PFIC), than Shareholder would have had if Shareholder had properly made the section 
+1298(b)(1) election in the time prescribed in Regulations sections 1.1298-3(b)(3) or (c)(4) or Regulations sections  1.1297-3(b)(3) or (c)(4) or 
+had not taken a position in a return for an earlier year that was inconsistent with the status of the Corporation as a PFIC. 
+THEREFORE, based on the material submitted by Shareholder in connection with this Closing Agreement, and in the absence of 
+other material factual or legal circumstances concerning the events described above, it is determined and agreed for federal income 
+tax purposes that— 
+1. The Commissioner grants Shareholder permission to make the election specified in Part I of this Form 8621-A with respect to 
+Corporation. 
+2. If Shareholder had made a timely election for the Election Year for Corporation, it would have had an increase in tax for the 
+Election Year in the amounts shown in Part IV of this Form 8621-A. Therefore, the payment of the amount shown on line 21 of this 
+Form 8621-A is sufficient to eliminate any prejudice to the interest of the U.S. Government as a result of Taxpayer’s inability to file 
+a return for the Election Year, a closed taxable year. 
+3. Shareholder’s basis in the stock of Corporation owned directly by the shareholder will be increased by the amount of the gain 
+resulting from the deemed sale  election shown on line 4 or line 8 of this Form 8621-A or the amount of the deemed dividend resulting 
+from the deemed dividend election shown on line 3 or line 7 of this Form 8621-A. 
+4. This Closing Agreement constitutes a resolution under the Code of the specific matters discussed herein. No inference shall 
+be made with respect to whether this resolution satisfies other federal law. 
+5. Shareholder understands that Shareholder may have defenses to the collection of tax described in the preceding paragraphs. 
+Nevertheless, Shareholder voluntarily waives all defenses to the assessment and collection of tax, penalties, and interest described 
+in the preceding paragraphs, including any defenses based on the expiration of the period of limitations on assessment or collection. 
+NOW THIS CLOSING AGREEMENT WITNESSETH, that Shareholder and the Commissioner hereby mutually agree to the 
+determinations set forth above and further mutually agree that those determinations shall be final and conclusive, subject, 
+however, to reopening in the event of fraud, malfeasance, or misrepresentation of material fact, and provided that any 
+change or modification of applicable statutes or tax conventions shall render this Closing Agreement ineffective to the extent 
+that it is dependent upon such statutes or tax conventions. 
+IN WITNESS WHEREOF, by signing the foregoing, the above parties signify that they have read and agreed to the terms of this 
+document. 
+By: 
+Date: 
+Title: 
+COMMISSIONER OF INTERNAL REVENUE 
+By: 
+Date: 
+Title: 
+Form 8621-A (12-2013) 
+Form 8621-A (12-2013) 
+Page 4 
+Balance Sheet for Election Year 
+Complete this balance sheet if the shareholder is making election B or D. 
+Important: Report all amounts in U.S. dollars prepared and translated in accordance with U.S. GAAP. See the 
+instructions for an exception for DASTM corporations. 
+Assets 
+(a) 
+Beginning of annual  
+accounting period 
+(b) 
+End of annual  
+accounting period 
+1 
+Cash 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2a
+Trade notes and accounts receivable .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b Less allowance for bad debts .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b (                                ) (                                )
+3 
+Inventories 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Other current assets (attach schedule) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Loans to shareholders and other related persons .
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Investment in subsidiaries (attach schedule) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Other investments (attach schedule) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 a
+Buildings and other depreciable assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8a 
+b Less accumulated depreciation 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8b (                                ) (                                )
+9 a
+Depletable assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a 
+b Less accumulated depletion 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9b (                                ) (                                )
+10 
+Land (net of any amortization) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Intangible assets (see instructions for required attachments): 
+a Goodwill .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11a 
+b Organization costs .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11b 
+c Patents, trademarks, and other intangible assets .
+.
+.
+.
+.
+.
+.
+.
+.
+11c 
+d Less accumulated amortization for lines 11a, b, and c .
+.
+.
+.
+.
+.
+.
+11d (                                ) (                                )
+12 
+Other assets (attach schedule) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Total assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+Liabilities and Shareholders’ Equity 
+14 
+Accounts payable .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Other current liabilities (attach schedule) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Loans from shareholders and other related persons .
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Other liabilities (attach schedule) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Capital stock: 
+a Preferred stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18a 
+b Common stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18b 
+19 
+Paid-in or capital surplus (attach reconciliation) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+Retained earnings .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+21 
+Less cost of treasury stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 (                                ) (                                )
+22 
+Total liabilities and shareholders’ equity .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+Form 8621-A (12-2013) 

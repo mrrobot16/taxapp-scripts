@@ -1,0 +1,13 @@
+Schedule D (Form 1040) is a document used for reporting capital gains and losses on your tax return. It is attached to Form 1040, 1040-SR, or 1040-NR. The form provides instructions and information on how to complete it. 
+
+The form is divided into three parts. 
+
+Part I is for reporting short-term capital gains and losses for assets held for one year or less. It includes various lines for reporting totals of transactions reported on Form 1099-B and Form 8949.
+
+Part II is for reporting long-term capital gains and losses for assets held for more than one year. It also includes lines for reporting totals of transactions reported on Form 1099-B and Form 8949.
+
+Part III is a summary section where you combine the gains and losses from Parts I and II. Depending on the result, you may need to complete additional worksheets or go to specific lines on Form 1040, 1040-SR, or 1040-NR.
+
+The form includes instructions and worksheets for calculating the amounts to enter on each line. It is important to follow the instructions and refer to additional forms and worksheets as necessary.
+
+For more detailed information and the latest updates, you can visit the IRS website at www.irs.gov/ScheduleD.

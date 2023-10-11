@@ -1,0 +1,5 @@
+Schedule H (Form 965) is a document issued by the Internal Revenue Service (IRS) that is used to report amounts reported on Forms 1116 and 1118, as well as disallowed foreign taxes. The form is to be attached to Form 965 and can be found on the IRS website.
+
+The form consists of multiple sections, with some sections reserved and others requiring specific information. Section 1 requires the entry of a separate category code and, if applicable, the country code for sanctioned countries. The form also includes sections for reporting the Section 965(a) inclusion in U.S. dollars with respect to pass-throughs from Schedule F, the Section 965(c) deduction in U.S. dollars from pass-throughs allocable to the Section 965(a) inclusion, taxes deemed paid through pass-throughs, the 2020 Applicable Percentage from pass-throughs, and disallowed foreign taxes through pass-throughs.
+
+The form provides instructions for each section and may require additional schedules or calculations to be attached. The form includes a Privacy Act and Paperwork Reduction Act Notice, which provides information on the collection and use of personal information.

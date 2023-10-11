@@ -1,0 +1,5 @@
+This document provides information about Form 1099-LS, which is used to report a reportable life insurance sale to the Internal Revenue Service (IRS). It includes instructions for different copies of the form that are provided to different parties involved in the transaction.
+
+Copy A of the form is for informational purposes only and is not scannable if printed from the website. It warns against printing and filing this copy as a penalty may be imposed for filing forms that can't be scanned. Copy B is for the payment recipient and should be provided to them to satisfy the requirement to provide information. Copy C is for the issuer and is provided for information only, as the payment recipient is required to report the information on their tax return. Copy D is for the acquirer and provides instructions for completing the form.
+
+The document also provides instructions for payment recipients, issuers, and acquirers on how to complete the form and where to find additional information and resources. It includes contact information for the information reporting customer service site for any questions or assistance with reporting on Form 1099-LS.

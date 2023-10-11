@@ -1,0 +1,15 @@
+Form 5884-D is a document provided by the Internal Revenue Service (IRS) for tax-exempt organizations affected by qualified disasters. The form is used to claim the Employee Retention Credit. 
+
+The form is to be filed separately and not attached to the tax return. The organization's name, employer identification number, trade name (if any), and address are required. If the form is being filed by a third-party payer, their information should also be provided. 
+
+The form asks if the organization is a qualified tax-exempt organization and if it is a federally chartered corporation or a federal, state, or local college, university, hospital, or medical care entity. If the organization does not meet these criteria, they cannot claim the credit. 
+
+The applicable qualified disaster zones for the year 2020 should be listed on the form. The employment tax return filed should be indicated, along with the employment tax period for which the credit is being claimed. 
+
+The form requires the organization to enter the total qualified wages for the 2020 qualified disaster employee retention credit paid in all employment tax periods. This amount should be multiplied by 40% to calculate the credit amount. 
+
+The number of eligible employees who earned the qualified wages should be entered, as well as the total amount of credits claimed on prior Forms 5884-D. 
+
+If the total credits claimed on prior forms are greater than the calculated credit amount, the organization owes the difference. Otherwise, the smaller of the calculated credit amount or the amount calculated by subtracting the total credits claimed on prior forms from the calculated credit amount is the amount to be refunded. 
+
+The form should be signed and mailed to the address provided, along with any required payment.

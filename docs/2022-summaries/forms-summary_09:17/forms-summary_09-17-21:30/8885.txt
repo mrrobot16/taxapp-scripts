@@ -1,0 +1,13 @@
+Form 8885 is a document issued by the Internal Revenue Service (IRS) in the United States. It is used to claim the Health Coverage Tax Credit (HCTC), which provides a credit for eligible individuals who paid premiums for qualified health insurance coverage. 
+
+The form is to be attached to the individual's tax return (Form 1040, 1040-SR, 1040-NR, 1040-SS, or 1040-PR). The form consists of two parts.
+
+Part I of the form is used to indicate the election to take the HCTC. The individual must check the box for the first month in the tax year that they elect to take the credit. They must also check the box for each subsequent month where certain conditions are met, such as being an eligible trade adjustment assistance (TAA) recipient or having a family member who falls into one of the eligible categories. Additionally, the individual must not be enrolled in certain other health insurance programs, not be imprisoned, and not have their employer pay a significant portion of the coverage cost.
+
+Part II of the form is used to calculate the HCTC. The individual must enter the total amount paid directly to their health plan for qualified health insurance coverage for the months indicated in Part I. They must also enter any Archer MSA or health savings account distributions used to pay for the coverage. The difference between these amounts is then calculated and entered on line 4. 
+
+If the individual received advance monthly payments or reimbursement of the HCTC for months not indicated in Part I, they must follow additional instructions provided on line 5. Otherwise, they must multiply the amount on line 4 by 72.5% and enter the result on their tax return on the appropriate line.
+
+It is important to note that the form requires the attachment of certain required documents for any amounts included on line 2. Failure to attach these documents may result in the disallowance of the credit.
+
+The form includes a cautionary note regarding individuals who can be claimed as dependents on someone else's tax return. These individuals are not eligible to complete Form 8885.

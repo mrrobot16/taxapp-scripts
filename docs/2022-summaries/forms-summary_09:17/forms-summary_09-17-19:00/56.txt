@@ -1,0 +1,11 @@
+Form 56 is a document issued by the Internal Revenue Service (IRS) in the United States for individuals or entities acting as fiduciaries. It is used to notify the IRS of the fiduciary relationship and provide relevant information.
+
+The form is divided into several sections. In Part I, the person acting as a fiduciary must provide the name and identifying number of the individual or entity they are acting on behalf of, as well as their own name and contact information. They must also indicate the authority for the fiduciary relationship, such as a court appointment or a valid trust instrument.
+
+Part II of the form allows the fiduciary to indicate if they are revoking or terminating any prior notices concerning fiduciary relationships with the IRS. They must provide a reason for the termination, such as a court order or dissolution of a business entity. If only a partial revocation is being made, the fiduciary must specify to whom the revocation applies and provide the necessary details.
+
+Part III is for reporting any court or administrative proceedings related to the fiduciary relationship. The fiduciary must provide the name of the court or agency, the date and address of the proceeding, and any relevant docket numbers.
+
+Finally, in Part IV, the fiduciary must sign the form under penalties of perjury, declaring that the information provided is true, correct, and complete.
+
+Form 56 is used to ensure that the IRS is aware of the fiduciary relationship and can properly assess and collect any taxes or liabilities associated with the individual or entity being represented.

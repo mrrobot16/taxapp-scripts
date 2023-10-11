@@ -1,0 +1,464 @@
+SCHEDULE L 
+(Form 1118)
+(Rev. December 2022)
+Foreign Tax Redeterminations
+Department of the Treasury 
+Internal Revenue Service
+Attach to Form 1118. 
+Go to www.irs.gov/Form1118 for instructions and the latest information.
+OMB No. 1545-0123
+For calendar year 20 
+, or other tax year beginning 
+, 20 
+, and ending 
+, 20 
+.
+Name of corporation
+Employer identification number
+Use a separate Schedule L (Form 1118) for each category of income (see instructions). 
+a
+Separate category (enter code—see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+If code 901j is entered on line a, enter the country code for the sanctioned country (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+If one of the RBT codes is entered on line a, enter the country code for the treaty country (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+d Check this box if election made under Regulations section 1.905-5(e) to account for foreign tax redeterminations with respect to pre-2018 tax years in 
+foreign corporation’s last pooling year (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part I
+Increase in Amount of Foreign Taxes Accrued (see instructions)
+Enter redetermined amounts by payor entity for each separate relation back year (starting with the most recent) followed by a subtotal for each relation back year (see instructions). 
+1. U.S. Tax Year 
+of Taxpayer to 
+Which Tax Relates 
+(Relation Back Year) 
+(MM/DD/YYYY)
+A
+2a. Name of Payor Entity
+2b. EIN or Reference ID Number of Payor Entity
+2c. Name of Owner of Payor Entity, if applicable 
+(see instructions)
+(1)
+(2)
+(3)
+B
+     
+     
+     
+(1)
+(2)
+(3)
+2d. EIN or Reference ID Number of Owner
+3. Country or 
+U.S. Possession 
+to Which Tax Is Paid 
+(enter code— 
+see instructions)
+4. Date Additional 
+Foreign Tax Was Paid 
+(MM/DD/YYYY)
+5. Foreign Tax Year 
+to Which Tax Relates 
+(MM/DD/YYYY)
+6. Payor Entity’s Income 
+Subject to Tax in the 
+Foreign Jurisdiction 
+(see instructions)
+7. Additional Tax Accrued 
+in Local Currency in Which 
+the Tax Is Payable
+  
+(1)
+A
+(2)
+  
+(3)
+  
+(1)
+B
+(2)
+  
+(3)
+8. Additional Tax Accrued 
+in Functional Currency 
+of Taxpayer’s QBU 
+or Foreign Corporation
+9. Conversion Rate 
+of Local Currency 
+to U.S. Dollars
+10. Additional Tax 
+Accrued 
+in U.S. Dollars 
+(divide column 7 
+by column 9)
+11. U.S. Dollar Tax 
+of Payor Entity per 
+Original/Amended 
+Return
+12. Revised Tax 
+Accrued 
+(add column 10 
+and column 11)
+13. Reference ID Number 
+for Contested Tax, if applicable 
+(see instructions)
+14. Check Box 
+if Change 
+Caused to High 
+Tax Exception/
+Exclusion 
+(see instructions)
+  
+(1)
+A
+(2)
+  
+(3)
+Subtotal by Relation Back Year of Taxpayer (add amounts in columns 10, 11, and 12)
+     
+     
+     
+     
+     
+     
+     
+  
+(1)
+B
+(2)
+  
+(3)
+Subtotal by Relation Back Year of Taxpayer (add amounts in columns 10, 11, and 12)
+* Important: See Computer-Generated Schedule L in the separate instructions for Schedule L (Form 1118).
+For Paperwork Reduction Act Notice, see the Instructions for Form 1118.
+Cat. No. 75132H
+Schedule L (Form 1118) (Rev. 12-2022)
+Schedule L (Form 1118) (Rev. 12-2022)
+Page 2
+Name of corporation
+Employer identification number
+Part II
+Decrease in Amount of Foreign Taxes Paid or Accrued (see instructions) 
+Enter redetermined amounts by payor entity for each separate relation back year (starting with the most recent) followed by a subtotal for each relation back year (see instructions).
+1. U.S. Tax Year 
+of Taxpayer to 
+Which Tax Relates 
+(Relation Back Year) 
+(MM/DD/YYYY)
+A
+2a. Name of Payor Entity
+2b. EIN or Reference ID Number of Payor Entity
+2c. Name of Owner of Payor Entity, if applicable 
+(see instructions)
+(1)
+(2)
+(3)
+B
+     
+     
+     
+(1)
+(2)
+(3)
+2d. EIN or Reference ID Number of Owner
+3. Country or 
+U.S. Possession 
+From Which Tax 
+Was Refunded or 
+Deemed Refunded 
+(enter code— 
+see instructions)
+4. Date Foreign Tax 
+Was Refunded or 
+Deemed Refunded 
+(MM/DD/YYYY) 
+(see instructions)
+5. Foreign Tax Year 
+to Which Tax Relates 
+(MM/DD/YYYY)
+6. Payor Entity’s Income 
+Subject to Tax in the 
+Foreign Jurisdiction 
+(see instructions)
+7. Tax Refunded or 
+Deemed Refunded 
+in Local Currency 
+in Which the 
+Tax Is Payable
+  
+(1)
+A
+(2)
+  
+(3)
+  
+(1)
+B
+(2)
+  
+(3)
+8. Refunded Amount 
+in Functional Currency 
+of Taxpayer’s QBU 
+or Foreign Corporation
+9. Conversion Rate 
+of Local Currency 
+to U.S. Dollars
+10. Refunded Amount 
+in U.S. Dollars 
+(divide column 7 by column 9)
+11. U.S. Dollar Tax 
+of Payor Entity per 
+Original/Amended Return
+12. Revised Tax 
+Paid or Accrued 
+(subtract column 10 
+from column 11)
+13. Check Box if 
+Section 905(c)(2) 
+Two Year Rule 
+Applies 
+(see instructions)
+14. Check Box if 
+Change Caused 
+to High Tax 
+Exception/Exclusion 
+(see instructions)
+  
+(1)
+A
+(2)
+  
+(3)
+Subtotal by Relation Back Year of Taxpayer 
+(add amounts in columns 10, 11, and 12) .
+.
+.
+.
+.
+.
+.
+.
+.
+     
+     
+     
+     
+     
+     
+     
+  
+(1)
+B
+(2)
+  
+(3)
+Subtotal by Relation Back Year of Taxpayer 
+(add amounts in columns 10, 11, and 12) .
+.
+.
+.
+.
+.
+.
+.
+.
+* Important: See Computer-Generated Schedule L in the separate instructions for Schedule L (Form 1118).
+Schedule L (Form 1118) (Rev. 12-2022)
+Schedule L (Form 1118) (Rev. 12-2022)
+Page 3
+Name of corporation
+Employer identification number
+Part III
+Change in Inclusions; Change in Foreign Taxes Paid, Accrued, or Deemed Paid; and Change in Foreign Tax Credits Claimed
+Enter the information below for the change in inclusions, change to the amount of foreign taxes paid, accrued, or deemed paid, and change in foreign tax credits claimed for each 
+relation back year. This information is reported on an overall taxpayer basis and not on a per payor entity basis.
+1. Relation Back Year 
+(MM/DD/YYYY)
+2. Redetermined 
+Direct Section 901 
+and/or 903 Taxes 
+Paid or Accrued
+3. Direct Section 901 
+and/or 903 Taxes  
+Paid or Accrued 
+per Original/Amended Return
+4. Redetermined 
+Section 951(a)(1) Inclusion
+5. Section 951(a)(1) Inclusion 
+per Original/Amended Return
+6. Redetermined Taxes 
+Deemed Paid 
+Under Section 960(a)
+7. Section 960(a) 
+Deemed Paid Taxes 
+per Original/Amended Return
+8. Redetermined 
+Section 951A Inclusion
+9. Section 951A Inclusion 
+per Original/Amended Return
+10. Redetermined Taxes 
+Deemed Paid 
+Under Section 960(d)
+11. Section 960(d) 
+Deemed Paid Taxes 
+per Original/Amended Return
+12. Redetermined Taxes 
+Deemed Paid 
+Under Section 960(b)(1)
+13. Section 960(b)(1) 
+Deemed Paid Taxes 
+per Original/Amended Return
+14. Redetermined Taxes 
+Deemed Paid 
+Under Section 902
+15. Section 902 
+Deemed Paid Taxes 
+per Original/Amended Return
+16. Amount of FTC Claimed 
+per Original/Amended Return
+17. Amount of FTC Claimed 
+After Redetermination
+Part IV
+Change in U.S. Tax Liability
+Enter the below information for the change in U.S. tax liability for each relation back year and other affected year. This information is reported on an overall taxpayer basis and not 
+on a per payor entity basis.
+1. Relation Back Year or Affected Tax Year 
+(MM/DD/YYYY)
+2. Total Redetermined 
+U.S. Tax Liability
+3. Total U.S. Tax Liability 
+per Original/Amended Return
+4. Difference 
+(subtract column 3 from column 2)
+* Important: See Computer-Generated Schedule L in the separate instructions for Schedule L (Form 1118).
+Schedule L (Form 1118) (Rev. 12-2022)
+Schedule L (Form 1118) (Rev. 12-2022)
+Page 4
+Name of corporation
+Employer identification number
+Part V
+Annual Reporting for Contested Taxes—Do Not Complete Part V For Tax Year 2022
+Beginning with tax year 2023, taxpayers will enter the information below for each contested foreign tax liability for which the taxpayer has previously made an election under 
+Regulations section 1.905-1(d)(4) to claim a provisional foreign tax credit.
+1. Relation Back Year 
+(MM/DD/YYYY)
+2. Name of Payor Entity 
+(see instructions)
+3. Reference ID Number 
+for the Contested Tax
+4. Country or U.S. Possession 
+to Which Tax Was Paid 
+(enter code)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+5. Amount of Contested Tax 
+Provisionally Claimed as Credit
+6. Contest Ongoing
+7. Contest Resolved
+8. Date Contest Resolved 
+(MM/DD/YYYY)
+9. Tax Refunded or Additional Tax Paid, if any 
+(see instructions)
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+* Important: See Computer-Generated Schedule L in the separate instructions for Schedule L (Form 1118).
+Schedule L (Form 1118) (Rev. 12-2022)

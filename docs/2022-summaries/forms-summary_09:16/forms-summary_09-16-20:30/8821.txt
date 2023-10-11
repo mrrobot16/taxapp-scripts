@@ -1,0 +1,17 @@
+Form 8821 is a Tax Information Authorization form provided by the Internal Revenue Service (IRS) in the United States. This form is used to authorize another person or entity to access and receive confidential tax information on behalf of the taxpayer. 
+
+The form consists of several sections:
+
+1. Taxpayer Information: The taxpayer must provide their name, address, taxpayer identification number(s), daytime telephone number, and plan number (if applicable). The taxpayer must sign and date the form on line 6.
+
+2. Designee(s): The taxpayer can name up to two designees to receive the tax information. If more than two designees are required, an additional list can be attached. The designee's name, address, telephone number, fax number, and whether they should receive copies of notices and communications should be provided. If the designee is new, their address, telephone number, and fax number should be indicated.
+
+3. Tax Information: The taxpayer must specify the type of tax information (e.g., income, employment, payroll, excise, estate, gift, civil penalty, etc.), the tax form number (e.g., 1040, 941, 720, etc.), the year(s) or period(s) for which the information is requested, and any specific tax matters.
+
+4. Specific Use Not Recorded on the Centralized Authorization File (CAF): If the tax information authorization is for a specific use not recorded on the Centralized Authorization File, this box should be checked.
+
+5. Retention/Revocation of Prior Tax Information Authorizations: If the line 4 box is checked, this line can be skipped. If the line 4 box is not checked, the IRS will automatically revoke all prior tax information authorizations unless the taxpayer checks the line 5 box and attaches a copy of the tax information authorization(s) they want to retain.
+
+6. Taxpayer Signature: The taxpayer must sign and date the form. If the form is being signed by someone other than the taxpayer, such as a corporate officer, partner, guardian, etc., they must certify that they have the legal authority to execute the form.
+
+It is important to complete all applicable lines on the form and not to sign the form unless all necessary information has been provided. This form should not be used to request copies of tax returns or to authorize someone to represent the taxpayer.

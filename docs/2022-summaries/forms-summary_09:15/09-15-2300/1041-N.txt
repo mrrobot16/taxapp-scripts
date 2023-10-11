@@ -1,0 +1,15 @@
+Form 1041-N is a U.S. Income Tax Return for Electing Alaska Native Settlement Trusts. It is used by these trusts to report their income and deductions for a calendar year or short year. 
+
+The form is divided into several parts. 
+
+Part I requires general information about the trust, including its name, employer identification number, trustee's name and address, and the name of the sponsoring Alaska Native Corporation. It also asks if Form 1041 was filed in the prior year. 
+
+Part II is for computing the trust's tax liability. It includes sections for reporting different types of income, such as interest income, dividends, capital gains or losses, and other income. It also includes sections for reporting deductions, such as taxes, trustee fees, and other deductions. The total deductions are subtracted from the total income to determine the taxable income. 
+
+Part III includes additional information about the trust, such as whether it received property or income from an Alaska Native Corporation, whether it had any foreign financial accounts, and whether it was required to file Form 8938. It also includes a section for making a section 643(e)(3) election. 
+
+The form also includes a Schedule D for reporting capital gains and losses, and a Schedule K for reporting distributions to beneficiaries. 
+
+The form must be signed by the trustee or an officer representing the trustee, and under penalties of perjury, they must declare that the return is true, correct, and complete. 
+
+The form includes instructions and a website for more information and updates.

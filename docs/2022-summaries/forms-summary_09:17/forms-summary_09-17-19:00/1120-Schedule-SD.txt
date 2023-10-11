@@ -1,0 +1,17 @@
+The Schedule D (Form 1120-S) is a document used by corporations in the United States to report capital gains and losses, as well as built-in gains. It is attached to Form 1120-S, which is the tax return form for S corporations.
+
+The form instructs corporations to use Form 8949 to list their transactions for certain lines on the Schedule D. The form provides a website, www.irs.gov/Form1120S, for instructions and the latest information.
+
+The first part of the form, Part I, is for reporting short-term capital gains and losses, which are assets held for one year or less. The form provides spaces to enter the proceeds (sales price), cost (or other basis), and adjustments to gain or loss from Form 8949. The form then calculates the gain or loss by subtracting the cost from the proceeds and combining the result with the adjustments.
+
+Part I also includes lines for reporting totals for all short-term transactions reported on Form 1099-B and Form 8949 with specific boxes checked. There are also lines for reporting short-term capital gain from installment sales and like-kind exchanges, as well as tax on short-term capital gain and net short-term capital gain or loss.
+
+Part II of the form is for reporting long-term capital gains and losses, which are assets held for more than one year. It follows a similar format to Part I, with spaces to enter proceeds, cost, adjustments, and calculate the gain or loss.
+
+Part II also includes lines for reporting totals for all long-term transactions reported on Form 1099-B and Form 8949 with specific boxes checked. There are also lines for reporting long-term capital gain from installment sales and like-kind exchanges, as well as capital gain distributions, tax on long-term capital gain, and net long-term capital gain or loss.
+
+Part III of the form is for reporting the built-in gains tax. It instructs corporations to attach a computation statement for the excess of recognized built-in gains over recognized built-in losses. The form also includes lines for reporting taxable income, net recognized built-in gain, Section 1374(b)(2) deduction, and calculating the built-in gains tax.
+
+The form concludes with line 23, which is for reporting the tax calculated in Part III. This tax amount is then entered on Form 1120-S, page 1, line 22b.
+
+Overall, the Schedule D (Form 1120-S) is used by corporations to report their capital gains and losses, as well as the built-in gains tax. It provides spaces for entering transaction details and calculates the gain or loss amounts.

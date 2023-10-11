@@ -1,0 +1,18 @@
+Form 1099-Q is a tax form used to report payments from qualified education programs under sections 529 and 530 of the Internal Revenue Code. The form is divided into three copies: Copy A is filed with the Internal Revenue Service (IRS), Copy B is furnished to the recipient, and Copy C is kept by the payer/trustee.
+
+The form includes sections for the payer/trustee's name, address, and taxpayer identification number (TIN), as well as the recipient's TIN, name, address, and account number. It also includes the following boxes to report information about the distribution:
+
+- Box 1: Gross distribution, including in-kind distributions, from a qualified tuition program (QTP) or a Coverdell education savings account (CESA).
+- Box 2: Earnings part of the gross distribution.
+- Box 3: Basis in the gross distribution.
+- Box 4: Indicates if there was a trustee-to-trustee transfer.
+- Box 5: Indicates if the distribution is from a QTP (private or state) or a CESA.
+- Box 6: Indicates if the recipient is not the designated beneficiary.
+
+The form provides instructions for recipients on how to determine the taxability of the distribution and references publications and forms for more information. It also includes instructions for payers/trustees on how to complete the form and where to find additional resources for assistance.
+
+The form warns recipients that failure to report taxable income may result in penalties or sanctions imposed by the IRS. It also mentions that the payer/trustee may only show the last four digits of the recipient's TIN on the form, but the complete TIN has been reported to the IRS.
+
+The form includes information about distribution codes that may be reported by the payer/trustee to identify the type of distribution received. It also provides information about future developments related to Form 1099-Q.
+
+Overall, Form 1099-Q is used to report payments from qualified education programs and provides important tax information for both the IRS and the recipients.

@@ -1,0 +1,15 @@
+Schedule D (Form 1120) is a document used by corporations in the United States to report capital gains and losses for the tax year. The form is attached to various tax forms such as Form 1120, 1120-C, 1120-F, and others.
+
+The form begins by asking if the corporation disposed of any investments in a qualified opportunity fund during the tax year. If yes, the corporation must attach Form 8949 and follow its instructions for reporting the gain or loss.
+
+The form is then divided into three parts: Part I for short-term capital gains and losses (assets held for one year or less), Part II for long-term capital gains and losses (assets held for more than one year), and Part III for summarizing the information from Parts I and II.
+
+In each part, the form provides lines to enter the proceeds (sales price), cost (or other basis), adjustments to gain or loss from Form 8949, and the resulting gain or loss. The form also includes specific lines for reporting short-term capital gains from installment sales, like-kind exchanges, and unused capital loss carryover.
+
+At the end of each part, the form instructs the corporation to combine the relevant lines to calculate the net short-term or long-term capital gain or loss.
+
+In Part III, the form provides lines to enter the excess of net short-term capital gain over net long-term capital loss and the excess of net long-term capital gain over net short-term capital loss. These amounts are then added together to determine the net capital gain, which is entered on Form 1120 or the applicable line on other tax returns.
+
+The form also includes a note that instructs corporations to refer to the instructions for Capital Losses if losses exceed gains.
+
+Overall, Schedule D (Form 1120) is a detailed form that helps corporations report their capital gains and losses accurately for tax purposes.

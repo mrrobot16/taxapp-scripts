@@ -1,0 +1,813 @@
+SCHEDULE E 
+(Form 5471)
+(Rev. December 2021)
+Income, War Profits, and Excess Profits Taxes Paid or Accrued
+Department of the Treasury 
+Internal Revenue Service
+▶ Attach to Form 5471. 
+▶ Go to www.irs.gov/Form5471 for instructions and the latest information.
+OMB No. 1545-0123
+Name of person filing Form 5471
+Identifying number
+Name of foreign corporation
+EIN (if any)
+Reference ID number (see instructions)
+a
+Separate Category (Enter code—see instructions.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+b
+If code 901j is entered on line a, enter the country code for the sanctioned country (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+c
+If one of the RBT codes is entered on line a, enter the country code for the treaty country (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part I
+Taxes for Which a Foreign Tax Credit Is Allowed
+Section 1 — Taxes Paid or Accrued Directly by Foreign Corporation
+(a) 
+Name of Payor Entity
+(b) 
+EIN or Reference 
+ID Number 
+of Payor Entity
+(c) 
+Unsuspended 
+Taxes
+(d) 
+Country or U.S. Possession 
+to Which Tax Is Paid 
+(Enter code—see instructions. 
+Use a separate line for each.)
+(e) 
+Foreign Tax Year of Payor 
+Entity to Which Tax Relates 
+(Year/Month/Day)
+(f) 
+U.S. Tax Year of Payor Entity 
+to Which Tax Relates 
+(Year/Month/Day)
+1
+2
+3
+4
+(g) 
+Income Subject to Tax 
+in the Foreign Jurisdiction 
+(see instructions)
+(h) 
+If taxes are paid on 
+U.S. source income, 
+check box
+(i) 
+Local Currency in 
+Which Tax Is Payable 
+(enter code—see instructions)
+(j) 
+Tax Paid or Accrued 
+(in local currency in which 
+the tax is payable)
+(k) 
+Conversion Rate 
+to U.S. Dollars
+(l) 
+In U.S. Dollars 
+(divide column (j) 
+by column (k))
+(m) 
+In Functional Currency 
+of Foreign Corporation
+1
+2
+3
+4
+5
+Total (combine lines 1 through 4 of column (l)). Also report amount on Schedule E-1, line 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+6
+Total (combine lines 1 through 4 of column (m))
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Section 2 — Taxes Deemed Paid by Foreign Corporation 
+(a) 
+Name of Lower-Tier Distributing Foreign Corporation
+(b) 
+EIN or Reference ID 
+Number of Lower-Tier 
+Distributing Foreign 
+Corporation
+(c) 
+Country or U.S. Possession to Which Tax Is Paid 
+(Enter code—see instructions. Use a separate line for each.)
+(d) 
+PTEP Group 
+(enter code)
+(e) 
+Annual PTEP Account 
+(enter year)
+1
+2
+3
+4
+(f) 
+PTEP Distributed 
+(enter amount in functional currency)
+(g) 
+Total Amount of PTEP in the PTEP Group 
+(in functional currency)
+(h) 
+Total Amount of the PTEP Group Taxes 
+With Respect to PTEP Group (USD)
+(i) 
+Foreign Income Taxes Properly Attributable 
+to PTEP and not Previously Deemed Paid 
+((column (f)/column (g)) x column (h)) (USD)
+1
+2
+3
+4
+5
+Total (combine lines 1 through 4 of column (i)). Also report amount on Schedule E-1, line 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 71397A
+Schedule E (Form 5471) (Rev. 12-2021)
+Schedule E (Form 5471) (Rev. 12-2021)
+Page 2
+Name of foreign corporation
+EIN (if any)
+Reference ID number (see instructions)
+a
+Separate Category (Enter code—see instructions.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+b
+If code 901j is entered on line a, enter the country code for the sanctioned country (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+c
+If one of the RBT codes is entered on line a, enter the country code for the treaty country (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part II
+Election
+For tax years beginning after December 31, 2004, has an election been made under section 986(a)(1)(D) to translate taxes using the exchange rate on the date of payment?
+Yes
+No
+If “Yes,” state date of election ▶
+Part III
+Taxes for Which a Foreign Tax Credit Is Disallowed (Enter in functional currency of foreign corporation.)
+(a) 
+Name of Payor Entity
+(b) 
+EIN or Reference 
+ID Number 
+of Payor Entity
+(c) 
+Section 901(j)
+(d) 
+Section 901(k) 
+and (l)
+(e) 
+Section 901(m)
+(f) 
+U.S. Taxes
+(g) 
+Suspended 
+Taxes
+(h) 
+Other
+(i) 
+Total
+1
+2
+3
+In functional currency (combine lines 1 and 2) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+4
+In U.S. dollars (translated at the average exchange rate, as defined in section 989(b)(3) and related regulations (see instructions)) .
+.
+.
+.
+.
+.
+.  ▶
+Schedule E-1
+Taxes Paid, Accrued, or Deemed Paid on Earnings and Profits (E&P) of Foreign Corporation
+IMPORTANT: Enter amounts in U.S. dollars.
+Taxes related to:
+(a) 
+Subpart F Income
+(b) 
+Tested Income
+(c) 
+Residual Income
+(d) 
+Suspended Taxes
+1a
+Balance at beginning of year (as reported in prior year Schedule E-1) .
+.
+.
+.
+.
+.
+.
+.
+-0-
+-0-
+-0-
+b
+Beginning balance adjustments (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Adjusted beginning balance (combine lines 1a and 1b) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Adjustment for foreign tax redetermination 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+Taxes unsuspended under anti-splitter rules .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Taxes suspended under anti-splitter rules .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Taxes reported on Schedule E, Part I, Section 1, line 5, column (l) .
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Taxes carried over in nonrecognition transactions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Taxes reported on Schedule E, Part I, Section 2, line 5, column (i) .
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Other adjustments (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+ 
+Taxes paid or accrued on current income/E&P or accumulated E&P (combine lines 1c 
+through 7) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Taxes deemed paid with respect to inclusions (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+Taxes deemed paid with respect to actual distributions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Taxes on amounts reclassified to section 959(c)(1) E&P from section 959(c)(2) E&P 
+.
+.
+.
+12
+Other (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+Balance of taxes paid or accrued (combine lines 8 through 12 in columns (a), (b), and (c))
+14
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Reduction for other taxes not deemed paid 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+  
+  
+ 
+Balance of taxes paid or accrued at the beginning of the next year. Line 16, columns (a), (b), 
+and (c) must always equal zero. So, if necessary, enter negative amounts on line 15 of 
+columns (a), (b), and (c) in amounts sufficient to reduce line 13, columns (a), (b), and (c) to 
+zero. For the remaining columns, combine lines 8 through 12 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+-0-
+-0-
+-0-
+Schedule E (Form 5471) (Rev. 12-2021)
+Schedule E (Form 5471) (Rev. 12-2021)
+Page 3
+Name of foreign corporation
+EIN (if any)
+Reference ID number (see instructions)
+a
+Separate Category (Enter code—see instructions.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+b
+If code 901j is entered on line a, enter the country code for the sanctioned country (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+c
+If one of the RBT codes is entered on line a, enter the country code for the treaty country (see instructions)  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Schedule E-1
+Taxes Paid, Accrued, or Deemed Paid on Accumulated Earnings and Profits (E&P) of Foreign Corporation (continued)
+(e) Taxes related to previously taxed E&P (see instructions)
+(i) 
+Reclassified 
+section 965(a) 
+PTEP 
+(ii) 
+Reclassified 
+section 965(b) 
+PTEP
+(iii) 
+General 
+section 959(c)(1) 
+PTEP
+(iv) 
+Reclassified 
+section 951A 
+PTEP
+(v) 
+Reclassified 
+section 245A(d) 
+PTEP
+(vi) 
+Section 965(a) 
+PTEP
+(vii) 
+Section 965(b) 
+PTEP
+(viii) 
+Section 951A 
+PTEP
+(ix) 
+Section 245A(d) 
+PTEP
+(x) 
+Section 951(a)(1)(A) 
+PTEP
+1a
+b
+c
+2
+3a
+b
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Schedule E (Form 5471) (Rev. 12-2021)

@@ -1,0 +1,7 @@
+Schedule A (Form 8975) is a tax document that is used to report tax jurisdiction and constituent entity information for multinational enterprise groups. Each tax jurisdiction requires a separate Schedule A to be completed. The form requires financial amounts to be stated in US dollars and includes sections for reporting revenues, profit (loss) before income tax, income tax paid, income tax accrued, stated capital, accumulated earnings, number of employees, and tangible assets. 
+
+The form also includes a section for reporting constituent entity information, including the name, role, taxpayer identification number (TIN), tax jurisdiction of organization or incorporation, and main business activities. 
+
+There is also a section for providing any additional information related to the information reported in Parts I and II.
+
+The form can be found on the IRS website along with instructions and the latest information. The form is subject to the Paperwork Reduction Act.

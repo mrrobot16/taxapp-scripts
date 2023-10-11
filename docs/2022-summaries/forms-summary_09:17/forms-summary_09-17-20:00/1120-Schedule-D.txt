@@ -1,0 +1,323 @@
+SCHEDULE D 
+(Form 1120)
+2022
+Capital Gains and Losses
+Department of the Treasury 
+Internal Revenue Service
+Attach to Form 1120, 1120-C, 1120-F, 1120-FSC, 1120-H, 1120-IC-DISC, 1120-L, 1120-ND, 1120-PC,  
+1120-POL, 1120-REIT, 1120-RIC, 1120-SF, or certain Forms 990-T.
+Go to www.irs.gov/Form1120 for instructions and the latest information.
+OMB No. 1545-0123
+Name
+Employer identification number
+Did the corporation dispose of any investment(s) in a qualified opportunity fund during the tax year?
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” attach Form 8949 and see its instructions for additional requirements for reporting your gain or loss. 
+Part I
+Short-Term Capital Gains and Losses—Assets Held One Year or Less
+See instructions for how to figure the amounts to enter on 
+the lines below.  
+This form may be easier to complete if you round off cents to 
+whole dollars. 
+(d)  
+Proceeds  
+(sales price)
+(e)  
+Cost  
+(or other basis)
+(g) Adjustments to gain 
+or loss from Form(s) 
+8949, Part I, line 2, 
+column (g)
+(h) Gain or (loss)  
+Subtract column (e) from 
+column (d) and combine 
+the result with column (g)
+1a 
+ 
+  
+  
+Totals for all short-term transactions reported on Form 
+1099-B for which basis was reported to the IRS and for 
+which you have no adjustments (see instructions). However, 
+if you choose to report all these transactions on Form 8949, 
+leave this line blank and go to line 1b .
+.
+.
+.
+.
+.
+1b Totals for all transactions reported on Form(s) 8949 
+with Box A checked 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 Totals for all transactions reported on Form(s) 8949 
+with Box B checked 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+3 Totals for all transactions reported on Form(s) 8949 
+with Box C checked .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Short-term capital gain from installment sales from Form 6252, line 26 or 37 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Short-term capital gain or (loss) from like-kind exchanges from Form 8824 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Unused capital loss carryover (attach computation) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+( 
+)
+7
+Net short-term capital gain or (loss). Combine lines 1a through 6 in column h 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Part II
+Long-Term Capital Gains and Losses—Assets Held More Than One Year
+See instructions for how to figure the amounts to enter on 
+the lines below. 
+This form may be easier to complete if you round off cents to 
+whole dollars. 
+(d)  
+Proceeds  
+(sales price)
+(e)  
+Cost  
+(or other basis)
+(g) Adjustments to gain 
+or loss from Form(s) 
+8949, Part II, line 2, 
+column (g)
+(h) Gain or (loss)  
+Subtract column (e) from 
+column (d) and combine 
+the result with column (g)
+8a 
+ 
+ 
+ 
+Totals for all long-term transactions reported on Form  
+1099-B for which basis was reported to the IRS and for 
+which you have no adjustments (see instructions). However, 
+if you choose to report all these transactions on Form 8949, 
+leave this line blank and go to line 8b .
+.
+.
+.
+.
+.
+8b Totals for all transactions reported on Form(s) 8949 
+with Box D checked .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 Totals for all transactions reported on Form(s) 8949 
+with Box E checked 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 Totals for all transactions reported on Form(s) 8949 
+with Box F checked 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+11
+Enter gain from Form 4797, line 7 or 9  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Long-term capital gain from installment sales from Form 6252, line 26 or 37 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Long-term capital gain or (loss) from like-kind exchanges from Form 8824 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Capital gain distributions (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Net long-term capital gain or (loss). Combine lines 8a through 14 in column h
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Part III
+Summary of Parts I and II
+16
+Enter excess of net short-term capital gain (line 7) over net long-term capital loss (line 15) 
+.
+.
+.
+.
+.
+16
+17
+Net capital gain. Enter excess of net long-term capital gain (line 15) over net short-term capital loss (line 7) 
+17
+18
+Add lines 16 and 17. Enter here and on Form 1120, page 1, line 8, or the applicable line on other returns   
+18
+Note: If losses exceed gains, see Capital Losses in the instructions.
+For Paperwork Reduction Act Notice, see the Instructions for Form 1120.
+Cat. No. 11460M
+Schedule D (Form 1120) 2022

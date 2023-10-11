@@ -1,0 +1,13 @@
+Schedule C is a form provided by the Department of the Treasury's Internal Revenue Service for organizations that are exempt from income tax under section 501(c) and section 527. This form is to be completed and attached to Form 990 or Form 990-EZ. It is used to report political campaign and lobbying activities.
+
+The form has different sections to be completed based on the type of organization and the activities it has engaged in. Section 501(c)(3) organizations are required to complete Parts I-A and B, while section 501(c) organizations other than section 501(c)(3) are required to complete Parts I-A and C. Section 527 organizations only need to complete Part I-A.
+
+If the organization has engaged in political campaign activities, it needs to provide a description of its direct and indirect political campaign activities and report the expenditures and volunteer hours related to these activities.
+
+For section 501(c)(3) organizations that have filed Form 5768 (election under section 501(h)), they need to complete Part II-A to report their lobbying activities. If they have not filed Form 5768, they need to complete Part II-B and provide a detailed description of their lobbying activities.
+
+Section 501(c)(4), (5), or (6) organizations need to complete Part III to report their lobbying and political campaign activities. They need to indicate if substantially all of their dues received from members are nondeductible and if they have made only in-house lobbying expenditures of $2,000 or less.
+
+Part IV is a supplemental information section where organizations can provide additional details and descriptions related to their political campaign and lobbying activities.
+
+The form also includes instructions and references to the latest information available on the IRS website.

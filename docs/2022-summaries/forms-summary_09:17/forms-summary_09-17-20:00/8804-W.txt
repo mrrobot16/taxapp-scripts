@@ -1,0 +1,1690 @@
+Form 8804-W
+2023
+Installment Payments of Section 1446 Tax for Partnerships
+Department of the Treasury  
+Internal Revenue Service 
+Go to www.irs.gov/Form8804W for instructions and the latest information.
+OMB No. 1545-0123
+For calendar year 2023, or tax year beginning 
+, 2023, ending
+, 20
+(WORKSHEET for the partnership’s records—Do Not File)
+Part I
+Determination of Installment Payments
+1 
+Allocable share of effectively connected taxable income (ECTI) expected for the 
+tax year for all foreign partners. See instructions.
+a
+Total ECTI allocable to corporate partners .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b Reduction to line 1a for state and local taxes under Regulations section
+1.1446-6(c)(1)(iii) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b (                          )
+c Reduction to line 1a for certified foreign partner-level items submitted using 
+Form 8804-C 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c (                          )
+d
+Combine lines 1a, 1b, and 1c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d
+e
+Total ECTI allocable to non-corporate partners other than on lines 1i, 1m, and 1q 
+1e
+f 
+Reduction to line 1e for state and local taxes under Regulations section
+1.1446-6(c)(1)(iii) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1f
+(                          )
+g Reduction to line 1e for certified foreign partner-level items submitted using 
+Form 8804-C 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1g (                          )
+h
+Combine lines 1e, 1f, and 1g 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1h
+i
+28% rate gain (non-corporate partners only) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1i
+j
+Reduction to line 1i for state and local taxes under Regulations section 1.1446-6(c)(1)(iii)
+1j
+(                          )
+k Reduction to line 1i for certified foreign partner-level items submitted using 
+Form 8804-C 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1k (                          )
+l
+Combine lines 1i, 1j, and 1k .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1l
+m Unrecaptured section 1250 gain (non-corporate partners only) 
+.
+.
+.
+.
+.
+1m
+n Reduction to line 1m for state and local taxes under Regulations section
+1.1446-6(c)(1)(iii) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1n (                          )
+o Reduction to line 1m for certified foreign partner-level items submitted using 
+Form 8804-C 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1o (                          )
+p
+Combine lines 1m, 1n, and 1o .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1p
+q Adjusted net capital gain (including qualified dividend income and net section
+1231 gain) (non-corporate partners only) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1q
+r
+Reduction to line 1q for state and local taxes under Regulations section 1.1446-6(c)(1)(iii)
+1r
+(                          )
+s Reduction to line 1q for certified foreign partner-level items submitted using 
+Form 8804-C 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1s (                          )
+t
+Combine lines 1q, 1r, and 1s 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1t
+2
+Multiply line 1d by 21% (0.21) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Multiply line 1h by 37% (0.37) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Multiply line 1l by 28% (0.28) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Multiply line 1p by 25% (0.25) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Multiply line 1t by 20% (0.20) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Add lines 2 through 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Note: If the aggregate line 7 amount of all foreign partners is less than $500, the partnership is not 
+required to make estimated tax payments.
+8 
+ 
+Enter the total section 1446 tax that would have been due for 2022, without regard to reductions for 
+certified foreign partner-level items or state and local taxes under Regulations section 1.1446-6(c)(1)
+(iii), on ECTI allocable to all foreign partners for 2022 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+Caution: This line 8 amount only applies if certain conditions are met. See instructions.
+9 
+Enter the smaller of line 7 or line 8. However, see Caution below. If the line 8 amount does not apply, 
+enter the amount from line 7 on line 9 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Caution: If, for any installment payment, line 7 is smaller than line 8 and you enter that smaller line 7 amount, you will not 
+qualify for the prior year safe harbor when determining any penalty due on Schedule A (Form 8804). See instructions.
+(a)
+(b)
+(c)
+(d)
+10
+Installment due dates. See instructions 
+.
+.
+10
+11 
+ 
+ 
+ 
+Enter 25% (0.25) of line 9 in columns (a) through 
+(d). If the partnership uses the annualized income 
+installment method or the adjusted seasonal 
+installment method, then enter the amount from 
+line 43 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12 
+Enter certain amounts paid or credited for each 
+period. See instructions .
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Balance due. Subtract line 12 from line 11 .
+.
+13
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 40849X
+Form 8804-W (2023)
+Form 8804-W (2023)
+WORKSHEET—Do Not File
+Page 2
+Part II
+Adjusted Seasonal Installment Method (see instructions) 
+(Use this method only if the base period percentage for any 6 consecutive months is at least 70%.)
+(a)
+First 3  
+months
+(b)
+First 5  
+months
+(c)
+First 8  
+months
+(d)
+First 11 
+months
+14 
+Enter ECTI allocable to all foreign partners for the following 
+periods.
+a
+Tax year beginning in 2020 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14a
+b
+Tax year beginning in 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14b
+c
+Tax year beginning in 2022 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14c
+15 
+ 
+Enter ECTI allocable to all foreign partners for each period for 
+the tax year beginning in 2023. See instructions for the treatment 
+of extraordinary items .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+First 4  
+months
+First 6  
+months
+First 9  
+months
+Entire  
+year
+16 
+Enter ECTI allocable to all foreign partners for the following 
+periods.
+a
+Tax year beginning in 2020 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16a
+b
+Tax year beginning in 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16b
+c
+Tax year beginning in 2022 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16c
+17 
+Divide the amount in each column on line 14a by the amount 
+in column (d) on line 16a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18 
+Divide the amount in each column on line 14b by the amount 
+in column (d) on line 16b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19 
+Divide the amount in each column on line 14c by the amount 
+in column (d) on line 16c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Add lines 17 through 19 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21
+Divide line 20 by 3.0 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22a
+Divide line 15 by line 21 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22a
+b
+Extraordinary items (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+22b
+c
+Combine lines 22a and 22b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22c
+23 
+ 
+ 
+Reduction to line 22c amount for state and local taxes 
+under Regulations section 1.1446-6(c)(1)(iii) and for certified 
+foreign partner-level items submitted using Form 8804-C. See 
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24
+Subtract line 23 from line 22c. If zero or less, enter -0- .
+.
+.
+24
+25a Multiply the ECTI on line 24 allocable to non-corporate partners 
+by 37% (0.37) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25a
+b Multiply the ECTI on line 24 allocable to corporate partners by 
+21% (0.21) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25b
+c
+Combine lines 25a and 25b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25c
+26a Divide the amount in columns (a) through (c) on line 16a by the 
+amount in column (d) on line 16a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26a
+b Divide the amount in columns (a) through (c) on line 16b by the 
+amount in column (d) on line 16b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26b
+c Divide the amount in columns (a) through (c) on line 16c by the 
+amount in column (d) on line 16c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26c
+27
+Add lines 26a through 26c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27
+28
+Divide line 27 by 3.0 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28
+29 
+ 
+ 
+Multiply the amount in columns (a) through (c) of line 25c by 
+the amount in the corresponding column of line 28. In column 
+(d), enter the amount from line 25c, column (d). See line 37 for 
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29
+ Form 8804-W (2023)
+Form 8804-W (2023)
+WORKSHEET—Do Not File
+Page 3
+Part III
+Annualized Income Installment Method (see instructions)
+(                     ) (                     ) (                     ) (                     )
+(                     ) (                     ) (                     ) (                     )
+(                     ) (                     ) (                     ) (                     )
+(                     ) (                     ) (                     ) (                     )
+(                     ) (                     ) (                     ) (                     )
+(                     ) (                     ) (                     ) (                     )
+(                     ) (                     ) (                     ) (                     )
+(                     ) (                     ) (                     ) (                     )
+(                     ) (                     ) (                     ) (                     )
+(                     ) (                     ) (                     ) (                     )
+(a)
+(b)
+(c)
+(d)
+30
+Annualization periods (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+30
+First
+months
+First
+months
+First
+months
+First
+months
+31 
+Enter ECTI allocable to all foreign partners for each annualization 
+period. See instructions for the treatment of extraordinary items.
+a
+Total ECTI allocable to corporate partners .
+.
+.
+.
+.
+.
+.
+31a
+b Total ECTI allocable to non-corporate partners other than on 
+lines 31c, 31d, and 31e .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+31b
+c
+28% rate gain (non-corporate partners only) 
+.
+.
+.
+.
+.
+.
+31c
+d
+Unrecaptured section 1250 gain (non-corporate partners only) 
+31d
+e Adjusted net capital gain (including qualified dividend income 
+and net section 1231 gain) (non-corporate partners only) .
+.
+31e
+32
+Annualization amounts (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+32
+33 
+ 
+Annualized allocable share of ECTI for all foreign partners. See instructions 
+for the treatment of extraordinary items, and for rules regarding the 
+reductions for state and local taxes and certified foreign partner-level items.
+a
+Total ECTI allocable to corporate partners (multiply line 31a by line 32)
+33a
+b Reduction to line 33a for state and local taxes under Regulations 
+section 1.1446-6(c)(1)(iii) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33b
+c Reduction to line 33a for certified foreign partner-level items 
+submitted using Form 8804-C .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33c
+d
+Combine lines 33a, 33b, and 33c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33d
+e Total ECTI allocable to non-corporate partners other than on 
+lines 31i, 31m, and 31q (multiply line 31b by line 32) .
+.
+.
+.
+33e
+f 
+Reduction to line 33e for state and local taxes under Regulations 
+section 1.1446-6(c)(1)(iii) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33f
+g Reduction to line 33e for certified foreign partner-level items 
+submitted using Form 8804-C .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33g
+h
+Combine lines 33e, 33f, and 33g .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33h
+i 
+28% rate gain allocable to non-corporate partners (multiply line 
+31c by line 32) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33i
+j 
+Reduction to line 33i for state and local taxes under Regulations 
+section 1.1446-6(c)(1)(iii) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33j
+k Reduction to line 33i for certified foreign partner-level items 
+submitted using Form 8804-C .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33k
+l
+Combine lines 33i, 33j, and 33k 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33l
+m Unrecaptured section 1250 gain allocable to non-corporate 
+partners (multiply line 31d by line 32) .
+.
+.
+.
+.
+.
+.
+.
+.
+33m
+n Reduction to line 33m for state and local taxes under Regulations 
+section 1.1446-6(c)(1)(iii) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33n
+o Reduction to line 33m for certified foreign partner-level items 
+submitted using Form 8804-C .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33o
+p
+Combine lines 33m, 33n, and 33o .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33p
+q 
+ 
+Adjusted net capital gain (including qualified dividend income 
+and net section 1231 gain) (non-corporate partners only) 
+(multiply line 31e by line 32) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33q
+r 
+Reduction to line 33q for state and local taxes under Regulations 
+section 1.1446-6(c)(1)(iii) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33r
+s Reduction to line 33q for certified foreign partner-level items 
+submitted using Form 8804-C .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33s
+t
+Combine lines 33q, 33r, and 33s .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33t
+34
+Figure the tax on line 33 amounts as follows.
+a
+Multiply line 33d by 21% (0.21) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+34a
+b
+Multiply line 33h by 37% (0.37) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+34b
+c
+Multiply line 33l by 28% (0.28) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+34c
+d
+Multiply line 33p by 25% (0.25) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+34d
+e
+Multiply line 33t by 20% (0.20) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+34e
+f
+Add lines 34a through 34e .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+34f
+35
+Applicable percentage 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+35
+25%
+50%
+75%
+100%
+36
+Multiply line 34f by line 35. See line 37 for instructions .
+.
+.
+36
+ Form 8804-W (2023)
+Form 8804-W (2023)
+WORKSHEET—Do Not File
+Page 4
+Part IV
+Required Installments Under Part II and/or Part III
+Note: Complete lines 37 through 43 of one column before completing 
+the next column.
+(a)
+1st 
+installment
+(b)
+2nd 
+installment
+(c)
+3rd 
+installment
+(d)
+4th 
+installment
+37 
+ 
+ 
+If only Part II or Part III is completed, enter the amount in each 
+column from line 29 or line 36. If both parts are completed, 
+enter the smaller of the amounts in each column from line 29 
+or line 36 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+37
+38 
+Add the amounts in all preceding columns of line 43. See 
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+38
+39 
+Adjusted seasonal or annualized income installments. 
+Subtract line 38 from line 37. If zero or less, enter -0- 
+.
+.
+.
+39
+40
+Enter 25% (0.25) of line 7 in each column 
+.
+.
+.
+.
+.
+.
+.
+40
+41 
+Subtract line 43 of the preceding column from line 42 of the 
+preceding column .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+41
+42
+Add lines 40 and 41 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+42
+43 
+Required installments. Enter the smaller of line 39 or line 42 
+here and on line 11 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+43
+ Form 8804-W (2023)

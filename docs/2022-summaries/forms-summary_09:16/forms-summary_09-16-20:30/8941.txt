@@ -1,0 +1,19 @@
+Form 8941 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Credit for Small Employer Health Insurance Premiums. This form must be attached to the taxpayer's tax return.
+
+The form begins with a series of questions to determine eligibility for the credit. If the taxpayer paid premiums for employee health insurance coverage through a Small Business Health Options Program (SHOP) Marketplace, they proceed with filling out the form. If not, they are instructed to stop and not file Form 8941.
+
+The form then asks for the employer identification number (EIN) used to report employment taxes if it is different from the identifying number listed above.
+
+Next, the form asks if a previous tax return filed between 2013 and 2021 included a Form 8941 with certain criteria met. If so, the taxpayer is instructed to stop and not file Form 8941.
+
+The form then proceeds with a series of lines where the taxpayer must enter information such as the number of employees, the number of full-time equivalent employees, average annual wages, and premiums paid for health insurance coverage.
+
+Various calculations are performed on these numbers to determine the applicable percentage and the amount of the credit. The form also includes worksheets for additional calculations if needed.
+
+Finally, the form asks for information on any state premium subsidies or tax credits received and calculates the final credit amount.
+
+Depending on the type of taxpayer (partnerships, S corporations, cooperatives, estates, trusts, or tax-exempt entities), there may be additional steps or instructions to follow.
+
+The form concludes with instructions on where to report the credit amount on the taxpayer's tax return, depending on their entity type.
+
+Taxpayers are advised to refer to the instructions provided by the IRS for more detailed information and guidance on completing Form 8941.

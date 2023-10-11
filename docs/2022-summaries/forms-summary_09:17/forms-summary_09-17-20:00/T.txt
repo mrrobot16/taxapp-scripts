@@ -1,0 +1,983 @@
+Form T (Timber)
+(Rev. December 2013) 
+Department of the Treasury  
+Internal Revenue Service
+Forest Activities Schedule 
+▶ Attach to your tax return. 
+▶ Information about Form T (Timber) and its separate instructions is at www.irs.gov/timber.
+For tax year ending 
+, 20 
+. 
+OMB No. 1545-0007
+Attachment   
+Sequence No. 117
+Name(s) as shown on return 
+Identifying number 
+Part I 
+Acquisitions 
+1 
+Name of block and title of account 
+2 
+Location of property (by legal subdivisions or map surveys) 
+3 a Name and address of seller or person from whom property was acquired 
+b  Date acquired 
+4 
+Amount paid: 
+a In cash .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b In interest-bearing notes 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c In non-interest-bearing notes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a Amount of other consideration .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Explain the nature of other consideration and how you determined the amount shown on line 5a. 
+6 
+Legal expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+Cruising, surveying, and other acquisition expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Total cost or other basis of property. Add lines 4a through 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+Allocation of total cost or other basis on books: 
+Unit 
+Number of units 
+Cost or other 
+basis per unit 
+Total cost or other basis 
+a Forested land 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Acre 
+b Other unimproved land 
+.
+.
+.
+.
+.
+.
+.
+Acre 
+c Improved land (describe)  ▶
+Acre 
+   
+d Merchantable timber. Estimate the quantity  
+of merchantable timber present on the  
+acquisition date (see Regulations section 
+1.611-3(e)). Details of the timber estimate, 
+made for purposes of the acquisition, should  
+be available if your return is examined. 
+{
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+e Premerchantable timber. Make an allocation  
+here only if it is a factor in the total cost or  
+value of the land. 
+{
+   
+   
+   
+   
+   
+   
+f 
+Improvements (list separately) 
+   
+   
+   
+   
+   
+g Mineral rights 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+h Total cost or other basis (same amount as line 8). Add lines 9a through 9g 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 16717G 
+Form  T (Timber)  (Rev. 12-2013) 
+Form T (Timber) (Rev. 12-2013)
+Page 2 
+Part II 
+Timber Depletion  (see instructions) 
+1 
+Name of block and title of account  ▶
+If you express timber quantity in thousand board feet (MBF), 
+log scale, name the log rule used. If another unit of measure is 
+used, provide details  ▶
+(a) 
+Quantity 
+ (b) 
+Cost or  
+other basis
+2 
+Estimated quantity of timber and cost or other basis returnable through depletion 
+at end of the preceding tax year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Increase or decrease of quantity of timber required by way of correction .
+.
+.
+4 a Addition for growth (number of years covered ▶
+) .
+.
+.
+.
+.
+.
+b Transfers from premerchantable timber account .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c Transfers from deferred reforestation account .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+Timber acquired during tax year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Addition to capital during tax year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+Total at end of tax year, before depletion. Add lines 2 through 6 .
+.
+.
+.
+.
+.
+8 
+Unit rate returnable through depletion, or basis of sales or losses. Divide line 7, 
+column (b), by line 7, column (a) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+Quantity of timber cut during tax year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+Depletion for the current tax year. Multiply line 8 by line 9 .
+.
+.
+.
+.
+.
+.
+.
+11 
+Quantity of standing timber sold or otherwise disposed of during tax year 
+.
+.
+12 
+Allowable as basis of sale. Multiply line 8 by line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+Quantity of standing timber lost by fire or other cause during tax year .
+.
+.
+.
+14 
+Allowable basis of loss plus any excess amount where decrease in FMV (before 
+and after the casualty) exceeds the standard depletion amount, but not the block 
+basis (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+Total reductions during tax year: 
+a In column (a), add lines 9, 11, and 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b In column (b), add lines 10, 12, and 14 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+Net quantity and value at end of tax year. In column (a), subtract line 15a from 
+line 7. In column (b), subtract line 15b from line 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+Quantity of cut timber that was sold as logs or other rough products 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+Section 631(a): 
+a Are you electing, or have you made an election in a prior tax year that is in effect, to report gains or 
+losses from the cutting of timber under section 631(a)? (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+b Are you revoking your section 631(a) election (see instructions)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+Effective date  ▶
+Form T (Timber) (Rev. 12-2013) 
+Form T (Timber) (Rev. 12-2013)
+Page 3 
+Part III 
+Profit or Loss From Land and Timber Sales  (see instructions) 
+1 
+Name of block and title of account 
+2 
+Location of property (by legal subdivisions or map surveys) 
+3 a Purchaser’s name and address 
+b  Date of sale 
+4 
+Amount received: a In cash .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b In interest-bearing notes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c In non-interest-bearing notes 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a Amount of other consideration .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Explain the nature of other consideration and how you determined the amount shown on line 5a: 
+6 
+Total amount received for property. Add lines 4a, 4b, 4c, and 5a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+Cost or other basis of property: 
+Unit 
+Number of units 
+Cost or other 
+basis per unit 
+Total cost or other basis 
+a Forested land 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Acre 
+b Nonforested land .
+.
+.
+.
+.
+.
+.
+.
+.
+Acre 
+c Improved land (describe)  ▶
+Acre 
+d Merchantable timber. Estimate in detail the  
+quantity of merchantable timber on the date  
+of sale or exchange. Include the quantity of  
+timber in each species of timber by  
+diameter at breast height (DBH) classes.  
+State the log rule used if the unit of measure 
+is thousand board feet (MBF), log scale. If  
+another unit of measure is used, provide  
+details.  ▶
+{
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+e Premerchantable timber .
+.
+.
+.
+.
+.
+. {
+   
+   
+   
+   
+   
+   
+   
+   
+f 
+Improvements (list separately) 
+   
+   
+   
+   
+g Mineral rights 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+h Total cost or other basis. Add lines 7a through 7g 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+i 
+Direct sale expenses (cruising, marking, selling) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Profit or loss. Subtract the sum of lines 7h and 7i from line 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form T (Timber) (Rev. 12-2013) 
+Form T (Timber) (Rev. 12-2013)
+Page 4 
+Part IV 
+Reforestation and Timber Stand Activities (see instructions) 
+Account, block, tract, area, or stand ID for each  
+Qualified Timber Property (QTP) 
+Kind of activity (burning, chopping,  
+spraying, planting, seeding, thinning,  
+pruning, fertilizing, etc.) 
+Number of  
+acres treated 
+Total  
+expenditures 
+1 
+2 
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Total reforestation expenses 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4a Amount to be expensed under section 194(b).  
+(See instructions for limitations) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Amount to be amortized under IRC 194(a), including remaining reforestation  
+expenditures not expensed under section 194(b) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part V 
+Land Ownership 
+Show all changes in land accounts. Attach as many additional sheets as needed, following the format of lines 1 through 6. 
+1 
+ 
+Name of block and title of account  ▶
+Acres 
+Total cost 
+or other basis. Give  
+amount of March 1,  
+1913 appreciation, if  
+included 
+Average rate 
+ per acre 
+2
+Balance at beginning of year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Acquisitions during year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Sales during year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Other changes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Balance at end of year. Add lines 2 and 3, subtract line 4 and  
+add or subtract line 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Additional Information. 
+Form T (Timber) (Rev. 12-2013) 

@@ -1,0 +1,373 @@
+SCHEDULE NEC 
+(Form 1040-NR)
+2022
+Tax on Income Not Effectively Connected With a U.S. Trade or Business
+Department of the Treasury  
+Internal Revenue Service
+Go to www.irs.gov/Form1040NR for instructions and the latest information. 
+Attach to Form 1040-NR.
+OMB No. 1545-0074
+Attachment   
+Sequence No. 7B
+Name shown on Form 1040-NR
+Your identifying number
+Enter amount of income under the appropriate rate of tax. See instructions.
+Nature of Income
+(a) 10%
+(b) 15%
+(c) 30%
+(d) Other (specify)
+     
+     
+     
+     
+%
+%
+1
+Dividends and dividend equivalents:
+a
+Dividends paid by U.S. corporations 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b
+Dividends paid by foreign corporations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+c
+Dividend equivalent payments received with respect to section 871(m) transactions  
+1c
+2
+Interest:
+a
+Mortgage .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b
+Paid by foreign corporations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c
+Other 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+3
+Industrial royalties (patents, trademarks, etc.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Motion picture or TV copyright royalties 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Other royalties (copyrights, recording, publishing, etc.) .
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Real property income and natural resources royalties 
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Pensions and annuities .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Social security benefits .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Capital gain from line 18 below 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10 
+Gambling—Residents of Canada only. Enter net income in column (c). 
+If zero or less, enter -0-.
+a
+Winnings
+b
+Losses
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10c
+11 
+Gambling winnings—Residents of countries other than Canada. 
+Note: Losses not allowed .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12 
+Other (specify):
+12
+13
+Add lines 1a through 12 in columns (a) through (d) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Multiply line 13 by rate of tax at top of each column .
+.
+.
+.
+.
+.
+.
+.  
+14
+15
+Tax on income not effectively connected with a U.S. trade or business. Add columns (a) through (d) of line 14. Enter the total here and on Form 1040-NR, line 23a
+15
+Capital Gains and Losses From Sales or Exchanges of Property
+Enter only the capital gains and 
+losses from property sales or 
+exchanges that are from sources 
+within the United States and not 
+effectively connected with a U.S. 
+business. Do not include a gain 
+or loss on disposing of a U.S. real 
+property interest; report these 
+gains and losses on Schedule D 
+(Form 1040).  
+Report property sales or 
+exchanges that are effectively 
+connected with a U.S. business 
+on Schedule D (Form 1040), 
+Form  4797, or both.
+16
+(a) Kind of property and description  
+(if necessary, attach statement of  
+descriptive details not shown below)
+(b) Date acquired 
+mm/dd/yyyy
+(c) Date sold 
+mm/dd/yyyy
+(d) Sales price
+(e) Cost or 
+other basis
+(f) LOSS  
+If (e) is more than (d), 
+subtract (d) from (e).
+(g) GAIN 
+If (d) is more than (e), 
+subtract (e) from (d).
+17 Add columns (f) and (g) of line 16 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 (                          ) 
+18 Capital gain. Combine columns (f) and (g) of line 17. Enter the net gain here and on line 9 above. If a loss, enter -0- .
+.
+18 
+For Paperwork Reduction Act Notice, see the Instructions for Form 1040-NR.
+Cat. No. 72752B
+Schedule NEC (Form 1040-NR) 2022

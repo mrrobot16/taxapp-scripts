@@ -1,0 +1,17 @@
+Schedule A (Form 8804) is a document provided by the Internal Revenue Service (IRS) for partnerships to calculate and report the penalty for underpayment of estimated Section 1446 tax. The form is attached to Form 8804 and is used to determine the penalty amount, although in most cases, the IRS will calculate and bill the partnership for any penalty owed.
+
+Part I of the form requires the partnership to indicate the reasons for filing, such as using the adjusted seasonal installment method or the annualized income installment method.
+
+Part II of the form requires the partnership to enter the total section 1446 tax for the current year and the prior year. The smaller of these two amounts is then used for further calculations.
+
+Part III of the form involves figuring the underpayment by entering the installment due dates and the required installments based on the chosen method. The estimated section 1446 tax paid or credited for each period is also entered.
+
+Part IV of the form is specific to the adjusted seasonal installment method and requires the partnership to enter the effectively connected taxable income (ECTI) allocable to foreign partners for different periods. Calculations are made to determine the base period percentage and the adjusted seasonal installment amount.
+
+Part V of the form is specific to the annualized income installment method and involves entering the ECTI allocable to foreign partners for different annualization periods. Various calculations are made to determine the annualized ECTI and the tax on these amounts.
+
+Part VI of the form calculates the required installments based on the adjusted seasonal or annualized income installment method.
+
+Part VII of the form is used to calculate the penalty for underpayment. The due date of each installment is entered, and the number of days late is calculated. The underpayment amount for each period is multiplied by the appropriate penalty interest rate to determine the penalty for each period. The penalties are then added together to determine the total penalty amount.
+
+Overall, Schedule A (Form 8804) is a detailed form that partnerships can use to calculate and report the penalty for underpayment of estimated Section 1446 tax.

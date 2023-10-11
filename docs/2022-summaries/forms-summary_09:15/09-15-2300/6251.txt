@@ -1,0 +1,9 @@
+Form 6251 is a document used to calculate the Alternative Minimum Tax (AMT) for individuals. It is attached to Form 1040, 1040-SR, or 1040-NR. The form consists of three parts.
+
+Part I is used to calculate the Alternative Minimum Taxable Income. It includes various lines where the taxpayer enters amounts from their tax return, such as income, taxes, deductions, and adjustments.
+
+Part II calculates the AMT based on the Alternative Minimum Taxable Income. It includes lines for exemptions, tax rates, and calculations to determine the tentative minimum tax.
+
+Part III is used for taxpayers who are required to compute their tax using the maximum capital gains rates. It includes lines for entering amounts from the regular tax return and calculating the AMT based on capital gains.
+
+The form includes instructions and references to other forms and worksheets for additional information. It is important to consult the latest instructions and information from the Internal Revenue Service (IRS) for accurate completion of Form 6251.

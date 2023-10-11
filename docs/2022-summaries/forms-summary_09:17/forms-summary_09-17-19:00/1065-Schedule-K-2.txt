@@ -1,0 +1,9 @@
+The document is a Schedule K-2 (Form 1065) for the tax year 2022. It is a form that partnerships must attach to their Form 1065 when filing their tax return. The form is used to report the partners' distributive share items related to international transactions and activities.
+
+The form begins with questions regarding the partnership's status as a withholding foreign partnership or a qualified derivatives dealer. The partnership is asked to indicate which parts of Schedule K-2 apply to them.
+
+The form then proceeds to different parts where the partnership can report specific information. Part I allows the partnership to report other current year international information. Part II is for reporting the foreign tax credit limitation. Parts III to X are for reporting various types of income, deductions, and other information related to international transactions.
+
+Part XI is reserved for future use, and Part XII is also reserved for future use.
+
+Overall, the Schedule K-2 (Form 1065) is a detailed form that partnerships use to report their international activities and ensure compliance with tax regulations.

@@ -1,0 +1,149 @@
+Schedule D (Form 941):
+Report of Discrepancies Caused by Acquisitions, Statutory Mergers, or Consolidations
+(Rev. June 2011)
+Department of the Treasury—Internal Revenue Service
+OMB No. 1545-0029
+Employer Identification Number (EIN)
+—
+Name (not your trade name)
+Trade name (if any)
+Address
+Number 
+Street 
+Suite or room number
+City
+State
+ZIP code
+Phone number
+Tax Year of Discrepancies (Fill in)
+Format: YYYY
+Type of Submission (Check one)
+Original
+Corrected
+About this schedule
+Each year the Internal Revenue Service (IRS) and the Social Security Administration (SSA) compare the totals on your Forms 941, 
+Employer’s QUARTERLY Federal Tax Return, with the totals on Forms W-2, Wage and Tax Statement, to verify that:
+• The wages you reported on Forms 941 match those you reported on Forms W-2 (Copy A) so that your 
+employees’ social security earnings records are complete for benefit purposes; and
+• You have paid the appropriate taxes.
+Generally, the totals on your Forms W-2 (Copy A) should equal the totals you reported on Forms 941. Use this schedule if discrepancies 
+exist between the totals you reported on those forms ONLY as a result of an acquisition, statutory merger, or consolidation. In many cases, 
+the information on this schedule should help the IRS resolve discrepancies without contacting you. If you are an eligible employer 
+who elects to use the alternate procedure set forth in Rev. Proc. 2004-53, explained in the instructions, you should file this schedule.
+Read the separate instructions before you fill out this schedule.
+Part 1: Answer these background questions.
+1. Are you filing this schedule —
+After a statutory merger or consolidation? (See Rev. Rul. 62-60, 1962-1 C.B. 186 and Rev. Proc. 2004-53, 2004-2 C.B. 320.)
+You are either:
+An acquired corporation or
+A surviving corporation.
+OR
+After an acquisition and you are using the alternate procedure under Rev. Proc. 2004-53, 2004-2 C.B. 320?
+You are either:
+A predecessor or
+A successor.
+2. The effective date of the statutory merger/consolidation or acquisition is 
+. . . . . . . . .
+MM        /        DD        /        YYYY
+3. The OTHER PARTY in this transaction is . . .
+Other party’s EIN
+—
+Other party’s name
+Trade name (if any)
+Address
+Number 
+Street 
+Suite or room number
+City 
+State 
+ZIP code
+Phone number
+Next ■▶
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 38791Y
+Schedule D (Form 941) (Rev. 6-2011)
+Your EIN
+—
+Name (not your trade name)
+Other party’s EIN
+—
+Tax Year of Discrepancies (Fill in)
+Format: YYYY
+Part 2: Tell us about the discrepancies with your returns.
+Column A
+Amount you reported to IRS  
+for the tax year
+Totals from Forms 941 as corrected 
+by any Forms 941-X
+–
+Column B
+Amount you reported to SSA  
+for the tax year
+Totals from Forms W-2 (Copy A) as 
+corrected by any Forms W-2c (Copy A)
+=
+Column C
+The difference
+4. Social security wages
+–
+=
+5. Medicare wages and tips
+–
+=
+6. Social security tips
+–
+=
+7. Federal income tax 
+withheld
+–
+=
+8. Advance earned income credit 
+(EIC) payments (for tax years 
+ending before January 1, 2011)
+–
+=
+If you are filing for one transaction only, STOP here. If you are filing for more than one transaction, go to Part 3.
+Part 3: Fill this part out ONLY if you are filing more than one Schedule D (Form 941) for any calendar year.
+9. File one Schedule D (Form 941) for each separate transaction. This is schedule
+of 
+. (Example: This is schedule 1 of 3.)
+Column A
+Amount you reported to IRS  
+for the tax year for the 
+employees affected by the 
+transaction reported on this 
+Schedule D (Form 941)
+Totals from Forms 941 as corrected 
+by any Forms 941-X
+–
+Column B
+Amount you reported to SSA  
+for the tax year for the 
+employees affected by the 
+transaction reported on this 
+Schedule D (Form 941)
+Totals from Forms W-2 (Copy A) as 
+corrected by any Forms W-2c (Copy A)
+=
+Column C
+The difference
+10. Social security wages
+–
+=
+11. Medicare wages and tips
+–
+=
+12. Social security tips
+–
+=
+13. Federal income tax  
+withheld
+–
+=
+14. Advance earned income credit 
+(EIC) payments (for tax years 
+ending before January 1, 2011)
+–
+=
+Page 2
+Schedule D (Form 941) (Rev. 6-2011)

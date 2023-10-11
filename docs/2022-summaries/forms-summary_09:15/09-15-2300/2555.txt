@@ -1,0 +1,9 @@
+Form 2555 is a document issued by the Department of the Treasury and the Internal Revenue Service (IRS) for U.S. citizens and resident aliens to report their foreign earned income. The form is to be attached to Form 1040 or 1040-SR. The form includes several sections for taxpayers to provide general information, such as their foreign address, occupation, employer details, and citizenship. 
+
+Part I of the form asks for general information about the taxpayer's foreign address, occupation, employer, and previous filing history. Part II is for taxpayers qualifying under the Bona Fide Residence Test, which requires specific information about the taxpayer's residence, family, and employment in a foreign country. Part III is for taxpayers qualifying under the Physical Presence Test, which requires information about the taxpayer's presence in a foreign country and their principal country of employment.
+
+Part IV is for all taxpayers and requires the reporting of all income earned in a foreign country, including wages, salaries, bonuses, commissions, and noncash income. Part V asks whether the taxpayer is claiming the housing exclusion or housing deduction. If yes, the taxpayer needs to complete Part VI for the housing exclusion or Part IX for the housing deduction.
+
+Part VII is for taxpayers claiming the foreign earned income exclusion and requires the calculation of the maximum exclusion based on the taxpayer's qualifying period. Part VIII is for taxpayers claiming the housing exclusion and requires the calculation of the housing exclusion amount. Part IX is for taxpayers claiming the housing deduction and requires the calculation of the deduction amount.
+
+Overall, Form 2555 is used by U.S. citizens and resident aliens to report their foreign earned income and claim exclusions or deductions related to that income. It is important for taxpayers to carefully complete the form and provide accurate information to ensure compliance with tax regulations.

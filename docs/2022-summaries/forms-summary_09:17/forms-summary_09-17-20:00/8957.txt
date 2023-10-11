@@ -1,0 +1,185 @@
+Form 8957
+(Rev. June 2018) 
+Department of the Treasury  
+Internal Revenue Service 
+ Foreign Account Tax Compliance Act (FATCA) Registration  
+▶ Go to www.irs.gov/Form8957 for instructions and the latest information.    
+OMB No. 1545-2246
+• All applicants must complete Part 1.
+• This form will not be processed if it is not signed.
+• DO NOT fill out this form if you have begun registering at www.irs.gov/FATCA.
+• The IRS strongly recommends that applicants register by accessing the online version of this form at www.irs.gov/FATCA. The use 
+of this paper form will take longer for the IRS to process and if any information is missing or incomplete the delay in registration 
+may be significant. 
+• This form should be mailed to:
+FATCA, Stop 6099 AUSC                                                                                                                                                                             
+3651 South IH 35                                                                                                                                                                                      
+Austin, Texas 78741 
+Part 1 
+Financial Institution Registration 
+1 
+Select Financial Institution Type (check only one)
+Single (not a member of an Expanded Affiliated Group)
+Lead of an Expanded Affiliated Group
+Member (not Lead) of an Expanded Affiliated Group. If a Member, you must provide the FATCA ID issued for such Member and provided 
+by your Lead:
+Sponsoring Entity 
+2
+Legal Name of the Financial Institution 
+3 a
+What is the Financial Institution’s country/jurisdiction of residence for tax purposes? 
+b
+What is the Financial Institution’s country/jurisdiction tax ID?
+4
+Select the Financial Institution’s FATCA classification in its country/jurisdiction of tax residence (check only one) 
+Direct Reporting NFFE
+Participating FFI, including a Reporting Financial Institution under a Model 2 IGA
+Registered Deemed-Compliant FFI that is a Local FFI
+Registered Deemed-Compliant FFI that is a Non-Reporting Member of a PFFI Group
+Registered Deemed-Compliant FFI that is a Qualified Collective Investment Vehicle
+Registered Deemed-Compliant FFI that is a Qualified Credit Card Issuer or Servicer
+Registered Deemed-Compliant FFI that is a Restricted Fund
+Reporting Financial Institution under a Model 1 IGA 
+Sponsoring Entity of Sponsored Direct Reporting NFFEs 
+Sponsoring Entity of Sponsored FFIs
+Sponsoring Entity of Sponsored FFIs and Sponsored Direct Reporting NFFEs
+Trustee of a Trustee-Documented Trust 
+U.S. Financial Institution
+5
+Mailing Address of Financial Institution
+Country/Jurisdiction 
+Address Line 1
+Address Line 2
+City
+State/Province/Region 
+ZIP/Postal Code 
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 37778V 
+Form  8957 (Rev. 6-2018) 
+Form 8957 (Rev. 6-2018) 
+Page  2 
+6
+Indicate whether the Financial Institution has in effect a withholding agreement with the IRS to be treated as one of the following:
+a
+Qualified Intermediary (QI) 
+Provide QI EIN:
+ -
+Does the Financial Institution intend to maintain its status as a QI?
+Yes
+No
+b
+Withholding Foreign Partnership (WP) 
+Provide WP EIN:
+ -
+Does the Financial Institution intend to maintain its status as a WP?
+Yes
+No
+c
+Withholding Foreign Trust (WT) 
+Provide WT EIN:
+ -
+Does the Financial Institution intend to maintain its status as a WT? 
+Yes
+No
+d
+Not applicable
+7
+Does the Financial Institution maintain a branch in a jurisdiction outside of its country/jurisdiction of tax residence?
+Yes (If “Yes,” complete lines 8 and 9)
+No (If “No,” go to line 10)
+8
+Is the Financial Institution a tax resident of the United States or does it maintain a branch in the United States (other than the U.S. 
+territories)? 
+Yes
+Provide the U.S. EIN of the U.S. Financial Institution or U.S. branch: 
+ -
+No
+9
+List each jurisdiction (other than the United States) in which the Financial Institution maintains a branch.  Also please list branches 
+maintained in any of the U.S. territories. If none, leave blank and go to line 10. 
+(Use additional sheets to add branches.)
+10
+FATCA Responsible Officer (RO) for the Financial Institution
+Business Title of RO
+Legal Name
+Last (Family)
+First (Given)
+Middle 
+City
+Country/Jurisdiction 
+Business Address Line 1
+Business Address Line 2
+State/Province/Region
+ZIP/Postal Code
+Business Telephone Number
+Business Fax Number 
+Business Email Address of RO
+Form  8957 (Rev. 6-2018) 
+Form 8957 (Rev. 6-2018) 
+Page  3 
+11a
+The Financial Institution’s RO will be a point of contact (POC) for the Financial Institution. In addition, the RO of a Financial Institution 
+registering as a Lead of all or part of an Expanded Affiliated Group will be a POC for each Member of that group. 
+Does the RO or an Authorizing Individual wish to designate one or more additional POCs for the Financial Institution? 
+Yes (If “Yes,” complete line 11b)
+No (If “No,” go to line 12)
+b
+This line 11b must be completed by the Financial Institution’s RO or an Authorizing Individual. Upon entering the POC information 
+below, checking the box that follows, and submitting this registration form, the RO or Authorizing Individual is providing the IRS with 
+written authorization to release FATCA information to the POC. This authorization specifically includes authorization for the POC to 
+complete this Form 8957: FATCA Registration, to take other FATCA-related actions, and to obtain access to the Financial Institution’s 
+tax information. 
+Business Title of POC
+Legal Name of POC
+Last (Family)
+First (Given)
+Middle 
+City
+Country/Jurisdiction 
+Business Address Line 1
+Business Address Line 2
+State/Province/Region
+ZIP/Postal Code
+Business Telephone Number
+Business Fax Number 
+Business Email Address of POC
+Five POCs are allowed per Financial Institution. Use additional sheets to add POCs.
+By checking this box, I,                                         , as RO or Authorizing Individual for the Financial Institution, provide the authorization 
+described above to the identified POCs listed on this line 11b.  Once this authorization is granted, it is effective until revoked by either 
+the Financial Institution or the POC.
+Part 2
+Expanded Affiliated Group
+Lead Financial Institutions must read the instructions before completing Part 2.
+12
+Provide the following for each Financial Institution Member of the Expanded Affiliated Group
+Legal name of Member Financial Institution
+Country/Jurisdiction of residence for tax 
+purposes
+Member type *
+* Enter the FATCA Classification type from line 4 above for each Member Financial Institution. See the instructions for additional information.
+Form  8957 (Rev. 6-2018) 
+Form 8957 (Rev. 6-2018) 
+Page  4 
+Part 2
+Expanded Affiliated Group (continued)
+13a
+Is the Financial Institution the Common Parent Entity of the Expanded Affiliated Group?
+Yes (If “Yes,” go to Signature line)
+No (If “No,” complete line 13b)
+b
+Enter the Legal Name of the Expanded Affiliated Group’s Common Parent Entity. Also enter the FATCA ID (if known).
+Legal Name of the Common Parent Entity ▶ 
+FATCA ID ▶ 
+SIGNATURE
+By checking this box, I,                                           , certify that, to the best of my knowledge, the information submitted above is accurate and 
+complete and I am authorized to agree that the Financial Institution (including its branches, if any) will comply with its FATCA obligations in 
+accordance with the terms and conditions reflected in regulations, intergovernmental agreements, and other administrative guidance to the 
+extent applicable to the Financial Institution based on its status in each jurisdiction in which it operates.
+Sign  
+Here 
+I declare that I have examined this form including any accompanying statements, and to the best of my knowledge and belief, it is true, correct, and complete. 
+▲
+Signature 
+▲
+Date 
+Form  8957 (Rev. 6-2018) 

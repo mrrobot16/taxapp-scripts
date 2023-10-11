@@ -1,0 +1,143 @@
+Schedule A 
+(Form 8038-CP)
+(Rev. December 2022)
+Specified Tax Credit Bonds Credit Computation
+Department of the Treasury 
+Internal Revenue Service 
+Complete for Form 8038-CP, line 17c, bond types 102, 103, 104, and 105. 
+Attach to Form 8038-CP. 
+Go to www.irs.gov/Form8038CP for instructions and the latest information.
+OMB No. 1545-0047
+Issuer’s name
+Employer identification number (EIN)
+Interest payment date (MM/DD/YYYY)
+Report number (from Form 8038-CP, line 10)
+Complete the eligible interest computation using the table below. Complete the following table for each maturity of bonds outstanding 
+from Form 8038-CP, line 18, interest payment date. This schedule is to be used when claiming a credit under section 6431 for 
+specified tax credit bonds (new clean renewable energy bonds (NCREBs), qualified energy conservation bonds (QECBs), qualified 
+zone academy bonds (QZABs), and qualified school construction bonds (QSCBs)). If more lines are needed, use the additional table 
+on the back.
+(a) 
+Bond maturity date
+(b) 
+Interest payable on bond 
+maturity from Form 8038-CP, 
+line 18, interest payment date
+(c) 
+Interest payable on bond 
+maturity from Form 8038-CP, 
+line 18, interest payment date 
+calculated using Form 8038-CP, 
+line 19b, applicable credit rate
+(d) 
+For NCREBs and QECBs, multiply 
+column (c) by 70% (0.70). 
+(Skip this column for QZABs and 
+QSCBs.)
+(e) 
+For NCREBs and QECBs, enter 
+the smaller of column (b) or (d). 
+For QZABs and QSCBs, enter 
+the smaller of column (b) or (c).
+1 Total. Add amounts in column (e) above 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2 Amount from page 2, line 4 (if any) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3 Add amounts on line 1 and line 2. Enter on Form 8038-CP, line 19c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 74912N
+Schedule A (Form 8038-CP) (Rev. 12-2022)
+Verify & Print Form
+Schedule A (Form 8038-CP) (Rev. 12-2022)
+Page 2
+Complete the table below beginning with the first maturity following the maturity listed in the last row of the table on page 1. 
+(Continuation of table from page 1 for each maturity of bonds outstanding from Form 8038-CP, line 18, interest payment date.)
+(a) 
+Bond maturity date
+(b) 
+Interest payable on bond 
+maturity from Form 8038-CP, 
+line 18, interest payment date
+(c) 
+Interest payable on bond 
+maturity from Form 8038-CP, 
+line 18, interest payment date 
+calculated using Form 8038-CP, 
+line 19b, applicable credit rate
+(d) 
+For NCREBs and QECBs, multiply 
+column (c) by 70% (0.70). 
+(Skip this column for QZABs and 
+QSCBs.)
+(e) 
+For NCREBs and QECBs, enter 
+the smaller of column (b) or (d). 
+For QZABs and QSCBs, enter 
+the smaller of column (b) or (c).
+4 Total. Add amounts in column (e) above. Enter on page 1, line 2 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Schedule A (Form 8038-CP) (Rev. 12-2022)

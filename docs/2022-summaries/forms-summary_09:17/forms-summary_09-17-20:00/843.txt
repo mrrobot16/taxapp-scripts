@@ -1,0 +1,97 @@
+Form   843 
+(Rev. August 2011) 
+Department of the Treasury  
+Internal Revenue Service 
+Claim for Refund and Request for Abatement 
+▶ See separate instructions.
+OMB No. 1545-0024 
+Use Form 843 if your claim or request involves: 
+(a) 
+a refund of one of the taxes (other than income taxes or an employer’s claim for FICA tax, RRTA tax, or income tax 
+withholding) or a fee, shown on line 3, 
+(b) 
+an abatement of FUTA tax or certain excise taxes, or 
+(c) 
+a refund or abatement of interest, penalties, or additions to tax for one of the reasons shown on line 5a. 
+Do not use Form 843 if your claim or request involves: 
+(a) 
+an overpayment of income taxes or an employer’s claim for FICA tax, RRTA tax, or income tax withholding (use the  
+appropriate amended tax return), 
+(b) 
+a refund of excise taxes based on the nontaxable use or sale of fuels, or 
+(c) 
+an overpayment of excise taxes reported on Form(s) 11-C, 720, 730, or 2290. 
+Name(s) 
+Your social security number 
+Address (number, street, and room or suite no.) 
+Spouse’s social security number 
+City or town, state, and ZIP code 
+Employer identification number (EIN) 
+Name and address shown on return if different from above 
+Daytime telephone number 
+1 
+Period. Prepare a separate Form 843 for each tax period or fee year.
+From 
+to 
+2     Amount to be refunded or abated:
+$ 
+3 
+Type of tax or fee. Indicate the type of tax or fee to be refunded or abated or to which the interest, penalty, or addition to tax 
+is related. 
+Employment 
+Estate 
+Gift 
+Excise 
+Income 
+Fee
+4 
+Type of penalty. If the claim or request involves a penalty, enter the Internal Revenue Code section on which the penalty is 
+based (see instructions). IRC section: 
+5 a
+Interest, penalties, and additions to tax. Check the box that indicates your reason for the request for refund or abatement. (If
+none apply, go to line 6.) 
+Interest was assessed as a result of IRS errors or delays. 
+A penalty or addition to tax was the result of erroneous written advice from the IRS. 
+Reasonable cause or other reason allowed under the law (other than erroneous written advice) can be shown for not 
+assessing a penalty or addition to tax. 
+b Date(s) of payment(s) ▶
+6 
+Original return. Indicate the type of fee or return, if  any, filed to which the tax, interest, penalty, or addition to tax relates. 
+706 
+709 
+940 
+941 
+943 
+945 
+990-PF 
+1040 
+1120 
+4720 
+Other (specify) ▶
+7 
+Explanation. Explain why you believe this claim or request should be allowed and show the computation of the amount shown 
+on line 2. If you need more space, attach additional sheets. 
+Signature. If you are filing Form 843 to request a refund or abatement relating to a joint return, both you and your spouse must sign the claim. 
+Claims filed by corporations must be signed by a corporate officer authorized to sign, and the officer’s title must be shown. 
+Under penalties of perjury, I declare that I have examined this claim, including accompanying schedules and statements, and, to the best of my knowledge and belief, it is 
+true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge. 
+Signature (Title, if applicable. Claims by corporations must be signed by an officer.) 
+Date
+Signature (spouse, if joint return) 
+Date
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 10180R 
+Form 843 (Rev. 8-2011)
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer's signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name     ▶
+Firm's EIN  ▶
+Firm's address  ▶
+Phone no.

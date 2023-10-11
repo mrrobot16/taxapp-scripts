@@ -1,0 +1,770 @@
+Form 943-X:
+(Rev. February 2023)
+Adjusted Employer’s Annual Federal Tax Return for Agricultural  
+Employees or Claim for Refund
+Department of the Treasury — Internal Revenue Service
+OMB No. 1545-0035
+Employer identification number 
+(EIN)
+—
+Name (not your trade name)
+Trade name (if any)
+Address
+Number                        Street                                                                                                    Suite or room number
+City
+State
+ZIP code
+Foreign country name
+Foreign province/county
+Foreign postal code
+Return You’re Correcting...
+Enter the calendar year of the return 
+you’re correcting:
+(YYYY)
+Enter the date you discovered errors:
+/
+/
+(MM / DD / YYYY)
+Read the separate instructions before completing this form. Use this form to correct errors you made on Form 943, Employer’s Annual Federal 
+Tax Return for Agricultural Employees. Use a separate Form 943-X for each year that needs correction. Type or print within the boxes. You 
+MUST complete all five pages. Don’t attach this form to Form 943 unless you’re reclassifying workers; see the instructions for line 40.
+Part 1: Select ONLY one process. See page 6 for additional guidance, including information on how to treat 
+employment tax credits and social security tax deferrals.
+1.  Adjusted employment tax return. Check this box if you underreported tax amounts. Also check this box if you overreported tax 
+amounts and you would like to use the adjustment process to correct the errors. You must check this box if you’re correcting both 
+underreported and overreported tax amounts on this form. The amount shown on line 25, if less than zero, may only be applied as 
+a credit to your Form 943 for the tax period in which you’re filing this form.
+2.  Claim. Check this box if you overreported tax amounts only and you would like to use the claim process to ask for a refund or 
+abatement of the amount shown on line 25. Don’t check this box if you’re correcting ANY underreported tax amounts on this form.
+Part 2: Complete the certifications.
+3.  I certify that I’ve filed or will file Forms W-2, Wage and Tax Statement, or Forms W-2c, Corrected Wage and Tax Statement, 
+as required.
+Note: If you’re correcting underreported tax amounts only, go to Part 3 on page 2 and skip lines 4 and 5. If you’re correcting overreported 
+tax amounts, for purposes of the certifications on lines 4 and 5, Medicare tax doesn’t include Additional Medicare Tax. Form 943-X can’t 
+be used to correct overreported amounts of Additional Medicare Tax unless the amounts weren’t withheld from employee wages.
+4.  If you checked line 1 because you’re adjusting overreported federal income tax, social security tax, Medicare tax, or 
+Additional Medicare Tax, check all that apply. You must check at least one box. 
+I certify that:
+a.  I repaid or reimbursed each affected employee for the overcollected social security tax and Medicare tax for prior years. I 
+have a written statement from each affected employee stating that they haven’t claimed (or the claim was rejected) and won’t 
+claim a refund or credit for the overcollection.
+b.  The adjustments of social security tax and Medicare tax are for the employer’s share only. I couldn’t find the affected 
+employees or each affected employee didn’t give me a written statement that they haven’t claimed (or the claim was rejected) 
+and won’t claim a refund or credit for the overcollection.
+c.  The adjustment is for federal income tax, social security tax, Medicare tax, or Additional Medicare Tax that I didn’t withhold 
+from employee wages.
+5.  If you checked line 2 because you’re claiming a refund or abatement of overreported federal income tax, social security 
+tax, Medicare tax, or Additional Medicare Tax, check all that apply. You must check at least one box. 
+I certify that:
+a.  I repaid or reimbursed each affected employee for the overcollected social security tax and Medicare tax for prior years. I 
+have a written statement from each affected employee stating that they haven’t claimed (or the claim was rejected) and won’t 
+claim a refund or credit for the overcollection.
+b.  I have a written consent from each affected employee stating that I may file this claim for the employee’s share of social 
+security tax and Medicare tax overcollected in prior years. I also have a written statement from each affected employee 
+stating that they haven’t claimed (or the claim was rejected) and won’t claim a refund or credit for the overcollection.
+c.  The claim for social security tax and Medicare tax is for the employer’s share only. I couldn’t find the affected employees; or 
+each affected employee didn’t give me a written consent to file a claim for the employee’s share of social security tax and 
+Medicare tax; or each affected employee didn’t give me a written statement that they haven’t claimed (or the claim was 
+rejected) and won’t claim a refund or credit for the overcollection.
+d.  The claim is for federal income tax, social security tax, Medicare tax, or Additional Medicare Tax that I didn’t withhold from 
+employee wages.
+For Paperwork Reduction Act Notice, see the separate instructions.
+www.irs.gov/Form943X
+Cat. No. 20332F
+Form 943-X (Rev. 2-2023)
+Name (not your trade name)
+Employer identification number (EIN)
+–
+Correcting Calendar Year (YYYY)
+Part 3: Enter the corrections for the calendar year you’re correcting. If any line doesn’t apply, leave it blank. 
+Column 1
+Total corrected amount 
+(for ALL employees)
+—
+Column 2
+Amount originally 
+reported or as 
+previously corrected 
+(for ALL employees)
+=
+Column 3
+Difference  
+(If this amount is a 
+negative number,  
+use a minus sign.)
+Column 4
+Tax correction
+6.
+Wages subject to social 
+security tax (Form 943, line 2)
+.
+—
+.
+=
+.
+×  0.124* =
+* If you’re correcting your employer share only, use 0.062. See instructions.
+.
+7.
+Qualified sick leave wages*  
+(Form 943, line 2a)
+* Use line 7 only for qualified sick leave wages paid after March 31, 2020, for leave taken before April 1, 2021.
+.
+—
+.
+=
+.
+×  0.062  =
+.
+8.
+Qualified family leave wages* 
+(Form 943, line 2b)
+* Use line 8 only for qualified family leave wages paid after March 31, 2020, for leave taken before April 1, 2021.
+.
+—
+.
+=
+.
+×  0.062  =
+.
+9.
+Wages subject to Medicare 
+tax (Form 943, line 4)
+.
+—
+.
+=
+.
+×  0.029* =
+* If you’re correcting your employer share only, use 0.0145. See instructions.
+.
+10.
+Wages subject to Additional 
+Medicare Tax withholding 
+(Form 943, line 6)
+.
+—
+.
+=
+.
+×  0.009* =
+* Certain wages reported in Column 3 shouldn’t be multiplied by 0.009. See instructions.
+.
+11.
+Federal income tax withheld 
+(Form 943, line 8) 
+.
+—
+.
+=
+.
+Copy Column 
+3 here
+.
+12.
+Tax adjustments (Form 943, 
+line 10) 
+.
+—
+.
+=
+.
+See  
+instructions
+.
+13.
+Qualified small business 
+payroll tax credit for 
+increasing research activities 
+(Form 943, line 12a; you must 
+attach Form 8974)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+14.
+Nonrefundable portion of 
+credit for qualified sick and 
+family leave wages for leave 
+taken before April 1, 2021 
+(Form 943, line 12b)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+15a.
+Nonrefundable portion of 
+employee retention credit* 
+(Form 943, line 12c)
+* Line 15a can only be used if correcting a 2020 or 2021 Form 943.
+.
+—
+.
+=
+.
+See  
+instructions
+.
+15b.
+Nonrefundable portion of 
+credit for qualified sick and 
+family leave wages for leave 
+taken after March 31, 2021, 
+and before October 1, 2021 
+(Form 943, line 12d)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+15c.
+Nonrefundable portion of 
+COBRA premium assistance 
+credit* (Form 943, line 12e)
+* Line 15c can only be used if correcting a 2021 or 2022 Form 943.
+.
+—
+.
+=
+.
+See  
+instructions
+.
+15d.
+Number of individuals 
+provided COBRA premium 
+assistance* (Form 943, line 12f)
+* Line 15d can only be used if correcting a 2021 or 2022 Form 943.
+—
+=
+16.
+Special addition to wages for 
+federal income tax
+.
+—
+.
+=
+.
+See  
+instructions
+.
+17.
+Special addition to wages for 
+social security taxes
+.
+—
+.
+=
+.
+See  
+instructions
+.
+18.
+Special addition to wages for 
+Medicare taxes
+.
+—
+.
+=
+.
+See  
+instructions
+.
+19.
+Special addition to wages for 
+Additional Medicare Tax
+.
+—
+.
+=
+.
+See  
+instructions
+.
+20.
+Subtotal. Combine the amounts on lines 6 through 19 of Column 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+.
+Page 2
+Form 943-X (Rev. 2-2023)
+Name (not your trade name)
+Employer identification number (EIN)
+–
+Correcting Calendar Year (YYYY)
+Part 3: Enter the corrections for the calendar year you’re correcting. If any line doesn’t apply, leave it blank. (continued)
+Column 1
+Total corrected amount 
+(for ALL employees)
+—
+Column 2
+Amount originally 
+reported or as 
+previously corrected 
+(for ALL employees)
+=
+Column 3
+Difference  
+(If this amount is a 
+negative number,  
+use a minus sign.)
+Column 4
+Tax correction
+21.
+Deferred amount of the 
+employer share of social 
+security tax* (Form 943, line 14b)
+* Line 21 can only be used if correcting a 2020 Form 943.
+.
+—
+.
+=
+.
+See  
+instructions
+.
+22.
+Deferred amount of the 
+employee share of social 
+security tax* (Form 943, line 14c)
+* Line 22 can only be used if correcting a 2020 Form 943.
+.
+—
+.
+=
+.
+See  
+instructions
+.
+23.
+Refundable portion of credit 
+for qualified sick and family 
+leave wages for leave taken 
+before April 1, 2021 (Form 943, 
+line 14d)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+24a.
+Refundable portion of 
+employee retention credit* 
+(Form 943, line 14e)
+* Line 24a can only be used if correcting a 2020 or 2021 Form 943.
+.
+—
+.
+=
+.
+See  
+instructions
+.
+24b.
+Refundable portion of credit 
+for qualified sick and family 
+leave wages for leave taken 
+after March 31, 2021, and 
+before October 1, 2021 (Form 
+943, line 14f)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+24c.
+Refundable portion of COBRA 
+premium assistance credit* 
+(Form 943, line 14g)
+* Line 24c can only be used if correcting a 2021 or 2022 Form 943.
+.
+—
+.
+=
+.
+See  
+instructions
+.
+25.
+Total. Combine the amounts on lines 20 through 24c of Column 4  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+.
+If line 25 is less than zero:
+• If you checked line 1, this is the amount you want applied as a credit to your Form 943 for the tax period in which 
+you’re filing this form.
+• If you checked line 2, this is the amount you want refunded or abated.
+If line 25 is more than zero, this is the amount you owe. Pay this amount by the time you file this return. For 
+information on how to pay, see Amount you owe in the instructions.
+26.
+Qualified health plan 
+expenses allocable to 
+qualified sick leave wages for 
+leave taken before April 1, 
+2021 (Form 943, line 18)
+.
+—
+.
+=
+.
+27.
+Qualified health plan 
+expenses allocable to 
+qualified family leave wages 
+for leave taken before April 1, 
+2021 (Form 943, line 19)
+.
+—
+.
+=
+.
+28.
+Qualified wages for the 
+employee retention credit* 
+(Form 943, line 20)
+* Line 28 can only be used if correcting a 2020 or 2021 Form 943.
+.
+—
+.
+=
+.
+29.
+Qualified health plan 
+expenses for the employee 
+retention credit* (Form 943, 
+line 21)
+* Line 29 can only be used if correcting a 2020 or 2021 Form 943.
+.
+—
+.
+=
+.
+30.
+Credit from Form 5884-C, line 
+11, for the year* (Form 943, 
+line 22)
+* Line 30 can only be used if correcting a 2020 Form 943.
+.
+—
+.
+=
+.
+Page 3
+Form 943-X (Rev. 2-2023)
+Name (not your trade name)
+Employer identification number (EIN)
+–
+Correcting Calendar Year (YYYY)
+Part 3: Enter the corrections for the calendar year you’re correcting. If any line doesn’t apply, leave it blank. (continued)
+Column 1
+Total corrected amount 
+(for ALL employees)
+—
+Column 2
+Amount originally 
+reported or as 
+previously corrected 
+(for ALL employees)
+=
+Column 3
+Difference  
+(If this amount is a 
+negative number,  
+use a minus sign.)
+Caution: Lines 31–38 don’t apply to years beginning before January 1, 2021.
+31.
+Qualified sick leave wages for 
+leave taken after March 31, 
+2021, and before October 1, 
+2021 (Form 943, line 22)
+.
+—
+.
+=
+.
+32.
+Qualified health plan 
+expenses allocable to 
+qualified sick leave wages for 
+leave taken after March 31, 
+2021, and before October 1, 
+2021 (Form 943, line 23) 
+.
+—
+.
+=
+.
+33.
+Amounts under certain 
+collectively bargained 
+agreements allocable to 
+qualified sick leave wages for 
+leave taken after March 31, 
+2021, and before October 1, 
+2021 (Form 943, line 24)
+.
+—
+.
+=
+.
+34.
+Qualified family leave wages 
+for leave taken after March 31, 
+2021, and before October 1, 
+2021 (Form 943, line 25)
+.
+—
+.
+=
+.
+35.
+Qualified health plan 
+expenses allocable to 
+qualified family leave wages 
+for leave taken after March 31, 
+2021, and before October 1, 
+2021 (Form 943, line 26)
+.
+—
+.
+=
+.
+36.
+Amounts under certain 
+collectively bargained 
+agreements allocable to 
+qualified family leave wages 
+for leave taken after March 31, 
+2021, and before October 1, 
+2021 (Form 943, line 27)
+.
+—
+.
+=
+.
+37.
+If you’re eligible for the 
+employee retention credit in 
+the third quarter of 2021 
+solely because your business 
+is a recovery startup 
+business, enter the total of 
+any amounts included on 
+Form 943, lines 12c and 14e 
+(or, if corrected, Form 943-X, 
+lines 15a and 24a), for the 
+third quarter of 2021* (Form 
+943, line 28)
+* Line 37 can only be used if correcting a 2021 Form 943.
+.
+—
+.
+=
+.
+38.
+If you’re eligible for the 
+employee retention credit in 
+the fourth quarter of 2021 
+solely because your business 
+is a recovery startup 
+business, enter the total of 
+any amounts included on 
+Form 943, lines 12c and 14e 
+(or, if corrected, Form 943-X, 
+lines 15a and 24a), for the 
+fourth quarter of 2021* (Form 
+943, line 29)
+* Line 38 can only be used if correcting a 2021 Form 943.
+.
+—
+.
+=
+.
+Page 4
+Form 943-X (Rev. 2-2023)
+Name (not your trade name)
+Employer identification number (EIN)
+–
+Correcting Calendar Year (YYYY)
+Part 4: Explain your corrections for the calendar year you’re correcting.
+39.
+Check here if any corrections you entered on a line include both underreported and overreported amounts. 
+Explain both your underreported and overreported amounts on line 41.
+40.
+Check here if any corrections involve reclassified workers. Explain on line 41.
+41.
+You must give us a detailed explanation of how you determined your corrections. See the instructions.
+Part 5: Sign here. You must complete all five pages of this form and sign it.
+Under penalties of perjury, I declare that I have filed an original Form 943 and that I have examined this adjusted return or claim, including 
+accompanying schedules and statements, and to the best of my knowledge and belief, it is true, correct, and complete. Declaration of preparer 
+(other than taxpayer) is based on all information of which preparer has any knowledge.
+Sign your 
+name here
+Date
+/        /
+Print your 
+name here
+Print your 
+title here
+Best daytime phone
+Paid Preparer Use Only
+Check if you’re self-employed .
+.
+.
+.
+.
+.
+.
+.
+Preparer’s name
+PTIN
+Preparer’s signature
+Date
+/        /
+Firm’s name (or yours 
+if self-employed)
+EIN
+Address
+Phone
+City
+State
+ZIP code
+Page 5
+Form 943-X (Rev. 2-2023)
+Form 943-X: Which process should you use?
+Unless otherwise specified in the separate instructions, an underreported employment tax credit or social 
+security tax deferral should be treated like an overreported tax amount. An overreported employment tax credit 
+or social security tax deferral should be treated like an underreported tax amount. For more information, 
+including which process to select on lines 1 and 2, see Correcting an employment tax credit or social security 
+tax deferral in the separate instructions.
+Type of errors 
+you’re correcting
+Underreported 
+tax amounts 
+ONLY
+Use the adjustment process to correct underreported tax amounts.
+• Check the box on line 1.
+• Pay the amount you owe from line 25 by the time you file Form 943-X.
+Overreported 
+tax amounts 
+ONLY
+The process you 
+use depends on 
+when you file 
+Form 943-X.
+If you’re filing Form 943-X 
+MORE THAN 90 days before the 
+period of limitations on credit or 
+refund for Form 943 expires...
+Choose either the adjustment process or the claim 
+process to correct the overreported tax amounts.
+Choose the adjustment process if you want the 
+amount shown on line 25 credited to your Form 
+943 for the period in which you file Form 943-X. 
+Check the box on line 1.
+OR
+Choose the claim process if you want the 
+amount shown on line 25 refunded to you or 
+abated. Check the box on line 2.
+If you’re filing Form 943-X 
+WITHIN 90 days of the expiration 
+of the period of limitations on 
+credit or refund for Form 943...
+You must use the claim process to correct the 
+overreported tax amounts. Check the box on 
+line 2.
+BOTH 
+underreported 
+and 
+overreported 
+tax amounts 
+The process you 
+use depends on 
+when you file 
+Form 943-X.
+If you’re filing Form 943-X 
+MORE THAN 90 days before the 
+period of limitations on credit or 
+refund for Form 943 expires...
+Choose either the adjustment process or both the 
+adjustment process and the claim process when 
+you correct both underreported and overreported 
+tax amounts.
+Choose the adjustment process if combining 
+your underreported tax amounts and overreported 
+tax amounts results in a balance due or creates a 
+credit that you want applied to Form 943.
+• File one Form 943-X, and
+• Check the box on line 1 and follow the 
+instructions on line 25.
+OR
+Choose both the adjustment process and the 
+claim process if you want the overreported tax 
+amount refunded to you or abated.
+File two separate forms.
+1. For the adjustment process, file one Form 
+943-X to correct the underreported tax amounts. 
+Check the box on line 1. Pay the amount you 
+owe from line 25 by the time you file Form 943-X.
+2. For the claim process, file a second Form 
+943-X to correct the overreported tax amounts. 
+Check the box on line 2.
+If you’re filing Form 943-X 
+WITHIN 90 days of the expiration 
+of the period of limitations on 
+credit or refund for Form 943...
+You must use both the adjustment process 
+and the claim process.
+File two separate forms.
+1. For the adjustment process, file one Form 
+943-X to correct the underreported tax amounts. 
+Check the box on line 1. Pay the amount you 
+owe from line 25 by the time you file Form 943-X.
+2. For the claim process, file a second Form 
+943-X to correct the overreported tax amounts. 
+Check the box on line 2.
+Page 6
+Form 943-X (Rev. 2-2023)

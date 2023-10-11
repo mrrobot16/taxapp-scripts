@@ -1,0 +1,31 @@
+Schedule I-1 (Form 5471) is a document provided by the Internal Revenue Service (IRS) for reporting information related to Global Intangible Low-Taxed Income (GILTI). This form is attached to Form 5471 and is used to calculate and report various income and deduction amounts.
+
+The form requires the filer to provide their name, identifying number, and the name of the foreign corporation. Additionally, it asks for the Employer Identification Number (EIN) of the foreign corporation and a reference ID number.
+
+The form includes several sections for reporting different types of income and exclusions. These sections include:
+
+1. Gross income: The filer is required to report the gross income of the foreign corporation.
+
+2. Exclusions: This section includes various types of income that may be excluded from the GILTI calculation, such as effectively connected income, Subpart F income, high-tax exception income, related party dividends, and foreign oil and gas extraction income.
+
+3. Total exclusions: The filer needs to combine the amounts reported in the exclusions section to calculate the total exclusions.
+
+4. Gross income less total exclusions: This line calculates the gross income of the foreign corporation after subtracting the total exclusions.
+
+5. Deductions: The filer needs to report any deductions that are properly allocable to the amount calculated on line 4.
+
+6. Tested income (loss): This line calculates the tested income or loss by subtracting the deductions from the gross income less total exclusions.
+
+7. Tested foreign income taxes: The filer needs to report the amount of foreign income taxes paid or accrued on the tested income.
+
+8. Qualified business asset investment (QBAI): This line requires the filer to report the QBAI, which is the average of the adjusted bases of the corporation's tangible assets used in a trade or business.
+
+9. Interest expense and tested loss QBAI amount: This section includes the reporting of interest expense included on line 5, qualified interest expense, and the tested loss QBAI amount.
+
+10. Interest income and tested interest income: This section includes the reporting of interest income included in line 4, qualified interest income, and the tested interest income.
+
+The form also includes spaces for reporting the functional currency, conversion rate, and the corresponding amounts in U.S. dollars.
+
+It is important for the filer to refer to the instructions provided on the IRS website (www.irs.gov/Form5471) for detailed guidance on completing this form.
+
+This summary provides a general overview of the Schedule I-1 (Form 5471) document. It is recommended to consult the official instructions and seek professional advice for accurate and specific guidance related to individual tax situations.

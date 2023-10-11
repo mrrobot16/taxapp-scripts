@@ -1,0 +1,11 @@
+Schedule J (Form 990) is a document that organizations need to complete if they answered "Yes" to a specific question on Form 990, Part IV, line 23. This form is used to provide compensation information for certain officers, directors, trustees, key employees, and highest compensated employees.
+
+The form consists of three parts:
+
+Part I: This part contains questions regarding compensation. It asks whether the organization provided certain benefits or payments to individuals listed on Form 990, such as first-class or charter travel, housing allowance, tax indemnification and gross-up payments, etc. If any of these benefits were provided, the organization needs to indicate whether they followed a written policy regarding payment or reimbursement. There are also questions regarding substantiation of expenses and methods used to establish the compensation of the organization's CEO/Executive Director.
+
+Part II: This part requires the organization to report the compensation of officers, directors, trustees, key employees, and highest compensated employees. The compensation should be broken down into various categories such as base compensation, bonus and incentive compensation, other reportable compensation, retirement and other deferred compensation, and nontaxable benefits.
+
+Part III: This part is for providing supplemental information and explanations for the questions in Part I and Part II. It should be used to provide any additional information that is required.
+
+Overall, Schedule J (Form 990) is a detailed form that organizations need to complete to provide information about the compensation of certain individuals within the organization.

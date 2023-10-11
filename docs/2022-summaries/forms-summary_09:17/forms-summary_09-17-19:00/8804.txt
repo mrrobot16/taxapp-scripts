@@ -1,0 +1,11 @@
+Form 8804 is an annual return for partnership withholding tax under Section 1446 of the Internal Revenue Code. The form is used by partnerships to report their tax liability and payments related to withholding taxes. It is required for partnerships that have foreign partners or partners subject to certain tax rules.
+
+The form consists of several parts, with Part I requiring the partnership's name, U.S. employer identification number (EIN), address, and other identifying information. Part II pertains to the withholding agent, which is the entity responsible for withholding and remitting taxes on behalf of the partnership.
+
+Part III focuses on the partnership's tax liability and payments. It includes calculations related to effectively connected taxable income (ECTI) allocable to foreign partners, reductions for state and local taxes, and certified foreign partner-level items. The form also includes calculations for different tax rates based on the type of income and provides space for reporting gross section 1446 tax liability.
+
+The form requires the partnership to report payments of section 1446 tax made during the tax year, as well as tax paid or withheld by other partnerships in which the partnership was a partner. It also includes sections for reporting tax withheld from or paid for dispositions of U.S. real property interests and interests in partnerships engaged in U.S. trade or business.
+
+The form concludes with calculations for estimated tax penalties, balance due, overpayment, refunds, and credits for future years. The partnership's authorized representative must sign the form under penalties of perjury, declaring that the information provided is true, correct, and complete.
+
+Form 8804 is accompanied by Form 8804-C and Form 8805, and the latest instructions and information can be found on the IRS website.

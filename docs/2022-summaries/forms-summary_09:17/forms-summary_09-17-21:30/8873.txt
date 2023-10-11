@@ -1,0 +1,11 @@
+Form 8873 is a form used by taxpayers to elect to exclude certain income from foreign trading gross receipts on their tax return. The form includes various sections for taxpayers to provide information about their elections and other relevant details.
+
+In Part I, taxpayers can indicate whether they are electing to exclude a portion of their gross receipts from foreign trading gross receipts or applying the extraterritorial income exclusion provisions to certain transactions involving a FSC (Foreign Sales Corporation). They can also indicate if they are a foreign corporation electing to be treated as a domestic corporation.
+
+Part II requires taxpayers to provide information about their foreign trade income and foreign sale and leasing income. This includes details about the sale, exchange, or disposition of qualifying foreign trade property, lease or rental of qualifying foreign trade property, services related to the sale or lease of qualifying foreign trade property, engineering or architectural services for construction projects outside the United States, and managerial services provided to unrelated persons.
+
+Part III is for taxpayers who are using the Marginal Costing method to determine their foreign trade income. It includes calculations based on the costs and expenses allocable to the foreign trading gross receipts and the overall profit percentage.
+
+Part IV is for taxpayers to calculate their extraterritorial income exclusion. This section includes calculations based on the taxpayer's foreign trade income, foreign trading gross receipts, foreign sale and leasing income, and reductions for international boycott operations, illegal bribes, kickbacks, etc.
+
+The form concludes with a space for taxpayers to enter their qualifying foreign trade income and the extraterritorial income exclusion (net of disallowed deductions), which they can include on their tax return or schedule.

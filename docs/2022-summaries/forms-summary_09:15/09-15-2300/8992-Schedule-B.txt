@@ -1,0 +1,9 @@
+Schedule B (Form 8992) is a form provided by the Department of the Treasury and the Internal Revenue Service for the calculation of Global Intangible Low-Taxed Income (GILTI) for members of a U.S. consolidated group who are U.S. shareholders of a Controlled Foreign Corporation (CFC). The form consists of two parts.
+
+Part I involves CFC-level reporting of amounts from Schedule I-1 (Form 5471) and U.S. shareholder-level reporting of CFC items. It includes fields for the name of the CFC, EIN or Reference ID, name of the U.S. shareholder, EIN, tested income, tested loss, pro rata share of tested income, pro rata share of tested loss, and other related information.
+
+Part II involves U.S. shareholder-level calculations. It includes fields for the name of the U.S. shareholder, EIN, aggregate tested income, GILTI allocation ratio, aggregate tested loss, allocable share of consolidated tested loss, consolidated QBAI (Qualified Business Asset Investment), deemed tangible income return, consolidated tested interest expense, consolidated tested interest income, consolidated specified interest expense, and allocable share of consolidated specified interest expense.
+
+The form provides space for totaling the amounts reported in each part.
+
+For more detailed instructions and the latest information, individuals can visit the IRS website at www.irs.gov/Form8992.

@@ -1,0 +1,29 @@
+Schedule K-3 (Form 1065) is a document used by partnerships to report the partner's share of income, deductions, credits, and other information related to international transactions. The form is divided into multiple parts, each addressing specific aspects of the partnership's international activities.
+
+Part I of the form is used to report the partner's share of the partnership's other current year international information, such as gain on personal property sale, foreign oil and gas taxes, splitter arrangements, and more.
+
+Part II is used to determine the foreign tax credit limitation. It includes sections for reporting various types of gross income and categorizing them by their source and category.
+
+Part III is used to provide additional information for the preparation of Form 1116 or 1118, which are used to claim the foreign tax credit or the foreign tax deduction.
+
+Part IV is used to report information on the distribution from foreign corporations to the partnership.
+
+Part V is used to report the partner's share of income inclusions from controlled foreign corporations (CFCs) and other foreign corporations.
+
+Part VI is used to report information on the partner's share of income inclusions from passive foreign investment companies (PFICs), qualified electing funds (QEFs), or qualifying insurance corporations (QICs).
+
+Part VII is used to provide information to complete Form 8621, which is used to report the partner's interest in a PFIC, QEF, or QIC.
+
+Part VIII is used to report the partner's interest in foreign corporation income under sections 951(a)(1) and 951A.
+
+Part IX is used to report information for the base erosion and anti-abuse tax (BEAT) under section 59A.
+
+Part X is used to report the partner's character and source of income and deductions, including information on gross income and deductions.
+
+Part XI is used to report information on covered partnerships under section 871(m).
+
+Part XII is reserved for future use.
+
+Part XIII is used to report the partner's distributive share of deemed sale items on the transfer of a partnership interest.
+
+Overall, Schedule K-3 is a comprehensive form that allows partnerships to report their international activities and provides the necessary information for partners to accurately report their share of income and deductions on their individual tax returns.

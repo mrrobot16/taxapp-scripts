@@ -1,0 +1,15 @@
+This document provides information about Form 1095-A, which is used by Health Insurance Marketplaces to report enrollments in qualified health plans in the individual market. The form is completed by the Marketplaces and cannot be completed by individuals. Individuals who receive a completed Form 1095-A from the Marketplace will use the information on the form and the instructions to file an accurate tax return.
+
+The document includes instructions for completing the recipient information section of the form, which includes details about the Marketplace identifier, policy number, policy issuer's name, recipient's name, social security number, date of birth, spouse's name and information, policy start and termination dates, and address.
+
+The document also explains the covered individuals section of the form, which includes information about each individual covered under the policy, such as name, social security number, date of birth, and coverage start and termination dates.
+
+Additionally, the document provides instructions for completing the coverage information section of the form, which includes monthly enrollment premiums, monthly second lowest cost silver plan (SLCSP) premium, and monthly advance payment of premium tax credit for each month of coverage.
+
+The document advises recipients that they received Form 1095-A because they or a family member enrolled in health insurance coverage through the Marketplace. Recipients must complete Form 8962, Premium Tax Credit (PTC), and file it with their tax return if any amount other than zero is shown in Part III, column C of Form 1095-A or if they want to take the premium tax credit.
+
+Recipients are also informed that if they or their family members were enrolled in a Marketplace catastrophic health plan or separate dental policy, they are not entitled to take a premium tax credit for that coverage when filing their return.
+
+The document provides additional information about the tax provisions of the Affordable Care Act (ACA) and directs recipients to the IRS website or hotline for further assistance.
+
+Finally, the document explains the VOID and CORRECTED boxes on the form, provides instructions for each section of the form, and explains how to use the information on Form 1095-A to complete Form 8962.

@@ -1,0 +1,13 @@
+Schedule E (Form 1040) is a supplemental form used to report supplemental income and loss from various sources, such as rental real estate, royalties, partnerships, S corporations, estates, trusts, and REMICs. 
+
+Part I of the form is used to report income or loss from rental real estate and royalties. It asks for information regarding any payments made in the year that would require the filing of Form(s) 1099 and whether the required Form(s) 1099 have been filed. It also asks for the physical address and type of property for each rental real estate property listed, as well as the number of fair rental and personal use days.
+
+Part II is used to report income or loss from partnerships and S corporations. It asks for information regarding any loss not allowed in a prior year due to at-risk or basis limitations, prior year unallowed losses from passive activities, or unreimbursed partnership expenses. It also requires the reporting of the name, type, and employer identification number of each partnership or S corporation, as well as information regarding passive and nonpassive income and losses.
+
+Part III is used to report income or loss from estates and trusts. It requires the reporting of the name and employer identification number of each estate or trust, as well as information regarding passive and nonpassive income and deductions.
+
+Part IV is used to report income or loss from real estate mortgage investment conduits (REMICs) residual holder. It requires the reporting of the name and employer identification number of each REMIC, as well as information regarding excess inclusions, taxable income or net loss, and income from Schedules Q.
+
+Part V is a summary section that calculates the total income or loss by combining the amounts from Parts I, II, III, IV, and any net farm rental income or loss from Form 4835. It also includes a reconciliation of farming and fishing income and a reconciliation for real estate professionals.
+
+The information reported on Schedule E is used to determine the taxpayer's total income or loss, which is then included on Schedule 1 (Form 1040), line 5.

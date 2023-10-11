@@ -1,0 +1,122 @@
+SCHEDULE C 
+(Form 8995-A)
+(Rev. December 2022)
+Loss Netting and Carryforward
+Department of the Treasury  
+Internal Revenue Service 
+Attach to Form 8995-A. 
+Go to www.irs.gov/Form8995A for instructions and the latest information.
+OMB No. 1545-2294
+Attachment   
+Sequence No. 55D
+Name(s) shown on return
+Your taxpayer identification number
+If you have more than three trades, businesses, or aggregations, complete and attach as many Schedules C as needed. See instructions. 
+1 
+( 
+  )
+( 
+  )
+( 
+  )
+Trade, business, or aggregation name
+(a)  Qualified 
+business 
+income/(loss)
+(b)  Reduction for 
+loss netting 
+(see instructions) 
+(c)  Adjusted qualified 
+business income 
+(Combine (a) and (b). 
+If zero or less, 
+enter -0-.) 
+2
+Qualified business net (loss) carryforward from prior years. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.  
+2
+( 
+  )
+3 
+Total of the trades, businesses, or aggregations losses. Combine the negative amounts on lines 1, 
+column (a), and 2 for all trades, businesses, or aggregations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+( 
+)
+4 
+Total of the trades, businesses, or aggregations income. Add the positive amounts on line 1, column
+(a), for all trades, businesses, or aggregations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5 
+ 
+Losses netted with income of other trades, businesses, or aggregations. Enter in the parentheses on
+line 5 the smaller of the absolute value of line 3 or line 4. Allocate this amount to each of the trades, 
+businesses, or aggregations on line 1, column (b) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+( 
+)
+6 
+Qualified business net (loss) carryforward. Subtract line 5 from line 3. If zero or more, enter -0- 
+.
+.
+6 
+( 
+)
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 72684K
+ Schedule C (Form 8995-A) (Rev. 12-2022)

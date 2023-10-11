@@ -1,0 +1,11 @@
+Form 8993 is a document provided by the Department of the Treasury and the Internal Revenue Service (IRS) that is used to determine the deduction eligible income (DEI) and deemed intangible income (DII) for the Section 250 Deduction for Foreign-Derived Intangible Income (FDII) and Global Intangible Low-Taxed Income (GILTI). 
+
+The form is divided into three parts. 
+
+Part I focuses on determining the DEI and DII. It includes calculations for gross income, exclusions, deductions, and the final DEI and DII amounts.
+
+Part II is about determining the Foreign-Derived Deduction Eligible Income (FDDEI). It involves calculations for gross receipts, cost of goods sold (COGS), and various deductions to arrive at the FDDEI amount.
+
+Part III is where the FDII and GILTI deductions are determined. It includes calculations for the foreign-derived ratio, FDII, GILTI inclusion, total FDII and GILTI, taxable income, excess FDII and GILTI over taxable income, FDII reduction, GILTI reduction, and the final FDII and GILTI deductions.
+
+The form provides specific instructions and references to additional information available on the IRS website.

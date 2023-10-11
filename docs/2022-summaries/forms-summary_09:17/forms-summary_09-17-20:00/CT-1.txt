@@ -1,0 +1,1020 @@
+Form      CT-1
+Department of the Treasury  
+Internal Revenue Service 
+Employer’s Annual Railroad Retirement Tax Return
+Go to www.irs.gov/CT1 for instructions and the latest information.
+OMB No. 1545-0001
+2022
+Type              
+or                
+Print
+Name
+Address (number and street)
+City or town, state or province, country, and ZIP or foreign postal code
+Employer identification number (EIN)
+RRB number
+If final return, 
+check here 
+Part I
+Railroad Retirement Taxes. On lines 1 through 12 below, enter the amount of compensation paid in 2022 
+for each tax. Then, multiply it by the rate shown and enter the tax.
+Compensation
+Rate
+Tax
+1
+Tier 1 Employer Tax—Compensation (other than tips and sick pay) $
+× 6.2%    =
+1
+2 
+Tier 1 Employer Medicare Tax—Compensation (other than tips 
+and sick pay) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 1.45%  =
+2
+3
+Tier 2 Employer Tax—Compensation (other than tips) 
+.
+.
+.
+$
+× 13.1%  =
+3
+4
+Tier 1 Employee Tax—Compensation (other than sick pay) 
+.
+$
+× 6.2%    =
+4
+5 
+Tier 1 Employee Medicare Tax—Compensation (other than sick 
+pay) (for tips, see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 1.45%  =
+5
+6
+Tier 1 Employee Additional Medicare Tax—Compensation (other 
+than sick pay) (for tips, see instructions) .
+.
+.
+.
+.
+.
+.
+.
+$
+× 0.9%    =
+6
+7
+Tier 2 Employee Tax—Compensation (for tips, see instructions)
+$
+× 4.9%    =
+7
+8
+Tier 1 Employer Tax—Sick pay .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 6.2%    =
+8
+9
+Tier 1 Employer Medicare Tax—Sick pay 
+.
+.
+.
+.
+.
+.
+.
+$
+× 1.45%  =
+9
+10
+Tier 1 Employee Tax—Sick pay 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 6.2%    = 10
+11
+Tier 1 Employee Medicare Tax—Sick pay .
+.
+.
+.
+.
+.
+.
+$
+× 1.45%  = 11
+12
+Tier 1 Employee Additional Medicare Tax—Sick pay .
+.
+.
+.
+$
+× 0.9%    = 12
+13
+Total tax based on compensation (add lines 1 through 12) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14 
+Adjustments to employer and employee railroad retirement taxes based on compensation. See the
+instructions for line 14 and attach required statements.
+Fractions of Cents $
+±    Other  $
+= 14
+15
+Total taxes after adjustments (line 13 as adjusted by line 14) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Nonrefundable portion of credit for qualified sick and family leave compensation for leave taken
+before April 1, 2021 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17a
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17a
+b
+Nonrefundable portion of credit for qualified sick and family leave compensation for leave taken
+after March 31, 2021, and before October 1, 2021
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17b
+c
+Nonrefundable portion of COBRA premium assistance credit .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17c
+d
+Number of individuals provided COBRA premium assistance .
+.
+.
+.
+.
+17d
+18
+Total nonrefundable credits. Add lines 16, 17b, and 17c.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+Total taxes after adjustments and nonrefundable credits. Subtract line 18 from line 15 
+.
+.
+.
+.
+19
+20 
+Total railroad retirement tax deposits for the year, including overpayment applied from a prior year 
+and overpayment applied from Form CT-1 X .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+23
+Refundable portion of credit for qualified sick and family leave compensation for leave taken before 
+April 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24a
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24a
+b
+Refundable portion of credit for qualified sick and family leave compensation for leave taken after 
+March 31, 2021, and before October 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24b
+c
+Refundable portion of COBRA premium assistance credit .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24c
+25
+Total deposits and refundable credits. Add lines 20, 23, 24b, and 24c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+26
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26
+27
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27
+28
+Balance due. If line 19 is more than line 25, enter the difference and see the instructions 
+.
+.
+.
+28
+29
+Overpayment. If line 25 is more than line 19, enter the difference
+$
+Check one:
+Apply to next return.
+Send a refund.
+You must complete both pages of Form CT-1 and sign it.
+For Privacy Act and Paperwork Reduction Act Notice, see back of payment voucher.
+Cat. No. 16006S
+Form CT-1 (2022)
+Form CT-1 (2022)
+Page 2
+Part I
+Railroad Retirement Taxes (continued)
+30
+Qualified sick leave compensation for leave taken before April 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+30
+31
+Qualified health plan expenses allocable to compensation reported on line 30
+.
+.
+.
+.
+.
+.
+.
+31
+32
+Qualified family leave compensation for leave taken before April 1, 2021
+.
+.
+.
+.
+.
+.
+.
+.
+.
+32
+33
+Qualified health plan expenses allocable to compensation reported on line 32
+.
+.
+.
+.
+.
+.
+.
+33
+34
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+34
+35
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+35
+36
+Qualified sick leave compensation for leave taken after March 31, 2021, and before October 1, 2021 
+36
+37
+Qualified health plan expenses allocable to qualified sick leave compensation reported on line 36 .
+37
+38
+Amounts under certain collectively bargained agreements allocable to qualified sick leave 
+compensation reported on line 36 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+38
+39
+Qualified family leave compensation for leave taken after March 31, 2021, and before October 1, 2021 
+39
+40
+Qualified health plan expenses allocable to qualified family leave compensation reported on line 39 
+40
+41
+Amounts under certain collectively bargained agreements allocable to qualified family leave 
+compensation reported on line 39 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+41
+42
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+42
+43
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+43
+• All filers: If line 19 is less than $2,500, don’t complete Part II or Form 945-A.
+• Semiweekly schedule depositors: Complete Form 945-A and see the Part II instructions below.
+• Monthly schedule depositors: Complete Part II below.
+Part II
+Record of Railroad Retirement Tax Liability
+Complete the Monthly Summary of Railroad Retirement Tax Liability 
+below only if you were a monthly schedule depositor for the entire 
+year. Enter your Tier 1 and Tier 2 tax liability on the lines provided 
+for each month.
+If you were a semiweekly schedule depositor during any part of 
+the year or you accumulated $100,000 or more on any day during a 
+deposit period, you must complete Form 945-A, Annual Record of 
+Federal Tax Liability. Don’t complete the monthly summary below.
+On Form 945-A for each payday, enter the sum of your employee 
+and employer Tier 1 and Tier 2 taxes on the appropriate line.
+Your total tax liability for the year (line V below or line M on Form 
+945-A) must equal your total taxes for the year (Form CT-1, line 19). 
+Note: See the separate instructions for the deposit rules for railroad 
+retirement taxes.
+Monthly Summary of Railroad Retirement Tax Liability 
+Complete if Part I, line 19, is $2,500 or more and you were a monthly schedule depositor.
+Date compensation paid:
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+First month of quarter:
+January
+April
+July
+October
+Tier 1 and Tier 2 taxes           
+I  First month liability       
+Second month of quarter:
+February
+May
+August
+November
+Tier 1 and Tier 2 taxes 
+II  Second month liability 
+Third month of quarter:
+March
+June
+September
+December
+Tier 1 and Tier 2 taxes 
+III  Third month liability    
+IV Total for quarter, add 
+lines I, II, and III.
+V  Total railroad retirement tax liability for the year. This must equal Part I, line 19 .
+.
+.
+.
+.
+.
+.
+.  
+Third- 
+Party 
+Designee
+Do you want to allow another person to discuss this return with the IRS? See separate instructions.
+Yes. Complete the following.
+No.
+Designee’s 
+name
+Phone 
+no.      
+Personal identification 
+number (PIN)
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge 
+and belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature
+Print Your 
+Name and Title
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name
+Firm’s address
+Firm’s EIN
+Phone no. 
+Form CT-1 (2022)
+Form CT-1 (2022)
+Page 3
+Form CT-1(V), 
+Payment Voucher
+Purpose of Form
+Complete Form CT-1(V) if you’re making a payment with 
+Form CT-1. We will use the completed Form CT-1(V) to 
+credit your payment more promptly and accurately, and 
+to improve our service to you.
+Making Payments With Form CT-1
+To avoid a penalty, make a payment with Form CT-1 only 
+if one of the following applies.
+• Your total railroad retirement taxes for the year (Form 
+CT-1, line 19) are less than $2,500 and you’re paying in 
+full with a timely filed return.
+• You’re a monthly schedule depositor making a payment 
+in accordance with the Accuracy of Deposits Rule. See 
+the separate instructions for details. This amount may be 
+$2,500 or more.
+Otherwise, you must make deposits by electronic funds 
+transfer. Don’t use Form CT-1(V) to make federal tax 
+deposits. See Electronic Deposit Requirement in the 
+separate instructions.
+▲
+!
+CAUTION
+Use Form CT-1(V) when paying any amount with 
+Form CT-1. However, if you pay an amount with 
+Form CT-1 that should’ve been deposited, you 
+may be subject to a penalty. See Penalties 
+and Interest in the separate instructions.
+Specific Instructions
+Box 1—Employer identification number (EIN). If you 
+don’t have an EIN, you may apply for one online by 
+visiting www.irs.gov/EIN. You may also apply for an EIN 
+by faxing or mailing Form SS-4 to the IRS. If you haven’t 
+received your EIN by the due date of Form CT-1, write 
+“Applied For” and the date you applied in this entry 
+space.
+Box 2—Amount paid. Enter the amount paid with     
+Form CT-1.
+Box 3—Name and address. Enter your business name 
+and address as shown on Form CT-1.
+• Enclose your check or money order made payable to 
+“United States Treasury.” Be sure to enter your EIN, 
+“Form CT-1,” and “2022” on your check or money order. 
+Don’t send cash. Don’t staple Form CT-1(V) or your 
+payment to Form CT-1 or to each other.
+• Detach Form CT-1(V) and send it with your payment 
+and Form CT-1 to the address in the Instructions for  
+Form CT-1.
+Detach Here and Mail With Your Payment and Form CT-1.
+Form CT-1(V)
+Department of the Treasury  
+Internal Revenue Service 
+Payment Voucher
+Use this voucher when making a payment with Form CT-1.
+OMB No. 1545-0001
+2022
+1
+Enter your employer identification number (EIN)
+2
+Enter the amount of your payment.
+Make your check or money order payable to “United States Treasury.”
+Dollars
+Cents
+3 Enter your business name.
+Enter your address.
+Enter city or town, state or province, country, and ZIP or foreign postal code.
+Form CT-1 (2022)
+Page 4
+Privacy Act and Paperwork Reduction Act Notice. We 
+ask for the information on this form to carry out the 
+Internal Revenue laws of the United States. You’re 
+required to give us this information. We need it to ensure 
+that you’re complying with these laws and to allow us to 
+figure and collect the right amount of tax. Our authority to 
+ask for information is found in sections 6001, 6011, and 
+6012(a) and their regulations. Section 6109 requires you 
+to provide your identifying number on the return. If you 
+don’t provide the information we ask for, or provide false 
+or fraudulent information, you may be subject to 
+penalties. 
+You’re not required to provide the information 
+requested on a form that is subject to the Paperwork 
+Reduction Act unless the form displays a valid OMB 
+control number. Books and records relating to a form or 
+its instructions must be retained as long as their contents 
+may become material in the administration of any Internal 
+Revenue law.
+Generally, tax returns and return information are 
+confidential, as required by section 6103. However, 
+section 6103 allows or requires the IRS to disclose or give 
+the information shown on your tax return to others as 
+described in the Code. For example, we may disclose 
+your tax information to the Department of Justice for civil 
+and criminal litigation, and to cities, states, the District of 
+Columbia, and U.S. commonwealths and possessions for 
+use in administering their tax laws. We may also disclose 
+this information to other countries under a tax treaty, to 
+federal and state agencies to enforce federal nontax 
+criminal laws, or to federal law enforcement and 
+intelligence agencies to combat terrorism.
+The time needed to complete and file Form CT-1 will 
+vary depending on individual circumstances. The 
+estimated average time is:
+Recordkeeping .
+.
+.
+.
+.
+.
+.
+.
+.
+. 14 hr., 49 min.
+Learning about the law or the form .
+.
+  2 hr., 7 min. 
+Preparing, copying, assembling, and                  
+sending the form to the IRS .
+.
+.
+.
+.
+4 hr., 51 min. 
+If you have comments concerning the accuracy of 
+these time estimates or suggestions for making Form 
+CT-1 simpler, we would be happy to hear from you. You 
+can send us comments from www.irs.gov/
+FormComments. Or write to: Internal Revenue Service, 
+Tax Forms and Publications Division, 1111 Constitution 
+Ave. NW, IR-6526, Washington, DC 20224. Don’t send 
+Form CT-1 to this address. Instead, see Where To File in 
+the Instructions for Form CT-1.

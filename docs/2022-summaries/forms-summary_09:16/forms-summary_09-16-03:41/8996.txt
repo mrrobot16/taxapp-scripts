@@ -1,0 +1,15 @@
+Form 8996 is a document provided by the Internal Revenue Service (IRS) for taxpayers who are organized for the purpose of investing in qualified opportunity zone (QOZ) property. The form includes several sections for taxpayers to provide information and calculate their investment standard and penalties. 
+
+Part I requires taxpayers to provide general information and certification about their taxpayer type and whether they are organized as a QOF. If it is the taxpayer's first period as a QOF, they must provide additional information about their organizing documents and the trade or business they are engaged in.
+
+Part II involves the calculation of the investment standard. Taxpayers need to enter the total QOZ property and total assets held by the taxpayer on specific dates.
+
+Part III determines the QOF average and penalty. Taxpayers need to add certain lines from Part II and divide the result by 2.0. If the result is equal to or more than 0.90, they can enter -0- on this line. Otherwise, they have failed to maintain the investment standard and must complete Part IV to calculate the penalty.
+
+Part IV calculates the penalty for failing to maintain the investment standard. Taxpayers need to provide information about total assets, QOZ property, underpayment rate, and perform various calculations to determine the penalty amount.
+
+Part V and Part VI involve providing information about QOZ business property directly owned or leased by the taxpayer and QOZ stock or partnership interests held by the taxpayer.
+
+Part VII is a continuation of Part VI for taxpayers who have invested in QOZ businesses in multiple locations.
+
+Overall, Form 8996 is used by taxpayers to report and calculate their investment in qualified opportunity zone property and determine any penalties for failing to meet the investment standard.

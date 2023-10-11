@@ -1,0 +1,13 @@
+The Schedule K-1 (Form 1041) is a tax form used by estates and trusts to report the beneficiary's share of income, deductions, credits, and other items. The form is divided into several parts.
+
+Part I requires information about the estate or trust, including the employer identification number, name, and the fiduciary's name and address. It also asks whether Form 1041-T was filed and if this is the final form for the estate or trust.
+
+Part II collects information about the beneficiary, including their identifying number, name, and address. It also asks whether the beneficiary is domestic or foreign.
+
+Part III is where the beneficiary's share of income, deductions, credits, and other items is reported. This includes different types of income such as interest income, dividends, capital gains, rental income, and business income. It also includes deductions directly apportioned to the beneficiary, estate tax deduction, final year deductions, alternative minimum tax adjustment, credits, and other information.
+
+The form provides a list of codes used on Schedule K-1 for beneficiaries and summarizes how each item should be reported on Form 1040 or 1040-SR. It also mentions that a statement must be attached to show the beneficiary's share of income and directly apportioned deductions from each business, rental real estate, and other rental activity.
+
+The form includes additional sections for reporting other information such as tax-exempt interest, foreign taxes, net investment income, and section 199A information.
+
+The instructions for the form provide more detailed reporting and filing information for beneficiaries who file Form 1040 or 1040-SR, as well as instructions for beneficiaries who file other types of income tax returns.

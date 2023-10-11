@@ -1,0 +1,517 @@
+Form   8902
+(Rev. April 2018) 
+Alternative Tax on Qualifying Shipping Activities
+Department of the Treasury  
+Internal Revenue Service
+▶ Attach to the corporation’s income tax return. 
+▶ Go to www.irs.gov/Form8902 for instructions and the latest information. 
+OMB No. 1545-0123
+Name of corporation (common parent, if consolidated return) 
+Employer identification number 
+Name of subsidiary (if consolidated return) 
+Employer identification number 
+Part I 
+Section 1354 Election or Termination 
+A The corporation previously made a valid and timely section 1354 election effective for the tax year beginning
+, 20
+, and ending 
+, 20
+.
+B The corporation is making a section 1354 election for this tax year and all succeeding tax years. 
+C The corporation is revoking its election under section 1354(d)(1) for its tax year beginning 
+, 20
+, and ending
+, 20
+.
+D The corporation’s election was automatically terminated under section 1354(d)(2) because the corporation ceased to be   
+a qualifying vessel operator effective  
+, 20
+.
+Part II 
+Other Information (see instructions) 
+E Is the corporation a member of an electing group? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+If “No,” skip item F and go to item G. 
+F If the answer to item E is “Yes”: 
+(1) How many corporations are in the electing group? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+(2) Enter the number of vessels included under the election for the electing group .
+.
+.
+.
+.
+.
+.
+▶
+(3) Does any member of the electing group have income from qualifying secondary activities or 
+qualifying incidental activities? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+If “Yes,” attach to Form 8902 a worksheet that provides the information requested in item G for 
+each such member of the electing group. 
+G Enter the corporation’s gross income from: 
+(1) Core qualifying activities 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+(2) Qualifying secondary activities: 
+(a) Amount included in 20% limit 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+(b) Amount that exceeds the 20% limit 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+(3) Qualifying incidental activities: 
+(a) Amount included in the 0.1% limit .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+(b) Amount that exceeds the 0.1% limit 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+H Gross income from qualifying shipping activities excluded from gross income on the corporation’s 
+income tax return. Add lines G(1), G(2)(a), and G(3)(a) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 37711U 
+Form 8902 (Rev. 4-2018)
+Form 8902 (Rev. 4-2018)
+Page 2
+Part III 
+Vessel Information 
+Description 
+A 
+B 
+C 
+D 
+1
+Vessel name .
+.
+.
+.
+.
+.
+.
+.
+.
+2
+IMO number .
+.
+.
+.
+.
+.
+.
+.
+.
+3
+USCG VIN number .
+.
+.
+.
+.
+.
+.
+4
+Flag 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Date flagged .
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Vessel type .
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+Vessel used in U.S. foreign trade? .
+.  
+ 
+Yes 
+No 
+Yes 
+No 
+Yes 
+No 
+Yes 
+No 
+8 
+Percentage of U.S. ownership in the  
+vessel .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+%
+%
+%
+%
+9
+Type of ownership (see instructions) .
+10
+Type of vessel use (see instructions) .
+11
+Date placed in service 
+.
+.
+.
+.
+.
+Part IV 
+Notional Shipping Income 
+A 
+B 
+C 
+D 
+12
+Dead weight tons .
+.
+.
+.
+.
+.
+.
+13
+Net tons .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+Enter the smaller of line 13 or 25,000 .
+15
+Multiply line 14 by 0.004 .
+.
+.
+.
+.
+16
+Subtract line 14 from line 13 
+.
+.
+.
+17
+Multiply line 16 by 0.002 .
+.
+.
+.
+.
+18 
+Daily 
+notional 
+shipping 
+income.   
+Add lines 15 and 17 
+.
+.
+.
+.
+.
+.
+19 
+Days operated in U.S. foreign trade  
+during the tax year .
+.
+.
+.
+.
+.
+.
+20
+Multiply line 18 by line 19 
+.
+.
+.
+.
+21
+Ownership percentage 
+.
+.
+.
+.
+.
+%
+%
+%
+%
+22
+Multiply line 20 by line 21 
+.
+.
+.
+.
+If any income from this vessel was excluded from gross income by reason of section 883 or otherwise, complete lines 23 through 27. 
+Otherwise, skip lines 23 through 27 and enter the amount from line 22 on line 28. 
+A 
+B 
+C 
+D 
+23 
+Gross income excluded under section  
+883 or otherwise 
+.
+.
+.
+.
+.
+.
+.
+24 
+Gross income from operation of vessel 
+in U.S. foreign trade 
+.
+.
+.
+.
+.
+.
+25
+Add lines 23 and 24 
+.
+.
+.
+.
+.
+.
+26
+Divide line 24 by line 25 .
+.
+.
+.
+.
+27
+Multiply line 22 by line 26 
+.
+.
+.
+.
+28 
+ 
+Annual notional shipping income.  
+Enter the amount from line 22 or line  
+27, whichever applies .
+.
+.
+.
+.
+.
+Part V 
+Alternative Tax 
+29 
+Total annual notional shipping income (enter the sum of all columns of Part IV, line 28) 
+.
+.
+.
+.
+.
+$
+30 
+ 
+Alternative tax on qualifying shipping activities. Multiply line 29 by the highest rate of tax specified in
+section 11 (see instructions). Enter here and on the “Other taxes” line of Form 1120, Schedule J, or 
+Form 1120-F, Schedule J. Be sure to check the box for Form 8902
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+Form 8902 (Rev. 4-2018)

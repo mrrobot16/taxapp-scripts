@@ -1,0 +1,2395 @@
+Form  5471
+(Rev. December 2022)
+Department of the Treasury 
+Internal Revenue Service
+Information Return of U.S. Persons With Respect 
+ to Certain Foreign Corporations
+Go to www.irs.gov/Form5471 for instructions and the latest information.
+Information furnished for the foreign corporation’s annual accounting period (tax year required by 
+section 898) (see instructions) beginning
+, 20
+, and ending
+, 20
+OMB No. 1545-0123
+Attachment 
+Sequence No.  121
+Name of person filing this return
+Number, street, and room or suite no. (or P.O. box number if mail is not delivered to street address)
+City or town, state, and ZIP code
+A Identifying number
+B Category of filer (See instructions. Check applicable box(es).):
+1a
+1b
+1c
+2
+3
+4
+5a
+5b
+5c
+C Enter the total percentage of the foreign corporation’s voting 
+stock you owned at the end of its annual accounting period
+%
+Filer’s tax year beginning
+, 20
+, and ending
+, 20
+D  Check box if this is a final Form 5471 for the foreign corporation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+E  Check if any excepted specified foreign financial assets are reported on this form (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+F  Check the box if this Form 5471 has been completed using “Alternative Information” under Rev. Proc. 2019-40 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+G  If the box on line F is checked, enter the corresponding code for “Alternative Information” (see instructions)  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+H  Person(s) on whose behalf this information return is filed:
+(1) Name
+(2) Address
+(3) Identifying number
+(4) Check applicable box(es)
+   
+   
+   
+Shareholder
+Officer
+Director
+Important: Fill in all applicable lines and schedules. All information must be in English. All amounts must be stated in U.S. dollars 
+unless otherwise indicated.
+1a Name and address of foreign corporation
+  b(1) Employer identification number, if any
+  b(2) Reference ID number (see instructions)
+  c     Country under whose laws incorporated
+d Date of incorporation
+e Principal place of business
+f Principal business activity 
+code number
+g Principal business activity
+h Functional currency code
+2   Provide the following information for the foreign corporation’s accounting period stated above.
+a Name, address, and identifying number of branch office or agent (if any) in the 
+United States
+b If a U.S. income tax return was filed, enter:
+(i)  Taxable income or (loss)
+(ii) U.S. income tax paid  
+(after all credits)
+c Name and address of foreign corporation’s statutory or resident agent in country 
+of incorporation
+d Name and address (including corporate department, if applicable) of person (or 
+persons) with custody of the books and records of the foreign corporation, and 
+the location of such books and records, if different
+Schedule A
+Stock of the Foreign Corporation
+(a) Description of each class of stock
+(b) Number of shares issued and outstanding
+     
+(i)  Beginning of annual 
+accounting period
+(ii)  End of annual 
+accounting period
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 49958V
+Form 5471 (Rev. 12-2022)
+Form 5471 (Rev. 12-2022)
+Page 2 
+Schedule B
+Shareholders of Foreign Corporation
+Part I
+U.S. Shareholders of Foreign Corporation (see instructions)
+(a)  Name, address, and identifying 
+number of shareholder
+(b)  Description of each class of stock held by 
+shareholder. Note: This description should 
+ match the corresponding description 
+entered in Schedule A, column (a).
+(c)  Number of  
+shares held at 
+beginning of annual 
+accounting period
+(d)  Number of  
+shares held at 
+ end of annual 
+accounting period
+(e)  Pro rata share  
+of subpart F 
+ income (enter as 
+a percentage)
+Part II
+Direct Shareholders of Foreign Corporation (see instructions)
+(a) Name, address, and identifying number of shareholder. 
+Also, include country of incorporation 
+or formation, if applicable.
+(b)  Description of each class of stock held by shareholder.  
+Note: This description should match the corresponding 
+description entered in Schedule A, column (a).
+(c)  Number of  
+shares held at 
+beginning of annual 
+accounting period
+(d)  Number of  
+shares held at 
+ end of annual 
+accounting period
+Form 5471 (Rev. 12-2022)
+Form 5471 (Rev. 12-2022)
+Page 3 
+Schedule C
+Income Statement  (see instructions)
+Important: Report all information in functional currency in accordance with U.S. generally accepted accounting 
+principles (GAAP). Also, report each amount in U.S. dollars translated from functional currency (using GAAP translation
+rules). However, if the functional currency is the U.S. dollar, complete only the U.S. Dollars column. See instructions for 
+special rules for dollar approximate separate transactions method (DASTM) corporations.
+Income
+Deductions
+Net Income
+Other 
+Comprehensive 
+Income
+Functional Currency
+U.S. Dollars
+1a
+Gross receipts or sales .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a 
+b Returns and allowances 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+c Subtract line 1b from line 1a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c 
+2
+Cost of goods sold .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Gross profit (subtract line 2 from line 1c) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Dividends
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6a
+Gross rents 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a 
+b Gross royalties and license fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6b
+7 
+Net gain or (loss) on sale of capital assets.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8a
+Foreign currency transaction gain or loss—unrealized 
+.
+.
+.
+.
+.
+.
+8a
+b
+Foreign currency transaction gain or loss—realized
+.
+.
+.
+.
+.
+.
+.
+8b
+9
+Other income (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Total income (add lines 3 through 9) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Compensation not deducted elsewhere .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12a
+Rents 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12a
+b Royalties and license fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12b
+13
+Interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Depreciation not deducted elsewhere .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Depletion .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Taxes (exclude income tax expense (benefit)) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+Other deductions (attach statement—exclude income tax expense (benefit)) 
+17
+18
+Total deductions (add lines 11 through 17)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19 
+Net income or (loss) before unusual or infrequently occurring items, and 
+income tax expense (benefit) (subtract line 18 from line 10) .
+.
+.
+.
+.
+19
+20
+Unusual or infrequently occurring items 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21a
+Income tax expense (benefit)—current .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21a 
+b
+Income tax expense (benefit)—deferred
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21b
+22
+Current year net income or (loss) per books (combine lines 19 through 21b)
+22
+23a
+Foreign currency translation adjustments .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23a
+b
+Other 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23b
+c
+Income tax expense (benefit) related to other comprehensive income 
+.
+23c
+24 
+Other comprehensive income (loss), net of tax (line 23a plus line 23b less 
+line 23c) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+Form 5471 (Rev. 12-2022)
+Form 5471 (Rev. 12-2022)
+Page 4 
+Schedule F
+Balance Sheet
+Important: Report all amounts in U.S. dollars prepared and translated in accordance with U.S. GAAP. See instructions 
+for an exception for DASTM corporations.
+(                             ) (                             )
+(                             ) (                             )
+(                             ) (                             )
+(                             ) (                             )
+(                             ) (                             )
+Assets
+(a)  
+Beginning of annual 
+accounting period
+(b) 
+ End of annual  
+accounting period
+1 
+Cash
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2a Trade notes and accounts receivable .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b Less allowance for bad debts .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+3 
+Derivatives 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4
+Inventories
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Other current assets (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Loans to shareholders and other related persons .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Investment in subsidiaries (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Other investments (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9a Buildings and other depreciable assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a
+b Less accumulated depreciation 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9b
+10a Depletable assets
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10a
+b Less accumulated depletion .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10b
+11
+Land (net of any amortization)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Intangible assets:
+a Goodwill .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12a
+b Organization costs .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12b
+c Patents, trademarks, and other intangible assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12c
+d Less accumulated amortization for lines 12a, 12b, and 12c 
+.
+.
+.
+.
+.
+.
+.
+12d
+13
+Other assets (attach statement).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Total assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+Liabilities and Shareholders’ Equity
+     
+     
+15
+Accounts payable .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Other current liabilities (attach statement)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+Derivatives
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18
+Loans from shareholders and other related persons .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+Other liabilities (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Capital stock:
+a Preferred stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20a
+b Common stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20b
+21
+Paid-in or capital surplus (attach reconciliation)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22
+Retained earnings .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+23
+Less cost of treasury stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24
+Total liabilities and shareholders’ equity .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+Schedule G
+Other Information
+Yes
+No
+1 
+ 
+During the tax year, did the foreign corporation own at least a 10% interest, directly or indirectly, in any foreign
+partnership? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” see the instructions for required statement.
+2 
+During the tax year, did the foreign corporation own an interest in any trust? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+ 
+During the tax year, did the foreign corporation own any foreign entities that were disregarded as separate from
+their owner under Regulations sections 301.7701-2 and 301.7701-3 or did the foreign corporation own any foreign
+branches (see instructions)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” you are generally required to attach Form 8858 for each entity or branch (see instructions).
+4 
+ 
+ 
+a 
+ 
+During the tax year, did the filer pay or accrue any base erosion payment under section 59A(d) to the foreign
+corporation or did the filer have a base erosion tax benefit under section 59A(c)(2) with respect to a base erosion
+payment made or accrued to the foreign corporation (see instructions)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” complete lines 4b and 4c.
+b
+Enter the total amount of the base erosion payments
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. $
+c
+Enter the total amount of the base erosion tax benefits .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. $
+5 
+ 
+a During the tax year, did the foreign corporation pay or accrue any interest or royalty for which the deduction is not 
+allowed under section 267A? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” complete line 5b.
+b
+Enter the total amount of the disallowed deductions (see instructions) .
+.
+.
+.
+.
+.
+.
+. $
+Form 5471 (Rev. 12-2022)
+Form 5471 (Rev. 12-2022)
+Page 5 
+Schedule G
+Other Information (continued)
+Yes
+No
+6 a Is the filer claiming a foreign-derived intangible income (FDII) deduction (under section 250) with respect to any
+transactions with the foreign corporation? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” complete lines 6b, 6c, and 6d. See instructions.
+b Enter the amount of gross receipts derived from all sales of general property to the foreign corporation that the
+filer included in its computation of foreign-derived deduction eligible income (FDDEI) .
+.
+. $
+c 
+ 
+Enter the amount of gross receipts derived from all sales of intangible property to the foreign corporation that the
+filer included in its computation of FDDEI 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. $
+d Enter the amount of gross receipts derived from all services provided to the foreign corporation that the filer 
+included in its computation of FDDEI .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. $
+7
+During the tax year, was the foreign corporation a participant in any cost sharing arrangement? 
+.
+.
+.
+.
+.
+.
+If the answer to question 7 is “Yes,” complete a separate Schedule G-1 for each cost sharing arrangement in
+which the foreign corporation was a participant during the tax year.
+8
+From April 25, 2014, to December 31, 2017, did the foreign corporation purchase stock or securities of a 
+shareholder of the foreign corporation for use in a triangular reorganization (within the meaning of Regulations
+section 1.358-6(b)(2))? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 a Did the foreign corporation receive any intangible property in a prior year or the current tax year for which the U.S. 
+transferor is required to report a section 367(d) annual income inclusion for the tax year? 
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” go to line 9b.
+b Enter in functional currency the amount of the earnings and profits reduction pursuant to section 367(d)(2)(B) for 
+the tax year
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+During the tax year, was the foreign corporation an expatriated foreign subsidiary under Regulations section
+1.7874-12(a)(9)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” see instructions and attach statement.
+11 
+During the tax year, did the foreign corporation participate in any reportable transaction as defined in Regulations
+section 1.6011-4? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach Form(s) 8886 if required by Regulations section 1.6011-4(c)(3)(i)(G).
+12 
+During the tax year, did the foreign corporation pay or accrue any foreign tax that was disqualified for credit under 
+section 901(m)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+During the tax year, did the foreign corporation pay or accrue foreign taxes to which section 909 applies, or treat 
+foreign taxes that were previously suspended under section 909 as no longer suspended? .
+.
+.
+.
+.
+.
+.
+.
+14
+Did you answer “Yes” to any of the questions in the instructions for line 14? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter the corresponding code(s) from the instructions and attach statement
+15 
+Does the foreign corporation have interest expense disallowed under section 163(j) (see instructions)? .
+.
+.
+.
+If “Yes,” enter the amount 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  $
+16 
+Does the foreign corporation have previously disallowed interest expense under section 163(j) carried forward to 
+the current tax year (see instructions)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter the amount 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  $
+17 a Did any extraordinary reduction with respect to a controlling section 245A shareholder occur during the tax year 
+(see instructions)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b If the answer to question 17a is “Yes,” was an election made to close the tax year such that no amount is treated
+as an extraordinary reduction amount or tiered extraordinary reduction amount (see instructions)? 
+.
+.
+.
+.
+.
+18
+Does the reporting corporation have any loan to or from the related party to which the safe-haven rate rules of
+Regulations section 1.482-2(a)(2)(iii)(B) are applicable, and for which the reporting corporation used a rate of
+interest within the safe-haven range of Regulations section 1.482-2(a)(2)(iii)(B)(1) (100% to 130% of the AFR for the
+relevant term)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19a Did the reporting corporation make at least one distribution or acquisition (as defined by Regulations section
+1.385-3) during the period including the tax year and the preceding 3 tax years, or, during the period beginning 36 
+months before the date of the respective distribution or acquisition and ending 36 months afterward, did the
+reporting corporation issue or refinance indebtedness owed to a related party? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+If the answer to question 19a is “Yes,” provide the following.
+(1) The amount of such distribution(s) and acquisition(s) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. $
+(2) The amount of such related party indebtedness .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  $
+Form 5471 (Rev. 12-2022)
+Form 5471 (Rev. 12-2022)
+Page 6 
+Schedule I
+Summary of Shareholder’s Income From Foreign Corporation (see instructions)
+If item H on page 1 is completed, a separate Schedule I must be filed for each Category 4, 5a, or 5b filer for whom reporting is 
+furnished on this Form 5471. This Schedule I is being completed for:
+Name of U.S. shareholder 
+Identifying number 
+1 a Section 964(e)(4) subpart F dividend income from the sale of stock of a lower-tier foreign corporation
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b
+Section 245A(e)(2) subpart F income from hybrid dividends of tiered corporations (see instructions)
+.
+1b
+c
+Subpart F income from tiered extraordinary disposition amounts not eligible for subpart F exception
+under section 954(c)(6)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+1c
+d
+Subpart F income from tiered extraordinary reduction amounts not eligible for subpart F exception
+under section 954(c)(6) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d
+e
+Section 954(c) Subpart F Foreign Personal Holding Company Income (enter result from Worksheet A)
+1e
+f
+Section 954(d) Subpart F Foreign Base Company Sales Income (enter result from Worksheet A) .
+.
+1f
+g
+Section 954(e) Subpart F Foreign Base Company Services Income (enter result from Worksheet A) .
+1g
+h
+Other subpart F income (enter result from Worksheet A) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1h
+2 
+Earnings invested in U.S. property (enter the result from Worksheet B) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4
+Factoring income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+See instructions for reporting amounts on lines 1, 2, and 4 on your income tax return. 
+5a
+Section 245A eligible dividends (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a
+b
+Extraordinary disposition amounts (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5b
+c
+Extraordinary reduction amounts (see instructions)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c
+d
+Section 245A(e) dividends (see instructions).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5d
+e
+Dividends not reported on line 5a, 5b, 5c, or 5d
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5e
+6
+Exchange gain or (loss) on a distribution of previously taxed earnings and profits .
+.
+.
+.
+.
+.
+.
+6
+Yes
+No
+7a
+Was any income of the foreign corporation blocked? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Did any such income become unblocked during the tax year (see section 964(b))? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If the answer to either question is “Yes,” attach an explanation.
+8 a Did this U.S. shareholder have an extraordinary disposition (ED) account with respect to the foreign corporation at 
+any time during the tax year (see instructions)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+If the answer to question 8a is “Yes,” enter the U.S. shareholder’s ED account balance at the beginning of the CFC year
+$
+and at the end of the tax year $
+. Provide an attachment detailing any changes from the
+beginning to the ending balances.
+c
+Enter the CFC’s aggregate ED account balance with respect to all U.S. shareholders at the beginning of the CFC year
+$
+and at the end of the tax year $
+. Provide an attachment detailing any changes from the
+beginning to the ending balances.
+9
+Enter the sum of the hybrid deduction accounts with respect to stock of the foreign corporation (see instructions) $
+Form 5471 (Rev. 12-2022)

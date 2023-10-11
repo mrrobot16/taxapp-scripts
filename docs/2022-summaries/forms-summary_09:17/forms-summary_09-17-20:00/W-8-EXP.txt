@@ -1,0 +1,311 @@
+Form  W-8EXP
+(Rev. July 2017)
+Department of the Treasury  
+Internal Revenue Service 
+Certificate of Foreign Government or Other Foreign 
+Organization for United States Tax  
+Withholding and Reporting
+(For use by foreign governments, international organizations, foreign central banks of issue, foreign  
+tax-exempt organizations, foreign private foundations, and governments of U.S. possessions.)
+▶ Go to www.irs.gov/FormW8EXP for instructions and the latest information. 
+▶ Section references are to the Internal Revenue Code.   
+▶ Give this form to the withholding agent or payer. Do not send to the IRS. 
+OMB No. 1545-1621
+Do not use this form for: 
+Instead, use Form: 
+•  A foreign government or other foreign organization that is not claiming the applicability of section(s) 115(2), 501(c), 892, 895, 
+or 1443(b) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+W-8BEN-E or W-8ECI 
+•  A beneficial owner solely claiming foreign status or treaty benefits 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+W-8BEN or W-8BEN-E 
+•  A foreign partnership or a foreign trust 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+W-8BEN-E or W-8IMY 
+•  A person claiming that income is effectively connected with the conduct of a trade or business in the United States 
+.
+.
+.
+.
+.
+.
+W-8ECI 
+•  A person acting as an intermediary 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+W-8IMY 
+Part I 
+Identification of Beneficial Owner 
+1  Name of organization 
+2  Country of incorporation or organization 
+3  Type of 
+entity 
+Foreign government 
+International organization 
+Foreign central bank of issue (not wholly 
+owned by the foreign sovereign) 
+Foreign tax-exempt organization 
+Foreign private foundation 
+Government of a U.S. possession 
+4  Chapter 4 Status (FATCA status):
+Participating FFI. 
+Reporting Model 1 FFI. 
+Reporting Model 2 FFI.
+Registered deemed-compliant FFI 
+(other than a Reporting Model 1 FFI).
+Nonreporting IGA FFI. Complete Part III.
+Territory financial institution. Complete Part III.
+International organization.
+Foreign government (including a political subdivision), 
+government of a U.S. possession, or foreign central bank of 
+issue. Complete Part III. 
+Exempt retirement plan of foreign government. Complete Part III.
+501(c) organization. Complete Part III.
+Passive NFFE. Complete Part III.
+Direct reporting NFFE.
+Sponsored direct reporting NFFE. Complete Part III.
+5  Permanent address (street, apt. or suite no., or rural route). Do not use a P.O. box or in-care-of address (other than a registered address).  
+City or town, state or province. Include postal code where appropriate. 
+Country 
+6  Mailing address (if different from above).
+City or town, state or province. Include postal or ZIP code where appropriate. 
+Country
+7  U.S. TIN, if required (see instructions) 
+8a  GIIN
+b  Foreign TIN (see instructions)
+9  Reference number(s) (see instructions) 
+Part II 
+Qualification Statement for Chapter 3 Status 
+10
+For a foreign government: 
+a 
+I certify that the entity identified in Part I is a foreign government within the meaning of section 892 and the payments are 
+within the scope of the exemption granted by section 892. 
+Check box 10b or box 10c, whichever applies.
+b 
+The entity identified in Part I is an integral part of the government of 
+.
+c 
+The entity identified in Part I is a controlled entity of the government of 
+. 
+11
+For an international organization: 
+I certify that: 
+• The entity identified in Part I is an international organization within the meaning of section 7701(a)(18), and 
+• The payments are within the scope of the exemption granted by section 892. 
+12
+For a foreign central bank of issue (not wholly owned by the foreign sovereign):
+I certify that: 
+• The entity identified in Part I is a foreign central bank of issue, 
+• The entity identified in Part I does not hold obligations or bank deposits to which this form relates for use in 
+connection with the conduct of a commercial banking function or other commercial activity, and 
+• The payments are within the scope of the exemption granted by section 895. 
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 25401F 
+Form W-8EXP (Rev. 7-2017)
+Form W-8EXP (Rev. 7-2017) 
+Page  2 
+Part II 
+Qualification Statement for Chapter 3 Status (continued) 
+13 
+For a foreign tax-exempt organization, including foreign private foundations: 
+If any of the income to which this certification relates constitutes income includible under section 512 in computing the 
+entity’s unrelated business taxable income, attach a statement identifying the amounts. 
+Check either box 13a or box 13b. 
+a 
+I certify that the entity identified in Part I has been issued a determination letter by the IRS dated 
+that is currently in effect and that concludes that it is an exempt organization described in section 501(c). 
+b 
+I have attached to this form an opinion from U.S. counsel concluding that the entity identified in Part I is described in
+section 501(c). 
+For section 501(c)(3) organizations only, check either box 13c or box 13d.
+c 
+If the determination letter or opinion of counsel concludes that the entity identified in Part I is described in section 501(c)(3), 
+I certify that the organization is not a private foundation described in section 509. I have attached an affidavit of the
+organization setting forth sufficient facts for the IRS to determine that the organization is not a private foundation because it 
+meets one of the exceptions described in section 509(a)(1), (2), (3), or (4). 
+d 
+If the determination letter or opinion of counsel concludes that the entity identified in Part I is described in section 501(c)(3), 
+I certify that the organization is a private foundation described in section 509. 
+14 
+For a government of a U.S. possession: 
+I certify that the entity identified in Part I is a government of a possession of the United States, or is a political subdivision 
+thereof, and is claiming the exemption granted by section 115(2). 
+Part III 
+Qualification Statement for Chapter 4 Status (if required)
+15 
+For a nonreporting IGA FFI: 
+I certify that the entity identified in Part I: 
+• Meets the requirements to be considered a nonreporting financial institution pursuant to an applicable IGA between the United States 
+and
+ ;
+• Is treated as a
+under the provisions of the applicable IGA (see instructions); and
+• If you are an FFI treated as a registered deemed-compliant FFI under an applicable Model 2 IGA, provide your GIIN: 
+  ▶
+ .
+16 
+For a territory financial institution: 
+I certify that the entity identified in Part I is a financial institution (other than an investment entity) that is incorporated or
+organized under the laws of a possession of the United States.
+17 
+For a foreign government (including a political subdivision), government of a U.S. possession, or foreign central bank of issue:
+I certify that the entity identified in Part I is the beneficial owner of the payment and is not engaged in commercial financial
+activities of a type engaged in by an insurance company, custodial institution, or depository institution with respect to the
+payments, accounts, or obligations for which this form is submitted (except as permitted in Regulations section 1.1471-6(h)(2)).
+18 
+For an exempt retirement plan of a foreign government:
+I certify that the entity identified in Part I: 
+• Is established and sponsored by a foreign government, international organization, central bank of issue, or government of a 
+U.S. possession (each as defined in Regulations section 1.1471-6 or an applicable Model 1 or Model 2 IGA) to provide
+retirement, disability, or death benefits to beneficiaries or participants that are current or former employees of the sponsor (or 
+persons designated by such employees); or
+• Is established and sponsored by a foreign government, international organization, central bank of issue, or government of a 
+U.S. possession (each as defined in Regulations section 1.1471-6 or an applicable Model 1 or Model 2 IGA) to provide
+retirement, disability, or death benefits to beneficiaries or participants that are not current or former employees of such 
+sponsor, but are in consideration of personal services performed for the sponsor.
+19 
+For a 501(c) organization:
+I certify that the entity identified in Part I is an entity described in section 501(c) but is not an insurance company described
+in section 501(c)(15).
+20
+For a passive NFFE:
+a 
+I certify that the entity identified in Part I is a foreign entity that is not a financial institution (other than an investment entity
+organized in a possession of the United States).
+Check box 20b or 20c, whichever applies.
+b
+I further certify that the entity identified in Part I has no substantial U.S. owners, or
+c
+I further certify that the entity identified in Part I has provided a statement including the name, address, and TIN of each 
+substantial U.S. owner of the NFFE (see instructions).
+21
+Name of sponsoring entity:
+I certify that the entity identified in Part I is a direct reporting NFFE that is sponsored by the entity identified in line 21.
+Form W-8EXP (Rev. 7-2017) 
+Form W-8EXP (Rev. 7-2017) 
+Page  3 
+Part IV 
+Certification 
+Under penalties of perjury, I declare that I have examined the information on this form and to the best of my knowledge and 
+belief it is true, correct, and complete. I further certify under penalties of perjury that: 
+• The organization for which I am signing is the beneficial owner of the income and other payments to which this form relates, 
+• The beneficial owner is not a U.S. person, 
+• For a beneficial owner that is a controlled entity of a foreign sovereign (other than a central bank of issue wholly owned by a 
+foreign sovereign), the beneficial owner is not engaged in commercial activities within or outside the United States, and 
+• For a beneficial owner that is a central bank of issue wholly owned by a foreign sovereign, the beneficial owner is not 
+engaged in commercial activities within the United States. 
+Furthermore, I authorize this form to be provided to any withholding agent that has control, receipt, or custody of the payments 
+of which I am the beneficial owner or any withholding agent that can disburse or make payments of the amounts of which I am
+the beneficial owner.
+I agree that I will submit a new form within 30 days if any certification made on this form becomes incorrect.
+Sign 
+Here 
+▲
+Signature of authorized official
+Print name
+Date (MM-DD-YYYY)
+I certify that I have the capacity to sign for the entity identified on line 1 of this form.
+Form W-8EXP (Rev. 7-2017) 
+SIGN

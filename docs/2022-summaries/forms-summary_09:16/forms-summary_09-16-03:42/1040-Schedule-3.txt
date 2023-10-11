@@ -1,0 +1,9 @@
+Schedule 3 is a form that taxpayers in the United States use to report additional credits and payments on their federal income tax return (Form 1040, 1040-SR, or 1040-NR). The form is divided into two parts: Part I for nonrefundable credits and Part II for other payments and refundable credits.
+
+In Part I, taxpayers report various nonrefundable credits they may be eligible for, including the foreign tax credit, child and dependent care expenses credit, education credits, retirement savings contributions credit, residential energy credits, and other nonrefundable credits such as the general business credit, adoption credit, credit for the elderly or disabled, and more. Taxpayers must attach the relevant forms (e.g., Form 1116, Form 2441, Form 8863) to support their claims for these credits.
+
+In Part II, taxpayers report other payments and refundable credits. This includes the net premium tax credit, which requires attaching Form 8962, the amount paid with a request for an extension to file, excess social security and tier 1 RRTA tax withheld, the credit for federal tax on fuels (with Form 4136 attached), and other payments or refundable credits such as the credit for qualified sick and family leave wages paid in 2022, credit for repayment of amounts included in income from earlier years, and more. Taxpayers may need to attach additional schedules or forms to support these claims.
+
+Taxpayers must calculate the total of their nonrefundable credits (line 7) and the total of their other payments or refundable credits (line 14). These totals are then added to lines 8 and 15, respectively, and entered on the corresponding lines of their Form 1040, 1040-SR, or 1040-NR.
+
+It's important to note that this summary is based on the 2022 version of Schedule 3, and taxpayers should refer to the official instructions and the latest information from the IRS for complete and up-to-date guidance.

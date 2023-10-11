@@ -1,0 +1,16 @@
+Schedule R (Form 5471) is a document provided by the Department of the Treasury and the Internal Revenue Service (IRS) for reporting distributions from a foreign corporation. The form is to be attached to Form 5471, which is used to report information about certain foreign corporations owned by U.S. persons.
+
+The form requires the filer to provide their name, identifying number, and the name of the foreign corporation. If applicable, the Employer Identification Number (EIN) of the foreign corporation should also be provided. Additionally, a reference ID number may be required, as per the instructions.
+
+The main section of the form consists of a table with several columns. The columns are labeled as follows:
+
+(a) Description of distribution
+(b) Date of distribution
+(c) Amount of distribution in foreign corporation's functional currency
+(d) Amount of Earnings and Profits (E&P) distribution in foreign corporation's functional currency
+
+There are 24 rows in the table, allowing for the reporting of multiple distributions. The purpose of this schedule is to provide the IRS with detailed information about distributions received from a foreign corporation.
+
+The form also includes a notice regarding the Paperwork Reduction Act, which provides information about the burden of complying with the form's requirements.
+
+For further instructions and the most up-to-date information, the filer is directed to visit the IRS website at www.irs.gov/Form5471.

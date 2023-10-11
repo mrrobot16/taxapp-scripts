@@ -1,0 +1,9 @@
+Schedule D (Form 941) is a document used by employers to report discrepancies in their tax returns caused by acquisitions, statutory mergers, or consolidations. The form is used to compare the totals reported on Forms 941 (Employers QUARTERLY Federal Tax Return) with the totals on Forms W-2 (Wage and Tax Statement) to ensure that the reported wages and taxes are accurate.
+
+The form includes several parts. Part 1 asks background questions about the type of transaction (statutory merger, consolidation, or acquisition) and the effective date of the transaction. It also requires information about the other party involved in the transaction.
+
+Part 2 is used to report the discrepancies between the amounts reported to the IRS and the amounts reported to the Social Security Administration (SSA) for various categories, such as social security wages, Medicare wages and tips, social security tips, federal income tax withheld, and advance earned income credit payments.
+
+If there is only one transaction being reported, the process stops here. If there are multiple transactions, Part 3 is used to report the discrepancies for each separate transaction. The form requires the same information as Part 2 but for each transaction separately.
+
+Overall, Schedule D (Form 941) is a tool provided by the IRS to help employers report and resolve discrepancies in their tax returns resulting from certain types of transactions.

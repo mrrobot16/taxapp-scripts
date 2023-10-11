@@ -1,0 +1,5 @@
+Form 8995 is a document issued by the Department of the Treasury and the Internal Revenue Service (IRS) for taxpayers to claim the qualified business income deduction. This deduction can be claimed if the taxpayer has qualified business income from a qualified trade or business, real estate investment trust dividends, publicly traded partnership income, or a domestic production activities deduction from an agricultural or horticultural cooperative. The form is used when the taxpayer's taxable income, before the qualified business income deduction, is at or below $170,050 ($340,100 if married filing jointly), and they are not a patron of an agricultural or horticultural cooperative. 
+
+The form includes various sections for reporting qualified business income or loss, qualified REIT dividends and publicly traded partnership income or loss, carryforwards from prior years, and calculating the qualified business income deduction. The final result is entered on the applicable line of the taxpayer's tax return.
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8995.

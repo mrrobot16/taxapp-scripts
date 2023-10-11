@@ -1,0 +1,29 @@
+Schedule J (Form 1040) is a tax form used by farmers and fishermen in the United States to calculate their income averaging. It is an attachment to Form 1040, 1040-SR, or 1040-NR.
+
+The form consists of several lines where taxpayers are required to enter specific information. Here is a summary of the key sections:
+
+- Line 1: Taxpayers enter their taxable income from their 2022 Form 1040, 1040-SR, or 1040-NR, line 15.
+- Line 2a: Taxpayers enter their elected farm income, which should not exceed the amount on line 1. Any capital gains related to farming are also entered on this line.
+- Line 3: The difference between line 1 and line 2a is calculated and entered on this line.
+- Line 4: Tax on the amount from line 3 is calculated using the 2022 tax rates.
+- Line 5: If taxpayers used Schedule J to calculate their tax for a previous year, they enter the relevant amount from that year's Schedule J on this line. Otherwise, they enter their taxable income from the previous year's tax return.
+- Line 6: The amount from line 2a is divided by 3.0 and entered on this line.
+- Line 7: Lines 5 and 6 are combined, and if the result is zero or less, taxpayers enter -0-.
+- Line 8: Tax on the amount from line 7 is calculated using the 2019 tax rates.
+- Line 9: Similar to line 5, taxpayers enter the relevant amount from a previous year's Schedule J or their taxable income from the previous year's tax return.
+- Line 10: The amount from line 6 is entered on this line.
+- Line 11: Lines 9 and 10 are combined, and if the result is less than zero, taxpayers enter it as a negative amount.
+- Line 12: Tax on the amount from line 11 is calculated using the 2020 tax rates.
+- Line 13: Similar to line 5, taxpayers enter the relevant amount from a previous year's Schedule J or their taxable income from the previous year's tax return.
+- Line 14: The amount from line 6 is entered on this line.
+- Line 15: Lines 13 and 14 are combined, and if the result is less than zero, taxpayers enter it as a negative amount.
+- Line 16: Tax on the amount from line 15 is calculated using the 2021 tax rates.
+- Line 17: The tax amounts from lines 4, 8, 12, and 16 are added together.
+- Line 18: The amount from line 17 is entered on this line.
+- Line 19: Similar to line 5, taxpayers enter the relevant amount from a previous year's Schedule J or their tax from the previous year's tax return.
+- Line 20: Similar to line 5, taxpayers enter the relevant amount from a previous year's Schedule J or their tax from the previous year's tax return.
+- Line 21: Similar to line 5, taxpayers enter the relevant amount from a previous year's Schedule J or their tax from the previous year's tax return.
+- Line 22: The tax amounts from lines 19 through 21 are added together.
+- Line 23: The tax amount from line 22 is subtracted from the amount on line 18. The resulting tax amount is also entered on Form 1040, 1040-SR, or 1040-NR, line 16.
+
+Taxpayers are advised to use caution and consider other tax calculation methods, such as the Tax Table, Tax Computation Worksheet, Qualified Dividends and Capital Gain Tax Worksheet, or Schedule D Tax Worksheet, as their tax may be lower when using these methods. Schedule J should only be attached if it is being used to calculate the tax.

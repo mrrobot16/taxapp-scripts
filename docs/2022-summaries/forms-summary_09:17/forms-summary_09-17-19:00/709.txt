@@ -1,0 +1,15 @@
+Form 709 is the United States Gift (and Generation-Skipping Transfer) Tax Return. It is used to report gifts made during the calendar year and calculate the gift tax owed. The form requires general information about the donor, such as their name, address, social security number, and citizenship. If the donor has passed away during the year or has extended the time to file the return, additional information is required. 
+
+The form also includes sections related to gifts made by a spouse, including consent to split gifts and information about the spouse's tax return. There is a section for the donor to declare their consent to have gifts made by them and their spouse considered as made one-half by each of them.
+
+The form includes a tax computation section where the taxable gifts are calculated based on the information provided in Schedule A. The tax computation section also includes information about the applicable credit amount and the balance of tax owed. 
+
+Schedule A is used to compute the taxable gifts and includes information about the gifts made, including the donee's name and address, relationship to the donor, description of the gift, and its value. 
+
+Schedule B is used to report gifts from prior periods if the donor has previously filed a Form 709. 
+
+Schedule C is used to determine the Deceased Spousal Unused Exclusion (DSUE) amount and Restored Exclusion Amount received from prior spouses. 
+
+Schedule D is used to compute the Generation-Skipping Transfer Tax and includes information about the generation-skipping transfers made. 
+
+The form also includes sections for the donor's signature and declaration, as well as information about the paid preparer, if applicable.

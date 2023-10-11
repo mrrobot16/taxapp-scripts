@@ -1,0 +1,11 @@
+Form 4684 is a document provided by the Internal Revenue Service (IRS) for taxpayers to report casualties and thefts on their tax returns. The form is divided into three sections: Section A for reporting personal use property losses, Section B for reporting business and income-producing property losses, and Section C for reporting theft losses related to Ponzi-type investment schemes. 
+
+In Section A, taxpayers must provide a description of the properties lost or damaged, including type, location, and date acquired. They also need to provide the cost or other basis of each property and any insurance or other reimbursement received. The form calculates the gain or loss from the casualty or theft and determines the deductible casualty or theft loss.
+
+Section B is used to report casualty or theft gain or loss for business and income-producing property. Taxpayers need to provide a description of the properties, their cost or adjusted basis, and any insurance or other reimbursement received. The form calculates the gain or loss from the casualty or theft and provides a summary of gains and losses.
+
+Section C is specifically for taxpayers claiming a theft loss deduction for Ponzi-type investment schemes using the procedures in Revenue Procedure 2009-20. Taxpayers must provide information about their investments, income reported on previous tax returns, withdrawals, and recoveries. The form calculates the deductible theft loss.
+
+Section D allows taxpayers to elect to deduct a federally declared disaster loss in the preceding tax year or revoke a prior election for a disaster loss deduction. Taxpayers need to provide information about the disaster, the date of the loss, and the address of the damaged property.
+
+Overall, Form 4684 is used to report and calculate deductions for casualties and thefts on personal use property, business and income-producing property, and theft losses related to Ponzi-type investment schemes.

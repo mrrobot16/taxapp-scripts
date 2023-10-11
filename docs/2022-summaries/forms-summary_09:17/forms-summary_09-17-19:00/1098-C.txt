@@ -1,0 +1,11 @@
+Form 1098-C is a document used for reporting contributions of motor vehicles, boats, and airplanes to the Internal Revenue Service (IRS) in the United States. It is divided into four copies: Copy A is filed with Form 1096 at the IRS service center, Copy B is attached to the donor's federal tax return for deductions over $500, Copy C is kept by the donor for their records, and Copy D is furnished to the donee.
+
+The form includes information such as the names, addresses, and taxpayer identification numbers (TINs) of the donor and donee, the date of contribution, the odometer mileage, make, model, and year of the vehicle, a vehicle or identification number, and details regarding the sale or transfer of the vehicle.
+
+The form also includes checkboxes for the donee to certify whether the vehicle was sold in an arms-length transaction, whether it will be transferred for money or services before completion of improvements or significant use, or whether it will be transferred to a needy individual for significantly below fair market value. There are also checkboxes regarding whether goods or services were provided in exchange for the vehicle and the value of those goods or services.
+
+The form provides instructions for donors on how to claim deductions for their contributions and reminds them to attach Copy B to their tax return. It also provides instructions for donees on how to complete and furnish the form to the donor.
+
+The instructions also include information on filing and furnishing deadlines, electronic filing requirements, and contact information for assistance with reporting on Form 1098-C.
+
+Overall, Form 1098-C is a tool for donors and donees to report and document contributions of motor vehicles, boats, and airplanes for tax purposes.

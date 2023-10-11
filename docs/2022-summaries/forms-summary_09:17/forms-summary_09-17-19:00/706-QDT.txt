@@ -1,0 +1,17 @@
+Form 706-QDT is the U.S. Estate Tax Return for Qualified Domestic Trusts. It is used to report and calculate estate taxes for qualified domestic trusts. The form consists of several parts and schedules.
+
+Part I of the form includes general information such as the name and EIN of the trust, the name and SSN or EIN of the trustee/designated filer, and the name and TIN of the surviving spouse (if applicable).
+
+Part II of the form includes elections made by the trustee/designated filer, such as electing alternate valuation, special use valuation, and installment payments of taxes.
+
+Part III of the form is for tax computation. It includes calculations for current taxable trust distributions, value of taxable trust property at the date of death, charitable and marital deductions, and the net tentative taxable amount.
+
+Part IV of the form is for recomputation of the decedent's estate tax based on the amount on line 9 or line 8, and calculates the net estate tax.
+
+Part V of the form is for reporting any payment made with a request for extension and any credit under section 2056A(b)(2)(B)(ii).
+
+The form also includes schedules A and B. Schedule A is used to provide a summary of prior taxable distributions, current taxable distributions, property remaining in QDOTs at the death of the surviving spouse, and marital and charitable deductions. Schedule B is completed by the trustee and includes general information, taxable distributions from prior years, current taxable distributions, taxable property in trust at the death of the surviving spouse, marital deductions, and charitable deductions.
+
+The form concludes with a declaration of preparer and signature section.
+
+This summary provides a general overview of the form and its contents. For complete instructions and the latest information, taxpayers are advised to refer to the official instructions provided by the IRS.

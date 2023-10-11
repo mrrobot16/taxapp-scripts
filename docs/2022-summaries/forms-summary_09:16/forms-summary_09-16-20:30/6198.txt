@@ -1,0 +1,15 @@
+Form 6198 is a document that taxpayers in the United States attach to their tax returns when they have at-risk limitations. The form is used to calculate the amount of profit or loss from a specific activity, including any prior year nondeductible amounts. 
+
+Part I of the form requires taxpayers to report ordinary income or loss from the activity, as well as any gain or loss from the sale of assets used in the activity. Other income and gains from the activity, as well as deductions and losses, are also included in this section. The total profit or loss from the activity is calculated by combining these amounts.
+
+Part II provides a simplified computation of the amount at risk. Taxpayers need to enter the adjusted basis of the activity at the beginning of the tax year, as well as any increases or decreases during the year. The difference between the increases and decreases is then calculated.
+
+If the result of Part II is more than zero, taxpayers enter that amount and proceed to line 20 or complete Part III. Otherwise, if the result is zero or less, taxpayers enter -0- and refer to Pub. 925 for information on the recapture rules.
+
+Part III is a detailed computation of the amount at risk. Taxpayers need to enter the investment in the activity at the effective date, as well as any increases or decreases since that date. The amount at risk is then calculated by subtracting the decreases from the sum of the investment and increases.
+
+Part IV is used to determine the deductible loss. Taxpayers enter the larger of the amount at risk from line 10b or the amount from line 19b. The deductible loss is then calculated by entering the smaller of the line 5 loss or line 20.
+
+The form also provides a note stating that if the loss is from a passive activity, taxpayers should refer to the instructions for Form 8582 or Form 8810 to determine if the loss is allowed under the passive activity rules.
+
+Overall, Form 6198 is a tool for taxpayers to calculate the at-risk limitations for a specific activity and determine the deductible loss.

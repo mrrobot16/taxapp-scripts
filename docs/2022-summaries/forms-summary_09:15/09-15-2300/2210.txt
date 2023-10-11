@@ -1,0 +1,7 @@
+Form 2210 is a document issued by the Internal Revenue Service (IRS) for individuals, estates, and trusts to determine if they owe a penalty for underpayment of estimated tax. The form is to be attached to Form 1040, 1040-SR, 1040-NR, or 1041. The form provides instructions and information on whether or not to file Form 2210 based on certain criteria. 
+
+The document outlines a series of questions and instructions for individuals, estates, and trusts to determine if they need to file Form 2210. It provides options for those who do not owe a penalty, those who may owe a penalty but do not need to file Form 2210, and those who must file Form 2210. 
+
+Part I of the form requires the calculation of the required annual payment, including tax, other taxes, and withholding taxes. Part II provides reasons for filing Form 2210, such as requesting a waiver of the penalty or using alternative methods for calculating the penalty. Part III provides a worksheet for calculating the penalty amount. 
+
+The document also includes a separate schedule, Schedule AI, for calculating annualized income installments using different periods. Additionally, there is a section for calculating the annualized self-employment tax for Form 1040, 1040-SR, or 1040-NR filers.

@@ -1,0 +1,19 @@
+Form 8821 is a Tax Information Authorization form issued by the Internal Revenue Service (IRS) of the Department of the Treasury in the United States. The form is used to authorize individuals or entities, known as designees, to access and receive confidential tax information on behalf of the taxpayer.
+
+The form requires the taxpayer to provide their name, address, taxpayer identification number(s), daytime telephone number, and plan number (if applicable). The taxpayer must sign and date the form on line 6.
+
+The form allows for the designation of up to two designees. If more than two designees are needed, an additional list can be attached to the form. The designees' names, addresses, CAF numbers, PTINs, telephone numbers, and fax numbers must be provided. There is also an option to indicate whether the designees should receive copies of notices and communications.
+
+Line 3 of the form is used to specify the type of tax information, tax form numbers, years or periods, and specific tax matters that each designee is authorized to access and receive. The form also includes an option to authorize access to IRS records via an Intermediate Service Provider.
+
+If the tax information authorization is for a specific use not recorded on the Centralized Authorization File (CAF), line 4 should be checked. In this case, line 5, which pertains to the retention or revocation of prior tax information authorizations, can be skipped.
+
+If line 4 is not checked, the IRS will automatically revoke all prior tax information authorizations on file unless the taxpayer checks the line 5 box and attaches a copy of the tax information authorization(s) they want to retain.
+
+The taxpayer must sign the form, and if signed by someone other than the taxpayer, the person signing must have legal authority to do so with respect to the tax matters and periods specified on line 3.
+
+It is important to complete, sign, and date the form properly, as an incomplete or unsigned form will be returned. The form should not be signed if it is blank or incomplete.
+
+The form includes a Privacy Act and Paperwork Reduction Act Notice, which provides information about the use and disclosure of the information provided on the form.
+
+This summary provides a general overview of Form 8821. For detailed instructions and the latest information, taxpayers are advised to visit the IRS website at www.irs.gov/Form8821.

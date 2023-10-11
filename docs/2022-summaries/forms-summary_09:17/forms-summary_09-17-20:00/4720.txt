@@ -1,0 +1,1321 @@
+Form  4720
+Department of the Treasury  
+Internal Revenue Service 
+Return of Certain Excise Taxes Under Chapters  
+41 and 42 of the Internal Revenue Code
+(Sections 170(f)(10), 664(c)(2), 4911, 4912, 4941, 4942, 4943, 4944, 
+4945, 4955, 4958, 4959, 4960, 4965, 4966, 4967, and 4968)
+Go to www.irs.gov/Form4720 for instructions and the latest information.
+OMB No. 1545-0047
+2022 
+For calendar year 2022 or other tax year beginning
+, 2022, and ending
+, 20
+Name of organization, entity, or person subject to tax
+Number, street, and room or suite no. (or P.O. box if mail is not delivered to street address)
+City or town, state or province, country, and ZIP or foreign postal code
+EIN or SSN
+Amended return
+Check box for type of annual return:
+Form 990
+Form 990-PF
+Form 5227
+Form 990-EZ
+Other
+Yes
+No
+A
+Is the organization a foreign private foundation within the meaning of section 4948(b)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Show conversion rate to U.S. dollars. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B 
+Entity (other than the organization) or person subject to tax: Are you required to file Form 4720 with respect to 
+more than one organization in the current tax year? See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach a list showing the name and EIN for each organization with respect to which you will file Form 4720 for the 
+current tax year.
+Part I
+Taxes on Organization (Sections 170(f)(10), 664(c)(2), 4911(a), 4912(a), 4942(a), 4943(a), 4944(a)(1), 4945(a)(1), 
+4955(a)(1), 4959, 4960(a), 4965(a)(1), 4966(a)(1), and 4968(a))
+1
+Tax on undistributed income—Schedule B, line 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Tax on excess business holdings—Schedule C, line 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Tax on investments that jeopardize charitable purpose—Schedule D, Part I, column (f) 
+.
+.
+3
+4
+Tax on taxable expenditures—Schedule E, Part I, column (h) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Tax on political expenditures—Schedule F, Part I, column (f) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Tax on excess lobbying expenditures—Schedule G, line 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Tax on disqualifying lobbying expenditures—Schedule H, Part I, column (e) .
+.
+.
+.
+.
+.
+7
+8
+Tax on premiums paid on personal benefit contracts 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Tax on being a party to prohibited tax shelter transactions—Schedule J, Part I, column (h) .
+9
+10
+Tax on taxable distributions—Schedule K, Part I, column (f) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Tax on a charitable remainder trust’s unrelated business taxable income. Attach statement .
+11
+12
+Tax on failure to meet the requirements of section 501(r)(3)—Schedule M, Part II, line 2 .
+.
+12
+13
+Tax on excess executive compensation—Schedule N .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Tax on net investment income of private colleges and universities—Schedule O 
+.
+.
+.
+.
+14
+15
+Total (add lines 1–14) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Part II
+Taxes on a Manager, Self-Dealer, Disqualified Person, Donor, Donor Advisor, or Related Person 
+(Sections 4912(b), 4941(a), 4944(a)(2), 4945(a)(2), 4955(a)(2), 4958(a), 4965(a)(2), 4966(a)(2), and 4967(a))
+Name and address of related organization; city or town, state or province, country, ZIP or foreign postal code
+Employer identification number
+1
+Tax on self-dealing—Schedule A, Part II, column (d); and Part III, column (d) .
+.
+.
+.
+.
+.
+1
+2
+Tax on investments that jeopardize charitable purposes—Schedule D, Part II, column (d) 
+.
+2
+3
+Tax on taxable expenditures—Schedule E, Part II, column (d) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Tax on political expenditures—Schedule F, Part II, column (d) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Tax on disqualifying lobbying expenditures—Schedule H, Part II, column (d) .
+.
+.
+.
+.
+.
+5
+6
+Tax on excess benefit transactions—Schedule I, Part II, column (d); and Part III, column (d) .
+6
+7
+Tax on being a party to prohibited tax shelter transactions—Schedule J, Part II, column (d) .
+7
+8
+Tax on taxable distributions—Schedule K, Part II, column (d) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Tax on prohibited benefits—Schedule L, Part II, column (d); and Part III, column (d) 
+.
+.
+.
+9
+10
+Total—Add lines 1 through 9 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+Part III
+Tax Payments
+1
+Total tax (Part I, line 15 or Part II, line 10) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Total payments including amount paid with Form 8868 (see instructions) .
+.
+.
+.
+.
+.
+.
+2
+3
+Tax due. If line 1 is larger than line 2, enter amount owed (see instructions) .
+.
+.
+.
+.
+.
+3
+4
+Overpayment. If line 1 is smaller than line 2, enter the difference. This is your refund .
+.
+.
+4
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 13021D
+Form 4720 (2022)
+Form 4720 (2022)
+Page 2
+SCHEDULE A—Initial Taxes on Self-Dealing (Section 4941)
+Part I
+Acts of Self-Dealing and Tax Computation
+(c) Correction made?
+(a) Act 
+number
+(b) Date of act
+Yes
+No
+(d) Description of act
+1
+2
+3
+4
+5
+(e) Question number from 
+Form 990-PF, Part VI-B, 
+or Form 5227, Part VIII, 
+applicable to the act
+(f) Amount involved in act
+(g) Initial tax on self-dealer  
+(10% of col. (f))
+(h) Tax on foundation managers 
+(if applicable) 
+(lesser of $20,000 or 5% of col. (f))
+Part II
+Summary of Tax Liability of Self-Dealers and Proration of Payments
+(a) Names of self-dealers liable for tax
+(b) Act no. from 
+Part I, col. (a)
+(c) Tax from Part I, col. (g),  
+or prorated amount
+(d) Self-dealer’s total tax liability 
+(add amounts in col. (c)) 
+(see instructions)
+Part III
+Summary of Tax Liability of Foundation Managers and Proration of Payments
+(a) Names of foundation managers liable for tax
+(b) Act no. from 
+Part I, col. (a)
+(c) Tax from Part I, col. (h),  
+or prorated amount
+(d) Manager’s total tax liability 
+(add amounts in col. (c))  
+(see instructions)
+SCHEDULE B—Initial Tax on Undistributed Income (Section 4942)
+1
+Undistributed income for years before 2021 (from Form 990-PF for 2022, Part XII, line 6d) .
+1
+2
+Undistributed income for 2021 (from Form 990-PF for 2022, Part XII, line 6e) 
+.
+.
+.
+.
+.
+2
+3 
+Total undistributed income at end of current tax year beginning in 2022 and subject to tax 
+under section 4942 (add lines 1 and 2) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Tax—Enter 30% of line 3 here and on Part I, line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Form 4720 (2022)
+Form 4720 (2022)
+Page 3
+SCHEDULE C—Initial Tax on Excess Business Holdings (Section 4943)
+Business Holdings and Computation of Tax
+If you have taxable excess holdings in more than one business enterprise, attach a separate schedule for each enterprise. Refer to the 
+instructions for each line item before making any entries.
+Name and address of business enterprise
+Employer identification number .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form of enterprise (corporation, partnership, trust, joint venture, sole proprietorship, etc.) .
+.
+.
+.
+(a)  
+Voting stock  
+(profits interest or  
+beneficial interest)
+(b)  
+Value
+(c)  
+Nonvoting stock  
+(capital interest)
+1
+Foundation holdings in business enterprise .
+.
+1
+%
+%
+2
+Permitted holdings in business enterprise .
+.
+2
+%
+%
+3
+Value of excess holdings in business enterprise
+3
+4 
+  
+ 
+Value of excess holdings disposed of within 90 
+days; or, other value of excess holdings not 
+subject to section 4943 tax (attach statement) .
+4
+5 
+ 
+Taxable excess holdings in business enterprise-
+line 3 minus line 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Tax—Enter 10% of line 5 
+.
+.
+.
+.
+.
+.
+.
+6
+7 
+ 
+Total tax—Add amounts on line 6, columns (a), 
+(b), and (c); enter total here and on Part I, line 2  
+ 
+7
+Yes
+No
+8
+Did the organization dispose of excess holdings subject to tax reported on line 6? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Attach a statement explaining (i) corrective action taken, or (ii) why corrective action has not been taken.
+SCHEDULE D—Initial Taxes on Investments That Jeopardize Charitable Purpose (Section 4944)
+Part I
+Investments and Tax Computation
+(c) Correction 
+made?
+(a) 
+Investment 
+number
+(b) Date of  
+investment
+Yes
+No
+(d) Description of investment
+(e) Amount of 
+investment
+(f) Initial tax 
+on foundation 
+(10% of col. (e))
+(g) Initial tax on 
+foundation managers 
+(if applicable)—  
+(lesser of $10,000 
+or 10% of col. (e))
+1
+2
+3
+4
+5
+Total—Column (f). Enter here and on Part I, line 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Total—Column (g). Enter total (or prorated amount) here and in Part II, column (c), below .
+.
+.
+.
+.
+.
+.
+.
+.
+Part II
+Summary of Tax Liability of Foundation Managers and Proration of Payments
+(a) Names of foundation managers liable for tax
+(b) Investment 
+no. from Part I, 
+col. (a)
+(c) Tax from Part I, col. (g),  
+or prorated amount
+(d) Manager’s total tax liability 
+(add amounts in col. (c)) 
+(see instructions)
+Form 4720 (2022)
+Form 4720 (2022)
+Page 4
+SCHEDULE E—Initial Taxes on Taxable Expenditures (Section 4945)
+Part I
+Expenditures and Computation of Tax
+(d) Correction made?
+(a) Item 
+number
+(b) Amount
+(c) Date paid  
+or incurred
+Yes
+No
+(e) Name and address of recipient
+1
+2
+3
+4
+5
+(f) Description of expenditure and purposes for which made
+(g) Question number from 
+Form 990-PF, Part VI-B, 
+or Form 5227, Part VIII, 
+applicable to the 
+expenditure
+(h) Initial tax imposed 
+on foundation 
+(20% of col. (b))
+(i) Initial tax imposed on 
+foundation managers 
+(if applicable)— 
+(lesser of $10,000 
+or 5% of col. (b))
+Total—Column (h). Enter here and on Part I, line 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Total—Column (i). Enter total (or prorated amount) here and in Part II, column (c), below .
+.
+.
+.
+.
+.
+.
+Part II
+Summary of Tax Liability of Foundation Managers and Proration of Payments
+(a) Names of foundation managers liable for tax
+(b) Item no. from 
+Part I, col. (a)
+(c) Tax from Part I, col. (i), 
+or prorated amount
+(d) Manager’s total tax liability 
+(add amounts in col. (c)) 
+(see instructions)
+SCHEDULE F—Initial Taxes on Political Expenditures (Section 4955)
+Part I
+Expenditures and Computation of Tax
+(d) Correction 
+made?
+(a) Item 
+number
+(b) Amount
+(c) Date paid 
+or incurred
+Yes
+No
+(e) Description of political expenditure
+(f) Initial tax imposed 
+on organization 
+or foundation 
+(10% of col. (b))
+(g) Initial tax imposed 
+on managers 
+(if applicable) 
+(lesser of $5,000 
+or 2½% of col. (b))
+1
+2
+3
+4
+5
+Total—Column (f). Enter here and on Part I, line 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Total—Column (g). Enter total (or prorated amount) here and in Part II, column (c), below .
+.
+.
+.
+.
+.
+.
+.
+.
+Part II
+Summary of Tax Liability of Organization Managers or Foundation Managers and Proration of Payments
+(a) Names of organization managers or 
+foundation managers liable for tax
+(b) Item no. from 
+Part I, col. (a)
+(c) Tax from Part I, col. (g), 
+or prorated amount
+(d) Manager’s total tax liability 
+(add amounts in col. (c)) 
+(see instructions)
+Form 4720 (2022)
+Form 4720 (2022)
+Page 5
+SCHEDULE G—Tax on Excess Lobbying Expenditures (Section 4911)
+1 
+Excess of grass roots expenditures over grass roots nontaxable amount (from Schedule C (Form
+990), Part II-A, column (b), line 1h). (See the instructions before making an entry.) .
+.
+.
+.
+.
+.
+1
+2 
+Excess of lobbying expenditures over lobbying nontaxable amount (from Schedule C (Form 990), 
+Part II-A, column (b), line 1i). (See the instructions before making an entry.) .
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Excess lobbying expenditures—enter the larger of line 1 or line 2 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Tax—Enter 25% of line 3 here and on Part I, line 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+SCHEDULE H—Taxes on Disqualifying Lobbying Expenditures (Section 4912)
+Part I
+Expenditures and Computation of Tax
+(a) Item 
+number
+(b) Amount
+(c) Date paid 
+or incurred
+(d) Description of lobbying expenditures
+(e) Tax imposed 
+on organization 
+(5% of col. (b))
+(f) Tax imposed on 
+organization managers 
+(if applicable)— 
+(5% of col. (b))
+1
+2
+3
+4
+5
+Total—Column (e). Enter here and on Part I, line 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Total—Column (f). Enter total (or prorated amount) here and in Part II, column (c), below .
+.
+.
+.
+.
+.
+.
+Part II
+Summary of Tax Liability of Organization Managers and Proration of Payments
+(a) Names of organization managers liable for tax
+(b) Item no. from 
+Part I, col. (a)
+(c) Tax from Part I, col. (f), 
+or prorated amount
+(d) Manager’s total tax liability 
+(add amounts in col. (c)) 
+(see instructions)
+SCHEDULE I—Initial Taxes on Excess Benefit Transactions (Section 4958)
+Part I
+Excess Benefit Transactions and Tax Computation
+(c) Correction made?
+(a) 
+Transaction 
+number
+(b) Date of transaction
+Yes
+No
+(d) Description of transaction
+1
+2
+3
+4
+5
+(e) Amount of excess benefit
+(f) Initial tax on disqualified persons 
+(25% of col. (e))
+(g) Tax on organization managers 
+(if applicable) 
+(lesser of $20,000 or 10% of col. (e))
+Form 4720 (2022)
+Form 4720 (2022)
+Page 6
+SCHEDULE I—Initial Taxes on Excess Benefit Transactions (Section 4958) Continued
+Part II
+Summary of Tax Liability of Disqualified Persons and Proration of Payments
+(a) Names of disqualified persons liable for tax
+(b) Trans. no. 
+from Part I, 
+col. (a)
+(c) Tax from Part I, col. (f), 
+or prorated amount
+(d) Disqualified person’s 
+total tax liability 
+(add amounts in col. (c)) 
+(see instructions)
+Part III
+Summary of Tax Liability of 501(c)(3), (c)(4) & (c)(29) Organization Managers and Proration of Payments
+(a) Names of 501(c)(3), (c)(4) & (c)(29) organization 
+managers liable for tax
+(b) Trans. no. 
+from Part I, 
+col. (a)
+(c) Tax from Part I, col. (g), 
+or prorated amount
+(d) Manager’s total tax liability 
+(add amounts in col. (c)) 
+(see instructions)
+SCHEDULE J—Taxes on Being a Party to Prohibited Tax Shelter Transactions (Section 4965)
+Part I
+Prohibited Tax Shelter Transactions (PTST) and Tax Imposed on the Tax-Exempt Entity (see instructions)
+(a) 
+Transaction 
+number
+(b) Transaction date
+(c) Type of transaction 
+1 —Listed 
+2 —Subsequently listed 
+3 —Confidential 
+4 —Contractual protection
+(d) Description of transaction
+1
+2
+3
+4
+5
+(e) Did the tax-exempt entity know or have 
+reason to know this transaction was a PTST 
+when it became a party to the transaction?
+Yes
+No
+(f) Net income attributable 
+to the PTST
+(g) 75% of proceeds attributable 
+to the PTST
+(h) Tax imposed on 
+the tax-exempt entity 
+(see instructions)
+Total—Column (h). Enter here and on Part I, line 9 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form 4720 (2022)
+Form 4720 (2022)
+Page 7
+Part II
+Tax Imposed on Entity Managers (Section 4965) Continued
+(a) Name of entity manager
+(b) Transaction 
+number from 
+Part I, col. (a)
+(c) Tax—enter $20,000 for 
+each transaction listed in col. (b) 
+for each manager in col. (a)
+(d) Manager’s total tax liability 
+(add amounts in col. (c))
+SCHEDULE K—Taxes on Taxable Distributions of Sponsoring Organizations Maintaining Donor 
+Advised Funds (Section 4966). See the instructions.
+Part I
+Taxable Distributions and Tax Computation
+(a) Item 
+number
+(b) Name of sponsoring organization and 
+donor advised fund
+(c) Description of distribution
+1
+2
+3
+4
+(d) Date of distribution
+(e) Amount of distribution
+(f) Tax imposed on organization 
+(20% of col. (e))
+(g) Tax on fund managers 
+(lesser of 5% of col. (e) or $10,000)
+Total—Column (f). Enter here and on Part I, line 10 
+.
+.
+.
+.
+.
+Total—Column (g). Enter total (or prorated amount) here and in Part II, column (c), below .
+.
+.
+.
+Part II
+Summary of Tax Liability of Fund Managers and Proration of Payments
+(a) Name of fund managers liable for tax
+(b) Item no. 
+from Part I, 
+col. (a)
+(c) Tax from Part I, col. (g) 
+or prorated amount
+(d) Manager’s total tax liability 
+(add amounts in col. (c))  
+(see instructions)
+Form 4720 (2022)
+Form 4720 (2022)
+Page 8
+SCHEDULE L—Taxes on Prohibited Benefits Distributed From Donor Advised Funds (Section 4967). 
+See the instructions.
+Part I
+Prohibited Benefits and Tax Computation
+(a) Item 
+number
+(b) Date of 
+prohibited benefit
+(c) Description of benefit
+1
+2
+3
+4
+5
+(d) Amount of prohibited benefit
+(e) Tax on donors, donor advisors, or related persons 
+(125% of col. (d)) 
+(see instructions)
+(f) Tax on fund managers (if applicable) 
+(lesser of 10% of col. (d) or $10,000) 
+(see instructions)
+Part II
+Summary of Tax Liability of Donors, Donor Advisors, Related Persons, and Proration of Payments
+(a) Names of donors, donor advisors, or 
+related persons liable for tax
+(b) Item no. 
+from Part I, 
+col. (a)
+(c) Tax from Part I, col. (e) 
+or prorated amount
+(d) Donor’s, donor advisor’s, or 
+related person’s total tax liability 
+(add amounts in col. (c)) 
+(see instructions)
+Part III
+Summary of Tax Liability of Fund Managers and Proration of Payments
+(a) Names of fund managers liable for tax
+(b) Item no. 
+from Part I, 
+col. (a)
+(c) Tax from Part I, col. (f) 
+or prorated amount
+(d) Fund manager’s total tax liability 
+(add amounts in col. (c)) 
+(see instructions)
+Form 4720 (2022)
+Form 4720 (2022)
+Page 9
+Schedule M—Tax on Hospital Organization for Failure to Meet the Community Health Needs 
+Assessment Requirements (Sections 4959 and 501(r)(3)). (See instructions.)
+Part I
+Failures to Meet Section 501(r)(3)
+(a) Item 
+number
+(b) Name of hospital facility
+(c) Description of the failure
+(d) Tax year hospital 
+facility last conducted 
+a CHNA
+(e) Tax year hospital 
+facility last adopted an 
+implementation strategy
+1
+2
+3
+4
+5
+Part II
+Computation of Tax
+1 
+Number of hospital facilities operated by the hospital organization that failed to meet the Community 
+Health Needs Assessment requirements of section 501(r)(3) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Tax—Enter $50,000 multiplied by line 1 here and on Part I, line 12 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+SCHEDULE N—Tax on Excess Executive Compensation (Section 4960). (See instructions.)
+(a) Item 
+number
+(b) Name of covered employee
+(c) Excess remuneration
+(d) Excess parachute 
+payment
+(e) Total. 
+Add column (c) and (d)
+1
+2
+3
+4
+5
+6
+Attachment, if necessary. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Total (add column (e) items 1–6) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Tax. Enter 21% of the amount above here and on Part I, line 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+SCHEDULE O—Excise Tax on Net Investment Income of Private Colleges and Universities (Section 4968)
+(a) Name
+(b) EIN
+(c) Gross 
+investment income 
+(See instructions.)
+(d) Capital gain 
+net income
+(e) Administrative 
+expenses allocable 
+to income included 
+in cols. (c) and (d)
+(f) Net investment 
+income 
+(See instructions.)
+1 
+Filing 
+Organization
+2 
+Related 
+Organization
+3 
+Related 
+Organization
+4 
+Related 
+Organization
+5
+Total from attachment, if necessary .
+.
+.
+.
+.
+.    
+6
+Total .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Excise Tax on Net Investment Income. Enter 1.4% of the amount in 6(f) here and on Part I, line 14 
+.
+.
+.
+Form 4720 (2022)
+Form 4720 (2022)
+Page 10
+Sign  
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my 
+knowledge and belief it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has 
+any knowledge.
+Signature of officer or trustee
+Title
+Date
+Signature (and organization or entity name if applicable) of manager, self-dealer, disqualified person, donor, donor  
+advisor, or related person
+Date
+May the IRS discuss this return with the preparer shown below? (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name  
+Firm’s address 
+Firm’s EIN 
+Phone no. 
+Form 4720 (2022)

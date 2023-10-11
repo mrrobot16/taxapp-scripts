@@ -1,0 +1,2345 @@
+Form 1120-REIT
+Department of the Treasury  
+Internal Revenue Service 
+U.S. Income Tax Return for Real Estate Investment Trusts
+For calendar year 2022 or tax year beginning
+, 2022, ending
+, 20
+Go to www.irs.gov/Form1120REIT for instructions and the latest information.
+OMB No. 1545-0123
+2022
+Please 
+Type  
+or   
+Print
+Name
+Number, street, and room or suite no. (If a P.O. box, see instructions.)
+City or town, state, and ZIP code
+A  Year of REIT status election
+B  Check if a:
+1   REIT with 100% 
+owned subsidiaries  
+(see instructions)
+2   Personal holding co. 
+(attach Sch. PH)
+C  Employer identification number
+D  Date REIT established
+E  Total assets (see instructions)
+$ 
+F
+Check applicable box(es):
+(1) 
+Final return (2) 
+Name change
+(3) 
+Address change
+(4) 
+Amended return
+G 
+Identify the type of REIT (see instructions):
+(1)
+Equity REIT
+(2)
+Mortgage REIT
+H  PBA code (see instructions)
+Part I—Real Estate Investment Trust Taxable Income (see instructions)
+Income (EXCLUDING income required to be reported in Part II or Part IV)
+1 
+Dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Gross rents from real property .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Other gross rents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Capital gain net income (attach Schedule D (Form 1120)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Net gain or (loss) from Form 4797, Part II, line 17 (attach Form 4797) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Other income (see instructions—attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Total income. Add lines 1 through 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Deductions (EXCLUDING deductions directly connected with income required to be reported in Part II or Part IV)
+9 
+Compensation of officers (see instructions—attach Form 1125-E) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Salaries and wages (less employment credits) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Repairs and maintenance 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Bad debts 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Rents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Taxes and licenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Interest (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Depreciation (attach Form 4562) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Advertising 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Other deductions (see instructions—attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Total deductions. Add lines 9 through 18 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+19 
+20 
+Taxable income before net operating loss and other special deductions. Subtract line 19 from line 8  
+20 
+21 
+Less: a
+Net operating loss deduction (see instructions) .
+.
+.
+.
+.
+.
+21a
+b
+Total deduction for dividends paid (Schedule A, line 7) 
+.
+.
+.
+21b
+c
+Section 857(b)(2)(E) deduction (Schedule J, lines 2c, 2e, and 2f)
+21c
+21d
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true, 
+correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature of officer
+Date
+Title
+May the IRS discuss this return 
+with the preparer shown below? 
+See instructions.
+Yes
+ No 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name    
+Firm’s address 
+Firm’s EIN  
+Phone no.
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 64114F
+Form 1120-REIT (2022)
+Form 1120-REIT (2022)
+Page  2
+Tax and Payments
+22 
+Real estate investment trust taxable income. Subtract line 21d from line 20 .
+.
+.
+.
+.
+.
+.
+22 
+23 
+Total tax (Schedule J, line 8) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+24 
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+25
+Payments:
+a
+2021 overpayment credited to 2022 .
+.
+.
+25a
+b 2022 estimated tax payments .
+.
+.
+.
+.
+25b
+c Less 2022 refund applied for on Form 4466  
+25c (                            )
+d Bal 25d
+e Tax deposited with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25e
+f 
+Credits:  (1) Form 2439
+(2) Form 4136
+25f
+g Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25g
+h
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25h
+25i 
+26 
+Estimated tax penalty (see instructions). Check if Form 2220 is attached .
+.
+.
+.
+.
+.
+.
+.
+26 
+27
+Tax due. If line 25i is smaller than the total of lines 23 and 26, enter amount owed .
+.
+.
+.
+.
+.
+27 
+28 
+Overpayment. If line 25i is larger than the total of lines 23 and 26, enter amount overpaid .
+.
+.
+28 
+29
+Enter amount of line 28 you want: Credited to 2023 estimated tax 
+Refunded 
+29
+Part II—Tax on Net Income From Foreclosure Property (Section 856(e)) (see instructions)
+1 
+Net gain or (loss) from the sale or other disposition of foreclosure property described in section 
+1221(a)(1) (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Gross income from foreclosure property (see instructions—attach statement) 
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Total income from foreclosure property. Add lines 1 and 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Deductions directly connected with the production of income shown on line 3 (attach statement) .
+4 
+5 
+Net income from foreclosure property. Subtract line 4 from line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Tax on net income from foreclosure property. Multiply line 5 by 21% (0.21). Enter here and on
+Schedule J, line 2b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Part III—Tax for Failure To Meet Certain Source-of-Income Requirements (Section 857(b)(5)) (see instructions)
+1 a
+Enter total income from Part I, line 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a 
+b Enter total income from foreclosure property from Part II, line 3 .
+.
+.
+.
+1b
+c Total. Add lines 1a and 1b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c 
+2a
+Enter income from hedging transactions referred to in section 856(c)(5)(G)  
+2a 
+b 
+ 
+Enter income from passive foreign exchange gain referred to in section
+856(n)(3). See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c
+Enter income from sources referred to in section 856(c)(5)(J)(i). See instructions  
+2c
+d
+Enter the net section 965(a) inclusion reported in Part I. See instructions .
+2d
+e
+Subtract lines 2a, 2b, 2c, and 2d from line 1c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2e
+f
+Multiply line 2e by 95% (0.95) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2f 
+3 
+Enter income on line 1c from sources referred to in section 856(c)(2) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Subtract line 3 from line 2f. (If zero or less, enter -0-.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 a
+Enter income from hedging transactions referred to in section 856(c)(5)(G)  
+5a
+b Enter income from real estate foreign exchange gain referred to in section
+856(n)(2). See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5b
+c
+Enter income from sources referred to in section 856(c)(5)(J)(i). See instructions 
+5c
+d
+Enter the net section 965(a) inclusion reported in Part I. See instructions .
+5d
+e
+Subtract lines 5a, 5b, 5c, and 5d from line 1c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5e
+f
+Multiply line 5e by 75% (0.75) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5f
+6 
+Enter income on line 1c from sources referred to in section 856(c)(3) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Subtract line 6 from line 5f. (If zero or less, enter -0-.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Enter the greater of line 4 or line 7. (If line 8 is zero, do not complete the rest of Part III.) .
+.
+.
+8 
+9 
+Enter the amount from Part I, line 20 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Enter the net capital gain from Schedule D (Form 1120), line 17 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Subtract line 10 from line 9 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12a
+Enter total income from Part I, line 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12a
+b Enter the net short-term capital gain from Schedule D (Form 1120), line 7. 
+(If line 7 is a loss, enter -0-.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12b
+c Add lines 12a and 12b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12c
+13 
+Enter capital gain net income from Part I, line 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Subtract line 13 from line 12c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Divide line 11 by line 14. Carry the result to five decimal places .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+.
+16 
+Section 857(b)(5) tax. Multiply line 8 by line 15. Enter here and on Schedule J, line 2c 
+.
+.
+.
+.
+16 
+Form 1120-REIT (2022)
+Form 1120-REIT (2022)
+Page 3
+Part IV—Tax on Net Income From Prohibited Transactions (see instructions)
+1
+Gain from sale or other disposition of section 1221(a)(1) property (other than foreclosure property)  
+1 
+2 
+Deductions directly connected with the production of income shown on line 1 .
+.
+.
+.
+.
+.
+.
+2 
+3 
+Tax on net income from prohibited transactions. Subtract line 2 from line 1. Enter here and on
+Schedule J, line 2d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Schedule A
+Deduction for Dividends Paid (see instructions)
+1 
+ 
+Dividends paid (other than dividends paid after the end of the tax year). Do not include dividends 
+considered paid in the preceding tax year under section 857(b)(9) or 858(a), or deficiency dividends 
+as defined in section 860 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Dividends paid in the 12-month period following the close of the tax year under a section
+858(a) election to treat the dividends as paid during the tax year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Dividends declared in October, November, or December deemed paid on December 31 under 
+section 857(b)(9) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Consent dividends (attach Forms 972 and 973) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Deficiency dividends (section 860) (attach Form 976) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6
+Total dividends paid. Add lines 1 through 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7 
+ 
+Total deduction for dividends paid. If there is net income from foreclosure property on Part II, line
+5, see instructions for limitation on the deduction for dividends paid. Otherwise, enter the  total 
+dividends paid from line 6 here and on line 21b of page 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Schedule J
+Tax Computation (see instructions)
+1 
+Check if the REIT is a member of a controlled group (attach Schedule O (Form 1120)) 
+.
+.
+.
+Important: Members of a controlled group, see instructions.
+2 a
+Tax on REIT taxable income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b Tax from Part II, line 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c Tax from Part III, line 16 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c 
+d Tax from Part IV, line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2d
+e Tax imposed under section 857(b)(7)(A) (see instructions) .
+.
+.
+.
+.
+.
+2e 
+f 
+Tax imposed under sections 
+856(c)(7) and 
+856(g)(5) .
+.
+.
+.
+.
+2f 
+g Income tax. Add lines 2a through 2f .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2g 
+3 a
+Foreign tax credit (attach Form 1118) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a 
+b Credit from Form 8834 (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+c General business credit (attach Form 3800) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c 
+d Other credits (attach statement—see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+3d
+e Total credits. Add lines 3a through 3d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3e 
+4 
+Subtract line 3e from line 2g 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Personal holding company tax (attach Schedule PH (Form 1120)) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Interest on deferred tax liability for installment obligations under sections
+453A(c) and/or  
+453(l)(3) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7
+Other taxes. Check if from:
+Form 4255
+Form 8611
+Other (attach statement) 
+.
+.
+.
+7 
+8 
+Total tax. Add lines 4 through 7. Enter here and on line 23, page 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Form 1120-REIT (2022)
+Form 1120-REIT (2022)
+Page 4 
+Schedule K
+Other Information (see instructions)
+1
+Check method of accounting:
+Yes
+No 
+a
+Cash
+b
+Accrual
+c
+Other (specify):
+2 
+At the end of the tax year, did the REIT own, directly or indirectly, 50% or more of the voting stock of a domestic 
+corporation? (For rules of attribution, see section 267(c).) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach a statement showing: (a) name and employer identification number (EIN), (b) percentage owned, 
+and (c) taxable income or (loss) before NOL and special deductions of such corporation for the tax year ending 
+with or within your tax year.
+3
+Is the REIT a subsidiary in a parent-subsidiary controlled group? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter the name and EIN of the parent corporation: 
+4 
+At the end of the tax year, did any individual, partnership, corporation, estate, or trust own, directly or indirectly, 
+50% or more of the REIT’s voting stock? (For rules of attribution, see section 856(h).) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach a statement showing name and identifying number. (Do not include any information already
+entered in 3 above.) Enter percentage owned .
+.
+.
+.
+.
+.
+.
+.
+5 
+ 
+At any time during the tax year, did one foreign person own, directly or indirectly, at least 25% of: (a) the total 
+voting power of all classes of stock of the REIT entitled to vote, or (b) the total value of all classes of stock of the
+REIT? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter:  
+a
+Percentage owned:
+b
+Owner’s country:
+c
+The REIT may have to file Form 5472. Enter number of Forms 5472 attached 
+.
+.
+.
+ 
+6 
+ 
+During this tax year, did the REIT pay dividends (other than stock dividends and distributions in exchange for 
+stock) in excess of the REIT’s current and accumulated earnings and profits? (See sections 301 and 316.) .
+.
+.
+If “Yes,” file Form 5452.
+7
+Check this box if the REIT issued publicly offered debt instruments with original issue discount 
+.
+.
+.
+.
+.  
+If so, the REIT may have to file Form 8281.
+8
+Enter the amount of tax-exempt interest received or accrued during the tax year 
+.
+.
+.
+$ 
+9 
+Enter the available NOL carryover from prior tax  years. (Do not reduce it by any deduction
+on line 21a, page 1.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+$ 
+10 
+Did the REIT have an election under section 163(j) for any real property trade or business or any farming business
+in effect during the tax year? See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Does the REIT satisfy one or more of the following? See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+a
+The REIT owns a pass-through entity with current or prior-year carryover excess business interest expense.
+b The REIT's aggregate average annual gross receipts (determined under section 448(c)) for the 3 tax years 
+preceding the current tax year are more than $27 million and the  REIT has business interest expense.
+c
+The  REIT is a tax shelter and the REIT has business interest expense. 
+If “Yes” to any of the above, complete and attach Form 8990.
+12
+Is the REIT attaching Form 8996 to certify as a Qualified Opportunity Fund? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter amount from Form 8996, line 15 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+$ 
+Form 1120-REIT (2022)
+Form 1120-REIT (2022)
+Page 5 
+Schedule L
+Balance Sheets per Books
+Beginning of tax year
+End of tax year
+(                               ) 
+(                               ) 
+(                               ) 
+(                               ) 
+(                               ) 
+(                               ) 
+(                               ) 
+(                               ) 
+Assets
+(a)
+(b)
+(c)
+(d)
+1
+Cash 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+2a
+Trade notes and accounts receivable .
+.
+.
+b
+Less allowance for bad debts .
+.
+.
+.
+.
+3
+U.S. Government obligations 
+.
+.
+.
+.
+.
+4
+Tax-exempt securities (see instructions) .
+.
+5
+Other current assets (attach statement) .
+.
+6
+Loans to shareholders 
+.
+.
+.
+.
+.
+.
+.
+7
+Mortgage and real estate loans 
+.
+.
+.
+.
+8
+Other investments (attach statement) .
+.
+.
+9a
+Buildings and other depreciable assets .
+.
+b
+Less accumulated depreciation 
+.
+.
+.
+.
+10
+Land (net of any amortization) .
+.
+.
+.
+.
+11a
+Intangible assets (amortizable only) 
+.
+.
+.
+b
+Less accumulated amortization 
+.
+.
+.
+.
+12
+Other assets (attach statement) 
+.
+.
+.
+.
+13
+Total assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Liabilities and Shareholders’ Equity
+     
+     
+     
+     
+14
+Accounts payable .
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Mortgages, notes, bonds payable in less than 1 year
+16
+Other current liabilities (attach statement) 
+.
+17
+Loans from shareholders .
+.
+.
+.
+.
+.
+.
+18
+Mortgages, notes, bonds payable in 1 year or more
+19
+Other liabilities (attach statement) .
+.
+.
+.
+20
+Capital stock: 
+a Preferred stock 
+.
+.
+.
+b Common stock  
+21
+Additional paid-in capital .
+.
+.
+.
+.
+.
+.
+22
+Retained earnings—Appropriated (attach statement)
+23
+Retained earnings—Unappropriated .
+.
+.
+24 
+Adjustments 
+to 
+shareholders’ 
+equity 
+(see instructions—attach statement) .
+.
+.
+25
+Less cost of treasury stock .
+.
+.
+.
+.
+.
+26
+Total liabilities and shareholders’ equity .
+.
+Schedule M-1
+Reconciliation of Income (Loss) per Books With Income per Return (see instructions)
+1 
+Net income (loss) per books .
+.
+.
+.
+2a Federal income tax  
+$
+b 
+ 
+Less: Section 856(c)(7) tax, 856(g)(5) tax, 
+857(b)(5) tax, section 857(b)(7) tax, and 
+built-in gains tax 
+.
+(                        ) 
+$
+c Balance 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Excess of capital losses over capital gains
+4 
+Income subject to tax not recorded on 
+books this year (itemize):
+5 
+Expenses recorded on books this year 
+not deducted on this return (itemize):
+a Depreciation .
+.
+.
+$
+b Section 4981 tax 
+.
+$
+c 
+Travel and entertainment $
+6 
+Add lines 1 through 5 .
+.
+.
+.
+.
+.
+7 
+Income recorded on books this year 
+not included on this return (itemize):
+Tax-exempt interest $
+8 
+ 
+Deductions on this return not 
+charged against book income this 
+year (itemize):
+a Depreciation 
+.
+$
+b Net operating loss deduction (line 
+21a, page 1) 
+.
+$
+c Deduction for dividends paid (line 
+21b, page 1) 
+.
+$
+9 
+Net income from foreclosure property
+10 
+Net income from prohibited transactions
+11 
+Add lines 7 through 10 .
+.
+.
+.
+12 
+REIT taxable income (line 22, page 
+2)—line 6 less line 11 
+.
+.
+.
+.
+Schedule M-2
+Analysis of Unappropriated Retained Earnings per Books (Schedule L, line 23)
+1
+Balance at beginning of year 
+.
+.
+.
+2
+Net income (loss) per books .
+.
+.
+.
+3
+Other increases (itemize):
+4
+Add lines 1, 2, and 3
+.
+.
+.
+.
+.
+.
+5
+Distributions: 
+a Cash .
+.
+.
+.  
+b Stock 
+.
+.
+.  
+c Property .
+.
+.
+6
+Other decreases (itemize):
+7
+Add lines 5 and 6 .
+.
+.
+.
+.
+.
+8
+Balance at end of year (line 4 less line 7)
+Form 1120-REIT (2022)

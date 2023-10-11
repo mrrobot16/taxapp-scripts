@@ -1,0 +1,29 @@
+Schedule OI (Form 1040-NR) is a document that taxpayers need to attach to Form 1040-NR when filing their taxes. It contains various questions and information that the taxpayer needs to provide. 
+
+The document starts with general instructions and a link to the IRS website for further guidance. It also includes the taxpayer's name and identifying number.
+
+The document then asks the taxpayer to provide information about their citizenship or nationality during the tax year, their claimed residence for tax purposes, and whether they have applied to be a green card holder.
+
+The taxpayer is also asked if they have ever been a U.S. citizen or a green card holder, and if so, they are directed to refer to Publication 519 for expatriation rules.
+
+Next, the taxpayer is asked to provide information about their visa type or U.S. immigration status on the last day of the tax year, and whether they have ever changed their visa type or U.S. immigration status.
+
+The taxpayer is then asked to list all the dates they entered and left the United States during the tax year.
+
+They are also asked to provide the number of days they were present in the United States during specific years.
+
+The document asks if the taxpayer has filed a U.S. income tax return for any prior year and, if so, to provide the latest year and form number filed.
+
+There are also questions related to trusts and whether they had a U.S. or foreign owner, made a distribution or loan to a U.S. person, or received a contribution from a U.S. person.
+
+The taxpayer is asked if they received total compensation of $250,000 or more during the tax year and if they used an alternative method to determine the source of this compensation.
+
+There is a section for income exempt from tax under a U.S. income tax treaty with a foreign country, where the taxpayer needs to provide details about the country, tax treaty article, number of months claimed in prior tax years, and the amount of exempt income.
+
+The taxpayer is asked if they were subject to tax in a foreign country on the exempt income claimed.
+
+There is also a question about claiming treaty benefits pursuant to a Competent Authority determination, with instructions to attach a copy of the determination letter.
+
+Finally, there are checkboxes for taxpayers who are making an election or have previously made an election to treat income from real property located in the United States as effectively connected with a U.S. trade or business under section 871(d).
+
+The document ends with a reference to the Paperwork Reduction Act Notice.

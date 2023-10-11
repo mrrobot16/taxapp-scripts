@@ -1,0 +1,5 @@
+Form 8974 is a document provided by the Department of the Treasury/Internal Revenue Service for the purpose of reporting the Qualified Small Business Payroll Tax Credit for Increasing Research Activities. The form requires the employer to provide information about their income tax return, including the ending date of the income tax period, the date the income tax return was filed, and the amount of credit taken on previous periods. 
+
+The form also includes calculations to determine the credit that can be used in the current period. This includes entering the amount from Line 6(g) of Part 1, as well as amounts from specific lines on Form 941, Form 943, or Form 944. The form provides instructions for multiplying certain amounts by 50% and determining the credit against the employer share of social security tax and Medicare tax. 
+
+The form concludes with the calculation of the total credit, which is the sum of lines 12 and 16. This total credit amount is also entered on the relevant lines of Form 941, Form 943, or Form 944.

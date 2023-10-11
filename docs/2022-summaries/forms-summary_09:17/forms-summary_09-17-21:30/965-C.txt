@@ -1,0 +1,13 @@
+Form 965-C is a document used by taxpayers to report a transfer agreement under Section 965(h)(3) of the Internal Revenue Code. The form requires the transferor and transferee to provide their information, including name, taxpayer identification number, and address. 
+
+Part I of the form is for transferor information, while Part II is for transferee information. Part III requires the selection of an acceleration event that led to the transfer agreement, such as a liquidation or sale of assets. Additional details about the acceleration event must be provided.
+
+Part IV of the form asks for the amount of the transferor's section 965(h) net tax liability remaining unpaid, as well as the due date for the next installment payment.
+
+Part V focuses on the transferee's ability to pay the remaining liability. The form asks if the transferee is able to make the required payments and if their leverage ratio exceeds 3:1. Additional information about the transferee's ability to pay can be provided.
+
+Part VI outlines the terms of the agreement, including the transferee's assumption of the transferor's liability and the joint and several liability of the transferor and any successor. The form also states that the Commissioner may request additional information and has the authority to reject the transfer agreement if there are material misrepresentations or omissions.
+
+Both the transferor and transferee must sign the form under penalties of perjury, certifying the accuracy and completeness of the information provided. The form also includes space for the date, printed name, title, email address, and daytime phone number of the signatories.
+
+It is important to note that this summary is based on the December 2019 version of Form 965-C, and the instructions and information may have been updated since then.

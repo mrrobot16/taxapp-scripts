@@ -1,0 +1,16 @@
+Schedule I (Form 1120-F) is a document used by foreign corporations to allocate and deduct interest expenses under Regulations Section 1.882-5. The form is attached to Form 1120-F and requires the corporation to provide information about its assets, liabilities, and interest expenses.
+
+The form is divided into three steps:
+
+Step 1: Average U.S. Assets for the Tax Year
+In this step, the corporation determines the value of its U.S. assets using the adjusted basis method. The form provides various columns to report different types of assets and adjustments.
+
+Step 2: U.S.-Connected Liabilities for the Tax Year
+This step involves determining the U.S.-connected liabilities of the corporation. The method used to calculate these liabilities can be either the actual ratio or the fixed ratio. The form provides instructions for each method.
+
+Step 3: Interest Expense Paid or Accrued on Average U.S. Booked Liabilities
+This step focuses on the interest expenses related to U.S. booked liabilities. The form provides separate sections for the adjusted U.S. booked liabilities method and the separate currency pools method. The corporation must enter the relevant information and calculate the interest expense allocation for each method.
+
+The form also includes a summary section where the corporation combines the results from each step to calculate the total interest expense deduction under Regulations Section 1.882-5. The final amount is then entered on Form 1120-F, Section II, line 18.
+
+Overall, Schedule I (Form 1120-F) helps foreign corporations accurately allocate and deduct their interest expenses in compliance with IRS regulations.

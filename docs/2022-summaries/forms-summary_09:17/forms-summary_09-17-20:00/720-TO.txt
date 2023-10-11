@@ -1,0 +1,330 @@
+ Form
+Terminal Operator Report
+ 
+OMB No. 1545-1734
+ 
+(Rev. September 2010)
+ 
+Department of the Treasury
+Internal Revenue Service
+ 
+For the month ending
+, 20
+.
+ 
+Employer identification number (EIN)
+ 
+Company name
+ 
+Address (number, street, room or suite number)
+ 
+Terminal
+ 
+Beginning inventory.
+ 
+Form 720-TO (Rev. 9-2010)
+ 
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+ 
+1
+ 
+Cat. No. 73072W
+ 
+720-TO
+ 
+Part III
+ 
+Part I
+ 
+Part II
+ 
+City, state, and ZIP code
+ 
+Contact person
+ 
+Terminal Operator
+ 
+Name of terminal
+ 
+Terminal location
+ 
+Transactions for the Month
+ 
+Form 637 registration number
+ 
+Email address
+ 
+Terminal control number (TCN)
+ 
+2
+ 
+Total gallons available. Add lines 1
+and 2.
+ 
+3
+ 
+Total disbursements. Enter the
+total net gallons from Schedule(s) B,
+column (f). If you have
+disbursements for more than one
+position holder for a PC, add the
+amounts from each position holder’s
+Schedule B and enter the combined
+total by PC.
+ 
+4
+ 
+Subtract line 4 from line 3.
+ 
+5
+ 
+Stock gains and losses. Show
+losses in (parentheses).
+ 
+6
+ 
+Actual physical ending inventory at
+terminal.
+ 
+7
+ 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my
+knowledge and belief, it is true, correct, and complete.
+ 
+Signature �
+ 
+Title, if applicable �
+ 
+Date �
+ 
+Enter the transactions for the period on Schedules A and B, then complete lines
+1 through 7 for each product code (PC) (see the instructions).
+ 
+Fax number
+ 
+Daytime telephone number
+ 
+(
+)
+ 
+(
+)
+ 
+Net Gallons (attach additional schedule(s) if needed)
+ 
+(a)
+ 
+PC:
+ 
+(b)
+ 
+PC:
+ 
+(c)
+ 
+PC:
+ 
+(d)
+ 
+PC:
+ 
+Type or print your name below signature.
+ 
+Corrected
+ 
+Void
+ 
+Total receipts. Enter the total net
+gallons from Schedule(s) A, column
+(g), by PC.
+ 
+Form 720-TO (Rev. 9-2010)
+ 
+Product Code (PC). Enter the PC (see instructions). A separate
+schedule is required for each PC 
+�
+ 
+Terminal operator name as shown on Form 720-TO
+ 
+(a)
+Carrier
+name
+ 
+(b)
+Carrier
+EIN
+ 
+(c)
+Mode
+code
+ 
+(d)
+Vessel official number
+(required when mode code is
+B, S, IB, IS, EB, or ES)
+ 
+(e)
+Document
+date
+ 
+(f)
+Document
+number
+ 
+Page 2 
+For the month ending (enter MM/DD/YYYY)
+ 
+TCN
+ 
+EIN
+ 
+Total. Add amounts in column (g) and enter the total. If there is more than one page for a PC, add the amounts from each page
+and enter the result on the last page of Schedule A for that PC. Do not enter page subtotals. Enter the amount from column (g) on
+Form 720-TO, Part III, line 2, in the column for the applicable PC 
+�
+ 
+Terminal Operator Receipts
+ 
+Schedule A
+ 
+Form 720-TO (Rev. 9-2010)
+ 
+Corrected
+ 
+Void
+ 
+Page
+ For more than one Schedule A, for each different PC, number each sheet. For
+example, 1 of 4, 2 of 4, etc.
+ 
+of
+ 
+Enter in the columns below the information requested for the PC on line 1 above.
+ 
+Position Holder (PH) name. Enter PH name for PCs Bxx, Dxx,
+and Exx. Enter one name per page.
+ 
+PH EIN
+ 
+PH Form 637 registration number
+ 
+(g)
+Net
+gallons
+ 
+1
+ 
+1a
+ 
+2
+ 
+3
+ 
+3
+ 
+Form 720-TO (Rev. 9-2010)
+ 
+Terminal operator name as shown on Form 720-TO
+ 
+(a)
+Carrier
+name
+ 
+(b)
+Carrier
+EIN
+ 
+(c)
+Vessel official number
+(required when mode code is
+B, S, IB, IS, EB, or ES)
+ 
+(d)
+Document
+date
+ 
+(e)
+Document
+number
+ 
+(f)
+Net
+gallons
+ 
+Page 3 
+For the month ending (enter MM/DD/YYYY)
+ 
+TCN
+ 
+EIN
+ 
+Totals. Add all amounts in columns (f) and (g) for each PC, DS, or MC. If there are two MCs for a product destined for one
+state, or if a product is destined for two states, then two Schedules B and totals are required. If there is more than one Schedule
+B for a PC, DS, or MC, add the amounts from each schedule and enter the result on the last page of Schedule B for each
+different PC, DS, or MC. Do not enter page subtotals. Enter the amount from column (f) for each PC on Form 720-TO, Part III,
+line 4, in the column for the applicable PC 
+�
+ 
+Terminal Operator Disbursements by Position Holder
+ 
+Schedule B
+ 
+Form 720-TO (Rev. 9-2010)
+ 
+Corrected
+ 
+Void
+ 
+Page
+ For more than one Schedule B, for each different PC, DS, or
+MC, number each sheet. For example, 1 of 4, 2 of 4, etc.
+ 
+of
+ 
+Enter in the columns below the information requested for the PC on line 1 above.
+ 
+Position Holder name. Enter one name per page.
+ 
+PH EIN
+ 
+PH Form 637 registration number
+ 
+(g)
+Gross
+gallons
+ 
+Complete lines 1 through 4 for each PC.
+ Product Code (PC). Enter the PC (see instructions). A separate schedule is required for each PC 
+�
+ 
+Destination State (DS). Enter the DS for each PC (see instructions). A separate schedule is required for each PC by state. PC 167 destined for Virginia
+(VA) and Maryland (MD) requires two schedules 
+�
+ 
+Mode Code (MC). Enter the MC (see instructions) for each PC for each DS. PC 167 destined for VA by truck and rail and destined for MD by truck and
+rail would require four separate schedules: (1) PC 167, VA, rail; (2) PC 167, VA, truck; (3) PC 167, MD, rail; and (4) PC 167, MD, truck 
+�
+ 
+Example. ABC Terminal is preparing Schedule B for disbursements made by position holder XYZ. XYZ disburses gasoline (PC 065), diesel fuel #2 low sulphur undyed
+(PC 167), and jet fuel (PC 130) during the month destined for two states by truck. ABC must prepare six Schedules B to report XYZ’s transactions (3 PCs x 2 DSs). A
+further breakdown by MC is not needed because only truck was used.
+ 
+5(f)
+ 
+5(g)
+ 
+1
+ 2
+ 
+3
+ 
+4
+ 
+5
+ 
+1
+ 
+2
+ 
+3
+ 

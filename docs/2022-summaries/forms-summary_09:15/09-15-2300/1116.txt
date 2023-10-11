@@ -1,0 +1,13 @@
+Form 1116 is a document issued by the Internal Revenue Service (IRS) for individuals, estates, or trusts to claim the Foreign Tax Credit. It should be attached to Form 1040, 1040-SR, 1040-NR, 1041, or 990-T. The form provides instructions and the latest information on the IRS website.
+
+The form is divided into several parts. Part I requires the taxpayer to report their taxable income or loss from sources outside the United States for each category of income listed, such as Section 951A category income, foreign branch category income, passive category income, general category income, Section 901(j) income, certain income re-sourced by treaty, lump-sum distributions, or residency in a specific country.
+
+Part II is for reporting foreign taxes paid or accrued. The taxpayer must specify the country, the type of tax (paid or accrued), and the date of payment or accrual. They should also report the amount of foreign taxes paid or accrued in both foreign currency and U.S. dollars.
+
+Part III is used to calculate the foreign tax credit. It involves various adjustments and reductions in foreign taxes. The final result is the total amount of foreign taxes available for credit.
+
+Part IV is a summary of credits from separate parts of Part III. Each category of income has its own credit calculation.
+
+The form concludes with line 35, which represents the foreign tax credit that can be claimed on Schedule 3 (Form 1040), Form 1041, Schedule G, or Form 990-T, Part III.
+
+Overall, Form 1116 is a detailed document that helps taxpayers claim the Foreign Tax Credit for taxes paid or accrued to foreign countries or U.S. possessions.

@@ -1,0 +1,11 @@
+Form 7004 is an application for an automatic extension of time to file certain business income tax, information, and other returns with the Internal Revenue Service (IRS). The form must be filed separately for each return and can be found on the IRS website.
+
+Part I of the form requires the taxpayer to enter the form code for the return they are seeking an extension for. The form code corresponds to different types of returns, such as Form 1065 for partnerships or Form 1120 for corporations.
+
+Part II of the form must be completed by all filers and includes information such as whether the organization is a foreign corporation without a US office, whether it is the common parent of a group intending to file a consolidated return, and whether it qualifies under specific regulations.
+
+The form also requires the taxpayer to indicate the tax year for which the extension is being requested, provide information on the tentative total tax, total payments and credits, and calculate the balance due.
+
+The form includes a Privacy Act and Paperwork Reduction Act Notice, which provides information on how the IRS will use the information provided on the form.
+
+This summary provides a brief overview of Form 7004. For complete instructions and the latest information, taxpayers should refer to the official instructions provided by the IRS.

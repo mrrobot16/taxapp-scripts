@@ -1,0 +1,13 @@
+Schedule J (Form 1041) is a document used by certain complex trusts to report accumulation distributions. The form is divided into several parts.
+
+Part I of the form calculates the accumulation distribution for the tax year. It includes the amounts paid, credited, or required to be distributed in the tax year, the distributable net income, and the income required to be distributed currently. The form then subtracts the current distribution from the distributable net income to determine the accumulation distribution.
+
+Part II of the form is for reporting ordinary income accumulation distributions and requires the taxpayer to enter the applicable throwback years. It includes calculations for distributable net income, distributions, undistributed net income, prior accumulation distributions thrown back to previous years, and allocation of the accumulation distribution to the earliest applicable year.
+
+Part III of the form is for reporting taxes imposed on undistributed net income. It also requires the taxpayer to enter the applicable throwback years. It includes calculations for regular tax, the trust's share of net short-term and long-term gains, taxable income, and the tax on undistributed net income.
+
+Part IV of the form is for allocating the accumulation distribution to beneficiaries. It includes spaces to enter the beneficiary's name, identifying number, address, and their share of the accumulation distribution on lines 13, 14, and 16.
+
+The form concludes with a total of the beneficiary's shares of the accumulation distribution, which is to be entered on Form 4970.
+
+Overall, Schedule J (Form 1041) is a detailed form used to report and calculate accumulation distributions for certain complex trusts.

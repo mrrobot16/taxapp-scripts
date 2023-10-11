@@ -1,0 +1,979 @@
+Form  1045
+2022
+Application for Tentative Refund
+Department of the Treasury  
+Internal Revenue Service 
+For individuals, estates, or trusts.  
+Mail in separate envelope. (Don’t attach to tax return.) 
+Go to www.irs.gov/Form1045 for instructions and the latest information.
+OMB No. 1545-0098
+Type or print
+Name(s) shown on return
+Social security or employer identification number
+Number, street, and apt. or suite no. If a P.O. box, see instructions.
+Spouse’s social security number (SSN)
+City, town or post office, state, and ZIP code. If a foreign address, also complete spaces below (see instructions).
+Daytime phone number
+Foreign country name
+Foreign province/county
+Foreign postal code
+1  
+This application is 
+filed to carry back:
+a  Net operating loss (NOL) (Sch. A, line 24)
+$ 
+b  Unused general business credit
+$ 
+c  Net section 1256 contracts loss
+$ 
+2 a 
+For the calendar year 2022, or other tax year
+beginning
+, 2022, and ending
+, 20
+b  Date tax return was filed
+3 
+If this application is for an unused credit created by another carryback, enter year of first carryback:
+4 
+ 
+If you filed a joint return (or separate return) for some, but not all, of the tax years involved in figuring the carryback, list the years
+and specify whether joint (J) or separate (S) return for each:
+5 
+If SSN for carryback year is different from above, enter a  SSN:
+and  b  Year(s):
+6 
+If you changed your accounting period, give date permission to change was granted:
+7 
+Have you filed a petition in Tax Court for the year(s) to which the carryback is to be applied? .
+.
+.
+.
+.
+.
+Yes
+No
+8 
+ 
+Is any part of the decrease in tax due to a loss or credit resulting from a reportable transaction required to be 
+disclosed on Form 8886, Reportable Transaction Disclosure Statement? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+9 
+ 
+If you are carrying back an NOL or a net section 1256 contracts loss, did this cause the release of foreign tax 
+credits or the release of other credits due to the release of the foreign tax credit (see instructions)? .
+.
+.
+.
+Yes
+No
+Computation of Decrease in Tax 
+(see instructions)
+preceding
+tax year ended:
+preceding
+tax year ended:
+preceding
+tax year ended:
+Note: If 1a and 1c are blank, skip lines 10 through 15.  
+Before 
+carryback
+After 
+carryback
+Before 
+carryback
+After 
+carryback
+Before 
+carryback
+After 
+carryback
+10 
+NOL deduction after carryback (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+Adjusted gross income 
+.
+.
+.
+.
+.
+12 
+Deductions (see instructions) 
+.
+.
+.
+13 
+Subtract line 12 from line 11 
+.
+.
+.
+14 
+Exemptions (see instructions) .
+.
+.
+15 
+Taxable income. Line 13 minus line 14
+16  
+ 
+Income tax. See instructions and attach 
+an explanation .
+.
+.
+.
+.
+.
+.
+.
+17 
+ 
+ 
+Excess advance payment(s) for premium 
+tax credit and/or child tax credit (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+Alternative minimum tax .
+.
+.
+.
+.
+19
+Add lines 16 through 18 .
+.
+.
+.
+.
+For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 10670A
+Form 1045 (2022)
+Form 1045 (2022)
+Page 2 
+Computation of Decrease in Tax 
+(continued)
+preceding
+tax year ended:
+preceding
+tax year ended:
+preceding
+tax year ended:
+Before 
+carryback
+After 
+carryback
+Before 
+carryback
+After 
+carryback
+Before 
+carryback
+After 
+carryback
+20 
+General business credit (see instructions) 
+21 
+Net premium tax credit and child tax 
+credit (see instructions) 
+.
+.
+.
+.
+.
+22
+Other credits. Identify .
+.
+.
+.
+.
+.
+23
+Total credits. Add lines 20 through 22 
+24
+Subtract line 23 from line 19 
+.
+.
+.
+25 
+Self-employment tax (see instructions)
+26 
+Additional Medicare Tax (see instructions)  
+27 
+ 
+Net 
+Investment 
+Income 
+Tax 
+(see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+28
+Reserved for future use .
+.
+.
+.
+.
+29 
+Other taxes .
+.
+.
+.
+.
+.
+.
+.
+.
+30
+Total tax. Add lines 24 through 29 .
+.
+31 
+ 
+ 
+Enter the amount from the “After 
+carryback” column on line 30 for each 
+year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+32
+Decrease in tax. Line 30 minus line 31
+33
+Overpayment of tax due to a claim of right adjustment under section 1341(b)(1) (attach computation)  
+33
+Sign 
+Here  
+Keep a copy 
+of this 
+application 
+for your 
+records.
+Under penalties of perjury, I declare that I have examined this application and accompanying schedules and statements, and, to the best of my knowledge 
+and belief, they are true, correct, and complete.
+Your signature
+Date
+Spouse’s signature. If Form 1045 is filed jointly, both must sign.
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check        if 
+self-employed
+PTIN
+Firm’s name
+Firm’s EIN
+Firm’s address
+Phone no.
+Form 1045 (2022)
+Form 1045 (2022)
+Page 3 
+Schedule A—NOL (see instructions)
+1 
+ 
+For individuals, subtract your standard deduction or itemized deductions from your adjusted gross 
+income and enter it here. For estates and trusts, enter taxable income increased by the total of the
+charitable deduction, income distribution deduction, and exemption amount (see instructions) .
+.
+1 
+2 
+Nonbusiness capital losses before limitation. Enter as a positive number 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Nonbusiness capital gains (without regard to any section 1202 exclusion) .
+3 
+4 
+If line 2 is more than line 3, enter the difference. Otherwise, enter -0- .
+.
+4 
+5 
+If line 3 is more than line 2, enter the difference. 
+Otherwise, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Nonbusiness deductions (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Nonbusiness income other than capital gains (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Add lines 5 and 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+If line 6 is more than line 8, enter the difference. Otherwise, enter -0-  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+ 
+If line 8 is more than line 6, enter the difference. 
+Otherwise, enter -0-. But don’t enter more than 
+line 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Business capital losses before limitation. Enter as a positive number 
+.
+.
+11 
+12 
+Business capital gains (without regard to any 
+section 1202 exclusion) .
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Add lines 10 and 12 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Subtract line 13 from line 11. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Add lines 4 and 14 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+ 
+ 
+ 
+Enter the loss, if any, from line 16 of your 2022 Schedule D (Form 1040). 
+(For estates and trusts, enter the loss, if any, from line 19, column (3), of
+Schedule D (Form 1041).) Enter as a positive number. If you don’t have a 
+loss on that line (and don’t have a section 1202 exclusion), skip lines 16 
+through 21 and enter on line 22 the amount from line 15 
+.
+.
+.
+.
+.
+.
+16 
+17 
+Section 1202 exclusion. Enter as a positive number (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Subtract line 17 from line 16. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+ 
+Enter the loss, if any, from line 21 of your 2022 Schedule D (Form 1040). 
+(For estates and trusts, enter the loss, if any, from line 20 of Schedule D 
+(Form 1041).) Enter as a positive number 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+If line 18 is more than line 19, enter the difference. Otherwise, enter -0- 
+.
+20 
+21
+If line 19 is more than line 18, enter the difference. Otherwise, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+22
+Subtract line 20 from line 15. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+23
+NOL deduction for losses from other years. Enter as a positive number 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24 
+NOL. Combine lines 1, 9, 17, and 21 through 23. If the result is less than zero, enter it here and on 
+page 1, line 1a. If the result is zero or more, you don’t have an NOL 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+Form 1045 (2022)
+Form 1045 (2022)
+Page 4 
+Schedule B—NOL Carryover (see instructions)
+Complete one column before going to the next 
+column. Start with the earliest carryback year.
+preceding
+tax year ended:
+preceding
+tax year ended:
+preceding
+tax year ended:
+1 
+NOL deduction. Enter as a positive 
+number 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+ 
+ 
+ 
+ 
+Taxable income before 2022 NOL 
+carryback (see instructions). For estates 
+and trusts, increase this amount by the 
+sum of the charitable deduction and 
+income distribution deduction (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Net 
+capital 
+loss 
+deduction 
+(see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Section 1202 exclusion. Enter as a 
+positive number (see instructions) .
+.
+5 
+Qualified business income deduction 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+6 
+Adjustment to adjusted gross income  
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+7 
+Adjustment to itemized deductions 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+8 
+Estates and trusts, enter exemption 
+amount 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+ 
+Modified taxable income. Combine 
+lines 2 through 8. If zero or less, enter 
+-0- (see instructions) .
+.
+.
+.
+.
+.
+10
+NOL carryover (see instructions) .
+.
+Adjustment to Itemized Deductions 
+(Individuals Only) Complete lines 11 
+through 38 for the carryback year(s) for 
+which you itemized deductions only if 
+line 3, 4, or 5 above is more than zero.
+11 
+Adjusted gross income before 2022 
+NOL carryback .
+.
+.
+.
+.
+.
+.
+.
+12
+Add lines 3 through 6 above 
+.
+.
+.
+ 13 
+Modified adjusted gross income. Add  
+lines 11 and 12 .
+.
+.
+.
+.
+.
+.
+.
+14 
+Medical expenses from Sch. A (Form 
+1040), line 4, or as previously adjusted
+15 
+Medical expenses from Sch. A (Form 
+1040), line 1, or as previously adjusted
+16 
+Multiply line 13 by percentage from 
+Sch. A (Form 1040), line 3 
+.
+.
+.
+.
+ 17 
+Subtract line 16 from line 15. If zero or 
+less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+18
+Subtract line 17 from line 14 .
+.
+.
+.
+Form 1045 (2022)
+Form 1045 (2022)
+Page 5 
+Schedule B—NOL Carryover (continued)
+Complete one column before going to the next 
+column. Start with the earliest carryback year.
+preceding
+tax year ended:
+preceding
+tax year ended:
+preceding
+tax year ended:
+19 
+ 
+Mortgage insurance premiums from 
+Sch. A (Form 1040), line 8d, or as 
+previously adjusted 
+.
+.
+.
+.
+.
+.
+20 
+Refigured mortgage insurance premiums 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+21
+Subtract line 20 from line 19 
+.
+.
+.
+22 
+Modified adjusted gross income from 
+line 13 on page 4 of the form 
+.
+.
+.
+23 
+ 
+ 
+Enter as a positive number any NOL  
+carryback from a year before 2022 that 
+was deducted to figure line 11 on page 
+4 of the form .
+.
+.
+.
+.
+.
+.
+.
+.
+24
+Add lines 22 and 23 
+.
+.
+.
+.
+.
+.
+25 
+ 
+ 
+Charitable contributions from Sch. A 
+(Form 1040), line 14, or Sch. A (Form 
+1040-NR), line 5, or as previously 
+adjusted .
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+26 
+Refigured charitable contributions (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+27
+Subtract line 26 from line 25 
+.
+.
+.
+28 
+Casualty and theft losses from Form 
+4684, line 18 .
+.
+.
+.
+.
+.
+.
+.
+.
+29 
+Casualty and theft losses from Form 
+4684, line 16 .
+.
+.
+.
+.
+.
+.
+.
+.
+30
+Multiply line 22 by 10% (0.10) .
+.
+.
+ 31 
+Subtract line 30 from line 29. If zero or 
+less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+32
+Subtract line 31 from line 28 
+.
+.
+.
+33
+Reserved for future use .
+.
+.
+.
+.
+34
+Reserved for future use .
+.
+.
+.
+.
+35
+Reserved for future use .
+.
+.
+.
+.
+36
+Reserved for future use .
+.
+.
+.
+.
+37
+Reserved for future use .
+.
+.
+.
+.
+38 
+Combine lines 18, 21, 27, and 32; enter 
+the result here and on line 7 (page 4) .
+Form 1045 (2022)

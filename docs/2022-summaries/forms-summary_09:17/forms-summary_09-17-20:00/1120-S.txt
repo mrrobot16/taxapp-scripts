@@ -1,0 +1,2193 @@
+Form  1120-S
+Department of the Treasury  
+Internal Revenue Service 
+U.S. Income Tax Return for an S Corporation 
+Do not file this form unless the corporation has filed or 
+is attaching Form 2553 to elect to be an S corporation. 
+Go to www.irs.gov/Form1120S for instructions and the latest information.
+OMB No. 1545-0123 
+2022
+For calendar year 2022 or tax year beginning 
+, 2022, ending 
+, 20 
+TYPE 
+OR 
+PRINT
+Name 
+Number, street, and room or suite no. If a P.O. box, see instructions. 
+City or town, state or province, country, and ZIP or foreign postal code 
+A  S election effective date 
+B  Business activity code 
+number (see instructions) 
+C  Check if Sch. M-3 attached
+D  Employer identification number 
+E  Date incorporated
+F  Total assets (see instructions) 
+$ 
+G Is the corporation electing to be an S corporation beginning with this tax year? See instructions.
+Yes
+No
+H Check if: (1) 
+Final return
+(2) 
+Name change 
+(3) 
+Address change
+(4) 
+Amended return
+(5) 
+S election termination 
+I 
+Enter the number of shareholders who were shareholders during any part of the tax year 
+.
+.
+.
+.
+.
+.
+.
+.
+J
+Check if corporation: (1)
+Aggregated activities for section 465 at-risk purposes
+(2) 
+Grouped activities for section 469 passive activity purposes
+Caution: Include only trade or business income and expenses on lines 1a through 21. See the instructions for more information. 
+Income 
+1a 
+Gross receipts or sales 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b 
+Returns and allowances 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+1b 
+c  Balance. Subtract line 1b from line 1a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c 
+2 
+Cost of goods sold (attach Form 1125-A) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Gross profit. Subtract line 2 from line 1c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Net gain (loss) from Form 4797, line 17 (attach Form 4797) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Other income (loss) (see instructions—attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Total income (loss). Add lines 3 through 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+6 
+Deductions  (see instructions for limitations)
+7 
+Compensation of officers (see instructions—attach Form 1125-E) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Salaries and wages (less employment credits) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Repairs and maintenance .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Bad debts 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Rents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Taxes and licenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Interest (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Depreciation from Form 4562 not claimed on Form 1125-A or elsewhere on return (attach Form 4562)
+14 
+15 
+Depletion (Do not deduct oil and gas depletion.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Advertising 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Pension, profit-sharing, etc., plans .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Employee benefit programs .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Other deductions (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+Total deductions. Add lines 7 through 19 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+21 
+Ordinary business income (loss). Subtract line 20 from line 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+Tax and Payments 
+22 a
+Excess net passive income or LIFO recapture tax (see instructions) .
+.
+.
+22a 
+b 
+Tax from Schedule D (Form 1120-S) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22b 
+c 
+Add lines 22a and 22b (see instructions for additional taxes) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22c 
+23a
+2022 estimated tax payments and 2021 overpayment credited to 2022 
+.
+23a 
+b 
+Tax deposited with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23b 
+c
+Credit for federal tax paid on fuels (attach Form 4136) .
+.
+.
+.
+.
+.
+.
+23c 
+d
+Add lines 23a through 23c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23d 
+24 
+Estimated tax penalty (see instructions). Check if Form 2220 is attached .
+.
+.
+.
+.
+.
+.
+. 
+24 
+25 
+Amount owed. If line 23d is smaller than the total of lines 22c and 24, enter amount owed 
+.
+.
+.
+25 
+26 
+Overpayment. If line 23d is larger than the total of lines 22c and 24, enter amount overpaid .
+.
+.
+26 
+27 
+Enter amount from line 26: Credited to 2023 estimated tax
+Refunded .
+27 
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and 
+belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge. 
+Signature of officer
+Date
+Title
+May the IRS discuss this return 
+with the preparer shown below? 
+See instructions.
+Yes
+No
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check        if 
+self-employed
+PTIN
+Firm’s name    
+Firm’s address
+Firm’s EIN 
+Phone no.
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 11510H 
+Form 1120-S (2022) 
+Form 1120-S (2022) 
+Page  2 
+Schedule B 
+Other Information  (see instructions) 
+1 
+Check accounting method: 
+a 
+Cash 
+b 
+Accrual 
+Yes No 
+c 
+Other (specify) 
+2 
+See the instructions and enter the: 
+a Business activity
+b Product or service 
+3 
+At any time during the tax year, was any shareholder of the corporation a disregarded entity, a trust, an estate, or a 
+nominee or similar person? If “Yes,” attach Schedule B-1, Information on Certain Shareholders of an S Corporation .
+.
+4
+At the end of the tax year, did the corporation:
+a 
+ 
+Own directly 20% or more, or own, directly or indirectly, 50% or more of the total stock issued and outstanding of any 
+foreign or domestic corporation? For rules of constructive ownership, see instructions. If “Yes,” complete (i) through (v) 
+below .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(i) Name of Corporation
+(ii) Employer 
+Identification 
+Number (if any)
+(iii) Country of 
+Incorporation
+(iv) Percentage of 
+Stock Owned
+(v) If Percentage in (iv) Is 100%, Enter the 
+Date (if applicable) a Qualified Subchapter 
+S Subsidiary Election Was Made
+b 
+ 
+Own directly an interest of 20% or more, or own, directly or indirectly, an interest of 50% or more in the profit, loss, or 
+capital in any foreign or domestic partnership (including an entity treated as a partnership) or in the beneficial interest of a 
+trust? For rules of constructive ownership, see instructions. If “Yes,” complete (i) through (v) below .
+.
+.
+.
+.
+.
+.
+(i) Name of Entity
+(ii) Employer 
+Identification 
+Number (if any)
+(iii) Type of Entity
+(iv) Country of  
+Organization
+(v) Maximum Percentage Owned 
+in Profit, Loss, or Capital
+5a
+At the end of the tax year, did the corporation have any outstanding shares of restricted stock? .
+.
+.
+.
+.
+.
+.
+.
+ 
+If “Yes,” complete lines (i) and (ii) below.
+(i)
+Total shares of restricted stock 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(ii)
+Total shares of non-restricted stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+At the end of the tax year, did the corporation have any outstanding stock options, warrants, or similar instruments? 
+.
+If “Yes,” complete lines (i) and (ii) below.
+(i)
+Total shares of stock outstanding at the end of the tax year 
+.
+.
+ 
+(ii)
+Total shares of stock outstanding if all instruments were executed  
+6 
+Has this corporation filed, or is it required to file, Form 8918, Material Advisor Disclosure Statement, to provide 
+information on any reportable transaction? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Check this box if the corporation issued publicly offered debt instruments with original issue discount .
+.
+.
+.
+.
+If checked, the corporation may have to file Form 8281, Information Return for Publicly Offered Original Issue Discount 
+Instruments. 
+8 
+ 
+ 
+If the corporation (a) was a C corporation before it elected to be an S corporation or the corporation acquired an asset with a 
+basis determined by reference to the basis of the asset (or the basis of any other property) in the hands of a C corporation, and 
+(b) has net unrealized built-in gain in excess of the net recognized built-in gain from prior years, enter the net unrealized built-in 
+gain reduced by net recognized built-in gain from prior years. See instructions .
+.
+.
+.
+.
+.
+ $ 
+9 
+Did the corporation have an election under section 163(j) for any real property trade or business or any farming business 
+in effect during the tax year? See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+Does the corporation satisfy one or more of the following? See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+a
+The corporation owns a pass-through entity with current, or prior year carryover, excess business interest expense.
+b 
+The corporation’s aggregate average annual gross receipts (determined under section 448(c)) for the 3 tax years 
+preceding the current tax year are more than $27 million and the corporation has business interest expense.
+c
+The corporation is a tax shelter and the corporation has business interest expense. 
+If “Yes,” complete and attach Form 8990, Limitation on Business Interest Expense Under Section 163(j).
+11
+Does the corporation satisfy both of the following conditions? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+a
+The corporation’s total receipts (see instructions) for the tax year were less than $250,000. 
+b
+The corporation’s total assets at the end of the tax year were less than $250,000. 
+If “Yes,” the corporation is not required to complete Schedules L and M-1.
+Form 1120-S (2022) 
+Form 1120-S (2022) 
+Page  3 
+Schedule B 
+Other Information (see instructions) (continued) 
+Yes No 
+12 
+During the tax year, did the corporation have any non-shareholder debt that was canceled, was forgiven, or had the 
+terms modified so as to reduce the principal amount of the debt? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter the amount of principal reduction .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. $ 
+13
+During the tax year, was a qualified subchapter S subsidiary election terminated or revoked? If “Yes,” see instructions .
+14a
+Did the corporation make any payments in 2022 that would require it to file Form(s) 1099? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b 
+If “Yes,” did or will the corporation file required Form(s) 1099?.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Is the corporation attaching Form 8996 to certify as a Qualified Opportunity Fund? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter the amount from Form 8996, line 15 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  $ 
+Schedule K 
+Shareholders’ Pro Rata Share Items 
+Total amount 
+Income (Loss) 
+1 
+Ordinary business income (loss) (page 1, line 21) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Net rental real estate income (loss) (attach Form 8825) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3a
+Other gross rental income (loss) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a 
+b 
+Expenses from other rental activities (attach statement) 
+.
+.
+.
+.
+3b 
+c 
+Other net rental income (loss). Subtract line 3b from line 3a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c 
+4 
+Interest income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Dividends:  a Ordinary dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a 
+b Qualified dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5b 
+6 
+Royalties .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Net short-term capital gain (loss) (attach Schedule D (Form 1120-S)) 
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 a
+Net long-term capital gain (loss) (attach Schedule D (Form 1120-S)) .
+.
+.
+.
+.
+.
+.
+.
+.
+8a 
+b 
+Collectibles (28%) gain (loss) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8b 
+c 
+Unrecaptured section 1250 gain (attach statement) .
+.
+.
+.
+.
+.
+8c 
+9 
+Net section 1231 gain (loss) (attach Form 4797) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Other income (loss) (see instructions) 
+.
+.
+.
+Type: 
+10 
+Deductions 
+11 
+Section 179 deduction (attach Form 4562) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 a
+Charitable contributions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12a 
+b 
+Investment interest expense .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12b 
+c 
+Section 59(e)(2) expenditures .
+.
+.
+.
+.
+.
+Type: 
+12c
+d 
+Other deductions (see instructions) .
+.
+.
+.
+Type: 
+12d
+Credits 
+13a
+Low-income housing credit (section 42(j)(5)) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13a 
+b 
+Low-income housing credit (other) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13b 
+c 
+Qualified rehabilitation expenditures (rental real estate) (attach Form 3468, if applicable) 
+.
+.
+13c 
+d 
+Other rental real estate credits (see instructions) Type: 
+13d 
+e 
+Other rental credits (see instructions) 
+.
+.
+.
+Type: 
+13e 
+f 
+Biofuel producer credit (attach Form 6478) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13f 
+g 
+Other credits (see instructions) 
+.
+.
+.
+.
+.
+Type: 
+13g 
+Inter-   
+national
+14 
+Attach Schedule K-2 (Form 1120-S), Shareholders’ Pro Rata Share Items—International, and 
+check this box to indicate you are reporting items of international tax relevance .
+.
+.
+.
+ 
+Alternative  
+Minimum Tax  
+(AMT) Items 
+15 a
+Post-1986 depreciation adjustment .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15a 
+b 
+Adjusted gain or loss 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15b 
+c 
+Depletion (other than oil and gas) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15c 
+d 
+Oil, gas, and geothermal properties—gross income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15d 
+e 
+Oil, gas, and geothermal properties—deductions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15e 
+f 
+Other AMT items (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15f 
+Items Affecting  
+Shareholder  Basis 
+16 a
+Tax-exempt interest income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16a 
+b 
+Other tax-exempt income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16b 
+c 
+Nondeductible expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16c 
+d 
+Distributions (attach statement if required) (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16d 
+e 
+Repayment of loans from shareholders .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16e 
+f
+Foreign taxes paid or accrued 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16f 
+Form 1120-S (2022) 
+Form 1120-S (2022) 
+Page  4 
+Schedule K 
+Shareholders’ Pro Rata Share Items (continued) 
+Total amount 
+Other  
+Information 
+17a
+Investment income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17a 
+b 
+Investment expenses 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17b 
+c 
+Dividend distributions paid from accumulated earnings and profits .
+.
+.
+.
+.
+.
+.
+.
+.
+17c 
+d 
+Other items and amounts (attach statement) 
+Recon- 
+ciliation 
+18
+Income (loss) reconciliation. Combine the amounts on lines 1 through 10 in the far right 
+column. From the result, subtract the sum of the amounts on lines 11 through 12d and 16f 
+.
+18
+Schedule L 
+Balance Sheets per Books 
+Beginning of tax year 
+End of tax year 
+(                             )
+(                             )
+(                             )
+(                             )
+(                             )
+(                             )
+(                             )
+(                             )
+Assets 
+(a) 
+(b) 
+(c) 
+(d) 
+1 
+Cash 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+Trade notes and accounts receivable 
+.
+.
+.
+b Less allowance for bad debts .
+.
+.
+.
+.
+.
+3 
+Inventories 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+U.S. government obligations .
+.
+.
+.
+.
+.
+5 
+Tax-exempt securities (see instructions) 
+.
+.
+6 
+Other current assets (attach statement) .
+.
+.
+7 
+Loans to shareholders .
+.
+.
+.
+.
+.
+.
+.
+8 
+Mortgage and real estate loans 
+.
+.
+.
+.
+.
+9 
+Other investments (attach statement) 
+.
+.
+.
+10a
+Buildings and other depreciable assets .
+.
+.
+b Less accumulated depreciation .
+.
+.
+.
+.
+11a
+Depletable assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Less accumulated depletion .
+.
+.
+.
+.
+.
+12 
+Land (net of any amortization) .
+.
+.
+.
+.
+.
+13a
+Intangible assets (amortizable only) .
+.
+.
+.
+b Less accumulated amortization .
+.
+.
+.
+.
+14 
+Other assets (attach statement) .
+.
+.
+.
+.
+15 
+Total assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(                             )
+(                             )
+Liabilities and Shareholders’ Equity 
+     
+     
+     
+     
+16 
+Accounts payable 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+Mortgages, notes, bonds payable in less than 1 year 
+18 
+Other current liabilities (attach statement) .
+.
+19 
+Loans from shareholders .
+.
+.
+.
+.
+.
+.
+20 
+Mortgages, notes, bonds payable in 1 year or more 
+21 
+Other liabilities (attach statement) 
+.
+.
+.
+.
+22 
+Capital stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+Additional paid-in capital .
+.
+.
+.
+.
+.
+.
+24 
+Retained earnings 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25 
+Adjustments to shareholders’ equity (attach statement) 
+26 
+Less cost of treasury stock 
+.
+.
+.
+.
+.
+.
+27 
+Total liabilities and shareholders’ equity 
+.
+.
+Form 1120-S (2022) 
+Form 1120-S (2022) 
+Page  5 
+Schedule M-1 
+Reconciliation of Income (Loss) per Books With Income (Loss) per Return 
+Note: The corporation may be required to file Schedule M-3. See instructions. 
+1 
+Net income (loss) per books .
+.
+.
+.
+2 
+ 
+Income included on Schedule K, lines 1, 2, 
+3c, 4, 5a, 6, 7, 8a, 9, and 10, not recorded 
+on books this year (itemize)
+3 
+ 
+Expenses recorded on books this year 
+not  included on Schedule K, lines 1
+through 12, and 16f (itemize): 
+a 
+Depreciation $ 
+b 
+Travel and entertainment $ 
+4 
+Add lines 1 through 3 
+.
+.
+.
+.
+.
+.
+5 
+ 
+Income recorded on books this year 
+not included on Schedule K, lines 1
+through 10 (itemize): 
+a 
+Tax-exempt interest $ 
+6 
+ 
+Deductions included on Schedule K, 
+lines 1 through 12, and 16f, not charged 
+against book income this year (itemize): 
+a 
+Depreciation $ 
+7 
+Add lines 5 and 6 .
+.
+.
+.
+.
+.
+.
+8 
+Income (loss) (Schedule K, line 18). 
+Subtract line 7 from line 4 .
+.
+.
+.
+Schedule M-2 
+Analysis of Accumulated Adjustments Account, Shareholders’ Undistributed Taxable Income 
+Previously Taxed, Accumulated Earnings and Profits, and Other Adjustments Account 
+(see instructions)
+(                               )
+(                               )
+(                               )
+(a) Accumulated 
+adjustments account 
+(b) Shareholders’ 
+undistributed taxable 
+income previously taxed
+(c) Accumulated 
+earnings and profits 
+(d) Other adjustments 
+account
+1
+Balance at beginning of tax year .
+.
+.
+.
+.
+2
+Ordinary income from page 1, line 21 
+.
+.
+.
+3
+Other additions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Loss from page 1, line 21 .
+.
+.
+.
+.
+.
+.
+5
+Other reductions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Combine lines 1 through 5 .
+.
+.
+.
+.
+.
+.
+7
+Distributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Balance at end of tax year. Subtract line 7 from 
+line 6 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form 1120-S (2022) 

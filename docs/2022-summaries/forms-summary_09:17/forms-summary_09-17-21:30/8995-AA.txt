@@ -1,0 +1,11 @@
+Schedule A (Form 8995-A) is a form provided by the Department of the Treasury and the Internal Revenue Service (IRS) for taxpayers to report their specified service trades or businesses. This form should be attached to Form 8995-A and is applicable for taxpayers with a taxable income of more than $170,050 but not more than $220,050 ($340,100 and $440,100 if married filing jointly).
+
+If a taxpayer's taxable income is not more than $170,050 ($340,100 if married filing jointly) and they are not a patron of an agricultural or horticultural cooperative, they should not file this form. Instead, they should file Form 8995, which is the Qualified Business Income Deduction Simplified Computation form.
+
+The form consists of two parts: Part I for other than publicly traded partnerships (PTP) and Part II for publicly traded partnerships. In Part I, taxpayers need to provide information such as the trade or business name, taxpayer identification number, qualified business income or loss, allocable share of W-2 wages, allocable share of the unadjusted basis immediately after acquisition (UBIA) of all qualified property, and taxable income before the qualified business income deduction. The form also includes calculations for the threshold, phase-in range, applicable percentage, and applicable percentages of qualified business income or loss, W-2 wages, and UBIA of qualified property.
+
+In Part II, taxpayers need to provide similar information for publicly traded partnerships, including the trade or business name, taxpayer identification number, qualified PTP income or loss, total PTP specified service trade or business income or loss, taxable income before the qualified business income deduction, threshold, phase-in range, applicable percentage, and applicable percentage of qualified PTP income or loss.
+
+Taxpayers with more than three trades or businesses should attach additional Schedule A forms as needed.
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8995A.

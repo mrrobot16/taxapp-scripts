@@ -1,0 +1,15 @@
+This document provides instructions for filing Forms W-2 and W-3 electronically or on paper. It states that electronic filing is available on the SSA's Employer W-2 Filing Instructions and Information web page, and provides a link to the website. The document also mentions that fill-in versions of the forms can be created for filing with the SSA, as well as for printing copies for state or local governments, employee distribution, and record-keeping purposes.
+
+It emphasizes that Copy A of the form is for informational purposes only and should not be printed and filed with the SSA, as it is not scannable. Penalties may be imposed for filing forms that cannot be scanned. However, other copies of the form, which appear in black, can be downloaded, filled in, and printed for providing information to recipients.
+
+To order official IRS information returns, including scannable Copy A forms for filing, the document suggests visiting the IRS Online Ordering for Information Returns and Employer Returns page or the IRS website. It also mentions IRS Publications 1141, 1167, and 1179 for more information about printing these tax forms.
+
+The document includes a Form W-3, which is the transmittal form for wage and tax statements. It provides instructions for completing the form and states that it should be sent with the Copy A page of Form(s) W-2 to the Social Security Administration (SSA). Photocopies are not acceptable, and no payment should be sent with the forms.
+
+The purpose of Form W-3 is to transmit paper copies of Form(s) W-2 to the SSA. It should not be filed alone, and all paper forms must comply with IRS standards and be machine-readable. The document advises making a copy of the form and keeping it with Copy D of Form(s) W-2 for record-keeping purposes.
+
+The document also mentions the option of e-filing Form W-3 and Forms W-2 Copy A electronically. The SSA provides two free e-filing options on its Business Services Online (BSO) website: W-2 Online, which allows for the creation, saving, printing, and submission of up to 50 Forms W-2 at a time, and File Upload, which allows for the uploading of wage files created using payroll or tax software that formats the files according to the SSAs specifications. The document states that e-filed forms must be submitted by January 31, 2024.
+
+For paper forms, the document instructs to mail Form W-3 with Copy A of Form(s) W-2 to the Social Security Administration's Direct Operations Center in Wilkes-Barre, PA by January 31, 2024. It provides the address and mentions alternative addresses for certified mail or IRS-approved private delivery services.
+
+The document concludes with a reminder to review the separate instructions for Privacy Act and Paperwork Reduction Act Notice.

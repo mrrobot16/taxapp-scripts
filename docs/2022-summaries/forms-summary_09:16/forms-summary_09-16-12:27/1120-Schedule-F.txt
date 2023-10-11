@@ -1,0 +1,9 @@
+Form 1120-SF is a tax return form used by settlement funds under Section 468B of the Internal Revenue Code. The form is used to report income, deductions, and tax liability for the fund. 
+
+The form includes several sections for reporting income and deductions. Income items include taxable interest, dividends, capital gains, income or gain from a partnership interest, and other income. Deductions include trustee/administrator fees, taxes, accounting and legal services, notification of claimants and claim processing expenses, and other deductions. 
+
+The form also includes a section for calculating the tax liability, which is based on the modified gross income. It includes provisions for credits and payments, estimated tax penalty, and the final tax due or overpayment. 
+
+Additionally, the form includes a balance sheet section to report the fund's assets, liabilities, and fund balance at the beginning and end of the year. There is also an additional information section to provide details about transfers to the fund, tax-exempt interest received, distributions made to claimants or transferors, and the type of liability for which the fund was established. 
+
+The form requires the signature of the fund administrator and allows for the designation of a paid preparer. The form also includes instructions for completing the form and provides a website for accessing the latest information and instructions.

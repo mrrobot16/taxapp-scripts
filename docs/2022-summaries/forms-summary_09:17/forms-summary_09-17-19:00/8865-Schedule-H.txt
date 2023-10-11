@@ -1,0 +1,17 @@
+Schedule H (Form 8865) is a document provided by the Internal Revenue Service (IRS) for reporting acceleration events, termination events, successor events, taxable dispositions of partnership interests, and section 367 transfer events related to gain deferral under Section 721(c) of the Internal Revenue Code. This form is to be attached to Form 8865 and is used by individuals or entities filing as a partnership for tax purposes. 
+
+The form is divided into six parts: 
+
+Part I: Acceleration Event - This section requires the reporting of any acceleration events that have occurred, including the line number on Schedule G, a description of the event, the date of the event, the gain recognized, and any adjustments made to the tax basis of the partnership's section 721(c) property. 
+
+Part II: Termination Event - This section is used to report any termination events that have taken place. It requires the same information as Part I, including the line number on Schedule G, a description of the event, and the date of the event. 
+
+Part III: Successor Event - This section is for reporting any successor events that have occurred. It requires the same information as Parts I and II, along with the name, address, and U.S. taxpayer identification number (TIN) of the successor partnership, lower-tier partnership, upper-tier partnership, or U.S. corporation involved in the event. 
+
+Part IV: Taxable Disposition of a Portion of an Interest in Partnership Event - This section is used to report any taxable dispositions of a portion of a partnership interest. It requires a description of the event, the date of the event, the percentage of partnership interest disposed, the percentage of partnership interest retained, and the aggregate remaining built-in gain attributed to the partnership interest retained. 
+
+Part V: Section 367 Transfer Event - This section is used to report any section 367 transfer events. It requires the same information as Parts I and II, along with the name, address, and U.S. TIN of the foreign transferee corporation involved in the event. 
+
+Part VI: Supplemental Information - This section is provided for any additional information that may be necessary or relevant to the reporting of the events mentioned in the previous parts. 
+
+The form also includes instructions and a reference to the IRS website for further guidance and the latest information.

@@ -1,0 +1,13 @@
+The Schedule K-1 (Form 8865) is a document provided by the Internal Revenue Service (IRS) for partnerships to report each partner's share of income, deductions, credits, and other items for the tax year. The form is used for calendar year 2022 or the tax year beginning and ending in 2022.
+
+The form is divided into several parts. Part I requires information about the partnership, including the employer identification number, reference ID number, and the partnership's name, address, city, state, and ZIP code.
+
+Part II focuses on the partner's information, such as their social security number or taxpayer identification number (TIN), name, address, city, state, and ZIP code. If the partnership interest is owned through a disregarded entity (DE), the DE's TIN and name should be provided.
+
+Part III is where the partner's share of income, deductions, credits, and other items is reported. This includes ordinary business income or loss, net rental real estate income or loss, guaranteed payments for services and capital, interest income, dividends, royalties, capital gains or losses, section 1231 gains or losses, other income or loss, deductions, self-employment earnings or loss, credits, alternative minimum tax (AMT) items, tax-exempt income and nondeductible expenses, distributions, and other information.
+
+The form also includes sections for the partner's share of profit, loss, capital, and deductions, as well as the partner's share of net unrecognized Section 704(c) gain or loss. Additionally, there is a section for foreign taxes paid or accrued.
+
+The form concludes with a section for the IRS's use only and a reference to the Instructions for Form 8865 and the IRS website for more information.
+
+Please note that this summary provides a general overview of the Schedule K-1 (Form 8865) and does not constitute tax advice. It is recommended to consult with a tax professional or the IRS for specific guidance related to your situation.

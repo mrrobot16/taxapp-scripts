@@ -1,0 +1,9 @@
+Form 3520 is an annual return that individuals, partnerships, corporations, trusts, and executors of estates must file with the Internal Revenue Service (IRS) to report transactions with foreign trusts and the receipt of certain foreign gifts. The form must be filed separately for each foreign trust.
+
+The form requires the filer to provide identifying information, such as their name, taxpayer identification number, address, and country of residence. It also asks for information about the foreign trust, including its name, employer identification number (if any), address, and date of creation. The form includes sections for reporting transfers to a foreign trust, ownership of a foreign trust, distributions from a foreign trust, and gifts or bequests received from foreign persons.
+
+The form provides various checkboxes and lines for the filer to indicate the type of return being filed (initial, final, or amended), the type of filer (individual, partnership, corporation, trust, or executor), and whether any excepted specified foreign financial assets are reported on the form.
+
+The form includes several schedules, including Schedule A for reporting obligations of a related trust, Schedule B for reporting gratuitous transfers, Schedule C for calculating interest charges, and Schedule D for reporting certain foreign gifts.
+
+The form also includes instructions and references to additional resources on the IRS website for further guidance. The form must be filed in English and all amounts must be shown in U.S. dollars.

@@ -1,0 +1,17 @@
+Form 6627 is a document provided by the Internal Revenue Service (IRS) for reporting and calculating environmental taxes. This form is to be attached to Form 720, which is used for reporting quarterly federal excise tax liabilities.
+
+The form is divided into six parts:
+
+Part I: Tax on Petroleum - This section is used to report and calculate taxes on crude oil received at a U.S. refinery and crude oil taxed before receipt at the refinery. It also includes calculations for taxable crude oil and crude oil used in the U.S. before the tax was imposed.
+
+Part II: Tax on Chemicals (Other Than Ozone-Depleting Chemicals) - This part lists various chemicals and their corresponding rates and taxes. It provides a space to enter the tons of each chemical, the rate per ton, and the resulting tax.
+
+Part III: Tax on Imported Chemical Substances - This section is used to report and calculate taxes on imported chemical substances. It includes columns for imported chemical substance, tons, taxable chemical used in the manufacture of the substance, conversion factor or entry value, rate, and tax.
+
+Part IV: Tax on Ozone-Depleting Chemicals (ODCs) - This part allows for elections regarding the reporting of taxes on post-1989 and post-1990 ODCs. It also provides space to list ODCs, the number of pounds, tax per pound, and the resulting tax.
+
+Part V: ODC Tax on Imported Products - This section is used to report and calculate taxes on imported products containing ODCs. It includes columns for imported product and applicable ODC, number of products, ODC weight of the product, tax per pound, entry value, and tax.
+
+Part VI: Tax on Floor Stocks of ODCs - This part is used to report and calculate taxes on the floor stocks of ODCs. It includes columns for ODC, number of pounds, tax per pound, and the resulting tax.
+
+The form also includes instructions for each part and provides spaces to enter the total taxes for each section, which should be transferred to Form 720.

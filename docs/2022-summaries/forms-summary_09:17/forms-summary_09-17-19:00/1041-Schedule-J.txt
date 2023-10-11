@@ -1,0 +1,11 @@
+Schedule J (Form 1041) is a document provided by the Internal Revenue Service (IRS) for certain complex trusts to report accumulation distributions. The form is attached to Form 1041, which is used to report income tax returns for estates and trusts.
+
+Part I of Schedule J requires the trust to report the accumulation distribution for the current tax year. This includes the amounts paid, credited, or required to be distributed, as well as the distributable net income and income required to be distributed currently.
+
+Part II of Schedule J is for reporting the ordinary income accumulation distribution, with space provided to enter the applicable throwback years. The form instructs to attach additional schedules if the distribution is thrown back to more than 5 years.
+
+Part III of Schedule J is for reporting taxes imposed on undistributed net income, also with space provided for throwback years. This section includes calculations for regular tax, the trust's share of net short-term and long-term gains, taxable income, and the tax on undistributed net income.
+
+Part IV of Schedule J is for allocating the accumulation distribution to beneficiaries. This section requires the beneficiary's name, identifying number, address, and their share of line 13, line 14, and line 16.
+
+Overall, Schedule J is a detailed form that helps complex trusts report accumulation distributions and allocate them to beneficiaries.

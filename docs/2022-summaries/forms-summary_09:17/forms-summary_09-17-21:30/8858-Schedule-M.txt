@@ -1,0 +1,15 @@
+Schedule M (Form 8858) is a document provided by the Internal Revenue Service (IRS) that must be attached to Form 8858. It is used to report transactions between a foreign disregarded entity (FDE) or foreign branch (FB) and the filer or other related entities.
+
+The schedule requires the filer to provide information such as their name, identifying number, and the name of the FDE or FB. The filer must also indicate the relevant functional currency and the exchange rate used throughout the schedule.
+
+The schedule contains three sets of column headings, each corresponding to a different type of tax owner: controlled foreign partnership, controlled foreign corporation, and U.S. tax owner. The filer must check the box that identifies the status of the tax owner and complete the applicable lines with respect to the set of column headings.
+
+The lines on the schedule represent different types of transactions, such as sales of inventory, sales of property rights, compensation received for certain services, commissions received, rents, royalties, and license fees received, dividends/distributions received, interest received, loan guarantee fees received, and others. The filer must enter the totals for each type of transaction that occurred during the annual accounting period between the FDE or FB and the persons listed in the applicable columns.
+
+Similarly, the schedule includes lines for purchases of inventory, purchases of tangible property other than inventory, purchases of property rights, compensation paid for certain services, commissions paid, rents, royalties, and license fees paid, interest paid, loan guarantee fees paid, amounts borrowed, and amounts loaned.
+
+The filer must complete a separate Schedule M for each FDE or FB and ensure that all amounts are stated in U.S. dollars translated from the functional currency at the appropriate exchange rate for the FDEs or FBs tax year.
+
+The document also provides a reference to the IRS website for instructions and the latest information regarding Form 8858.
+
+Overall, Schedule M (Form 8858) is a tool used by tax filers to report transactions between a foreign disregarded entity or foreign branch and the filer or other related entities for tax purposes.

@@ -1,0 +1,15 @@
+Schedule F (Form 1040) is a tax form used by individuals in the United States to report their profit or loss from farming activities. It is attached to Form 1040, Form 1040-SR, Form 1040-NR, Form 1041, or Form 1065. The form requires the taxpayer to provide information such as their name, social security number, principal crop or activity, accounting method (cash or accrual), employer ID number (EIN), and whether they materially participated in the farming business.
+
+The form also asks whether the taxpayer made any payments in the year that would require them to file Form(s) 1099, and if so, whether they have filed or will file the required forms.
+
+The form is divided into three parts: Part I for reporting farm income using the cash method, Part II for reporting farm expenses using both the cash and accrual methods, and Part III for reporting farm income using the accrual method. The taxpayer is instructed to only complete the parts applicable to their accounting method.
+
+Part I requires the taxpayer to report sales of purchased livestock and other resale items, sales of livestock, produce, grains, and other products they raised, cooperative distributions, agricultural program payments, Commodity Credit Corporation (CCC) loans, crop insurance proceeds, federal crop disaster payments, custom hire income, and other income.
+
+Part II requires the taxpayer to report various farm expenses such as car and truck expenses, chemicals, conservation expenses, custom hire expenses, depreciation and section 179 expense, employee benefit programs, feed, fertilizers and lime, freight and trucking, gasoline, fuel, and oil, insurance, interest, labor hired, pension and profit-sharing plans, rent or lease, repairs and maintenance, seeds and plants, storage and warehousing, supplies, taxes, utilities, and veterinary, breeding, and medicine expenses.
+
+Part III is specifically for taxpayers using the accrual method and requires them to report sales of livestock, produce, grains, and other products, cooperative distributions, agricultural program payments, CCC loans, crop insurance proceeds, custom hire income, and other income. It also requires the taxpayer to report the inventory of livestock, produce, grains, and other products at the beginning and end of the year, as well as the cost of livestock, produce, grains, and other products purchased and sold during the year.
+
+The form also includes a section for selecting the principal agricultural activity code that best identifies the taxpayer's primary farming activity.
+
+Overall, Schedule F (Form 1040) is a detailed form that allows individuals engaged in farming activities to report their income and expenses accurately for tax purposes.

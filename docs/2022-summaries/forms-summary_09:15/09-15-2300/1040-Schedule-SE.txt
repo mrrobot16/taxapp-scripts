@@ -1,0 +1,13 @@
+Schedule SE (Form 1040) is a document used to calculate self-employment tax for individuals who have self-employment income. The form is to be attached to Form 1040, 1040-SR, or 1040-NR. 
+
+The form is divided into two parts. Part I is for calculating self-employment tax, and Part II provides optional methods for figuring net earnings. 
+
+In Part I, individuals are required to enter their self-employment income from various sources, such as farming (Schedule F) and non-farming (Schedule C). They also need to calculate the total self-employment income and multiply it by 92.35% to determine the amount subject to self-employment tax. 
+
+Additionally, individuals who have church employee income need to report it separately and multiply it by 92.35% to calculate the amount subject to self-employment tax. 
+
+The form also provides instructions for calculating the maximum amount of combined wages and self-employment earnings subject to social security tax. 
+
+Finally, Part II of the form offers optional methods for calculating net earnings based on specific criteria related to farming and non-farming income. 
+
+Overall, Schedule SE is a detailed form that helps individuals accurately calculate their self-employment tax obligations.

@@ -1,0 +1,15 @@
+Form 8582-CR is a document provided by the Internal Revenue Service (IRS) for taxpayers to report and calculate passive activity credits and limitations. It is used as an attachment to Form 1040, 1040-SR, or 1041. The form consists of several parts.
+
+Part I of the form is for reporting credits from rental real estate activities with active participation, rehabilitation credits from rental real estate activities, low-income housing credits for property placed in service before 1990, and all other passive activity credits. It includes columns for reporting credits from worksheets, prior year unallowed credits, and the total of these credits.
+
+Part II is for calculating the special allowance for rental real estate activities with active participation. It involves determining the smaller amount between the total credits reported in Part I and the tax attributable to net passive income.
+
+Part III is for calculating the special allowance for rehabilitation credits from rental real estate activities and low-income housing credits for property placed in service before 1990. Similar to Part II, it involves determining the smaller amount between the total credits reported in Part I and the tax attributable to the credits.
+
+Part IV is for calculating the special allowance for low-income housing credits for property placed in service after 1989. Again, it involves determining the smaller amount between the total credits reported in Part I and the tax attributable to the remaining special allowance.
+
+Part V is for reporting the total passive activity credit allowed. This is the sum of the credits calculated in Parts II, III, and IV.
+
+Part VI is an optional section for taxpayers who disposed of their entire interest in a passive activity and elect to increase their basis in credit property used in that activity by the unallowed credit that reduced their basis in the property. This section requires providing details about the passive activity disposed of, the credit property, and the amount of the unallowed credit.
+
+Overall, Form 8582-CR is used to report and calculate passive activity credits and limitations for tax purposes.

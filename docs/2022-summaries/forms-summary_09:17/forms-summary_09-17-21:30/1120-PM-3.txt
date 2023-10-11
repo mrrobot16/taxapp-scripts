@@ -1,0 +1,11 @@
+Schedule M-3 (Form 1120-PC) is a form used by U.S. property and casualty insurance companies with total assets of $10 million or more to reconcile their net income (loss) per their income statement with their taxable income per their tax return. The form consists of three parts.
+
+Part I requires the corporation to provide financial information and reconcile its net income (loss) per its income statement. The corporation must indicate whether it filed SEC Form 10-K for its income statement period and whether it prepared a certified audited non-tax-basis income statement. The corporation also needs to provide information about its income statement period, restatements, publicly traded common stock, and net income (loss) from various entities.
+
+Part II is the reconciliation of net income (loss) per the income statement of includible corporations with taxable income per the tax return. The corporation needs to provide income (loss) items and their temporary and permanent differences, including income (loss) from equity method foreign corporations, subpart F, QEF, and similar income inclusions, U.S. dividends, income (loss) from partnerships and pass-through entities, and more.
+
+Part III is the reconciliation of net income (loss) per the income statement of includible corporations with taxable income per the tax return for expense/deduction items. The corporation needs to provide expense items and their temporary and permanent differences, including income tax expenses, stock option expenses, meals and entertainment expenses, pension and profit-sharing expenses, depreciation, interest expenses, research and development costs, and more.
+
+The form requires the corporation to attach statements for certain items and reconcile the total income (loss) items and total expense/deduction items. The totals from Part II and Part III must match the amounts reported on other tax forms.
+
+The form includes instructions and can be found on the IRS website.

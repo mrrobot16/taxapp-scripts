@@ -1,0 +1,13 @@
+Form 1065-X is a document used by partnerships and certain other entities to file an amended return or request an administrative adjustment. The form is used by filers of Forms 1065, 1065-B, and 1066. The document includes various sections and boxes that need to be filled out depending on the specific circumstances of the partnership.
+
+Part I of the form asks for basic information such as the name, employer identification number, and address of the partnership. It also asks for the number of Schedules K-1 or Schedules Q being filed with the return.
+
+Part II of the form is for partnerships filing Form 1065 only and includes items related to income, deductions, credits, and other information.
+
+Part III of the form is for electing large partnerships (ELPs) and real estate mortgage investment conduits (REMICs) and includes items specific to these types of entities.
+
+Part IV of the form is for calculating the imputed underpayment under the centralized partnership audit regime.
+
+Part V is for providing explanations for any changes made on the amended return or administrative adjustment request.
+
+The form includes instructions and additional information can be found on the IRS website.

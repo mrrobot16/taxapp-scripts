@@ -1,0 +1,90 @@
+Form   W-14
+(August 2016)
+Department of the Treasury  
+Internal Revenue Service 
+Certificate of Foreign Contracting Party 
+Receiving Federal Procurement Payments
+ 
+▶ Information about Form W-14 and its separate instructions is at www.irs.gov/w14. 
+▶ Give this form to the acquiring agency. Do not send to the IRS.
+OMB No. 1545-2263
+Part I 
+Identification of Foreign Contracting Party and Acquiring Agency 
+1      Name of foreign contracting party 
+2    Country of incorporation or organization, if applicable 
+(do not abbreviate the name of the country)
+3      Permanent residence address (street, apt. or suite no., or rural route). Do not use a P.O. box or in-care-of address. 
+City or town, state or province. Include postal code where appropriate. 
+Country (do not abbreviate)
+4      Mailing address (if different from above) 
+City or town, state or province. Include postal code where appropriate. 
+Country (do not abbreviate)
+5
+U.S. taxpayer identification number (TIN), if any
+6    Contract/reference number (if known)
+7      Name and address of the acquiring agency 
+Country (do not abbreviate)
+City or town, state or province. Include postal code where appropriate. 
+Part II 
+Exemption Based on an International Agreement (if applicable)
+8
+Check this box if claiming relief from the tax under section 5000C pursuant to an international agreement with the United 
+States (such as a qualified income tax treaty). Also complete Part IV.
+Part III 
+Exemption Based on an International Procurement Agreement 
+or Because Goods/Services Produced/Performed in the United States
+9
+Check this box if identifying specific exempt and nonexempt 
+amounts (for example, by contract line item number). Skip lines 10 
+through 14 and complete Part IV, line 15.
+10    Total contract price or estimated total contract price
+11    Nonexempt amount or estimated nonexempt amount
+12    Contract ratio (line 11 divided by line 10)
+Part IV
+Explanation (Complete if Part II or Part III is applicable)
+13    If you checked the box in Part II, state the name of the agreement and specific provision relied upon (for example, the nondiscrimination article 
+of a qualified income tax treaty); and the basis on which you are entitled to the benefits of that provision (for example, because you are a corporation 
+organized in a foreign country with which the United States has a qualified income tax treaty that covers all nationals). (Use additional sheets as 
+necessary.)
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 67553M 
+Form  W-14  (8-2016)
+Form W-14 (8-2016)
+Page 2 
+Part IV
+Explanation (Complete if Part II or Part III is applicable) (continued)
+14    If you completed Part III, but did not check the box on line 9, state the relevant countries where the goods are manufactured or produced or 
+services are provided and the international procurement agreements relied upon, if relevant. If applicable, explain the method relied upon to allocate 
+the total contract price between exempt and nonexempt amounts. (Use additional sheets as necessary.)
+15    If you checked the box on line 9, provide an explanation for each item by stating the relevant countries where the goods are manufactured or 
+produced or services are provided and the international procurement agreements relied upon, if relevant. If applicable, explain the method relied 
+upon to allocate the total contract price between exempt and nonexempt amounts. For example, you may attach a spreadsheet listing the various 
+contract line items with an explanation for the treatment of each line item as exempt or nonexempt. If the contract includes details necessary to 
+complete this section (such as exempt or nonexempt amounts by contract line item), you may incorporate by reference the relevant information in the 
+explanation. (Use additional sheets as necessary.)
+Part V
+Certificate
+Under penalties of perjury, I declare that I have examined the information on this certificate (and in the contract, if relevant) and to the best of my knowledge and belief it is 
+true, correct, and complete. I further certify under penalties of perjury that:
+1
+I am the foreign person (or am authorized to sign on behalf of the foreign person) identified in line 1 above,
+2
+I am not acting as an agent or nominee for another foreign person,
+3
+I agree to pay an amount equal to any tax due under section 5000C that the acquiring agency does not withhold under section 5000C and pay any applicable 
+penalties and interest,
+4
+I acknowledge and understand the rules in Regulations section 1.5000C-4 relating to procedural obligations under section 5000C, and
+5
+I have not engaged in any transaction (or series of transactions) with a principal purpose of avoiding the tax imposed under section 5000C as defined in 
+Regulations section 1.5000C-5.
+Sign 
+Here
+▲
+Signature of Foreign Person (or Authorized Representative)
+Date
+/ 
+/ 
+▲
+Capacity to Act
+Form  W-14  (8-2016)

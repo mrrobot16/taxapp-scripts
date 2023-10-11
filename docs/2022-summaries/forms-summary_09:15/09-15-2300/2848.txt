@@ -1,0 +1,17 @@
+Form 2848 is a document used for appointing a representative to act on behalf of a taxpayer before the Internal Revenue Service (IRS). The form must be completed separately for each taxpayer and will only be honored for representation purposes. 
+
+The form requires the taxpayer's information, including name, address, taxpayer identification number, and daytime telephone number. The taxpayer must sign and date the form on page 2, line 7. 
+
+The form also requires the representative's information, including name, address, telephone number, and fax number. The representative must sign and date the form on page 2, Part II. 
+
+The form authorizes the representative to perform certain acts on behalf of the taxpayer, such as receiving and inspecting confidential tax information and signing agreements or consents. The specific acts authorized must be listed on line 3 of the form. 
+
+Additional acts can be authorized on line 5, such as accessing IRS records via an Intermediate Service Provider or authorizing disclosure to third parties. However, there are specific acts that are not authorized, such as negotiating checks issued by the government for federal tax liabilities. 
+
+The filing of this power of attorney automatically revokes any earlier powers of attorney on file with the IRS for the same matters and years or periods covered by this form. If a prior power of attorney is not intended to be revoked, it must be indicated on the form, and a copy of the prior power of attorney must be attached. 
+
+The taxpayer must sign and date the declaration and signature section of the form, certifying their legal authority to execute the form. If the taxpayer is not an individual, the person signing on behalf of the taxpayer must have the legal authority to do so. 
+
+The representative must also sign and date the declaration of representative section of the form, declaring that they are authorized to represent the taxpayer and are subject to regulations governing practice before the IRS. The representative must indicate their designation, such as attorney, certified public accountant, enrolled agent, officer, full-time employee, family member, enrolled actuary, unenrolled return preparer, qualifying student or law graduate, or enrolled retirement plan agent. 
+
+If the declaration of representative section is not completed, signed, and dated, the IRS will return the power of attorney. The representatives must sign in the order listed on the form.

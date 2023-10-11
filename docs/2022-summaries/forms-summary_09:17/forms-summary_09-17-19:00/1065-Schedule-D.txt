@@ -1,0 +1,13 @@
+Schedule D (Form 1065) is a document provided by the Internal Revenue Service (IRS) for reporting capital gains and losses for partnerships. It is to be attached to Form 1065 or Form 8865. 
+
+The form instructs taxpayers to use Form 8949 to list their transactions for certain lines on Schedule D. It provides a website, www.irs.gov/Form1065, for accessing instructions and the latest information.
+
+The form includes a question asking if the partnership disposed of any investments in a qualified opportunity fund during the tax year. If the answer is yes, taxpayers are instructed to attach Form 8949 and follow its instructions for reporting the gain or loss.
+
+The form is divided into two parts: Part I for short-term capital gains and losses (assets held for one year or less) and Part II for long-term capital gains and losses (assets held for more than one year).
+
+Each part provides lines for reporting the proceeds (sales price), cost (or other basis), adjustments to gain or loss from Form 8949, and the resulting gain or loss. There are also separate lines for reporting totals for transactions reported on Form 1099-B, Form 8949 with specific boxes checked, installment sales, like-kind exchanges, partnerships' share of net gains or losses from other partnerships, and capital gain distributions.
+
+Taxpayers are instructed to calculate the net short-term and long-term capital gains or losses by combining the relevant lines and enter them on Form 1065, Schedule K, or Form 8865, Schedule K.
+
+The form includes a Paperwork Reduction Act Notice, and it is identified with the OMB number 1545-0123.

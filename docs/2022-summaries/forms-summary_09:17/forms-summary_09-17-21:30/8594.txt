@@ -1,0 +1,13 @@
+Form 8594 is an asset acquisition statement that must be attached to an income tax return. It is used to report the details of a business asset acquisition under Section 1060 of the Internal Revenue Code. 
+
+The form consists of three parts. 
+
+Part I requires general information about the transaction, including the name and identifying number of the other party involved in the transaction, the date of the sale, and the total sales price. 
+
+Part II is the original statement of assets transferred. It requires the allocation of the sales price to different asset classes (Class I, Class II, Class III, etc.) and the aggregate fair market value of each class. 
+
+Part III is a supplemental statement that is completed only if there is an increase or decrease in consideration from the original statement. It requires the re-determined allocation of the sales price and the reason(s) for the change.
+
+The form also includes checkboxes to indicate whether the purchaser and seller provided for an allocation of the sales price in the sales contract or another written document, and whether the purchaser also purchased a license or a covenant not to compete, or entered into other agreements with the seller.
+
+The form provides space for additional information and instructions can be found on the IRS website.

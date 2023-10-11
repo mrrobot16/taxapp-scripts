@@ -1,0 +1,201 @@
+Form  W-8BEN
+(Rev. October  2021)
+Department of the Treasury  
+Internal Revenue Service 
+Certificate of Foreign Status of Beneficial Owner for United     
+States Tax Withholding and Reporting (Individuals)
+▶ For use by individuals. Entities must use Form W-8BEN-E. 
+▶ Go to www.irs.gov/FormW8BEN for instructions and the latest information. 
+▶ Give this form to the withholding agent or payer. Do not send to the IRS.
+OMB No. 1545-1621
+Do NOT use this form if: 
+Instead, use Form: 
+• You are NOT an individual .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  W-8BEN-E 
+• You are a U.S. citizen or other U.S. person, including a resident alien individual 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.   W-9
+• You are a beneficial owner claiming that income is effectively connected with the conduct of trade or business within the United States                        
+(other than personal services) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. W-8ECI
+• You are a beneficial owner who is receiving compensation for personal services performed in the United States .
+.
+.
+.
+.
+.
+.
+ 8233 or W-4 
+• You are a person acting as an intermediary .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  W-8IMY 
+Note: If you are resident in a FATCA partner jurisdiction (that is, a Model 1 IGA jurisdiction with reciprocity), certain tax account information may be 
+provided to your jurisdiction of residence.
+Part I 
+Identification of Beneficial Owner (see instructions) 
+1      Name of individual who is the beneficial owner 
+2    Country of citizenship
+3      Permanent residence address (street, apt. or suite no., or rural route). Do not use a P.O. box or in-care-of address. 
+City or town, state or province. Include postal code where appropriate. 
+Country
+4      Mailing address (if different from above) 
+City or town, state or province. Include postal code where appropriate. 
+Country
+5
+U.S. taxpayer identification number (SSN or ITIN), if required (see instructions)
+6a      Foreign tax identifying number (see instructions) 
+6b Check if FTIN not legally required .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+7      Reference number(s) (see instructions) 
+8    Date of birth (MM-DD-YYYY) (see instructions)
+Part II 
+Claim of Tax Treaty Benefits (for chapter 3 purposes only) (see instructions) 
+9
+I certify that the beneficial owner is a resident of
+within the meaning of the income tax  
+treaty between the United States and that country. 
+10
+Special rates and conditions (if applicable—see instructions): The beneficial owner is claiming the provisions of Article and paragraph
+of the treaty identified on line 9 above to claim a 
+% rate of withholding on (specify type of income): 
+.
+Explain the additional conditions in the Article and paragraph the beneficial owner meets to be eligible for the rate of withholding: 
+Part III 
+Certification 
+Under penalties of perjury, I declare that I have examined the information on this form and to the best of my knowledge and belief it is true, correct, and complete. I further certify under penalties of perjury that:
+•  I am the individual that is the beneficial owner (or am authorized to sign for the individual that is the beneficial owner) of all the income or proceeds to which this form 
+relates or am using this form to document myself for chapter 4 purposes;
+•  The person named on line 1 of this form is not a U.S. person;
+•  This form relates to:
+(a) income not effectively connected with the conduct of a trade or business in the United States;
+(b) income effectively connected with the conduct of a trade or business in the United States but is not subject to tax under an applicable income tax treaty;
+(c) the partner’s share of a partnership’s effectively connected taxable income; or
+(d) the partner’s amount realized from the transfer of a partnership interest subject to withholding under section 1446(f);   
+•  The person named on line 1 of this form is a resident of the treaty country listed on line 9 of the form (if any) within the meaning of the income tax treaty between the United States and that country; and
+•  For broker transactions or barter exchanges, the beneficial owner is an exempt foreign person as defined in the instructions.
+Furthermore, I authorize this form to be provided to any withholding agent that has control, receipt, or custody of the income of which I am the beneficial owner or any withholding agent that can 
+disburse or make payments of the income of which I am the beneficial owner. I agree that I will submit a new form within 30 days if any certification made on this form becomes incorrect.
+Sign Here 
+▲
+I certify that I have the capacity to sign for the person identified on line 1 of this form.
+Signature of beneficial owner (or individual authorized to sign for beneficial owner)
+Date (MM-DD-YYYY) 
+Print name of signer
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 25047Z 
+Form W-8BEN (Rev. 10-2021)
+SIGN

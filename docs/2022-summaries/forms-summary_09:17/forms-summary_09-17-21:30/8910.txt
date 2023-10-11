@@ -1,0 +1,13 @@
+Form 8910 is a document issued by the Internal Revenue Service (IRS) of the Department of the Treasury. It is used to claim the credit for certain alternative motor vehicles. The form is to be attached to the taxpayer's tax return.
+
+The form consists of three parts: Part I, Part II, and Part III.
+
+In Part I, the taxpayer provides information about the vehicles for which they are claiming the credit. This includes the year, make, and model of the vehicle, as well as the vehicle identification number and the date it was placed in service. The taxpayer also calculates the tentative credit for each vehicle.
+
+In Part II, the taxpayer calculates the credit for the business or investment use part of the vehicle. They determine the business/investment use percentage and multiply it by the tentative credit. They then add any alternative motor vehicle credit received from partnerships and S corporations. The total is the business/investment use part of the credit.
+
+In Part III, the taxpayer calculates the credit for the personal use part of the vehicle. If they did not complete Part II, they enter the amount from line 4 of Part I. Otherwise, they subtract the amount from line 6 of Part II from the amount on line 4 of Part I. They then add any personal credits from Form 1040, 1040-SR, or 1040-NR and subtract it from the amount on line 12. The result is the personal use part of the credit.
+
+The taxpayer is instructed to report the business/investment use part of the credit on Schedule K if they are a partnership or S corporation. Otherwise, they report it on Form 3800, Part III, line 1r. The personal use part of the credit is to be reported on Schedule 3 (Form 1040), line 6e.
+
+The form also provides a website for instructions and the latest information, as well as a reference to the Paperwork Reduction Act Notice.

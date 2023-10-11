@@ -1,0 +1,13 @@
+Schedule L is a form that must be completed by organizations that have answered "Yes" to certain questions on Form 990 or Form 990-EZ. It is used to report transactions with interested persons, excess benefit transactions, loans to and/or from interested persons, grants or assistance benefiting interested persons, and business transactions involving interested persons.
+
+Part I of Schedule L is for organizations that have answered "Yes" to questions on excess benefit transactions. It requires the organization to provide information about disqualified persons, their relationship with the organization, a description of the transaction, and whether it has been corrected. Additionally, the organization must enter the amount of tax incurred by organization managers or disqualified persons under section 4958 and any tax reimbursed by the organization.
+
+Part II is for organizations that have answered "Yes" to questions on loans to and/or from interested persons. It requires the organization to provide information about the interested person, their relationship with the organization, the purpose of the loan, whether it was to or from the organization, the original principal amount, the balance due, whether it is in default, and whether it was approved by the board or committee. 
+
+Part III is for organizations that have answered "Yes" to questions on grants or assistance benefiting interested persons. It requires the organization to provide information about the interested person, their relationship with the organization, the amount of assistance, the type of assistance, and the purpose of assistance.
+
+Part IV is for organizations that have answered "Yes" to questions on business transactions involving interested persons. It requires the organization to provide information about the interested person, their relationship with the organization, the amount of the transaction, a description of the transaction, and whether there is a sharing of organization revenues.
+
+Lastly, Part V is for providing supplemental information related to the responses given on Schedule L.
+
+Overall, Schedule L is a detailed form that helps organizations report and provide information about various transactions with interested persons.

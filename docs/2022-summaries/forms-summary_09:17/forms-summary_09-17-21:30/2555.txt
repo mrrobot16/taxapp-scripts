@@ -1,0 +1,15 @@
+Form 2555 is a document issued by the Internal Revenue Service (IRS) in the United States. It is used by U.S. citizens and resident aliens to report their foreign earned income when filing their Form 1040 or 1040-SR. The form requires the taxpayer to provide general information such as their foreign address, occupation, and employer details. It also asks about previous filings of Form 2555, citizenship, and the maintenance of a separate foreign residence. 
+
+The form provides two parts for taxpayers to complete based on their qualification under either the Bona Fide Residence Test or the Physical Presence Test. Part II is for taxpayers qualifying under the Bona Fide Residence Test, and it asks for details such as the start and end dates of the taxpayer's bona fide residence, living quarters in the foreign country, and presence of family members. Part III is for taxpayers qualifying under the Physical Presence Test, and it requires information about the 12-month period of physical presence in a foreign country and the principal country of employment.
+
+Part IV of the form is for all taxpayers and requires the reporting of all foreign earned income, including wages, salaries, bonuses, commissions, and noncash income. The amounts should be reported in U.S. dollars using the exchange rates at the time of receiving the income. Cash basis taxpayers should report all income received in 2022, regardless of when the service was performed.
+
+Part V provides an option for taxpayers to claim the housing exclusion or housing deduction. If claiming the housing exclusion, taxpayers need to complete Part VI, which requires information about qualified housing expenses and the location where the expenses were incurred. If claiming the foreign earned income exclusion, taxpayers need to complete Part VII, which calculates the maximum foreign earned income exclusion based on the number of qualifying days. 
+
+Part VIII is completed by taxpayers claiming either the housing exclusion, foreign earned income exclusion, or both. It calculates the total exclusion amount by adding the amounts from Part VI and Part VII.
+
+Part IX is only completed if the taxpayer is claiming the housing deduction and meets certain criteria. It calculates the housing deduction by subtracting the foreign earned income exclusion from the total foreign earned income and deducting any carryover from the previous year.
+
+The completed amounts from Part V, Part VIII, and Part IX are then used to report on Schedule 1 (Form 1040) for further tax calculations.
+
+It's important for taxpayers to follow the instructions provided with Form 2555 and consult with a tax professional if needed to ensure accurate reporting of foreign earned income and eligibility for exclusions or deductions.

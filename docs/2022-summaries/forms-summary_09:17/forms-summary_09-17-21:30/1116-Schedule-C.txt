@@ -1,0 +1,15 @@
+The document is a Schedule C form (Form 1116) for reporting foreign tax redeterminations to the Internal Revenue Service (IRS) in the United States. The form is used to report changes in the amount of foreign taxes accrued or paid, as well as changes in the taxpayer's U.S. tax liability and foreign tax credits.
+
+The form is divided into several parts:
+
+Part I: Increase in Amount of Foreign Taxes Accrued - This section is used to report additional foreign taxes accrued by payors in relation to specific tax years. It includes fields for the taxpayer's U.S. tax year, payor information, country or U.S. possession where the tax is paid, additional tax accrued in local and functional currencies, conversion rate to U.S. dollars, and the revised tax accrued.
+
+Part II: Decrease in Amount of Foreign Taxes Paid or Accrued - This section is used to report refunds or deemed refunds of foreign taxes previously paid or accrued. It includes fields similar to Part I, but for refunded amounts.
+
+Part III: Change in Foreign Taxes Paid or Accrued - This section is used to report the change in the total amount of foreign taxes paid or accrued and the foreign tax credits claimed for each relation back year.
+
+Part IV: Change in U.S. Tax Liability - This section is used to report the change in U.S. tax liability for each relation back year and other affected years.
+
+Part V: Annual Reporting for Contested Taxes - This section is not applicable for tax year 2022, but starting from the 2023 tax year, it will be used to report contested foreign tax liabilities for which the taxpayer has made an election to claim a provisional foreign tax credit.
+
+The form includes instructions and references to additional resources on the IRS website for further guidance.

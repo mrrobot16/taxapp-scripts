@@ -1,0 +1,17 @@
+Schedule R is a form used by tax-exempt organizations in the United States to report information about related organizations and partnerships. The form is attached to Form 990 and is completed if the organization answered "Yes" to certain questions on Form 990.
+
+Part I of Schedule R is used to identify disregarded entities, which are entities that are disregarded for tax purposes. The organization provides the name, address, and Employer Identification Number (EIN) of each disregarded entity, as well as its primary activity, legal domicile, total income, end-of-year assets, and direct controlling entity.
+
+Part II is used to identify related tax-exempt organizations. The organization provides the name, address, and EIN of each related organization, as well as its primary activity, legal domicile, exempt Code section, public charity status (if applicable), and direct controlling entity. The organization also indicates whether each related organization is a Section 512(b)(13) controlled entity.
+
+Part III is used to identify related organizations treated as a partnership. The organization provides the name, address, and EIN of each related organization treated as a partnership, as well as its primary activity, legal domicile, direct controlling entity, predominant income (related, unrelated, excluded from tax), share of total income, share of end-of-year assets, whether there are disproportionate allocations, the Code VUBI amount in box 20 of Schedule K-1 (Form 1065), and whether the organization is a general or managing partner.
+
+Part IV is used to identify related organizations treated as a corporation or trust. The organization provides the name, address, and EIN of each related organization treated as a corporation or trust, as well as its primary activity, legal domicile, direct controlling entity, type of entity (C corp, S corp, or trust), share of total income, share of end-of-year assets, percentage ownership, and whether it is a Section 512(b)(13) controlled entity.
+
+Part V is used to report transactions with related organizations. The organization indicates whether it engaged in various types of transactions with related organizations, such as receipt of interest, annuities, royalties, rent, gifts, grants, loans, dividends, sale or purchase of assets, lease of facilities or equipment, performance of services or fundraising solicitations, sharing of assets or employees, and reimbursement of expenses. For each transaction, the organization provides the name of the related organization, transaction type, amount involved, and method of determining the amount.
+
+Part VI is used to report information about unrelated organizations taxed as a partnership. The organization provides the name, address, and EIN of each entity taxed as a partnership through which the organization conducted more than five percent of its activities. The organization also provides information about the entity's primary activity, legal domicile, predominant income, whether all partners are section 501(c)(3) organizations, share of total income, share of end-of-year assets, whether there are disproportionate allocations, the Code VUBI amount in box 20 of Schedule K-1 (Form 1065), whether the organization is a general or managing partner, and the percentage ownership.
+
+Part VII is used to provide supplemental information for responses to questions on Schedule R.
+
+The form includes instructions and is available on the IRS website.

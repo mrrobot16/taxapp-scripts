@@ -1,0 +1,15 @@
+Schedule 1 (Form 8936-A) is a document provided by the Internal Revenue Service (IRS) for taxpayers to calculate the Qualified Commercial Clean Vehicle Credit Amount. Taxpayers need to attach this schedule to their tax return.
+
+The schedule includes several sections for taxpayers to provide information about the vehicle, such as the year, make, model, vehicle identification number (VIN), and the date the vehicle was placed in service.
+
+The taxpayer must answer a series of yes or no questions to determine if they are eligible to claim the credit. These questions include whether the vehicle was acquired after 2022, whether it was acquired for use or lease to others (not for resale), whether it is of a character subject to depreciation, whether it is primarily used outside the United States, and whether it is also powered by gas or diesel.
+
+The taxpayer is then required to enter the cost or other basis of the vehicle and any Section 179 expense deduction. The difference between these two amounts is calculated on line 7.
+
+Depending on the answer to question 4e, the taxpayer multiplies line 7 by either 15% or 30% to determine the credit amount on line 8.
+
+The taxpayer is also required to enter the incremental cost of the vehicle on line 9 and compare it to line 8. The smaller amount is entered on line 10.
+
+The maximum credit amount is determined based on the gross vehicle weight rating (GVWR) of the vehicle, with $7,500 being the maximum credit for vehicles with a GVWR less than 14,000 pounds, and $40,000 being the maximum credit for vehicles with a GVWR of 14,000 pounds or more. The smaller amount between line 10 and line 11 is entered on line 12, which is then included on line 1 of Form 8936-A.
+
+Taxpayers should refer to the instructions provided on the IRS website (www.irs.gov/Form8936A) for more detailed information and guidance on completing Schedule 1 (Form 8936-A).

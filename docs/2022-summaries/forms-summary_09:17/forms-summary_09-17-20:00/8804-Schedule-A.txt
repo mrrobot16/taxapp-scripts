@@ -1,0 +1,734 @@
+Schedule A  
+(Form 8804)
+Department of the Treasury 
+Internal Revenue Service
+Penalty for Underpayment of Estimated  
+Section 1446 Tax by Partnerships
+Attach to Form 8804. 
+Go to www.irs.gov/Form8804 for instructions and the latest information. 
+OMB No. 1545-0123
+2022
+Name
+Employer identification number
+Note: Generally, the partnership isn’t required to file this Schedule A (see Part I below for exceptions) because the IRS will figure any penalty 
+owed and bill the partnership. However, the partnership may still use this Schedule A to figure the penalty. If so, enter the amount from line 65 
+of this Schedule A on line 8 of Form 8804, but don’t attach this Schedule A.
+Part I
+Reasons for Filing—Check the boxes below that apply. If any boxes are checked, the partnership must file 
+Schedule A (Form 8804) even if it doesn’t owe a penalty. See instructions.
+The partnership is using the adjusted seasonal installment method.
+The partnership is using the annualized income installment method.
+Part II
+Current Year and Prior Year Safe Harbors
+1 
+ 
+Enter the total section 1446 tax shown on the partnership’s 2022 Form 8804, line 5f. If less than $500, 
+don’t complete or file this form. The partnership doesn’t owe the penalty .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2 
+ 
+ 
+Enter the total section 1446 tax that would have been due for 2021, without regard to reductions for 
+certified foreign partner-level items, on the effectively connected taxable income (ECTI) allocable to 
+foreign partners for 2021. 
+Caution: This line 2 amount only applies if certain conditions are met. See instructions .
+.
+.
+.
+.
+.
+2
+3 
+ 
+Enter the smaller of line 1 or line 2. If the partnership is required to skip line 2, enter the amount from 
+line 1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Part III
+Figuring the Underpayment
+(a)
+(b)
+(c)
+(d)
+4 
+  
+ 
+Installment due dates. Enter in columns (a) through (d) 
+the 15th day of the 4th, 6th, 9th, and 12th months of the 
+partnership’s tax year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5 
+  
+  
+  
+ 
+Required installments. If the partnership uses the 
+adjusted 
+seasonal 
+installment 
+method 
+and/or 
+the 
+annualized income installment method, enter the amounts 
+from line 43. If neither of those methods is used, enter 
+25% (0.25) of line 3 above in each column .
+.
+.
+.
+.
+5
+6 
+  
+ 
+Estimated section 1446 tax paid or credited for each 
+period. See instructions. For column (a) only, enter the 
+amount from line 6 on line 10 .
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Complete lines 7 through 13 of one column before 
+going to the next column.
+7
+Enter amount, if any, from line 13 of the preceding column
+7
+8
+Add lines 6 and 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Add amounts on lines 11 and 12 of the preceding column
+9
+10
+Subtract line 9 from line 8. If zero or less, enter -0- .
+.
+10
+11 
+ 
+If the amount on line 10 is zero, subtract line 8 from line 9. 
+Otherwise, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12 
+  
+ 
+Underpayment. If line 10 is less than or equal to line 5, 
+subtract line 10 from line 5. Then, go to line 7 of the next 
+column. Otherwise, go to line 13 .
+.
+.
+.
+.
+.
+.
+.
+12
+13 
+ 
+Overpayment. If line 5 is less than line 10, subtract line 5 
+from line 10. Then, go to line 7 of the next column 
+.
+.
+13
+Go to Part VII on page 5 to figure the penalty. Don’t go to Part VII if there are no entries on line 12—no penalty is owed.
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 40853F
+Schedule A (Form 8804) 2022
+Schedule A (Form 8804) 2022
+Page 2
+Part IV
+Adjusted Seasonal Installment Method (Caution: Use this method only if the base period percentage for 
+any 6 consecutive months is at least 70%. See instructions.)
+Check this box if the partnership has elected to attach a schedule 
+that expands lines 15 and 22 through 25 to reflect Regulations 
+section 1.1446-3(a)(2). See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+(a)
+(b)
+(c)
+(d)
+First 3  
+months
+First 5  
+months
+First 8  
+months
+First 11 
+months
+14 
+Enter ECTI allocable to all foreign partners for the following periods:
+a
+Tax year beginning in 2019
+14a
+b
+Tax year beginning in 2020
+14b
+c
+Tax year beginning in 2021
+14c
+15 
+  
+ 
+Enter ECTI allocable to all foreign partners for each period for the 
+tax year beginning in 2022 (see instructions for the treatment of 
+extraordinary items).
+15
+First 4  
+months
+First 6  
+months
+First 9  
+months
+Entire year
+16
+Enter ECTI allocable to all foreign partners for the following periods:
+a
+Tax year beginning in 2019
+16a
+b
+Tax year beginning in 2020
+16b
+c
+Tax year beginning in 2021
+16c
+17 
+Divide the amount in each column on line 14a by the amount in 
+column (d) on line 16a.
+17
+18 
+Divide the amount in each column on line 14b by the amount in 
+column (d) on line 16b.
+18
+19 
+Divide the amount in each column on line 14c by the amount in 
+column (d) on line 16c.
+19
+20
+Add lines 17 through 19.
+20
+21
+Divide line 20 by 3.0.
+21
+22a
+Divide line 15 by line 21.
+22a
+b
+Extraordinary items. See instructions.
+22b
+c
+Combine lines 22a and 22b.
+22c
+23 
+ 
+Reduction to line 22c amount for state and local taxes under 
+Regulations section 1.1446-6(c)(1)(iii) and for certified foreign 
+partner-level items submitted using Form 8804-C. See instructions.
+23
+24
+Subtract line 23 from line 22c. If zero or less, enter -0-.
+24
+25a Multiply the ECTI on line 24 allocable to non-corporate partners by 
+37% (0.37).
+25a
+b Multiply the ECTI on line 24 allocable to corporate partners by 
+21% (0.21).
+25b
+c
+Combine lines 25a and 25b.
+25c
+26a Divide the amount in columns (a) through (c) on line 16a by the 
+amount in column (d) on line 16a.
+26a
+b 
+Divide the amount in columns (a) through (c) on line 16b by the 
+amount in column (d) on line 16b.
+26b
+c
+Divide the amount in columns (a) through (c) on line 16c by the 
+amount in column (d) on line 16c.
+26c
+27
+Add lines 26a through 26c.
+27
+28
+Divide line 27 by 3.0.
+28
+29 
+ 
+Multiply the amount in columns (a) through (c) of line 25c by 
+columns (a) through (c) of line 28. In column (d), enter the amount 
+from line 25c, column (d).
+29
+Schedule A (Form 8804) 2022
+Schedule A (Form 8804) 2022
+Page 3
+Part V
+Annualized Income Installment Method
+(                    ) (                    ) (                    ) (                    ) 
+(                    ) (                    ) (                    ) (                    ) 
+(                    ) (                    ) (                    ) (                    ) 
+(                    ) (                    ) (                    ) (                    ) 
+(                    ) (                    ) (                    ) (                    ) 
+(                    ) (                    ) (                    ) (                    ) 
+(                    ) (                    ) (                    ) (                    ) 
+(                    ) (                    ) (                    ) (                    ) 
+(                    ) (                    ) (                    ) (                    ) 
+(                    ) (                    ) (                    ) (                    ) 
+(a)
+(b)
+(c)
+(d)
+30
+Annualization periods. See instructions.
+30
+First 
+months
+First
+months
+First
+months
+First
+months
+31  
+ 
+Enter ECTI allocable to all foreign partners for each annualization 
+period (see instructions for the treatment of extraordinary items):
+a
+Total ECTI allocable to corporate partners.
+31a
+b 
+Total ECTI allocable to non-corporate partners other than on lines 
+31c, 31d, and 31e.
+31b
+c
+28% rate gain (non-corporate partners only).
+31c
+d
+Unrecaptured section 1250 gain (non-corporate partners only).
+31d
+e 
+ 
+Adjusted net capital gain (including qualified dividend income and 
+net section 1231 gain) (non-corporate partners only).
+31e
+32
+Annualization amounts. See instructions.
+32
+33  
+ 
+Annualized ECTI allocable to all foreign partners (see instructions 
+for the treatment of extraordinary items):
+a 
+ 
+Total ECTI allocable to corporate partners (multiply line 31a by line 
+32).
+33a
+b 
+ 
+Reduction to line 33a for state and local taxes under Regulations 
+section 1.1446-6(c)(1)(iii). See instructions.
+33b
+c 
+ 
+Reduction to line 33a for certified foreign partner-level items 
+submitted using Form 8804-C. See instructions.
+33c
+d
+Combine lines 33a, 33b, and 33c.
+33d
+e 
+ 
+Total ECTI allocable to non-corporate partners other than on lines 
+33i, 33m, and 33q (multiply line 31b by line 32).
+33e
+f 
+ 
+Reduction to line 33e for state and local taxes under Regulations 
+section 1.1446-6(c)(1)(iii). See instructions.
+33f
+g 
+ 
+Reduction to line 33e for certified foreign partner-level items 
+submitted using Form 8804-C. See instructions.
+33g
+h
+Combine lines 33e, 33f, and 33g.
+33h
+i 
+ 
+28% rate gain allocable to non-corporate partners (multiply line 
+31c by line 32).
+33i
+j 
+ 
+Reduction to line 33i for state and local taxes under Regulations 
+section 1.1446-6(c)(1)(iii). See instructions.
+33j
+k 
+ 
+Reduction to line 33i for certified foreign partner-level items 
+submitted using Form 8804-C. See instructions.
+33k
+l
+Combine lines 33i, 33j, and 33k.
+33l
+m 
+ 
+Unrecaptured section 1250 gain allocable to non-corporate partners 
+(multiply line 31d by line 32).
+33m
+n 
+ 
+Reduction to line 33m for state and local taxes under Regulations 
+section 1.1446-6(c)(1)(iii). See instructions.
+33n
+o 
+ 
+Reduction to line 33m for certified foreign partner-level items 
+submitted using Form 8804-C. See instructions.
+33o
+p
+Combine lines 33m, 33n, and 33o.
+33p
+q 
+  
+ 
+Adjusted net capital gain (including qualified dividend income and 
+net section 1231 gain) allocable to non-corporate partners 
+(multiply line 31e by line 32).
+33q
+r 
+ 
+Reduction to line 33q for state and local taxes under Regulations 
+section 1.1446-6(c)(1)(iii). See instructions.
+33r
+s 
+ 
+Reduction to line 33q for certified foreign partner-level items 
+submitted using Form 8804-C. See instructions.
+33s
+t
+Combine lines 33q, 33r, and 33s.
+33t
+34
+Figure the tax on line 33 amounts as follows:
+a
+Multiply line 33d by 21% (0.21).
+34a
+b
+Multiply line 33h by 37% (0.37).
+34b
+c
+Multiply line 33l by 28% (0.28).
+34c
+d
+Multiply line 33p by 25% (0.25).
+34d
+e
+Multiply line 33t by 20% (0.20).
+34e
+f
+Add lines 34a through 34e.
+34f
+Schedule A (Form 8804) 2022
+Schedule A (Form 8804) 2022
+Page 4
+Part V
+Annualized Income Installment Method (continued)
+(a)
+(b)
+(c)
+(d)
+35
+Applicable percentage.
+35
+25% (0.25)
+50% (0.50)
+75% (0.75)
+100% (1.00)
+36
+Multiply line 34f by line 35.
+36
+Part VI
+Required Installments
+Note: Complete lines 37 through 43 of one column before completing 
+the next column.
+1st  
+installment
+2nd  
+installment
+3rd  
+installment
+4th  
+installment
+37 
+ 
+If only Part IV or Part V is completed, enter the amount in each 
+column from line 29 or line 36. If both parts are completed, enter 
+the smaller of the amounts in each column from line 29 or line 36.
+37
+38
+Add the amounts in all preceding columns of line 43. See instructions.
+38
+39 
+Adjusted seasonal or annualized income installments. Subtract 
+line 38 from line 37. If zero or less, enter -0-.
+39
+40
+Enter 25% (0.25) of line 1 in each column. 
+40
+41 
+Subtract line 43 of the preceding column from line 42 of the preceding 
+column.
+41
+42
+Add lines 40 and 41.
+42
+43 
+Required installments. Enter the smaller of line 39 or line 42 here 
+and on line 5. See instructions.
+43
+Schedule A (Form 8804) 2022
+Schedule A (Form 8804) 2022
+Page 5
+Part VII
+Figuring the Penalty
+(a)
+(b)
+(c)
+(d)
+ 44 
+ 
+ 
+ 
+Enter the date of payment or the 15th day of the 3rd month after 
+the close of the tax year, whichever is earlier. See instructions. 
+Partnerships that keep their records and books of account 
+outside the United States and Puerto Rico: Use 6th month 
+instead of 3rd month.
+44
+45 Number of days from due date of installment on line 4 to the 
+date shown on line 44 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+45
+46
+Number of days on line 45 after 4/15/2022 and before 7/1/2022
+46
+47
+Underpayment on line 12  × Number of days on line 46
+365
+×  4% (0.04)
+47
+$
+$
+$
+$
+48
+Number of days on line 45 after 6/30/2022 and before 10/1/2022
+48
+49
+Underpayment on line 12  × Number of days on line 48
+365
+×  5% (0.05)
+49
+$
+$
+$
+$
+50
+Number of days on line 45 after 9/30/2022 and before 1/1/2023
+50
+51
+Underpayment on line 12  × Number of days on line 50
+365
+x  6% (0.06)
+51
+$
+$
+$
+$
+52
+Number of days on line 45 after 12/31/2022 and before 4/1/2023
+52
+53
+Underpayment on line 12  × Number of days on line 52
+365
+×  7% (0.07)
+53
+$
+$
+$
+$
+54
+Number of days on line 45 after 3/31/2023 and before 7/1/2023
+54
+55
+Underpayment on line 12  × Number of days on line 54
+365
+×  *%
+55
+$
+$
+$
+$
+56
+Number of days on line 45 after 6/30/2023 and before 10/1/2023
+56
+57
+Underpayment on line 12  × Number of days on line 56
+365
+×  *%
+57
+$
+$
+$
+$
+58
+Number of days on line 45 after 9/30/2023 and before 1/1/2024
+58
+59
+Underpayment on line 12  × Number of days on line 58
+365
+×  *%
+59
+$
+$
+$
+$
+60
+Number of days on line 45 after 12/31/2023 and before 4/1/2024
+60
+61
+Underpayment on line 12  × Number of days on line 60
+366
+×  *%
+61
+$
+$
+$
+$
+62
+Number of days on line 45 after 3/31/2024 and before 5/16/2024
+62
+63
+Underpayment on line 12  × Number of days on line 62
+366
+×  *%
+63
+$
+$
+$
+$
+64
+Add lines 47, 49, 51, 53, 55, 57, 59, 61, and 63 .
+.
+.
+.
+.
+64
+$
+$
+$
+$
+65
+Penalty. Add columns (a) through (d) of line 64. Enter the total here and on Form 8804, line 8 .
+.
+65
+$
+* Use the penalty interest rate for each calendar quarter, which the IRS will determine during the first month in the preceding quarter. These rates are 
+published quarterly in an IRS News Release and in a revenue ruling in the Internal Revenue Bulletin (IRB). Go to www.irs.gov/IRB for the IRBs. You can 
+subscribe to IRS Newswire to receive news releases of the quarterly interest rates, and IRS GuideWire to receive emails with a link to the revenue 
+rulings in which the quarterly interest rates are published by going to www.irs.gov/UAC/E-News-Subscriptions-2.
+Schedule A (Form 8804) 2022

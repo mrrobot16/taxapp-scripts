@@ -1,0 +1,675 @@
+Form   6069
+(Rev. December 2021)
+Department of the Treasury  
+Internal Revenue Service 
+Return of Certain Excise Taxes on Mine Operators, Black Lung 
+Trusts, and Other Persons Under Sections 4951, 4952, and 4953
+OMB No. 1545-0047
+NOT Open for 
+Public Inspection
+▶ Go to www.irs.gov/Form6069 for instructions and the latest information.
+A      For calendar year 
+or other tax year beginning
+, and ending 
+B
+Filer is:
+(1)
+Section 501(c)(21) Trust
+(2)
+Disqualified person;
+Trustee;
+Mine operator (see instructions)
+C    Name of mine operator, trust, or person subject to tax
+Number, street, and room or suite no. (or P.O. box number) 
+City or town, state, and ZIP code 
+D  EIN or SSN 
+E
+Address change
+Amended return
+F    Name of related section 501(c)(21) Trust (if the trust is not the filer)
+G  EIN of the related trust 
+H    Books and records are in care of:
+I  Telephone no.
+Part I
+Tax and Payment
+1 
+Initial tax on the trust under section 4952(a)(1) (Part III, line 4b) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Tax on mine operator under section 4953 (Part IV, line 8)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3a
+Initial tax on self-dealer under section 4951(a)(1) (Part II, line 3d) .
+.
+.
+.
+.
+3a
+b
+Self-dealer’s ratable share of liability (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+3b
+%
+c
+Filing self-dealer’s liability. Multiply line 3a by percentage share reported on line 3b
+.
+.
+.
+.
+.
+.
+3c
+4a
+Initial tax on trustee under section 4951(a)(2) (Part II, line 3e) .
+.
+.
+.
+.
+.
+4a
+b
+Filing trustee’s ratable share of liability (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+4b
+%
+c
+Filing trustee’s liability. Multiply line 4a by percentage share reported on line 4b .
+.
+.
+.
+.
+.
+.
+.
+4c
+5a
+Initial tax on the trustee under section 4952(a)(2) (Part III, line 4c) 
+.
+.
+.
+.
+5a
+b
+Filing trustee’s ratable share of liability (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+5b
+%
+c
+Filing trustee’s liability. Multiply line 5a by percentage share reported on line 5b .
+.
+.
+.
+.
+.
+.
+.
+5c
+6
+Total tax. Enter the amount from line 1, or the sum of lines 2, 3c, 4c, and 5c .
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Total payments, including amount paid with Form 8868 (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Tax due. If line 6 is larger than line 7, subtract line 7 from line 6 and enter amount owed .
+.
+.
+.
+▶
+8
+9
+Overpayment. If line 6 is smaller than line 7, subtract line 6 from line 7 and enter the amount 
+overpaid. This is your refund 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+9
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 12145E 
+Form 6069 (Rev. 12-2021) 
+Form 6069 (Rev. 12-2021) 
+Page  2 
+Part II
+Initial Taxes on Self-Dealing (Section 4951)
+1
+Acts of self-dealing
+(a) Act 
+number
+(b) Date  
+of act
+(c) Description of act                                                                              
+(see instructions)
+(1)
+(2)
+2
+Computation of initial tax on self-dealing disqualified person or trustee
+(a) Act 
+number
+(b) Self-dealer(s)
+(c) Amount involved            
+(d) Initial tax on self-dealer       
+(10% (0.10) of col. (c))          
+(see instructions)
+(e) Tax on trustee, if applicable      
+(2.5% (0.025) of col. (c))            
+(see instructions)
+(1)
+(2)
+3
+Totals .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Corrective action. Attach a detailed statement to describe corrective action taken or to explain why corrective action has not 
+been taken. See instructions. 
+(a) Act   
+number
+(b) Has corrective 
+action been taken?
+(c) FMV of amount recovered
+Yes
+No
+(1)
+(2)
+Part III
+Initial Taxes on Taxable Expenditures and Tax Computation (Section 4952)
+1
+Taxable expenditures
+(a) Item 
+number
+(b) Name and address of recipient 
+(c) Description of expenditure and purposes for which made
+(1)
+(2)
+2
+Taxable expenditures by section 501(c)(21) Trust (section 4952(a))
+(a) Item  
+number
+(b) Date paid or incurred
+(c) Amount                  
+(d) Trustees
+(1)
+(2)
+3
+Computation of initial tax (sections 4952(a)(1) and (2))
+(a) Item         
+number
+(b) Tax imposed on section 501(c)(21) Trust                   
+(10% (0.10) of line 2, col. (c))                               
+(see instructions) 
+(c) Tax imposed on Trustee                                
+(2.5% (0.025) of line 2, col. (c))                              
+(see instructions)
+(1)
+(2)
+4
+Totals 
+5
+Corrective action. Attach a detailed statement to describe corrective action taken or to explain why corrective action has not 
+been taken. See instructions. 
+(a) Act   
+number
+(b) Has corrective 
+action been taken?
+(c) FMV of amount recovered
+Yes
+No
+(1)
+(2)
+Part IV
+Tax on Coal Mine Operators Under Section 4953. Computation of Section 4953 Tax by the Person 
+Making Excess Contributions Under Section 192 to a Section 501(c)(21) Trust (see instructions)
+1 
+Enter the amount necessary to fund (with level funding) the remaining unfunded liability for claims filed 
+or expected to be filed by, or on behalf of, past or present employees of the operator based on:
+a
+The average remaining working life of miners currently employed
+.
+.
+.
+.
+1a
+b
+10 tax years .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+c
+Any other funding period prescribed or approved by the Secretary of the
+Treasury
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c
+d
+Enter the smaller of line 1a or 1b
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d
+e
+Enter the larger of line 1c or 1d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1e
+Form 6069 (Rev. 12-2021) 
+Form 6069 (Rev. 12-2021) 
+Page  3 
+Part IV
+Tax on Coal Mine Operators Under Section 4953. Computation of Section 4953 Tax by the Person 
+Making Excess Contributions Under Section 192 to a Section 501(c)(21) Trust (see instructions) 
+(continued)
+2a
+Enter the amount necessary to carry out section 501(c)(21)(A) purposes for the
+tax year
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b
+Enter the fair market value of the trust’s assets. See instructions .
+.
+.
+.
+.
+2b
+c
+Subtract line 2b from line 2a. If zero or less, enter -0-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+3a
+Contributions made to section 501(c)(21) Trust for operator’s tax year .
+.
+.
+3a
+b
+Operator’s maximum allowable deduction under section 192 for tax year. 
+Enter the larger of line 1e or line 2c
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+c
+Subtract line 3b from line 3a. If zero or less, enter -0-
+.
+.
+.
+.
+.
+.
+.
+.
+3c
+d
+Excess contributions carried over from the preceding tax year
+.
+.
+.
+.
+.
+3d
+e
+Total. Add lines 3c and 3d
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3e
+4
+Amount that current year’s contributions are less than the maximum amount 
+deductible. Subtract line 3a from line 3b. If zero or less, enter -0-
+.
+.
+.
+.
+4
+5
+Amount of previous year’s excess contributions that were returned to the
+contributor during the current tax year
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Total. Add lines 4 and 5
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Excess contributions for current year. Subtract line 6 from line 3e. If zero or less, enter -0-
+.
+.
+.
+.
+7
+8
+Tax imposed on mine operator. Enter 5% (0.05) of line 7 here and in Part I, line 2
+.
+.
+.
+.
+.
+.
+.
+8
+Sign  
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my 
+knowledge and belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any 
+knowledge.
+▲
+Signature of trustee
+Title
+Date
+▲
+Signature (and organization or entity name, if applicable) of trustee, self-dealer, or mine operator
+Date
+▲
+Signature (and organization or entity name, if applicable) of trustee, self-dealer, or mine operator
+Date
+▲
+Signature (and organization or entity name, if applicable) of trustee, self-dealer, or mine operator
+Date
+▲
+Signature (and organization or entity name, if applicable) of trustee, self-dealer, or mine operator
+Date
+May the IRS discuss this return with the preparer shown below? See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name     ▶
+Firm’s address ▶
+Firm’s EIN ▶
+Phone no. 
+Form 6069 (Rev. 12-2021) 

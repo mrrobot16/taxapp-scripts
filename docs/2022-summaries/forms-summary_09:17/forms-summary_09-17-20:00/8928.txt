@@ -1,0 +1,800 @@
+The form you are looking for begins on the next page of this file. Before viewing it, please see 
+the important update information below.
+New Mailing Addresses
+Addresses for mailing certain forms have changed since the forms were last published. The new mailing 
+addresses are shown below.
+Mailing address for Forms 706‐A, 706‐GS(D), 706‐GS(T), 706‐NA, 706‐QDT, 8612, 8725, 8831, 8842, 
+8892, 8924, 8928:
+Department of the Treasury 
+Internal Revenue Service Center 
+Kansas City, MO 64999
+Mailing address for Forms 2678, 8716, 8822-B, 8832, 8855:
+Taxpayers in the States Below
+Mail the Form to This Address
+Connecticut, Delaware, District of Columbia, Georgia, 
+Illinois, Indiana,Kentucky, Maine, Maryland, 
+Massachusetts, Michigan, New Hampshire, New Jersey, 
+New York, North Carolina, Ohio, Pennsylvania, Rhode 
+Island, South Carolina, Vermont, Virginia, West Virginia, 
+Wisconsin
+Department of the Treasury 
+Internal Revenue Service Center 
+Kansas City, MO 64999
+Alabama, Alaska, Arizona, Arkansas, California, 
+Colorado, Florida, Hawaii, Idaho, Iowa, Kansas, 
+Louisiana, Minnesota, Mississippi, Missouri, Montana, 
+Nebraska, Nevada, New Mexico, North Dakota, 
+Oklahoma, Oregon, South Dakota, Tennessee, Texas, 
+Utah, Washington, Wyoming
+Department of the Treasury 
+Internal Revenue Service Center 
+Ogden, UT 84201
+This update supplements these forms’ instructions. Filers should rely on this update for the changes described, 
+which will be incorporated into the next revision of the forms’ instructions.
+Form  8928
+(Rev. May 2016)
+Department of the Treasury  
+Internal Revenue Service 
+Return of Certain Excise Taxes Under 
+Chapter 43 of the Internal Revenue Code
+(Under sections 4980B, 4980D, 4980E, and 4980G)
+▶ Information about Form 8928 and its separate instructions is at www.irs.gov/form8928.
+OMB No. 1545-2146
+Filer's tax year beginning 
+, 
+and ending 
+, 
+A 
+Name of filer (see instructions) 
+Number, street, and room or suite no. (if a P.O. box, see instructions) 
+City or town, state or province, country, and ZIP or foreign postal code 
+B   Filer’s employer identification 
+number (EIN) 
+C Name of plan 
+D Name and address of plan sponsor 
+E   Plan sponsor’s EIN 
+F   Plan year ending (MM/DD/YYYY) 
+G   Plan number 
+Part I 
+Tax on Failure To Satisfy Continuation Coverage Requirements Under Section 4980B 
+Complete a separate Part I, lines 1 through 6, for failures due to reasonable cause and not to willful neglect, and a  
+separate Part I, lines 12 through 14, for other failures, for each qualifying event for which one or more failures to 
+satisfy continuation coverage requirements that occurred during the reporting period (see instructions). 
+Section A – Failures Due to Reasonable Cause and Not to Willful Neglect 
+For  
+IRS 
+Use 
+Only
+1 
+Enter the total number of days of noncompliance in the reporting period .
+.
+.
+.
+.
+.
+.
+1
+2 
+ 
+Enter the number of qualified beneficiaries for which a failure occurred
+as a  result of this qualifying event .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+2 
+3 
+If you entered 2 or more on line 2, multiply line 1 by $200. Otherwise, multiply line 1 by $100  
+3
+4 
+ 
+ 
+If the failure was not discovered despite exercising reasonable diligence or was corrected
+within the correction period and was due to reasonable cause, enter -0- here, and go to line 5. 
+Otherwise, enter the amount from line 3 on line 6 and go to line 7
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+ 
+ 
+ 
+ 
+If the failure was not corrected before the date a notice of examination of income tax liability 
+was sent to the employer and the failure continued during the examination period, multiply
+$2,500 by the number of qualified beneficiaries for whom one or more failures occurred
+(multiply by $15,000 to the extent the violations were more than de minimis for a qualified 
+beneficiary). If the failures were corrected before the date a notice of examination was sent, 
+enter -0-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Enter the smaller of line 3 or line 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7 
+ 
+If there was more than one qualifying event, add the amounts shown on line 6 of all forms, and 
+enter the total on a single “summary” form. Otherwise, enter the amount from line 6 above .
+ 
+7 
+8 
+ 
+ 
+Enter the aggregate amount paid or incurred during the preceding tax 
+year for a single employer group health plan or the amount paid or 
+incurred during the current tax year for a multiemployer health plan to 
+provide medical care .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+8 
+9 
+Multiply line 8 by 10% (0.10).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10 
+Amount from section 4980B(c)(4) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11 
+ 
+ 
+ 
+Enter the smallest of lines 7, 9, or 10. For a third-party administrator, HMO, or insurance
+company, the amount you enter on this line filed for all plans you administer during the same
+tax year cannot exceed $2 million; reduce the amount you would otherwise enter on this line to 
+the extent the amount for all plans would exceed this limit .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+11 
+Section B – Failures Due to Willful Neglect or Otherwise Not Due to Reasonable Cause 
+12 
+Enter the total number of days of noncompliance in the reporting period .
+.
+.
+.
+.
+.
+.
+12 
+13 
+ 
+Enter the number of qualified beneficiaries for which a failure occurred
+as a result of this qualifying event .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+13 
+14 
+If you entered 2 or more on line 13, multiply line 12 by $200. Otherwise, multiply line 12 by $100.
+14 
+15 
+ 
+If there was more than one qualifying event, add the amounts shown on line 14 of all forms, and 
+enter the total on a single “summary” form. Otherwise, enter the amount from line 14 above .
+.
+ 
+15 
+Section C – Total Tax Due Under Section 4980B 
+16 
+Add lines 11 and 15
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶
+126
+16 
+For Paperwork Reduction Act Notice, see instructions. 
+Cat. No. 37742T 
+Form 8928 (Rev. 5-2016) 
+Form 8928 (Rev. 5-2016) 
+ 
+Page 2 
+Name of filer: 
+Filer’s EIN: 
+Part II 
+Tax on Failure To Meet Portability, Access, Renewability, and Other Requirements Under Section 4980D                     
+Complete a separate Part II, lines 17 through 23, for failures due to reasonable cause and not to willful neglect, and a separate Part II, 
+lines 29–32, for other failures to meet certain group health plan requirements that occurred during the reporting period (see instructions). 
+Section A – Failures Due to Reasonable Cause and Not to Willful Neglect 
+For  
+IRS 
+Use 
+Only
+17 
+Enter the total number of days of noncompliance in the reporting period .
+.
+.
+.
+.
+.
+.
+17 
+18 
+Enter the number of individuals to whom the failure applies
+.
+.
+.
+18 
+19 
+Multiply line 17 by line 18 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+Multiply line 19 by $100
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+20 
+21 
+ 
+ 
+If the failure was not discovered despite exercising reasonable diligence or was corrected
+within the correction period and was due to reasonable cause, enter -0- here, and go to line
+22. Otherwise, enter the amount from line 20 on line 23 and go to line 24 .
+.
+.
+.
+.
+.
+.
+ 
+21 
+22 
+ 
+ 
+ 
+ 
+If the failure was not corrected before the date a notice of examination of income tax liability was 
+sent to the employer and the failure continued during the examination period, multiply $2,500 by the 
+number of qualified beneficiaries for whom one or more failures occurred (multiply by $15,000 to 
+the extent the violations were more than de minimis for a qualified beneficiary). If the failures were 
+corrected before the date a notice of examination was sent, enter -0-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+23 
+Enter the smaller of line 20 or line 22 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+24 
+ 
+If there was more than one failure, add the amounts shown on line 23 of all forms, and enter 
+the total on a single “summary” form. Otherwise, enter the amount from line 23 above
+.
+.
+ 
+24 
+25 
+ 
+ 
+Enter the aggregate amount paid or incurred during the preceding tax year for 
+a single employer group health plan or the amount paid or incurred during the 
+current tax year for a multiemployer health plan to provide medical care.
+.
+.  
+25 
+26 
+Multiply line 25 by 10% (0.10)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26 
+27 
+Amount from section 4980D(c)(3) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27 
+28 
+Enter the smallest of lines 24, 26, or 27 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28 
+Section B – Failures Due to Willful Neglect or Otherwise Not Due to Reasonable Cause 
+29 
+Enter the total number of days of noncompliance in the reporting period .
+.
+.
+.
+.
+.
+.
+29 
+30 
+Enter the number of individuals to whom the failure applies
+.
+.
+.
+30 
+31 
+Multiply line 29 by line 30 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+31
+32 
+Multiply line 31 by $100
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+32 
+33 
+ 
+If there was more than one failure, add the amounts shown on line 32 of all forms, and enter 
+the total on a single “summary” form. Otherwise, enter the amount from line 32 above
+.
+.
+ 
+33 
+Section C – Total Tax Due Under Section 4980D 
+34 
+Add lines 28 and 33
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶
+127 
+34 
+Part III 
+Tax on Failure To Make Comparable Archer MSA Contributions Under Section 4980E
+35 
+Aggregate amount contributed to Archer MSAs of employees within calendar year .
+.
+.
+.
+ 
+35
+36 
+Total tax due under section 4980E. Multiply line 35 by 35% (0.35)
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶
+128
+36 
+Part IV 
+Tax on Failure To Make Comparable HSA Contributions Under Section 4980G 
+37 
+Aggregate amount contributed to HSAs of employees within calendar year
+.
+.
+.
+.
+.
+.
+ 
+37
+38 
+Total tax due under section 4980G. Multiply line 37 by 35% (0.35)
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶
+137 
+38 
+Part V 
+Tax Due or Overpayment
+39 
+Add lines 16, 34, 36, and 38 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+39 
+40 
+Enter amount of tax paid with Form 7004
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+40 
+41 
+ 
+ 
+Tax due. Subtract line 40 from line 39. If less than zero, enter -0-, and go to line 42. If the result 
+is greater than zero, enter here and attach a check or money order payable to “United States Treasury.” 
+Write your name, identifying number, plan number, and “Form 8928” on your payment
+.
+.
+.
+.
+.
+41 
+42 
+Overpayment. Subtract line 39 from line 40
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+42 
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my 
+knowledge and belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer
+has any knowledge.
+▲
+Your signature
+▲
+Telephone number
+▲
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer's name
+Preparer's signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm's name      ▶
+Firm's address  ▶
+Firm's EIN  ▶
+Phone no.
+Form 8928 (Rev. 5-2016) 

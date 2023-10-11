@@ -1,0 +1,13 @@
+This document provides instructions and information regarding Form 1099-B, which is used to report proceeds from broker and barter exchange transactions to the Internal Revenue Service (IRS). 
+
+The document emphasizes that Copy A of the form, which is provided for informational purposes, should not be printed and filed as it is not scannable by the IRS. Filing non-scannable information returns may result in penalties. However, Copy B and other copies of the form can be downloaded, printed, and used to provide information to the recipient.
+
+To order official IRS information returns that include a scannable Copy A, taxpayers can visit the IRS website and order the necessary forms and instructions. The document also mentions that information returns can be filed electronically using the IRS Filing Information Returns Electronically (FIRE) system or the IRS Affordable Care Act Information Returns (AIR) program.
+
+The document includes the layout and instructions for completing Form 1099-B, including details on providing payer and recipient information, describing the property or service involved in the transaction, and reporting proceeds, cost or other basis, accrued market discount, wash sale loss disallowed, short-term gain or loss, long-term gain or loss, ordinary income, federal income tax withheld, and other relevant information.
+
+It also provides instructions for recipients of Form 1099-B, including information on taxpayer identification numbers, account numbers, CUSIP numbers, FATCA filing requirements, applicable checkboxes on Form 8949, and reporting requirements for various types of transactions.
+
+The document concludes with additional instructions for recipients regarding regulated futures contracts, foreign currency contracts, and Section 1256 option contracts, as well as state and local income tax information.
+
+Overall, the document serves as a guide for completing and understanding Form 1099-B and provides important information for both payers and recipients.

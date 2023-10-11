@@ -1,0 +1,9 @@
+Form 4255 is a document issued by the Internal Revenue Service (IRS) in the United States. It is used to recapture the Investment Credit, which is a tax credit that taxpayers may have claimed in previous years for certain types of properties. The form is to be attached to the taxpayer's income tax return.
+
+The form consists of three parts. Part I relates to the original investment credit and requires the taxpayer to provide information about the properties for which the credit was claimed. Part II deals with the recapture of the credit due to an increase in nonqualified nonrecourse financing. Part III covers the recapture of the credit due to the disposition of the property or cessation of its use as investment credit property.
+
+The form includes various lines where the taxpayer needs to provide specific information, such as the original rate of credit, credit base, net change in nonqualified nonrecourse financing, refigured credit, credit taken in prior years, and recapture tax. It also includes details about the date the property was placed in service, the date it ceased to be qualified investment credit property, the number of years between those dates, and unused general business credits.
+
+The form concludes with calculations for recapture percentages, multiplying line amounts by the recapture percentage, and adding up the recapture amounts for all properties. There is also a section for the recapture of qualifying therapeutic discovery project grants and the total increase in tax, which is then entered on the taxpayer's tax return.
+
+Taxpayers should consult the instructions provided with Form 4255 for further guidance and definitions of terms used in the form. The form is available on the IRS website, and it is important to note that the version reviewed here is the one revised in December 2016.

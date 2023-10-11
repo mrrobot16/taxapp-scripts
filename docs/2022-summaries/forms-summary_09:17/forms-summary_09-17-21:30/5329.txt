@@ -1,0 +1,17 @@
+Form 5329 is a document issued by the Department of the Treasury and the Internal Revenue Service (IRS) in the United States. It is used to report additional taxes on qualified plans, including Individual Retirement Accounts (IRAs), and other tax-favored accounts. The form is attached to Form 1040, 1040-SR, or 1040-NR.
+
+The form consists of nine parts:
+
+- Part I: Additional Tax on Early Distributions - This part is used to report taxable distributions taken before reaching age 59 from a qualified retirement plan or modified endowment contract. It also includes exceptions to the additional tax on early distributions and certain Roth IRA distributions.
+- Part II: Additional Tax on Certain Distributions From Education Accounts and ABLE Accounts - This part is used to report distributions from Coverdell education savings accounts (ESA), qualified tuition programs (QTP), or ABLE accounts that are included in income.
+- Part III: Additional Tax on Excess Contributions to Traditional IRAs - This part is used to report contributions to traditional IRAs that exceed the allowable limit. It also includes distributions from traditional IRAs that are included in income.
+- Part IV: Additional Tax on Excess Contributions to Roth IRAs - This part is used to report contributions to Roth IRAs that exceed the allowable limit. It also includes distributions from Roth IRAs.
+- Part V: Additional Tax on Excess Contributions to Coverdell ESAs - This part is used to report contributions to Coverdell ESAs that exceed the allowable limit. It also includes distributions from Coverdell ESAs.
+- Part VI: Additional Tax on Excess Contributions to Archer MSAs - This part is used to report contributions to Archer Medical Savings Accounts (MSAs) that exceed the allowable limit. It also includes distributions from Archer MSAs.
+- Part VII: Additional Tax on Excess Contributions to Health Savings Accounts (HSAs) - This part is used to report contributions to HSAs that exceed the allowable limit. It also includes distributions from HSAs.
+- Part VIII: Additional Tax on Excess Contributions to an ABLE Account - This part is used to report contributions to ABLE accounts that exceed the allowable limit.
+- Part IX: Additional Tax on Excess Accumulation in Qualified Retirement Plans (Including IRAs) - This part is used to report the failure to receive the minimum required distribution from a qualified retirement plan.
+
+The form includes various lines and calculations to determine the amount of additional tax owed. The taxpayer must sign the form under penalties of perjury. If the form is prepared by someone other than the taxpayer, the preparer must also sign the form.
+
+Form 5329 is used to report and calculate additional taxes on various types of retirement and education accounts, as well as excess contributions and failure to take required distributions. It is important to consult the instructions and seek professional tax advice when completing this form.

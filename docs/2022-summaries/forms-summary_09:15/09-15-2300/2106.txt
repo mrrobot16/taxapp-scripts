@@ -1,0 +1,11 @@
+Form 2106 is a document provided by the Internal Revenue Service (IRS) for individuals who qualify for certain employee business expenses deductions. The form is used by Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses.
+
+The form is divided into two parts. Part I focuses on employee business expenses and reimbursements. It includes various columns for entering different types of expenses such as vehicle expenses, parking fees, tolls, transportation, and travel expenses. It also provides space to calculate the total expenses and reimbursements received from the employer.
+
+Step 2 involves entering the reimbursements received from the employer for the expenses listed in Step 1.
+
+Step 3 helps to figure out the expenses to deduct. It subtracts the reimbursements received from the total expenses. If the result is zero or less, it is entered as -0-. If the reimbursements are greater than the expenses, the excess amount is reported as income on Form 1040 or 1040-SR.
+
+Part II of the form focuses on vehicle expenses. It includes sections for providing general information about the vehicles used for business purposes, such as the date the vehicle was placed in service, total miles driven, business miles, commuting miles, and other miles. It also provides options for indicating whether the vehicle was available for personal use during off-duty hours and whether there is another vehicle available for personal use. Additionally, it includes sections for calculating the standard mileage rate or actual expenses and depreciation of vehicles.
+
+Overall, Form 2106 is used to report and calculate employee business expenses and reimbursements, particularly for individuals who qualify for certain deductions.

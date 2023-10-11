@@ -1,0 +1,19 @@
+Form 8867 is a checklist provided by the Internal Revenue Service (IRS) for paid tax preparers to ensure they comply with due diligence requirements when claiming certain tax credits and filing statuses on a taxpayer's return. The form is to be completed by the preparer and filed with Form 1040, 1040-SR, 1040-NR, 1040-PR, or 1040-SS.
+
+The form consists of six parts, each containing a series of questions related to the specific tax credits and filing statuses being claimed. The preparer is required to check the appropriate box for each credit or filing status claimed and answer the related questions.
+
+Part I of the form covers general due diligence requirements, such as obtaining accurate information from the taxpayer, completing applicable worksheets, satisfying knowledge requirements, and documenting inquiries made to verify information.
+
+Part II focuses on due diligence questions for returns claiming the Earned Income Credit (EIC), including determining eligibility for the credit and understanding rules regarding qualifying children and tiebreaker rules.
+
+Part III addresses due diligence questions for returns claiming the Child Tax Credit (CTC), Additional Child Tax Credit (ACTC), and Credit for Other Dependents (ODC). It includes questions about the eligibility of qualifying persons and rules for divorced or separated parents.
+
+Part IV pertains to due diligence questions for returns claiming the American Opportunity Tax Credit (AOTC), requiring the taxpayer to provide substantiation for the credit.
+
+Part V covers due diligence questions for claiming Head of Household (HOH) filing status, including determining eligibility based on marital status and providing more than half of the cost of keeping up a home for a qualifying person.
+
+Finally, Part VI is an eligibility certification where the preparer confirms that they have completed all due diligence requirements, including interviewing the taxpayer, documenting responses, completing the form accurately, submitting it as required, and retaining all necessary records for three years.
+
+The form includes instructions and a separate section for the preparer to certify the accuracy and completeness of their answers.
+
+Failure to comply with due diligence requirements may result in penalties for the preparer.

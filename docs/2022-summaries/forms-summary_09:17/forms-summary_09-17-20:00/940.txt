@@ -1,0 +1,503 @@
+Form  940 for 2022: Employer’s Annual Federal Unemployment (FUTA) Tax Return
+Department of the Treasury — Internal Revenue Service
+OMB No. 1545-0028
+850113
+Employer identification number 
+(EIN) 
+—
+Name (not your trade name)
+Trade name (if any)
+Address
+Number                           Street                                                                                               Suite or room number
+City
+State
+ZIP code
+Foreign country name
+Foreign province/county
+Foreign postal code
+Type of Return 
+(Check all that apply.)
+a. Amended
+b. Successor employer
+c. No payments to employees in 
+2022
+d. Final: Business closed or 
+stopped paying wages
+Go to www.irs.gov/Form940 for 
+instructions and the latest information.
+Read the separate instructions before you complete this form. Please type or print within the boxes.
+Part 1: 
+Tell us about your return. If any line does NOT apply, leave it blank. See instructions before completing Part 1.
+1a 
+If you had to pay state unemployment tax in one state only, enter the state abbreviation .
+1a 
+1 b 
+If you had to pay state unemployment tax in more than one state, you are a multi-state 
+employer .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b 
+Check here. 
+Complete Schedule A (Form 940).
+2 
+If you paid wages in a state that is subject to CREDIT REDUCTION .
+.
+.
+.
+.
+.
+.
+.
+2 
+Check here. 
+Complete Schedule A (Form 940).
+Part 2: 
+Determine your FUTA tax before adjustments. If any line does NOT apply, leave it blank. 
+3 
+Total payments to all employees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+.
+4 
+Payments exempt from FUTA tax .
+.
+.
+.
+.
+.
+.
+4 
+.
+Check all that apply: 4a 
+Fringe benefits 
+4b 
+Group-term life insurance 
+4c 
+Retirement/Pension 
+4d 
+Dependent care 
+4e 
+Other 
+5 
+Total of payments made to each employee in excess of 
+$7,000 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+.
+6 
+Subtotal (line 4 + line 5 = line 6) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+.
+7 
+Total taxable FUTA wages (line 3 – line 6 = line 7). See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+.
+8 
+FUTA tax before adjustments (line 7 x 0.006 = line 8) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+.
+Part 3: 
+Determine your adjustments. If any line does NOT apply, leave it blank. 
+9 
+If ALL of the taxable FUTA wages you paid were excluded from state unemployment tax, 
+multiply line 7 by 0.054  (line 7 × 0.054 = line 9). Go to line 12 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+.
+10 
+ 
+If SOME of the taxable FUTA wages you paid were excluded from state unemployment tax, 
+OR you paid ANY state unemployment tax late (after the due date for filing Form 940), 
+complete the worksheet in the instructions. Enter the amount from line 7 of the worksheet .
+.
+10 
+.
+11 
+If credit reduction applies, enter the total from Schedule A (Form 940)  
+.
+.
+.
+.
+.
+.
+.
+11 
+.
+Part 4: 
+ Determine your FUTA tax and balance due or overpayment. If any line does NOT apply, leave it blank. 
+12 
+Total FUTA tax after adjustments (lines 8 + 9 + 10 + 11 = line 12) .
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+.
+13 
+FUTA tax deposited for the year, including any overpayment applied from a prior year 
+.
+13 
+.
+14 
+Balance due. If line 12 is more than line 13, enter the excess on line 14. 
+•   If line 14 is more than $500, you must deposit your tax. 
+•   If line 14 is $500 or less, you may pay with this return. See instructions .
+.
+.
+.
+.
+.
+.
+14 
+.
+15 
+Overpayment. If line 13 is more than line 12, enter the excess on line 15 and check a box below 15 
+.
+You MUST complete both pages of this form and SIGN it. 
+Check one:
+Apply to next return.
+Send a refund.
+For Privacy Act and Paperwork Reduction Act Notice, see the back of the Payment Voucher. 
+Cat. No. 11234O 
+Form 940 (2022)
+850212
+Name (not your trade name) 
+Employer identification number (EIN)
+–
+Part 5: 
+ Report your FUTA tax liability by quarter only if line 12 is more than $500. If not, go to Part 6. 
+16 Report the amount of your FUTA tax liability for each quarter; do NOT enter the amount you deposited. If you had no liability for
+a quarter, leave the line blank. 
+16a 1st quarter (January 1 – March 31) .
+.
+.
+.
+.
+.
+.
+.
+.
+ 16a 
+.
+16b
+2nd quarter (April 1 – June 30) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16b
+.
+16c 3rd quarter (July 1 – September 30) 
+.
+.
+.
+.
+.
+.
+.
+.
+16c 
+.
+16d
+4th quarter (October 1 – December 31) 
+.
+.
+.
+.
+.
+.
+.
+16d
+.
+17 
+Total tax liability for the year (lines 16a + 16b + 16c + 16d = line 17) 17 
+.
+Total must equal line 12.
+Part 6: 
+May we speak with your third-party designee? 
+Do you want to allow an employee, a paid tax preparer, or another person to discuss this return with the IRS? See the instructions 
+for details.  
+Yes. 
+Designee’s name and phone number 
+Select a 5-digit personal identification number (PIN) to use when talking to the IRS.
+No. 
+Part 7: 
+Sign here. You MUST complete both pages of this form and SIGN it. 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the 
+best of my knowledge and belief, it is true, correct, and complete, and that no part of any payment made to a state unemployment  
+fund claimed as a credit was, or is to be, deducted from the payments made to employees. Declaration of preparer (other than 
+taxpayer) is based on all information of which preparer has any knowledge. 
+Sign your  
+name here 
+Date 
+/        / 
+Print your  
+name here 
+Print your  
+title here 
+Best daytime phone 
+Paid Preparer Use Only 
+Check if you are self-employed
+Preparer’s name 
+PTIN 
+Preparer’s  
+signature 
+Date 
+/        / 
+Firm’s name (or yours  
+if self-employed) 
+EIN 
+Address 
+Phone 
+City 
+State 
+ZIP code 
+Page 2 
+Form 940 (2022)
+Form 940-V, 
+Payment Voucher 
+Purpose of Form 
+Complete Form 940-V if you’re making a payment with 
+Form 940. We will use the completed voucher to credit 
+your payment more promptly and accurately, and to 
+improve our service to you.
+Making Payments With Form 940 
+To avoid a penalty, make your payment with your 2022 
+Form 940 only if your FUTA tax for the fourth quarter 
+(plus any undeposited amounts from earlier quarters) is 
+$500 or less. If your total FUTA tax after adjustments 
+(Form 940, line 12) is more than $500, you must make 
+deposits by electronic funds transfer. See When Must 
+You Deposit Your FUTA Tax? in the Instructions for Form 
+940. Also see sections 11 and 14 of Pub. 15 for more 
+information about deposits.
+▲
+!
+CAUTION
+Use Form 940-V when making any payment with 
+Form 940. However, if you pay an amount with 
+Form 940 that should’ve been deposited, you 
+may be subject to a penalty. See Deposit 
+Penalties in section 11 of Pub. 15.
+Specific Instructions
+Box 1—Employer identification number (EIN). If you 
+don’t have an EIN, you may apply for one online by 
+visiting the IRS website at www.irs.gov/EIN. You may also 
+apply for an EIN by faxing or mailing Form SS-4 to the 
+IRS. If you haven’t received your EIN by the due date of 
+Form 940, write “Applied For” and the date you applied in 
+this entry space.
+Box 2—Amount paid. Enter the amount paid with 
+Form 940. 
+Box 3—Name and address. Enter your name and 
+address as shown on Form 940.
+•  Enclose your check or money order made payable to 
+“United States Treasury.” Be sure to enter your EIN, 
+“Form 940,” and “2022” on your check or money order. 
+Don’t send cash. Don’t staple Form 940-V or your 
+payment to Form 940 (or to each other).
+•  Detach Form 940-V and send it with your payment and 
+Form 940 to the address provided in the Instructions for 
+Form 940.
+Note: You must also complete the entity information 
+above Part 1 on Form 940.
+Detach Here and Mail With Your Payment and Form 940.
+Form
+940-V
+Department of the Treasury 
+Internal Revenue Service       
+Payment Voucher
+Don’t staple or attach this voucher to your payment.
+OMB No. 1545-0028
+2022
+1 Enter your employer identification number (EIN).
+–
+2 Enter the amount of your payment. 
+Make your check or money order payable to “United States Treasury”
+Dollars
+Cents
+3
+Enter your business name (individual name if sole proprietor).
+Enter your address.
+Enter your city, state, and ZIP code; or your city, foreign country name, foreign province/county, and foreign postal code.
+Form 940 (2022) 
+Privacy Act and Paperwork Reduction Act Notice.   
+We ask for the information on this form to carry out the  
+Internal Revenue laws of the United States. We need it  
+to figure and collect the right amount of tax. Chapter  
+23, Federal Unemployment Tax Act, of Subtitle C,  
+Employment Taxes, of the Internal Revenue Code  
+imposes a tax on employers with respect to employees. 
+This form is used to determine the amount of the tax that 
+you owe. Section 6011 requires you to provide the 
+requested information if you are liable for FUTA tax under 
+section 3301. Section 6109 requires you to provide your 
+identification number. If you fail to provide this 
+information in a timely manner or provide a false or 
+fraudulent form, you may be subject to penalties.
+You’re not required to provide the information  
+requested on a form that is subject to the Paperwork  
+Reduction Act unless the form displays a valid OMB  
+control number. Books and records relating to a form or 
+instructions must be retained as long as their contents 
+may become material in the administration of any Internal 
+Revenue law. 
+Generally, tax returns and return information are  
+confidential, as required by section 6103. However,  
+section 6103 allows or requires the IRS to disclose or  
+give the information shown on your tax return to others  
+as described in the Code. For example, we may disclose
+your tax information to the Department of Justice for civil 
+and criminal litigation, and to cities, states, the District of 
+Columbia, and U.S. commonwealths and possessions to 
+administer their tax laws. We may also disclose this 
+information to other countries under a tax treaty, to 
+federal and state agencies to enforce federal nontax 
+criminal laws, or to federal law enforcement and 
+intelligence agencies to combat terrorism. 
+The time needed to complete and file this form will vary 
+depending on individual circumstances. The estimated 
+average time is: 
+Recordkeeping .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 hr., 19 min.
+Learning about the law or the form  .
+.
+1 hr., 23 min.
+Preparing, copying, assembling, and                  
+sending the form to the IRS .
+.
+.
+.
+.
+1 hr., 36 min.
+If you have comments concerning the accuracy of 
+these time estimates or suggestions for making 
+Form 940 simpler, we would be happy to hear from 
+you. You can send us comments from 
+www.irs.gov/FormComments. Or you can send your 
+comments to Internal Revenue Service, Tax Forms and 
+Publications Division, 1111 Constitution Ave. NW, 
+IR-6526, Washington, DC 20224. Don’t send Form 940 to 
+this address. Instead, see Where Do You File? in the 
+Instructions for Form 940. 

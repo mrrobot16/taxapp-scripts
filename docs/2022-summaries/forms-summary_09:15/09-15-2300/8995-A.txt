@@ -1,0 +1,13 @@
+Form 8995-A is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the qualified business income deduction. This deduction can be claimed if the taxpayer has qualified business income from a qualified trade or business, real estate investment trust dividends, publicly traded partnership income, or a domestic production activities deduction passed through from an agricultural or horticultural cooperative.
+
+The form consists of four parts:
+
+Part I: Trade, Business, or Aggregation Information - This section requires the taxpayer to provide information about their trade, business, or aggregation, including the name, taxpayer identification number, and whether it is a specified service or aggregation.
+
+Part II: Determine Your Adjusted Qualified Business Income - This part involves calculations to determine the adjusted qualified business income, which includes determining the qualified business income, allocable share of W-2 wages, and allocable share of the unadjusted basis immediately after acquisition of all qualified property.
+
+Part III: Phased-in Reduction - This section is only applicable if the taxpayer's taxable income is above a certain threshold but below another threshold and line 10 is less than line 3. It involves calculations to determine the phased-in reduction.
+
+Part IV: Determine Your Qualified Business Income Deduction - This part involves calculations to determine the qualified business income deduction, including determining the total qualified business income component, qualified REIT dividends and publicly traded partnership income or loss, qualified REIT dividends and publicly traded partnership income or loss carryforward from prior years, REIT and PTP component, and the income limitation.
+
+Overall, Form 8995-A is used to calculate and claim the qualified business income deduction for eligible taxpayers.

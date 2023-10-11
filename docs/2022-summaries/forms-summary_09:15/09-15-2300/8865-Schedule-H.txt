@@ -1,0 +1,17 @@
+Schedule H (Form 8865) is a document provided by the Internal Revenue Service (IRS) that is used to report acceleration events, termination events, successor events, taxable dispositions of partnership interests, and section 367 transfer events related to the gain deferral method under Section 721(c). 
+
+The form is attached to Form 8865 and requires the filer to provide their identifying information, the name of the partnership, the successor partnership, and the filing year. 
+
+Part I of the form is used to report acceleration events, including the schedule and line number from Schedule G, a description of the event, the date of the event, the gain recognized, and any partnerships adjustment to section 721(c) property tax basis. 
+
+Part II is used to report termination events, including the schedule and line number from Schedule G, a description of the event, and the date of the event. 
+
+Part III is used to report successor events, including the schedule and line number from Schedule G, a description of the event, the date of the event, and the name, address, and U.S. taxpayer identification number (U.S. TIN) of the successor partnership, lower-tier partnership, upper-tier partnership, or U.S. corporation (as applicable). 
+
+Part IV is used to report taxable dispositions of a portion of an interest in a partnership, including a description of the event, the date of the event, the percentage of partnership interest disposed, the percentage of partnership interest retained, and the aggregate remaining built-in gain attributed to the partnership interest retained. 
+
+Part V is used to report section 367 transfer events, including the schedule and line number from Schedule G, a description of the event, the date of the event, the gain recognized, and the name, address, and U.S. TIN (if any) of the foreign transferee corporation (as applicable). 
+
+Part VI is used for any supplemental information that may be necessary. 
+
+The form includes a reference to the Instructions for Form 8865 for further guidance and information.

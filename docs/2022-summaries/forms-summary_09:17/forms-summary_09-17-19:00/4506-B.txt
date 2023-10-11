@@ -1,0 +1,13 @@
+Form 4506-B is a document issued by the Internal Revenue Service (IRS) that allows individuals or organizations to request a copy of an exempt organization's IRS application or letter. The form must be completed clearly and accurately to avoid rejection.
+
+The form provides information about where to find exempt organization determination letters issued in 2014 and onwards for inspection on the IRS website. It also mentions that Form 8871 and Form 8872, which are related to political organizations, can be found on the IRS website for inspection.
+
+The form states that exempt or political organizations are required to make their returns, reports, notices, and exempt applications available for public inspection. Requesters have the option to visit the organization in person to inspect the material or request copies from the IRS.
+
+The form requires the requester to provide their personal information, including name, phone number, and address. They must also indicate the category of requester they fall under, such as commercial user, non-commercial scientific institution, media, educational institution, or others. Commercial users must provide an explanation of how the records will be used to avoid being charged the commercial rate.
+
+The form includes checkboxes for the specific items being requested, such as application for exemption, exemption determination letter, affirmation letter, or other. Requesters can check multiple boxes if they are requesting more than one item.
+
+The form includes a Privacy Act and Paperwork Reduction Act Notice, and it provides a catalog number for reference. It also includes a disclaimer notice that email submissions of the form are not encrypted for security.
+
+Overall, Form 4506-B is a tool for individuals or organizations to request copies of IRS applications or letters related to exempt organizations.

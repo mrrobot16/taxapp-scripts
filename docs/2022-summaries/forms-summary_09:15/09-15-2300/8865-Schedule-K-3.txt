@@ -1,0 +1,19 @@
+Schedule K-3 (Form 8865) is a document used by partnerships to report the partner's share of income, deductions, and credits related to international activities. The form is divided into several parts, each addressing different aspects of the partnership's international operations.
+
+Part I of the form requires information about the partnership, including its employer identification number (EIN), reference ID number, and address.
+
+Part II focuses on the foreign tax credit limitation, requiring the partner to provide information about various types of income and deductions categorized by their source and category.
+
+Part III is for reporting other information relevant to the preparation of Form 1116 or 1118, which are used to claim foreign tax credits.
+
+Part IV is specific to partners and provides information related to the partner's share of the partnership's Section 250 deduction with respect to foreign-derived intangible income (FDII).
+
+Part V is for reporting distributions from foreign corporations to the partnership, including details such as the name of the distributing foreign corporation, the date of distribution, and the amount of distribution.
+
+Part VI is used to provide information on the partner's share of Section 951(a)(1) and Section 951A inclusions related to controlled foreign corporations (CFCs).
+
+Part VII is for reporting information related to passive foreign investment companies (PFICs), qualified electing funds (QEFs), and qualifying insurance corporations (QICs). This section includes details about the PFIC's name, EIN, and annual information.
+
+Part VIII is specific to the base erosion and anti-abuse tax (BEAT) under Section 59A. It requires information on the partnership's applicable taxpayer, base erosion payments, and base erosion tax benefits.
+
+Overall, Schedule K-3 (Form 8865) is a comprehensive document that partners use to report their share of international activities and related tax information within a partnership.

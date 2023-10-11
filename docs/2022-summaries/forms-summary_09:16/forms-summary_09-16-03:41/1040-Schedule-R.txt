@@ -1,0 +1,15 @@
+Schedule R (Form 1040) is a document provided by the Internal Revenue Service (IRS) that taxpayers can attach to their Form 1040 or 1040-SR. It is used to claim the Credit for the Elderly or the Disabled. 
+
+To be eligible for the credit, taxpayers must meet certain criteria. They must either be age 65 or older by the end of 2022 or be under age 65 and retired on permanent and total disability, receiving taxable disability income. Additional tests must also be met.
+
+The document includes three parts. 
+
+Part I requires taxpayers to check the box corresponding to their filing status and age. There are different boxes for single filers, head of household filers, qualifying surviving spouses, married filing jointly, and married filing separately.
+
+Part II is only completed if the taxpayer checked certain boxes in Part I. It requires the taxpayer to provide a statement of permanent and total disability. If they meet certain conditions, they may not need to provide a new statement for 2022.
+
+Part III is used to calculate the credit amount. It includes various lines to enter specific information, such as taxable disability income and certain types of pensions, annuities, or disability income. The credit amount is determined based on the information entered on these lines.
+
+The document also includes a Tax Liability Limit and a Credit for the Elderly or the Disabled. The taxpayer must enter the smaller of the calculated credit amount or the tax liability limit on Schedule 3 (Form 1040), line 6d.
+
+Taxpayers are advised to refer to the instructions provided by the IRS for more detailed information and guidance on completing Schedule R.

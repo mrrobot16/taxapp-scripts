@@ -1,0 +1,13 @@
+Form 2106 is a document provided by the Internal Revenue Service (IRS) for individuals to report their employee business expenses and reimbursements. It is to be attached to Form 1040, 1040-SR, or 1040-NR when filing taxes.
+
+The form is divided into two parts. 
+
+Part I requires individuals to enter their expenses in two columns: Column A for expenses other than meals and Column B for meal expenses. It includes various types of expenses such as vehicle expenses, parking fees, tolls, transportation, travel expenses, and other business expenses. Individuals are instructed to skip line 7 if they were not reimbursed for any expenses and enter the total expenses on line 8.
+
+Part II is specifically for individuals claiming vehicle expenses. It includes sections for general information about the vehicle, such as the date it was placed in service and the total miles driven in 2022. It also includes sections for calculating the percentage of business use, average daily roundtrip commuting distance, and whether the vehicle was available for personal use during off-duty hours.
+
+There are three sections in Part II: Section A for general information, Section B for calculating the standard mileage rate, and Section C for calculating actual expenses. Section D is only to be completed if the individual owned the vehicle and is completing Section C for depreciation purposes.
+
+The form concludes with individuals entering the total expenses calculated in Part I, line 8 on line 9. They are then instructed to add the amounts on line 9 for both columns and enter the total on Schedule 1 (Form 1040), line 12.
+
+Overall, Form 2106 provides a structured way for individuals to report their employee business expenses and reimbursements, specifically focusing on vehicle expenses.

@@ -1,0 +1,1416 @@
+SCHEDULE A 
+(Form 990-T)
+Department of the Treasury 
+Internal Revenue Service 
+Unrelated Business Taxable Income  
+From an Unrelated Trade or Business
+Go to www.irs.gov/Form990T for instructions and the latest information.
+Do not enter SSN numbers on this form as it may be made public if your organization is a 501(c)(3). 
+OMB No. 1545-0047
+2022
+Open to Public Inspection for 
+501(c)(3) Organizations Only
+A   Name of the organization
+B   Employer identification number
+C  Unrelated business activity code (see instructions)  
+.
+.
+.
+.
+.
+.
+D  Sequence: 
+of
+E  Describe the unrelated trade or business
+Part I
+Unrelated Trade or Business Income
+(A) Income
+(B) Expenses
+(C) Net
+1a
+Gross receipts or sales
+b
+Less returns and allowances
+c Balance
+1c
+2
+Cost of goods sold (Part III, line 8) .
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Gross profit. Subtract line 2 from line 1c .
+.
+.
+.
+.
+.
+.
+3
+4a Capital gain net income (attach Schedule D (Form 1041 or 
+Form 1120)). See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4a
+b
+Net gain (loss) (Form 4797) (attach Form 4797). See 
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4b
+c
+Capital loss deduction for trusts 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4c
+5 
+Income (loss) from a partnership or an S corporation (attach 
+statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Rent income (Part IV) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Unrelated debt-financed income (Part V) 
+.
+.
+.
+.
+.
+.
+7
+8 
+Interest, annuities, royalties, and rents from a controlled   
+organization (Part VI) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9 
+Investment income of section 501(c)(7), (9), or (17) 
+organizations (Part VII) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Exploited exempt activity income (Part VIII) .
+.
+.
+.
+.
+.
+10
+11
+Advertising income (Part IX) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Other income (see instructions; attach statement) 
+.
+.
+.
+.
+ 
+12
+13
+Total. Combine lines 3 through 12 
+.
+.
+.
+.
+.
+.
+.
+.
+13
+Part II
+Deductions Not Taken Elsewhere  See instructions for limitations on deductions. Deductions must be 
+directly connected with the unrelated business income.
+1
+Compensation of officers, directors, and trustees (Part X) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Salaries and wages 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Repairs and maintenance 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Bad debts 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Interest (attach statement). See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Taxes and licenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Depreciation (attach Form 4562). See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Less depreciation claimed in Part III and elsewhere on return .
+.
+.
+.
+.
+8a
+8b
+9
+Depletion .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Contributions to deferred compensation plans 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Employee benefit programs .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Excess exempt expenses (Part VIII) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Excess readership costs (Part IX) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Other deductions (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Total deductions. Add lines 1 through 14 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16 
+Unrelated business income before net operating loss deduction. Subtract line 15 from Part I, line 13, 
+column (C) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+Deduction for net operating loss. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18
+Unrelated business taxable income. Subtract line 17 from line 16 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 74036O
+Schedule A (Form 990-T) 2022
+Schedule A (Form 990-T) 2022
+Page 2
+Part III
+Cost of Goods Sold
+Enter method of inventory valuation 
+1
+Inventory at beginning of year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Purchases 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Cost of labor .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Additional section 263A costs (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Other costs (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Total. Add lines 1 through 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+6
+7
+Inventory at end of year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Cost of goods sold. Subtract line 7 from line 6. Enter here and in Part I, line 2 .
+.
+.
+.
+.
+.
+.
+8
+9
+Do the rules of section 263A (with respect to property produced or acquired for resale) apply to the organization?
+Yes
+No
+Part IV
+Rent Income (From Real Property and Personal Property Leased with Real Property)
+1
+Description of property (property street address, city, state, ZIP code). Check if a dual-use. See instructions.
+A
+B
+C
+D
+A
+B
+C
+D
+2 
+Rent received or accrued
+a 
+ 
+From personal property (if the percentage of 
+rent for personal property is more than 10% 
+but not more than 50%) .
+.
+.
+.
+.
+.
+.
+.
+b 
+ 
+From real and personal property (if the 
+percentage of rent for personal property exceeds 
+50% or if the rent is based on profit or income) .
+c Total rents received or accrued by property. 
+Add lines 2a and 2b, columns A through D .
+.
+3
+Total rents received or accrued. Add line 2c columns A through D. Enter here and on Part I, line 6, column (A)
+     
+     
+     
+     
+4 
+Deductions directly connected with the income 
+in lines 2(a) and 2(b) (attach statement) .
+.
+.
+5
+Total deductions. Add line 4 columns A through D. Enter here and on Part I, line 6, column (B) 
+.
+.
+.
+Part V
+Unrelated Debt-Financed Income (see instructions) 
+1
+Description of debt-financed property (street address, city, state, ZIP code). Check if a dual-use. See instructions.
+A
+B
+C
+D
+A
+B
+C
+D
+2 
+Gross income from or allocable to debt-financed 
+property 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Deductions directly connected with or allocable 
+to debt-financed property 
+a
+Straight line depreciation (attach statement) 
+.
+b
+Other deductions (attach statement) .
+.
+.
+.
+c Total deductions (add lines 3a and 3b, 
+columns A through D) .
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Amount of average acquisition debt on or allocable 
+to debt-financed property (attach statement) 
+.
+.
+5 
+Average adjusted basis of or allocable to debt-
+financed property (attach statement) .
+.
+.
+.
+6
+Divide line 4 by line 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+%
+%
+%
+%
+7
+Gross income reportable. Multiply line 2 by line 6  
+8
+Total gross income (add line 7, columns A through D). Enter here and on Part I, line 7, column (A) .
+.
+     
+     
+     
+     
+9
+Allocable deductions. Multiply line 3c by line 6  
+10
+Total allocable deductions. Add line 9, columns A through D. Enter here and on Part I, line 7, column (B)
+11
+Total dividends — received deductions included in line 10 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule A (Form 990-T) 2022
+Schedule A (Form 990-T) 2022
+Page 3
+Part VI
+Interest, Annuities, Royalties, and Rents from Controlled Organizations (see instructions)
+1. Name of controlled 
+organization
+2. Employer 
+identification 
+number
+Exempt Controlled Organizations
+     
+     
+3. Net unrelated 
+income (loss) 
+(see instructions)
+4. Total of specified 
+payments made
+5. Part of column 4 
+that is included in the 
+controlling organization’s 
+gross income
+6. Deductions directly 
+connected with 
+income in column 5
+(1)
+(2)
+(3)
+(4)
+Nonexempt Controlled Organizations
+7. Taxable income
+8. Net unrelated 
+income (loss) 
+(see instructions)
+9. Total of specified 
+payments made
+10. Part of column 9 
+that is included in the 
+controlling organization’s 
+gross income
+11. Deductions directly 
+connected with 
+income in column 10
+(1)
+(2)
+(3)
+(4)
+Totals .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+Add columns 5 and 10.   
+Enter here and on Part I, 
+line 8, column (A)
+Add columns 6 and 11. 
+Enter here and on Part I, 
+line 8, column (B)
+Part VII
+Investment Income of a Section 501(c)(7), (9), or (17) Organization (see instructions)
+1. Description of income
+2. Amount of income
+3. Deductions 
+directly connected 
+(attach statement)
+4. Set-asides 
+(attach statement)
+5. Total deductions 
+and set-asides 
+(add columns 3 and 4)
+(1)
+(2)
+(3)
+(4)
+Totals .
+.
+.
+.
+.
+.
+.
+.
+.
+Add amounts in column 2. 
+Enter here and on Part I, 
+line 9, column (A)
+Add amounts in column 5. 
+Enter here and on Part I, 
+line 9, column (B)
+Part VIII
+Exploited Exempt Activity Income, Other Than Advertising Income (see instructions)
+1
+Description of exploited activity:
+2
+Gross unrelated business income from trade or business. Enter here and on Part I, line 10, column (A)
+2
+3 
+Expenses directly connected with production of unrelated business income. Enter here and on Part I, 
+line 10, column (B) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4 
+Net income (loss) from unrelated trade or business. Subtract line 3 from line 2. If a gain, complete 
+lines 5 through 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Gross income from activity that is not unrelated business income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Expenses attributable to income entered on line 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7 
+Excess exempt expenses. Subtract line 5 from line 6, but do not enter more than the amount on line
+4. Enter here and on Part II, line 12 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Schedule A (Form 990-T) 2022
+Schedule A (Form 990-T) 2022
+Page 4
+Part IX
+Advertising Income
+1
+Name(s) of periodical(s). Check box if reporting two or more periodicals on a consolidated basis.
+A
+B
+C
+D
+Enter amounts for each periodical listed above in the corresponding column.
+A
+B
+C
+D
+2
+Gross advertising income 
+.
+.
+.
+.
+.
+.
+.
+a
+Add columns A through D. Enter here and on Part I, line 11, column (A) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+     
+     
+     
+     
+3
+Direct advertising costs by periodical 
+.
+.
+.
+a
+Add columns A through D. Enter here and on Part I, line 11, column (B) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+     
+     
+     
+     
+4 
+ 
+ 
+ 
+Advertising gain (loss). Subtract line 3 from line 
+2. For any column in line 4 showing a gain, 
+complete lines 5 through 8. For any column in 
+line 4 showing a loss or zero, do not complete 
+lines 5 through 7, and enter zero on line 8 .
+.
+5
+Readership costs .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Circulation income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+ 
+Excess readership costs. If line 6 is less than 
+line 5, subtract line 6 from line 5. If line 5 is less 
+than line 6, enter zero .
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+ 
+Excess 
+readership 
+costs 
+allowed 
+as 
+a 
+deduction. For each column showing a gain on 
+line 4, enter the lesser of line 4 or line 7 .
+.
+.
+a Add line 8, columns A through D. Enter the greater of the line 8a, columns total or zero here and on
+Part II, line 13 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part X 
+Compensation of Officers, Directors, and Trustees (see instructions)
+1. Name
+2. Title
+3. Percentage 
+of time devoted 
+to business
+4. Compensation 
+attributable to 
+unrelated business
+(1)
+%
+(2)
+%
+(3)
+%
+(4)
+%
+Total. Enter here and on Part II, line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part XI
+Supplemental Information (see instructions)
+Schedule A (Form 990-T) 2022

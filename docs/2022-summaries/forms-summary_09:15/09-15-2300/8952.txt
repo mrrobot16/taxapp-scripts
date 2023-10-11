@@ -1,0 +1,9 @@
+Form 8952 is an application for the Voluntary Classification Settlement Program (VCSP) offered by the Internal Revenue Service (IRS). The form is used by taxpayers to voluntarily reclassify certain workers as employees for federal employment tax purposes. 
+
+The form requires the taxpayer to provide their name, employer identification number (EIN), contact information, and details about the workers to be reclassified. The taxpayer must also make certain representations, including that they have consistently treated the workers as nonemployees and have filed all required Forms 1099 for the workers.
+
+The form includes a payment calculation section using Section 3509(a) rates, which determines the amount the taxpayer will pay when submitting their signed closing agreement. The form also includes a section for the taxpayer to make representations about the examination status of the taxpayer and any previous examinations by the IRS or the Department of Labor.
+
+The form must be signed by the taxpayer under penalties of perjury, declaring that all the information provided is true, correct, and complete.
+
+The form specifically states that payment should not be sent with the form and should be submitted later with the signed closing agreement to avoid processing delays.

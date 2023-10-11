@@ -1,0 +1,17 @@
+The document is a Schedule K-2 form for Form 1120-S, which is used by corporations to report their pro rata share items for international transactions. The form is divided into several parts, and each part may or may not apply depending on the specific circumstances of the corporation. 
+
+Part I is for reporting other current year international information for corporations. It includes checkboxes for various specified attachments and provides space for reporting different types of international items.
+
+Part II is for reporting the foreign tax credit limitation. It includes sections for reporting gross income from different sources, such as sales, services, rental income, royalties, capital gains, and more. The information is reported separately for U.S. source income and foreign source income.
+
+Part III is for providing other information necessary for the preparation of Form 1116, which is used to claim the foreign tax credit. It includes sections for apportionment factors related to research and experimental expenses and interest expenses, as well as information on foreign taxes paid or accrued.
+
+Part IV is for reporting distributions from foreign corporations to the S corporation. It includes information on the distributing foreign corporation, the date of distribution, the functional currency, the amount of distribution, and the amount of earnings and profits (E&P) distribution.
+
+Part V is for reporting information on shareholders' Section 951(a)(1) and Section 951A inclusions. It includes separate categories for reporting different types of income and provides space for reporting the name of controlled foreign corporations, their EIN or reference ID number, and the shareholders' share of various items.
+
+Part VI is for providing information to complete Form 8621, which is used to report passive foreign investment company (PFIC) information. It includes sections for general information on PFICs, QEF information, mark-to-market information, and Section 1291 and other information.
+
+Part VII is for reporting S corporations' interest in foreign corporation income under Section 960. It includes sections for reporting different types of income from subpart F, tested income, residual income, and more.
+
+Overall, the Schedule K-2 form is used to report various international tax-related information for corporations and their shareholders.

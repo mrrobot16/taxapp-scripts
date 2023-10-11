@@ -1,0 +1,476 @@
+SCHEDULE G 
+(Form 8865)
+(Rev. December 2021)
+Department of the Treasury  
+Internal Revenue Service 
+Statement of Application of the Gain Deferral Method  
+Under Section 721(c)
+▶ Attach to Form 8865. See the Instructions for Form 8865.
+▶ Go to www.irs.gov/Form8865 for instructions and the latest information.
+OMB No. 1545-1668
+Name of person filing Form 8865
+Filer’s identification number
+Name of partnership
+Successor 
+partnership
+EIN (if any)
+Reference ID number (see instructions)
+Name of U.S. transferor (see instructions)
+Successor 
+U.S. transferor
+Filing year: (see instructions)
+Tax year of gain deferral contribution
+Annual reporting
+Part I 
+Section 721(c) Property (see instructions)
+1. 
+Tax year of 
+contribution
+2. 
+Description of property
+3. 
+Recovery 
+period
+4. 
+Section 
+197(f)(9) 
+property
+5. 
+Effectively 
+connected 
+income 
+property
+6. On the date of contribution
+(a) 
+Fair market 
+value
+(b) 
+Basis 
+(c) 
+Built-in gain 
+7. Events
+(a) 
+Acceleration 
+(including 
+partial 
+acceleration 
+event)
+(b) 
+Termination
+(c) 
+Successor
+(d) 
+Tax 
+disposition of 
+a portion of 
+partnership 
+interest
+(e) 
+Section 
+367 transfer
+     
+     
+     
+     
+     
+     
+     
+     
+   
+     
+     
+1
+2
+3
+4
+4a
+From Part I additional 
+statement(s), if any
+Do the tiered partnership rules of Regulations section 1.721(c)‐3(d) apply to this partnership? See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+Part II 
+Remaining Built-in Gain, Remedial Income, and Gain Recognition (see instructions)
+Part I,  
+line 
+number
+(a) 
+Remaining built‐in gain at 
+beginning of tax year
+(b) 
+Remaining built‐in gain at 
+end of tax year 
+(c) 
+Remedial income allocated 
+to U.S. transferor 
+(d) 
+Gain recognized  
+due to acceleration event 
+(e) 
+Gain recognized  
+due to section 367 transfer
+1
+2
+3
+4
+Total*
+* Total must include any amounts included on an attached statement. See instructions.
+For Paperwork Reduction Act Notice, see the Instructions for Form 8865.
+Cat. No. 71017D
+Schedule G (Form 8865) (Rev. 12-2021)
+Schedule G (Form 8865) (Rev. 12-2021)
+Page 2 
+Part III 
+Allocation Percentages of Partnership Items With Respect to Section 721(c) Property (see instructions)  
+Part I, 
+line 
+number
+1. Income
+(a) 
+U.S. 
+transferor
+(b) 
+Related domestic 
+partners
+(c) 
+Related foreign 
+partners
+2. Gain
+(a) 
+U.S. 
+transferor
+(b) 
+Related domestic 
+partners
+(c) 
+Related foreign 
+partners
+3. Deduction
+(a) 
+U.S. 
+transferor
+(b) 
+Related domestic 
+partners
+(c) 
+Related foreign 
+partners
+4. Loss
+(a) 
+U.S. 
+transferor
+(b) 
+Related domestic 
+partners
+(c) 
+Related foreign 
+partners
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+1
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+2
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+3
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+4
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+%
+Part IV 
+Allocation of Items to U.S. Transferor With Respect to Section 721(c) Property (see instructions) 
+1. Income
+2. Gain
+3. Deduction
+4. Loss
+Part I, 
+line 
+number
+(a) 
+Book 
+(b) 
+Tax
+(a) 
+Book 
+(b) 
+Tax
+(a) 
+Book 
+(b) 
+Tax
+(a) 
+Book 
+(b) 
+Tax
+1
+2
+3
+4
+Part V 
+Additional Information (see instructions). If “Yes” to any question 1 through 6b below, complete Schedule H.
+Yes
+No
+1 
+During the tax year, did an acceleration event or partial acceleration event (as described in Regulations section 1.721(c)‐4 or Regulations section 1.721(c)‐
+5(d)) occur with respect to one or more section 721(c) properties? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+During the tax year, did a termination event (as described in Regulations section 1.721(c)‐5(b)) occur with respect to one or more section 721(c) properties?
+2
+3
+During the tax year, did a successor event (as described in Regulations section 1.721(c)‐5(c)) occur with respect to one or more section 721(c) properties?
+3
+4
+During the tax year, was there a tax disposition of a portion of an interest in the partnership (as described in Regulations section 1.721(c)‐5(f))? 
+.
+.
+.
+4
+5 
+During the tax year, was there a direct or indirect transfer of section 721(c) property to a foreign corporation subject to section 367 (as described in 
+Regulations section 1.721(c)‐5(e))? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6 a Was any additional section 721(c) property contributed to the section 721(c) partnership during the tax year? If “Yes,” complete Schedule O, include each 
+contributed property in Part I above and information with respect to the property in Parts II–IV above, and complete line 6b  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a
+b
+Is the gain deferral method applied with respect to one or more of such additional section 721(c) property contributed?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6b
+7 a Was a copy of the waiver of treaty benefits (as described in Regulations section 1.721(c)‐6(b)(2)(iii)) filed with respect to each section 721(c) property 
+contribution to the section 721(c) partnership? If “Yes,” complete line 7b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7a
+b 
+ 
+ 
+ 
+ 
+ 
+With respect to each section 721(c) property for which a waiver of treaty benefits was filed, after exercising reasonable diligence, has the U.S. transferor 
+determined that to the best of its knowledge and belief, all income from section 721(c) property allocated to the partners during the tax year remained 
+subject to taxation as income effectively connected with the conduct of a trade or business within the United States (under either section 871 or 882) for 
+all direct or indirect partners that are related foreign persons with respect to the U.S. transferor (regardless of whether any such partner was a partner at 
+the time of the gain deferral contribution), and that neither the section 721(c) partnership nor any such partner has made any claim under an income tax 
+convention to an exemption from U.S. income tax or a reduced rate of U.S. income taxation on income derived from the use of section 721(c) property? 
+See Regulations section 1.721‐6(b)(3)(vi) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7b
+Part VI 
+Supplemental Information (see instructions) 
+Schedule G (Form 8865) (Rev. 12-2021)

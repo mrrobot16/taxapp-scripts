@@ -1,0 +1,9 @@
+Form 8915-D is a form provided by the Internal Revenue Service (IRS) for taxpayers to report qualified 2019 disaster retirement plan distributions and repayments. This form is to be attached to the taxpayer's 2022 Form 1040, 1040-SR, or 1040-NR.
+
+The form includes two parts: Part I for reporting qualified 2019 disaster distributions from retirement plans other than IRAs, and Part II for reporting qualified 2019 disaster distributions from traditional, SEP, SIMPLE, and Roth IRAs.
+
+In each part, the form asks for the amounts from previous years' forms (2020 and 2021) related to the qualified disaster distributions and repayments. The form also calculates the excess repayment from 2021, the amount already carried back to a prior year, the total repayments made before filing the 2022 tax return, and the amount subject to tax in 2022.
+
+The form includes a section for the taxpayer to sign, declaring that the information provided is true, correct, and complete. There is also a section for the preparer's information if someone other than the taxpayer prepared the form.
+
+Taxpayers should refer to the instructions provided on the IRS website (www.irs.gov/Form8915D) for detailed guidance on how to complete the form.

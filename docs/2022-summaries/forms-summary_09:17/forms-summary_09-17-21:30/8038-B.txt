@@ -1,0 +1,21 @@
+Form 8038-B is an information return for Build America Bonds and Recovery Zone Economic Development Bonds, as required by the Internal Revenue Code section 149(e). The form is used by issuers to report various details about the bonds they have issued.
+
+Part I of the form includes basic information about the issuer, such as their name, employer identification number (EIN), and contact person for communication with the IRS.
+
+Part II is used to specify the type of bonds being reported, including Build America Bonds (Tax Credit), Build America Bonds (Direct Payment), and Recovery Zone Economic Development Bonds (Direct Payment). The form also requires the issuer to provide the first interest payment date and frequency.
+
+Part III is where the purpose of the bond issue is described, along with the issue price. This section includes various categories such as education, health and hospital, transportation, public safety, environment, housing, utilities, and other descriptions.
+
+Part IV is used to provide a description of the obligations being reported, including the stated redemption price at maturity, final maturity date, weighted average maturity, and yield. If the issue is a variable rate issue, the frequency of rate resets should be indicated.
+
+Part V requires the issuer to specify the use of proceeds from the bond issue, including sales proceeds, expected investment proceeds, proceeds used for accrued interest, bond issuance cost, credit enhancement, reserve fund, capital expenditures, working capital expenditures, currently refunding prior issues, and advance refunding prior issues.
+
+Part VI is used to describe any refunded bonds if applicable, including the remaining weighted average maturity and the date of call for the refunded bonds.
+
+Part VII includes miscellaneous information such as the volume cap allocated to the issue, gross proceeds invested in a guaranteed investment contract (GIC), proceeds used to make loans to other governmental units, information about loans made from the proceeds of another issue, information about any hedges entered into, and whether the issuer has elected to pay a penalty in lieu of arbitrage rebate or has established procedures for remediation of nonqualified bonds.
+
+Part VIII is where the issuer gives consent to the IRS to disclose certain information from the return, such as the issuer's name and address, employer identification number, bond issue details, and other relevant information.
+
+The form concludes with a signature and consent section, where the issuer's authorized representative signs and provides their name, title, and date. There is also a section for paid preparers to sign if applicable.
+
+This summary provides a general overview of the information required on Form 8038-B. It is important to refer to the separate instructions for detailed guidance on completing the form accurately.

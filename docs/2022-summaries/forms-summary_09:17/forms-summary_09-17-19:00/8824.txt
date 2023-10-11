@@ -1,0 +1,9 @@
+Form 8824 is a document provided by the Internal Revenue Service (IRS) for reporting like-kind exchanges and section 1043 conflict-of-interest sales. The form is used to provide information about the properties involved in the exchange, including their descriptions, acquisition dates, transfer dates, and identification dates. 
+
+If the exchange involves a related party, additional information must be provided in Part II of the form, including the name, relationship, identifying number, and address of the related party. The form also asks whether either party sold or disposed of any part of the like-kind property received.
+
+Part III of the form is used to calculate the realized gain or loss, recognized gain, and basis of the like-kind property received. It includes sections for reporting the fair market value, adjusted basis, and gain or loss recognized on any other property given up in the exchange. The form also calculates the cash received, net liabilities assumed, and the fair market value of the like-kind property received.
+
+Part IV of the form is specific to officers or employees of the executive branch of the federal government or judicial officers of the federal government who are reporting nonrecognition of gain under section 1043 on the sale of property to comply with conflict-of-interest requirements. This part requires the entry of a certificate of divestiture number, descriptions of the divested and replacement property, and information about the sale and cost of the replacement property.
+
+Overall, Form 8824 is used to report the details of like-kind exchanges and section 1043 conflict-of-interest sales for tax purposes.

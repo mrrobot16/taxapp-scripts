@@ -1,0 +1,9 @@
+This document provides information about Form 1099-S, which is used to report proceeds from real estate transactions to the Internal Revenue Service (IRS). It explains that Copy A of the form is provided for informational purposes only and is not scannable if printed from the website. It warns against filing Copy A downloaded from the website, as a penalty may be imposed for filing forms that can't be scanned. However, it states that Copy B and other copies of the form can be downloaded, printed, and used to provide information to the recipient.
+
+The document also provides instructions for completing the form, including information on the filer's name, address, and taxpayer identification number (TIN), as well as the transferor's name, address, and TIN. It includes boxes to enter the date of closing, gross proceeds from the transaction, the address or legal description of the property transferred, and whether the transferor received or will receive property or services as part of the consideration. There is also a checkbox to indicate if the transferor is a foreign person and a box to enter the buyer's part of real estate tax.
+
+The document includes instructions for the transferor and the filer, as well as information about reporting requirements for certain real estate transactions and potential penalties for non-compliance. It also provides information on federal mortgage subsidies and the recapture of subsidies under certain circumstances.
+
+The document concludes with information on where to find the latest developments related to Form 1099-S and instructions for the Free File Program, which offers free online federal tax preparation options.
+
+Overall, the document serves as a guide for individuals and businesses involved in real estate transactions to understand and comply with the reporting requirements of Form 1099-S.

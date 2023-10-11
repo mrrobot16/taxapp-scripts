@@ -1,0 +1,22 @@
+Schedule B (Form 1040) is a document provided by the Internal Revenue Service (IRS) for reporting interest and ordinary dividends on a taxpayer's tax return. It is used to report income from various sources, such as bank accounts, brokerage accounts, and foreign accounts.
+
+The form consists of three parts:
+
+Part I: Interest
+- This section is used to report interest income received from various sources.
+- If the taxpayer received a Form 1099-INT, Form 1099-OID, or substitute statement from a brokerage firm, they should list the firm's name as the payer and enter the total interest shown on that form.
+- Excludable interest on series EE and I U.S. savings bonds issued after 1989 should be reported separately by attaching Form 8815.
+- The result of subtracting excludable interest from the total interest is entered on Form 1040 or 1040-SR, line 2b.
+
+Part II: Ordinary Dividends
+- This section is used to report ordinary dividends received from various sources.
+- If the taxpayer received a Form 1099-DIV or substitute statement from a brokerage firm, they should list the firm's name as the payer and enter the ordinary dividends shown on that form.
+- The total of all ordinary dividends received is entered on Form 1040 or 1040-SR, line 3b.
+
+Part III: Foreign Accounts and Trusts
+- This section is required to be completed if the taxpayer had over $1,500 of taxable interest or ordinary dividends, had a foreign account, or received a distribution from, or were a grantor of, or a transferor to, a foreign trust.
+- It includes questions regarding financial interest in or signature authority over a foreign financial account and the requirement to file FinCEN Form 114 (FBAR) to report that financial interest or signature authority.
+- If applicable, the taxpayer should list the name(s) of the foreign country(-ies) where the financial account(s) are located.
+- It also includes a question about receiving a distribution from, or being the grantor of, or transferor to, a foreign trust, which may require filing Form 3520.
+
+Taxpayers should consult the instructions provided by the IRS for detailed guidance on completing Schedule B and for the latest information. The form should be attached to Form 1040 or 1040-SR when filing taxes.

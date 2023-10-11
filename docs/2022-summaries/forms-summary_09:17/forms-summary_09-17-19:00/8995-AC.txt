@@ -1,0 +1,27 @@
+Schedule C (Form 8995-A) is a document provided by the Internal Revenue Service (IRS) that taxpayers need to attach to Form 8995-A. The purpose of this form is to calculate loss netting and carryforward for qualified business income. 
+
+The form consists of several sections and requires the taxpayer to provide information about their trades, businesses, or aggregations. If the taxpayer has more than three, they can attach additional Schedule C forms as needed.
+
+The form includes the following sections:
+
+1. Trade, business, or aggregation name: The taxpayer needs to provide the name of each trade, business, or aggregation they are reporting.
+
+2. Qualified business income/(loss): This section requires the taxpayer to report the qualified business income or loss for each trade, business, or aggregation. 
+
+3. Reduction for loss netting: The taxpayer needs to calculate and enter the reduction amount for loss netting, as instructed.
+
+4. Adjusted qualified business income: This section requires the taxpayer to combine the qualified business income or loss with the reduction for loss netting to calculate the adjusted qualified business income. If the result is zero or less, the taxpayer should enter -0-.
+
+5. Qualified business net (loss) carryforward from prior years: The taxpayer needs to report any qualified business net loss carryforward from previous years.
+
+6. Total of the trades, businesses, or aggregations losses: The taxpayer needs to combine the negative amounts from line 1, column (a), and line 2 for all trades, businesses, or aggregations.
+
+7. Total of the trades, businesses, or aggregations income: The taxpayer needs to add the positive amounts from line 1, column (a), for all trades, businesses, or aggregations.
+
+8. Losses netted with income of other trades, businesses, or aggregations: The taxpayer needs to enter in the parentheses on line 5 the smaller value between the absolute value of line 3 or line 4. This amount should be allocated to each of the trades, businesses, or aggregations on line 1, column (b).
+
+9. Qualified business net (loss) carryforward: The taxpayer needs to subtract line 5 from line 3 to calculate the qualified business net loss carryforward. If the result is zero or more, the taxpayer should enter -0-.
+
+The form also includes information about the Privacy Act and Paperwork Reduction Act Notice, which taxpayers should review.
+
+For detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8995A.

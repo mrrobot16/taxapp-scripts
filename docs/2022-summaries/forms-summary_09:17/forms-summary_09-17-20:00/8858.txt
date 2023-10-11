@@ -1,0 +1,1353 @@
+Form  8858 
+(Rev. September 2021) 
+Department of the Treasury  
+Internal Revenue Service
+Information Return of U.S. Persons With Respect to Foreign 
+Disregarded Entities (FDEs) and Foreign Branches (FBs)
+▶ Go to www.irs.gov/Form8858 for instructions and the latest information.
+Information furnished for the FDE’s or FB’s annual accounting period (see instructions)
+ beginning
+, 20
+, and ending
+, 20
+OMB No. 1545-1910
+Attachment   
+Sequence No.    140 
+Name of person filing this return
+Filer’s identifying number
+Number, street, and room or suite no. (or P.O. box number if mail is not delivered to street address)
+City or town, state, and ZIP code
+Filer’s tax year beginning
+, 20
+, and ending
+, 20
+Important:  Fill in all applicable lines and schedules. All information must be in English. All amounts must be stated in  
+U.S. dollars unless otherwise indicated. 
+Check here 
+FDE of a U.S. person
+FDE of a controlled foreign corporation (CFC)
+FDE of a controlled foreign partnership
+FB of a U.S. person 
+FB of a CFC
+FB of a controlled foreign partnership 
+Check here 
+Initial Form 8858 
+Final Form 8858
+1a  Name and address of FDE or FB
+b(1)  U.S. identifying number, if any 
+b(2)  Reference ID number (see instructions)
+ c  For FDE, country(ies) under whose laws organized and entity type under local tax law 
+d  Date(s) of organization 
+e  Effective date as FDE
+f   If benefits under a U.S. tax treaty were claimed with respect to 
+income of the FDE or FB, enter the treaty and article number 
+g  Country in which principal business 
+activity is conducted 
+h  Principal business  
+activity 
+i  Functional currency 
+2    Provide the following information for the FDE’s or FB’s accounting period stated above. 
+a  Name, address, and identifying number of branch office or agent (if any) in  
+the United States 
+b  Name and address (including corporate department, if applicable) of person(s) 
+with custody of the books and records of the FDE or FB, and the location of 
+such books and records, if different 
+3    For the tax owner of the FDE or FB (if different from the filer), provide the following (see instructions): 
+a  Name and address 
+b  Annual accounting period covered by the return (see instructions) 
+c(1)  U.S. identifying number, if any 
+c(2)  Reference ID number (see instructions)
+d  Country under whose laws organized 
+e  Functional currency 
+4    For the direct owner of the FDE or FB (if different from the tax owner), provide the following (see instructions): 
+a  Name and address 
+b  Country under whose laws organized 
+c  U.S. identifying number, if any 
+d  Functional currency 
+5    Attach an organizational chart that identifies the name, placement, percentage of ownership, tax classification, and country of organization of all entities in the chain of 
+ownership between the tax owner and the FDE or FB, and the chain of ownership between the FDE or FB and each entity in which the FDE or FB has a 10% or more 
+direct or indirect interest. See instructions. 
+For Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 21457L
+Form 8858 (Rev. 9-2021) 
+Form 8858 (Rev. 9-2021) 
+Page 2 
+Schedule C
+Income Statement  (see instructions) 
+Important:  Report all information in functional currency in accordance with U.S. GAAP. Also, report each amount in U.S. 
+dollars translated from functional currency (using GAAP translation rules or the average exchange rate determined under 
+section 989(b)). If the functional currency is the U.S. dollar, complete only the U.S. Dollars column. See instructions for 
+special rules for FDEs or FBs that use U.S. dollar approximate separate transactions method of accounting (DASTM). 
+If you are using the average exchange rate (determined under section 989(b)), check the following box .
+.
+.
+.
+.
+.
+Functional Currency
+U.S. Dollars
+1
+Gross receipts or sales (net of returns and allowances) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Cost of goods sold .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Gross profit (subtract line 2 from line 1) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Gross rents, royalties, and license fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Gross income from performance of services 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Foreign currency gain (loss) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Other income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Total income (add lines 3 through 9) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Total deductions (exclude income tax expense) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Income tax expense 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Other adjustments .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Net income (loss) per books .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+14
+Schedule C-1
+Section 987 Gain or Loss Information
+Note: See the instructions if there are multiple recipients of remittances from 
+the FDE or FB.
+(a)  
+ Amount stated in  
+functional currency of  
+FDE or FB 
+(b)  
+ Amount stated in  
+functional currency of 
+recipient 
+1
+Remittances from the FDE or FB .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Section 987 gain (loss) recognized by recipient 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3 
+ 
+Section 987 gain (loss) deferred under Regulations section 1.987-12 (attach 
+statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Yes
+No
+4
+Were all remittances from the FDE or FB treated as made to the direct owner? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+ 
+ 
+Did the tax owner change its method of accounting for section 987 gain or loss with respect to remittances
+from the FDE or FB during the tax year? If “Yes,” attach a statement describing the method used prior to 
+the change and new method of accounting .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule F
+Balance Sheet
+Important:  Report all amounts in U.S. dollars computed in functional currency and translated into U.S. dollars in  
+accordance with U.S. GAAP. See instructions for an exception for FDEs or FBs that use DASTM. 
+Assets
+(a)  
+Beginning of annual  
+accounting period 
+(b)  
+ End of annual  
+accounting period 
+1
+Cash and other current assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Other assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Total assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Liabilities and Owner’s Equity
+4
+Liabilities .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Owner’s equity .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Total liabilities and owner’s equity .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Schedule G
+Other Information
+Yes
+No
+1
+During the tax year, did the FDE or FB own an interest in any trust? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+ 
+During the tax year, did the FDE or FB own at least a 10% interest, directly or indirectly, in any foreign
+partnership? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+ 
+Answer only if the FDE made its election to be treated as disregarded from its owner during the tax year: 
+Did the tax owner claim a loss with respect to stock or debt of the FDE as a result of the election? 
+.
+.
+.
+4 
+ 
+During the tax year, did the FDE or FB pay or accrue any foreign tax that was disqualified for credit under 
+section 901(m)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+ 
+During the tax year, did the FDE or FB pay or accrue foreign taxes to which section 909 applies, or treat 
+foreign taxes that were previously suspended under section 909 as no longer suspended? .
+.
+.
+.
+.
+.
+Form 8858 (Rev. 9-2021) 
+Form 8858 (Rev. 9-2021) 
+Page 3 
+Schedule G
+Other Information (continued)
+Yes
+No
+6
+Is the FDE or FB a qualified business unit as defined in section 989(a)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Do not complete lines 7 and 8 if you are an individual who owns an FB or FDE directly or through tiers of
+FBs and FDEs.
+7 
+ 
+ 
+ 
+a 
+  
+  
+ 
+During the tax year, did the FDE or FB receive, or accrue the receipt of, any amounts defined as a 
+base erosion payment under section 59A(d) or have a base erosion tax benefit under section 59A(c)(2) from
+a foreign person, which is a related party of the taxpayer? See instructions. If “Yes,” complete lines 7b 
+and 7c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Enter the total amount of the base erosion payments
+$
+c
+Enter the total amount of the base erosion tax benefit 
+$
+8 
+ 
+ 
+a 
+  
+ 
+During the tax year, did the FDE or FB pay, or accrue the payment of, any amounts defined as a base 
+erosion payment under section 59A(d) or have a base erosion tax benefit under section 59A(c)(2) to a foreign 
+person, which is a related party of the taxpayer? See instructions. If “Yes,” complete lines 8b and 8c .
+.
+.
+b
+Enter the total amount of the base erosion payments  
+$
+c
+Enter the total amount of the base erosion tax benefit 
+$
+9 
+ 
+ 
+Answer only if the tax owner of the FDE or FB is a CFC: Were there any intracompany transactions between
+the FDE or FB and the CFC or any other branch of the CFC during the tax year, in which the FDE or FB 
+acted as a manufacturing, selling, or purchasing branch? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Answer the remaining questions in Schedule G only if the tax owner of the FB or the interest in the FDE is a 
+U.S. corporation. Answer questions 10a through 11c if the tax owner of the FB or the interest in the FDE is
+treated as a U.S. corporation solely for purposes of these questions.
+10 
+ 
+ 
+a 
+  
+ 
+If the FB or the interest in the FDE is a separate unit under Regulations section  1.1503(d)-1(b)(4), and is not 
+part of a combined separate unit under Regulations section 1.1503(d)-1(b)(4)(ii), does the separate unit have
+a dual consolidated loss as defined in Regulations section 1.1503(d)-1(b)(5)(ii)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+If “Yes,” enter the amount of the dual consolidated loss 
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶  $ (                          )
+11 
+ 
+ 
+a 
+  
+ 
+If the FB or the interest in the FDE is a separate unit and part of a combined separate unit under 
+Regulations section 1.1503(d)-1(b)(4)(ii), does the combined separate unit have a dual consolidated loss as 
+defined in Regulations section 1.1503(d)-1(b)(5)(ii)? If “Yes,” complete lines 11b and 11c .
+.
+.
+.
+.
+.
+.
+b
+Enter the amount of the dual consolidated loss for the combined separate unit .
+.  ▶  $ (                          )
+c 
+ 
+Enter the net income (loss) attributed to the individual FB or the individual interest in the FDE as determined
+under Regulations section 1.1503(d)-5(c)(4)(ii)(A) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶ $
+12 
+ 
+a 
+ 
+Was any portion of the dual consolidated loss on line 10b or 11b taken into account in computing U.S. 
+taxable income for the year? If “Yes,” go to line 12b. If “No,” go to line 13 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b 
+ 
+Was this a permitted domestic use of the dual consolidated loss under Regulations section 1.1503(d)-6? If
+“Yes,” see the instructions and go to line 12c. If “No,” go to line 12d 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c 
+ 
+If “Yes,” is the documentation that is required for the permitted domestic use under Regulations section
+1.1503(d)-6 attached to the return? After answering this question, go to line 13a  .
+.
+.
+.
+.
+.
+.
+.
+.
+d 
+ 
+If this was not a permitted domestic use, was the dual consolidated loss used to compute consolidated
+taxable income as provided under Regulations section 1.1503(d)-4? If “Yes,” go to line 12e .
+.
+.
+.
+.
+.
+e 
+ 
+Enter 
+the 
+separate 
+unit’s 
+contribution 
+to 
+the 
+cumulative 
+consolidated 
+taxable 
+income
+(“cumulative register”) as of the beginning of the tax year .
+.
+▶ $
+. See instructions.
+13 
+ 
+ 
+a 
+  
+ 
+During the tax year, did any triggering event(s) occur under Regulations section 1.1503(d)-6(e) requiring 
+recapture of any dual consolidated loss(es) attributable to the FB or interest in the FDE, individually or as 
+part of a combined separate unit, in any prior tax years? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+If “Yes,” enter the total amount of recapture 
+.
+.
+.
+.
+.
+.
+▶ $
+. See instructions.
+Schedule H
+Current Earnings and Profits or Taxable Income  (see instructions) 
+Important:  Enter the amounts on lines 1 through 6 in functional currency. 
+1
+Current year net income (loss) per foreign books of account .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Total net additions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Total net subtractions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Current earnings and profits (or taxable income—see instructions) (line 1 plus line 2 minus line 3) .
+.
+4
+5
+DASTM gain (loss) (if applicable) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Combine lines 4 and 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7 
+ 
+Current earnings and profits (or taxable income) in U.S. dollars (line 6 translated at the average 
+exchange rate determined under section 989(b) and the related regulations (see instructions)) .
+.
+.  
+7
+8
+Enter exchange rate used for line 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+Form 8858 (Rev. 9-2021) 
+Form 8858 (Rev. 9-2021) 
+Page 4 
+Schedule I
+Transferred Loss Amount (see instructions)
+Important: See instructions for who has to complete this section.
+Yes
+No
+1 
+ 
+Were any assets of an FB (including an FB that is an FDE) transferred to a foreign corporation? If “No,”
+stop here. If “Yes,” go to line 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+ 
+ 
+Was the transferor a domestic corporation that transferred substantially all of the assets of an FB (including 
+an FB that is an FDE) to a specified 10%-owned foreign corporation? If “No,” stop here. If “Yes,” go to 
+line 3
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+ 
+Immediately after the transfer, was the domestic corporation a U.S. shareholder with respect to the
+transferee foreign corporation? If “No,” stop here. If “Yes,” go to line 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+ 
+Enter the transferred loss amount included in gross income as required under section 91. See 
+instructions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Schedule J
+Income Taxes Paid or Accrued (see instructions)
+Foreign Income Taxes
+Foreign Tax Credit Separate Categories
+(a)  
+Country or 
+Possession 
+(b)  
+Foreign Tax Year 
+(YYYY-MM-DD)
+(c)  
+ Foreign Currency 
+(d)   
+Conversion Rate
+(e)  
+U.S. Dollars
+(f)  
+Foreign Branch
+(g)  
+Passive
+(h)  
+General
+(i)  
+Other
+Totals
+Form 8858 (Rev. 9-2021) 

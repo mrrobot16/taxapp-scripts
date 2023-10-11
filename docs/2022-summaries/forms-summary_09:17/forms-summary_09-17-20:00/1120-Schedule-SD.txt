@@ -1,0 +1,412 @@
+SCHEDULE D  
+(Form 1120-S) 
+Department of the Treasury  
+Internal Revenue Service 
+Capital Gains and Losses and Built-in Gains 
+Attach to Form 1120-S.   
+Use Form 8949 to list your transactions for lines 1b, 2, 3, 8b, 9, and 10.  
+Go to www.irs.gov/Form1120S for instructions and the latest information.   
+OMB No. 1545-0123 
+2022
+Name 
+Employer identification number 
+Did the corporation dispose of any investment(s) in a qualified opportunity fund during the tax year? .
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” attach Form 8949 and see its instructions for additional requirements for reporting your gain or loss.
+Part I 
+Short-Term Capital Gains and Losses—Generally Assets Held One Year or Less (see instructions)
+See instructions for how to figure the amounts 
+to enter on the lines below.  
+This form may be easier to complete if you
+round off the cents to whole dollars. 
+(d)  
+Proceeds  
+(sales price) 
+(e)  
+Cost  
+(or other basis) 
+(g) 
+Adjustments to 
+gain or loss from 
+Form(s) 8949, Part I, 
+line 2, column (g) 
+(h) Gain or (loss) 
+Subtract column (e)       
+from column (d) and 
+combine the result        
+with column (g)
+1a 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals for all short-term transactions 
+reported on Form 1099-B for which 
+basis was reported to the IRS and for 
+which you have no adjustments (see 
+instructions). However, if you choose 
+to report all these transactions on 
+Form 8949, leave this line blank and go 
+to line 1b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b Totals for all transactions reported on 
+Form(s) 8949 with Box A checked .
+.
+2 
+Totals for all transactions reported on 
+Form(s) 8949 with Box B checked .
+.
+3 
+Totals for all transactions reported on 
+Form(s) 8949 with Box C checked .
+.
+4
+Short-term capital gain from installment sales from Form 6252, line 26 or 37 .
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Short-term capital gain or (loss) from like-kind exchanges from Form 8824 
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Tax on short-term capital gain included on line 23 below .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+(                                ) 
+7 
+Net short-term capital gain or (loss). Combine lines 1a through 6 in column (h). Enter here and 
+on Form 1120-S,  Schedule K, line 7 or 10 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Part II 
+Long-Term Capital Gains and Losses—Generally Assets Held More Than One Year (see instructions)
+See instructions for how to figure the amounts 
+to enter on the lines below.  
+This form may be easier to complete if you
+round off the cents to whole dollars. 
+(d)  
+Proceeds  
+(sales price) 
+(e)  
+Cost  
+(or other basis) 
+(g) 
+Adjustments to 
+gain or loss from 
+Form(s) 8949, Part II, 
+line 2, column (g) 
+(h) Gain or (loss) 
+Subtract column (e)       
+from column (d) and 
+combine the result        
+with column (g)
+8a 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals for all long-term transactions 
+reported on Form 1099-B for which 
+basis was reported to the IRS and for 
+which you have no adjustments (see 
+instructions). However, if you choose 
+to report all these transactions on 
+Form 8949, leave this line blank and go 
+to line 8b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8b Totals for all transactions reported on 
+Form(s) 8949 with Box D checked .
+.
+9 
+Totals for all transactions reported on 
+Form(s) 8949 with Box E checked .
+.
+10 
+Totals for all transactions reported on 
+Form(s) 8949 with Box F checked .
+.
+11
+Long-term capital gain from installment sales from Form 6252, line 26 or 37 .
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Long-term capital gain or (loss) from like-kind exchanges from Form 8824 
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Capital gain distributions (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Tax on long-term capital gain included on line 23 below 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 (                                ) 
+15 
+Net long-term capital gain or (loss). Combine lines 8a through 14 in column (h). Enter here and 
+on Form 1120-S, Schedule K, line 8a or 10 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+For Paperwork Reduction Act Notice, see the Instructions for Form 1120-S. 
+Cat. No. 11516V 
+Schedule D (Form 1120-S) 2022
+Schedule D (Form 1120-S) 2022
+Page 2 
+Part III 
+Built-in Gains Tax (See instructions before completing this part.) 
+16 
+Excess of recognized built-in gains over recognized built-in losses (attach computation statement) 
+16 
+17
+Taxable income (attach computation statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18
+Net recognized built-in gain. Enter the smallest of line 16, line 17, or line 8 of Schedule B 
+.
+.
+.
+18 
+19
+Section 1374(b)(2) deduction 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20
+Subtract line 19 from line 18. If zero or less, enter -0- here and on line 23 .
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21
+Enter 21% (0.21) of line 20 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22 
+Section 1374(b)(3) business credit and minimum tax credit carryforwards from C corporation years
+22 
+23 
+Tax. Subtract line 22 from line 21 (if zero or less, enter -0-). Enter here and on Form 1120-S, page 1, 
+line 22b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+Schedule D (Form 1120-S) 2022

@@ -1,0 +1,11 @@
+Form 8912 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim a credit for holding tax credit bonds. The form is divided into several parts.
+
+Part I is for reporting the current year credit. It includes lines to enter the bond credits from Part III and Part IV of the form, as well as any carryforward of credits from previous years.
+
+Part II calculates the allowable credit based on the taxpayer's regular tax before credits and alternative minimum tax. The total credit is determined by adding lines 7 and 8.
+
+Part III is for reporting bond credits received from Form 1097-BTC. Taxpayers are instructed to enter the name, identifying number, and amount reported on Form 1097-BTC for each bond issuer.
+
+Part IV is for reporting bond credits from bonds held by the taxpayer or their nominee(s) that were not reported on Form 1097-BTC. Taxpayers are instructed to enter the relevant information for each bond issuer, including the bond issuer's name, employer identification number, issuance date, maturity date, and any disposal date.
+
+The form provides instructions and guidance for completing each section. Once completed, the taxpayer can report the total credit on their tax return using the appropriate line for their filing status (e.g., Schedule 3 for individuals, Schedule J for corporations, Schedule G for estates and trusts).

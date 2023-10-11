@@ -1,0 +1,9 @@
+Schedule 1 (Form 1040) is an additional form that taxpayers in the United States need to attach to their Form 1040, 1040-SR, or 1040-NR when filing their taxes. It consists of two parts: Additional Income and Adjustments to Income.
+
+Part I, Additional Income, provides space to report various types of additional income that may need to be included on the tax return. This includes taxable refunds, credits, or offsets of state and local income taxes, alimony received, business income or loss, other gains or losses, rental real estate income, farm income or loss, unemployment compensation, and other types of income such as net operating loss, gambling winnings, cancellation of debt, foreign earned income exclusion, and more. Taxpayers need to provide the necessary information and attach any required schedules or forms for each type of income.
+
+Part II, Adjustments to Income, allows taxpayers to report adjustments that can reduce their overall taxable income. This includes deductions for educator expenses, certain business expenses of reservists, performing artists, and fee-basis government officials, health savings account deductions, moving expenses for members of the Armed Forces, deductible part of self-employment tax, self-employed retirement plan contributions, self-employed health insurance deductions, penalties on early withdrawal of savings, alimony paid, IRA deductions, student loan interest deductions, and other adjustments. Taxpayers need to provide the necessary information and attach any required forms or schedules for each adjustment.
+
+Once completed, the total adjustments to income from Part II are entered on Form 1040, 1040-SR, or 1040-NR, line 10, or Form 1040-NR, line 10a.
+
+Taxpayers should refer to the instructions provided on the IRS website (www.irs.gov/Form1040) for more detailed information and guidance on how to complete Schedule 1.

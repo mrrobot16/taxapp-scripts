@@ -1,0 +1,2634 @@
+Form 1120-FSC
+(Rev. November 2018)
+Department of the Treasury  
+Internal Revenue Service 
+U.S. Income Tax Return of a Foreign Sales Corporation
+For calendar year 20
+ or other tax year beginning
+, 20
+,
+and ending
+ , 20
+▶ Go to www.irs.gov/Form1120FSC for instructions and the latest information.
+OMB No. 1545-0123
+Name
+Number, street, and room or suite no. (see instructions)
+City or town, state, and ZIP code
+A   Foreign country or U.S. 
+possession of incorporation 
+(see instructions)
+B   Check type of election made:
+FSC
+Small FSC
+Enter the effective date of  
+the election:
+C  Employer identification number
+D  Date incorporated
+E  Total assets (see instructions)
+$ 
+F   Check applicable boxes:
+(1)
+Final return
+(2)
+Name change
+(3)
+Address change
+(4)
+Amended return
+FSC Information
+ 1  Principal shareholder. Complete for the shareholder that was the principal shareholder at the beginning of the FSC’s tax year. If two or more shareholders 
+own equal amounts of stock, complete for the shareholder that has the same tax year as the FSC (see instructions).  
+a  Name
+b  Identification number
+c  Address (number, street, and room or suite no., city or town, state, ZIP code, or country)
+d  Total assets (corporations only)
+$ 
+e  Percentage of voting stock of the 
+principal shareholder
+%
+f  Tax year ends (month and year)
+g  Service Center where tax return is filed
+h  Foreign owner? (check one)
+Yes
+No
+2   Parent-subsidiary controlled group. Is the FSC a subsidiary in a parent-subsidiary controlled group? .
+.
+.
+.
+.
+.  ▶
+Yes
+No
+If “Yes,” and the principal shareholder (described in 1 above) is not the common parent of the group, complete 
+lines 2a through 2g below for the common parent (see instructions).
+a  Name of common parent
+b  Identification number
+c  Address (number, street, and room or suite no., city or town, state, ZIP code, or country)
+d  Total assets (consolidated, if applicable)
+$ 
+e  Percentage of voting stock of the common parent
+%
+f  Tax year ends (month and year)
+g  Service Center where tax return is filed
+3   Administrative pricing rules
+a  Check the applicable box(es) to show the pricing rule(s) used to determine taxable income on transactions resulting in foreign trading gross receipts.
+(1)
+1.83% of foreign trading gross receipts
+(2)
+23% of combined taxable income
+(3)
+Marginal costing
+(4)
+Section 482 method
+(5)
+Transactions at arm’s length with unrelated supplier(s)
+b  If the FSC and the related supplier(s) meet the payment rules of Temporary Regulations section 1.925(a)-1T(b)(2)(ii) and elect to use the administrative  
+pricing rules, check here 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶
+Tax and Payments (see instructions)
+1 
+Total tax (Schedule J, line 6) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Payments:
+a Overpayment from prior year allowed 
+as a credit 
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b Current year estimated tax payments
+2b
+c Less refund of overpaid estimated 
+tax applied for on Form 4466 
+.
+.
+2c (
+) d Bal ▶
+2d
+e Tax deposited with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2e 
+f 
+Credit for Federal tax paid on fuels (attach Form 4136) .
+.
+.
+.
+.
+.
+2f 
+g U.S. income tax paid or withheld at source (attach Form 1042-S) 
+.
+.
+2g
+h Add lines 2d through 2g .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2h
+3 
+Estimated tax penalty. Check if Form 2220 is attached .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶
+3 
+4 
+Tax due. If line 2h is smaller than the total of lines 1 and 3, enter amount owed .
+.
+.
+.
+.
+.
+.
+4 
+5 
+Overpayment. If line 2h is larger than the total of lines 1 and 3, enter amount overpaid .
+.
+.
+.
+5 
+6 
+Enter amount of line 5 you want: Credited to next year’s estimated tax ▶
+Refunded ▶
+6 
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true, 
+correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+▲
+Signature of officer
+Date
+▲
+Title
+May the IRS discuss this return 
+with the preparer shown below 
+(see instructions)?
+Yes
+ No 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name     ▶
+Firm’s address ▶
+Firm’s EIN ▶
+Phone no. 
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 11531K
+Form 1120-FSC (Rev. 11-2018)
+Form 1120-FSC (Rev. 11-2018)
+Page 2 
+Schedule A
+Cost of Goods Sold Related to Foreign Trading Gross Receipts (see instructions)
+(a) Using administrative pricing rules
+(b) Not using administrative pricing rules
+1 
+Inventory at beginning of year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Purchases 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Cost of labor .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Additional section 263A costs (attach schedule) .
+.
+.
+.
+.
+4 
+5 
+Other costs (attach schedule) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Total. Add lines 1 through 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Inventory at end of year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Cost of goods sold. Subtract line 7 from line 6. Enter here and on 
+line 7 of Schedule B. Small FSCs, see instructions for Schedule A 
+8 
+9 a
+Check all methods used for valuing closing inventory:
+(1)
+Cost as described in Regulations section 1.471-3
+(2) 
+Lower of cost or market as described in Regulations section 1.471-4
+(3) 
+Other (Specify method used and attach explanation.) ▶
+b Check if there was a writedown of subnormal goods as described in Regulations section 1.471-2(c) .
+.
+.
+.
+.
+.
+.  ▶
+c Check if the LIFO inventory method was adopted this tax year for any goods. (If checked, attach Form 970.) .
+.
+.
+.  ▶
+d If the LIFO inventory method was used for this tax year, enter percentage (or amounts) of closing 
+inventory computed under LIFO 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9d
+e If property is produced or acquired for resale, do the rules of section 263A apply to the FSC? .
+.
+.
+.
+.
+Yes
+No
+f 
+Was there any change in determining quantities, cost, or valuations between opening and closing inventory? 
+If “Yes,” attach explanation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Additional Information (see instructions). Note: Small FSCs, complete lines 1 through 8f only.
+1
+See the instructions and enter the FSC’s:
+Yes No
+a
+Business activity code no. ▶
+b
+Business activity ▶
+c
+Product or service ▶
+2
+Enter  the  amount  of  tax-exempt  interest  received  or 
+accrued during the tax year ▶
+$
+3
+At any time during the tax year was the FSC engaged in 
+a trade or business in the United States? .
+.
+.
+.
+.
+4
+During the tax year, did the FSC own any foreign entity 
+that was disregarded as an entity separate from its 
+owner under Regulations sections 301.7701-2 and 
+301.7701-3? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach a statement listing the name, country 
+under whose laws the entity was organized, and EIN (if 
+any) of each such entity.
+5
+During the tax year, did the FSC own at least a 10% 
+interest, directly or indirectly, in any foreign partnership?
+If “Yes,” see the instructions for required attachment.
+6
+If the FSC has an NOL for the tax year and is electing to 
+forego 
+the 
+carryback 
+period, 
+check 
+here 
+(see 
+instructions)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+7
+Enter the available NOL carryover from prior tax years. 
+(Do not reduce it by any deduction on Schedule B, Part 
+II, line 19a.) .
+.
+.
+.
+.
+.  ▶ $
+8
+FSC qualification rules (see instructions):
+a
+Enter the largest number of shareholders the FSC had 
+at  any time during the tax year ▶
+b
+Did the FSC have any preferred stock outstanding at 
+any time during the tax year? 
+.
+.
+.
+.
+.
+.
+.
+.
+c
+During the tax year, did the FSC maintain an office in a 
+qualifying foreign country or U.S. possession in which a 
+complete set of books and records was maintained?
+.
+d
+During the tax year did the FSC maintain the records 
+required under section 6001 at a location within the U.S.?
+e
+At all times during the tax year, did the FSC have at 
+least one non-U.S. resident on its board of directors?
+.
+f
+Small FSCs only: Check the applicable box if during the tax 
+year the small FSC was a member of a controlled group of 
+corporations that included a
+Yes No
+DISC or a
+FSC.
+g
+Check the applicable box if during the tax year the FSC 
+was a member of a controlled group of corporations that 
+included a
+DISC or a
+FSC.
+9
+Foreign management rules (does not apply to small FSCs):
+a
+Did all formally convened meetings of the board of directors 
+and of the shareholders occur outside the U.S.? .
+.
+.
+b
+(1) Were all cash dividends, legal and accounting fees, 
+salaries of officers, and salaries or fees of members of 
+the board of directors disbursed from bank accounts 
+maintained outside the United States? (If “Yes,” these 
+accounts are considered to be the FSC’s principal 
+bank accounts.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(2) At all times during the tax year, did the FSC maintain 
+its principal bank accounts in a qualifying foreign 
+country or U.S. possession (see instructions)? .
+.
+Name of bank(s) ▶
+Account number(s) ▶
+10
+Foreign economic process rules (does not apply to small FSCs):
+a
+Check the applicable box if the FSC is electing to group transactions 
+from its sales activities (Regulations section 1.924(d)-1(c)(5)):
+Customer grouping
+Contract grouping
+Product or product line grouping
+Product or product line subgroupings
+b
+Check the applicable box(es) to indicate how the FSC met the 
+foreign direct costs requirement (see instructions):
+The FSC (or any person under contract with the FSC) met the 
+50% test of section 924(d)(1).
+The FSC (or any person under contract with the FSC) met the alternative 
+85% test of section 924(d)(2). Check to indicate the subparagraphs of 
+section 924(e) for which this alternative test was met:
+(e)(1)
+(e)(2)
+(e)(3)
+(e)(4)
+(e)(5)
+c
+If box (e)(5) is checked, enter which of the five methods listed in 
+Regulations section 1.924(e)-1(e)(1)(i) through (v) describes how the 
+FSC bears the economic risk of nonpayment ▶
+d
+Check the applicable box if the FSC is electing to group its foreign 
+direct costs on one of the following (Regulations section 1.924(d)-1(e)):
+Customer grouping
+Contract grouping
+Product or product line grouping
+Form 1120-FSC (Rev. 11-2018)
+Form 1120-FSC (Rev. 11-2018)
+Page 3 
+Schedule B
+Taxable Income or (Loss) (see instructions)
+Part I—Net Income Attributable to Nonexempt Foreign Trade Income
+(a) Using administrative  
+pricing rules
+(b) Not using administrative 
+pricing rules
+1 
+Sale, exchange, or other disposition of export property. (Enter 50% of
+military property sales. Include the other 50% on Schedule F, line 1.) .
+.
+1
+2 
+Lease or rental of export property for use outside the United States 
+.
+.
+2
+3 
+Services related and subsidiary to:
+a Sale, exchange, or other disposition of export property. (Enter 50% of
+services related to the sale or other disposition of military property. Include
+the other 50% on Schedule F, line 1.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b Lease or rental of export property .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 3b
+4 
+Engineering or architectural services for construction projects outside the U.S.
+ 4
+5 
+Managerial services for an unrelated FSC or IC-DISC (see instructions) 
+.
+ 5
+6 a Total foreign trading gross receipts. Add lines 1 through 5 .
+.
+.
+.
+.
+ 6a
+Small FSCs:  Complete lines 6b through 6h.
+b Small FSC limitation (section 924(b)(2)(B)) .
+.
+.
+.
+6b
+c Controlled group member’s share of line 6b 
+.
+.
+.
+ 6c
+d Enter 1. (Short tax year: Divide the number of days in 
+the short tax year by the number of days in the full tax 
+year. Enter as a decimal less than 1.00000.) 
+.
+.
+.
+6d
+e Multiply line 6b or line 6c (whichever applies) by line 6d
+ 6e
+f 
+Total of line 6a, columns (a) and (b) 
+.
+.
+.
+.
+.
+.
+ 6f
+Note: See the instructions for line 6f if commission 
+income is included on line 6a.  
+g Enter the smaller of line 6e or line 6f. Note: If line 6f 
+exceeds line 6e, enter the excess on line 7 of Schedule F
+6g
+h Allocate the amount from line 6g to columns (a) and (b) (see instructions) .
+6h
+7 
+Cost of goods sold (Schedule A, line 8). (Small FSCs, enter only the part of 
+cost of goods sold from the receipts on line 6h above. See instructions for 
+Schedule A.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8 
+Foreign trade income. Subtract line 7 from line 6a or line 6h (whichever applies)
+8
+9 a Exemption percentage from Schedule E, line 3d .
+.
+.
+.
+.
+.
+.
+.
+.
+ 9a
+% 
+b Exemption percentage from Schedule E, line 2d .
+.
+.
+.
+.
+.
+.
+.
+.
+ 9b
+% 
+10 
+Exempt foreign trade income. Multiply line 8, column (a) by line 9a and line
+8, column (b) by line 9b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11 
+Nonexempt foreign trade income. Subtract line 10 from line 8 .
+.
+.
+.
+11
+12 
+Deductions attributable to nonexempt foreign trade income. Enter amount 
+from Schedule G, line 18 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13 
+Net income attributable to nonexempt foreign trade income. Subtract line 12 
+from line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14 
+Net income attributable to nonexempt foreign trade income from Schedule
+F, line 6 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15 
+Total net income attributable to nonexempt foreign trade income. Add 
+lines 13 and 14 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Part II—Taxable Income or (Loss)
+16 
+Taxable income from foreign trade income. Enter total of line 15, columns (a) and (b), minus any 
+nontaxable income included in line 15, column (b). Attach a schedule that shows the computation 
+of the taxable and nontaxable income included on line 15, column (b) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17 
+Taxable nonforeign trade income from Schedule F, line 19 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18 
+Taxable income or (loss) before net operating loss deduction and dividends-received deduction. 
+Add lines 16 and 17 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19a Net operating loss deduction (attach schedule) 
+.
+.
+.
+.
+.
+.
+.
+.
+19a
+b Dividends-received deduction (attach schedule) .
+.
+.
+.
+.
+.
+.
+.
+19b
+c Add lines 19a and 19b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19c
+20 
+Taxable income or (loss). Subtract line 19c from line 18. (See instructions for Schedule J to 
+figure the tax on this income.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+Form 1120-FSC (Rev. 11-2018)
+Form 1120-FSC (Rev. 11-2018)
+Page 4 
+Schedule E
+Exemption Percentages Used in Figuring Exempt Foreign Trade Income (see instructions)
+Note: If all shareholders of the FSC are C corporations, enter .30000 on line 2d and .65217 on line 3d and skip all other lines.  
+If all shareholders of the FSC are other than C corporations, enter .32000 on line 2d and .69565 on line 3d and skip all other lines.
+1 
+Percentage (round to at least five decimal places) of voting stock owned by shareholders that are 
+C corporations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Exemption percentage for foreign trade income determined by not using the administrative pricing rules:
+a Difference between section 923(a)(2) and section 291(a)(4)(A) percentage .
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b Section 923(a)(2) percentage 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c Multiply line 1 by line 2a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c 
+d Exemption percentage. Subtract line 2c from line 2b. Enter here and on Schedule B, line 9b, and 
+on Schedule G, line 16b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2d
+3 
+Exemption percentage for foreign trade income determined using administrative pricing rules:
+a Difference between section 923(a)(3) fraction and section 291(a)(4)(B) fraction (16/23 – 15/23 = 
+1/23) shown as a decimal 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a 
+b Section 923(a)(3) fraction (16/23) shown as a decimal 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+c Multiply line 1 by line 3a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c 
+d Exemption percentage. Subtract line 3c from line 3b. Enter here and on Schedule B, line 9a, and 
+on Schedule G, line 16a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3d
+Schedule F
+Net Income From Nonexempt Foreign Trade Income and Taxable Nonforeign Trade Income  
+(see instructions)
+Part I—Net Income From Nonexempt Foreign Trade Income
+(a) Using administrative  
+pricing rules
+(b) Not using administrative 
+pricing rules
+1 Enter 50% of total receipts from the sale, exchange, or other disposition of 
+military property and related services 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 International boycott income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 Illegal bribes and other payments 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 Total. Add lines 1, 2, and 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 Cost 
+of 
+goods 
+sold 
+and 
+other 
+costs 
+related 
+to 
+above 
+income 
+(attach schedule) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 Net income from nonexempt foreign trade income. Subtract line 5 from 
+line 4. Enter here and on Schedule B, line 14, columns (a) and (b) .
+.
+.
+.
+6 
+Part II—Taxable Nonforeign Trade Income
+7 Small FSCs: If line 6f, Schedule B, is greater than line 6e, Schedule B, enter the excess here .
+.
+.
+7 
+8 Interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 Dividends (attach schedule—see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 Carrying charges .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 Royalties 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 Other investment income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 Receipts excluded under section 924(f) on the basis of use, subsidized receipts, and receipts from
+related parties .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 Income from excluded property under sections 927(a)(2) and (3) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 Income from transactions that did not meet the Foreign economic process rules (see instructions). 
+(See Foreign Trading Gross Receipts in the instructions.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 Other income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 Total. Add lines 7 through 16 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 Enter deductions allocated or apportioned to line 17 income. (Attach schedule. Small FSCs also 
+include the cost of goods sold deduction attributable to the amount entered on line 7 above) .
+.
+.
+18 
+19 Taxable nonforeign trade income. Subtract line 18 from line 17. Enter here and on Schedule B, 
+line 17 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+Form 1120-FSC (Rev. 11-2018)
+Form 1120-FSC (Rev. 11-2018)
+Page 5 
+Schedule G
+Deductions Allocated or Apportioned to Foreign Trade Income Other Than Foreign Trade Income 
+Reported on Schedule F (See instructions for limitations on deductions before completing lines 1 through 14.)
+(a) Using administrative  
+pricing rules
+(b) Not using administrative 
+pricing rules
+1 
+Foreign direct costs described in section 924(e): 
+a Advertising and sales promotion .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a 
+b Certain processing and arranging costs .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+c Certain transportation costs .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c 
+d Certain determination and transmittal costs 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d
+e Assumption of credit risk .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1e 
+f 
+Total foreign direct costs. Add lines 1a through 1e .
+.
+.
+.
+.
+.
+.
+.
+1f 
+2 
+Advertising 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Depreciation from Form 4562 (less any depreciation claimed elsewhere on
+this return) (attach Form 4562) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Salaries and wages 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Rents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Sales commissions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Warehousing 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Freight .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Compensation of officers 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Bad debts 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Pension, profit-sharing, etc., plans 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Employee benefit programs .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Other deductions (attach list) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Total deductions. Add lines 1f through 14 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16a Exemption percentage from Schedule E, line 3d .
+.
+.
+.
+.
+.
+.
+.
+.
+16a
+% 
+b Exemption percentage from Schedule E, line 2d .
+.
+.
+.
+.
+.
+.
+.
+.
+16b
+% 
+17 
+ 
+Deductions attributable to exempt foreign trade income. Multiply line 15, 
+column (a) by line 16a and enter the result in column (a). Multiply line 15, 
+column (b) by line 16b and enter the result in column (b) 
+.
+.
+.
+.
+.
+.
+17 
+18 
+ 
+ 
+Deductions allocated or apportioned to nonexempt foreign trade 
+income other than foreign trade income reported on Schedule F. 
+Subtract line 17 from line 15. Enter here and on Schedule B, line 12, columns
+(a) and (b) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+Schedule J
+Tax Computation  (see instructions)
+1 
+Check if the FSC is a member of a controlled group (see section 927(d)(4)) (attach Schedule 
+O (Form 1120)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+2 
+Income tax  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Base erosion minimum tax (attach Form 8991) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Add lines 2 and 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Foreign tax credit (attach Form 1118) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Total tax. Subtract line 5 from line 4. Enter here and on line 1, page 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Form 1120-FSC (Rev. 11-2018)
+Liabilities and Shareholders’ Equity  
+Form 1120-FSC (Rev. 11-2018)
+Page 6 
+Schedule L
+Balance Sheets per Books
+Beginning of tax year
+End of tax year
+(                                ) 
+(                                ) 
+(                                ) 
+(                                ) 
+(                                ) 
+(                                ) 
+(                                ) 
+(                                ) 
+(                                ) 
+(                                ) 
+Assets  
+(a) 
+(b) 
+(c) 
+(d) 
+1 
+Cash 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+Trade notes and accounts receivable .
+.
+b 
+Commissions receivable .
+.
+.
+.
+.
+.
+c 
+Less allowance for bad debts 
+.
+.
+.
+.
+3 
+Inventories .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+U.S. government obligations 
+.
+.
+.
+.
+5 
+Tax-exempt securities (see instructions) 
+.
+6 
+Other current assets (attach schedule) .
+.
+7 
+Loans to shareholders 
+.
+.
+.
+.
+.
+.
+8 
+Mortgage and real estate loans .
+.
+.
+.
+9 
+Other investments (attach schedule) 
+.
+.
+10a
+Buildings and other depreciable assets 
+.
+b 
+Less accumulated depreciation .
+.
+.
+.
+11a
+Depletable assets .
+.
+.
+.
+.
+.
+.
+.
+b 
+Less accumulated depletion .
+.
+.
+.
+.
+12 
+Land (net of any amortization) 
+.
+.
+.
+.
+13a
+Intangible assets (amortizable only) 
+.
+.
+b 
+Less accumulated amortization .
+.
+.
+.
+14 
+Other assets (attach schedule) .
+.
+.
+.
+15 
+Total assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+     
+16 
+Accounts payable .
+.
+.
+.
+.
+.
+.
+.
+17 
+Mtges., notes, bonds payable in less than 1 year
+18 
+Transfer prices payable .
+.
+.
+.
+.
+.
+19 
+Other current liabilities (attach schedule)
+.
+20 
+Loans from shareholders .
+.
+.
+.
+.
+.
+21 
+Mtges., notes, bonds payable in 1 year or more
+22 
+Other liabilities (attach schedule) 
+.
+.
+.
+23 
+Capital stock .
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+Additional paid-in capital .
+.
+.
+.
+.
+.
+25 
+Retained earnings—Appropriated (attach schedule)
+26 
+Retained earnings—Unappropriated 
+.
+.
+27 
+Adjustments to shareholders’ equity (attach schedule)
+28 
+Less cost of treasury stock .
+.
+.
+.
+.
+29 
+Total liabilities and shareholders’ equity 
+.
+Schedule M-1
+Reconciliation of Income (Loss) per Books With Income per Return  (see instructions)
+1 
+Net income (loss) per books .
+.
+.
+.
+.
+2 
+Federal income tax per books 
+.
+.
+.
+.
+3 
+Excess of capital losses over capital gains
+4 
+Income    subject    to    tax    not   recorded 
+on books this year (itemize):
+5 
+Expenses recorded on books this year not 
+deducted on this return (itemize):
+a 
+Depreciation 
+.
+.
+.
+$
+b 
+Deductions attributable to
+exempt foreign trade income
+$
+c 
+Travel and entertainment
+$
+6 
+Add lines 1 through 5 .
+.
+.
+.
+.
+.
+.
+7 
+Income recorded on books this year 
+not included on this return (itemize):
+a 
+Tax-exempt interest
+$
+b 
+Exempt foreign trade 
+income  
+$
+8 
+Deductions on this return not charged 
+against book income this year (itemize):
+Depreciation .
+.
+$
+9 
+Add lines 7 and 8 
+.
+.
+.
+.
+.
+10 
+Taxable income (line 18, Schedule B)— 
+line 6 less line 9 
+.
+.
+.
+.
+.
+.
+Schedule M-2
+Analysis of Unappropriated Retained Earnings per Books (Line 26, Schedule L)
+1 
+Balance at beginning of year 
+.
+.
+.
+.
+2 
+Net income (loss) per books .
+.
+.
+.
+.
+3 
+Other increases (itemize):
+4 
+Add lines 1, 2, and 3 .
+.
+.
+.
+.
+.
+.
+5 
+Distributions:
+a 
+Cash .
+.
+.
+b 
+Stock .
+.
+.
+c
+Property .
+.
+6 
+Other decreases (itemize):
+7 
+Add lines 5 and 6 
+.
+.
+.
+.
+.
+8 
+Balance at end of year (line 4 less line 7)
+Form 1120-FSC (Rev. 11-2018)

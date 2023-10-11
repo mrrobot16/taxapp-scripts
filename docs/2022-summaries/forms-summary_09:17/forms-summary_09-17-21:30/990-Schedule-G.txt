@@ -1,0 +1,11 @@
+Schedule G (Form 990) is a supplemental form that organizations in the United States need to complete if they answered "Yes" to certain questions on Form 990, which is the annual information return for tax-exempt organizations. Schedule G specifically pertains to fundraising or gaming activities.
+
+Part I of Schedule G focuses on fundraising activities. Organizations that answered "Yes" to Part IV, line 17 on Form 990 need to complete this section. It asks organizations to indicate the various fundraising activities they have engaged in, such as mail solicitations, internet and email solicitations, phone solicitations, in-person solicitations, solicitation of non-government grants, solicitation of government grants, and special fundraising events. If the organization had a written or oral agreement with any individual or entity in connection with professional fundraising services, they need to provide information about the top 10 highest paid individuals or entities involved in fundraising.
+
+Part II of Schedule G is for organizations that answered "Yes" to Part IV, line 18 on Form 990 or reported more than $15,000 of fundraising event contributions and gross income on Form 990-EZ, lines 1 and 6b. This section requires organizations to list fundraising events with gross receipts greater than $5,000 and provide details about the revenue and direct expenses associated with each event.
+
+Part III of Schedule G is for organizations that answered "Yes" to Part IV, line 19 on Form 990 or reported more than $15,000 on Form 990-EZ, line 6a. This section focuses on gaming activities and requires organizations to provide information about the revenue and direct expenses associated with bingo, pull tabs/instant bingo/progressive bingo, and other gaming activities. Organizations also need to indicate the states in which they conduct gaming activities and whether they are licensed to do so in each state.
+
+Part IV of Schedule G is for providing supplemental information and explanations required by various sections of the form.
+
+Overall, Schedule G is used to gather additional information about fundraising and gaming activities conducted by tax-exempt organizations in the United States.

@@ -1,0 +1,178 @@
+Schedule J 
+(Form 1118) 
+(Rev. December 2020)
+Adjustments to Separate Limitation Income (Loss) Categories for  
+Determining Numerators of Limitation Fractions, Year-End Recharacterization Balances,  
+and Overall Foreign and Domestic Loss Account Balances
+Department of the Treasury  
+Internal Revenue Service 
+▶ Attach to Form 1118.
+OMB No. 1545-0123 
+For calendar year 20 
+,  or other tax year beginning 
+,  20 
+, and ending 
+,  20 
+Name of corporation 
+Employer identification number 
+Part I 
+Adjustments to Separate Limitation Income or (Losses) in Determining Numerators of Limitation Fractions (see instructions) 
+(                                ) (                                ) (                                ) (                                )
+(                                )
+(                                ) (                                ) (                                )
+(                                ) (                                )
+(                                ) (                                )
+(                                ) (                                ) (                                )
+(                                )
+(                                ) (                                ) (                                ) (                                )
+(                                )
+(                                ) (                                ) (                                ) (                                ) (                                )
+(                                ) (                                ) (                                ) (                                ) (                                )
+(                                )
+(                                )
+(                                )
+(                                )
+(                                )
+(                                )
+(i) 
+Section 951A income 
+(ii) 
+Foreign branch income 
+(iii) 
+ Passive category income
+(iv) 
+General category income
+(v) 
+Other income*
+(identify ▶
+)
+(vi) 
+U.S. income 
+1 
+Income or (loss) before adjustments 
+2 
+Allocation of separate limitation losses: 
+a Section 951A income
+b Foreign branch income
+c Passive category income
+d
+General category income
+e 
+ 
+Other income* (identify ▶
+)
+3 
+Subtotal—Combine lines 1 through 2e. 
+4 
+Allocation of overall foreign losses 
+5 
+Allocation of domestic losses
+6 
+Subtotal—Combine lines 3 through 5. 
+7 
+Recapture of overall foreign losses 
+8 
+Subtotal—Combine lines 6 and 7. 
+9 
+ 
+Recharacterization of separate limitation 
+income: 
+a Section 951A income
+b Foreign branch income
+c Passive category income
+d
+General category income
+e 
+ 
+Other income* (identify ▶
+)
+10 
+Recapture of overall domestic losses
+11  
+  
+  
+ 
+Numerator of Limitation Fraction—
+Combine lines 8 through 10. Enter each 
+result here and on Schedule B, Part II, 
+line 7, of corresponding Form 1118. 
+* Important: See Computer-Generated Schedule J in instructions.
+For Paperwork Reduction Act Notice, see the Instructions for Form 1118.
+Cat. No. 10309U 
+Schedule J (Form 1118) (Rev. 12-2020) 
+Schedule J (Form 1118) (Rev. 12-2020)
+Page 2
+Part II 
+Year-End Balances of Future Separate Limitation Income That Must Be Recharacterized (section 904(f)(5)(C)) 
+(i) 
+Section 951A income 
+(ii) 
+Foreign branch income 
+(iii) 
+ Passive category income
+(iv) 
+General category income
+(v) 
+Other income*
+(identify ▶
+)
+(vi) 
+U.S. income 
+a Section 951A income
+b Foreign branch income
+c Passive category income
+d
+General category income
+e 
+ 
+Other income* (identify ▶
+)
+Part III 
+Overall Foreign Loss Account Balances (section 904(f)(1))  Complete for each separate limitation income category. 
+(                                ) (                                ) (                                ) (                                ) (                                )
+(                                ) (                                ) (                                ) (                                ) (                                )
+     
+     
+     
+     
+     
+     
+1 
+Beginning balance 
+2 
+Current year additions
+3 
+ 
+Current year reductions (other than  
+recapture) 
+4 
+Current year recapture (from Part I, line 7)
+5 
+ 
+Ending balance—Combine lines 1  
+through 4. 
+Part IV 
+Overall Domestic Loss Account Balances (section 904(g)(1)) 
+(                                ) (                                ) (                                ) (                                ) (                                )
+     
+     
+     
+     
+     
+     
+1 
+Beginning balance 
+2 
+Current year additions
+3 
+ 
+Current year reductions (other than 
+recapture) 
+4 
+Subtotal—Combine lines 1 through 3.
+5 
+Current year recapture (from Part I, line 10) 
+6 
+Ending balance—Subtract line 5 from line 4. 
+* Important: See Computer-Generated Schedule J in instructions.
+Schedule J (Form 1118) (Rev. 12-2020)

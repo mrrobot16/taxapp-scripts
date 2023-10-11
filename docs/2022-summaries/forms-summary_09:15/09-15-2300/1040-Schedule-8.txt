@@ -1,0 +1,11 @@
+Schedule 8812 is a form that taxpayers attach to their Form 1040, 1040-SR, or 1040-NR to claim credits for qualifying children and other dependents. The form consists of three parts.
+
+Part I calculates the Child Tax Credit and Credit for Other Dependents. It involves entering various amounts from the taxpayer's tax return, such as income from Puerto Rico, amounts from Form 2555 and Form 4563, and adding them together. The sum is then multiplied by specific dollar amounts to determine the credit for qualifying children and other dependents.
+
+Part II-A calculates the Additional Child Tax Credit for all filers. There are certain criteria and calculations involved, including determining the number of qualifying children, earned income, nontaxable combat pay, and comparing them to specific thresholds. The result is multiplied by a percentage to determine the additional child tax credit.
+
+Part II-B is for certain filers who have three or more qualifying children and are bona fide residents of Puerto Rico. It involves entering withheld social security, Medicare, and Additional Medicare taxes, as well as amounts from other tax schedules. The total is subtracted from a specific line to determine the additional child tax credit.
+
+The final result from Part II-C is the total additional child tax credit, which is then entered on Form 1040, 1040-SR, or 1040-NR, line 28.
+
+For more detailed instructions and the most up-to-date information, taxpayers are directed to visit the IRS website at www.irs.gov/Schedule8812.

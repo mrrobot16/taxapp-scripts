@@ -1,0 +1,13 @@
+Form 8283 is a document provided by the Internal Revenue Service (IRS) for individuals to report noncash charitable contributions on their tax returns. It is required to be attached to the tax return if the total deduction claimed for contributed property is over $500.
+
+The form is divided into several sections. Section A is for reporting donated property of $5,000 or less, including publicly traded securities. It requires information such as the name and address of the donee organization, description and condition of the donated property, date of contribution, date acquired by the donor, donor's cost or adjusted basis, and fair market value.
+
+Section B is for reporting donated property over $5,000, excluding publicly traded securities, vehicles, intellectual property, or inventory. It requires similar information as Section A but also includes options to select the type of property donated, such as art, equipment, real estate, securities, collectibles, and more. A qualified appraisal is generally required for items reported in this section.
+
+Part II of Section B is for reporting partial interests and restricted use property, while Part III is for the taxpayer (donor) to declare items with an appraised value of $500 or less.
+
+Part IV is a declaration of the appraiser, stating their qualifications and confirming that the appraisal fees were not based on a percentage of the appraised property value.
+
+Part V is the donee acknowledgment, where the charitable organization receiving the donated property confirms its qualification and acknowledges the receipt of the property.
+
+Overall, Form 8283 is a detailed document that individuals must complete and attach to their tax return when claiming deductions for noncash charitable contributions.

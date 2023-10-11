@@ -1,0 +1,9 @@
+Schedule M-3 (Form 1120-L) is a document used by U.S. life insurance companies with total assets of $10 million or more to reconcile their net income (loss) per their financial statements with their taxable income per their tax return. The form is divided into three parts.
+
+Part I requires the company to provide financial information and reconcile their net income (loss) based on their income statement. The company must indicate whether they filed SEC Form 10-K, prepared a certified audited non-tax-basis income statement, or prepared a non-tax-basis income statement. They also need to provide the income statement period and indicate if any restatements were made. The form also includes sections to report net income (loss) from foreign entities, U.S. entities, and other corporations, as well as adjustments to eliminations and reconciliation to the tax year.
+
+Part II focuses on the reconciliation of net income (loss) per the income statement of includible corporations with taxable income per the tax return. The company must provide detailed information on various income (loss) items, including income (loss) from equity method foreign corporations, subpart F, QEF, and similar income inclusions, U.S. dividends, and income (loss) from partnerships and pass-through entities.
+
+Part III deals with the reconciliation of expense/deduction items. The company must provide information on various expense items, such as current and deferred income tax expenses, state and foreign income tax expenses, equity-based compensation, amortization of acquisition costs, and depreciation.
+
+The form includes instructions and provides space for attaching additional statements and explanations as necessary. It must be attached to Form 1120-L, the U.S. Life Insurance Company Income Tax Return.

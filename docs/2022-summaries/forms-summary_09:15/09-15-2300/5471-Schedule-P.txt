@@ -1,0 +1,24 @@
+Schedule P (Form 5471) is a document provided by the Department of the Treasury and Internal Revenue Service. It is used to report the previously taxed earnings and profits (E&P) of a U.S. shareholder of certain foreign corporations. The form is attached to Form 5471 and can be found on the IRS website.
+
+The form requires the filer to provide their identifying information, including their name and identifying number, as well as the name of the U.S. shareholder and identifying number. Additionally, the form requires the name of the foreign corporation and its Employer Identification Number (EIN), if applicable. A reference ID number is also required.
+
+The form is divided into two parts: Part I and Part II. Part I focuses on the previously taxed E&P in the functional currency, while Part II focuses on the previously taxed E&P in U.S. dollars.
+
+For each part, the form requires the following information:
+- Reclassified section 965(a) PTEP
+- Reclassified section 965(b) PTEP
+- General section 959(c)(1) PTEP
+- Reduction for taxes unsuspended under anti-splitter rules
+- Previously taxed E&P attributable to distributions of previously taxed E&P from lower-tier foreign corporations
+- Previously taxed E&P carried over in nonrecognition transactions
+- Other adjustments
+- Total previously taxed E&P
+- Amounts reclassified to section 959(c)(2) E&P from section 959(c)(3) E&P
+- Actual distributions of previously taxed E&P
+- Amounts reclassified to section 959(c)(1) E&P from section 959(c)(2) E&P
+- Amounts included as earnings invested in U.S. property and reclassified to section 959(c)(1) E&P
+- Balance at the beginning of the next year
+
+The form provides spaces for the filer to enter the necessary information for each category. It also allows for attachments of statements for beginning balance adjustments and other adjustments.
+
+Overall, Schedule P (Form 5471) is a detailed form that helps U.S. shareholders report their previously taxed earnings and profits from foreign corporations. It requires specific information and calculations for each category.

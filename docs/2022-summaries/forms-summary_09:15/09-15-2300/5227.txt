@@ -1,0 +1,13 @@
+Form 5227 is a document used by split-interest trusts to report their income, deductions, and distributions to the Internal Revenue Service (IRS). The form includes several sections and schedules for reporting different types of information.
+
+The form begins with general information about the trust, including its name, trustee, address, and employer identification number. It also asks for the type of entity the trust is, such as a charitable lead trust, charitable remainder annuity trust, charitable remainder unitrust, or pooled income fund.
+
+The form then asks for the fair market value of the trust's assets at the end of the tax year and the gross income earned by the trust during the year. It also includes sections for reporting ordinary income, capital gains or losses, nontaxable income, and deductions.
+
+The form includes a schedule for reporting distributable income for section 664 trusts, which are charitable lead trusts. It also includes a schedule for reporting distributions of principal for charitable purposes. There is a balance sheet section for reporting the trust's assets and liabilities, as well as a section for reporting information specific to charitable remainder annuity trusts, charitable remainder unitrusts, and pooled income funds.
+
+The form also includes sections for reporting activities that may require the filing of Form 4720, which is used to report certain transactions that may be subject to excise taxes. There are also sections for reporting information specific to charitable lead trusts, pooled income funds, and charitable remainder trusts.
+
+The form concludes with a questionnaire section for reporting additional information about the trust, such as whether the trust had any excess income or made any contributions or distributions during the year. There is also a section for reporting information about the trust's assets and any additional contributions made during the year.
+
+Overall, Form 5227 is a comprehensive document for split-interest trusts to report their financial and activity information to the IRS.

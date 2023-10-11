@@ -1,0 +1,11 @@
+The Schedule D form is used to report capital gains and losses on an individual's tax return. It is attached to Form 1040, 1040-SR, or 1040-NR. The form provides sections for reporting short-term capital gains and losses (assets held for one year or less) and long-term capital gains and losses (assets held for more than one year). 
+
+The form instructs taxpayers to use Form 8949 to list their transactions for certain lines on Schedule D. It also asks if the taxpayer disposed of any investments in a qualified opportunity fund during the tax year, and if so, to attach Form 8949 and follow its instructions for reporting the gain or loss.
+
+The form provides space to enter the proceeds (sales price), cost (or other basis), adjustments to gain or loss from Form 8949, and the resulting gain or loss for each transaction. It also includes lines for totaling short-term and long-term transactions reported on Form 1099-B and Form 8949 with different boxes checked.
+
+Other sections of the form include lines for reporting short-term gain or loss from other forms (such as Form 6252, 4684, 6781, and 8824), net short-term gain or loss from partnerships, S corporations, estates, and trusts, short-term capital loss carryover, and the net short-term capital gain or loss.
+
+The form then moves on to long-term capital gains and losses, with similar sections and lines for reporting transactions and calculating the net long-term gain or loss.
+
+Finally, the form provides a summary section where the net short-term and net long-term gains or losses are combined, and the resulting amount is entered on Form 1040, 1040-SR, or 1040-NR. The form includes instructions for completing the 28% Rate Gain Worksheet and the Unrecaptured Section 1250 Gain Worksheet if applicable. It also provides guidance on completing the Qualified Dividends and Capital Gain Tax Worksheet or the Schedule D Tax Worksheet, depending on the taxpayer's situation.

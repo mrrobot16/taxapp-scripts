@@ -1,0 +1,17 @@
+Form 8973 is a Certified Professional Employer Organization (CPEO)/Customer Reporting Agreement form issued by the Department of the Treasury Internal Revenue Service. The form is used to report the start or end of a service contract between a customer and a CPEO, or to correct a previously filed Form 8973. 
+
+The form consists of several parts. Part 1 asks the filer to indicate the reason for filing the form, whether it is to report the start or end of a service contract or to make a correction. 
+
+Part 2 requires the customer to provide their employer identification number (EIN), name, trade name (if any), and address. The customer is also asked to identify the forms that the CPEO will file to report wages or compensation paid to employees.
+
+Part 3 requires the CPEO to provide their EIN, name, trade name (if any), and address.
+
+Part 4 asks for information about the relationship between the CPEO and the customer, including whether the relationship is subject to a CPEO contract, whether the customer is a provider of employment-related services, and whether the customer is a related party of the CPEO.
+
+Part 5 is for the customer to sign and certify the accuracy of the information provided in the form.
+
+Part 6 is for the CPEO to sign and certify the accuracy of the information provided in the form.
+
+The form also includes a section for the CPEO to consent to the disclosure of tax information to the customer.
+
+Overall, Form 8973 is used to establish and report the relationship between a customer and a CPEO for tax purposes.

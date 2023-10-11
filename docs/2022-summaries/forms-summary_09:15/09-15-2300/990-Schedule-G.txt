@@ -1,0 +1,11 @@
+Schedule G (Form 990) is a supplemental form that organizations need to complete if they answered "Yes" to certain questions on Form 990, or if they entered more than $15,000 on Form 990-EZ. The form is used to provide information about fundraising or gaming activities.
+
+Part I of the form focuses on fundraising activities. Organizations need to indicate whether they raised funds through various activities such as mail solicitations, internet and email solicitations, phone solicitations, in-person solicitations, solicitation of non-government grants, solicitation of government grants, or special fundraising events. If the organization had a written or oral agreement with any individual or entity in connection with professional fundraising services, they need to list the 10 highest paid individuals or entities involved in those agreements.
+
+In Part II, organizations need to provide information about fundraising events if they answered "Yes" on Form 990, Part IV, line 18, or if they reported more than $15,000 of fundraising event contributions and gross income on Form 990-EZ. They need to list events with gross receipts greater than $5,000 and provide details about revenue, direct expenses, cash prizes, noncash prizes, rent/facility costs, food and beverages, entertainment, and other direct expenses.
+
+Part III focuses on gaming activities. Organizations need to complete this part if they answered "Yes" on Form 990, Part IV, line 19, or if they reported more than $15,000 on Form 990-EZ, line 6a. They need to provide information about gross revenue, cash prizes, noncash prizes, rent/facility costs, other direct expenses, volunteer labor, and net gaming income. They also need to indicate the state(s) in which they conduct gaming activities and whether they are licensed to do so in each state.
+
+Part IV is for providing supplemental information and explanations required by the form. Organizations need to provide explanations for specific questions and columns in Parts I and III, as well as any additional information requested.
+
+Overall, Schedule G (Form 990) is used to gather information about an organization's fundraising and gaming activities, ensuring transparency and compliance with IRS regulations.

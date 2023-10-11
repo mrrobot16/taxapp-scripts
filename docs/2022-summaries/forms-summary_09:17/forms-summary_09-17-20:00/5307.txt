@@ -1,0 +1,412 @@
+The form you are looking for begins on the next page of this file. Before viewing it, 
+please see the important update information below.
+New Mailing Address
+The mailing address for certain forms have change since the forms were last published. 
+The new mailing address are shown below. 
+Mailing Address for Forms 1023, 1024, 1024-A, 1028, 5300, 5307, 5310, 5310-A, 5316, 
+8717, 8718, 8940:
+Internal Revenue Service   
+TE/GE Stop 31A Team 105                              
+P.O. Box 12192       
+Covington, KY 41012–0192
+Deliveries by private delivery service (PDS) should be made to:
+Internal Revenue Service 
+7940 Kentucky Drive 
+TE/GE Stop 31A Team 105 
+Florence, KY 41042
+This update supplements these forms’ instructions. Filers should rely on this update for 
+the change described, which will be incorporated into the next revision of the form’s 
+instructions.
+This page intentionally left blank.
+Form     5307
+(Rev. June 2014)
+Department of the Treasury  
+Internal Revenue Service 
+Application for Determination for 
+Adopters of Modified                
+Volume Submitter Plans 
+(Under sections 401(a) and 501(a) of the Internal Revenue Code)  
+▶ Information about the Form 5307 and the instructions is at www.irs.gov/form5307.
+OMB No. 1545-0200 
+For IRS Use Only 
+Review the Procedural Requirements Checklist before completing this application. 
+For Internal Use Only
+Complete lines 1j-1m and 2h-2k only if you have a foreign address, see instructions.
+1a Name of plan sponsor (employer if single-employer plan)
+b Address of plan sponsor 
+c City
+d State
+e ZIP
+f Employer identification number (EIN)
+g Telephone number
+h Fax number
+i
+Employer’s tax year end (MM)
+j City or town
+k Country name
+l Province/country
+mForeign postal code
+2a Person to contact. If a Power of Attorney is attached, mark box and do not complete this line.
+Contact person’s name
+b Contact person’s address
+c City
+d State
+e ZIP code
+f Telephone number
+g Fax number
+h City or town
+i Country name
+j Province/country
+k Foreign postal code
+If more space is needed for any item, attach additional sheets the same size as this form. Identify each additional sheet with the plan 
+sponsor’s name and EIN and identify each item.
+Under penalties of perjury, I declare that I have examined this application, including accompanying statements and schedules, and to the best of my knowledge and belief,  
+it is true, correct, and complete.
+SIGN HERE ▶ 
+Date ▶
+Type or print name
+Type or print title
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 11832Y 
+Form 5307 (Rev. 6-2014) 
+Form 5307 (Rev. 6-2014)
+Page 2 
+3 a Determination requested for (enter applicable number in box) 
+1 - Initial Qualification — New Plan
+2 - Initial Qualification — Existing Plan 
+3 - Request after Initial Qualification 
+b 
+If 3a is "1" or "2," enter the date the plan was initially adopted. 
+Yes 
+No 
+c 
+Does the VS practitioner have the authority to amend on behalf of the adopting employer?
+d 
+Does the plan have a determination letter (DL) or did the plan rely on the opinion or advisory letter for the 
+plan's remedial amendment cycle (RAC) immediately preceding the RAC in which the application is filed? 
+If the plan relied on a DL, complete (i) and (ii). 
+If the plan relied on an opinion or advisory letter, go to line 3e. 
+If the plan did not have a DL or did not rely on the opinion or advisory letter, go to line 3f.
+(i) Date the letter was issued
+(ii) Year of the Cumulative List considered in the letter
+e If the plan relied on a favorable opinion or advisory letter as an "identical adopter" of a pre-approved plan for the plan's RAC 
+immediately preceding the cycle in which the application is submitted, complete the following:
+(i) 
+Name of sponsor or practitioner
+(ii) 
+Date of opinion/advisory letter
+(iii)
+Serial # of opinion/advisory letter
+f
+Do any amendments not considered in a prior DL have any discretionary provisions? 
+If "Yes," and the amendment contains only discretionary provisions, mark an "X," in subcolumn (a) of  
+column (iv) in the table. 
+If "Yes," and the amendment contains both interim and discretionary provisions, mark an "X" in subcolumns (a) 
+and (b) of column (iv) in the table.
+g Complete the following table. If additional space is needed, attach a separate sheet of paper the same size, label it "Attachment to 3g" 
+using the same format as below.
+(i) 
+Amendment ID
+(ii)  
+Effective 
+Date 
+(MM/DD/YYYY)
+(iii) 
+Adoption 
+Date 
+(MM/DD/YYYY) 
+  
+(iv)  
+Type of Amendment 
+   
+(a) 
+Interim 
+ 
+(b) 
+Discr. 
+. 
+(v)  
+Power to Amend  
+on Behalf of
+(a) 
+Yes
+(b) 
+No
+(vi)  
+Due Date of  
+Tax Return     
+(including  
+extensions) 
+(MM/DD/YYYY)
+(vii)  
+Specific Section  
+of Plan, Adoption 
+Agreement or  
+Trust Changed  
+or Added
+(viii)  
+Specific Section  
+of Amendment 
+Creating the  
+Change in (vii)
+(ix)  
+Is Required 
+Practitioner 
+Statement  
+Attached 
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+3g(1)
+3g(2)
+3g(3)
+3g(4)
+3g(5)
+3g(6)
+3g(7)
+3g(8)
+3g(9)
+3g(10)
+h Total amendments on line 3g.
+i Designate the specific tax return that the employer uses to file its federal income tax return.
+Form 5307 (Rev. 6-2014) 
+Form 5307 (Rev. 6-2014)
+Page 3 
+4a Name of plan (Plan name cannot exceed 70 characters, including spaces.)
+b Enter 3-digit plan number
+c Enter the month on which the plan year ends (MM)
+d Enter plan’s original effective date 
+e Enter number of participants  
+(If 100 or less, go to line 4f. Otherwise, go to line 5a.)
+Yes 
+No 
+f 
+Does the plan sponsor have no more than 100 employees who received at least $5,000 of compensation for 
+the preceding year? 
+If "Yes," go to line 4g. 
+If "No," go to line 5a.
+g
+Is at least one employee a nonhighly compensated employee?
+5 a
+Indicate the type of plan by entering the number from the list below. 
+(Use the lowest number from the list below applicable to the plan.)
+1 — defined benefit but not cash balance 
+2 — cash balance
+3 — money purchase 
+4 — target benefit
+5 — 401(k) 
+6 — profit sharing plan
+Yes 
+No 
+b
+If the response to 5a was "1," "2," "3," or "4," was the plan's normal retirement age below 62 any time after  
+May 22, 2007?  
+If "Yes," file Form 5300. 
+If "No," go to line 6a.
+6 a(1)
+Is the plan sponsor a member of an affiliated service group, controlled group of corporations, or a group of 
+trades or businesses under common control within the meaning of section 414(b), (c), or (m)? 
+If "Yes," attach the required statement.
+a(2)
+Is the plan sponsor a foreign entity or is the plan sponsor a member of an affiliated service group, controlled 
+group of corporations, or a group of trades or businesses under common control within the meaning of section 
+414(b) or (c) that includes a foreign entity?
+b
+Is this a governmental plan under section 414(d)?
+c(1)
+Is this a church plan under section 414(e)? 
+If "Yes," go to line 6(c)(2). 
+If "No," go to line 6d.
+c(2)
+Was an election made by the church to have participation, vesting, funding, etc. provisions apply in accordance 
+with section 410(d)? If "No," file Form 5300. 
+d
+Does this plan benefit any collectively bargained employees under Regulations section 1.410(b)-6(d)(2)?
+e
+Is this an insurance contract plan under section 412(e)(3)?
+7 
+Have interested parties been given the required notification of this application?
+Form 5307 (Rev. 6-2014) 
+Form 5307 (Rev. 6-2014)
+Page 4 
+Yes 
+No 
+8 a
+Is a separate DL application for this plan currently pending before the IRS?
+b
+Is this application being filed during the applicable two-year window announced by the Service?
+9a
+Does this plan satisfy one of the design-based safe harbor requirements for contributions or benefits under 
+Regulations section 1.401(a)(4)-2(b) or 3(b)? 
+If "Yes," go to line 9b. 
+If "No," go to line 10a.
+b 
+Is this an election for a determination regarding a design-based safe harbor?                                                      
+If "Yes," complete lines 9c through 9e. 
+If "No," go to line 10a.
+c Enter the letter ("A" - "E") from the list below that identifies the safe harbor intended to be satisfied.
+A = 1.401(a)(4)-2(b)(2) defined contribution (DC) plan with a uniform allocation formula
+B = 1.401(a)(4)-3(b)(3) unit credit defined benefit (DB) plan
+C = 1.401(a)(4)-3(b)(4)(i)(C)(1) unit credit DB fractional rule plan
+D = 1.401(a)(4)-3(b)(4)(i)(C)(2) flat benefit DB plan
+E = 1.401(a)(4)-3(b)(5) insurance contract plan
+d
+Does this plan satisfy one of the safe harbor definitions of compensation under Regulation sections 
+1.414(s)-1(c)(2) or (3)?
+e List the plan sections that satisfy the design-based safe harbor (including, if applicable, the permitted disparity requirements).
+10a 
+Does this plan have a cash or deferred arrangement (CODA)? 
+If "Yes," go to line 10b(1). 
+If "No," go to line 10e.
+b(1)
+Does the CODA satisfy a safe harbor? 
+If "Yes," go to line 10b(2). 
+If "No," go to line 10d.
+b(2) Indicate by using the corresponding number from the instructions, the type of section 401(k) safe harbor that was satisfied.
+1. 401(k)(12)(B)
+2. 401(k)(12)(C)
+3. 401(m)(11)(B)
+c 
+Does this plan contain a qualified automatic contribution arrangement (QACA) within the meaning of 
+section 401(k)(13)?
+d 
+Does this plan contain an eligible automatic contribution arrangement (EACA) within the meaning of 
+section 414(w)?
+e 
+Does this plan have matching contributions within the meaning of section 401(m)? 
+If "Yes," go to line 10f. 
+If "No," go to line 10g.
+f 
+Does this plan satisfy the section 401(m) safe harbor?
+g
+Does this plan have after-tax employee voluntary contributions within the meaning of section 401(m)?
+11 
+Does this plan utilize the permitted disparity rules of section 401(l)?
+12 
+Is this plan part of an offset arrangement with any other plans? 
+If "Yes," attach the required statement.
+Form 5307 (Rev. 6-2014) 
+Form 5307 (Rev. 6-2014)
+Page 5 
+Yes 
+No 
+13 
+Has this plan been involved in a merger, consolidation, spinoff, or a transfer of plan assets or liabilities that was 
+not considered under a previous DL? 
+If "Yes," submit the required attachment.
+14 a 
+Has the plan been amended or restated to change the plan from a DB plan to a DC plan? 
+If "Yes," go to line 14b. 
+If "No," go to line 15a.
+b
+Was the change considered in a prior DL?   
+If "No," attach a statement explaining the change.
+15 a 
+Does the plan sponsor maintain any other qualified plans under section 401(a)? 
+If "Yes," attach required statement and complete lines 15b and 15c. 
+If "No," go to line 16.
+b(1)
+Does the plan sponsor maintain another plan of the same type (i.e. both this plan and the other plan are DC 
+plans or both are DB plans) that covers non-key employees who are also covered under this plan? 
+If "No," go to line 15c(1). 
+If "Yes," when the plan is top-heavy, do non-key employees covered under both plans receive the 
+top-heavy minimum contribution or benefit under:
+b(2)
+This plan, or
+b(3)
+The other plan?
+c(1)
+If this is a DC plan, does the plan sponsor maintain a DB plan (or if this is a DB plan, does the plan sponsor 
+maintain a DC plan) that covers non-key employees who are also covered under this plan? 
+If "No," go to line 16. 
+If "Yes," when the plan is top-heavy, do non-key employees covered under both plans receive:
+c(2)
+The top-heavy minimum benefit under the DB plan,
+c(3)
+At least a 5% minimum contribution under the DC plan,
+c(4)
+The minimum benefit offset by benefits provided by the DC plan, or
+c(5)
+Benefits under both plans, using a comparability analysis, at least equal to the minimum benefit.
+16 
+Does any amendment to the plan reduce or eliminate any section 411(d)(6) protected benefit? 
+If "Yes," attach the required statement.
+Yes 
+No 
+NA 
+17 
+If this is a DC plan, are trust earnings and losses allocated on the basis of account balances? 
+If "No," attach a statement explaining how they are allocated.
+Yes 
+No 
+18 
+Is any issue involving this plan currently pending or has any issue related to this plan been resolved during the 
+current RAC by: 
+(1) Internal Revenue Service, 
+(2) Department of Labor, 
+(3) Pension Benefit Guaranty Corporation, 
+(4) Any court (including bankruptcy), or 
+(5) The Voluntary Correction Program of the Employee Plans Compliance Resolution System. 
+If "Yes," attach a statement with the contact person's name (IRS Agent, DOL Investigator, etc.) and telephone 
+number.
+Form 5307 (Rev. 6-2014) 
+Form 5307 (Rev. 6-2014)
+Page 6 
+Procedural Requirements Checklist 
+Use this list to ensure that your submitted package is complete. Failure to supply the appropriate information may result in a delay in 
+the processing of the application. 
+Yes 
+No 
+1. 
+Is Form 8717, User Fee for Employee Plan Determination Request, attached to your submission? 
+2. 
+Is the appropriate user fee for your submission attached to Form 8717? 
+3. 
+If appropriate, is Form 2848, Power of Attorney and Declaration of Representative, Form 8821, Tax Information
+Authorization, or a privately designed authorization attached? (For more information, see the Disclosure 
+Request by Taxpayer in the instructions and Rev. Proc. 2014-4, 2014-1 I.R.B. 125, updated annually.)
+4. 
+Is a copy of your plan’s latest determination letter or advisory letter, if any, attached? 
+5. 
+Have you included a copy of the plan, trust, and all amendments adopted or effective during the current RAC? 
+6. 
+Is the EIN of the plan sponsor/employer (NOT the trust’s EIN) entered on line 1i? 
+7. 
+If you answered "Yes" to line 6a(1) have you included the information requested in the instructions?
+8. Have you included:
+Form 8905, Certification of Intent to Adopt a Pre-approved Plan, if applicable;
+A copy of the plan document and adoption agreement, if applicable;
+The current advisory letter; 
+A list of modifications (For each modification of the approved specimen, is a separate written representation
+made by the VS practitioner that explains how the plan or trust instrument differs from the approved specimen
+plan and explains the effect of the modification of the approved specimen plan attached?);
+A copy of the trust instrument; and 
+A copy of all amendments? 
+9. 
+Have interested parties been given the required notification of this application? Make sure line 7 is completed.
+10. 
+If line 12 is "Yes," is the required statement attached?
+11. 
+If line 13 is "Yes," is the required statement attached?
+12. 
+If line 14b is "No," is the required statement attached?
+13. 
+If line 15a is "Yes," is the required statement attached?
+14. 
+If line 16 is "Yes," is the required statement attached?
+15. 
+If line 17 is "No," is the required statement attached?
+16. 
+If line 18 is "Yes," is the required statement attached?
+17. 
+Is the application signed and dated? (Stamped signatures are not acceptable; see Rev. Proc. 2014-4 updated 
+annually.)
+Form 5307 (Rev. 6-2014) 

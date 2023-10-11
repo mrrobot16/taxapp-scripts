@@ -1,0 +1,588 @@
+Form
+1040-X
+(Rev. July 2021)
+Amended U.S. Individual Income Tax Return
+Department of the Treasury—Internal Revenue Service
+▶ Use this revision to amend 2019 or later tax returns.
+▶ Go to www.irs.gov/Form1040X for instructions and the latest information.
+OMB No. 1545-0074
+This return is for calendar year (enter year)
+or fiscal year (enter month and year ended)
+Your first name and middle initial
+Last name
+Your social security number 
+If joint return, spouse’s first name and middle initial
+Last name
+Spouse’s social security number 
+Current home address (number and street). If you have a P.O. box, see instructions.
+Apt. no.
+Your phone number
+City, town or post office, state, and ZIP code. If you have a foreign address, also complete spaces below. See instructions.
+Foreign country name
+Foreign province/state/county
+Foreign postal code
+Amended return filing status. You must check one box even if you are not changing your filing status. Caution: In general, you can’t 
+change your filing status from married filing jointly to married filing separately after the return due date. 
+Single
+Married filing jointly
+Married filing separately (MFS)
+Head of household (HOH)
+Qualifying widow(er) (QW)
+If you checked the MFS box, enter the name of your spouse. If you checked the HOH or QW box, enter the child’s name if the qualifying 
+person is a child but not your dependent ▶
+Enter on lines 1 through 23, columns A through C, the amounts for the return 
+year entered above.  
+Use Part III on page 2 to explain any changes. 
+A. Original amount 
+reported or as 
+previously adjusted  
+(see instructions)
+B. Net change—
+amount of increase 
+or (decrease)— 
+explain in Part III
+C. Correct     
+amount 
+Income and Deductions 
+     
+     
+     
+1 
+ 
+Adjusted gross income. If a net operating loss (NOL) carryback is 
+included, check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+1 
+2 
+Itemized deductions or standard deduction 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Subtract line 2 from line 1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4a Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4a
+b
+Qualified business income deduction .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4b
+5 
+ 
+Taxable income. Subtract line 4b from line 3. If the result is zero or less, 
+enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+Tax Liability
+     
+     
+     
+6 
+ 
+Tax. Enter method(s) used to figure tax (see instructions):
+6 
+7 
+Nonrefundable credits. If a general business credit carryback is 
+included, check here
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+7 
+8 
+Subtract line 7 from line 6. If the result is zero or less, enter -0- .
+.
+.
+8 
+9
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Other taxes
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Total tax. Add lines 8 and 10 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Payments
+     
+     
+     
+12 
+ 
+Federal income tax withheld and excess social security and tier 1 RRTA 
+tax withheld. (If changing, see instructions.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13 
+Estimated tax payments, including amount applied from prior year’s return
+13
+14
+Earned income credit (EIC) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15 
+ 
+Refundable credits from: 
+Schedule 8812
+Form(s)
+2439
+4136
+8863
+8885
+8962 or
+other (specify):
+15
+16 
+ 
+Total amount paid with request for extension of time to file, tax paid with original return, and additional 
+tax paid after return was filed
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Total payments. Add lines 12 through 15, column C, and line 16 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+Refund or Amount You Owe 
+18 
+Overpayment, if any, as shown on original return or as previously adjusted by the IRS 
+.
+.
+.
+.
+.
+18 
+19 
+Subtract line 18 from line 17. (If less than zero, see instructions.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+19 
+20 
+Amount you owe. If line 11, column C, is more than line 19, enter the difference .
+.
+.
+.
+.
+.
+.
+20 
+21 
+If line 11, column C, is less than line 19, enter the difference. This is the amount overpaid on this return  
+21 
+22 
+Amount of line 21 you want refunded to you .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+23 
+Amount of line 21 you want applied to your (enter year):
+estimated tax 
+23 
+Complete and sign this form on page 2.
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11360L
+Form 1040-X (Rev. 7-2021)
+Form 1040-X (Rev. 7-2021)
+Page 2 
+Part I
+Dependents
+Complete this part to change any information relating to your dependents.  
+This would include a change in the number of dependents. 
+Enter the information for the return year entered at the top of page 1. 
+A. Original number 
+of dependents 
+reported or as 
+previously adjusted
+B. Net change — 
+amount of increase 
+or (decrease)
+C. Correct 
+number   
+24
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+24
+25
+Your dependent children who lived with you 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+26 
+ 
+Your dependent children who didn’t live with you due to divorce or 
+separation 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26
+27
+Other dependents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27
+28
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28
+29
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+29
+30
+List ALL dependents (children and others) claimed on this amended return.
+Dependents (see instructions):
+If more 
+than four 
+dependents, 
+see 
+instructions 
+and check 
+here ▶
+(d) ✓ if qualifies for (see instructions):
+(a) First name                            Last name
+(b) Social security 
+number
+(c) Relationship 
+to you
+Child tax credit
+Credit for other  
+dependents
+Part II
+Presidential Election Campaign Fund (for the return year entered at the top of page 1)
+Checking below won’t increase your tax or reduce your refund.
+Check here if you didn’t previously want $3 to go to the fund, but now do.
+Check here if this is a joint return and your spouse did not previously want $3 to go to the fund, but now does.
+Part III
+Explanation of Changes. In the space provided below, tell us why you are filing Form 1040-X.                      
+▶ Attach any supporting documents and new or changed forms and schedules. 
+Sign  
+Here 
+Remember to keep a copy of this form for your records. 
+Under penalties of perjury, I declare that I have filed an original return, and that I have examined this amended return, including accompanying schedules 
+and statements, and to the best of my knowledge and belief, this amended return is true, correct, and complete. Declaration of preparer (other than 
+taxpayer) is based on all information about which the preparer has any knowledge.
+▲
+Your signature
+Date 
+Your occupation
+▲
+Spouse’s signature. If a joint return, both must sign.
+Date 
+Spouse’s occupation
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name     ▶
+Firm’s EIN ▶
+Firm’s address ▶
+Phone no. 
+For forms and publications, visit www.irs.gov/Forms.
+Form 1040-X (Rev. 7-2021)

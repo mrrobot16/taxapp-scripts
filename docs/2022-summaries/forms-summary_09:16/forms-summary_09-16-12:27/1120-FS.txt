@@ -1,0 +1,9 @@
+Schedule S (Form 1120-F) is a tax form provided by the Internal Revenue Service (IRS) for corporations to claim the exclusion of income from the international operation of ships or aircraft under Section 883 of the Internal Revenue Code. The form is to be attached to Form 1120-F.
+
+The form begins by requesting information about the qualified foreign corporation, including the country in which it is organized and the type of equivalent exemption granted by the foreign country. It then asks for the gross income in various categories of qualified income for which the exemption is being claimed, such as income from the carriage of passengers and cargo, charter income, incidental container-related income, and capital gains from the sale of assets used in the international operation of ships or aircraft.
+
+The form also includes sections for the stock ownership test, which determines whether the corporation meets the requirements for the exemption. The stock ownership test can be satisfied through the publicly-traded test, the controlled foreign corporation (CFC) stock ownership test, or the qualified shareholder stock ownership test. The form asks for information about the country in which the stock is primarily traded, the securities market on which the stock is listed, and the ownership of the stock by qualified shareholders.
+
+The form concludes with a section for the corporation to indicate whether any of the shares of its stock are issued in bearer form and whether those bearer shares were relied on to satisfy the stock ownership tests.
+
+Overall, Schedule S (Form 1120-F) is a detailed form that allows corporations to claim the exclusion of income from the international operation of ships or aircraft under Section 883 of the Internal Revenue Code.

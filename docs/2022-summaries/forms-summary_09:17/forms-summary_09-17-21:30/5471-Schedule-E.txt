@@ -1,0 +1,11 @@
+This document is the Schedule E form for Form 5471, which is used to report Income, War Profits, and Excess Profits Taxes Paid or Accrued by a foreign corporation. The form is divided into three parts.
+
+Part I is for reporting taxes for which a foreign tax credit is allowed. It includes sections for reporting taxes paid or accrued directly by the foreign corporation, including the name and identification number of the payor entity, the country or U.S. possession to which the tax is paid, the foreign tax year, the U.S. tax year, income subject to tax, and the amount of tax paid or accrued in both the local currency and U.S. dollars.
+
+Part II is for reporting taxes deemed paid by the foreign corporation. It includes sections for reporting taxes paid to lower-tier distributing foreign corporations, the PTEP group, and foreign income taxes properly attributable to PTEP.
+
+Part III is for reporting taxes for which a foreign tax credit is disallowed. It includes sections for reporting taxes paid or accrued by the foreign corporation, taxes unsuspended under anti-splitter rules, taxes suspended under anti-splitter rules, U.S. taxes, suspended taxes, and other adjustments.
+
+The form also includes a Schedule E-1 for reporting taxes paid, accrued, or deemed paid on earnings and profits (E&P) of the foreign corporation. It includes sections for reporting taxes related to subpart F income, tested income, residual income, suspended taxes, and other categories related to E&P.
+
+Overall, this form is used to report and calculate foreign taxes paid or accrued by a foreign corporation, and to determine the foreign tax credit that may be claimed by the taxpayer.

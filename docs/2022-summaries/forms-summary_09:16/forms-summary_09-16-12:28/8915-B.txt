@@ -1,0 +1,9 @@
+Form 8915-B is a document provided by the Internal Revenue Service (IRS) for taxpayers to report qualified 2017 disaster retirement plan distributions and repayments. This form is to be attached to the taxpayer's 2021 Form 1040, 1040-SR, or 1040-NR. 
+
+The form consists of two parts. Part I is for reporting qualified 2017 disaster distributions from retirement plans other than IRAs. The taxpayer is required to enter the amounts from their 2020 Form 8915-B, lines 6 and 1, and calculate the excess repayment from 2020. They also need to report any repayments made in 2021 that were not included on the 2020 form. The total amount of lines 3 and 4 can be carried back to reduce the amount subject to tax in a prior year.
+
+Part II is for reporting qualified 2017 disaster distributions from traditional, SEP, SIMPLE, and Roth IRAs. Similar to Part I, the taxpayer needs to enter the amounts from their 2020 Form 8915-B, lines 13 and 8, and calculate the excess repayment from 2020. They also need to report any repayments made in 2021 that were not included on the 2020 form. The total amount of lines 8 and 9 can be carried back to reduce the amount subject to tax in a prior year.
+
+The form includes spaces for the taxpayer's personal information, such as their name, social security number, and address. There is also a section for the taxpayer's signature and declaration of accuracy.
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8915B.

@@ -1,0 +1,15 @@
+Form 8959 is a document issued by the Internal Revenue Service (IRS) for taxpayers to calculate and report their Additional Medicare Tax. The form is to be attached to the taxpayer's Form 1040, 1040-SR, 1040-NR, 1040-PR, or 1040-SS.
+
+The form is divided into several parts. 
+
+Part I is for reporting Additional Medicare Tax on Medicare wages. It requires the taxpayer to enter their Medicare wages and tips from Form W-2, any unreported tips from Form 4137, and wages from Form 8919. The total of these amounts is then calculated on line 4. The taxpayer is also required to enter their filing status-specific threshold amount on line 5 and calculate the difference between line 4 and line 5 on line 6. Line 7 is used to calculate the Additional Medicare Tax on Medicare wages by multiplying line 6 by 0.9% (0.009).
+
+Part II is for reporting Additional Medicare Tax on self-employment income. The taxpayer is required to enter their self-employment income from Schedule SE, Part I, line 6 on line 8. The filing status-specific threshold amount is entered on line 9, and the difference between line 9 and line 10 is calculated on line 11. Line 12 is used to calculate the Additional Medicare Tax on self-employment income by multiplying line 11 by 0.9% (0.009).
+
+Part III is for reporting Additional Medicare Tax on Railroad Retirement Tax Act (RRTA) compensation. The taxpayer is required to enter their RRTA compensation and tips from Form W-2, box 14 on line 14. The filing status-specific threshold amount is entered on line 15, and the difference between line 15 and line 14 is calculated on line 16. Line 17 is used to calculate the Additional Medicare Tax on RRTA compensation by multiplying line 16 by 0.9% (0.009).
+
+Part IV is for calculating the total Additional Medicare Tax by adding the amounts from lines 7, 13, and 17. This total is also to be included on Schedule 2, line 11 of Form 1040.
+
+Part V is for reconciling Medicare tax withholding. The taxpayer is required to enter the Medicare tax withheld from Form W-2, box 6 on line 19. The amount from line 1 is entered on line 20. Line 21 is used to calculate the regular Medicare tax withholding on Medicare wages by multiplying line 20 by 1.45% (0.0145). The difference between line 21 and line 19 is calculated on line 22, representing the Additional Medicare Tax withholding on Medicare wages. Additional Medicare Tax withholding on RRTA compensation from Form W-2, box 14 is entered on line 23. Line 24 is used to calculate the total Additional Medicare Tax withholding by adding the amounts from lines 22 and 23. This total is also to be included with federal income tax withholding on the appropriate line of Form 1040.
+
+The form includes instructions and a link to the IRS website for additional information.

@@ -1,0 +1,607 @@
+Form  8288
+(Rev. January 2023)
+U.S. Withholding Tax Return for  
+Certain Dispositions by Foreign Persons
+Department of the Treasury 
+Internal Revenue Service
+Go to www.irs.gov/Form8288 for instructions and the latest information.
+OMB No. 1545-0902
+If this is a corrected return, check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Complete the withholding agent information and Part I through Part V, as applicable. Also, complete and attach Copies A and B of Form(s) 
+8288-A or Copy A or B, as applicable, of Form(s) 8288-C. Attach additional sheets if you need more space.
+Note: Report only one disposition on each Form 8288 filed. 
+Withholding Agent Information
+1a
+Name of buyer or other party responsible for withholding. See instructions.
+b   U.S. taxpayer identification number (TIN)
+c
+Street address, apt. or suite no., or rural route. Do not use a P.O. box.
+d
+City or town, state or province, country, and ZIP or foreign postal code
+e   Phone number (optional)
+2 
+Description and location of the U.S. real property interest acquired, transferred or distributed, or description of transferred partnership 
+interest. See instructions.
+3
+Date of transfer
+4   Date of withholding certificate or 
+date of distribution (see instructions)
+5   Number of Forms 8288-A or 8288-C attached
+Part I
+To Be Completed by the Buyer or Other Transferee Required To Withhold Under Section 1445(a)
+6
+Amount subject to withholding 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+$
+7 
+Withholding tax liability. Multiply line 6 by the applicable withholding rate on 
+line 7a or 7b. Otherwise, check the box on line 7c.
+a
+10% (0.10) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7a
+$
+b
+15% (0.15) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7b
+$
+c
+Withholding at an adjusted amount (see instructions) 
+.
+.
+.
+.
+.
+.
+7c
+$
+8
+Amount withheld .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+$
+Part II
+To Be Completed by an Entity Subject to the Provisions of Section 1445(e)
+9
+Large trust election to withhold at distribution (see instructions) .
+.
+.
+10
+Amount subject to withholding 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+$
+11 
+Withholding tax liability. Multiply line 10 by the applicable withholding rate 
+on line 11a, 11b, or 11c. Otherwise, check the box on line 11d.
+a
+10% (0.10) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11a $
+b
+15% (0.15) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11b $
+c
+21% (0.21) (or 35% (0.35) for distributions made before January 1, 2018)
+.
+11c $
+d
+Withholding at an adjusted amount (see instructions) 
+.
+.
+.
+.
+.
+.
+11d $
+12
+Amount withheld .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 $
+Part III
+To Be Completed by Buyer/Transferee Required To Withhold Under Section 1446(f)(1)
+13
+Amount subject to withholding 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 $
+14 
+Withholding tax liability. Multiply line 13 by the applicable withholding rate 
+on line 14a or check the box on line 14b.
+a
+10% (0.10) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14a $
+b
+Withholding at an adjusted amount (see instructions) 
+.
+.
+.
+.
+.
+.
+14b $
+15 
+Amount withheld .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+$
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 62260A
+Form 8288 (Rev. 1-2023)
+Form 8288 (Rev. 1-2023)
+Page 2 
+Part IV
+To Be Completed by the Partnership Required To Withhold Under Section 1446(f)(4)
+16
+Partnership distributions. Complete the following items. 
+a
+Total number of distributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16a
+b
+Total amount of distributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16b $
+c
+Total amount of other withholding 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16c $
+17
+Transferee’s liability under section 1446(f)(1) (if known) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+$
+18
+Total amounts withheld .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+$
+Part V
+To Be Completed by Buyer/Transferee Claiming a Refund of Withholding Under Section 1446(f)(4)
+19
+Amount subject to withholding 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+$
+20
+Amount withheld (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+$
+21 
+Withholding tax liability. Multiply line 19 by the applicable withholding rate 
+on line 21a or check the box on line 21b.
+a
+10% (0.10) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21a $
+b
+Withholding at an adjusted amount (see instructions) 
+.
+.
+.
+.
+.
+.
+21b $
+22
+Amount of refund requested .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+$
+Sign   
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge 
+and belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature of withholding agent, partner, fiduciary, or corporate officer
+Title (if applicable)
+Date
+Paid  
+Preparer  
+Use Only 
+Print/Type preparer’s name 
+Preparer’s signature 
+Date 
+Check          if  
+self-employed
+ PTIN
+Firm’s name
+Firm’s address
+Firm’s EIN
+Phone no. 
+Form 8288 (Rev. 1-2023)

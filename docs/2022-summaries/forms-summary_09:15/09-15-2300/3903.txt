@@ -1,0 +1,21 @@
+Form 3903 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim deductions for moving expenses. The form is to be attached to Form 1040, 1040-SR, or 1040-NR. 
+
+Before claiming moving expenses, it is important to meet certain requirements. The deductions can only be claimed by members of the Armed Forces on active duty who have been ordered to move due to a permanent change of station. The form includes a checkbox to certify that the taxpayer meets these requirements.
+
+The form consists of several sections:
+
+1. Transportation and storage of household goods and personal effects: This section is for taxpayers to report the expenses incurred for transporting and storing their belongings during the move.
+
+2. Travel (including lodging) from the old home to the new home: Here, taxpayers can report the costs of travel, including lodging expenses, associated with the move. The cost of meals should not be included.
+
+3. The total of lines 1 and 2 is calculated in this section.
+
+4. Taxpayers are required to enter the total amount paid by the government for expenses listed in lines 1 and 2 that is not included in box 1 of their Form W-2. This amount should be shown in box 12 of the Form W-2 with code P.
+
+5. Line 3 is compared to line 4 in this section. If line 3 is more than line 4, taxpayers can deduct their moving expenses by subtracting line 4 from line 3. The result should be entered on Schedule 1 (Form 1040), line 14.
+
+If line 3 is less than line 4, taxpayers cannot deduct their moving expenses. In this case, they should subtract line 3 from line 4 and include the result on Form 1040, 1040-SR, or 1040-NR, line 1h.
+
+The form concludes with a notice regarding the Paperwork Reduction Act and provides the form number and year.
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form3903.

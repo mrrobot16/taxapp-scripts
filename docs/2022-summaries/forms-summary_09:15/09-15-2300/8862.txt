@@ -1,0 +1,19 @@
+Form 8862 is a document provided by the Internal Revenue Service (IRS) that taxpayers must complete and attach to their tax return in order to claim certain tax credits. These credits include the Earned Income Credit (EIC), Child Tax Credit (CTC), Refundable Child Tax Credit (RCTC), Additional Child Tax Credit (ACTC), Credit for Other Dependents (ODC), and American Opportunity Tax Credit (AOTC).
+
+The form is divided into several parts, and taxpayers must complete the parts that correspond to the credits they are claiming. Part I requires taxpayers to enter the tax year for which they are filing the form.
+
+Part II is for taxpayers claiming the Earned Income Credit. They must indicate whether their EIC was reduced or disallowed due to incorrectly reported earned income or investment income. If not, they can proceed to answer further questions.
+
+Section A of Part II is for filers with a qualifying child or children. They must provide information about each child, such as their names, whether they had a qualifying child for the EIC, the number of days each child lived with them in the United States, and their dates of birth and death if applicable.
+
+Section B of Part II is for filers without a qualifying child or children. They must provide information about the number of days their main home and their spouse's main home were in the United States during the tax year, their ages, and whether they can be claimed as dependents on another taxpayer's return.
+
+Part III is for taxpayers claiming the Child Tax Credit, Additional Child Tax Credit, or Credit for Other Dependents. They must provide the names of the children or dependents they are claiming, indicate whether the child lived with them for more than half of the year and met the requirements to be a qualifying child, and whether the child is a citizen, national, or resident of the United States.
+
+Part IV is for taxpayers claiming the American Opportunity Tax Credit. They must provide information about each student for whom they are claiming the credit, including their names and whether they met the requirements to be an eligible student for the AOTC.
+
+Part V is for taxpayers who have a qualifying child that may also be claimed as a qualifying child by another person. They must provide information about the child's address and whether any other person lived with the child for more than half of the year.
+
+The form concludes with a note that the IRS may request additional information to verify the taxpayer's eligibility to claim each credit.
+
+Taxpayers are advised to refer to the instructions provided by the IRS for more detailed guidance on completing Form 8862.

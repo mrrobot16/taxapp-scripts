@@ -1,0 +1,1028 @@
+SCHEDULE M-3 
+(Form 1120-F)
+Department of the Treasury  
+Internal Revenue Service  
+Net Income (Loss) Reconciliation for Foreign  
+Corporations With Reportable Assets of $10 Million or More
+Attach to Form 1120-F. 
+Go to www.irs.gov/Form1120F for instructions and the latest information.
+OMB No. 1545-0123
+2022
+Name of corporation
+Employer identification number
+A 
+Has the corporation reported taxable income on Form 1120-F, page 4, using a treaty provision to attribute 
+business profits to a U.S. permanent establishment under rules other than section 864(c)? .
+.
+.
+.
+.
+.
+Yes
+No
+B 
+Did the corporation prepare a non-consolidated, worldwide, certified audited income statement for the
+period (see instructions)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+C 
+Did the corporation prepare a non-consolidated, worldwide income statement for the period (see instructions)?
+Yes
+No
+D 
+Did the corporation prepare certified audited income statement(s) for the set(s) of books reported on 
+Form 1120-F, Schedule L? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Part I
+Financial Information and Net Income (Loss) Reconciliation (see instructions)
+1 
+Is the corporation a foreign bank as defined in Regulations section 1.882-5(c)(4)?
+Yes. Complete the remainder of Part I as follows:
+If D is “Yes,” use the income statement described in D to complete lines 2 through 5 and 7 through 11.
+If D is “No,” use the income statement(s) for the set(s) of books reported on Form 1120-F, Schedule L
+to complete lines 2 through 5 and 7 through 11.
+No. Complete the remainder of Part I as follows:
+If B is “Yes,” use the income statement described in B to complete lines 2 through 11.
+If B is “No” and C is “Yes,” use the income statement described in C to complete lines 2 through 11.
+If B and C are “No” and D is “Yes,” use the income statement described in D to complete lines 2 through 11.
+If B, C, and D are “No,” use the income statement described in the instructions to complete lines 2 through 11.
+2a Enter the income statement period: Beginning
+Ending
+b Has the corporation’s income statement been restated for the income statement period entered on line 2a?
+Yes. Attach an explanation and the amount of each item restated.
+No.
+c Has the corporation’s income statement been restated for any of the 5 income statement periods immediately 
+preceding the period on line 2a?
+Yes. Attach an explanation and the amount of each item restated.
+No.
+3 
+Is any of the corporation’s stock publicly traded on any exchange, U.S. or foreign?
+Yes. List exchange(s) and symbol 
+No.
+4 
+Non-consolidated foreign corporation net income (loss) in U.S. dollars from the income statement 
+source identified in line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5a Net income from includible disregarded foreign entities not included on line 4 (attach statement) .
+.
+5a 
+b Net loss from includible disregarded foreign entities not included on line 4 (attach statement) .
+.
+.
+5b (                          ) 
+c Net income from includible disregarded U.S. entities not included on line 4 (attach statement) .
+.
+.
+5c 
+d Net loss from includible disregarded U.S. entities not included on line 4 (attach statement) .
+.
+.
+.
+5d (                          ) 
+6 
+Net income (loss) from foreign locations not included on line 4 (attach statement) .
+.
+.
+.
+.
+.
+.
+6 
+7a Net income of non-includible entities (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7a (                          ) 
+b Net loss of non-includible entities (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7b
+8 
+Adjustments to intercompany transactions (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Adjustments to reconcile income statement period to tax year (attach statement) .
+.
+.
+.
+.
+.
+.
+9 
+10 
+Other adjustments to reconcile to amount on line 11 (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Adjusted financial net income (loss) of non-consolidated foreign corporation. Combine lines 4 
+through 10 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+Note: Part I, line 11, must equal Part II, line 28, column (a) or Schedule M-1, line 1 (see instructions).
+For Paperwork Reduction Act Notice, see the Instructions 
+for Form 1120-F.
+Cat. No. 39667H
+Schedule M-3 (Form 1120-F) 2022
+Schedule M-3 (Form 1120-F) 2022
+Page 2 
+Name of corporation
+Employer identification number
+Part II
+Reconciliation of Net Income (Loss) per Income Statement of Non-Consolidated Foreign Corporations With 
+Taxable Income per Return (see instructions)
+Income (Loss) Items
+(a)  
+Income (Loss) per 
+Income Statement 
+(b)  
+Temporary  
+Differences
+(c)  
+Permanent  
+Differences
+(d)  
+Other Permanent 
+Differences  
+for Allocations to  
+Non-ECI and ECI
+(e) 
+Income (Loss) 
+per Tax Return 
+1
+Gross receipts .
+.
+.
+.
+.
+.
+.
+.
+2
+Cost of goods sold (attach statement) .
+3a
+Dividends from foreign entities .
+.
+.
+b
+Dividends from U.S. entities .
+.
+.
+.
+c
+Substitute dividend payments received  
+4a 
+Interest 
+income 
+excluding 
+interest 
+equivalents .
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Substitute interest payments received
+c
+Interest equivalents not included on line 4b
+5
+Gross rental income .
+.
+.
+.
+.
+.
+6
+Gross royalty income .
+.
+.
+.
+.
+.
+7
+Fee and commission income 
+.
+.
+.
+8 
+Income (loss) from equity method 
+corporations 
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Net income (loss) from U.S. partnerships
+10 
+Net income (loss) from certain foreign 
+partnerships (see instructions) .
+.
+.
+11 
+Net income (loss) from other pass- 
+through entities (attach statement) .
+.
+12 
+Items relating to reportable transactions 
+(attach statement) .
+.
+.
+.
+.
+.
+.
+13
+Hedging transactions .
+.
+.
+.
+.
+.
+14a 
+Mark-to-market income (loss) under 
+section 475(a) .
+.
+.
+.
+.
+.
+.
+.
+b 
+Mark-to-market income (loss) subject to 
+section 475(d)(3)(B) 
+.
+.
+.
+.
+.
+.
+c 
+Mark-to-market income (loss) under 
+section 475(e) .
+.
+.
+.
+.
+.
+.
+.
+d 
+Mark-to-market income (loss) under 
+section 475(f) .
+.
+.
+.
+.
+.
+.
+.
+15 
+Gain (loss) from certain section 988 
+transactions 
+.
+.
+.
+.
+.
+.
+.
+.
+16a 
+Interest income from global securities 
+dealing .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Dividends from global securities dealing 
+c 
+ 
+ 
+Gains (losses) and other fixed and 
+determinable, 
+annual, 
+or 
+periodic 
+income from global securities dealing 
+not included on lines 16a and 16b .
+.
+17 
+Sales versus lease (for sellers and/or 
+lessors) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+Section 481(a) adjustments .
+.
+.
+.
+ 19
+Unearned/deferred revenue .
+.
+.
+.
+20 
+Original 
+issue 
+discount, 
+imputed 
+interest, and phantom income .
+.
+.
+21a 
+ 
+ 
+Income statement gain/loss on sale, 
+exchange, abandonment, worthlessness,
+or other disposition of assets other than 
+inventory and pass-through entities .
+.
+b 
+ 
+Gross capital gains from Schedule D,
+excluding amounts from pass-through 
+entities .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule M-3 (Form 1120-F) 2022
+Schedule M-3 (Form 1120-F) 2022
+Page 3 
+Name of corporation
+Employer identification number
+Part II
+Reconciliation of Net Income (Loss) per Income Statement of Non-Consolidated Foreign Corporations 
+With Taxable Income per Return (see instructions) (continued from page 2)
+Income (Loss) Items
+(a)  
+Income (Loss) per 
+Income Statement 
+(b)  
+Temporary  
+Differences
+(c)  
+Permanent  
+Differences
+(d)  
+Other Permanent 
+Differences  
+for Allocations to  
+Non-ECI and ECI
+(e)  
+Income (Loss)  
+per Tax Return  
+21c 
+ 
+ 
+Gross capital losses from Schedule D, 
+excluding amounts from pass-through 
+entities, 
+abandonment 
+losses, 
+and 
+worthless stock losses 
+.
+.
+.
+.
+.
+d 
+ 
+ 
+Net gain/loss reported on Form 4797,
+line 
+17, 
+excluding 
+amounts 
+from 
+pass-through 
+entities, 
+abandonment 
+losses, and worthless stock losses .
+.
+e
+Abandonment losses .
+.
+.
+.
+.
+.
+f
+Worthless stock losses (attach statement) 
+g 
+Other gain/loss on disposition of assets 
+other than inventory .
+.
+.
+.
+.
+.
+22 
+Capital loss limitation and carryforward 
+used 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+ 
+ 
+Gross effectively connected income of 
+foreign banks from books that do not 
+give 
+rise 
+to 
+U.S. 
+booked 
+liabilities 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+Other 
+income 
+(loss) 
+items 
+with 
+differences (attach statement) 
+.
+.
+.
+25 
+Total income (loss) items. Combine 
+lines 1 through 24 .
+.
+.
+.
+.
+.
+.
+26 
+Total expense/deduction items (from 
+Part III, line 33) 
+.
+.
+.
+.
+.
+.
+.
+27
+Other items with no differences .
+.
+.
+28 
+Reconciliation totals. Combine lines 25 
+through 27 .
+.
+.
+.
+.
+.
+.
+.
+.
+Note: Line 28, column (a), must equal Part I, line 11, and column (e) must equal Form 1120-F, page 4, line 29.
+Part III
+Reconciliation of Net Income (Loss) per Income Statement of Non-Consolidated Foreign Corporations 
+With Taxable Income per Return (see instructions)
+Expense/Deduction Items
+(a)  
+Expense per  
+Income Statement 
+(b)  
+Temporary  
+Differences
+(c)  
+Permanent  
+Differences
+(d)  
+Other Permanent 
+Differences  
+for Allocations to  
+Non-ECI and ECI
+(e)  
+Deduction per  
+Tax Return  
+1
+U.S. current income tax expense 
+.
+.
+ 2
+U.S. deferred income tax expense .
+.
+3 
+Non-U.S. current income tax expense 
+(other than foreign withholding taxes) .
+4 
+Non-U.S. 
+deferred 
+income 
+tax 
+expense 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Non-U.S. withholding taxes .
+.
+.
+.
+6 
+Compensation 
+with 
+section 
+162(m) 
+limitation 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Salaries and other base compensation
+ 8
+Stock option expense 
+.
+.
+.
+.
+.
+ 9
+Other equity-based compensation .
+.
+ 10
+Meals and entertainment .
+.
+.
+.
+.
+ 11
+Fines and penalties 
+.
+.
+.
+.
+.
+.
+ 12 
+Judgments, damages, awards, and 
+similar costs 
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule M-3 (Form 1120-F) 2022
+Schedule M-3 (Form 1120-F) 2022
+Page 4 
+Name of corporation
+Employer identification number
+Part III
+Reconciliation of Net Income (Loss) per Income Statement of Non-Consolidated Foreign  
+Corporations With Taxable Income per Return (see instructions) (continued from page 3)
+(                          )
+Expense/Deduction Items
+(a)  
+Expense per  
+Income Statement 
+(b)  
+Temporary  
+Differences
+(c)  
+Permanent  
+Differences
+(d)  
+Other Permanent 
+Differences  
+for Allocations to  
+Non-ECI and ECI
+(e)  
+Deduction per  
+Tax Return  
+13
+Pension and profit-sharing .
+.
+.
+.
+ 14
+Other post-retirement benefits .
+.
+.
+ 15
+Deferred compensation .
+.
+.
+.
+.
+16
+Charitable contributions .
+.
+.
+.
+.
+17 
+ 
+Section 162(r)–FDIC premiums paid by 
+certain large financial institutions (see 
+instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+ 
+Current 
+year 
+acquisition 
+or 
+reorganization 
+investment 
+banking 
+fees, legal and accounting fees .
+.
+.
+19 
+Current year acquisition/reorganization 
+other costs .
+.
+.
+.
+.
+.
+.
+.
+.
+20
+Amortization/impairment of goodwill 
+.
+21 
+Amortization 
+of 
+acquisition, 
+reorganization, and start-up costs .
+.
+22 
+Other 
+amortization 
+or 
+impairment 
+write-offs 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+Depreciation 
+.
+.
+.
+.
+.
+.
+.
+.
+24
+Bad debt expense 
+.
+.
+.
+.
+.
+.
+25 
+Purchase versus lease (for purchasers 
+and/or lessees) 
+.
+.
+.
+.
+.
+.
+.
+26a
+Interest expense per books .
+.
+.
+.
+b 
+ 
+Interest expense under Regulations 
+section 1.882-5 (from Schedule I (Form 
+1120-F), line 23) 
+.
+.
+.
+.
+.
+.
+.
+c 
+ 
+ 
+Regulations section 1.882-5 allocation 
+amount 
+subject 
+to 
+deferral 
+or 
+disallowance (from Schedule I (Form 
+1120-F), line 24g) .
+.
+.
+.
+.
+.
+.
+d
+Substitute interest payments 
+.
+.
+.
+e 
+Interest 
+equivalents 
+(for 
+example, 
+guarantee fees) not included on line 26d 
+27
+Substitute dividend payments 
+.
+.
+.
+28
+Fee and commission expense .
+.
+.
+29
+Rental expense 
+.
+.
+.
+.
+.
+.
+.
+30
+Royalty expense .
+.
+.
+.
+.
+.
+.
+31 
+ 
+ 
+ 
+ 
+Expenses 
+allocable 
+to 
+effectively 
+connected income under Regulations 
+section 1.861-8 from home office or 
+other books that do not give rise to U.S. 
+booked liabilities (from Schedule  H 
+(Form 1120-F), line 20) 
+.
+.
+.
+.
+.
+32 
+Other expense/deduction items with 
+differences (attach statement) 
+.
+.
+.
+33 
+ 
+Total 
+expense/deduction 
+items. 
+Combine lines 1 through 32. Enter here
+and on Part II, line 26 .
+.
+.
+.
+.
+.
+Schedule M-3 (Form 1120-F) 2022

@@ -1,0 +1,17 @@
+Form 965-E is a consent agreement form issued by the Internal Revenue Service (IRS) under Section 965(i)(4)(D) of the tax code. The form is used by shareholders to request consent to make a Section 965(h) election and report their unpaid Section 965(i) net tax liability. 
+
+The form consists of six parts:
+
+Part I: Shareholder Information - This section requires the shareholder to provide their name, taxpayer identification number, address, and other contact details.
+
+Part II: Identifying Information of the S Corporation - This section requires the shareholder to provide the name and taxpayer identification number of the S Corporation for which the Section 965(i) election was in effect.
+
+Part III: Triggering Event - The shareholder must enter the date of the triggering event and provide a detailed description of the event that necessitates the need for consent to make a Section 965(h) election.
+
+Part IV: Report of Unpaid Section 965(i) Net Tax Liability - The shareholder is required to enter the amount of the unpaid Section 965(i) net tax liability for which consent is requested, as well as the date when the next installment payment will be due.
+
+Part V: Shareholders Ability to Make Payments - The shareholder must indicate whether they are able to make the required payments under Section 965(h) and provide information about their leverage ratio immediately after the triggering event.
+
+Part VI: Terms of Agreement - The shareholder must sign the agreement, agreeing to comply with all the conditions and requirements of Section 965(h) and Regulations section 1.965-7(b), as well as provide any additional information requested by the Commissioner.
+
+The form must be signed under penalties of perjury, certifying that the information provided is true, correct, and complete.

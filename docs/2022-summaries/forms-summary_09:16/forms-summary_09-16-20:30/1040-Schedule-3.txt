@@ -1,0 +1,9 @@
+Schedule 3 (Form 1040) is an attachment to the individual tax return form used in the United States, specifically Form 1040, 1040-SR, or 1040-NR. It is used to report additional credits and payments that the taxpayer may be eligible for. 
+
+Part I of Schedule 3 is for reporting nonrefundable credits, such as the foreign tax credit, child and dependent care expenses credit, education credits, retirement savings contributions credit, residential energy credits, and other nonrefundable credits.
+
+Part II of Schedule 3 is for reporting other payments and refundable credits, including the net premium tax credit, amount paid with a request for an extension to file, excess social security and tier 1 RRTA tax withheld, credit for federal tax on fuels, and other payments or refundable credits.
+
+The taxpayer must fill out the appropriate sections of Schedule 3 and attach any necessary forms or documentation to support their claims for credits and payments. The total amounts from both parts of Schedule 3 are then transferred to the appropriate lines on Form 1040, 1040-SR, or 1040-NR.
+
+It is important for taxpayers to consult the instructions provided by the Internal Revenue Service (IRS) and visit the IRS website (www.irs.gov/Form1040) for the most up-to-date information and guidance on completing Schedule 3.

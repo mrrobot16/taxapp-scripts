@@ -1,0 +1,13 @@
+Form 8829 is a document provided by the Internal Revenue Service (IRS) for individuals who use their home for business purposes. It is used to calculate and report expenses related to the business use of a home. 
+
+The form is divided into several parts. In Part I, the individual must provide information about the area of their home that is used for business purposes. They need to calculate the total area of their home and determine the percentage of it that is used for business. If the home is used for daycare facilities, there are additional calculations to be made.
+
+In Part II, the individual calculates their allowable deduction for the business use of their home. This includes expenses such as direct and indirect expenses, casualty losses, deductible mortgage interest, and real estate taxes. These expenses are added up and multiplied by the business percentage calculated in Part I.
+
+Part III is used to calculate the depreciation of the home. The individual needs to determine the adjusted basis or fair market value of their home and subtract the value of the land. The business basis of the building is then calculated by multiplying the result by the business percentage.
+
+Part IV is for carrying over any unallowed expenses to the following year.
+
+The form provides instructions for each line and directs individuals to visit the IRS website for more information.
+
+Overall, Form 8829 is a tool for individuals to properly calculate and report their expenses for the business use of their home when filing their tax return.

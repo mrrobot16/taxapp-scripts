@@ -1,0 +1,33 @@
+Based on the information provided, here is a list of forms and corresponding IRS URLs that you may need to file your taxes:
+
+1. Form 1040: U.S. Individual Income Tax Return
+   - URL: https://www.irs.gov/forms-pubs/about-form-1040
+
+2. Schedule C: Profit or Loss from Business (for the consulting contract income)
+   - URL: https://www.irs.gov/forms-pubs/about-schedule-c-form-1040
+
+3. Schedule D: Capital Gains and Losses (for the stock transactions)
+   - URL: https://www.irs.gov/forms-pubs/about-schedule-d-form-1040
+
+4. Schedule B: Interest and Ordinary Dividends (for the savings account interest and company stock dividends)
+   - URL: https://www.irs.gov/forms-pubs/about-schedule-b-form-1040
+
+5. Form 1120S: U.S. Income Tax Return for an S Corporation (for the S-corporation income and dividends)
+   - URL: https://www.irs.gov/forms-pubs/about-form-1120s
+
+6. Form 1120: U.S. Corporation Income Tax Return (for the C-corporation income and dividends)
+   - URL: https://www.irs.gov/forms-pubs/about-form-1120
+
+7. Schedule E: Supplemental Income and Loss (for the rental properties)
+   - URL: https://www.irs.gov/forms-pubs/about-schedule-e-form-1040
+
+8. Form 4562: Depreciation and Amortization (for the rental property depreciation)
+   - URL: https://www.irs.gov/forms-pubs/about-form-4562
+
+9. Form 4684: Casualties and Thefts (for the repairs and damages from the natural disaster)
+   - URL: https://www.irs.gov/forms-pubs/about-form-4684
+
+10. Form 8829: Expenses for Business Use of Your Home (if any of the rental properties are used for business purposes)
+    - URL: https://www.irs.gov/forms-pubs/about-form-8829
+
+Please note that this list is not exhaustive, and depending on the specific details of your client's situation, additional forms and schedules may be required. It is recommended to consult with a tax professional or review IRS publications for more detailed guidance.

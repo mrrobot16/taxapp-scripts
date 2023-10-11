@@ -1,0 +1,13 @@
+Form 8814 is a document provided by the Internal Revenue Service (IRS) for parents to report their child's interest and dividends on their tax return. It is an attachment to Form 1040, 1040-SR, or 1040-NR.
+
+The form starts with a caution that filing a separate tax return for the child may result in lower federal income tax on the child's income, as certain tax benefits cannot be taken by the parents. Details on these tax benefits are provided in the instructions.
+
+The form includes several sections for reporting the child's interest, dividends, and capital gain distributions. It also provides instructions for reporting any differences in amounts shown on the child's Forms 1099-INT and 1099-OID, as well as information on reporting dividends received as a nominee.
+
+There are calculations involved in determining the taxable amount, including subtracting a base amount and dividing certain figures by the total. The form provides instructions on where to report these amounts on the parent's tax return.
+
+Part II of the form deals with the tax on the first $2,300 of the child's interest and dividends. It includes a calculation to determine the tax owed, with a note indicating that if the parent checked a box on the form, they should refer to the instructions for further guidance.
+
+The form concludes with a reminder to include the amount from line 15 in the tax entered on Form 1040, 1040-SR, or 1040-NR, and to check box 1 on line 16 of the respective form.
+
+Overall, Form 8814 provides a structured format for parents to report their child's interest and dividends on their tax return and calculate the appropriate tax owed on that income.

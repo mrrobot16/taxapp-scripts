@@ -1,0 +1,13 @@
+Form 944 is the Employers Annual Federal Tax Return for the year 2022. This form is filed by employers instead of the quarterly Forms 941 if the IRS has notified them in writing. The form requires the employer's identification number (EIN), name, trade name (if any), and address. 
+
+Part 1 of the form includes questions about wages, tips, and other compensation, federal income tax withheld, and social security and Medicare wages and tips. It also includes adjustments and credits for small business payroll tax, sick and family leave wages, and COBRA premium assistance.
+
+Part 2 asks about the employer's deposit schedule and tax liability for the year. If the tax liability is less than $2,500, the employer can go to Part 3. Otherwise, they need to provide their tax liability for each month.
+
+Part 3 asks about the business, including whether it has closed or stopped paying wages, and the allocation of qualified health plan expenses and wages for sick and family leave.
+
+Part 4 asks if the employer wants to designate a third-party to discuss the return with the IRS.
+
+Part 5 is the signature section where the employer must sign the form under penalties of perjury.
+
+The form also includes a separate Payment Voucher (Form 944-V) that employers can use to make a payment with Form 944. The voucher includes instructions for completing and mailing it with the payment.

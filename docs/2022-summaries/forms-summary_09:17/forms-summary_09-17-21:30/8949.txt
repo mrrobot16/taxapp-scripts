@@ -1,0 +1,17 @@
+Form 8949 is a document provided by the Internal Revenue Service (IRS) for reporting sales and other dispositions of capital assets. It is used in conjunction with Schedule D to list transactions for certain lines on the schedule.
+
+The form is divided into two parts: Part I for short-term transactions and Part II for long-term transactions. Short-term transactions involve capital assets held for one year or less, while long-term transactions involve assets held for more than one year.
+
+Before completing the form, taxpayers are advised to check whether they have received any Form 1099-B or substitute statements from their brokers. These statements provide information about the basis (usually the cost) of the assets and whether it was reported to the IRS.
+
+For short-term transactions, taxpayers must check Box A, B, or C depending on whether the basis was reported to the IRS, not reported to the IRS, or not reported on Form 1099-B. If multiple boxes apply, separate forms should be completed for each applicable box.
+
+The form requires taxpayers to provide details of each transaction, including a description of the property, date acquired, date sold or disposed of, proceeds (sales price), and cost or other basis. If there are any adjustments to the gain or loss, taxpayers should enter the corresponding code and amount.
+
+Totals of the amounts in the columns for proceeds, cost or other basis, adjustments, and gain or loss should be calculated and entered on the appropriate lines of Schedule D.
+
+Similar instructions apply to long-term transactions in Part II of the form, with taxpayers checking Box D, E, or F based on whether the basis was reported to the IRS, not reported to the IRS, or not reported on Form 1099-B.
+
+If the basis reported to the IRS was incorrect, taxpayers should enter the correct basis in column (e) and make an adjustment in column (g) to correct the basis.
+
+Form 8949 is used to accurately report capital asset transactions and is an essential document for completing Schedule D and calculating capital gains or losses for tax purposes.

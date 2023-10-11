@@ -1,0 +1,19 @@
+Form 8994 is a document provided by the Internal Revenue Service (IRS) for employers to claim the Employer Credit for Paid Family and Medical Leave. This form should be attached to the employer's tax return.
+
+The form consists of several sections with yes or no questions for the employer to answer. The questions determine if the employer meets the eligibility criteria for claiming the credit. 
+
+The employer must have a written policy providing at least 2 weeks of annual paid family and medical leave for qualifying employees. If the employer does not have this policy, they are not eligible for the credit.
+
+The written policy must also provide paid family and medical leave of at least 50% of the wages normally paid to a qualifying employee. If this requirement is not met, the employer cannot claim the credit.
+
+The employer must have paid family and medical leave to at least one qualifying employee during the tax year to be eligible for the credit.
+
+If the employer had qualifying employees who were not covered by the Family and Medical Leave Act, they must have included non-interference language in their written policy and complied with it.
+
+The employer is required to enter the total paid family and medical leave credit figured for wages paid to qualifying employees during the tax year. This amount should be reported on the employer's tax return.
+
+Partnerships and S corporations have additional instructions for reporting the credit, while all other employers should report the credit on Form 3800, Part III, line 4j.
+
+The form also includes a reference to the Paid Family and Medical Leave Credit Worksheet, which provides further guidance on calculating the credit.
+
+Overall, Form 8994 serves as a tool for employers to determine their eligibility and claim the Employer Credit for Paid Family and Medical Leave.

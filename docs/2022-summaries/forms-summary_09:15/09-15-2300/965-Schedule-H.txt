@@ -1,0 +1,19 @@
+Schedule H (Form 965) is a document that is used to report amounts reported on Forms 1116 and 1118, as well as disallowed foreign taxes. It is attached to Form 965, and the latest instructions and information can be found on the IRS website.
+
+The document is divided into sections and includes reserved sections that are not currently used. 
+
+Section 1 is for reporting amounts reported on Forms 1116 and 1118 and disallowed foreign taxes. It includes a separate category where a code can be entered (instructions will provide guidance on the code to use). If code 901j is entered, the country code for the sanctioned country should also be entered.
+
+There are reserved sections 2, 4, 5, 7, 8, 10, 12, and 13 that are not currently used.
+
+Section 3 is for reporting the Section 965(a) inclusion in U.S. dollars with respect to pass-throughs from Schedule F, column (e)(1), line 16. This amount should be entered on Form 1116, Part I, or Form 1118, Sch. A.
+
+Section 6 is for reporting the Section 965(c) deduction in U.S. dollars from pass-throughs allocable to the Section 965(a) inclusion. This amount should also be entered on Form 1116, Part I, or Form 1118, Sch. A.
+
+Section 9 is for reporting taxes deemed paid through pass-throughs. The amount from Schedule F, column (l), line 16 should be entered here. This amount should also be reported on Form 1118, Schedule B, Part I, column 3.
+
+Section 11 is for entering the 2020 Applicable Percentage from pass-throughs. If there are multiple pass-throughs, this line can be left blank and a schedule can be attached.
+
+Section 14 is for reporting disallowed foreign taxes through pass-throughs. A calculation should be attached, and the amount should be reported here. This amount should also be included on Form 1118, Schedule G, Part I, line F.
+
+The document includes a Privacy Act and Paperwork Reduction Act Notice, which can be found in the separate instructions.

@@ -1,0 +1,11 @@
+Form 8978 is a document provided by the Internal Revenue Service (IRS) for partners to report additional taxes for a specific tax year. The form consists of three parts.
+
+Part I involves the computation of the additional reporting year tax. It requires the partner(s) to provide the tax year ended for four different years and the total income and deductions per the original return or as previously adjusted. Adjustments to income and deductions from Schedule A are also included. The form then calculates the corrected income, corrected deductions, corrected taxable income, income tax, and alternative minimum tax.
+
+Part II of the form deals with penalties. It provides space for partners to report any penalties incurred.
+
+Part III focuses on interest. Partners are required to report any interest accrued.
+
+The form concludes with a section for the Paperwork Reduction Act Notice.
+
+Partners can find instructions and the latest information regarding Form 8978 on the IRS website at www.irs.gov/Form8978.

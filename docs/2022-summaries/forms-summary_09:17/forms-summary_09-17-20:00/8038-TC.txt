@@ -1,0 +1,1938 @@
+Form  8038-TC
+(Rev. November 2012)
+Department of the Treasury 
+Internal Revenue Service
+Information Return for Tax Credit Bonds 
+and Specified Tax Credit Bonds
+▶ Under Internal Revenue Code section 149(e)
+▶ See separate instructions.
+OMB No. 1545-2160
+Part I
+Reporting Authority
+Check if Amended Return ▶
+1 Issuer’s name
+2 Issuer’s employer identification number (EIN)
+3
+Name of person (other than the issuer) with whom the IRS may communicate about this return (see instructions)
+4 Report number (For IRS Use Only)
+5 Number and street (or P.O. Box if mail is not delivered to street address)
+6
+City, town, or post office, state, and ZIP code
+7 Date of issue (MM/DD/YYYY)
+/
+/
+8
+Name of issue
+9 CUSIP number
+10
+Name and title of officer of issuer whom the IRS may call for more information (see instructions) 
+11 Telephone number of officer or other person
+Part II
+Type of Issue
+1 
+Tax Credit Bond Code (See instructions, enter three digit code for the type of issue) .
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+2
+Description:
+3
+Has the issuer made an irrevocable election to apply section 6431(f)?
+Yes
+No
+4
+Enter the first interest payment date (MM/DD/YYYY) ▶
+/
+/
+5
+Interest payment date frequency (Check box; see instructions and attach debt service schedule):
+a 
+annual,
+b
+semi-annual,
+c
+quarterly,
+d
+monthly, or
+e
+other
+f
+If line 5e above is checked, please describe the payment frequency:
+Part III
+Description of Obligations
+1 
+Issue price 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Stated redemption price at maturity  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Final maturity date (enter date MM/DD/YYYY) ▶
+/
+/
+4
+Applicable credit rate .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+4
+.
+%
+5
+Maximum term .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+.
+years
+6
+Permitted Sinking Fund Yield 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+.
+%
+7
+Enter the interest rate on the bonds .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+.
+%
+8
+If the issue is a variable rate issue, check box 8a ▶
+Enter the frequency rates are reset 8b ▶
+.
+Part IV
+Proceeds of Issue (Including underwriters' discount)
+Amount
+1
+Sale Proceeds
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Proceeds used for bond issuance cost (including underwriters' discount) .
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Estimated investment proceeds
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Expected available project proceeds (Subtract line 2 from line 1 and add line 3) (see instructions) 
+4
+5
+(For IRS Use Only) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+   6
+Other (describe) ▶
+6
+7
+Total proceeds (Add lines 4 through 6)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Part V
+Description of Use of Proceeds for Qualified Purpose Expenditures
+Amount
+1a Loans to qualified borrower(s) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b
+If a written loan commitment was obtained prior to issue date, check box ▶
+c
+Name of borrower ▶
+d
+EIN of borrower ▶
+(Attach list if more than one)
+2
+Land
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Buildings and structures .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Furniture or equipment with recovery period of more than 5 years .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Furniture or equipment with recovery period of 5 years or less 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Grants .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+6
+7
+Demonstration projects .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Public education campaigns 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Repairs or other rehabilitation expenditures 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 53394V
+Form 8038-TC (Rev. 11-2012)
+Form 8038-TC  (Rev. 11-2012)
+Page 2 
+Description of Use of Proceeds for Qualified Purpose Expenditures (Continued)
+10
+Developing course materials and/or staff training expenditures .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Pay principal, interest, or premiums on qualified bonds .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Refinance a qualified indebtedness 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Other (describe) ▶
+13
+14
+Total qualified purpose expenditures (Sum of lines 1a through 13)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Percentage of total proceeds to be used for qualified purpose expenditures (Divide line
+14 in Part V by line 7 in Part IV, multiply result by 100)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+.
+%
+16
+If some portion of proceeds was used to reimburse issuer for amounts paid for a qualified 
+purpose, enter the amount of reimbursement .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+If some portion of proceeds was to reimburse issuer for amounts paid for a qualified purpose, 
+enter the date the official intent was adopted (MM/DD/YYYY)  ▶
+/
+/
+17
+Part VI
+Allocation of National, State, Tribal, or Local Bond Limitation Amount  
+(Enter source and amount of allocation and attach copy of certificate)
+Amount
+1a Volume cap allocation amount  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+Year of Allocation
+.
+.
+.
+.
+.
+Amount of Carryforward .
+.
+.
+b
+National, check box 
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Local, check box 
+.
+.
+.
+.
+.
+ ▶
+c
+State, check box 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+d
+Tribal, check box 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+2
+If box 1c is checked, enter State abbreviation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+Part VII
+Miscellaneous 
+1
+Arbitrage questions:
+a If there is a reserve or sinking fund that is expected to repay the issue at maturity, check box .
+.
+.
+.
+.
+.
+.
+.
+. ▶
+b
+If 1a is checked and the reserve or sinking fund is funded in equal periodic installments, check box .
+.
+.
+.
+.
+.
+. ▶ 
+c
+If either the funding of the reserve or sinking fund is expected to result in an amount greater than the amount necessary 
+to repay the issue; or, if the yield on such fund is greater than the permitted sinking fund yield from line 6, Part III, check 
+box .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶ 
+d
+If the issuer established written procedures to monitor the requirements of section 148 with respect to these bonds,  
+check box 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶ 
+2
+If all federal, state, and local requirements governing conflicts of interest are satisfied with respect to this issue, check box .
+. ▶
+3
+If the entitlements to credits with respect to this bond issue are expected to be stripped, check box .
+.
+.
+.
+.
+.
+. ▶ 
+4
+If the issuer established written procedures to ensure that all nonqualified bonds at the end of the applicable period are 
+redeemed within 90 days, check box .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶
+5
+Other: .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶ 
+Signature 
+and 
+Consent
+Under penalties of perjury, I declare that I have examined this return, and accompanying schedules and statements, and to the best of my knowledge and 
+belief, they are true, correct, and complete. I further declare that I consent to the IRS's disclosure of the issuer's return information, as necessary to process 
+this return, to the person(s) that I have authorized above.
+▲
+Signature of issuer's authorized representative
+Date
+▲
+Type or print name and title
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer's signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name      ▶
+Firm's address  ▶
+Firm's EIN  ▶
+Phone no.
+Part VIII
+Consent to Disclosure of Certain Information From This Return
+1
+Does the issuer give the IRS consent to publish, through a website or in a publication, its name and address, employer 
+identification number, name and description of bond issue, date of issuance, CUSIP number, issue price, final maturity date, stated 
+redemption price at maturity, applicable credit rate, and maximum term, to assist in the proper reporting of interest, tax credits, or 
+other benefits under IRC section 6049 and Regulations thereunder 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+Yes
+No
+Under penalties of perjury, I declare that I am an officer of the above named issuer and that I am authorized to give consent on behalf of the above named issuer for the IRS 
+to publish the items of information described in line 1 of Part VIII of this form to assist in the reporting obligations under IRC section 6049.
+Sign 
+Here
+▲
+Signature 
+Date
+▲
+Type or print name and title
+Form 8038-TC (Rev. 11-2012)
+Form 8038-TC  (Rev. 11-2012)
+Page 3 
+Issuer's name: 
+Issuer's employer identification number (EIN): 
+Schedule A
+Schedule for New Clean Renewable Energy Bonds (New CREBs) 
+▶ Under Internal Revenue Code sections 54A and 54C 
+▶ See separate instructions
+Tax Credit Bond Code
+102
+Part I
+Issuer Questions
+Yes
+No
+1
+Is the issuer a public power provider? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Is the issuer a cooperative electric company? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Is the issuer a governmental body?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Is the issuer a clean renewable energy bond lender? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Is the issuer a not-for-profit electric utility which has received a loan/loan guarantee under the Rural 
+Electrification Act? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+   6
+Have proceeds been used to acquire existing facilities? (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Have proceeds been used to refinance existing facilities? (see instructions)
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Is the issue date of the issue on or before the date that is 3 years after the volume cap allocation
+date? (see instructions)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+9
+Has the issuer designated these bonds as new CREBs for purposes of section 54C? .
+.
+.
+.
+.
+Part II
+Amount
+1
+1
+(For IRS Use Only) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part III
+List of Qualified Renewable Energy Facilities
+List the type of qualified renewable energy facilities (see instructions) to be financed by the bonds, the location, the owner of such 
+facility, the owner's EIN, and the amount of available project proceeds to be used for that facility. (If more than one, attach statement)
+Type of Facility:
+Location of Facility:
+Owner's Name:
+Owner's EIN:
+Amount of Available Project Proceeds $:  
+Schedule B
+Schedule for Qualified Energy Conservation Bonds (QECBs) 
+▶ Under Internal Revenue Code sections 54A and 54D 
+▶ See separate instructions
+Tax Credit Bond Code
+103
+Part I
+Issuer and Project Questions
+Yes
+No
+1
+Has the issuer designated these bonds as QECBs for purposes of section 54D?
+.
+.
+.
+.
+.
+.
+1
+2
+Has the allocation been reallocated from a large local government to a State?
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Is the issuer a large local government?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Is the issuer an Indian tribal government?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Are all proceeds to be used within the jurisdiction of the issuer? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+   6
+If the issuer issued the bonds based on a volume cap allocation received by another authorized
+entity that allocated volume cap to the issue, check “Yes.” If not, check “No.” Provide the name of
+such authorized entity. Attach statement if more than one entity's volume cap is used. (see 
+instructions) 
+6
+Part II
+Amount
+1
+(For IRS Use Only) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+Part III
+List of Conservation Purposes, Location of the Facilities, Amount of Proceeds Used for the Purpose, 
+Private Activity User, and Private User's EIN
+1
+List the type of qualified conservation purpose described under section 54D(f) financed with the proceeds of the bonds, the
+location of the facility financed with the proceeds of the bond, and the amount of available project proceeds to be used for the
+qualified conservation purpose. If the bonds are private activity bonds, provide the name and EIN of all private users. (If the
+issuer is issuing bonds for more than one purpose or facility, attach statement) 
+Type of qualified conservation purpose:
+Location of facility financed with bond proceeds:
+Amount of proceeds to be used for this purpose $: 
+Are the bonds private activity bonds? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+Yes
+No
+If “Yes,” provide the name and EIN of each private user
+Form 8038-TC (Rev. 11-2012)
+Form 8038-TC  (Rev. 11-2012)
+Page 4 
+Issuer's name: 
+Issuer's employer identification number (EIN): 
+Schedule C
+Schedule for Qualified Zone Academy Bonds (QZABs) 
+ 
+▶ Under Internal Revenue Code sections 54A and 54E 
+▶ See separate instructions
+Tax Credit Bond Code
+104
+Part I
+Academy and Issuer Information
+Yes
+No
+1
+Was the school located in an empowerment zone at the time the bonds were issued?.
+.
+.
+.
+.
+1
+2
+Was the school located in an enterprise community at the time the bonds were issued? .
+.
+.
+.
+2
+3
+Is it expected that at least 35% of students attending the school or program will be eligible for free 
+or reduced-cost lunches under the school lunch program established by the National School Lunch 
+Act? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Was the comprehensive educational plan of the school or program approved by the eligible local 
+education agency? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Is a carryover of unused limitation being used for this issue? If “Yes,” enter the year in which the 
+limitation arose. (see instructions) ▶
+5
+6
+Are the bonds issued by a state or local government within the jurisdiction of which the academy is 
+located?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Does the issuer have written commitments from private business entities to make qualified private 
+business contributions having a present value of not less than 10% of the proceeds of this issue?
+7
+8
+Was the bond issuance approved in writing by the eligible local education agency? 
+.
+.
+.
+.
+.
+8
+9
+Have these bonds been designated by the issuer as QZABs for purposes of section 54E? .
+.
+.
+9
+10
+Enter the name of the eligible local education agency:
+10
+Part II
+Description of the Private Business Contribution 
+(Enter the value of the amount of contribution in each type)
+Amount
+1
+Equipment
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Technical assistance
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Services of donor's employees as volunteers .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Opportunities for students outside of the academy
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Other: 
+ 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Part III
+Private Business Contributor Information (Attach a statement if more than five donors)
+1a Enter the name of the first donor:
+b
+Enter the EIN of the first donor:
+2a Enter the name of the second donor:
+b
+Enter the EIN of the second donor:
+3a Enter the name of the third donor:
+b
+Enter the EIN of the third donor:
+4a Enter the name of the fourth donor:
+b
+Enter the EIN of the fourth donor:
+5a Enter the name of the fifth donor:
+b
+Enter the EIN of the fifth donor:
+Form 8038-TC (Rev. 11-2012)
+Form 8038-TC  (Rev. 11-2012)
+Page 5 
+Issuer's name: 
+Issuer's employer identification number (EIN): 
+Schedule D
+Schedule for Qualified School Construction Bonds (QSCBs) 
+▶ Under Internal Revenue Code sections 54A and 54F 
+▶ See separate instructions
+Tax Credit Bond Code
+105
+Part I
+Use of Proceeds
+Yes
+No
+1
+Are the proceeds to be used for an Indian school? (see instructions)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Are all proceeds to be used within the jurisdiction of the issuer? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Have these bonds been designated as QSCBs by the issuer for purposes of section 54F? .
+.
+.
+3
+4
+Are the proceeds of the issue to be spent on costs of acquisition of furniture or equipment? If the
+answer is “No,” skip line 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Is such furniture or equipment to be used in portions of the public school facility being constructed, 
+rehabilitated, or repaired with the proceeds of the issue? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Are the proceeds of the issue to be spent on the costs of land acquisition? If the answer is “No,”
+skip line 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Are proceeds of the issue also to be spent on the costs of construction of a public school facility on
+such land? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Part II
+Amount
+1
+(For IRS Use Only) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+Part III
+Issuer Information (Does not apply to issuers that are Indian tribal governments.)
+1
+If the issuer of the bonds is not the local educational agency in the jurisdiction of which the public school facility is located, 
+please provide the name of such local educational agency. Attach statement if more than one. (see instructions) 
+2
+If the issuer issued the bonds based on a volume cap allocation received by another authorized entity (that allocated volume 
+cap to the issue), provide the name of such authorized entity. Attach statement if more than one entity's volume cap is used. 
+(see instructions)
+Form 8038-TC (Rev. 11-2012)

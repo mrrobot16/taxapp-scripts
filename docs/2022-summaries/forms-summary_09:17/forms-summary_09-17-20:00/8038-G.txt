@@ -1,0 +1,626 @@
+Form 8038-G
+(Rev. October 2021)
+Department of the Treasury 
+Internal Revenue Service
+Information Return for Tax-Exempt Governmental Bonds
+▶ Under Internal Revenue Code section 149(e) 
+▶ See separate instructions. 
+Caution: If the issue price is under $100,000, use Form 8038-GC. 
+▶ Go to www.irs.gov/F8038G for instructions and the latest information. 
+OMB No. 1545-0047
+Part I
+Reporting Authority
+Check box if Amended Return ▶
+1    Issuer’s name
+2    Issuer’s employer identification number (EIN)
+3a  Name of person (other than issuer) with whom the IRS may communicate about this return (see instructions)
+3b  Telephone number of other person shown on 3a
+4    Number and street (or P.O. box if mail is not delivered to street address)
+Room/suite
+5    Report number (For IRS Use Only)
+3 
+6    City, town, or post office, state, and ZIP code
+7    Date of issue
+8    Name of issue
+9    CUSIP number
+10a  Name and title of officer or other employee of the issuer whom the IRS may call for more information
+10b  Telephone number of officer or other 
+employee shown on 10a
+Part II
+Type of Issue (Enter the issue price.) See the instructions and attach schedule.
+11 
+Education .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Health and hospital 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Transportation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Public safety .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Environment (including sewage bonds) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Housing 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Utilities 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Other. Describe ▶
+18 
+19 a
+If bonds are TANs or RANs, check only box 19a  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+b
+If bonds are BANs, check only box 19b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+20 
+If bonds are in the form of a lease or installment sale, check box 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part III
+Description of Bonds. Complete for the entire issue for which this form is being filed.
+21 
+(a) Final maturity date
+(b) Issue price
+(c) Stated redemption 
+price at maturity
+(d) Weighted 
+average maturity
+(e) Yield
+$ 
+$ 
+years
+% 
+Part IV
+Uses of Proceeds of Bond Issue (including underwriters’ discount)
+22 
+Proceeds used for accrued interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+23 
+Issue price of entire issue (enter amount from line 21, column (b)) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+24 
+Proceeds used for bond issuance costs (including underwriters’ discount)  
+24 
+25 
+Proceeds used for credit enhancement .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25 
+26 
+Proceeds allocated to reasonably required reserve or replacement fund .
+26 
+27 
+Proceeds used to refund prior tax-exempt bonds. Complete Part V .
+.
+.
+27 
+28 
+Proceeds used to refund prior taxable bonds. Complete Part V .
+.
+.
+.
+28 
+29 
+Total (add lines 24 through 28) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29 
+30 
+Nonrefunding proceeds of the issue (subtract line 29 from line 23 and enter amount here) 
+.
+.
+.
+30 
+Part V
+Description of Refunded Bonds. Complete this part only for refunding bonds.
+31 
+Enter the remaining weighted average maturity of the tax-exempt bonds to be refunded .
+.
+.
+ ▶
+years
+32 
+Enter the remaining weighted average maturity of the taxable bonds to be refunded .
+.
+.
+.
+ ▶
+years
+33 
+Enter the last date on which the refunded tax-exempt bonds will be called (MM/DD/YYYY)  .
+.
+ ▶
+34 
+Enter the date(s) the refunded bonds were issued ▶ (MM/DD/YYYY)
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 63773S
+Form 8038-G (Rev. 10-2021)
+Form 8038-G (Rev. 10-2021)
+Page 2 
+Part VI
+Miscellaneous
+35 
+Enter the amount of the state volume cap allocated to the issue under section 141(b)(5) .
+.
+.
+.
+35 
+ 36 a Enter the amount of gross proceeds invested or to be invested in a guaranteed investment contract  
+(GIC). See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+36a
+b Enter the final maturity date of the GIC ▶ (MM/DD/YYYY)
+c
+Enter the name of the GIC provider ▶
+37 
+Pooled financings:  Enter the amount of the proceeds of this issue that are to be used to make loans
+to other governmental units .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+37 
+38 a
+If this issue is a loan made from the proceeds of another tax-exempt issue, check box ▶
+and enter the following information: 
+b
+Enter the date of the master pool bond ▶ (MM/DD/YYYY)
+c
+Enter the EIN of the issuer of the master pool bond ▶
+d
+Enter the name of the issuer of the master pool bond ▶
+39 
+If the issuer has designated the issue under section 265(b)(3)(B)(i)(III) (small issuer exception), check box 
+.
+.
+.
+.
+ ▶
+40 
+If the issuer has elected to pay a penalty in lieu of arbitrage rebate, check box .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+41 a
+If the issuer has identified a hedge, check here ▶
+and enter the following information:
+b
+Name of hedge provider ▶
+c
+Type of hedge ▶
+d
+Term of hedge ▶
+42
+If the issuer has superintegrated the hedge, check box .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+43 
+If the issuer has established written procedures to ensure that all nonqualified bonds of this issue are remediated 
+according to the requirements under the Code and Regulations (see instructions), check box
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+44
+If the issuer has established written procedures to monitor the requirements of section 148, check box .
+.
+.
+.
+.
+ ▶
+45a
+If some portion of the proceeds was used to reimburse expenditures, check here ▶
+and enter the amount
+of reimbursement .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+b
+Enter the date the official intent was adopted ▶ (MM/DD/YYYY)
+Signature 
+and  
+Consent
+Under penalties of perjury, I declare that I have examined this return and accompanying schedules and statements, and to the best of my knowledge  
+and belief, they are true, correct, and complete. I further declare that I consent to the IRS’s disclosure of the issuer’s return information, as necessary to 
+process this return, to the person that I have authorized above.
+▲
+Signature of issuer’s authorized representative
+Date
+▲
+Type or print name and title
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name     ▶
+Firm’s address ▶
+Firm’s EIN ▶
+Phone no.
+Form 8038-G (Rev. 10-2021)

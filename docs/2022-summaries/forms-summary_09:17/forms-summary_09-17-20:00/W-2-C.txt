@@ -1,0 +1,928 @@
+Attention: 
+This form is provided for informational purposes only. Copy A appears in red, similar to the  
+official IRS form. Do not file copy A downloaded from this website with the SSA. The official 
+printed version of this IRS form is scannable, but the online version of it, printed from this  
+website, is not. A penalty may be imposed for filing forms that can’t be scanned. See the  
+penalties section in the current General Instructions for Forms W-2 and W-3 for more  
+information. 
+To order official IRS forms, call 1-800-TAX-FORM (1-800-829-3676) or Order Information  
+Returns and Employer Returns Online, and we’ll mail you the scannable forms and other  
+products.   
+You may file Forms W-2 and W-3 electronically on the SSA’s website at Employer  
+Reporting Instructions & Information. You can create fill-in versions of Forms W-2 and W-3  
+for filing with SSA. You may also print out copies for filing with state or local governments,  
+distribution to your employees, and for your records.  
+See IRS Publications 1141, 1167, 1179 and other IRS resources for information about  
+printing these tax forms. 
+DO NOT CUT, FOLD, OR STAPLE THIS FORM 
+44444
+For Official Use Only  ▶ 
+OMB No. 1545-0008 
+a  Employer’s name, address, and ZIP code
+b  Employer's Federal EIN
+c  Tax year/Form corrected 
+/  W-2 
+d  Employee’s correct SSN 
+e  Corrected SSN and/or name (Check this box and complete boxes f and/or 
+g if incorrect on form previously filed.) 
+Complete boxes f and/or g only if incorrect on form previously filed   ▶
+f  Employee’s previously reported SSN 
+g  Employee’s previously reported name 
+h  Employee’s first name and initial 
+Last name 
+Suff.
+i  Employee’s address and ZIP code 
+Note. Only complete money fields that are being corrected (exception: for 
+corrections involving MQGE, see the General Instructions for Forms W-2 
+and W-3, under Specific Instructions for Form W-2c, boxes 5 and 6). 
+Previously reported 
+1   Wages, tips, other compensation
+Correct information 
+1   Wages, tips, other compensation
+Previously reported 
+2   Federal income tax withheld 
+Correct information 
+2   Federal income tax withheld 
+3   Social security wages
+3   Social security wages
+4   Social security tax withheld
+4   Social security tax withheld
+5   Medicare wages and tips
+5   Medicare wages and tips
+6   Medicare tax withheld
+6   Medicare tax withheld
+7   Social security tips
+7   Social security tips
+8   Allocated tips 
+8   Allocated tips 
+9
+9
+10   Dependent care benefits 
+10   Dependent care benefits 
+11   Nonqualified plans
+11   Nonqualified plans
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+14  Other (see instructions) 
+14  Other (see instructions) 
+State Correction Information 
+Previously reported 
+15  State
+Correct information 
+15  State
+Previously reported 
+15  State
+Correct information 
+15  State
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+Locality Correction Information 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions. 
+Copy A—For Social Security Administration 
+Form  W-2c  (Rev. 8-2014) 
+Corrected Wage and Tax Statement
+Cat. No. 61437D 
+Department of the Treasury 
+Internal Revenue Service 
+44444
+For Official Use Only  ▶ 
+OMB No. 1545-0008 
+a  Employer’s name, address, and ZIP code
+b  Employer's Federal EIN
+c  Tax year/Form corrected 
+/  W-2 
+d  Employee’s correct SSN 
+e  Corrected SSN and/or name (Check this box and complete boxes f and/or 
+g if incorrect on form previously filed.) 
+Complete boxes f and/or g only if incorrect on form previously filed    ▶
+f  Employee’s previously reported SSN 
+g  Employee’s previously reported name 
+h  Employee’s first name and initial 
+Last name 
+Suff.
+i  Employee’s address and ZIP code 
+Note. Only complete money fields that are being corrected (exception: for 
+corrections involving MQGE, see the General Instructions for Forms W-2 
+and W-3, under Specific Instructions for Form W-2c, boxes 5 and 6). 
+Previously reported 
+1   Wages, tips, other compensation
+Correct information 
+1   Wages, tips, other compensation
+Previously reported 
+2   Federal income tax withheld 
+Correct information 
+2   Federal income tax withheld 
+3   Social security wages
+3   Social security wages
+4   Social security tax withheld
+4   Social security tax withheld
+5   Medicare wages and tips
+5   Medicare wages and tips
+6   Medicare tax withheld
+6   Medicare tax withheld
+7   Social security tips
+7   Social security tips
+8   Allocated tips 
+8   Allocated tips 
+9
+9
+10   Dependent care benefits 
+10   Dependent care benefits 
+11   Nonqualified plans
+11   Nonqualified plans
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+14  Other (see instructions) 
+14  Other (see instructions) 
+State Correction Information 
+Previously reported 
+15  State
+Correct information 
+15  State
+Previously reported 
+15  State
+Correct information 
+15  State
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+Locality Correction Information 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+Form  W-2c  (Rev. 8-2014) 
+Corrected Wage and Tax Statement
+Copy 1—State, City, or Local Tax Department
+Department of the Treasury 
+Internal Revenue Service 
+44444
+For Official Use Only  ▶ 
+OMB No. 1545-0008 
+Safe, accurate,  
+FAST!   Use
+Visit the IRS website  
+at www.irs.gov.
+a  Employer’s name, address, and ZIP code
+b  Employer's Federal EIN
+c  Tax year/Form corrected 
+/  W-2 
+d  Employee’s correct SSN 
+e  Corrected SSN and/or name (Check this box and complete boxes f and/or 
+g if incorrect on form previously filed.) 
+Complete boxes f and/or g only if incorrect on form previously filed    ▶
+f  Employee’s previously reported SSN 
+g  Employee’s previously reported name 
+h  Employee’s first name and initial 
+Last name 
+Suff.
+i  Employee’s address and ZIP code 
+Note. Only complete money fields that are being corrected (exception: for 
+corrections involving MQGE, see the General Instructions for Forms W-2 
+and W-3, under Specific Instructions for Form W-2c, boxes 5 and 6). 
+Previously reported 
+1   Wages, tips, other compensation
+Correct information 
+1   Wages, tips, other compensation
+Previously reported 
+2   Federal income tax withheld 
+Correct information 
+2   Federal income tax withheld 
+3   Social security wages
+3   Social security wages
+4   Social security tax withheld
+4   Social security tax withheld
+5   Medicare wages and tips
+5   Medicare wages and tips
+6   Medicare tax withheld
+6   Medicare tax withheld
+7   Social security tips
+7   Social security tips
+8   Allocated tips 
+8   Allocated tips 
+9
+9
+10   Dependent care benefits 
+10   Dependent care benefits 
+11   Nonqualified plans
+11   Nonqualified plans
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+14  Other (see instructions) 
+14  Other (see instructions) 
+State Correction Information 
+Previously reported 
+15  State
+Correct information 
+15  State
+Previously reported 
+15  State
+Correct information 
+15  State
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+Locality Correction Information 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+Form  W-2c  (Rev. 8-2014) 
+Corrected Wage and Tax Statement
+Copy B—To Be Filed with Employee’s FEDERAL Tax Return
+Department of the Treasury 
+Internal Revenue Service 
+44444
+For Official Use Only  ▶  
+OMB No. 1545-0008 
+Safe, accurate,  
+FAST!   Use
+Visit the IRS website  
+at www.irs.gov.
+a  Employer’s name, address, and ZIP code
+b  Employer's Federal EIN
+c  Tax year/Form corrected 
+/  W-2 
+d  Employee’s correct SSN 
+e  Corrected SSN and/or name (Check this box and complete boxes f and/or 
+g if incorrect on form previously filed.) 
+Complete boxes f and/or g only if incorrect on form previously filed    ▶
+f  Employee’s previously reported SSN 
+g  Employee’s previously reported name 
+h  Employee’s first name and initial 
+Last name 
+Suff.
+i  Employee’s address and ZIP code 
+Note. Only complete money fields that are being corrected (exception: for 
+corrections involving MQGE, see the General Instructions for Forms W-2 
+and W-3, under Specific Instructions for Form W-2c, boxes 5 and 6). 
+Previously reported 
+1   Wages, tips, other compensation
+Correct information 
+1   Wages, tips, other compensation
+Previously reported 
+2   Federal income tax withheld 
+Correct information 
+2   Federal income tax withheld 
+3   Social security wages
+3   Social security wages
+4   Social security tax withheld
+4   Social security tax withheld
+5   Medicare wages and tips
+5   Medicare wages and tips
+6   Medicare tax withheld
+6   Medicare tax withheld
+7   Social security tips
+7   Social security tips
+8   Allocated tips 
+8   Allocated tips 
+9
+9
+10   Dependent care benefits 
+10   Dependent care benefits 
+11   Nonqualified plans
+11   Nonqualified plans
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+14  Other (see instructions) 
+14  Other (see instructions) 
+State Correction Information 
+Previously reported 
+15  State
+Correct information 
+15  State
+Previously reported 
+15  State
+Correct information 
+15  State
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+Locality Correction Information 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+Form  W-2c  (Rev. 8-2014) 
+Corrected Wage and Tax Statement
+Copy C—For EMPLOYEE’s RECORDS 
+Department of the Treasury 
+Internal Revenue Service 
+Notice to Employee
+This is a corrected Form W-2, Wage and Tax Statement, 
+(or Form W-2AS, W-2CM, W-2GU, W-2VI or W-2c) for the 
+tax year shown in box c. If you have filed an income tax 
+return for the year shown, you may have to file an 
+amended return. Compare amounts on this form with 
+those reported on your income tax return. If the corrected 
+amounts change your U.S. income tax, file Form 1040X, 
+Amended U.S. Individual Income Tax Return, with Copy B 
+of this Form W-2c to amend the return you already filed. 
+If there is a correction in box 5, Medicare wages and 
+tips, use the corrected amount to determine if you need 
+to file or amend Form 8959, Additional Medicare Tax. If 
+you need to file Form 8959 or an amended Form 8959, 
+attach it to Form 1040 or Form 1040X, as applicable.
+If you have not filed your return for the year shown in 
+box c, attach Copy B of the original Form W-2 you 
+received from your employer and Copy B of this Form 
+W-2c to your return when you file it. 
+For more information, contact your nearest Internal 
+Revenue Service office. Employees in American Samoa, 
+Commonwealth of the Northern Mariana Islands, Guam, 
+or the U.S. Virgin Islands should contact their local taxing 
+authority for more information. 
+44444
+For Official Use Only  ▶ 
+OMB No. 1545-0008 
+a  Employer’s name, address, and ZIP code
+b  Employer's Federal EIN
+c  Tax year/Form corrected 
+/  W-2 
+d  Employee’s correct SSN 
+e  Corrected SSN and/or name (Check this box and complete boxes f and/or 
+g if incorrect on form previously filed.) 
+Complete boxes f and/or g only if incorrect on form previously filed    ▶
+f  Employee’s previously reported SSN 
+g  Employee’s previously reported name 
+h  Employee’s first name and initial 
+Last name 
+Suff.
+i  Employee’s address and ZIP code 
+Note. Only complete money fields that are being corrected (exception: for 
+corrections involving MQGE, see the General Instructions for W-2 and W-3, 
+under Specific Instructions for Form W-2c, boxes 5 and 6). 
+Previously reported 
+1   Wages, tips, other compensation
+Correct information 
+1   Wages, tips, other compensation
+Previously reported 
+2   Federal income tax withheld 
+Correct information 
+2   Federal income tax withheld 
+3   Social security wages
+3   Social security wages
+4   Social security tax withheld
+4   Social security tax withheld
+5   Medicare wages and tips
+5   Medicare wages and tips
+6   Medicare tax withheld
+6   Medicare tax withheld
+7   Social security tips
+7   Social security tips
+8   Allocated tips 
+8   Allocated tips 
+9
+9
+10   Dependent care benefits 
+10   Dependent care benefits 
+11   Nonqualified plans
+11   Nonqualified plans
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+14  Other (see instructions) 
+14  Other (see instructions) 
+State Correction Information 
+Previously reported 
+15  State
+Correct information 
+15  State
+Previously reported 
+15  State
+Correct information 
+15  State
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+Locality Correction Information 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+Form  W-2c  (Rev. 8-2014) 
+Corrected Wage and Tax Statement
+Copy 2—To Be Filed with Employee’s State, City, or Local Income Tax Return
+Department of the Treasury 
+Internal Revenue Service 
+44444
+For Official Use Only  ▶  
+OMB No. 1545-0008 
+a  Employer’s name, address, and ZIP code
+b  Employer's Federal EIN
+c  Tax year/Form corrected 
+/  W-2 
+d  Employee’s correct SSN 
+e  Corrected SSN and/or name (Check this box and complete boxes f and/or 
+g if incorrect on form previously filed.) 
+Complete boxes f and/or g only if incorrect on form previously filed    ▶
+f  Employee’s previously reported SSN 
+g  Employee’s previously reported name 
+h  Employee’s first name and initial 
+Last name 
+Suff.
+i  Employee’s address and ZIP code 
+Note. Only complete money fields that are being corrected (exception: for 
+corrections involving MQGE, see the General Instructions for W-2 and W-3, 
+under Specific Instructions for Form W-2c, boxes 5 and 6). 
+Previously reported 
+1   Wages, tips, other compensation
+Correct information 
+1   Wages, tips, other compensation
+Previously reported 
+2   Federal income tax withheld 
+Correct information 
+2   Federal income tax withheld 
+3   Social security wages
+3   Social security wages
+4   Social security tax withheld
+4   Social security tax withheld
+5   Medicare wages and tips
+5   Medicare wages and tips
+6   Medicare tax withheld
+6   Medicare tax withheld
+7   Social security tips
+7   Social security tips
+8   Allocated tips 
+8   Allocated tips 
+9
+9
+10   Dependent care benefits 
+10   Dependent care benefits 
+11   Nonqualified plans
+11   Nonqualified plans
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12a See instructions for box 12 
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12b
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12c
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+12d
+C
+o 
+d 
+e
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+13 Statutory 
+employee
+Retirement 
+plan
+Third-party 
+sick pay
+14  Other (see instructions) 
+14  Other (see instructions) 
+State Correction Information 
+Previously reported 
+15  State
+Correct information 
+15  State
+Previously reported 
+15  State
+Correct information 
+15  State
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+Employer’s state ID number 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+16  State wages, tips, etc. 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+17  State income tax 
+Locality Correction Information 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+Previously reported 
+18  Local wages, tips, etc. 
+Correct information 
+18  Local wages, tips, etc. 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+19  Local income tax 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+20  Locality name 
+Form  W-2c  (Rev. 8-2014) 
+Corrected Wage and Tax Statement
+Copy D—For Employer 
+Department of the Treasury 
+Internal Revenue Service 
+Employers, Please Note: 
+Specific information needed to complete Form W-2c is 
+given in the separate General Instructions for Forms W-2 
+and W-3, under Specific Instructions for Form W-2c. You 
+can order those instructions and additional forms by 
+calling 1-800-TAX-FORM (1-800-829-3676).  You can 
+also get forms and instructions from the IRS website at 
+www.irs.gov.
+E-filing.  If you file 250 or more Form(s) W-2c, you must 
+file electronically. Even if you are not required to file 
+electronically, doing so can save you time and effort. 
+Employers may now use the SSA's W-2 Online service to 
+create, save, print and submit up to 50 Form(s) W-2c at a 
+time over the Internet. When you e-file with the SSA, no 
+separate Form W-3c filing is required.  An electronic Form 
+W-3c will be created for you by the W-2 Online service. 
+For information, visit the SSA's Employer W-2 Filing 
+Instructions & Information website at 
+www.socialsecurity.gov/employer.  

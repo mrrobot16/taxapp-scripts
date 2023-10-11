@@ -1,0 +1,996 @@
+Form  1065-X 
+(Rev. December 2021) 
+Department of the Treasury  
+Internal Revenue Service 
+Amended Return or Administrative 
+Adjustment Request (AAR)
+(For use by filers of Forms 1065, 1065-B, and 1066)
+▶ Go to www.irs.gov/Form1065-X for instructions and the latest information.
+OMB No. 1545-0123
+For tax year ending
+▶
+(Enter month and year.) 
+Please  
+Type 
+or 
+Print   
+Name 
+Employer identification number 
+Number, street, and room or suite no. (If a P.O. box, see instructions.)
+City or town, state, and ZIP code 
+Telephone number (optional) 
+Enter name and address used on original return (If same as above, write “Same.”) 
+Internal Revenue Service Center where original return 
+was filed. If electronically filed, enter “e-filed.” 
+▲
+Partnerships and electing large partnerships (ELPs), enter the number of Schedules K-1 being filed with this return
+.
+REMICs, enter the number of Schedules Q being filed with this return
+.
+Part I 
+Check the appropriate box (Choose only 1. See instructions.)
+For partnership tax years beginning before January 1, 2018 (unless electing into BBA)
+TEFRA AAR—go to Section 1
+NonTEFRA—go to Section 1
+ELPs/REMICs—go to Section 1
+For partnership tax years beginning after December 31, 2017 (or that elected into BBA for tax years beginning after November 2, 2015 
+and before January 1, 2018)
+BBA AAR—go to Section 2
+NonBBA (see instructions)—go to Part II
+Partnership-Partner Amended Return Related to Modification of Another Partnership’s Imputed Underpayment
+Partnership-Partner Amended Return (filed as part of modification of the imputed
+underpayment during a BBA audit)—go to Section 3
+Section 1—TEFRA/NonTEFRA Determination (for partnership tax years beginning before January 1, 2018)
+A Has the partnership made an election to be treated as an electing large partnership (ELP) under the provisions of section 775?        
+Yes
+No
+If “Yes,” the partnership is not subject to TEFRA. Enter the date of the election ▶
+. Do not complete 
+items B through D. Complete items E through G and then go to Part III.
+You must determine if the partnership is subject to the rules for consolidated audit proceedings (TEFRA proceedings) under sections 
+6221 through 6234 (as in effect for tax years beginning before January 1, 2018). See instructions for details.
+B
+Did the partnership have 10 or fewer partners at all times during the tax year? (Note: A husband and wife are considered one 
+partner for TEFRA purposes.)
+Yes
+No
+C
+At all times during the partnership’s tax year, were all partners U.S. citizens, resident aliens, C corporations, or estates of 
+deceased partners?
+Yes
+No
+If the answers to questions B and C are “Yes,” the partnership is not subject to TEFRA proceedings. A partnership that is not subject 
+to TEFRA cannot file an Administrative Adjustment Request. See instructions for details.
+D
+If the partnership is not otherwise subject to TEFRA, has the partnership filed Form 8893, Election of Partnership Level Tax 
+Treatment, or its equivalent, to make an election to be treated as a TEFRA partnership?
+Yes
+No
+If the answers to questions B and C are “Yes” and the answer to D is “No,” then the partnership is not subject to TEFRA proceedings. 
+If the answer to question D is “Yes,” enter the tax year that the election to be treated as a TEFRA partnership was originally filed with 
+the partnership return
+▶
+E
+The partnership is 
+Subject to TEFRA
+Not subject to TEFRA
+F
+Check the applicable box (see instructions):
+Amended Return
+Administrative Adjustment Request (AAR)
+G
+If you are a Tax Matters Partner (TMP) or a Partner With Authority (PWA) filing an AAR on behalf of the pass-through entity, are you 
+requesting substituted return treatment? (See instructions.)  
+Yes
+No
+Go to Part II
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 54882S
+Form 1065-X (Rev. 12-2021) 
+Form 1065-X (Rev. 12-2021) 
+Page  2 
+Section 2—BBA AAR
+A Is the partnership revoking the immediately preceding partnership representative (and/or designated individual, if applicable) and 
+appointing a successor (including the designated individual, if applicable) at the same time that this AAR is being filed?
+Yes (Attach Form 8979.)
+No
+B
+Do the adjustments on the AAR result in an imputed underpayment for the reviewed year?
+Yes (If “Yes,” go to Question C.)
+No (If “No,” go to Question D.)
+C
+Is the partnership making an election under section 6227(b)(2) to have the adjustments taken into account by the reviewed year partners?
+Yes (If “Yes,” go to Question D.)
+No (If “No,” go to Question E.)
+D
+The partnership is required to provide statements to the reviewed year partners containing their share of the adjustments. By 
+signing below, the partnership representative declares, under penalties of perjury, that all statements have been provided to the
+reviewed year partners as required by the instructions. 
+Partnership Representative (or Designated Individual, if applicable)
+Date
+E
+Is the partnership applying modifications to the imputed underpayment?
+Yes (If “Yes,” attach Form 8980.)
+No
+Go to Part II
+Section 3—Partnership-partner amended return filed as part of modification of the imputed underpayment during a 
+BBA audit. See instructions.
+Audited partnership name
+EIN of audited partnership
+Reviewed year of audited partnership
+Audit control number
+Go to Part II
+Fill in applicable items and use Part V to explain any changes 
+Part II 
+Amended or Administrative Adjustment Request 
+(AAR) Items for Partnerships Filing Form 1065 Only 
+(ELPs and REMICs, use Part III)    
+Income (Loss)
+(a) As originally 
+reported on Schedule K  
+or as previously adjusted 
+(b) Net change— 
+increase or (decrease)—  
+explain in Part V
+(c) Correct amount 
+1 
+Ordinary business income (loss) .
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Net rental real estate income (loss) 
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Other net rental income (loss) (see instructions) .
+.
+.
+3 
+4 
+Guaranteed payments 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Interest income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6a
+Ordinary dividends 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a 
+b Qualified dividends 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6b 
+c
+Dividend equivalents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6c
+7 
+Royalties .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Net short-term capital gain (loss) .
+.
+.
+.
+.
+.
+.
+.
+8 
+9a
+Net long-term capital gain (loss) .
+.
+.
+.
+.
+.
+.
+.
+9a 
+b
+Collectibles (28%) gain (loss) .
+.
+.
+.
+.
+.
+.
+.
+.
+9b
+c
+Unrecaptured section 1250 gain (see instructions) .
+.
+9c 
+10 
+Net section 1231 gain (loss) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11 
+Other income (loss) (see instructions) 
+.
+.
+.
+.
+.
+.
+11
+Form 1065-X (Rev. 12-2021) 
+Form 1065-X (Rev. 12-2021) 
+Page  3 
+Self-Employment Deductions
+Credits
+Foreign 
+Transactions
+Alternative Minimum Tax (AMT) Items
+Other Information
+   
+     
+     
+12 
+Section 179 deduction 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13a
+Contributions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13a
+b
+Investment interest expense 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13b
+c
+Section 59(e) expenditures .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13c
+d
+Other deductions (see instructions) .
+.
+.
+.
+.
+.
+.
+13d
+14a
+Net earnings (loss) from self-employment .
+.
+.
+.
+.
+14a
+b
+Gross farming or fishing income .
+.
+.
+.
+.
+.
+.
+.
+14b
+c
+Gross nonfarm income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14c
+15a Low-income housing credit (section 42(j)(5)) 
+.
+.
+.
+.
+15a
+b Low-income housing credit (other) 
+.
+.
+.
+.
+.
+.
+.
+15b
+c
+Qualified rehabilitation expenditures (rental real estate)  
+15c
+d
+Other rental real estate credits (see instructions) .
+.
+.
+15d
+e
+Other rental credits (see instructions) 
+.
+.
+.
+.
+.
+.
+15e
+f
+Other credits (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+15f
+16
+Attach Schedule K-2 (Form 1065), Partners’ Distributive 
+Share Items-International, and check this box to indicate 
+that you are reporting items of international tax   
+relevance 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17a
+Post-1986 depreciation adjustment .
+.
+.
+.
+.
+.
+.
+17a
+b
+Adjusted gain or loss .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17b
+c
+Depletion (other than oil or gas) 
+.
+.
+.
+.
+.
+.
+.
+.
+17c
+d
+Oil, gas, and geothermal properties—gross income .
+.
+17d
+e
+Oil, gas, and geothermal properties—deductions 
+.
+.
+17e
+f
+Other AMT items (see instructions)
+.
+.
+.
+.
+.
+.
+.
+17f
+18a
+Tax-exempt interest income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18a
+b
+Other tax-exempt income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18b
+c
+Nondeductible expenses 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18c
+19a
+Distributions of cash and marketable securities .
+.
+.
+19a
+b
+Distributions of other property .
+.
+.
+.
+.
+.
+.
+.
+.
+19b
+20a
+Investment income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20a
+b
+Investment expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20b
+c
+Other items and amounts (see instructions) 
+.
+.
+.
+.
+20c
+21
+Total foreign taxes paid or accrued .
+.
+.
+.
+.
+.
+.
+21
+Note: Amended Schedules K-1: See instructions for when required.
+Form 1065-X (Rev. 12-2021) 
+Form 1065-X (Rev. 12-2021) 
+Page  4 
+Part III 
+Amended or Administrative Adjustment Request (AAR) Items for ELPs and REMICs Only 
+(a) Description of item being amended or 
+ adjusted (see instructions)
+(b) As originally 
+reported or as previously 
+adjusted 
+(c) Net change— 
+increase or (decrease)—  
+explain in Part V
+(d) Correct amount 
+1 
+1 
+2 
+2 
+3 
+3 
+4 
+4 
+5 
+5
+Tax and Payments (see instructions)
+     
+     
+    
+    
+6
+ELPs ONLY: Tax and other payments 
+.
+.
+.
+.
+.
+6
+7 
+REMICs ONLY: Tax on net income from prohibited 
+transactions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8 
+REMICs ONLY: Tax on net income from foreclosure 
+property .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9 
+REMICs ONLY: Tax on contributions after the startup 
+day .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Total tax .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Tax paid with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Tax paid with (or after) the filing of the original return 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Add lines 11 and 12, column (d)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Overpayment, if any, as shown on original return or as later adjusted
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Subtract line 14 from line 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Tax Due or Overpayments (see instructions)
+16
+Tax due. Subtract line 15 from line 10, column (d). For details on how to pay, see instructions .
+.
+16
+17
+Overpayment. Subtract line 10, column (d), from line 15
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+Note: Amended Schedules K-1 or Schedules Q. File amended Schedules K-1 or Schedules Q with Form 1065-X. If the ELP or 
+REMIC is filing Form 1065-X for an administrative adjustment request (AAR), do not furnish the amended Schedules K-1 or Schedules 
+Q to the partners or residual interest holders. If the REMIC is not filing for an AAR and is not subject to the rules for consolidated audit 
+proceedings under sections 6221 through 6231 (as in effect November 1, 2015), the REMIC must furnish the amended Schedules Q to 
+its residual interest holders. See instructions for details. 
+Part IV 
+Imputed Underpayment Under the Centralized Partnership Audit Regime (see instructions)
+1 
+Imputed underpayment .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Total amount due .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3
+Total payment
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Balance due (subtract line 3 from line 2) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+4
+Sign 
+Here
+Under penalties of perjury, I declare that I have filed an original return and that I have examined this amended return, or AAR including accompanying 
+schedules and statements, and to the best of my knowledge and belief, this amended return or AAR is true, correct, and complete. Declaration of  
+preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+▲
+Signature of current Partnership Representative (or 
+Designated Individual, if applicable), LLC member, or 
+Partner
+Date
+▲
+Title
+Print/Type name of Partnership Representative 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name     ▶
+Firm’s address  ▶
+Firm’s EIN  ▶
+Phone no.
+Form 1065-X (Rev. 12-2021) 
+Form 1065-X (Rev. 12-2021) 
+Page  5 
+Part V 
+Explanations. Enter the Part II or Part III line number before each item you are changing, and give a reason 
+for the change. For partnerships, show the box number and code used to report the item on Schedule K-1. 
+Show any computation in detail. Also, show how the imputed underpayment was calculated and how 
+modifications were applied. If more space is needed, continue your explanations on additional pages.
+Form 1065-X (Rev. 12-2021) 

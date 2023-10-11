@@ -1,0 +1,869 @@
+SCHEDULE I 
+(Form 1120-F)
+2022
+Interest Expense Allocation Under Regulations 
+Section 1.882-5
+Department of the Treasury  
+Internal Revenue Service
+Attach to Form 1120-F. 
+Go to www.irs.gov/Form1120F for instructions and the latest information.
+OMB No. 1545-0123
+Name of corporation
+Employer identification number
+A
+Check here if the corporation is a foreign bank as defined in Regulations section 1.882-5(c)(4) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+B
+This Schedule I is being completed with respect to (check one):
+Adjusted U.S. booked liabilities method under Regs. sec. 1.882-5(d). Complete lines 1 through 15 and 21 through 25.
+Separate currency pools method under Regs. sec. 1.882-5(e). Complete lines 1 through 9 and 16a through 25.
+Step 1
+Average U.S. Assets for the Tax Year: Regulations Section 1.882-5(b)
+1 
+To determine the value of the corporation’s U.S. assets on 
+lines 2 through 5 below, use the adjusted basis method 
+described in Regs. sec. 1.882-5(b)(2)(i).
+(a)  
+Set(s) of Books That 
+Give Rise to U.S. 
+Booked Liabilities 
+(see instructions)
+(b) 
+Partnership 
+Interests
+(c)  
+Set(s) of Books 
+Other Than Those 
+Described in 
+Columns (a) and (b)
+(d) 
+Totals 
+(add columns (a) 
+through (c))
+2
+Total assets per books 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+Total interbranch assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Total non-ECI assets under section 864(c)(4)(D) .
+.
+.
+.
+c
+Total other non-ECI assets (attach statement-see instructions)
+d 
+Adjustments for amounts from partnerships and certain 
+disregarded entities included on line 2, column (a) 
+.
+.
+.
+e 
+Adjustments for assets that give rise to direct interest 
+expense allocations under Regs. sec. 1.882-5(a)(1)(ii) 
+.
+.
+f 
+Other adjustments to average assets included on line 2 
+(for example, mark-to-market differences) .
+.
+.
+.
+.
+.
+4
+Combine lines 3a through 3f .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+   
+Total value of U.S. assets for the tax year .
+.
+.
+.
+.
+.
+Column (a): Subtract line 4 from line 2.  
+Column (b): See instructions for amount to enter. 
+Column (c): See instructions for amount to enter.
+Step 2
+U.S.-Connected Liabilities for the Tax Year: Regulations Section 1.882-5(c)
+6
+Specify the method used to determine the amounts in Step 2 (check one):
+Actual ratio under Regs. sec. 1.882-5(c)(2). Complete lines 6a through 6c below.
+Fixed ratio under Regs. sec. 1.882-5(c)(4). Complete line 6d below.
+a
+Average worldwide liabilities 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a
+b
+Average worldwide assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6b
+c
+Divide line 6a by line 6b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6c
+%
+d 
+ 
+Fixed ratio under Regs. sec. 1.882-5(c)(4). If the corporation is a foreign bank as defined 
+in Regs. sec. 1.882-5(c)(4), enter 95% on line 6d. If the corporation is not a foreign bank 
+or an insurance company, enter 50% on line 6d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6d
+%
+e
+Enter the ratio from line 6c or 6d, as applicable .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6e
+%
+7a
+U.S.-connected liabilities before Regs. sec. 1.884-1(e)(3) election(s). Multiply line 5, column (d) by line 6e .
+.
+.
+7a
+b
+U.S. liability reduction under Regs. sec. 1.884-1(e)(3) election .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7b
+c
+U.S.-Connected Liabilities. Subtract line 7b from line 7a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7c
+Step 3
+Interest Expense Paid or Accrued on Average U.S. Booked Liabilities: Regulations Section 1.882-5(d)
+(a)  
+Set(s) of Books That 
+Give Rise to U.S. 
+Booked Liabilities 
+(see instructions)
+(b) 
+Partnership 
+Interests
+(c) 
+Totals 
+(add columns 
+(a) and (b))
+8 
+Total average amount of U.S. booked liabilities as defined in 
+Regs. sec. 1.882-5(d)(2) (see instructions) .
+.
+.
+.
+.
+.
+.
+Column (a): Do not include amounts that give rise to directly 
+allocable interest under Regs. sec. 1.882-5(a)(1)(ii) or from 
+partnerships includible in column (b).  
+Column (b): Enter the portion of the total from Schedule P, line 
+11, that constitutes U.S. booked liabilities.
+9
+Total interest paid or accrued during the tax year on line 8 amount  
+Column (a): Do not include amounts that give rise to directly 
+allocable interest under Regs. sec. 1.882-5(a)(1)(ii) or from 
+partnerships includible in column (b).  
+Column (b):  Enter the total from Schedule P, line 8.
+For Paperwork Reduction Act Notice, see the Instructions for Form 1120-F. 
+Cat. No. 49680W
+Schedule I (Form 1120-F) 2022
+Schedule I (Form 1120-F) 2022
+Page 2 
+Step 3 (cont.)
+Adjusted U.S. Booked Liabilities Method: Regulations Section 1.882-5(d)
+If line 7c is greater than line 8, column (c), complete lines 10 through 13 below and skip lines 14a and 14b.  
+If line 7c is less than or equal to line 8, column (c), skip lines 10 through 13 and complete lines 14a and 14b.
+10 
+ 
+If the corporation is a foreign bank which is making a current-year election to use a published rate as provided 
+under Regs. sec. 1.882-5(d)(5)(ii)(B), check the box on this line, skip lines 10a through 10c, and enter the rate 
+on line 10d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+a 
+Total interest paid or accrued during the tax year on U.S. dollar liabilities that are not 
+U.S. booked liabilities included on line 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10a
+b 
+Average U.S. dollar denominated liabilities that are not U.S. booked liabilities included 
+on line 8 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10b
+c
+Divide line 10a by line 10b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10c
+%
+d
+Enter the published rate, if elected under Regs. sec. 1.882-5(d)(5)(ii)(B) 
+.
+.
+.
+.
+.
+10d
+%
+e
+Enter the rate from line 10c or, if elected, the published rate on line 10d. See instructions if amount on line 10c is zero
+10e
+%
+11
+Excess U.S.-connected liabilities. Subtract line 8, column (c), from line 7c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Excess interest. Multiply line 10e by line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Add line 9, column (c), and line 12 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14a
+Scaling ratio. Divide line 7c by line 8, column (c) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14a
+%
+b
+Multiply line 9, column (c) by line 14a. See instructions for hedging amounts 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14b
+15 
+Interest expense allocable to ECI under the adjusted U.S. booked liabilities method. Enter the result from line 
+13 or line 14b here and on line 21 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Step 3 (cont.)
+Separate Currency Pools Method: Regulations Section 1.882-5(e)
+(a)  
+U.S. Dollar 
+Denominated
+(b) 
+ Home Country 
+Currency. Specify:
+(c)  
+Other Currency. 
+Specify:
+(d)  
+Other Currency. 
+Specify:
+16a 
+ 
+U.S. assets. Enter the corporation’s U.S. assets, using the 
+methodology in Regs. sec. 1.882-5(e)(1)(i). If more columns 
+are needed, attach statement (see instructions) .
+.
+.
+.
+b 
+Check here if a less than 3% currency election was 
+made 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+17a
+Enter the percentage from line 6e .
+.
+.
+.
+.
+.
+.
+.
+%
+%
+%
+%
+b 
+U.S.-connected liabilities. Multiply line 16a by line 17a, or,  
+if a liability reduction election is made, see instructions .
+.
+18a 
+ 
+ 
+Enter the total interest expense paid or accrued for the tax 
+year with respect to the foreign corporation’s worldwide 
+liabilities denominated in that foreign currency (enter in 
+functional currency) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b 
+ 
+Enter the corporation’s average worldwide liabilities (whether 
+interest bearing or not) denominated in that foreign currency 
+(enter in functional currency) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Borrowing rate: Divide line 18a by line 18b .
+.
+.
+.
+.
+%
+%
+%
+%
+19 
+Interest expense allocation by separate currency pool. 
+Multiply line 17b by line 18c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+Interest expense allocable to ECI under the separate currency pools method. Total the amounts on line 19, 
+columns (a) through (d), and amounts from attached statement, if any, and enter the result here and on line 21 
+.
+20
+Schedule I (Form 1120-F) 2022
+Schedule I (Form 1120-F) 2022
+Page 3 
+SUMMARY—Interest Expense Allocation and Deduction under Regulations Section 1.882-5
+21
+Amount from line 15 or line 20, as applicable .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22 
+Enter the corporation’s interest expense directly allocable under Regs. sec. 1.882-5(a)(1)(ii). 
+(Include total from Schedule P, line 7.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+23
+Interest expense allocable to ECI under Regs. sec. 1.882-5. Add lines 21 and 22 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24 a 
+Amount of line 23 that is permanently disallowed as a deduction under the Internal Revenue 
+Code or under an income tax treaty (attach statement—see instructions) .
+.
+.
+.
+.
+.
+24a (                              )
+b 
+ 
+Amount of line 23 that is deferred as a deduction in the current tax year by a provision of 
+the Internal Revenue Code other than section 163(j) but may be allowed as a deduction 
+in a subsequent tax year (attach statement—see instructions) .
+.
+.
+.
+.
+.
+.
+.
+24b (                              )
+c 
+Amount of line 23 that is disallowed business interest expense under section 163(j) 
+(attach Form 8990) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24c (                              )
+d 
+Amount of line 23 that is required to be capitalized under certain provisions of the 
+Internal Revenue Code (attach statement—see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+24d (                              )
+e 
+ 
+Amount of interest expense that was deferred in a previous year by a provision of the 
+Internal Revenue Code other than section 163(j) and allowed as a deduction in the 
+current tax year (attach statement—see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24e
+f 
+Amount of business interest expense that was disallowed in a previous year under 
+section 163(j) but allowed as a deduction in the current year 
+.
+.
+.
+.
+.
+.
+.
+.
+24f
+g
+Combine lines 24a through 24f .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24g
+25 
+ 
+Total interest expense deduction under Regs. sec. 1.882-5. Combine lines 23 and 24g and enter here and on 
+Form 1120-F, Section II, line 18. The amount entered on line 25 may not exceed the total interest expense paid or 
+accrued by the foreign corporation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+Schedule I (Form 1120-F) 2022

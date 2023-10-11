@@ -1,0 +1,11 @@
+Schedule M is a form that is attached to Form 5471, which is used to report transactions between a controlled foreign corporation (CFC) and shareholders or other related persons. The form must be completed separately for each CFC, and all amounts must be stated in U.S. dollars translated from the functional currency at the average exchange rate for the CFC's tax year.
+
+The form includes various categories of transactions, such as sales of stock in trade, sales of tangible property, sales of property rights, platform contribution transaction payments received, cost sharing transaction payments received, compensation received for services, commissions received, rents, royalties, and license fees received, hybrid dividends received, dividends received, interest received, premiums received for insurance or reinsurance, loan guarantee fees received, and other amounts received.
+
+Similarly, the form also includes categories for transactions paid by the CFC, such as purchases of stock in trade, purchases of tangible property, purchases of property rights, platform contribution transaction payments paid, cost sharing transaction payments paid, compensation paid for services, commissions paid, rents, royalties, and license fees paid, hybrid dividends paid, dividends paid, interest paid, premiums paid for insurance or reinsurance, loan guarantee fees paid, and other amounts paid.
+
+Additionally, the form includes sections for reporting accounts payable, amounts borrowed (maximum loan balance during the year), accounts receivable, and amounts loaned (maximum loan balance during the year).
+
+The form requires the name of the person filing Form 5471, their identifying number, the name of the foreign corporation, the foreign corporation's EIN (if any), and a reference ID number.
+
+For more detailed instructions and the latest information, individuals can refer to the IRS website at www.irs.gov/Form5471.

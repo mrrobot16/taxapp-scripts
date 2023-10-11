@@ -1,0 +1,11 @@
+Schedule B (Form 941) is a document provided by the Internal Revenue Service (IRS) for employers to report their tax liability for the quarter. It is specifically designed for semiweekly schedule depositors or those who have accumulated a tax liability of $100,000 or more on any day.
+
+The form requires employers to enter their employer identification number (EIN), name, and the calendar year. They must also indicate the quarter they are reporting for by checking the corresponding box.
+
+The form consists of three sections, each representing a month within the quarter. For each day of the month, employers are required to write their daily tax liability in the numbered space. There are spaces provided for all the days of the month.
+
+At the end of the form, employers need to calculate the total tax liability for the quarter by summing up the tax liabilities for each month. This total must match the tax liability reported on line 12 of Form 941 or Form 941-SS.
+
+It is important to note that this form should not be used to report deposits, but rather to report tax liability. Additionally, any adjustments reported on Forms 941-X or 944-X should not be included in the tax liability reported on this form.
+
+The form includes a reference to Section 11 in Pub. 15 for further details and instructions. Employers are also directed to visit IRS.gov/form941 for more information.

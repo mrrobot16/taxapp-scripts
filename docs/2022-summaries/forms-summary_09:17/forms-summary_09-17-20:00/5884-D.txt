@@ -1,0 +1,387 @@
+Form    5884-D
+(April 2021) 
+Department of the Treasury 
+Internal Revenue Service
+Employee Retention Credit for Certain Tax-Exempt 
+Organizations Affected by Qualified Disasters
+▶ File this form separately; do not attach it to your return.                                  
+▶ Go to www.irs.gov/Form5884D for instructions and the latest information.                  
+OMB No. 1545-2298
+Name (not trade name) shown on Form 941 or other employment tax return
+Employer identification number
+Trade name (if any)
+Number, street, and room or suite no. If a P.O. box, see instructions.
+City or town, state, and ZIP code
+1
+If filed by a third-party payer, identify the qualified tax-exempt organization here. See instructions. Check      if not applicable.
+Name
+Employer identification number
+Number, street, and room or suite no. If a P.O. box, see instructions.
+City or town, state, and ZIP code
+2 a Is the organization a qualified tax-exempt organization (an organization described in section 501(c) and 
+exempt from tax under section 501(a))? See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+b Is the organization a federally chartered corporation, or is it a federal, state, or local college, university, 
+hospital, or medical care entity? See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If you checked “Yes” on either line 2a or 2b, go to line 3. If you checked “No” on both lines 2a and 2b, do 
+not file this form; the organization cannot claim this credit. 
+3
+Applicable 2020 qualified disaster zone(s) (see instructions):
+(a)  
+Disaster declaration 
+number
+(b)  
+Description
+(c)  
+County, parish, or municipality name(s)
+DR -
+-
+DR -
+-
+DR -
+-
+DR -
+-
+4
+Check a box to indicate the employment tax return filed:
+a
+Form 941
+b
+Form 941-PR
+c
+Form 941-SS
+d
+Form 943
+e
+Form 943-PR
+f
+Form 944 (or 944(SP))
+g
+Form 944-PR
+h
+Form 944-SS
+5
+Check a box or boxes to indicate the employment tax period for which the organization is claiming this credit. See instructions:
+a
+Check year:
+2019 
+2020 
+2021 
+(enter year)
+b
+Check quarter (if applicable):
+1st: January, February, March
+2nd: April, May, June
+3rd: July, August, September
+4th: October, November, December
+6 
+ 
+ 
+a 
+ 
+ 
+Enter the organization’s total qualified wages for the 2020 qualified disaster 
+employee retention credit paid in all employment tax periods through the end of 
+the employment tax period indicated on line 5 to all eligible employees (up to 
+$6,000 each). See instructions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a
+b
+Multiply line 6a by 40% (0.40) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6b
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 75321C
+Form 5884-D (4-2021) 
+Form 5884-D (4-2021) 
+Page  2 
+7 
+Enter the number of eligible employees who earned the qualified wages for the 2020 qualified disaster 
+employee retention credit entered on line 6a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8 
+ 
+Enter the total amount of 2020 qualified disaster employee retention credits claimed on line 12 (minus
+any amounts reported on line 13) of any Forms 5884-D filed for prior employment tax periods by or on
+behalf of the organization. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+Note: If line 8 is greater than line 6b, skip lines 9 through 12 and go to line 13. Otherwise, go to line 9.
+9
+Subtract line 8 from line 6b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10 
+Enter the organization’s total taxable social security wages and tips reported on the return indicated
+on line 4 for the period indicated on line 5. See instructions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+Note: If a corrected return (for example, Form 941-X) was filed for the period indicated on line 5, enter 
+the amount as corrected.
+11a
+Multiply line 10 by 6.2% (0.062) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11a
+b If Form 5884-C was filed for the period indicated on line 5 of this form, enter 
+the total amount of credits claimed on line 11 of Form 5884-C. See instructions 
+11b
+c 
+ 
+Enter the total amount of any qualified small business payroll tax credit for 
+increasing research activities (Form 941, Form 943, or Form 944) filed for the
+period indicated on line 5 of this form. See instructions .
+.
+.
+.
+.
+.
+.
+.
+11c
+d Add lines 11b and 11c and subtract the total from line 11a. If the result is less 
+than zero, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11d
+12 
+ 
+Credit claimed for the employment tax period indicated on line 5. Enter the smaller of line 9 or line 
+11d. This is the amount you are asking us to refund to you. Stop here, sign, and mail this form to the 
+address below. See instructions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13 
+If line 8 is greater than line 6b, subtract line 6b from line 8. This is the amount you owe. Sign and mail 
+this form to the address below with your payment for this amount. See instructions
+.
+.
+.
+.
+.
+.
+13
+Under penalties of perjury, I declare that I have examined this form, including accompanying schedules and statements, and to the best of my knowledge and 
+belief, it is true, correct, and complete. Declaration of preparer is based on all information of which preparer has any knowledge.
+Sign 
+Here
+Daytime telephone number
+Signature of officer
+Title
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name      ▶
+Firm’s EIN  ▶
+Firm’s address  ▶
+Phone no.
+Send Form 5884-D to: Department of the Treasury, Internal Revenue Service, Ogden, UT 84201
+Form 5884-D (4-2021) 

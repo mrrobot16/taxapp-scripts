@@ -1,0 +1,429 @@
+SCHEDULE P 
+(Form 1120-F)
+2022
+List of Foreign Partner Interests in Partnerships
+Department of the Treasury  
+Internal Revenue Service
+Attach to Form 1120-F.
+ Go to www.irs.gov/Form1120F for instructions and the latest information.
+OMB No. 1545-0123
+Name of corporation (foreign partner)
+Employer identification number (EIN)
+Part I
+List of Foreign Partner Interests in Partnerships
+(d) For each partnership interest, is the 
+foreign corporation’s distributive share 
+ECI, or treated as ECI, in whole or in part, 
+with a U.S. trade or business determined 
+under section 875 (see instructions)?
+(a) Name of partnership
+(b) Address
+(c) EIN
+     
+     
+A 
+Yes
+No
+B 
+Yes
+No
+C 
+Yes
+No
+D 
+Yes
+No
+Note: If the corporation has more than 4 partnership interests, continue on a separate page. See instructions.
+Part II
+Summary of Foreign Partner Income and Expenses From Schedule K-3 (Form 1065)
+Schedules K-3
+A
+B
+C
+D
+Total
+1 
+ 
+Total gross income. Enter the amount  
+from Schedule K-3, Part X, Section 1, 
+line 21, column (a) .
+.
+.
+.
+.
+.
+.
+2 
+ 
+ 
+Gross ECI—Partnership determination. 
+Enter the sum of  Schedule K-3, Part X, 
+Section 1, line 21, column (c) plus 
+column (d) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+ 
+ 
+Gross ECI—Partner determination.  
+Enter all applicable amounts from 
+Schedule K-3, Part X, Section 1, 
+column (b) (see instructions) 
+.
+.
+.
+4 
+ 
+Total deductions and losses. Enter 
+the amount from Schedule K-3, Part 
+X, Section 2, line 24, column (a) .
+.
+5 
+ 
+ 
+ 
+Total 
+deductions 
+and 
+losses 
+deductible 
+against 
+gross 
+ECI—
+Partnership determination. Enter the 
+sum of Schedule K-3, Part X, Section 
+2, line 24, column (c) plus column (d)  
+6 
+ 
+ 
+ 
+Total 
+deductions 
+and 
+losses 
+deductible against gross ECI—Partner 
+determination. 
+Enter 
+all 
+applicable 
+amounts from Schedule K-3, Part X, 
+Section 2, column (b) (see instructions)  
+7 
+ 
+ 
+Interest expense directly allocable 
+under Regulations section 1.882-5(a)
+(1)(ii)(B). (Note: Include the line 7 total 
+on Schedule I, line 22.) .
+.
+.
+.
+.
+8 
+ 
+ 
+ 
+ 
+ 
+Interest expense on U.S. booked 
+liabilities 
+as 
+described 
+under 
+Regulations section 1.882-5(d)(2)(vii). 
+Enter the amount from Schedule K-3, 
+Part X, Section 2, line 7, column (b). 
+Include the line 8 total on Schedule I, 
+line 9, column (b) .
+.
+.
+.
+.
+.
+.
+For Paperwork Reduction Act Notice, see the Instructions for Form 1120-F.
+Cat. No. 49677Z
+Schedule P (Form 1120-F) 2022
+Schedule P (Form 1120-F) 2022
+Page 2 
+Part III
+Foreign Partner’s Average Outside Basis Under Regulations sections 1.882-5(b) and 1.884-1(d)(3)
+Schedules K-3
+A
+B
+C
+D
+Total
+9
+Section 705 outside basis .
+.
+.
+.
+10a 
+ 
+ 
+ 
+Partner’s liabilities included in outside 
+basis under section 752 that give rise 
+to directly allocable interest expense 
+under Regulations section 1.882-5(a)
+(1)(ii)(B) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b All other liabilities included in partner’s 
+outside basis under section 752 .
+.
+c Add lines 10a and 10b .
+.
+.
+.
+.
+d Subtract line 10c from line 9 .
+.
+.
+11 
+ 
+ 
+ 
+ 
+Partner’s liabilities under Regulations 
+section 1.884-1(d)(3)(vi). (Note: Enter 
+the portion of the line 11 total on 
+Schedule I, line 8, column (b) that 
+represents U.S. booked liabilities 
+under Regulations section 1.882-5(d).)  
+12 
+ 
+Partner’s 
+outside 
+basis 
+under 
+Regulations section 1.884-1(d)(3)
+(vi). Add lines 10d and 11 .
+.
+.
+.
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+Partner’s outside basis allocable to 
+ECI 
+under 
+Regulations 
+sections 
+1.884-1(d)(3)(i) and 1.882-5. (Note: 
+The line 13 total should generally be 
+entered on Schedule I, line 5, column 
+(b). However, see the instructions for 
+Schedule I, line 5, column (b) before 
+entering an amount on that line.) .
+.
+14 
+ 
+ 
+Check either the “income” box or the 
+“asset” box to indicate the allocation 
+method 
+used 
+on 
+line 
+13 
+(see 
+instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+Income
+Asset
+Income
+Asset
+Income
+Asset
+Income
+Asset
+Schedule P (Form 1120-F) 2022
+Schedule P (Form 1120-F) 2022
+Page 3 
+Name of corporation (foreign partner)
+Employer identification number (EIN)
+Part IV
+Foreign Partner’s Interests in Partnerships Transferred During Tax Year
+(a)  Enter the letter of the row in Part I 
+that corresponds to the partnership 
+whose interest was transferred. 
+ See instructions.
+(b)(1) Percentage 
+interest transferred
+(b)(2) Units transferred
+(c) Date acquired 
+    (Mo., Day, Yr.)
+(d) Date transferred 
+  (Mo., Day, Yr.)
+(i)
+(ii)
+(iii)
+Note: If the corporation transferred more than three partnership interests, continue on a separate page. See instructions.
+Part V
+Foreign Partner’s Gain or Loss on Transfer of Partnership Interests
+Partnership Interest Transferred (see instructions)
+(i)
+(ii)
+(iii)
+1
+Amount realized on transfer of partnership interest .
+.
+.
+.
+.
+.
+2
+Section 705 outside basis .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Total outside gain (loss) on transfer of partnership interest. 
+Subtract line 2 from line 1
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+ 
+Total outside ordinary gain (loss) that would be recognized on 
+the deemed sale of section 751 property. Enter amount from 
+Schedule K-3 (Form 1065), Part XIII, line 1 .
+.
+.
+.
+.
+.
+.
+.
+5 
+Total outside capital gain (loss) related to the transfer of the 
+partnership interest. Subtract line 4 from line 3 
+.
+.
+.
+.
+.
+6 
+ 
+ 
+Aggregate effectively connected ordinary gain (loss) that 
+would be recognized on the deemed sale of section 751 
+property. Enter amount from Schedule K-3 (Form 1065), Part XIII, 
+line 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+ 
+ 
+Aggregate effectively connected capital gain (loss) that would 
+be recognized on the deemed sale of non-section 751 
+property. Enter amount from Schedule K-3 (Form 1065), Part XIII, 
+line 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Recognized effectively connected ordinary gain (loss). Enter 
+the smaller of line 4 or line 6. See instructions 
+.
+.
+.
+.
+.
+.
+9 
+Recognized effectively connected capital gain (loss). Enter the 
+smaller of line 5 or line 7. See instructions .
+.
+.
+.
+.
+.
+.
+.
+10 
+ 
+Gain (loss) that would be recognized under section 897(g) on 
+the deemed sale of U.S. real property interests. Enter amount 
+from Schedule K-3 (Form 1065), Part XIII, line 4. See instructions 
+Schedule P (Form 1120-F) 2022

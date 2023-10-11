@@ -1,0 +1,9 @@
+Form 8038-CP is a return form for credit payments to issuers of qualified bonds. The form is used to provide information about the entity that will receive the credit payment, as well as the reporting authority. It includes sections for reporting the issuer's name, address, and contact information, as well as details about the bond issue, such as the issue date, CUSIP number, and bond type. 
+
+The form also includes sections for reporting the payment of credit, including the interest payment date and the amount of credit allowed for various types of bonds. There is also a section for reporting any adjustments to previous credit payments. 
+
+The form asks whether there has been a change to the debt service schedule and if all interest payments have been or will be paid on time. It also asks if the return is submitted for the final interest payment date for the bonds. 
+
+There is an optional section for providing direct deposit information for the credit payment. 
+
+The form must be signed by the issuer and includes a declaration of accuracy and consent for the IRS to send the credit payment to the designated entity. There is also a section for the paid preparer, if applicable.

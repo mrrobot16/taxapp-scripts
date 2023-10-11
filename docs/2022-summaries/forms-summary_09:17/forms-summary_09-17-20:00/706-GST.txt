@@ -1,0 +1,750 @@
+The form you are looking for begins on the next page of this file. Before viewing it, please see 
+the important update information below.
+New Mailing Addresses
+Addresses for mailing certain forms have changed since the forms were last published. The new mailing 
+addresses are shown below.
+Mailing address for Forms 706‐A, 706‐GS(D), 706‐GS(T), 706‐NA, 706‐QDT, 8612, 8725, 8831, 8842, 8892, 
+8924, 8928:
+Department of the Treasury 
+Internal Revenue Service Center 
+Kansas City, MO 64999
+Mailing address for Forms 2678, 8716, 8822-B, 8832, 8855:
+Taxpayers in the States Below
+Mail the Form to This Address
+Connecticut, Delaware, District of Columbia, Georgia, 
+Illinois, Indiana,Kentucky, Maine, Maryland, 
+Massachusetts, Michigan, New Hampshire, New Jersey, 
+New York, North Carolina, Ohio, Pennsylvania, Rhode 
+Island, South Carolina, Vermont, Virginia, West Virginia, 
+Wisconsin
+Department of the Treasury 
+Internal Revenue Service Center 
+Kansas City, MO 64999
+Alabama, Alaska, Arizona, Arkansas, California, 
+Colorado, Florida, Hawaii, Idaho, Iowa, Kansas, 
+Louisiana, Minnesota, Mississippi, Missouri, Montana, 
+Nebraska, Nevada, New Mexico, North Dakota, 
+Oklahoma, Oregon, South Dakota, Tennessee, Texas, 
+Utah, Washington, Wyoming
+Department of the Treasury 
+Internal Revenue Service Center 
+Ogden, UT 84201
+This update supplements these forms’ instructions. Filers should rely on this update for the changes described, 
+which will be incorporated into the next revision of the forms’ instructions.
+Form 706-GS(T)
+(Rev. November 2013)
+Department of the Treasury  
+Internal Revenue Service 
+Generation-Skipping Transfer Tax Return For Terminations
+▶ Use for terminations made after December 31, 2012.  
+▶ For calendar year 
+.   
+OMB No. 1545-1145
+▶ Information about Form 706-GS(T) and its separate instructions is at www.irs.gov/form706gst.  
+Part I 
+General Information 
+1a  Name of trust 
+1b  Trust’s employer identification number (see instructions) 
+2a  Name of trustee 
+2b  Trustee’s address (number and street or P.O. box; apt. or suite no.; city, town or post office; state and ZIP code) If you have a foreign address, also complete the spaces 
+below (see instructions).  
+Foreign country name
+Foreign province/county
+Foreign postal code
+Part II 
+Trust Information (see the instructions) 
+3 
+ 
+Has any exemption been allocated to this trust by reason of the deemed allocation rules of 
+section 2632? If “Yes,” describe the allocation on the line 7, Schedule A, attachment showing 
+how the inclusion ratio was calculated 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes No 
+Sch. A  
+number(s) 
+4 
+Has property been contributed to this trust since the last Form 706-GS(T) or 706-GS(D-1) was 
+filed? If “Yes,” attach a schedule showing how the inclusion ratio was calculated .
+.
+.
+.
+.
+.
+5 
+ 
+Have any terminations occurred that are not reported on this return because of the exceptions
+in section 2611(b)(1) or (2) relating to medical and educational exclusions and prior payment of 
+Generation-Skipping Transfer (GST) tax? If “Yes,” attach a statement describing the termination .
+6 
+Have any contributions been made to this trust that were not included in calculating the trust’s 
+inclusion ratio? If “Yes,” attach a statement explaining why the contribution was not included .
+.
+7 
+Has the special QTIP election in section 2652(a)(3) been made for this trust? 
+.
+.
+.
+.
+.
+.
+.
+8 
+If this is not an explicit trust (see the instructions under Who Must File), check here and attach a statement  describing the 
+trust arrangement that makes its effect substantially similar to an explicit trust 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+Part III 
+Tax Computation 
+9a Summary of attached Schedules A (see instructions for line 9b) 
+Schedule A No. 
+GST tax 
+(from Sch. A, line 10) 
+1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a1
+2 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a2
+3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a3
+4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a4
+5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a5
+6 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a6
+9b Total from all additional Schedules A, in excess of six, attached to this form .
+.
+.
+.
+.
+.
+.  ▶
+9b 
+10 
+Total GST tax (add lines 9a1 through 9b) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Payment, if any, made with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Tax due. If line 10 is larger than line 11, enter the amount owed .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Overpayment. If line 11 is larger than line 10, enter amount to be refunded .
+.
+.
+.
+.
+.
+.
+.
+13 
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my 
+knowledge and belief, it is true, correct, and complete. Declaration of preparer other than fiduciary is based on all information of which preparer has any 
+knowledge.
+▲
+Signature of fiduciary or officer representing fiduciary 
+Date 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer's signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name      ▶
+Firm's EIN  ▶
+Firm's address  ▶
+Phone no.
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 10329M 
+Form 706-GS(T) (Rev. 11-2013) 
+Form 706-GS(T) (Rev. 11-2013) 
+Page  2 
+Name of trust 
+EIN of trust 
+Schedule A No. 
+Note. Make copies of this schedule before completing it if you will need more than one 
+Schedule A. 
+Schedule A—Taxable Terminations 
+(See the instructions before completing this schedule.) 
+a 
+Name of skip persons 
+b 
+SSN or EIN of skip person 
+c Item no. from line 4 below in  
+which interest held 
+1 
+2 
+Describe the terminating power or interest. If you need more space, attach an additional sheet. 
+3 
+If you elect alternate valuation, check here (see the instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+4 
+Describe each taxable termination below (see the instructions) 
+a 
+Item no. 
+b 
+Description of property subject to termination 
+c 
+Date of termination 
+d 
+Valuation date 
+e 
+Value 
+Total .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+4 
+5 
+Total deductions applicable to this Schedule A (from attached Schedule B, line 5) .
+.
+.
+.
+.
+.
+.
+5 
+6 
+Taxable amount (subtract line 5 from line 4) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Inclusion ratio (attach separate schedule showing computation) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Maximum federal estate tax rate (see Table in the instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+%
+9 
+Applicable rate (multiply line 7 by line 8) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+GST tax (multiply line 6 by line 9) (enter here and on page 1, Part III, line 9) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+Schedule A (Form 706-GS(T)) (Rev. 11-2013) 
+Form 706-GS(T) (Rev. 11-2013) 
+Page  3 
+Name of trust 
+Schedule A No. ▶
+EIN of trust 
+Note. Make copies of this schedule before completing it if you will need more than one Schedule B. 
+Schedule B(1)—General Trust Debts, Expenses, and Taxes 
+(Section 2622(b)) (Enter only items related to the entire trust; see the instructions.) 
+a 
+Item no. 
+b 
+Description 
+c 
+Amount 
+1 
+Total of Schedule B(1) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Percentage allocated to corresponding Schedule A .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+% 
+3 
+Net deduction (multiply line 1 by line 2) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Schedule B(2)—Specific Termination-Related Debts, Expenses, and Taxes 
+(Section 2622(b)) (Enter only items related solely to terminations appearing on corresponding Schedule A; see the instructions.) 
+a 
+Item no. 
+b 
+Description 
+c 
+Amount 
+4 
+Total of Schedule B(2) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Total. Add lines 3 and 4 (enter here and on line 5 of the corresponding Schedule A) .
+.
+.
+.
+.
+.
+5 
+Schedules B(1) and B(2) (Form 706-GS(T)) (Rev. 11-2013) 

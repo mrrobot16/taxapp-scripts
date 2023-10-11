@@ -1,0 +1,14 @@
+Schedule M-3 (Form 1120-PC) is a document provided by the Internal Revenue Service (IRS) for U.S. property and casualty insurance companies with total assets of $10 million or more. It is used to reconcile the net income (loss) reported on the income statement with the taxable income reported on the tax return.
+
+The form consists of three parts:
+
+Part I: Financial Information and Net Income (Loss) Reconciliation
+- This part requires the corporation to provide information about its income statement period, including whether it filed SEC Form 10-K, prepared a certified audited non-tax-basis income statement, or prepared a non-tax-basis income statement. It also includes sections for reporting net income (loss) from various sources, such as foreign entities, U.S. entities, disregarded entities, and other corporations. Additionally, it includes adjustments to eliminate transactions between includible entities and nonincludible entities, reconcile the income statement period to the tax year, and reconcile intercompany dividend adjustments.
+
+Part II: Reconciliation of Net Income (Loss) per Income Statement of Includible Corporations With Taxable Income per Return
+- This part requires the corporation to reconcile the income (loss) per the income statement with the taxable income per the tax return. It includes various income (loss) items, such as income (loss) from equity method foreign corporations, subpart F, QEF, and similar income inclusions, and U.S. dividends not eliminated in tax consolidation. It also includes items relating to reportable transactions, interest income, hedging transactions, and capital gains and losses.
+
+Part III: Reconciliation of Net Income (Loss) per Income Statement of Includible Corporations With Taxable Income per Return - Expense/Deduction Items
+- This part requires the corporation to reconcile the expenses and deductions per the income statement with those per the tax return. It includes various expense/deduction items, such as U.S. current income tax expense, state and local current income tax expense, foreign current income tax expense, stock option expense, meals and entertainment, and pension and profit-sharing.
+
+The form includes instructions and provides space for attaching additional statements and explanations for certain items. It is important for the corporation to accurately complete the form to ensure compliance with IRS regulations and accurately report its taxable income.

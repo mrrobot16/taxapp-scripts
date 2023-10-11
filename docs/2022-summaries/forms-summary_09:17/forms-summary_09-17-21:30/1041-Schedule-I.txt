@@ -1,0 +1,13 @@
+Schedule I (Form 1041) is a document used by estates and trusts to calculate their Alternative Minimum Tax (AMT) liability. The form consists of several parts and requires the taxpayer to provide information on various income and deduction items.
+
+Part I of the form requires the taxpayer to report their adjusted total income or loss, interest income, taxes paid, refund of taxes, depletion, net operating loss deduction, interest from specified private activity bonds, qualified small business stock, exercise of incentive stock options, other estates and trusts income, disposition of property, depreciation on assets placed in service after 1986, passive activities, loss limitations, circulation costs, long-term contracts, mining costs, research and experimental costs, income from certain installment sales before January 1, 1987, and intangible drilling costs preference.
+
+Part II of the form is used to calculate the income distribution deduction on a minimum tax basis. The taxpayer is required to report their adjusted alternative minimum taxable income, adjusted tax-exempt interest, total net gain from Schedule D, capital gains for charitable purposes, capital gains paid or set aside for charitable purposes, capital gains computed on a minimum tax basis, and capital losses computed on a minimum tax basis.
+
+Part III of the form calculates the alternative minimum tax by determining the exemption amount, phase-out of the exemption amount, and applying the tax rate.
+
+Part IV of the form is used to compute the alternative minimum tax using maximum capital gains rates. The taxpayer is required to report the maximum amount subject to the 0% rate, the amount from Schedule D or the tax worksheet, and the smaller of those two amounts. The form also includes calculations for the maximum amount subject to rates below 20% and the smaller of line 67 or line 72.
+
+The final section of the form includes instructions for completing the form and provides a space for the taxpayer to enter the alternative minimum tax amount to be reported on Form 1041, Schedule G.
+
+Overall, Schedule I (Form 1041) is a detailed form that helps estates and trusts determine their alternative minimum tax liability by considering various income and deduction items.

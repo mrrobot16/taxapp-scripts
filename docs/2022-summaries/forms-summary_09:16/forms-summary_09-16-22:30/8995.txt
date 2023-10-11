@@ -1,0 +1,15 @@
+Form 8995 is a document issued by the Internal Revenue Service (IRS) for taxpayers in the United States. It is used to calculate the qualified business income deduction for individuals who have qualified business income from a qualified trade or business, real estate investment trust dividends, publicly traded partnership income, or a domestic production activities deduction passed through from an agricultural or horticultural cooperative.
+
+The form is to be attached to the taxpayer's tax return and is applicable for individuals whose taxable income, before the qualified business income deduction, is at or below $170,050 ($340,100 if married filing jointly), and who are not patrons of an agricultural or horticultural cooperative.
+
+The form includes various sections for reporting the trade, business, or aggregation name, taxpayer identification number, and the amount of qualified business income or loss. These amounts are then combined to calculate the total qualified business income or loss.
+
+The form also includes sections for reporting the qualified business net loss carryforward from the prior year, total qualified business income, qualified business income component, qualified REIT dividends and publicly traded partnership (PTP) income or loss, qualified REIT dividends and qualified PTP loss carryforward from the prior year, and the total qualified REIT dividends and PTP income.
+
+From these amounts, the form calculates the REIT and PTP component, qualified business income deduction before the income limitation, taxable income before the qualified business income deduction, net capital gain, and the income limitation.
+
+The final section of the form calculates the qualified business income deduction by entering the smaller of the calculated amounts from the previous sections. This deduction is then entered on the applicable line of the taxpayer's return.
+
+The form also includes sections for reporting the total qualified business loss carryforward and total qualified REIT dividends and PTP loss carryforward, if applicable.
+
+The form includes instructions and can be found on the IRS website for further information and guidance.

@@ -1,0 +1,11 @@
+Form 945-X is a document used to correct administrative errors made on Form 945, which is the Annual Return of Withheld Federal Income Tax. This form is used to either adjust the return of withheld federal income tax or claim a refund for overreported amounts. The form requires the taxpayer to provide their employer identification number (EIN), name, address, and the calendar year they are correcting. 
+
+There are four parts to the form. Part 1 requires the taxpayer to select one process - either adjusted return or claim. If the taxpayer underreported amounts, they must check the adjusted return box. If they overreported amounts and want to request a refund or abatement, they must check the claim box. 
+
+Part 2 requires the taxpayer to enter the corrections for the calendar year they are correcting. They must provide the total corrected amount, the amount originally reported or previously corrected, and the difference between the two. 
+
+Part 3 allows the taxpayer to explain their corrections in detail, including any underreported and overreported amounts. 
+
+Part 4 is the declaration section, where the taxpayer must sign and declare that the information provided is true, correct, and complete. If a preparer assisted with the form, their information must also be provided. 
+
+The form must be completed and signed by the taxpayer, and both pages must be submitted. It should not be attached to Form 945.

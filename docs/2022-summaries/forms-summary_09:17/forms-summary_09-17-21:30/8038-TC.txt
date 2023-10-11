@@ -1,0 +1,23 @@
+Form 8038-TC is an information return form for tax credit bonds and specified tax credit bonds under Internal Revenue Code section 149(e). The form is used by issuers to report information about the bonds to the Internal Revenue Service (IRS).
+
+The form is divided into several parts:
+
+Part I: Reporting Authority - This section includes the issuer's name, employer identification number (EIN), and contact information. It also includes a space to indicate if the form is an amended return.
+
+Part II: Type of Issue - This section includes information about the type of bond issue, such as the tax credit bond code and a description of the issue. It also includes questions about the issuer's election to apply section 6431(f), the first interest payment date, and the interest payment date frequency.
+
+Part III: Description of Obligations - This section includes information about the obligations, such as the issue price, stated redemption price at maturity, final maturity date, applicable credit rate, maximum term, permitted sinking fund yield, and interest rate. There are also checkboxes to indicate if the issue is a variable rate issue and the frequency rates are reset.
+
+Part IV: Proceeds of Issue (Including underwriters' discount) - This section includes information about the proceeds of the bond issue, including the sale proceeds, proceeds used for bond issuance cost, estimated investment proceeds, and expected available project proceeds.
+
+Part V: Description of Use of Proceeds for Qualified Purpose Expenditures - This section includes information about how the proceeds of the bond issue will be used for qualified purpose expenditures. It includes categories such as loans to qualified borrowers, land, buildings and structures, furniture or equipment, grants, demonstration projects, public education campaigns, and repairs or rehabilitation expenditures.
+
+Part VI: Allocation of National, State, Tribal, or Local Bond Limitation Amount - This section includes information about any allocation of bond limitation amount, including the source and amount of the allocation.
+
+Part VII: Miscellaneous - This section includes questions about arbitrage, conflicts of interest, entitlements to credits, and written procedures to monitor requirements. There is also a space for any other miscellaneous information.
+
+Part VIII: Consent to Disclosure of Certain Information From This Return - This section includes questions about whether the issuer gives consent to the IRS to publish certain information from the return, such as the issuer's name and address, employer identification number, bond issue details, and more.
+
+The form also includes several schedules for specific types of tax credit bonds, such as New Clean Renewable Energy Bonds, Qualified Energy Conservation Bonds, Qualified Zone Academy Bonds, and Qualified School Construction Bonds. These schedules require additional information specific to each type of bond.
+
+The form must be signed and dated by the issuer's authorized representative, and there is also a section for paid preparer information if applicable.

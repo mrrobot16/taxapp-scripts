@@ -1,0 +1,9 @@
+Form 965-D is a document used for transferring tax liabilities under Section 965(i)(2) of the Internal Revenue Code. It is filed with the Department of the Treasury, Internal Revenue Service. The form requires information about the transferor and transferee, including their names, taxpayer identification numbers, and addresses. It also asks for identifying information about the S Corporation involved in the transfer.
+
+The form includes a section to provide details about the triggering event that led to the transfer agreement. It asks if the transfer was due to the death of the transferor and requires the percentage of the transferor's deferred net tax liability that is allocable to the transferred stock.
+
+There is a section to report the amount of the transferor's unpaid section 965(i) net tax liability being assumed by the transferee. The form also asks if the transferee is able to pay the tax liability being assumed and if their leverage ratio exceeded 3:1 immediately after the triggering event. Additional information about the transferee's ability to pay can be provided.
+
+By signing the transfer agreement, the transferee agrees to assume the liability of the transferor for the unpaid portion of the section 965(i) net tax liability. The transferee also agrees to comply with all the conditions and requirements of section 965(i) and related regulations. The transferor and any successor to the transferor remain jointly and severally liable for the tax liability being assumed by the transferee. The Commissioner may reject the transfer agreement if there is a material misrepresentation or omission.
+
+The form requires signatures from both the transferor and transferee, certifying the accuracy and completeness of the information provided.

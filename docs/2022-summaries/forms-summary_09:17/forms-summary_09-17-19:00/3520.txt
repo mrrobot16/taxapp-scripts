@@ -1,0 +1,11 @@
+Form 3520 is an annual return that must be filed by U.S. persons who have transactions with foreign trusts or who receive certain gifts from foreign persons. The form is used to report these transactions and gifts to the Internal Revenue Service (IRS). 
+
+The form must be filed in English and all amounts must be reported in U.S. dollars. A separate Form 3520 must be filed for each foreign trust.
+
+The form includes various checkboxes and sections for different types of filers. These include U.S. transferors who have transferred money or property to a foreign trust, U.S. owners of foreign trusts, recipients of distributions from foreign trusts, and recipients of gifts or bequests from foreign persons.
+
+The form requires identifying information for both the filer and the foreign trust or foreign person involved in the transaction or gift. It also includes schedules for reporting specific details such as transfers to related trusts, distributions received, and calculations of interest charges.
+
+The form must be signed by the filer under penalties of perjury, declaring that the information provided is true, correct, and complete.
+
+Overall, Form 3520 is a comprehensive reporting tool for U.S. persons to disclose their transactions with foreign trusts and receipt of certain foreign gifts to the IRS.

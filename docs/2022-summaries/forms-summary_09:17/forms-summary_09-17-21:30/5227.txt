@@ -1,0 +1,15 @@
+Form 5227 is a tax form used by split-interest trusts in the United States to report their income, deductions, and distributions. The form is divided into several parts and schedules.
+
+Part I of the form collects general information about the trust, including its name, address, and employer identification number. It also asks for the fair market value of the trust's assets at the end of the tax year.
+
+Part II of the form is used to report the trust's income and deductions. It includes sections for reporting ordinary income, capital gains, nontaxable income, and deductions such as interest and taxes.
+
+Part III of the form is a schedule of distributable income, which is used for Section 664 trusts only. It calculates the amount of distributable income for the tax year.
+
+Part IV of the form is a balance sheet that lists the trust's assets and liabilities. It includes categories such as cash, investments, and other assets.
+
+Part V of the form is a schedule of distributions, assets, and donor information. It includes sections for reporting distributions to beneficiaries, details about donated assets, and information about the trust's donors.
+
+Part VI of the form is a questionnaire that collects additional information about the trust, such as whether the trust had any self-dealing transactions or held any foreign financial accounts.
+
+Overall, Form 5227 is used to provide the IRS with information about the income, deductions, and distributions of split-interest trusts in the United States.

@@ -1,0 +1,923 @@
+Form 1042
+Department of the Treasury  
+Internal Revenue Service 
+Annual Withholding Tax Return for U.S. Source        
+Income of Foreign Persons
+Go to www.irs.gov/Form1042 for instructions and the latest information.
+OMB No. 1545-0096
+2022
+If this is an amended return, check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Name of withholding agent
+Employer identification number
+Ch. 3 Status Code
+Ch. 4 Status Code
+Number, street, and room or suite no. (If a P.O. box, see instructions.)
+City or town, state or province, country, and ZIP or foreign postal code
+For IRS Use Only
+CC
+RD
+CAF
+CR
+EDC
+FD
+FF
+FP
+I
+SIC
+If you do not expect to file this return in the future, check here  
+Enter date final income paid  
+Section 1
+Record of Federal Tax Liability (do not show federal tax deposits here)
+Jan.
+Feb.
+Mar.
+Apr.
+May
+June
+July
+Aug.
+Sept.
+Oct.
+Nov.
+Dec.
+Line 
+No.
+Period 
+ending  
+Tax liability for period  
+(including any taxes assumed  
+on Form(s) 1000)
+1      
+7
+2      
+15
+3      
+22
+4      
+31
+5
+Jan. total  
+6      
+7
+7      
+15
+8      
+22
+9      
+28
+10
+Feb. total  
+11      
+7
+12      
+15
+13      
+22
+14      
+31
+15
+Mar. total  
+16      
+7
+17      
+15
+18      
+22
+19      
+30
+20
+Apr. total  
+Line 
+No.
+Period 
+ending  
+Tax liability for period  
+(including any taxes assumed  
+on Form(s) 1000)
+21      
+7
+22      
+15
+23      
+22
+24      
+31
+25
+May total  
+26      
+7
+27      
+15
+28      
+22
+29      
+30
+30
+June total  
+31      
+7
+32      
+15
+33      
+22
+34      
+31
+35
+July total  
+36      
+7
+37     
+15
+38      
+22
+39      
+31
+40
+Aug. total  
+Line 
+No.
+Period 
+ending  
+Tax liability for period  
+(including any taxes assumed  
+on Form(s) 1000)
+41      
+7
+42      
+15
+43      
+22
+44      
+30
+45 Sept. total  
+46      
+7
+47      
+15
+48      
+22
+49      
+31
+50
+Oct. total  
+51      
+7
+52      
+15
+53      
+22
+54      
+30
+55
+Nov. total  
+56      
+7
+57      
+15
+58      
+22
+59      
+31
+60
+Dec. total  
+Note: The totals from the above table are to be entered on lines 64b through 64d (as indicated in the instructions for those lines).
+61
+No. of Forms 1042-S filed:  a On paper
+b Electronically
+62
+Total gross amounts reported on all Forms 1042-S and 1000:
+a
+Total U.S. source FDAP income (other than U.S. source substitute payments) reported .
+.
+.
+.
+.
+62a
+b
+Total U.S. source substitute payments reported: 
+(1) Total U.S. source substitute dividend payments reported .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+62b(1)
+(2) Total U.S. source substitute payments reported other than substitute dividend payments 
+.
+.
+.
+62b(2)
+c
+Total gross amounts reported (add lines 62a–b) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+62c
+d
+Enter gross amounts actually paid if different from gross amounts reported .
+.
+.
+.
+.
+.
+.
+.
+.
+62d
+Third Party 
+Designee
+Do you want to allow another person to discuss this return with the IRS? See instructions.
+Yes. Complete the following.
+No
+Designee’s 
+name     
+Phone 
+no.   
+Personal identification 
+number (PIN)            
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my 
+knowledge and belief, it is true, correct, and complete. Declaration of preparer (other than withholding agent) is based on all information of which preparer 
+has any knowledge.
+Your 
+signature
+Date
+Capacity in which acting 
+Daytime phone number   
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name  
+Firm’s address 
+Firm’s EIN 
+Phone no. 
+For Privacy Act and Paperwork Reduction Act Notice, see instructions.
+Cat. No. 11384V
+Form 1042 (2022) 
+Form 1042 (2022)
+Page 2 
+63
+Total tax reported as withheld or paid by withholding agent on all Forms 1042-S and 1000: 
+a
+Tax withheld by withholding agent 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+63a
+b
+Tax withheld by other withholding agents:
+(1) For payments other than substitute dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+63b(1)
+(2) For substitute dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+63b(2)
+c
+Adjustments to withholding:
+(1) Adjustments to overwithholding
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+63c(1) (                          )
+(2) Adjustments to underwithholding .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+63c(2)
+d
+Tax paid by withholding agent .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+63d
+e
+Total tax reported as withheld or paid (add lines 63a–d) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+63e
+Computation of Tax Due or Overpayment
+64
+Total net tax liability
+a
+Adjustments to total net tax liability 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+64a
+b
+Total net tax liability under chapter 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+64b
+c
+Total net tax liability under chapter 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+64c
+d
+Excise tax on specified federal procurement payments (total payments made x 2% (0.02)) .
+.
+.
+.
+64d
+e
+Total net tax liability (add lines 64a–d) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+64e
+65
+Total paid by electronic funds transfer (or with a request for extension of time to file):
+a
+Total paid during calendar year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+65a
+b
+Total paid during subsequent year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+65b
+66
+Enter overpayment applied as credit from 2021 Form 1042 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+66
+67
+Credit for amounts withheld by other withholding agents:
+a
+For payments other than substitute dividend payments .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+67a
+b
+For substitute dividend payments .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+67b
+68
+Total payments. Add lines 65 through 67 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+68
+69
+If line 64e is larger than line 68, enter balance due here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+69
+70a
+Enter overpayment attributable to overwithholding on U.S. source income of foreign persons .
+.
+.
+70a
+b
+Enter overpayment attributable to excise tax on specified federal procurement payments 
+.
+.
+.
+.
+70b
+71
+Apply overpayment (sum of lines 70a and 70b) to (check one):
+Credit on 2023 Form 1042 or
+Refund
+Section 2
+Reconciliation of Payments of U.S. Source FDAP Income
+1
+Total U.S. source FDAP income required to be withheld upon under chapter 4 .
+.
+.
+.
+.
+.
+.
+.
+1
+2 
+Total U.S. source FDAP income required to be reported under chapter 4 but not required to be
+withheld upon under chapter 4 because:
+a
+Amount of income paid to recipients whose chapter 4 status established no withholding is required .
+2a
+b
+Amount of excluded nonfinancial payments.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c
+Amount of income paid with respect to grandfathered obligations
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+d
+Amount of income effectively connected with the conduct of a trade or business in the United States  
+2d
+e Total U.S. source FDAP income required to be reported under chapter 4 but not required to be
+withheld upon under chapter 4 (add lines 2a–d)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2e
+3
+Total U.S. source FDAP income reportable under chapter 4 (add lines 1 and 2e) 
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Total U.S. source FDAP income reported on all Forms 1042-S (from lines 62a, 62b(1), and 62b(2)) 
+.
+4
+5
+Total variance, subtract line 3 from line 4; if amount other than zero, provide explanation on line 6.
+.
+5
+6
+Section 3
+Potential Section 871(m) Transactions
+Check here if any payments (including gross proceeds) were made by the withholding agent under a potential section 871(m) 
+transaction, including a notional principal contract or other derivatives contract that references (in whole or in part) a U.S. stock or 
+other underlying security. See instructions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Section 4
+Dividend Equivalent Payments by a Qualified Derivatives Dealer (QDD)
+Check here if any payments were made by a QDD .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If box is checked, you must do the following.
+(1) Attach Schedule Q (Form 1042). See instructions.
+(2) Enter the EIN (not the QI-EIN) of the QDD 
+Form 1042 (2022) 

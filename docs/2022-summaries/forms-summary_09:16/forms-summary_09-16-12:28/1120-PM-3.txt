@@ -1,0 +1,16 @@
+Schedule M-3 (Form 1120-PC) is a form provided by the Internal Revenue Service (IRS) for U.S. Property and Casualty Insurance Companies with total assets of $10 million or more. It is used to reconcile the net income (loss) reported on the income statement with the taxable income reported on the tax return.
+
+The form consists of three parts:
+
+Part I: Financial Information and Net Income (Loss) Reconciliation
+- This part requires the corporation to provide information about its income statement period, including whether it filed SEC Form 10-K, whether it prepared a certified audited non-tax-basis income statement, and whether it prepared a non-tax-basis income statement. It also includes sections for reporting net income (loss) from various entities and adjustments to reconcile the income statement period to the tax year.
+
+Part II: Reconciliation of Net Income (Loss) per Income Statement of Includible Corporations With Taxable Income per Return
+- This part is used to reconcile the income (loss) items reported on the income statement with the temporary and permanent differences that affect taxable income. It includes lines for reporting income (loss) from equity method foreign corporations, subpart F, QEF, and similar income inclusions, U.S. dividends, and other income (loss) items.
+
+Part III: Reconciliation of Net Income (Loss) per Income Statement of Includible Corporations With Taxable Income per Return - Expense/Deduction Items
+- This part is used to reconcile the expense/deduction items reported on the income statement with the temporary and permanent differences that affect taxable income. It includes lines for reporting U.S. current and deferred income tax expenses, state and local income tax expenses, foreign income tax expenses, stock option expenses, and other expense/deduction items.
+
+The form also includes sections for reporting the total amount of assets and liabilities included or removed on various lines, as well as checkboxes for indicating whether the corporation is part of a consolidated group, a parent corporation, or a subsidiary corporation.
+
+Overall, Schedule M-3 is a detailed form that helps insurance companies reconcile their net income (loss) reported on the income statement with their taxable income reported on the tax return, taking into account various temporary and permanent differences.

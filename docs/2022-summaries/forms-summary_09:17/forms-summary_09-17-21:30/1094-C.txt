@@ -1,0 +1,13 @@
+The document is a corrected version of Form 1094-C, titled "Transmittal of Employer-Provided Health Insurance Offer and Coverage Information Returns." It is used by applicable large employers (ALE) to transmit information returns related to health insurance offers and coverage to the Internal Revenue Service (IRS). The form consists of four parts.
+
+Part I requires the ALE member to provide their name, employer identification number (EIN), address, contact information, and the name and contact information of the designated government entity if applicable.
+
+Part II collects ALE member information, including whether the form is the authoritative transmittal, the total number of Forms 1095-C filed by the ALE member, and whether the ALE member is part of an aggregated ALE group.
+
+Part III captures monthly information related to minimum essential coverage offer indicators, Section 4980H full-time employee count, total employee count, and aggregated group indicators for the ALE member.
+
+Part IV is for listing the names and EINs of other ALE members of the aggregated ALE group.
+
+The form must be signed and dated, and the person signing declares that the information provided is true, correct, and complete. The document also includes references to penalties for perjury.
+
+The form includes instructions and a privacy act and paperwork reduction act notice, which are not summarized in this summary.

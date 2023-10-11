@@ -1,0 +1,722 @@
+SCHEDULE PH 
+(Form 1120)
+(Rev. November 2015)
+Department of the Treasury 
+Internal Revenue Service
+U.S. Personal Holding Company (PHC) Tax
+▶ Attach to tax return. 
+▶ Information about Schedule PH (Form 1120) and its separate instructions is at www.irs.gov/form1120.
+OMB No. 1545-0123
+Name
+Employer identification number
+Part I
+Undistributed Personal Holding Company Income  (see instructions)
+Additions
+1 
+ 
+Taxable income before net operating loss deduction and special deductions. Enter amount 
+from Form 1120, line 28
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Contributions deducted in figuring line 1. Enter amount from Form 1120, line 19 .
+.
+.
+.
+2 
+3 
+ 
+Excess expenses and depreciation under section 545(b)(6). Enter amount from Part V, 
+line 2 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Total. Add lines 1 through 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Deductions
+5 
+ 
+Federal and foreign income, war profits, and excess profits taxes not deducted in figuring 
+line 1 (attach schedule) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Contributions deductible under section 545(b)(2). See instructions for limitation .
+.
+.
+.
+6 
+7 
+Net operating loss for the preceding tax year deductible under section 545(b)(4) .
+.
+.
+.
+7 
+8 a
+Net capital gain from Schedule D (Form 1120), line 17 
+.
+.
+8a 
+b 
+ 
+Less:  Income tax on this net capital gain (see section  
+545(b)(5))  (attach computation) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8b
+8c 
+9 
+ 
+Deduction for dividends paid (other than dividends paid after the end of the tax year). Enter 
+amount from Part VI, line 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Total. Add lines 5 through 9 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Subtract line 10 from line 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+ 
+Dividends paid after the end of the tax year (other than deficiency dividends defined in
+section 547(d)), but not more than the smaller of line 11 or 20% of Part VI, line 1 
+.
+.
+.
+12 
+13
+Undistributed PHC income.  Subtract line 12 from line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+Note:  If the information in Part II and Part IV is not submitted with the return, the limitation period for assessment and 
+collection of the PHC tax is any time within 6 years after the return is filed. See section 6501(f).
+Part II
+Personal Holding Company Income  (see instructions)
+14a
+Dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14a
+b Less: Dividends excluded (under section 543(a)(1)(C)) .
+.
+.
+.
+14b
+14c
+15a
+Interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15a
+b Less:  Amounts excluded (attach schedule) 
+.
+.
+.
+.
+.
+.
+.
+15b
+15c
+16 
+Royalties (other than mineral, oil, gas, or copyright royalties) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Annuities .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18a
+Rents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18a
+b Less:  Adjustments to rents (attach schedule) .
+.
+.
+.
+.
+.
+.
+18b
+18c
+19a
+Mineral, oil, and gas royalties 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19a
+b 
+ 
+Less: Adjustments to mineral, oil, and gas royalties (attach 
+schedule) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19b
+19c
+20 
+Copyright royalties .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+21 
+Produced film rents 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+22 
+Compensation received for use of corporation property by 25% or more shareholder .
+.
+.
+.
+22 
+23 
+Amounts received under personal service contracts and from their sale 
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+24 
+Amounts includible in taxable income from estates and trusts 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+25 
+PHC income.  Add lines 14 through 24 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25 
+Part III
+Tax on Undistributed Personal Holding Company Income (see instructions)
+26 
+ 
+PHC tax. Multiply the amount on line 13 by 20%. Enter the result here and on Schedule J (Form
+1120), line 8, or on the proper line of the appropriate tax return .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26 
+For Paperwork Reduction Act Notice, see the Instructions for Form 1120.
+Cat. No. 11465P
+Schedule PH (Form 1120) (Rev. 11-2015)
+Schedule PH (Form 1120) (Rev. 11-2015)
+Page 2 
+Part IV
+Stock Ownership Requirement Under Section 542(a)(2) 
+Enter the names and addresses of the individuals who together owned, directly or indirectly, at any time during 
+the last half of the tax year, more than 50% in value of the outstanding stock of the corporation.
+(a)  Name
+(b)  Address
+Highest percentage of shares 
+owned during last half of tax year
+     
+     
+(c)  Preferred
+(d)  Common
+1 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+% 
+2 
+Add the amounts in columns (c) and (d) and enter the totals here 
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+% 
+% 
+Part V
+Excess of Expenses and Depreciation Over Income From Property Not Allowable 
+Under Section 545(b)(6)  (see instructions for Part I, line 3)
+(a)  Description of 
+property
+(b)  Date 
+acquired
+(c)  Cost or 
+other basis
+(d)  Depreciation 
+deduction
+(e)  Repairs, 
+insurance, and 
+other expenses 
+(section 162) 
+(attach schedule)
+(f)  Total of 
+columns (d) 
+and (e)
+(g)  Income from 
+rent or other 
+compensation
+(h)  Excess 
+(col. (f) less 
+col. (g))
+1 
+2 
+ 
+Total excess of expenses and depreciation over rent or other compensation. Add the amounts in column 
+(h). Enter the total here and on Part I, line 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Note:  Attach a statement showing the names and addresses of persons from whom rent or other 
+compensation was received for the use of, or the right to use, each property.
+Part VI
+Deduction for Dividends Paid Under Sections 561 and 562
+1 
+ 
+Taxable dividends paid. Do not include dividends considered as paid in the preceding tax year 
+under section 563 or deficiency dividends as defined in section 547 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Consent dividends. Attach Forms 972 and 973 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Taxable distributions. Add lines 1 and 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Dividend carryover from first and second preceding tax years. Attach computation 
+.
+.
+.
+.
+4 
+5 
+Deduction for dividends paid.  Add lines 3 and 4. Enter the total here and on Part I, line 9 .
+.
+5 
+Schedule PH (Form 1120) (Rev. 11-2015)

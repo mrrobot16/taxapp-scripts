@@ -1,0 +1,919 @@
+Form  8038-B
+(January 2010)
+Department of the Treasury 
+Internal Revenue Service
+Information Return for Build America Bonds and Recovery Zone 
+Economic Development Bonds
+� Under Internal Revenue Code section 149(e)
+� See separate instructions.
+OMB No. 1545-2161
+Part I
+Reporting Authority
+Check if Amended Return �
+1 Issuer’s name
+2 Issuer’s employer identification number (EIN)
+3
+Name of person (other than issuer) with whom the IRS may communicate about this return (see instructions)
+4 Report number (For IRS Use Only)
+5 Number and street (or P.O. Box if mail is not delivered to street address)
+6
+City, town, or post office, state, and ZIP code
+7 Date of issue (MM/DD/YYYY)
+                  /                /
+8
+Name of issue
+9 CUSIP number
+10
+Name and title of officer of issuer whom the IRS may call for more information (see instructions)
+11 Telephone number of officer or other person (see instructions)
+Part II
+Type of Bonds (see instructions, if the box on line 1b or 1c is checked, complete lines 2 and 3)
+1 a Build America bonds (Tax Credit) (section 54AA(a)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Build America bonds (Direct Payment) (sections 54AA(g) and 6431) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+c
+Recovery zone economic development bonds (Direct Payment) (sections 1400U-2 and 6431)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+2 
+Enter the first interest payment date (MM/DD/YYYY)  �                 /                /
+3 
+Interest payment date frequency: (Check box) (see instructions and attach debt service schedule)
+a 
+annual,
+b
+semi-annual,
+c
+quarterly,
+d
+monthly, or
+e
+other
+f
+If line 3e above is checked, please describe the payment frequency:
+Part III
+Purpose of Issue
+1 
+For a build America bond, identify the purpose of issue and enter the issue price. (see instructions
+and attach schedule) 
+Amount  
+(Whole Dollars) 
+a Education .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b
+Health and hospital 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+c
+Transportation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+1c
+d
+Public safety .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+1d
+e
+Environment (including sewage bonds) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1e
+f
+Housing 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1f
+g
+Utilities .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1g
+h
+Other description � 
+1h
+2 
+For a recovery zone economic development bond, identify the purpose of issue and enter the issue
+price. (see instructions and attach schedule)
+a Capital expenditures relating to property located in the zone .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b
+Public infrastructure and construction of public facilities 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c
+Job training and educational programs
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+d
+Other description
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+2d
+3
+Total issue price (Part III, lines 1a through 1h or lines 2a through 2d) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+If obligations are TANs or RANs, check only box 4a �
+If obligations are BANs, check only box 4b �
+5
+If obligations are in the form of a lease or installment sale, check box �
+Part IV
+Description of Obligations (Complete for the entire issue for which this form is being filed.)
+1
+Stated redemption price at maturity
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Final maturity date (MM/DD/YYYY)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.          /         /
+3
+Weighted average maturity .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+years
+4
+Yield
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+%
+5
+If the issue is a variable rate issue, check box 5a �
+Please indicate the frequency rates are reset  5b � 
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 53393K
+Form 8038-B (1-2010)
+1
+Form 8038-B (1-2010)
+Page 2 
+Part V
+Use of Proceeds of Issue 
+Amount 
+(Whole Dollars)
+1
+Sales proceeds .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Expected investment proceeds 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Proceeds used for accrued interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Proceeds used for bond issuance cost (including underwriter's discount) .
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Proceeds used for credit enhancement .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Proceeds allocated to a reasonably required reserve fund .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+6
+7
+Proceeds used for capital expenditures .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Proceeds used for working capital expenditures .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Proceeds used to currently refund prior issues 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Proceeds used to advance refund prior issues 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+Part VI
+Description of Refunded Bonds (complete this part only for refunding bonds)
+1
+Enter the remaining weighted average maturity of the bonds to be 
+currently refunded .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+years
+2
+Enter the remaining weighted average maturity of the bonds to be 
+advance refunded .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+         /         /
+years
+3
+Enter the last date on which the refunded bonds will be called (MM/DD/YYYY) 
+4
+Enter the date the refunded bonds were issued (if more than one date of issue, attach a schedule) 
+(MM/DD/YYYY) (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+             /            /
+Part VII
+Miscellaneous 
+1
+Enter the amount of the volume cap allocated to the issue (see instructions) (attach volume cap certification)
+1
+2a Enter the amount of gross proceeds invested or to be invested in a guaranteed investment contract 
+(GIC) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b
+Enter the final maturity date of the GIC (MM/DD/YYYY) �
+              /          /
+c
+Enter the name of the GIC provider �
+3
+Proceeds of this issue that are to be used to make loans to other governmental units .
+.
+.
+.
+.
+3
+4a If this issue is a loan made from the proceeds of another issue, check box  �
+and enter the following information:
+b
+Enter the issue date of the master pool obligation (MM/DD/YYYY) �
+             /          /
+c
+Enter the EIN of the issuer of the master pool obligation �
+d
+Enter the name of the issuer of the master pool obligation � 
+5a If the issuer entered into a hedge, check box  �
+and enter the following information:
+b
+Name of hedge provider � 
+c
+Type of hedge � 
+d
+Term of hedge � 
+6
+If the issuer has superintegrated the hedge, check box �
+7
+If the issuer elected to pay a penalty in lieu of arbitrage rebate, check box �
+8
+If the issuer has established written procedures to ensure that all nonqualified bonds of this issue are remediated in accordance 
+with the requirements under Regulations section 1.141-12, check box �
+9
+If the issuer has established written procedures to monitor the requirements of section 148, check box �
+Signature 
+and 
+Consent
+Under penalties of perjury, I declare that I have examined this return, and accompanying schedules and statements, and to the best of my knowledge and 
+belief, they are true, correct, and complete. I further declare that I consent to the IRS's disclosure of the issuer's return information, as necessary to process 
+the return, to the person(s) that I have authorized above.
+�
+Signature of issuer's authorized representative
+Date
+� Type or print name and title
+Paid 
+Preparer’s 
+Use Only
+Preparer’s 
+signature �
+Date
+Check if 
+self- 
+employed
+Preparer’s SSN or PTIN
+Firm’s name (or 
+yours if self-employed), 
+address, and ZIP code �
+EIN
+Phone no. 
+Part VIII
+Consent to Disclosure of Certain Information from this Return
+1
+For build America bonds that provide a tax credit to bondholders, does the issuer give the IRS consent to publish, through a 
+website or in a publication, its name and address, employer identification number, name and description of bond issue, date of 
+issuance, CUSIP number, issue price, final maturity date, and stated redemption price at maturity, to assist in the proper reporting 
+of interest, tax credits, or other benefits under section 6049 and Regulations thereunder? .
+.
+.
+.
+.
+.
+�
+Yes
+No
+Under penalties of perjury, I declare that I am an officer of the above named issuer and that I am authorized to give consent on behalf of the above named issuer for the IRS 
+to publish the items of information described in line 1 of Part VIII of this form to assist in the reporting obligations under section 6049.
+Sign 
+Here
+�
+Signature 
+Date
+�
+Type or print name and title
+Form 8038-B (1-2010)

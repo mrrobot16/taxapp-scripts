@@ -1,0 +1,348 @@
+SCHEDULE UTP  
+(Form 1120)
+(Rev. December 2022)
+Department of the Treasury 
+Internal Revenue Service
+Uncertain Tax Position Statement
+File with Form 1120, 1120-F, 1120-L, or 1120-PC. 
+Go to www.irs.gov/Form1120 for instructions and the latest information.
+OMB No. 1545-0123
+Name of entity as shown on page 1 of tax return
+EIN of entity
+This Part I, Schedule UTP (Form 1120), is page 
+of
+Part I pages.
+Part I
+Uncertain Tax Positions for the Current Tax Year See instructions for how to complete columns (a) through (k). 
+Enter, in Part III, a description for each uncertain tax position (UTP). 
+Check this box if the corporation was unable to obtain information from related parties sufficient to determine whether a tax position is a UTP. See instructions .
+.
+(a) 
+UTP No.
+(b) 
+Primary IRC Sections 
+(for example, “61,” “108,” “263A”)
+Primary IRC Subsections 
+(for example, “(f)(2)(A)(ii)”)
+(c) 
+Rev. Rul. (RR),  
+Rev. Proc. (RP),  
+etc.
+(d) 
+Regulation Section 
+(for example, “1.482-7”)
+Regulation Subsection 
+(for example, “(d)(1)(iii)”)
+(e)  
+Timing 
+Codes 
+(check if 
+Permanent, 
+Temporary, 
+or both)
+(f) 
+Pass-Through 
+Entity  
+EIN
+(g) 
+Major 
+Tax  
+Position
+(h) 
+Ranking 
+of Tax 
+Position
+(i) 
+Form or 
+Schedule
+(j) 
+Line  
+No.
+(k) 
+Amount
+     
+     
+     
+     
+    
+     
+     
+     
+     
+     
+     
+    
+    
+    
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+C
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+For Paperwork Reduction Act Notice, see the Instructions for Form 1120.
+Cat. No. 54658Q
+Schedule UTP (Form 1120) (Rev. 12-2022)
+Schedule UTP (Form 1120) (Rev. 12-2022)
+Page 2 
+Name of entity as shown on page 1 of tax return
+EIN of entity
+This Part II, Schedule UTP (Form 1120), is page  
+of
+Part II pages.
+Part II
+Uncertain Tax Positions for Prior Tax Years See instructions for how to complete columns (a) through (l). 
+Enter, in Part III, a description for each uncertain tax position (UTP). 
+Check this box if the corporation was unable to obtain information from related parties sufficient to determine whether a tax position is a UTP. See instructions .
+.
+(a) 
+UTP No.
+(b) 
+Primary IRC Sections 
+(for example, “61,” “108,” “263A”)
+Primary IRC Subsections 
+(for example, “(f)(2)(A)(ii)”)
+(c) 
+Rev. Rul. (RR),  
+Rev. Proc. (RP),  
+etc.
+(d) 
+Regulation Section 
+(for example, “1.482-7”)
+Regulation Subsection 
+(for example, “(d)(1)(iii)”)
+(e)  
+Timing 
+Codes 
+(check if 
+Permanent, 
+Temporary, 
+or both)
+(f) 
+Pass-Through 
+Entity  
+EIN
+(g) 
+Major 
+Tax  
+Position
+(h) 
+Ranking 
+of Tax 
+Position
+(i) 
+Form or 
+Schedule
+(j) 
+Line  
+No.
+(k) 
+Amount
+(l) 
+Year of 
+Tax 
+Position
+     
+     
+     
+     
+    
+     
+     
+     
+     
+     
+     
+    
+    
+    
+     
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+P
+(    ) (    ) (    )(              ) (    ) (    ) (    )(              ) (    ) (    ) (    )(              )
+(    ) (    ) (    )(              )
+P
+T
+-
+Schedule UTP (Form 1120) (Rev. 12-2022)
+Schedule UTP (Form 1120) (Rev. 12-2022)
+Page 3 
+Name of entity as shown on page 1 of tax return
+EIN of entity
+This Part III, Schedule UTP (Form 1120), is page 
+of
+Part III pages.
+Part III
+Concise Descriptions of UTPs
+Indicate the corresponding UTP number from Part I, column (a) (for example, C1), or Part II, column (a) (for example, P2). 
+Use as many Part III pages as necessary. See instructions.
+UTP No.
+Concise Description of Uncertain Tax Position
+Schedule UTP (Form 1120) (Rev. 12-2022)

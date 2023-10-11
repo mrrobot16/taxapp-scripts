@@ -1,0 +1,19 @@
+Form 5884 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Work Opportunity Credit. This credit is available to employers who hire individuals from targeted groups, such as those who have faced barriers to employment. 
+
+The form consists of six sections:
+
+1. The taxpayer is required to enter the total qualified first- or second-year wages paid or incurred during the tax year for employees who are certified members of a targeted group. The form provides different percentages to multiply these wages based on the specific group the employee belongs to.
+
+2. The taxpayer must add up the amounts from the previous section and make adjustments to their deduction for salaries and wages.
+
+3. If the taxpayer received the work opportunity credit from partnerships, S corporations, cooperatives, estates, or trusts, they need to report it in this section.
+
+4. The taxpayer adds the amounts from sections 2 and 3. Depending on the type of entity, they may need to report this amount on Schedule K or Form 3800, Part III, line 4b.
+
+5. This section is specifically for cooperatives, estates, and trusts. The taxpayer needs to allocate the amount from line 4 to the patrons of the cooperative or beneficiaries of the estate or trust.
+
+6. For cooperatives, estates, and trusts, the taxpayer subtracts the amount from line 5 and reports it on Form 3800, Part III, line 4b.
+
+The form includes a reference to the IRS website for instructions and the latest information. It also provides space for the taxpayer's name and identifying number.
+
+This summary provides an overview of the form but does not include all the details and instructions. Taxpayers should refer to the official instructions provided by the IRS for complete guidance on how to fill out and file Form 5884.

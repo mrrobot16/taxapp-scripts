@@ -1,0 +1,291 @@
+Form  8974:
+(Rev. March 2023)
+Qualified Small Business Payroll Tax Credit for Increasing Research Activities
+Department of the Treasury — Internal Revenue Service
+OMB No. 1545-0029
+950823
+Employer identification 
+number (EIN)
+—
+Name 
+(not your trade name)
+The credit from Part 2, line 12 or, if applicable, 
+line 17, will be reported on (check only one box):
+Form 941, 941-PR, or 941-SS
+Form 943 or 943-PR 
+Form 944 or 944(SP)
+Calendar year
+You must select a quarter if you file Form 941, 941-PR, or 941-SS.
+Report for this quarter...
+Check only one box.
+1: January, February, March
+2: April, May, June
+3: July, August, September
+4: October, November, December
+Part 1:
+Tell us about your income tax return.
+(a) 
+Ending date of 
+income tax period
+(b) 
+Income 
+tax return 
+filed that 
+included 
+Form 6765
+(c) 
+Date income tax 
+return was filed
+(d) 
+EIN used on 
+Form 6765
+(e) 
+Amount from 
+Form 6765, line 44, 
+or if applicable, the 
+amount that was 
+allocated to your EIN 
+(f) 
+Amount of credit  
+from column (e)  
+taken on a 
+previous period(s)  
+(g) 
+Remaining credit 
+(subtract column (f) 
+from column (e))  
+1
+/ 
+/ 
+/ 
+/ 
+.
+.
+.
+2
+/ 
+/ 
+/ 
+/ 
+.
+.
+.
+3
+/ 
+/ 
+/ 
+/ 
+.
+.
+.
+4
+/ 
+/ 
+/ 
+/ 
+.
+.
+.
+5
+/ 
+/ 
+/ 
+/ 
+.
+.
+.
+6
+Add lines 1(g) through 5(g) and enter the total here 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part 2:
+Determine the credit that you can use this period.
+7
+Enter the amount from Part 1, line 6(g) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+.
+8 
+ 
+Enter the amount from Form 941 (941-PR or 941-SS), 
+line 5a, column 2; Form 943 (943-PR), line 3; or Form 
+944 (944(SP)), line 4a, column 2 .
+.
+.
+.
+.
+.
+.
+.
+8
+.
+9 
+Enter the amount from Form 941 (941-PR or 941-SS), line 
+5b, column 2; or Form 944 (944(SP)), line 4b, column 2  
+9
+.
+10
+Add lines 8 and 9 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+.
+11
+Multiply line 10 by 50% (0.50). Check this box 
+if you’re a third-party payer of sick pay or
+check this box
+if you received a Section 3121(q) Notice and Demand. See the instructions
+before completing line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+.
+12 
+ 
+ 
+ 
+Credit against the employer share of social security tax. Enter the smaller of line 7 or 
+11, but not more than $250,000. See the instructions before entering an amount if you file
+Form 943 or Form 944. If you entered the amount from line 7, stop here and also enter this
+amount on Form 941 (941-PR or 941-SS), line 11a; Form 943 (943-PR), line 12a; or Form
+944 (944(SP)), line 8a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+.
+13
+Subtract line 12 from line 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+.
+14 
+ 
+Enter the amount from Form 941 (941-PR or 941-SS), 
+line 5c, column 2; Form 943 (943-PR), line 5; or Form 
+944 (944(SP)), line 4c, column 2 .
+.
+.
+.
+.
+.
+.
+.
+14
+.
+15 
+ 
+Multiply line 14 by 50% (0.50). If you’re a third-party payer 
+of sick pay or you received a Section 3121(q) Notice and 
+Demand, see the instructions before completing line 15 15
+.
+16
+Credit against the employer share of Medicare tax. Enter the smaller of line 13 or 15 .
+16
+.
+17 
+Total credit. Add lines 12 and 16. Also, enter this amount on Form 941 (941-PR or 941-SS), 
+line 11a; Form 943 (943-PR), line 12a; or Form 944 (944(SP)), line 8a .
+.
+.
+.
+.
+.
+.
+.
+17
+.
+For Paperwork Reduction Act Notice, see the separate instructions.
+www.irs.gov/Form8974
+Cat. No. 37797C
+Form 8974 (Rev. 3-2023)

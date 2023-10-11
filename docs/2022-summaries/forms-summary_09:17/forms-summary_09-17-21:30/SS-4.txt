@@ -1,0 +1,11 @@
+Form SS-4 is an application form used to obtain an Employer Identification Number (EIN) from the Internal Revenue Service (IRS) in the United States. The EIN is a unique nine-digit number assigned to entities such as employers, corporations, partnerships, trusts, estates, churches, government agencies, Indian tribal entities, and certain individuals for tax purposes.
+
+The form requires the applicant to provide information such as the legal name of the entity or individual, trade name of the business (if applicable), mailing address, street address (if different), county and state where the principal business is located, name of the responsible party, and their Social Security Number (SSN), Individual Taxpayer Identification Number (ITIN), or EIN.
+
+The form also includes questions regarding the type of entity, whether it is a limited liability company (LLC), and if so, the number of LLC members and whether the LLC was organized in the United States. The applicant must also indicate the type of entity (e.g., sole proprietor, partnership, corporation, trust, etc.), the reason for applying (e.g., starting a new business, hiring employees, changing type of organization, etc.), and provide details about the principal activity of the business.
+
+The form includes a section for a third-party designee, if the applicant wants to authorize someone else to receive the EIN and answer questions about the form. The applicant must sign the form under penalties of perjury, declaring that the information provided is true, correct, and complete.
+
+The second page of the form provides guidance on whether an EIN is required based on the applicant's specific circumstances, such as starting a new business, hiring employees, opening a bank account, changing the type of organization, purchasing a going business, creating a trust or pension plan, complying with IRS withholding regulations, administering an estate, or serving as a withholding agent for taxes on nonwage income paid to an alien.
+
+Overall, Form SS-4 is a comprehensive application form that individuals and entities can use to obtain an EIN from the IRS for various tax-related purposes.

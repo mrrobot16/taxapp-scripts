@@ -1,0 +1,477 @@
+SCHEDULE S 
+(Form 1120-F)
+(Rev. December 2022)
+Exclusion of Income From the International 
+Operation of Ships or Aircraft Under Section 883
+Department of the Treasury 
+Internal Revenue Service
+Attach to Form 1120-F. 
+Go to www.irs.gov/Form1120F for instructions and the latest information.
+OMB No. 1545-0123
+Name of corporation
+Employer identification number
+Part I
+Qualified Foreign Corporation
+1a
+Enter the name of the qualified foreign country in which the foreign corporation was organized:
+b 
+ 
+Check one (and only one) of the following boxes to indicate the type of equivalent exemption granted by the foreign country 
+listed on line 1a above.
+Domestic law
+Exchange of notes
+Income tax convention
+c
+Enter the applicable authority of the equivalent exemption type indicated on line 1b (see instructions):
+2
+Enter the gross income in each of the following categories of qualified income for which the exemption is being claimed.
+Note: If an amount is not readily determinable, enter a reasonable estimate. If an estimate is used on any of the lines below, 
+check here 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+a
+Income from the carriage of passengers and cargo
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b
+Time or voyage (full) charter income of a ship or wet lease income of an aircraft .
+.
+.
+.
+.
+.
+.
+.
+2b
+c
+Bareboat charter income of a ship or dry lease income of an aircraft
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+d
+Incidental bareboat charter income of a ship or incidental dry lease income of an aircraft .
+.
+.
+.
+.
+2d
+e
+Incidental container-related income
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2e
+f 
+ 
+Income incidental to the international operation of ships or aircraft other than incidental income
+included on lines 2d and 2e above.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2f
+g 
+  
+  
+ 
+Capital gains derived by a qualified foreign corporation engaged in the international operation of ships 
+or aircraft from the sale, exchange or other disposition of a ship, aircraft, container or related
+equipment or other moveable property used by that qualified foreign corporation in the international
+operation of ships or aircraft .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2g
+h 
+  
+ 
+Income from participation in a pool, partnership, strategic alliance, joint operating agreement, 
+code-sharing arrangement, international operating agency, or other joint venture described in
+Regulations section 1.883-1(e)(2)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2h
+Stock ownership test of Regulations section 1.883-1(c)(2):
+3 
+ 
+Check one (and only one) of the following boxes to indicate the test under which the stock ownership test of Regulations
+section 1.883-1(c)(2) was satisfied.
+The publicly-traded test of Regulations section 1.883-2(a). Complete Part II.
+The CFC stock ownership test of Regulations section 1.883-3(a). Complete Part III.
+The qualified shareholder stock ownership test of Regulations section 1.883-4(a). Complete Part IV.
+4 
+ 
+Check the box if any of the shares of the foreign corporation’s stock or the stock of any direct, indirect, or constructive 
+shareholder are issued in bearer form 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+If the box on line 4 is checked:
+a 
+ 
+Check the box on this line 5a if none of the bearer shares (other than bearer shares maintained in a dematerialized or 
+immobilized book-entry system) were relied on to satisfy any of the stock ownership tests described in Regulations section
+1.883-1(c)(2) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Check the box on this line 5b if any of the bearer shares were maintained in a dematerialized or immobilized book-entry system
+and were relied on to satisfy any of the stock ownership tests described in Regulations section 1.883-1(c)(2) .
+.
+.
+.
+.
+Part II
+Stock Ownership Test for Publicly-Traded Corporations
+6
+Enter the name of the country in which the stock is primarily traded:
+7
+Enter the name of the securities market(s) on which the stock is listed:
+8 
+ 
+Enter a description of each class of stock relied on to meet the “regularly traded test” of Regulations section 1.883-2(d) (see 
+instructions for description requirements):
+9 
+ 
+Do one or more 5% shareholders (see instructions for definition) own in the aggregate 50% or moreof the vote and value of the
+outstanding shares of any class of stock for more than half the number of days during the tax year? .
+.
+.
+Yes
+No
+If “Yes,” complete line 10.
+If “No,” skip line 10.
+For Paperwork Reduction Act Notice, see the Instructions for Form 1120-F.
+Cat. No. 50766D
+Schedule S (Form 1120-F) (Rev. 12-2022)
+Schedule S (Form 1120-F) (Rev. 12-2022)
+Page 2 
+10
+For each class of stock relied on to meet the “regularly traded test” of Regulations section 1.883-2(d), indicate:
+a 
+ 
+(i) 
+ 
+The number of days during the tax year of the corporation in which the class of stock was closely held, without regard to 
+the exception in Regulations section 1.883-2(d)(3)(ii):
+(ii) The total percentage of the vote and value of the class of stock that was owned by 5% shareholders during such days:
+%
+b 
+  
+ 
+For all qualified shareholders on which the corporation intends to rely to satisfy the closely-held exception test of
+Regulations section 1.883-2(d)(3)(ii), and who own stock in the closely-held block (directly, indirectly, or by applying the
+attribution rules of Regulations section 1.883-4(c)), enter:
+(i) The total number of qualified shareholders, as defined in Regulations section 1.883-4(b)(1):
+(ii) 
+ 
+The total percentage of the value of the shares of the class of stock in the closely-held block of stock owned, directly or 
+indirectly, by such qualified shareholders by country of residence (see instructions):
+Country code (see instructions)
+Percentage
+(iii) 
+ 
+The number of days during the tax year of the corporation that such qualified shareholders owned, directly or indirectly, 
+their shares in the closely-held block of stock:
+Part III
+Stock Ownership Test for Controlled Foreign Corporations (CFC)
+11 
+ 
+ 
+a 
+ 
+Enter the percentage of the value of all outstanding shares of the CFC that is owned by all “qualified U.S. persons” identified in
+the qualified ownership statements required under Regulations section 1.883-3(c)(2), applying the attribution of ownership rules
+of Regulations section 1.883-3(b)(4):
+%
+b Enter the percentage of the value of all outstanding shares of the CFC that is owned by the “qualified U.S. persons” referred to 
+on line 11a above as bearer shares maintained in a dematerialized or immobilized book-entry system:
+%
+12
+Enter the period during which such qualified U.S. persons held such stock (see instructions):
+13
+Enter the period during which the foreign corporation was a CFC (see instructions):
+14
+Is the CFC directly held by qualified U.S. persons?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Part IV
+Qualified Shareholder Stock Ownership Test
+15 
+ 
+ 
+Check the box if more than 50% of the value of the outstanding shares of the corporation is owned (or treated as owned by
+reason of Regulations section 1.883-4(c)) by qualified shareholders for each category of income for which the exemption is 
+claimed
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+With respect to all qualified shareholders relied on to satisfy the 50% ownership test of Regulations section 1.883-4(a):
+a
+Enter the total number of such qualified shareholders as defined in Regulations section 1.883-4(b)(1):
+b 
+ 
+Enter the total percentage of the value of the outstanding shares owned, applying the attribution rules of Regulations section
+1.883-4(c), by such qualified shareholders by country of residence or organization, whichever is applicable.
+Country code (see instructions)
+Percentage
+Total
+c Enter the percentage of the value of the outstanding shares that is owned by the qualified shareholders as bearer shares 
+maintained in a dematerialized or immobilized book-entry system:
+%
+d
+Enter the number of days during the tax year of the foreign corporation that such stock was held by qualified shareholders:
+Schedule S (Form 1120-F) (Rev. 12-2022)

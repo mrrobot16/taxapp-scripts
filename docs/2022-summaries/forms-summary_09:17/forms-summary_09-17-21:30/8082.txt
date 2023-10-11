@@ -1,0 +1,9 @@
+Form 8082 is a notice form issued by the Internal Revenue Service (IRS) for taxpayers who need to report inconsistent treatment or request an administrative adjustment. This form is used by partners, S corporation shareholders, estate and domestic trust beneficiaries, foreign trust owners and beneficiaries, REMIC residual interest holders, tax matters partners (TMPs), and personal representatives (PRs).
+
+The form begins with general information, including checkboxes to indicate whether it is a notice of inconsistent treatment or an administrative adjustment request (AAR). It also asks for information regarding the revocation and appointment of a partnership representative, adjustments resulting in an imputed underpayment, election to have adjustments taken into account by reviewed year partners, and application of modifications to the imputed underpayment.
+
+Part II of the form requires the taxpayer to identify the type of pass-through entity they are associated with, provide the employer identification number of the entity, and provide the name, address, and ZIP code of the entity. The tax year of the pass-through entity and the taxpayer's own tax year are also requested.
+
+Part III of the form allows the taxpayer to provide explanations for the inconsistent treatment or administrative adjustment request. It also provides space to show how the imputed underpayment was calculated and how modifications were applied.
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8082.

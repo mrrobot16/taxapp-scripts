@@ -1,0 +1,9 @@
+Form 8801 is a document issued by the Internal Revenue Service (IRS) for individuals, estates, and trusts to claim a credit for prior year minimum tax. The form is to be attached to Form 1040, 1040-SR, 1040-NR, or 1041. 
+
+The form contains several sections and lines for entering various amounts and calculations. Part I of the form focuses on the net minimum tax on exclusion items, including adjustments, preferences treated as exclusion items, and the minimum tax credit net operating loss deduction. 
+
+Part II of the form deals with the minimum tax credit and carryforward to the following year (2023). It involves calculations based on the taxpayer's regular income tax liability, unallowed qualified electric vehicle credit, and the credit carryforward from the previous year.
+
+Part III of the form is optional and is used for tax computation using maximum capital gains rates. It includes calculations related to qualified dividends, capital gain distributions, and the foreign earned income tax worksheet.
+
+The form provides instructions and guidelines for each section and line. It is important for taxpayers to consult the latest information and instructions available on the IRS website (www.irs.gov/Form8801) when completing the form.

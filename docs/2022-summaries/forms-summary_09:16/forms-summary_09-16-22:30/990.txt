@@ -1,0 +1,27 @@
+Form 990 is a tax form for organizations exempt from income tax under section 501(c), 527, or 4947(a)(1) of the Internal Revenue Code. It is used to report financial information, activities, and governance of the organization. The form consists of several parts:
+
+Part I: Summary - Provides general information about the organization, including its mission, number of governing body members, and financial information.
+
+Part II: Signature Block - Requires a declaration by an officer of the organization that the form is true, correct, and complete.
+
+Part III: Statement of Program Service Accomplishments - Describes the organization's mission and program services, including any changes or new services.
+
+Part IV: Checklist of Required Schedules - Lists the required schedules that the organization must complete based on its activities.
+
+Part V: Statements Regarding Other IRS Filings and Tax Compliance - Asks for information about other tax filings and compliance with certain tax rules.
+
+Part VI: Governance, Management, and Disclosure - Asks about the organization's governing body, policies, and disclosure practices.
+
+Part VII: Compensation of Officers, Directors, Trustees, Key Employees, and Highest Compensated Employees - Requires reporting of compensation for key individuals associated with the organization.
+
+Part VIII: Statement of Revenue - Reports the organization's revenue, including contributions, program service revenue, and investment income.
+
+Part IX: Statement of Functional Expenses - Reports the organization's expenses by category, including program service expenses, management and general expenses, and fundraising expenses.
+
+Part X: Balance Sheet - Reports the organization's assets, liabilities, and net assets or fund balances at the beginning and end of the year.
+
+Part XI: Reconciliation of Net Assets - Reconciles the organization's revenue, expenses, and changes in net assets or fund balances.
+
+Part XII: Financial Statements and Reporting - Asks about the organization's accounting method, use of independent accountants, and audits.
+
+The form also includes schedules and instructions for completing the various parts. Organizations must provide accurate and complete information on Form 990 to fulfill their tax reporting obligations.

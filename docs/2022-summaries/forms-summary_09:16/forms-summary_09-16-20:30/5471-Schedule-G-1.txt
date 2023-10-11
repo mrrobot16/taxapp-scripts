@@ -1,0 +1,15 @@
+Schedule G-1 is a form that must be attached to Form 5471 when filing taxes. It is used to report information related to a cost sharing arrangement (CSA) in which a foreign corporation was a participant during the tax year. 
+
+The form requires the filer to provide a brief description of the CSA and indicate whether the foreign corporation became a participant in the CSA during the tax year. It also asks if the CSA was in effect before January 5, 2009. 
+
+The form then asks for the foreign corporation's share of reasonably anticipated benefits for the CSA during the tax year. This information should be reported in U.S. dollars. 
+
+Next, the form asks if a U.S. taxpayer made any platform contributions to the CSA during the tax year. If yes, the present value of the platform contributions should be reported in U.S. dollars. The form also provides options to indicate the method used to determine the price of the platform contribution transaction(s). 
+
+The form also asks for information related to stock-based compensation deductions. The filer should enter the total amount of stock-based compensation deductions claimed for the tax year and the total amount of deductions for stock-based compensation granted during the term of the CSA that is directly identified with, or reasonably allocable to, the intangible development activity under the CSA. 
+
+Additionally, the form asks if there was any stock-based compensation granted during the term of the CSA to individuals who performed functions in business activities that generate cost shared intangibles but were not treated as directly identified with, or reasonably allocable to, the intangible development activity. 
+
+Lastly, the form asks for the total amount of intangible development costs for the CSA and the amount of intangible development costs allocable to the foreign corporation based on its reasonably anticipated benefits share. 
+
+It is important to note that all amounts should be reported in U.S. dollars. The form provides a reference ID number and directs filers to visit the IRS website for instructions and the latest information.

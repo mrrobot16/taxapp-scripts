@@ -1,0 +1,17 @@
+Form 1065-X is a document issued by the Internal Revenue Service (IRS) for partnerships and electing large partnerships (ELPs) to file an amended return or administrative adjustment request (AAR). It is used by filers of Forms 1065, 1065-B, and 1066. The form includes various sections and parts for different types of partnerships and tax years.
+
+The form begins with basic information such as the name, employer identification number (EIN), address, and telephone number of the partnership. It also asks for the name and address used on the original return and the IRS center where the original return was filed.
+
+Part I of the form asks the partnership to check the appropriate box based on the tax year and type of partnership. It provides different sections for partnerships subject to the Tax Equity and Fiscal Responsibility Act (TEFRA), partnerships subject to the Bipartisan Budget Act (BBA), and partnerships filing amended returns related to the modification of another partnership's imputed underpayment.
+
+Part II of the form is for partnerships filing Form 1065 only and includes sections for reporting amended or AAR items related to income (loss), self-employment deductions, credits, foreign transactions, alternative minimum tax (AMT) items, and other information.
+
+Part III of the form is specifically for ELPs and Real Estate Mortgage Investment Conduits (REMICs) and includes sections for reporting amended or AAR items related to tax and payments.
+
+Part IV of the form is for reporting the imputed underpayment under the Centralized Partnership Audit Regime.
+
+The form also includes a signature section where the current partnership representative or designated individual must sign under penalties of perjury, declaring the accuracy of the amended return or AAR.
+
+Part V of the form provides space for explanations of the changes made in the amended return or AAR, including the line numbers, reasons for the changes, and any computations or modifications applied.
+
+Overall, Form 1065-X is a comprehensive document that partnerships and ELPs use to file amended returns or AARs with the IRS, providing detailed information about the changes made and the reasons behind them.

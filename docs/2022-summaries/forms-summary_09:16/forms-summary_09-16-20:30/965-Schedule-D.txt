@@ -1,0 +1,11 @@
+Schedule D (Form 965) is a document that must be attached to Form 965 when filing taxes with the Internal Revenue Service (IRS) in the United States. It is used to report the U.S. shareholders' aggregate foreign cash position.
+
+The form requires the name and identifying information of the person filing the return, as well as the name and identifying information of the specified foreign corporation. It also asks for various cash positions at the close of the last taxable year prior to the year referenced in column (d).
+
+The form provides several columns to enter the cash positions, pro rata shares, and totals. It also instructs taxpayers to enter the amounts in U.S. dollars.
+
+The form includes instructions to visit the IRS website for more information and the latest updates. It also mentions the Privacy Act and Paperwork Reduction Act Notice.
+
+Page 2 of the form includes additional calculations, such as combining totals and dividing by two to determine the aggregate foreign cash position. The form also requires the taxpayer to enter the aggregate foreign cash position taken into account on the 2017 and 2018 tax returns.
+
+Overall, Schedule D (Form 965) is a necessary document for U.S. taxpayers to report their aggregate foreign cash position when filing taxes with the IRS.

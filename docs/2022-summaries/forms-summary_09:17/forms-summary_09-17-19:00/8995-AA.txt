@@ -1,0 +1,17 @@
+Schedule A (Form 8995-A) is a document provided by the Department of the Treasury and the Internal Revenue Service (IRS) for taxpayers to report their specified service trades or businesses. This form should be attached to Form 8995-A. 
+
+Taxpayers should only complete Schedule A if their trade or business falls under the category of a specified service trade or business and their taxable income is more than $170,050 but not more than $220,050 ($340,100 and $440,100 if married filing jointly). If the taxable income is not more than $170,050 ($340,100 if married filing jointly) and the taxpayer is not a patron of an agricultural or horticultural cooperative, they should not file this form. Instead, they should file Form 8995, which is the Qualified Business Income Deduction Simplified Computation.
+
+Before starting Schedule A, taxpayers should complete Schedule D (Form 8995-A) if applicable. If the taxable income is more than $220,050 ($440,100 if married filing jointly), the specified service trade or business does not qualify for the deduction.
+
+If a taxpayer has more than three trades or businesses, they should attach as many Schedules A as needed.
+
+Schedule A consists of two parts: Part I for other than publicly traded partnerships (PTP) and Part II for publicly traded partnerships.
+
+In Part I, taxpayers need to provide the trade or business name, taxpayer identification number, qualified business income or loss from the trade or business, allocable share of W-2 wages from the trade or business, allocable share of the unadjusted basis immediately after acquisition (UBIA) of all qualified property, and taxable income before the qualified business income deduction. They also need to calculate the threshold, subtract it from the taxable income, calculate the phase-in range, divide the difference by the phase-in range, calculate the applicable percentage, and multiply it by the qualified business income or loss, W-2 wages, and UBIA of qualified property.
+
+Part II is for publicly traded partnerships. Taxpayers need to provide the trade or business name, taxpayer identification number, qualified PTP income or loss, total PTP specified service trade or business income or loss, taxable income before the qualified business income deduction, threshold, subtract the threshold from the taxable income, calculate the phase-in range, divide the difference by the phase-in range, calculate the applicable percentage, and multiply it by the qualified PTP income or loss.
+
+The form also includes sections for taxpayers to enter the calculated amounts on other related forms.
+
+This summary provides an overview of the information and calculations required in Schedule A (Form 8995-A) for reporting specified service trades or businesses. For detailed instructions and the latest information, taxpayers should refer to the official instructions provided by the IRS on their website.

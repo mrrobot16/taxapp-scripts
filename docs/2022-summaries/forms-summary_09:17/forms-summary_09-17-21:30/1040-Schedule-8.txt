@@ -1,0 +1,11 @@
+Schedule 8812 is a form used to calculate and claim the Child Tax Credit and Credit for Other Dependents on your federal tax return. It is attached to Form 1040, 1040-SR, or 1040-NR. 
+
+The form consists of three parts: Part I, Part II-A, and Part II-B/C. 
+
+In Part I, you enter various amounts from your tax return, such as income excluded from Puerto Rico, amounts from Form 2555 and Form 4563, and calculate the total. You then determine the number of qualifying children under age 17 with the required social security number and multiply it by $2,000. You also determine the number of other dependents and multiply it by $500. The amounts from these calculations are added together to get a subtotal. 
+
+In Part II-A, you have the option to claim the Additional Child Tax Credit. If you choose not to claim it, you skip this part and enter -0- on line 27. If you do claim it, you subtract the subtotal from Part I from the amount on line 12 and enter the result. You then calculate the additional child tax credit based on the number of qualifying children and certain income criteria. 
+
+In Part II-B/C, certain filers who have three or more qualifying children and are bona fide residents of Puerto Rico have additional calculations to determine their additional child tax credit. This part involves entering withheld social security, Medicare, and Additional Medicare taxes, as well as amounts from other parts of the tax return, and subtracting them to get a final amount for the additional child tax credit. 
+
+The final amounts calculated in Part II-A and Part II-B/C are entered on line 27, which is then transferred to Form 1040, 1040-SR, or 1040-NR, line 28.

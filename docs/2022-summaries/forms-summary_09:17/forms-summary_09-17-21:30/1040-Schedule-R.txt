@@ -1,0 +1,21 @@
+Schedule R (Form 1040) is a document used to claim the Credit for the Elderly or the Disabled on your tax return. This credit can help reduce your tax liability if you meet certain criteria.
+
+To be eligible for the credit, you must meet one of two conditions by the end of the tax year: either be age 65 or older, or be under age 65 and retired on permanent and total disability with taxable disability income. There are also other tests that must be met, which can be found in the instructions.
+
+The IRS can usually calculate the credit for you, but if you need to do it yourself, the form provides instructions on how to do so.
+
+Part I of the form asks you to check the box for your filing status and age. Depending on your filing status and age, you will check a specific box.
+
+If you checked box 1, 3, 7, or 8 in Part I, you can skip Part II and complete Part III on the back of the form. Otherwise, you must complete Parts II and III.
+
+Part II is a statement of permanent and total disability. It is only completed if you checked box 2, 4, 5, 6, or 9 in Part I. If you meet certain conditions regarding disability and substantial gainful activity, you may not need to provide another statement for the current tax year.
+
+Part III is where you calculate your credit. Depending on the box you checked in Part I, you will enter a specific amount on line 10. If you checked box 2, 4, 5, 6, or 9, you must also complete line 11. Line 12 is the smaller of line 10 or line 11, or the amount from line 10 for all others.
+
+Line 13 is where you enter any pensions, annuities, or disability income you received in the tax year. Line 14 is the amount from your tax return's line 11. Line 15 is a specific amount based on the box you checked in Part I. Line 16 is the difference between line 14 and line 15.
+
+Line 17 is one-half of line 16, and line 18 is the sum of lines 13c and 17. Line 19 is the difference between line 12 and line 18. If this amount is zero or less, you are not eligible for the credit.
+
+Line 20 is the result of multiplying line 19 by 15% (0.15). Line 21 is the tax liability limit, which is obtained from the Credit Limit Worksheet in the instructions. Finally, line 22 is the smaller of line 20 or line 21, and this amount should also be entered on Schedule 3 (Form 1040), line 6d.
+
+Overall, Schedule R helps individuals determine if they qualify for the Credit for the Elderly or the Disabled and calculate the amount of the credit they can claim.

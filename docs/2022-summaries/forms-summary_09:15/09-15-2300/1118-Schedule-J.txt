@@ -1,0 +1,13 @@
+Schedule J (Form 1118) is a document used for making adjustments to separate limitation income (loss) categories in order to determine the numerators of limitation fractions, year-end recharacterization balances, and overall foreign and domestic loss account balances. 
+
+The form is divided into four parts. 
+
+Part I involves adjustments to separate limitation income or losses in determining the numerators of limitation fractions. It includes various categories of income or losses, such as Section 951A income, foreign branch income, passive category income, general category income, and other income. The form requires the calculation of income or loss before adjustments and the allocation of separate limitation losses. 
+
+Part II deals with year-end balances of future separate limitation income that must be recharacterized. It includes the same categories of income as Part I and requires the calculation of balances that need to be recharacterized. 
+
+Part III focuses on overall foreign loss account balances. It requires the calculation of beginning balances, current year additions, current year reductions, and ending balances for each separate limitation income category. 
+
+Part IV pertains to overall domestic loss account balances. It requires the calculation of beginning balances, current year additions, current year reductions, current year recapture, and ending balances. 
+
+The form provides spaces for entering the necessary calculations and balances for each part. It is important to refer to the instructions and computer-generated schedule J for further guidance.

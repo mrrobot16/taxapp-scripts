@@ -1,0 +1,879 @@
+SCHEDULE H 
+(Form 1120-F)
+Department of the Treasury  
+Internal Revenue Service 
+Deductions Allocated to Effectively Connected 
+Income Under Regulations Section 1.861-8
+Attach to Form 1120-F. 
+Go to www.irs.gov/Form1120F for instructions and the latest information.
+OMB No. 1545-0123
+2022
+Name of corporation
+Employer identification number
+Part I
+Home Office Deductible Expenses Definitely Related Solely to ECI or Non-ECI
+Note: Enter all amounts on lines 1a through 13 in only U.S. dollars or in only functional currency. If U.S. dollars, check box 
+Otherwise, specify currency:
+. 
+1a
+Total expenses on the books of the home office .
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+1a
+b Check the applicable box below to indicate the accounting convention used to 
+compute the amount on line 1a:
+U.S. GAAP
+Home Country GAAP
+IFRS
+Other (specify):
+ 2
+Adjustments for U.S. tax principles (attach statement – see instructions) .
+.  
+2
+ 3
+Total deductible expenses on the books of the home office. Combine lines 1a and 2 .
+.
+.
+.
+.
+.  
+3
+ 4
+Interest expense included on line 3
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+4
+ 5
+Bad debt expense included on line 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+5
+ 6
+Total of interest expense and bad debt expense. Add lines 4 and 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+6
+7
+Remaining deductible expenses to be allocated and apportioned between ECI and non-ECI. Subtract line 6 from line 3 
+7
+8
+Deductible expenses definitely related solely to non-ECI from subsidiaries .
+.  
+8
+9
+Deductible expenses definitely related solely to other non-ECI booked in the home country
+9
+10 
+Deductible expenses definitely related solely to other non-ECI booked in other 
+countries (including the United States) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+10
+11
+Deductible expenses definitely related solely to ECI .
+.
+.
+.
+.
+.
+.
+.
+.  
+11
+ 12
+Total deductible expenses definitely related solely to ECI or non-ECI. Add lines 8 through 11 .
+.
+.
+12
+Part II
+Home Office Deductible Expenses Allocated and Apportioned to ECI
+Note: Enter the amounts on lines 15 through 20 in U.S. dollars.
+13 
+Remaining deductible expenses on the books of the home office not definitely related solely to ECI or 
+non-ECI. Subtract line 12 from line 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Average exchange rate used to convert amounts to U.S. dollars (see instructions) .
+.
+.
+.
+.
+.
+.
+14
+15
+Enter the amount from line 13. If line 13 is stated in functional currency, divide line 13 by line 14 .
+.  
+15
+16 
+Remaining home office deductible expenses on line 15 allocated and apportioned under Regulations
+section 1.861-8 to ECI (attach computation)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+16
+17
+Enter the amount from line 11. If line 11 is stated in functional currency, divide line 11 by line 14 .
+.
+17
+18
+Total home office deductible expenses allocated and apportioned to ECI. Add lines 16 and 17 .
+.
+.  
+18
+19
+Total deductible expenses from other non-U.S. locations allocated and apportioned to ECI .
+.
+.
+.  
+19
+20 
+Total deductible expenses allocated and apportioned to ECI.  Add lines 18 and 19 and enter the
+amount here and on Form 1120-F, Section II, line 26 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+Part III
+Allocation and Apportionment Methods and Financial Records Used to Complete Parts I and II
+Note: Enter the amounts in Part III, lines 21a, 21b, 22a, and 22b in U.S. dollars.
+• If one or more methods used are different than in prior year, check box .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+• If any amount on line 20 is recorded as an interbranch amount on books and records used to prepare Form 1120-F, Schedule 
+L, include the amount on Part IV, line 35 and check this box 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+Gross income ratio:
+a
+Gross ECI .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21a
+b
+Worldwide gross income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21b
+c
+Divide line 21a by line 21b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+21c
+%
+22
+Asset ratio:
+a
+Average U.S. assets from Schedule I, line 5, column (d) 
+.
+.
+.
+.
+.
+.
+.
+22a
+b
+Worldwide assets (if applicable, from Schedule I, line 6b) .
+.
+.
+.
+.
+.
+.  
+22b
+c
+Divide line 22a by line 22b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+22c
+%
+23
+Number of personnel ratio:
+a
+Personnel of U.S. trade or business .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+23a
+b
+Worldwide personnel .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23b
+c
+Divide line 23a by line 23b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+23c
+%
+24 
+Did the corporation use any ratio-based methods (other than those indicated on lines 21 through 23 above) in
+Parts I and II? If “Yes,” attach statement (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+25 
+Did the corporation use any other methods (e.g., time-spent analysis or estimates) in Parts I and II? If “Yes,”
+attach statement (see instructions).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+For Paperwork Reduction Act Notice, see the Instructions for Form 1120-F.
+Cat. No. 49679V
+Schedule H (Form 1120-F) 2022
+Schedule H (Form 1120-F) 2022
+Page 2 
+Part III
+Allocation and Apportionment Methods and Financial Records Used to Complete 
+Parts I and II (continued)
+Note: Indicate whether the corporation used any of the following financial and other records in Parts I and II 
+to identify deductible expenses allocated and apportioned to ECI.
+Yes
+No
+26a
+Published or other non-public audited financial statements 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+b
+Non-audited financial statements .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+27
+Home office management or other departmental cost accounting reports .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+28
+Other (e.g., home country regulatory reports or written, contemporaneous functional analyses) (attach statement)  
+Part IV
+Allocation and Apportionment of Expenses on Books and Records Used to Prepare Form 1120-F, Schedule L 
+Note: Enter all amounts in Part IV in U.S. dollars.
+29 
+Total expenses per books and records used to prepare Form 1120-F, 
+Schedule L 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29
+30
+Adjustments for U.S. tax principles (attach statement – see instructions) .
+.  
+30
+31
+Total deductible expenses. Combine lines 29 and 30 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+31
+32a
+Third-party interest expense included on line 31 .
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+32a
+b
+Interbranch interest expense included on line 31 .
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+32b
+33
+Bad debt expense included on line 31
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+33
+34 
+ 
+Other third-party deductible expenses not allocated or apportioned to ECI and 
+non-ECI under Regulations section 1.861-8 included on line 31 (attach
+statement).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+34
+35 
+Interbranch expenses per books and records included on line 31 and not 
+included on line 32b (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+35
+36
+Add lines 32a through 35 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+36
+37 
+Deductible expenses on books and records allocated and apportioned to ECI or non-ECI under 
+Regulations section 1.861-8. Subtract line 36 from line 31 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+37
+Reconciliation of allocation and apportionment of deductible 
+expenses to ECI and non-ECI on books and records under 
+Regulations section 1.861-8 (from line 37)
+(a) 
+ECI Amounts
+(b) 
+Non-ECI Amounts
+(c) 
+Total: Add columns 
+(a) and (b)
+38a Derivative transaction deductible expenses definitely related to ECI 
+or non-ECI under Regulations section 1.861-8 (from line 37)
+.
+.
+38a
+b Other deductible expenses definitely related to ECI or non-ECI 
+(from line 37) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+38b
+39 
+Total deductible expenses definitely related to ECI or non-ECI. 
+Add lines 38a and 38b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+39
+40 
+ 
+Other deductible expenses on books and records not definitely 
+related to ECI or non-ECI that are allocated and apportioned to 
+ECI and non-ECI (from line 37) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+40
+41 
+ 
+Total deductible expenses on books and records allocated and 
+apportioned to ECI and non-ECI. Add lines 39 and 40. Column (c) 
+must equal line 37 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+41
+Note: Line 41, column (a) is the total of the deductions reported on Form 1120-F, Section II, lines 12, 13, 14, 16, 17, 19 through
+24, and 27.
+Schedule H (Form 1120-F) 2022

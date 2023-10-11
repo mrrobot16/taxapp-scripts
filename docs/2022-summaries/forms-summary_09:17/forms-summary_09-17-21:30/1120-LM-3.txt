@@ -1,0 +1,20 @@
+Schedule M-3 (Form 1120-L) is a form provided by the Internal Revenue Service (IRS) for U.S. life insurance companies with total assets of $10 million or more. It is used to reconcile the net income (loss) reported on the company's income statement with the taxable income reported on their tax return.
+
+The form consists of three parts:
+
+Part I: Financial Information and Net Income (Loss) Reconciliation
+- This part requires the company to provide information about their income statement period, including whether they filed SEC Form 10-K, whether they prepared a certified audited non-tax-basis income statement, and whether they prepared a non-tax-basis income statement.
+- The company is also required to provide details about their worldwide consolidated net income (loss), net income (loss) from nonincludible foreign entities, net income (loss) from nonincludible U.S. entities, net income (loss) of other includible foreign disregarded entities, net income (loss) of other includible U.S. disregarded entities, net income (loss) of other includible corporations, and adjustments to reconcile income statement period to tax year.
+- The net income (loss) per income statement of includible corporations is calculated by combining the information from lines 4a through 10c.
+
+Part II: Reconciliation of Net Income (Loss) per Income Statement of Includible Corporations With Taxable Income per Return
+- This part requires the company to provide a reconciliation of income (loss) per income statement with taxable income per return.
+- The company is required to report various income (loss) items and indicate whether they are temporary differences or permanent differences.
+- The total income (loss) items are calculated by combining lines 1 through 25.
+
+Part III: Reconciliation of Net Income (Loss) per Income Statement of Includible Corporations With Taxable Income per Return - Expense/Deduction Items
+- This part requires the company to provide a reconciliation of expense per income statement with deduction per tax return.
+- The company is required to report various expense/deduction items and indicate whether they are temporary differences or permanent differences.
+- The total expense/deduction items are calculated by combining lines 1 through 39.
+
+The information provided on Schedule M-3 is used by the IRS to ensure that the company's reported net income (loss) is accurately reflected on their tax return. It helps identify any differences between the company's financial statements and their tax return, which may require further explanation or adjustment.

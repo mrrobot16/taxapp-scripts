@@ -1,0 +1,16 @@
+Form 8885 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Health Coverage Tax Credit (HCTC). This form is to be attached to Form 1040, 1040-SR, 1040-NR, 1040-SS, or 1040-PR. The form includes the following sections:
+
+Part I: Election To Take the Health Coverage Tax Credit
+- The taxpayer must check the box for the first month in their tax year that they elect to take the HCTC.
+- The taxpayer must meet several criteria, including being an eligible trade adjustment assistance recipient, having HCTC-qualified health insurance coverage, not being enrolled in certain other healthcare programs, not being imprisoned, and not having their employer pay 50% or more of the coverage cost.
+
+Part II: Health Coverage Tax Credit
+- The taxpayer must enter the total amount paid directly to their health plan for HCTC-qualified health insurance coverage for the months checked in Part I.
+- The taxpayer must also enter the total amount of any Archer MSA or health savings account distributions used to pay for HCTC-qualified health insurance coverage.
+- The difference between the amounts entered in lines 2 and 3 is calculated and entered on line 4.
+
+Line 5: Health Coverage Tax Credit
+- If the taxpayer received advance monthly payments or a reimbursement of the HCTC for any month not checked in Part I, they need to refer to the instructions for line 5.
+- Otherwise, the amount on line 4 is multiplied by 72.5% (0.725) and entered on Schedule 3 (Form 1040), line 13c; Form 1040-SS, line 10; or Form 1040-PR, line 10.
+
+The form also includes a caution that required documents must be attached for any amounts included on line 2, and a reference to the Paperwork Reduction Act Notice.

@@ -1,0 +1,11 @@
+Form 6765 is a tax form issued by the Internal Revenue Service (IRS) in the United States. It is used to claim the Credit for Increasing Research Activities. The form consists of several sections:
+
+Section A: Regular Credit - This section is to be completed if the taxpayer is electing or has previously elected the alternative simplified credit. It includes various lines to report amounts paid or incurred to energy consortia, basic research payments to qualified organizations, qualified organization base period amount, wages for qualified services, cost of supplies, rental or lease costs of computers, applicable percentage of contract research expenses, total qualified research expenses, fixed-base percentage, average annual gross receipts, and calculations to determine the credit amount.
+
+Section B: Alternative Simplified Credit - This section is to be completed if the taxpayer is not electing the alternative simplified credit. It includes similar lines as Section A to report amounts paid or incurred to energy consortia, basic research payments to qualified organizations, qualified organization base period amount, wages for qualified services, cost of supplies, rental or lease costs of computers, applicable percentage of contract research expenses, total qualified research expenses, and calculations to determine the credit amount.
+
+Section C: Current Year Credit - This section includes lines to report the portion of the credit attributable to wages used in calculating the credit in Section A or Section B, and the credit for increasing research activities from partnerships, S corporations, estates, and trusts.
+
+Section D: Qualified Small Business Payroll Tax Election and Payroll Tax Credit - This section is to be completed if the taxpayer is a qualified small business electing the payroll tax credit. It includes lines to check the box for electing the payroll tax credit, enter the portion of the credit elected as a payroll tax credit, and report the general business credit carryforward from the current year.
+
+The form also includes instructions for each section and various notes regarding the completion of the form.

@@ -1,0 +1,18 @@
+Schedule C (Form 1116) is a document used for reporting foreign tax redeterminations to the Internal Revenue Service (IRS). The form is divided into several parts.
+
+Part I: Increase in Amount of Foreign Taxes Accrued
+This section is used to report additional foreign taxes accrued by payors for each relation back year. It includes information such as the tax year, name of the payor, country or U.S. possession where the tax is paid, and the amount of additional tax accrued in local currency and U.S. dollars.
+
+Part II: Decrease in Amount of Foreign Taxes Paid or Accrued
+This section is used to report any decreases in the amount of foreign taxes paid or accrued. It includes information such as the tax year, name of the payor, country or U.S. possession from which the tax was refunded or deemed refunded, and the amount of tax refunded in local currency and U.S. dollars.
+
+Part III: Change in Foreign Taxes Paid or Accrued
+This section is used to report changes to the total amount of foreign taxes paid or accrued and the foreign tax credits claimed for each relation back year.
+
+Part IV: Change in U.S. Tax Liability
+This section is used to report changes in U.S. tax liability for each relation back year and other affected years.
+
+Part V: Annual Reporting for Contested Taxes (Not applicable for Tax Year 2022)
+Starting from the 2023 tax year, taxpayers will use this section to report information for each contested foreign tax liability for which they have previously made an election to claim a provisional foreign tax credit.
+
+Overall, Schedule C (Form 1116) is a detailed form used to report foreign tax redeterminations and changes in tax liability to the IRS.

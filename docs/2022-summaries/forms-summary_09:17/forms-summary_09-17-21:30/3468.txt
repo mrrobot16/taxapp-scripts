@@ -1,0 +1,11 @@
+Form 3468 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim various investment credits on their tax return. The form is divided into three parts: Part I, Part II, and Part III.
+
+Part I of the form is for taxpayers who are claiming the investment credit as a lessee based on a specific election. They are required to provide information about the lessor, address, description of the property, and the amount for which they were treated as having acquired the property.
+
+Part II of the form is for taxpayers claiming the qualifying advanced coal project credit, qualifying gasification project credit, qualifying advanced energy project credit, and advanced manufacturing investment credit. They are required to provide information about the qualified investments made in various types of projects and calculate the total amount.
+
+Part III of the form is for taxpayers claiming the rehabilitation credit and energy credit. They are required to provide information about the qualified rehabilitation expenditures and the basis of property using different types of energy sources, such as geothermal energy, solar energy, and fuel cell property. They also need to calculate the applicable credit percentage and multiply it by the basis of the property.
+
+At the end of the form, taxpayers are instructed to combine the amounts from various sections and report the total on Form 3800, Part III, for further calculations.
+
+Overall, Form 3468 is used by taxpayers to claim investment credits related to different types of projects and energy sources on their tax returns.

@@ -1,0 +1,214 @@
+Form 706-GS(D)
+(Rev. June 2019)
+Department of the Treasury   
+Internal Revenue Service 
+Generation-Skipping Transfer Tax Return For Distributions
+OMB No. 1545-1144
+▶ Use for distributions made after December 31, 2010.  
+  
+▶ Go to www.irs.gov/Form706GSD for instructions and the latest information.
+For calendar year  
+. 
+Attach a copy of all Forms 706-GS(D-1) to this return. 
+Part I 
+General Information 
+1a    Name of skip person distributee 
+1b    Social security number of individual distributee (see instructions) 
+1c    Employer identification number of trust distributee (see instructions)
+2a    Name and title of person filing return (if different from 1a, see instructions) 
+2b    Address of distributee or person filing return (see instructions) (number and street or P.O. box; city, town, or post office; state; and ZIP code). If you have a foreign 
+address, also complete the spaces below. 
+Foreign country name
+Foreign province/county
+Foreign postal code
+Part II 
+Distributions 
+a   
+Trust EIN (from Form 706-GS(D-1),   
+line 2a) 
+b   
+Item no. (from Form 706-GS(D-1),   
+line 3, column a) 
+c   
+Amount of transfer (from Form 706-GS(D-1),   
+line 3, column f (Tentative transfer)) 
+3 
+Total transfers (add amounts in column c) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Part III 
+Tax Computation 
+4 
+Adjusted allowable expenses (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Taxable amount (subtract line 4 from line 3) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+5 
+6 
+Maximum federal estate tax rate (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+%
+7 
+Generation-skipping transfer tax (multiply line 5 by line 6) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+7 
+8 
+Payment, if any, made with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Tax due .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶ 
+9 
+10 
+Overpayment. If line 8 is larger than line 7, enter amount to be refunded .
+.
+.
+.
+.
+.
+.
+ ▶
+10 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is 
+true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge. 
+Sign  
+Here 
+▲
+Signature of taxpayer or person filing on behalf of taxpayer 
+Date 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name      ▶
+Firm’s EIN  ▶
+Firm’s address  ▶
+Phone no.
+For Privacy Act and Paperwork Reduction Act Notice, see instructions. 
+Cat. No. 10327Q
+Form 706-GS(D) (Rev. 6-2019) 

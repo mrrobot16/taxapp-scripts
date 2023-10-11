@@ -1,0 +1,1416 @@
+Form 5330
+(Rev. December 2022)
+Return of Excise Taxes Related to Employee Benefit Plans
+Department of the Treasury  
+Internal Revenue Service 
+(under sections 4965, 4971, 4972, 4973(a)(3), 4975, 4976, 4977, 4978, 4979, 
+4979A, 4980, and 4980F of the Internal Revenue Code)
+Go to www.irs.gov/Form5330 for instructions and the latest information.
+OMB No. 1545-0575 
+Filer tax year beginning 
+, 
+and ending 
+, 
+A Name of filer (see instructions) 
+Number, street, and room or suite no. (If a P.O. box or foreign address, see instructions.) 
+City or town, state or province, country, and ZIP or foreign postal code 
+B  Filer’s identifying number (Enter either the 
+EIN or SSN, but not both. See instructions.)  
+Employer identification number (EIN) 
+Social security number (SSN) 
+C Name of plan 
+D Name and address of plan sponsor 
+E  Plan sponsor’s EIN 
+F  Plan year ending (MM/DD/YYYY) 
+G  Plan number
+H If this is an amended return, check here 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part I 
+Taxes. You can only complete one section of Part I for each Form 5330 filed. See instructions. 
+Section A. Taxes that are reported by the last day of the 7th month after the end of the tax year  
+of the employer (or other person who must file the return) 
+FOR   
+IRS   
+USE 
+ONLY
+1
+Section 4972 tax on nondeductible contributions to qualified plans (from Schedule A, line 12) .
+161 
+1 
+2 
+Section 4973(a)(3) tax on excess contributions to section 403(b)(7)(A) custodial accounts (from
+Schedule B, line 12) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+164 
+2 
+3 a
+Section 4975(a) tax on prohibited transactions (from Schedule C, line 3) .
+.
+.
+.
+.
+.
+.
+.
+159 
+3a 
+b Section 4975(b) tax on failure to correct prohibited transactions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+224 
+3b 
+4 
+Section 4976 tax on disqualified benefits for funded welfare plans .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+200 
+4 
+5 a
+Section 4978 tax on ESOP dispositions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+209 
+5a 
+b The tax on line 5a is a result of the application of: 
+Sec. 664(g) 
+Sec. 1042 
+5b
+6 
+Section 4979A tax on certain prohibited allocations of qualified ESOP securities or ownership of
+synthetic equity .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+203 
+6 
+7 
+Total Section A taxes. Add lines 1 through 6. Enter here and on Part II, line 17 .
+.
+.
+.
+.
+.
+7 
+Section B. Taxes that are reported by the 15th day of the 10th month after the last day of the plan year
+8 a
+Section 4971(a) tax on failure to meet minimum funding standards (from Schedule D, line 2) .
+.
+.
+163 
+8a 
+b Section 4971(b) tax for failure to correct minimum funding standards .
+.
+.
+.
+.
+.
+.
+.
+.
+225 
+8b 
+9 a
+Section 4971(f)(1) tax on failure to pay liquidity shortfall (from Schedule E, line 4) 
+.
+.
+.
+.
+.
+226 
+9a 
+b Section 4971(f)(2) tax for failure to correct liquidity shortfall 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+227 
+9b 
+10 a Section 4971(g)(2) tax on failure to comply with a funding improvement or rehabilitation plan (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+450 
+10a 
+b Section 4971(g)(3) tax on failure to meet requirements for plans in endangered or critical status
+(from Schedule F, line 1c) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+451 10b 
+c Section 4971(g)(4) tax on failure to adopt rehabilitation plan (from Schedule F, line 2d) 
+.
+.
+.
+452 
+10c 
+d Section 4971(h) tax on failure of a CSEC plan sponsor to adopt funding restoration plan (from
+Schedule L, line 2) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+453 10d
+Section B1. Tax that is reported by the last day of the 7th month after the end of the calendar year in which the excess fringe 
+benefits were paid to the employer’s employees 
+11 
+Section 4977 tax on excess fringe benefits (from Schedule G, line 4) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+201 
+11 
+12 
+Total Section B taxes. Add lines 8a through 10d or 11. Enter here and on Part II, line 17 
+.
+.
+12 
+Section C. Tax that is reported by the last day of the 15th month after the end of the plan year 
+13 
+Section 4979 tax on excess contributions to certain plans (from Schedule H, line 2). Enter here 
+and on Part II, line 17 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+205 
+13 
+For Privacy Act and Paperwork Reduction Act Notice, see instructions. 
+Cat. No. 11870M 
+Form 5330 (Rev. 12-2022)
+Form 5330 (Rev. 12-2022)
+Page 2 
+Name of filer: 
+Filer’s identifying number: 
+Section D. Tax that is reported by the last day of the month following the month in which the reversion occurred 
+14 
+Section 4980 tax on reversion of qualified plan assets to an employer (from Schedule I, line 3). 
+Enter here and on Part II, line 17 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+204 
+14 
+Section E. Tax that is reported by the last day of the month following the month in which the failure occurred 
+15 
+Section 4980F tax on failure to provide notice of significant reduction in future accruals (from
+Schedule J, line 5). Enter here and on Part II, line 17 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+228 
+15 
+Section F. Taxes reported on or before the 15th day of the 5th month following the close of the entity manager’s tax year 
+during which the plan became a party to a prohibited tax shelter transaction 
+16 
+Section 4965 tax on prohibited tax shelter transactions for entity managers (from Schedule K, 
+line 2). Enter here and on Part II, line 17 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+237 
+16 
+Part II 
+Tax Due 
+17 
+Enter the amount from Part I, line 7, 12, 13, 14, 15, or 16 (whichever is applicable) .
+.
+.
+.
+.
+.
+.
+17 
+18 
+Enter the amount of tax paid with Form 5558 or any other tax paid prior to filing this return .
+.
+.
+.
+18 
+19 
+Tax due. Subtract line 18 from line 17. If the result is greater than zero, enter here .
+.
+.
+.
+.
+.
+.
+19 
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge
+and belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Your signature 
+Telephone number 
+Date 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if 
+self-employed
+PTIN
+Firm’s name
+Firm’s EIN
+Firm’s address
+Phone no.
+Form 5330 (Rev. 12-2022)
+Form 5330 (Rev. 12-2022)
+Page 3 
+Name of filer: 
+Filer’s identifying number: 
+Schedule A. Tax on Nondeductible Employer Contributions to Qualified Employer Plans (Section 4972) Reported by the last 
+day of the 7th month after the end of the tax year of the employer (or other person who must file the return)
+1 
+Total contributions for your tax year to your qualified employer plan (under section 401(a), 403(a), 
+408(k), or 408(p)) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Amount allowable as a deduction under section 404 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Subtract line 2 from line 1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Enter amount of any prior year nondeductible contributions made for years 
+beginning after 12/31/86 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Amount of any prior year nondeductible contributions for years beginning 
+after 12/31/86 returned to you in this tax year for any prior tax year .
+.
+.
+.
+5 
+6 
+Subtract line 5 from line 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Amount of line 6 carried forward and deductible in this tax year .
+.
+.
+.
+.
+7 
+8 
+Subtract line 7 from line 6 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Tentative taxable excess contributions. Add lines 3 and 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Nondeductible section 4972(c)(6) or (7) contributions exempt from excise tax 
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Taxable excess contributions. Subtract line 10 from line 9 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Multiply line 11 by 10%. Enter here and on Part I, line 1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+Schedule B. Tax on Excess Contributions to Section 403(b)(7)(A) Custodial Accounts (Section 4973(a)(3)) Reported by the last 
+day of the 7th month after the end of the tax year of the employer (or other person who must file the return)
+1 
+Total amount contributed for current year less rollovers. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Amount excludable from gross income under section 403(b). See instructions .
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Current year excess contributions. Subtract line 2 from line 1. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+3 
+4 
+Prior year excess contributions not previously eliminated. If zero, go to line 8 
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Contribution credit. If line 2 is more than line 1, enter the excess; otherwise, enter -0- .
+.
+.
+.
+.
+.
+5 
+6 
+Total of all prior years’ distributions out of the account included in your gross income under section
+72(e) and not previously used to reduce excess contributions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Adjusted prior years’ excess contributions. Subtract the total of lines 5 and 6 from line 4 
+.
+.
+.
+.
+7 
+8 
+Taxable excess contributions. Add lines 3 and 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Multiply line 8 by 6% .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Enter the value of your account as of the last day of the year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Multiply line 10 by 6% 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Excess contributions tax. Enter the lesser of line 9 or line 11 here and on Part I, line 2 .
+.
+.
+.
+.
+12 
+Form 5330 (Rev. 12-2022)
+Form 5330 (Rev. 12-2022)
+Page 4 
+Name of filer: 
+Filer’s identifying number: 
+Schedule C. Tax on Prohibited Transactions (Section 4975) (see instructions) Reported by the last day of the 7th month after the 
+end of the tax year of the employer (or other person who must file the return)
+1 
+Is the excise tax a result of a prohibited transaction that was (box “a” or box “b” must be checked): 
+a 
+discrete 
+b 
+other than discrete (a lease or a loan) 
+2 
+Complete the table below to disclose the prohibited transactions and figure the initial tax. See instructions.
+(a)  
+Transaction  
+number 
+(b) Date  
+of transaction  
+(see instructions) 
+(c) Description of prohibited transaction 
+(d) Amount involved  
+in prohibited  
+transaction  
+(see instructions) 
+(e) Initial tax on prohibited  
+transaction (multiply each  
+transaction in column (d) by  
+the appropriate rate 
+(see instructions)) 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+(x) 
+(xi) 
+(xii) 
+3 
+Add amounts in column (e); enter here and on Part I, line 3a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Have you corrected all of the prohibited transactions that you are reporting on this return? If “Yes,” complete 
+Schedule C, line 5, on the next page. If “No,” attach statement. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Form 5330 (Rev. 12-2022)
+Form 5330 (Rev. 12-2022)
+Page 5 
+Name of filer: 
+Filer’s identifying number: 
+Schedule C. Tax on Prohibited Transactions (Section 4975) Reported by the last day of the 7th month after the end of the tax 
+year of the employer (or other person who must file the return) (continued) 
+5 
+Complete the table below, if applicable, of other participating disqualified persons and description of correction. See instructions.
+(a) 
+Item no. 
+from line 2  
+(b) 
+Name and address of  
+disqualified person 
+(c)   
+EIN or SSN 
+ (d) 
+Date of 
+correction  
+(e) 
+ Description of correction 
+Schedule D. Tax on Failure To Meet Minimum Funding Standards (Section 4971(a)) Reported by the 15th day of the 10th month 
+after the last day of the plan year 
+1 
+Aggregate unpaid required contributions (accumulated funding deficiency for multiemployer plans). 
+See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Multiply line 1 by 10% (5% for multiemployer plans). Enter here and on Part I, line 8a .
+.
+.
+.
+.
+.
+2 
+Schedule E. Tax on Failure To Pay Liquidity Shortfall (Section 4971(f)(1)) Reported by the 15th day of the 10th month after the 
+last day of the plan year 
+(a) 1st Quarter 
+(b) 2nd Quarter 
+(c) 3rd Quarter 
+(d) 4th Quarter 
+(e) Total   
+(add cols. a–d 
+for line 3)
+1 
+Amount of shortfall .
+.
+.
+.
+.
+.
+.
+1 
+2 
+Shortfall paid by the due date .
+.
+.
+2 
+3 
+Net shortfall amount .
+.
+.
+.
+.
+.
+3 
+4 
+Multiply line 3, column (e), by 10%. Enter here and on Part I, line 9a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Form 5330 (Rev. 12-2022)
+Form 5330 (Rev. 12-2022)
+Page 6 
+Name of filer: 
+Filer’s identifying number: 
+Schedule F. Tax on Multiemployer Plans in Endangered or Critical Status (Sections 4971(g)(3) and 4971(g)(4)) Reported by the 
+15th day of the 10th month after the last day of the plan year
+1 
+Section 4971(g)(3) tax on failure to meet requirements for plans in endangered or critical status.
+a Enter the amount of contributions necessary to meet the applicable benchmarks or requirements .
+.
+1a 
+b Enter the amount of the accumulated funding deficiency 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b 
+c Multiply the greater of line 1a or line 1b by 5%. Enter the result here and on Part I, line 10b .
+.
+.
+.
+1c 
+2 
+Section 4971(g)(4) tax on failure to adopt rehabilitation plan.
+a Enter the amount of the excise tax on the accumulated funding deficiency under section 4971(a)(2) from 
+Schedule D, line 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b 
+ 
+Enter the number of days during the tax year which are included in the period beginning on the first 
+day following the close of the 240-day period and ending on the day the rehabilitation plan is 
+adopted .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c Multiply line 2b by $1,100 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c 
+d Enter the greater of line 2a or line 2c here and on Part I, line 10c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2d 
+Schedule G. Tax on Excess Fringe Benefits (Section 4977) Reported by the last day of the 7th month after the end of the 
+calendar year in which the excess fringe benefits were paid to the employer’s employees 
+1 
+Did you make an election to be taxed under section 4977? 
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+2 
+If “Yes,” enter the calendar year (YYYY) in which the excess fringe benefits were paid:
+3 
+If line 1 is “Yes,” enter the excess fringe benefits on this line. See instructions .
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Enter 30% of line 3 here and on Part I, line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Schedule H. Tax on Excess Contributions to Certain Plans (Section 4979) Reported by the last day of the 15th month after  
+the end of the plan year 
+1 
+Enter the amount of an excess contribution under a cash or deferred arrangement that is part of a plan 
+qualified under section 401(a), 403(a), 403(b), 408(k), or 501(c)(18) or excess aggregate contributions .  
+1 
+2 
+Multiply line 1 by 10% and enter here and on Part I, line 13 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+Schedule I. Tax on Reversion of Qualified Plan Assets to an Employer (Section 4980) Reported by the last day of the month 
+following the month in which the reversion occurred 
+1 
+Date reversion occurred .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+MM 
+DD 
+YY 
+2 a Employer reversion amount:
+b Excise tax rate (20% or 50%):
+3 
+Multiply line 2a by line 2b and enter the amount here and on Part I, line 14 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Explain below why you qualify for a 20% rather than a 50% excise tax rate: 
+Schedule J. Tax on Failure To Provide Notice of Significant Reduction in Future Accruals (Section 4980F) Reported by the   
+last day of the month following the month in which the failure occurred 
+1 
+Enter the number of applicable individuals who were not provided ERISA section 204(h) notice:
+2 
+Enter the effective date of the amendment .
+.
+.
+.
+.
+.
+MM 
+DD 
+YY 
+3 
+Enter the number of days in the noncompliance period:
+4 
+Enter the total number of failures to provide ERISA section 204(h) notice. See instructions .
+.
+.
+.
+4 
+5 
+Multiply line 4 by $100. Enter here and on Part I, line 15 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Provide a brief description of the failure, and of the correction, if any:
+Schedule K. Tax on Prohibited Tax Shelter Transactions (Section 4965) Reported on or before the 15th day of the 5th month  
+following the close of the entity manager’s tax year during which the plan became a party to a prohibited tax shelter transaction 
+1
+Enter the number of prohibited tax shelter transactions you caused the same plan to be a party to:
+2 
+Multiply line 1 by $20,000. Enter the result here and on Part I, line 16 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+Schedule L. Tax on Failure of a CSEC Plan Sponsor To Adopt Funding Restoration Plan (Section 4971(h)) Reported by the 15th 
+day of the 10th month after the last day of the plan year 
+1 
+ 
+Enter the number of days during the tax year which are included in the period beginning on the day
+following the close of the 180-day period described in section 433(j)(3) and ending on the day on
+which the funding restoration plan is adopted  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+Multiply line 1 by $100. Enter the result here and on Part I, line 10d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+Form 5330 (Rev. 12-2022)

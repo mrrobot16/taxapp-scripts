@@ -1,0 +1,15 @@
+Form 8821 is a Tax Information Authorization form provided by the Internal Revenue Service (IRS) in the United States. The purpose of this form is to authorize another person or entity to access and receive confidential tax information on behalf of the taxpayer. 
+
+The form consists of several sections that need to be completed. In section 1, the taxpayer must provide their name, address, taxpayer identification number(s), daytime telephone number, and plan number if applicable. 
+
+Section 2 is for designee(s), where the taxpayer can name individuals or entities they authorize to access their tax information. If more than two designees are being named, an additional list can be attached. The taxpayer can also indicate if the designees should receive copies of notices and communications from the IRS. The section also includes spaces for the designees' names, addresses, CAF (Centralized Authorization File) number, PTIN (Preparer Tax Identification Number), telephone number, fax number, and whether there are any changes to their address or contact information. 
+
+Section 3 is for specifying the type of tax information, tax form number, year(s) or period(s), and specific tax matters that the designees are authorized to access. 
+
+Section 4 is for indicating if the tax information authorization is for a specific use that is not recorded on the Centralized Authorization File. If it is, the taxpayer should check this box and skip section 5. 
+
+Section 5 is for indicating whether the taxpayer wants to retain or revoke any prior tax information authorizations. If the taxpayer wants to retain any prior authorizations, they need to check the box and attach a copy of those authorizations. If not, the IRS will automatically revoke all prior authorizations on file. 
+
+Section 6 is for the taxpayer's signature, date, printed name, and title (if applicable). It also includes a reminder that the form must be completed, signed, and dated, and should not be signed if it is blank or incomplete. 
+
+The form includes a Privacy Act and Paperwork Reduction Act Notice, which provides information about the use and disclosure of the taxpayer's information. The latest version of the form can be found on the IRS website.

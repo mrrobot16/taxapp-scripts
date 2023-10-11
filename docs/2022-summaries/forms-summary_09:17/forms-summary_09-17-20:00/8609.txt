@@ -1,0 +1,262 @@
+Form  8609
+(Rev. December 2021)
+Department of the Treasury  
+Internal Revenue Service 
+Low-Income Housing Credit Allocation 
+and Certification
+▶ Go to www.irs.gov/Form8609 for instructions and the latest information.
+OMB No. 1545-0988
+Part I 
+Allocation of Credit 
+Check if: 
+Addition to Qualified Basis 
+Amended Form 
+A    Address of building (do not use P.O. box) (see instructions) 
+B    Name and address of housing credit agency 
+C    Name, address, and TIN of building owner receiving allocation 
+TIN ▶
+D    Employer identification number of agency 
+E    Building identification number (BIN) 
+1 a
+Date of allocation ▶
+b Maximum housing credit dollar amount allowable .
+1b 
+2
+Maximum applicable credit percentage allowable (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+% 
+3a
+Maximum qualified basis .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a 
+b
+Check here ▶
+ if the eligible basis used in the computation of line 3a was increased under 
+the high-cost area provisions of section 42(d)(5)(B). Enter the percentage to which the eligible
+basis was increased (see instructions)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b 
+1
+% 
+4
+Percentage of the aggregate basis financed by tax-exempt bonds. (If zero, enter -0-.) 
+.
+.
+.
+4 
+% 
+5a
+Date building placed in service .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+b
+Check here ▶
+if the date of allocation on line 1a is in calendar year 2021 or 2022 and the 
+building is located in a qualified disaster zone (see instructions).  
+6
+Check the boxes that describe the allocation for the building (check those that apply): 
+a
+Newly constructed and federally subsidized b
+Newly constructed and not federally subsidized c 
+Existing building 
+d
+Sec. 42(e) rehabilitation expenditures federally subsidized 
+e 
+Sec. 42(e) rehabilitation expenditures not federally subsidized 
+f
+Allocation subject to nonprofit set-aside under sec. 42(h)(5) 
+Signature of Authorized Housing Credit Agency Official—Completed by Housing Credit Agency Only 
+Under penalties of perjury, I declare that the allocation made is in compliance with the requirements of section 42 of the Internal Revenue Code, and 
+that I have examined this form and to the best of my knowledge and belief, the information is true, correct, and complete. 
+▲
+Signature of authorized official 
+▲
+Name (please type or print) 
+▲
+Date 
+Part II 
+First-Year Certification—Completed by Building Owners with respect to the First Year of the Credit Period 
+7
+Eligible basis of building (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8a
+Original qualified basis of the building at close of first year of credit period 
+.
+.
+.
+.
+.
+.
+.
+8a 
+b
+Are you treating this building as part of a multiple building project for purposes of section 42 
+(see instructions)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Yes 
+No 
+9a
+If box 6a or box 6d is checked, do you elect to reduce eligible basis under section 42(i)(2)(B)? 
+Yes 
+No 
+b
+For market-rate units above the average quality standards of low-income units in the building, do you elect 
+to reduce eligible basis by disproportionate costs of non-low-income units under section 42(d)(3)(B)? .
+ ▶
+Yes 
+No 
+10
+Check the appropriate box for each election.
+Caution: Once made, the following elections are irrevocable. 
+a
+Elect to begin credit period the first year after the building is placed in service (section 42(f)(1))  ▶
+Yes 
+No 
+b
+Elect not to treat large partnership as taxpayer (section 42(j)(5)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Yes 
+c
+Elect minimum set-aside requirement (section 42(g)) (see instructions): 
+20-50 
+40-60 
+Average income
+25-60 (N.Y.C. only) 
+d
+Elect deep rent skewed project (section 142(d)(4)(B)) (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.  
+15-40 
+Under penalties of perjury, I declare that I have examined this form and accompanying attachments, and to the best of my knowledge and belief, they 
+are true, correct, and complete. 
+▲
+Signature 
+▲
+Taxpayer identification number 
+▲
+Date 
+▲
+Name (please type or print) 
+▲
+First year of the credit period 
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 63981U
+Form 8609 (Rev. 12-2021) 

@@ -1,0 +1,294 @@
+120118
+CORRECTED
+Form1094-C
+Department of the Treasury    
+Internal Revenue Service
+Transmittal of Employer-Provided Health Insurance Offer and    
+Coverage Information Returns
+Go to www.irs.gov/Form1094C for instructions and the latest information.
+OMB No. 1545-2251
+2022
+Part I
+Applicable Large Employer Member (ALE Member)
+1   Name of ALE Member (Employer) 
+2 Employer identification number (EIN)
+3   Street address (including room or suite no.)
+4   City or town
+5 State or province
+6 Country and ZIP or foreign postal code
+7   Name of person to contact
+8 Contact telephone number
+9   Name of Designated Government Entity (only if applicable) 
+10 Employer identification number (EIN)
+11  Street address (including room or suite no.)
+12  City or town
+13 State or province
+14 Country and ZIP or foreign postal code
+15  Name of person to contact 
+16 Contact telephone number
+For Official Use Only
+17  Reserved .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18  Total number of Forms 1095-C submitted with this transmittal .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part II
+ALE Member Information
+19  Is this the authoritative transmittal for this ALE Member? If “Yes,” check the box and continue. If “No,” see instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20  Total number of Forms 1095-C filed by and/or on behalf of ALE Member .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21  Is ALE Member a member of an Aggregated ALE Group?  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “No,” do not complete Part IV. 
+22  Certifications of Eligibility (select all that apply):  
+A. Qualifying Offer Method
+B. Reserved
+C. Reserved
+D. 98% Offer Method
+Under penalties of perjury, I declare that I have examined this return and accompanying documents, and to the best of my knowledge and belief, they are true, correct, and complete. 
+Signature 
+Title
+Date
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 61571A
+Form 1094-C (2022)
+120218
+Form 1094-C (2022)
+Page 2
+Part III
+ALE Member Information—Monthly
+(a) Minimum Essential Coverage  
+Offer Indicator  
+Yes
+No
+(b) Section 4980H Full-Time 
+Employee Count for ALE Member
+(c) Total Employee Count    
+for ALE Member
+(d) Aggregated  
+Group Indicator 
+(e) Reserved
+     
+     
+     
+     
+     
+     
+23
+All 12 Months
+24
+Jan
+25
+Feb
+26
+Mar
+27
+Apr
+28
+May
+29
+June
+30
+July
+31
+Aug
+32
+Sept
+33
+Oct
+34
+Nov
+35
+Dec
+Form 1094-C (2022)
+120316
+Form 1094-C (2022)
+Page 3
+Part IV
+Other ALE Members of Aggregated ALE Group
+Enter the names and EINs of Other ALE Members of the Aggregated ALE Group (who were members at any time during the calendar year).
+Name
+EIN
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50 
+Name
+EIN
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65 
+Form 1094-C (2022)

@@ -1,0 +1,13 @@
+Form 9465 is an installment agreement request form provided by the Internal Revenue Service (IRS) for taxpayers who are unable to pay their tax debt in full. The form is used to request a monthly payment plan to pay off the tax debt over time. 
+
+The form requires the taxpayer to provide their personal information, such as their name, social security number, address, and contact information. It also asks for details about the tax debt, including the amount owed, any additional balances due, and any payments being made with the request.
+
+The taxpayer is instructed to enter the amount they can afford to pay each month towards the tax debt. They are encouraged to make the payment as large as possible to limit interest and penalty charges. If the taxpayer is unable to increase their payment to an amount equal to or greater than the amount calculated on line 10, they are required to complete and attach Form 433-F, Collection Information Statement.
+
+The form also provides options for making payments, including direct debit from a checking account or payroll deduction. The taxpayer is required to authorize the IRS to initiate monthly ACH debit entries to their financial institution account for payment of the tax debt.
+
+If the taxpayer meets certain conditions, such as defaulting on an installment agreement in the past 12 months and owing between $25,000 and $50,000, they are required to provide additional information in Part II of the form.
+
+The taxpayer must sign and submit the form, authorizing the IRS to contact third parties and disclose their tax information for processing the request and administering the agreement.
+
+Overall, Form 9465 is used by taxpayers to request an installment agreement with the IRS to pay off their tax debt over time.

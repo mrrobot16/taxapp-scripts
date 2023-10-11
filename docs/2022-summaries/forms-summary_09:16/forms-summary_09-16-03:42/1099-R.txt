@@ -1,0 +1,7 @@
+This document provides instructions and information regarding Form 1099-R, which is used to report distributions from pensions, annuities, retirement or profit-sharing plans, IRAs, insurance contracts, and other similar sources. The document includes copies A, B, C, D, and 1 of the form, which are to be filed with the Internal Revenue Service (IRS), state tax department, recipient, and payer respectively. 
+
+The document emphasizes that Copy A should not be printed and filed from the online version as it is not scannable by the IRS. It also provides information on how to order official IRS information returns and file electronically using the IRS Filing Information Returns Electronically (FIRE) system or the IRS Affordable Care Act Information Returns (AIR) program. 
+
+The document includes instructions for recipients on how to report the distributions on their federal tax return and provides explanations of the various boxes on the form, such as gross distribution, taxable amount, federal income tax withheld, and distribution codes. It also provides additional information on topics such as loans treated as distributions, recipient taxpayer identification number (TIN), account number, and state and local tax withholding. 
+
+The document includes instructions for payers on how to complete Form 1099-R, including references to the 2023 General Instructions for Certain Information Returns and the 2023 Instructions for Forms 1099-R and 5498. It also provides contact information for technical support and assistance with reporting on Form 1099-R.

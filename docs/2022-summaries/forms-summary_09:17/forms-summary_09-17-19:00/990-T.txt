@@ -1,0 +1,9 @@
+Form 990-T is the Exempt Organization Business Income Tax Return used by tax-exempt organizations in the United States to report their unrelated business taxable income. The form is applicable for the tax year 2022 or other tax years beginning in 2022. The form is open to public inspection for 501(c)(3) organizations only.
+
+The form requires the organization to provide its name, address, employer identification number, and group exemption number if applicable. It also asks for information on the organization type, whether it is filing an amended return, and if it is a subsidiary in an affiliated group or parent-subsidiary controlled group.
+
+Part I of the form involves calculating the total unrelated business taxable income by adding the income from all unrelated trades or businesses and subtracting any deductions or net operating losses. Part II is used to compute the tax based on the organization's tax status, and Part III involves reporting tax credits and payments made.
+
+Part IV of the form asks for statements regarding certain activities and other information, such as whether the organization had an interest in a financial account in a foreign country or received a distribution from a foreign trust. Part V is for providing supplemental information and explanations.
+
+The form must be signed by an officer of the organization, and if a paid preparer is involved, their information must also be provided.

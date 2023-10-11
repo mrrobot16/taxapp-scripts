@@ -1,0 +1,527 @@
+Attention: 
+Copy A of this form is provided for informational purposes only. Copy A appears in red, 
+similar to the official IRS form. The official printed version of Copy A of this IRS form is 
+scannable, but the online version of it, printed from this website, is not. Do not print and file 
+copy A downloaded from this website; a penalty may be imposed for filing with the IRS 
+information return forms that can’t be scanned. See part O in the current General 
+Instructions for Certain Information Returns, available at www.irs.gov/form1099, for more 
+information about penalties.
+Please note that Copy B and other copies of this form, which appear in black, may be 
+downloaded and printed and used to satisfy the requirement to provide the information to 
+the recipient.
+To order official IRS information returns, which include a scannable Copy A for filing with 
+the IRS and all other applicable copies of the form, visit www.IRS.gov/orderforms. Click on 
+Employer and Information Returns, and we’ll mail you the forms you request and their 
+instructions, as well as any publications you may order.
+Information returns may also be filed electronically using the IRS Filing Information Returns 
+Electronically (FIRE) system (visit www.IRS.gov/FIRE) or the IRS Affordable Care Act 
+Information Returns (AIR) program (visit www.IRS.gov/AIR).
+See IRS Publications 1141, 1167, and 1179 for more information about printing these tax 
+forms.
+     
+Form 1099-K
+(Rev. January 2022)
+Cat. No. 54118B
+Payment Card and 
+Third Party 
+Network 
+Transactions
+Copy A 
+For 
+Internal Revenue 
+Service Center 
+ 
+File with Form 1096. 
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-2205
+For Privacy Act 
+and Paperwork 
+Reduction Act 
+Notice, see the 
+current General 
+Instructions for 
+Certain Information 
+Returns. 
+For calendar year     
+20
+1010
+VOID 
+CORRECTED 
+FILER’S name, street address, city or town, state or province, country, ZIP  
+or foreign postal code, and telephone no.
+Check to indicate if FILER is a (an): 
+Payment settlement entity (PSE)
+Electronic Payment Facilitator  
+(EPF)/Other third party
+Check to indicate transactions 
+reported are:
+Payment card 
+Third party network 
+PAYEE’S name 
+Street address (including apt. no.) 
+City or town, state or province, country, and ZIP or foreign postal code
+PSE’S name and telephone number
+Account number (see instructions) 
+2nd TIN not.
+FILER’S TIN
+PAYEE’S TIN
+1a Gross amount of payment 
+card/third party network 
+transactions 
+$ 
+1b Card Not Present 
+transactions 
+$ 
+2   Merchant category code
+3   Number of payment 
+transactions
+4   Federal income tax 
+withheld
+$
+5a January 
+$ 
+5b February
+$ 
+5c March
+$ 
+5d April
+$ 
+5e May
+$ 
+5f  June
+$ 
+5g July 
+$ 
+5h August
+$ 
+5i  September
+$ 
+5j  October
+$ 
+5k November
+$ 
+5l  December
+$ 
+6   State 
+7   State identification no. 
+8   State income tax withheld
+$
+$
+Form 1099-K (Rev. 1-2022)
+www.irs.gov/Form1099K
+Do  Not  Cut  or  Separate  Forms  on  This  Page    —    Do  Not  Cut  or  Separate  Forms  on  This  Page
+     
+Form 1099-K
+(Rev. January 2022)
+Payment Card and 
+Third Party 
+Network 
+Transactions
+Department of the Treasury - Internal Revenue Service
+Copy 1 
+For State Tax 
+Department 
+OMB No. 1545-2205
+For calendar year     
+20
+VOID
+CORRECTED 
+FILER’S name, street address, city or town, state or province, country, ZIP  
+or foreign postal code, and telephone no. 
+Check to indicate if FILER is a (an): 
+Payment settlement entity (PSE)
+Electronic Payment Facilitator  
+(EPF)/Other third party
+Check to indicate transactions 
+reported are:
+Payment card 
+Third party network 
+PAYEE’S name 
+Street address (including apt. no.) 
+City or town, state or province, country, and ZIP or foreign postal code
+PSE’S name and telephone number
+Account number (see instructions) 
+FILER’S TIN
+PAYEE’S TIN
+1a Gross amount of payment 
+card/third party network 
+transactions 
+$ 
+1b Card Not Present 
+transactions 
+$ 
+2   Merchant category code
+3   Number of payment 
+transactions
+4   Federal income tax 
+withheld
+$
+5a January 
+$ 
+5b February
+$ 
+5c March
+$ 
+5d April
+$ 
+5e May
+$ 
+5f  June
+$ 
+5g July 
+$ 
+5h August
+$ 
+5i  September
+$ 
+5j  October
+$ 
+5k November
+$ 
+5l  December
+$ 
+6   State 
+7   State identification no. 
+8   State income tax withheld
+$
+$
+Form 1099-K (Rev. 1-2022) 
+www.irs.gov/Form1099K  
+     
+Form 1099-K
+(Rev. January 2022)
+Payment Card and 
+Third Party 
+Network 
+Transactions
+Copy B 
+For Payee 
+Department of the Treasury - Internal Revenue Service
+This is important tax 
+information and is 
+being furnished to 
+the IRS. If you are 
+required to file a 
+return, a negligence 
+penalty or other 
+sanction may be 
+imposed on you if 
+taxable income 
+results from this 
+transaction and the 
+IRS determines that it 
+has not been 
+reported. 
+OMB No. 1545-2205
+For calendar year     
+20
+CORRECTED (if checked)
+FILER’S name, street address, city or town, state or province, country, ZIP  
+or foreign postal code, and telephone no.
+Check to indicate if FILER is a (an): 
+Payment settlement entity (PSE)
+Electronic Payment Facilitator  
+(EPF)/Other third party
+Check to indicate transactions 
+reported are:
+Payment card 
+Third party network 
+PAYEE’S name 
+Street address (including apt. no.) 
+City or town, state or province, country, and ZIP or foreign postal code
+PSE’S name and telephone number
+Account number (see instructions) 
+FILER’S TIN
+PAYEE’S TIN
+1a Gross amount of payment 
+card/third party network 
+transactions 
+$ 
+1b Card Not Present 
+transactions
+$ 
+2   Merchant category code
+3   Number of payment 
+transactions
+4   Federal income tax 
+withheld
+$
+5a January 
+$ 
+5b February
+$ 
+5c March
+$ 
+5d April
+$ 
+5e May
+$ 
+5f  June
+$ 
+5g July 
+$ 
+5h August
+$ 
+5i  September
+$ 
+5j  October
+$ 
+5k November
+$ 
+5l  December
+$ 
+6   State 
+7   State identification no. 
+8   State income tax withheld
+$
+$
+Form 1099-K (Rev. 1-2022)
+(Keep for your records)
+www.irs.gov/Form1099K 
+Instructions for Payee
+You have received this form because you have either (a) accepted 
+payment cards for payments, or (b) received payments through a third 
+party network in the calendar year reported on this form. Merchant 
+acquirers and third party settlement organizations, as payment 
+settlement entities (PSEs), must report the proceeds of payment card 
+and third party network transactions made to you on Form 1099-K 
+under Internal Revenue Code section 6050W. The PSE may have 
+contracted with an electronic payment facilitator (EPF) or other third 
+party payer to make payments to you. 
+If you have questions about the amounts reported on this form, 
+contact the FILER whose information is shown in the upper left corner 
+on the front of this form. If you do not recognize the FILER shown in 
+the upper left corner of the form, contact the PSE whose name and 
+phone number are shown in the lower left corner of the form above 
+your account number. 
+If the Form 1099-K is related to your business, see Pub. 334 for 
+more information. If the Form 1099-K is related to your work as part of 
+the gig economy, see www.irs.gov/GigEconomy.
+See the separate instructions for your income tax return for using 
+the information reported on this form.
+Payee’s taxpayer identification number (TIN). For your protection, 
+this form may show only the last four digits of your TIN (social security 
+number (SSN), individual taxpayer identification number (ITIN), 
+adoption taxpayer identification number (ATIN), or employer 
+identification number (EIN)). However, the issuer has reported your 
+complete TIN to the IRS. 
+Account number. May show an account number or other unique 
+number the PSE assigned to distinguish your account. 
+Box 1a. Shows the aggregate gross amount of payment card/third 
+party network transactions made to you through the PSE during the 
+calendar year. 
+Box 1b. Shows the aggregate gross amount of all reportable payment 
+transactions made to you through the PSE during the calendar year 
+where the card was not present at the time of the transaction or the 
+card number was keyed into the terminal. Typically, this relates to 
+online sales, phone sales, or catalogue sales. If the box for third party 
+network is checked, or if these are third party network transactions, 
+Card Not Present transactions will not be reported. 
+Box 2. Shows the merchant category code used for payment card/
+third party network transactions (if available) reported on this form. 
+Box 3. Shows the number of payment transactions (not including 
+refund transactions) processed through the payment card/third party 
+network. 
+Box 4. Shows backup withholding. Generally, a payer must backup 
+withhold if you did not furnish your TIN or you did not furnish the 
+correct TIN to the payer. See Form W-9, Request for Taxpayer 
+Identification Number and Certification, and Pub. 505. Include this 
+amount on your income tax return as tax withheld.
+Boxes 5a–5l. Show the gross amount of payment card/third party 
+network transactions made to you for each month of the calendar 
+year. 
+Boxes 6–8. Show state and local income tax withheld from the 
+payments.
+Future developments. For the latest information about developments 
+related to Form 1099-K and its instructions, such as legislation 
+enacted after they were published, go to www.irs.gov/Form1099K. 
+Free File Program. Go to www.irs.gov/FreeFile to see if you qualify 
+for no-cost online federal tax preparation, e-filing, and direct deposit 
+or payment options.
+     
+Form 1099-K
+(Rev. January 2022)
+Payment Card and 
+Third Party 
+Network 
+Transactions
+Department of the Treasury - Internal Revenue Service
+Copy 2 
+ 
+To be filed with the 
+recipient’s state 
+income tax return, 
+when required. 
+OMB No. 1545-2205
+For calendar year     
+20
+CORRECTED (if checked)
+FILER’S name, street address, city or town, state or province, country, ZIP  
+or foreign postal code, and telephone no. 
+Check to indicate if FILER is a (an): 
+Payment settlement entity (PSE)
+Electronic Payment Facilitator  
+(EPF)/Other third party
+Check to indicate transactions 
+reported are:
+Payment card 
+Third party network 
+PAYEE’S name 
+Street address (including apt. no.) 
+City or town, state or province, country, and ZIP or foreign postal code
+PSE’S name and telephone number
+Account number (see instructions) 
+FILER’S TIN
+PAYEE’S TIN
+1a Gross amount of payment 
+card/third party network 
+transactions 
+$ 
+1b Card Not Present 
+transactions 
+$ 
+2   Merchant category code
+3   Number of payment 
+transactions
+4   Federal income tax 
+withheld
+$
+5a January 
+$ 
+5b February
+$ 
+5c March
+$ 
+5d April
+$ 
+5e May
+$ 
+5f  June
+$ 
+5g July 
+$ 
+5h August
+$ 
+5i  September
+$ 
+5j  October
+$ 
+5k November
+$ 
+5l  December
+$ 
+6   State 
+7   State identification no. 
+8   State income tax withheld
+$
+$
+Form 1099-K (Rev. 1-2022)
+www.irs.gov/Form1099K
+     
+Form 1099-K
+(Rev. January 2022)
+Payment Card and 
+Third Party 
+Network 
+Transactions
+Copy C 
+For FILER 
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-2205
+For Privacy Act 
+and Paperwork 
+Reduction Act 
+Notice, see the 
+current General 
+Instructions for 
+Certain Information 
+Returns.
+For calendar year     
+20
+VOID
+CORRECTED 
+FILER’S name, street address, city or town, state or province, country, ZIP  
+or foreign postal code, and telephone no. 
+Check to indicate if FILER is a (an): 
+Payment settlement entity (PSE)
+Electronic Payment Facilitator  
+(EPF)/Other third party
+Check to indicate transactions 
+reported are:
+Payment card 
+Third party network 
+PAYEE’S name 
+Street address (including apt. no.) 
+City or town, state or province, country, and ZIP or foreign postal code
+PSE’S name and telephone number
+Account number (see instructions) 
+2nd TIN not.
+FILER’S TIN
+PAYEE’S TIN
+1a Gross amount of payment 
+card/third party network 
+transactions 
+$ 
+1b Card Not Present 
+transactions 
+$ 
+2   Merchant category code
+3   Number of payment 
+transactions
+4   Federal income tax 
+withheld
+$
+5a January 
+$ 
+5b February
+$ 
+5c March
+$ 
+5d April
+$ 
+5e May
+$ 
+5f  June
+$ 
+5g July 
+$ 
+5h August
+$ 
+5i  September
+$ 
+5j  October
+$ 
+5k November
+$ 
+5l  December
+$ 
+6   State 
+7   State identification no. 
+8   State income tax withheld
+$
+$
+Form 1099-K (Rev. 1-2022)
+www.irs.gov/Form1099K  
+Instructions for FILER Who Is a Payment 
+Settlement Entity or Electronic Payment 
+Facilitator/Other Third Party
+To complete Form 1099-K, use:
+• The current General Instructions for Certain 
+Information Returns, and 
+• The current Instructions for Form 1099-K.
+To get and to order these instructions, go to 
+www.irs.gov/EmployerForms. 
+Caution: Because paper forms are scanned during 
+processing, you cannot file certain Forms 1096, 1097, 
+1098, 1099, 3921, or 5498 that you print from the IRS 
+website.
+Filing and furnishing. For filing and furnishing 
+instructions, including due dates, and to request filing or 
+furnishing extensions, see the current General 
+Instructions for Certain Information Returns. 
+Need help? If you have questions about reporting on 
+Form 1099-K, call the information reporting customer 
+service site toll free at 866-455-7438 or 304-263-8700 
+(not toll free). Persons with a hearing or speech 
+disability with access to TTY/TDD equipment can call 
+304-579-4827 (not toll free). 

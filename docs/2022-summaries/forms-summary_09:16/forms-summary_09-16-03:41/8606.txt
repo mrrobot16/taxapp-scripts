@@ -1,0 +1,11 @@
+Form 8606 is a document issued by the Department of the Treasury and the Internal Revenue Service (IRS). It is used to report information related to nondeductible Individual Retirement Account (IRA) contributions and distributions. The form is to be attached to the taxpayer's 2022 Form 1040, 1040-SR, or 1040-NR.
+
+The form is divided into three parts. Part I is to be completed if the taxpayer has made nondeductible contributions to a traditional IRA for 2022, taken distributions from a traditional, SEP, or SIMPLE IRA in 2022, or converted part of their traditional, SEP, and SIMPLE IRAs to Roth IRAs in 2022. The taxpayer is required to provide information on their nondeductible contributions, total basis in traditional IRAs, distributions, and conversions.
+
+Part II is to be completed if the taxpayer has converted part or all of their traditional, SEP, and SIMPLE IRAs to a Roth IRA in 2022. The taxpayer is required to provide information on the amount converted and the taxable amount of the conversion.
+
+Part III is to be completed if the taxpayer has taken a distribution from a Roth IRA in 2022. The taxpayer is required to provide information on the total nonqualified distributions from Roth IRAs and any qualified first-time homebuyer expenses.
+
+The form also includes sections for the taxpayer's personal information, such as name, social security number, and address. There is also a section for the taxpayer's signature and the declaration of the preparer, if applicable.
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8606.

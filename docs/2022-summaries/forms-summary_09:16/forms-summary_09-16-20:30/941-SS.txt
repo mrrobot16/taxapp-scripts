@@ -1,0 +1,15 @@
+Form 941-SS is the Employers QUARTERLY Federal Tax Return for American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands. It is used by employers in these territories to report their quarterly federal tax liabilities. The form includes sections for the employer's identification number, name, address, and the quarter being reported.
+
+Part 1 of the form requires the employer to answer questions about the number of employees who received wages, tips, or other compensation during the quarter. It also includes columns for reporting taxable social security wages, qualified sick leave wages, qualified family leave wages, taxable social security tips, taxable Medicare wages and tips, taxable wages and tips subject to Additional Medicare Tax withholding, and total social security and Medicare taxes.
+
+Part 2 of the form asks the employer to provide information about their deposit schedule and tax liability for the quarter. Depending on whether the employer is a monthly schedule depositor or a semiweekly schedule depositor, they may need to complete a deposit schedule or attach Schedule B (Form 941) to the form.
+
+Part 3 of the form asks the employer to provide information about their business, such as whether they have closed or stopped paying wages, or if they are a seasonal employer.
+
+Part 4 of the form asks if the employer wants to designate a third-party designee to discuss the return with the IRS.
+
+Part 5 of the form is for the employer to sign and declare that the information on the form is true, correct, and complete.
+
+The form also includes a separate payment voucher, Form 941-V(SS), which employers can use to make a payment with Form 941-SS. The voucher includes instructions for completing and submitting the payment.
+
+The form includes a Privacy Act and Paperwork Reduction Act Notice, which explains the purpose of collecting the information on the form and the confidentiality of tax return information. It also provides estimated average times for completing the form and invites the employer to provide comments or suggestions for making the form simpler.

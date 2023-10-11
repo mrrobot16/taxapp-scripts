@@ -1,0 +1,9 @@
+Form 1099-H is a tax form used to report Health Coverage Tax Credit (HCTC) advance payments. It is divided into three copies: Copy A for the Internal Revenue Service (IRS), Copy B for the recipient, and Copy C for the issuer/provider.
+
+The form includes sections for the issuer/provider's name, address, and taxpayer identification number (TIN), as well as the recipient's name, address, and TIN. It also includes boxes to report the amount of HCTC advance payments and the number of months the recipient received HCTC payments.
+
+The instructions for the recipient state that this form is provided because they received HCTC advance payments of their health coverage insurance premiums. It explains that recipients may be eligible for these advance payments if they are eligible trade adjustment assistance (TAA) recipients, Alternative TAA (ATAA) recipients, Reemployment TAA (RTAA) recipients, or Pension Benefit Guaranty Corporation (PBGC) pension payees. It directs recipients to Form 8885, Health Coverage Tax Credit, for more information on eligibility and how to claim the credit on their tax return.
+
+The instructions also mention that the form may only show the last four digits of the recipient's TIN for privacy reasons, but the complete TIN has been reported to the IRS by the issuer/provider. It provides explanations for each box on the form and directs recipients to the IRS website for any future updates or developments related to Form 1099-H.
+
+The instructions for the issuer/provider state that they should use the current General Instructions for Certain Information Returns and the current Instructions for Form 1099-H to complete the form. It provides information on how to order these instructions and additional forms. It also includes contact information for the information reporting customer service site for any questions or assistance with reporting on Form 1099-H.

@@ -1,0 +1,17 @@
+Form 8621 is an information return that must be filed by a shareholder of a Passive Foreign Investment Company (PFIC) or a Qualified Electing Fund (QEF). The form is used to report the shareholder's ownership of the PFIC or QEF and to calculate any tax liabilities related to the investment.
+
+The form requires the shareholder to provide their identifying information, including their name, address, and taxpayer identification number. The shareholder must also indicate their tax year and the type of entity they are filing as (individual, corporation, partnership, etc.).
+
+The form includes several sections for reporting information about the PFIC or QEF. In Part I, the shareholder must provide a summary of the annual information, including the description of each class of shares held, the date the shares were acquired, the number of shares held at the end of the tax year, and the value of the shares.
+
+Part II of the form includes various elections that the shareholder can make, such as treating the PFIC as a QEF or marking the PFIC stock to market. The shareholder must complete the appropriate sections based on their election.
+
+Part III of the form is used to report income from a QEF. The shareholder must calculate their share of the ordinary earnings and total net capital gain of the QEF and report it on their tax return.
+
+Part IV of the form is used to report any gain or loss from a mark-to-market election.
+
+Part V of the form is used to report distributions from and dispositions of stock of a section 1291 fund. The shareholder must report the total distributions received, as well as any gain or loss from the disposition of the stock.
+
+Part VI of the form is used to report the status of any prior year section 1294 elections and the termination of any section 1294 elections in the current year.
+
+Overall, Form 8621 is a detailed form that requires shareholders to report their ownership of a PFIC or QEF and calculate any tax liabilities related to the investment. It is important for shareholders to carefully review the instructions and accurately complete the form to ensure compliance with IRS regulations.

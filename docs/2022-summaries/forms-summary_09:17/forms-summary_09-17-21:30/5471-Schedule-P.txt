@@ -1,0 +1,13 @@
+Schedule P (Form 5471) is a document used by U.S. shareholders of certain foreign corporations to report previously taxed earnings and profits (E&P). The form must be attached to Form 5471 and can be found on the IRS website.
+
+The form requires the filer to provide their identifying information, including their name and identifying number, as well as the name of the U.S. shareholder and identifying number. The form also requires information about the foreign corporation, including its name, Employer Identification Number (EIN), and a reference ID number.
+
+Part I of the form is used to report previously taxed E&P in the functional currency. It includes various sections for different types of reclassified PTEP (previously taxed E&P), such as section 965(a) PTEP and section 959(c)(1) PTEP. The filer must provide the balance at the beginning of the year, any adjustments to the beginning balance, and the adjusted beginning balance. The form also includes sections for reduction for taxes unsuspended under anti-splitter rules, previously taxed E&P attributable to distributions from lower-tier foreign corporations, previously taxed E&P carried over in nonrecognition transactions, and other adjustments. The total previously taxed E&P is calculated by combining the amounts from these sections.
+
+Part II of the form is used to report previously taxed E&P in U.S. dollars. It follows a similar format to Part I, but the amounts are reported in U.S. dollars instead of the functional currency.
+
+Both Part I and Part II include sections for reclassified PTEP under various sections of the tax code, actual distributions of previously taxed E&P, amounts reclassified to different sections of PTEP, amounts included as earnings invested in U.S. property, and other adjustments. The balance at the beginning of the next year is calculated by combining the amounts from these sections.
+
+The form includes additional pages for reporting information related to different sections of reclassified PTEP.
+
+Overall, Schedule P (Form 5471) is a detailed form used to report previously taxed earnings and profits of U.S. shareholders of certain foreign corporations.

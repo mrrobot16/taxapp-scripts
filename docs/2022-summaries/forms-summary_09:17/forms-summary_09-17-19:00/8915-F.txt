@@ -1,0 +1,11 @@
+Form 8915-F is a tax form used to report qualified disaster retirement plan distributions and repayments. It is attached to Form 1040, 1040-SR, or 1040-NR. The form replaces Form 8915-E for 2021 and later years and is used for qualified disaster distributions, including those related to the coronavirus.
+
+The form requires the taxpayer to provide their tax year and the calendar year in which the qualified disaster(s) began. They must also provide the FEMA number for each qualified disaster. If the taxpayer's only disaster is the coronavirus, they should check a box and not list it in item C.
+
+The form includes two charts to determine which lines to use based on the taxpayer's specific circumstances. Part I of the form is used to report total distributions from all retirement plans, including IRAs. It includes a table to provide information about the qualified disaster(s) for which distributions were made. The taxpayer must also calculate the taxable amount of the distributions.
+
+Part II and Part III of the form are used to report qualified disaster distributions from retirement plans other than IRAs and from traditional, SEP, SIMPLE, and Roth IRAs, respectively. These parts include calculations for the taxable amount of the distributions and any repayments made.
+
+Part IV of the form is used to report qualified distributions for the purchase or construction of a main home in the area of a qualified disaster. The taxpayer must provide information about the disaster(s) and calculate the taxable amount of the distributions.
+
+The form also includes instructions and worksheets to help taxpayers complete the necessary calculations.

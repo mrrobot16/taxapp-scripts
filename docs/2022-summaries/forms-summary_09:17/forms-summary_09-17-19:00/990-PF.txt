@@ -1,0 +1,39 @@
+Form 990-PF is a tax return form for private foundations or section 4947(a)(1) trusts treated as private foundations in the United States. The form is used to report financial information, activities, and compliance with tax regulations to the Internal Revenue Service (IRS). 
+
+The form includes various sections and parts that require the foundation to provide information such as its name, address, employer identification number, and telephone number. It also asks for details about the foundation's status, accounting method, and fair market value of assets. 
+
+Part I of the form requires the foundation to analyze its revenue and expenses, including contributions, investment income, rents, and other sources of revenue, as well as operating and administrative expenses. 
+
+Part II focuses on the foundation's balance sheets, including the fair market value of assets at the beginning and end of the year, liabilities, and net assets or fund balances. 
+
+Part III requires the foundation to provide an analysis of changes in net assets or fund balances throughout the year. 
+
+Part IV is specific to capital gains and losses for tax on investment income. 
+
+Part V addresses the excise tax based on investment income. 
+
+Part VI-A asks for statements regarding activities such as attempts to influence legislation, engagement in political campaigns, and compliance with public inspection requirements. 
+
+Part VI-B asks for statements regarding activities that may require the filing of Form 4720, which relates to excise taxes on private foundations. 
+
+Part VII requires information about officers, directors, trustees, foundation managers, highly paid employees, and contractors associated with the foundation. 
+
+Part VIII-A and VIII-B summarize direct charitable activities and program-related investments made by the foundation. 
+
+Part IX calculates the minimum investment return required for the foundation. 
+
+Part X calculates the distributable amount for the foundation. 
+
+Part XI addresses qualifying distributions made by the foundation. 
+
+Part XII focuses on undistributed income and excess distributions carried over from previous years. 
+
+Part XIII is specific to private operating foundations and requires information about their status and compliance with certain tests. 
+
+Part XIV includes supplementary information such as information about foundation managers and contribution, grant, gift, loan, scholarship, etc., programs. 
+
+Part XV-A provides an analysis of income-producing activities, while Part XV-B explains how each activity contributes to the accomplishment of exempt purposes. 
+
+Part XVI addresses information regarding transfers to and transactions and relationships with noncharitable exempt organizations. 
+
+Finally, the form includes a signature section where an officer or trustee of the foundation must sign and declare the accuracy and completeness of the information provided.

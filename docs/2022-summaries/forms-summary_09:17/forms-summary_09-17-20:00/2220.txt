@@ -1,0 +1,1195 @@
+Form 2220
+2022
+Underpayment of Estimated Tax by Corporations
+Department of the Treasury 
+Internal Revenue Service
+Attach to the corporation’s tax return. 
+Go to www.irs.gov/Form2220 for instructions and the latest information.
+OMB No. 1545-0123
+Name
+Employer identification number
+Note: Generally, the corporation is not required to file Form 2220 (see Part II below for exceptions) because the IRS will figure any penalty 
+owed and bill the corporation. However, the corporation may still use Form 2220 to figure the penalty. If so, enter the amount from page 2, 
+line 38, on the estimated tax penalty line of the corporation’s income tax return, but do not attach Form 2220.
+Part I
+Required Annual Payment
+1
+Total tax (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2a
+Personal holding company tax (Schedule PH (Form 1120), line 26) included on line 1  
+2a
+b 
+Look-back interest included on line 1 under section 460(b)(2) for completed long-term 
+contracts or section 167(g) for depreciation under the income forecast method .
+.
+2b
+c
+Credit for federal tax paid on fuels (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+d
+Total. Add lines 2a through 2c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2d
+3 
+Subtract line 2d from line 1. If the result is less than $500, do not complete or file this form. The corporation 
+does not owe the penalty 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4 
+Enter the tax shown on the corporation’s 2021 income tax return. See instructions. Caution: If the tax is zero or 
+the tax year was for less than 12 months, skip this line and enter the amount from line 3 on line 5 
+.
+.
+.
+.
+4
+5 
+Required annual payment. Enter the smaller of line 3 or line 4. If the corporation is required to skip line 4, enter 
+the amount from line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Part II
+Reasons for Filing—Check the boxes below that apply. If any boxes are checked, the corporation must file 
+Form 2220 even if it does not owe a penalty. See instructions.
+6
+The corporation is using the adjusted seasonal installment method.
+ 7
+The corporation is using the annualized income installment method.
+ 8
+The corporation is a “large corporation” figuring its first required installment based on the prior year’s tax.
+Part III
+Figuring the Underpayment
+(a)
+(b)
+(c)
+(d)
+9 
+ 
+Installment due dates. Enter in columns (a) through (d) the 15th day 
+of the 4th (Form 990-PF filers: Use 5th month), 6th, 9th, and 12th 
+months of the corporation’s tax year
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10 
+ 
+ 
+ 
+Required installments. If the box on line 6 and/or line 7 above is 
+checked, enter the amounts from Schedule A, line 38. If the box on 
+line 8 (but not 6 or 7) is checked, see instructions for the amounts to 
+enter. If none of these boxes are checked, enter 25% (0.25) of line 5 
+above in each column 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11 
+Estimated tax paid or credited for each period. For column (a) only, 
+enter the amount from line 11 on line 15. See instructions .
+.
+.
+.
+11
+Complete lines 12 through 18 of one column before going to the 
+next column.
+12
+Enter amount, if any, from line 18 of the preceding column .
+.
+.
+.  
+12
+13
+Add lines 11 and 12 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Add amounts on lines 16 and 17 of the preceding column .
+.
+.
+.
+14
+15
+Subtract line 14 from line 13. If zero or less, enter -0-
+.
+.
+.
+.
+.
+15
+16 
+If the amount on line 15 is zero, subtract line 13 from line 14.  
+Otherwise, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17 
+ 
+Underpayment. If line 15 is less than or equal to line 10, subtract  line 
+15 from line 10. Then go to line 12 of the next column. Otherwise, go 
+to line 18 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18 
+Overpayment. If line 10 is less than line 15, subtract line 10 from line 
+15. Then go to line 12 of the next column .
+.
+.
+.
+.
+.
+.
+.
+.
+18
+Go to Part IV on page 2 to figure the penalty. Do not go to Part IV if there are no entries on line 17—no penalty is owed.
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11746L
+Form 2220 (2022)
+Form 2220 (2022)
+Page 2 
+Part IV
+Figuring the Penalty
+(a) 
+(b) 
+(c) 
+(d) 
+19 
+ 
+ 
+ 
+Enter the date of payment or the 15th day of the 4th month after  
+the close of the tax year, whichever is earlier.  (C corporations with 
+tax years ending June 30 and S corporations: Use 3rd month 
+instead of 4th month. Form 990-PF and Form 990-T filers: Use 5th 
+month instead of 4th month.) See instructions 
+.
+.
+.
+.
+.
+.
+19 
+20 
+Number of days from due date of installment on line 9 to the date 
+shown on line 19 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+21 
+Number of days on line 20 after 4/15/2022 and before 7/1/2022 
+21 
+22 
+Underpayment on line 17  × 
+Number of days on line 21 
+365
+ × 4% (0.04)
+22 $
+$
+$
+$
+23 
+Number of days on line 20 after 6/30/2022 and before 10/1/2022
+23 
+24 
+Underpayment on line 17  × 
+Number of days on line 23
+365
+ × 5% (0.05)
+24 $
+$
+$
+$
+25 
+Number of days on line 20 after 9/30/2022 and before 1/1/2023
+25 
+26 
+Underpayment on line 17  ×
+Number of days on line 25
+365
+ × 6% (0.06)
+26 $
+$
+$
+$
+27 
+Number of days on line 20 after 12/31/2022 and before 4/1/2023 
+27 
+28 
+Underpayment on line 17  × 
+Number of days on line 27
+365
+ × 7% (0.07)
+28 $
+$
+$
+$
+29 
+Number of days on line 20 after 3/31/2023 and before 7/1/2023
+29 
+30 
+Underpayment on line 17  ×
+Number of days on line 29
+365
+× *%
+30 $
+$
+$
+$
+31 
+Number of days on line 20 after 6/30/2023 and before 10/1/2023 
+31 
+32 
+Underpayment on line 17  × 
+Number of days on line 31
+365
+× *%
+32 $
+$
+$
+$
+33 
+Number of days on line 20 after 9/30/2023 and before 1/1/2024  
+33 
+34 
+Underpayment on line 17  × 
+Number of days on line 33
+365
+× *%
+34 $
+$
+$
+$
+35 
+Number of days on line 20 after 12/31/2023 and before 3/16/2024
+35 
+36 
+Underpayment on line 17  ×
+Number of days on line 35
+366
+× *%
+36 $
+$
+$
+$
+37 
+Add lines 22, 24, 26, 28, 30, 32, 34, and 36 
+.
+.
+.
+.
+.
+.
+.
+37 $
+$
+$
+$
+38 
+Penalty. Add columns (a) through (d) of line 37. Enter the total here and on Form 1120, line 34; or the comparable 
+line for other income tax returns .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+38 
+$
+* Use the penalty interest rate for each calendar quarter, which the IRS will determine during the first month in the preceding quarter.  
+These rates are published quarterly in an IRS News Release and in a revenue ruling in the Internal Revenue Bulletin. To obtain this  
+information on the Internet, access the IRS website at www.irs.gov. You can also call 1-800-829-4933 to get interest rate 
+information.
+Form 2220 (2022)
+Form 2220 (2022)
+Page 3 
+Schedule A
+Adjusted Seasonal Installment Method and Annualized Income Installment Method 
+See instructions.
+Form 1120-S filers: For lines 1, 2, 3, and 21, “taxable income” refers to excess net passive income or the amount on which tax is 
+imposed under section 1374(a), whichever applies.
+Part I
+Adjusted Seasonal Installment Method                                                                                                  
+Caution: Use this method only if the base period percentage for any 6 consecutive months is at least 70%. 
+See instructions.
+(a)
+(b)
+(c)
+(d)
+1
+Enter taxable income for the following periods.
+First 3 months
+First 5 months
+First 8 months
+First 11 months
+a
+Tax year beginning in 2019 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b
+Tax year beginning in 2020 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+c
+Tax year beginning in 2021 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c
+2 
+Enter taxable income for each period for the tax year beginning in 
+2022. See the instructions for the treatment of extraordinary items
+2
+3
+Enter taxable income for the following periods.
+First 4 months
+First 6 months
+First 9 months
+Entire year
+a
+Tax year beginning in 2019     .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b
+Tax year beginning in 2020 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+c
+Tax year beginning in 2021 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c
+4 
+Divide the amount in each column on line 1a by the amount in 
+column (d) on line 3a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5 
+Divide the amount in each column on line 1b by the amount in 
+column (d) on line 3b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6 
+Divide the amount in each column on line 1c by the amount in 
+column (d) on line 3c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Add lines 4 through 6 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Divide line 7 by 3.0 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9a
+Divide line 2 by line 8 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a
+b
+Extraordinary items (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+9b
+c
+Add lines 9a and 9b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9c
+10 
+ 
+Figure the tax on the amount on line 9c using the instructions 
+for Form 1120, Schedule J, line 2, or comparable line of 
+corporation’s return .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11a Divide the amount in columns (a) through (c) on line 3a by the 
+amount in column (d) on line 3a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11a
+b Divide the amount in columns (a) through (c) on line 3b by the 
+amount in column (d) on line 3b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11b
+c Divide the amount in columns (a) through (c) on line 3c by the 
+amount in column (d) on line 3c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11c
+12
+Add lines 11a through 11c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Divide line 12 by 3.0 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14 
+ 
+Multiply the amount in columns (a) through (c) of line 10 by 
+columns (a) through (c) of line 13. In column (d), enter the 
+amount from line 10, column (d) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15 
+Enter any alternative minimum tax (trusts only) for each payment 
+period. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Enter any other taxes for each payment period. See instructions
+16
+17
+Add lines 14 through 16 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18 
+For each period, enter the same type of credits as allowed on 
+Form 2220, lines 1 and 2c. See instructions
+.
+.
+.
+.
+.
+.
+18
+19 
+Total tax after credits. Subtract line 18 from line 17. If zero or 
+less, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+Form 2220 (2022)
+Form 2220 (2022)
+Page 4 
+Part II
+Annualized Income Installment Method
+(a)
+(b)
+(c)
+(d)
+20
+Annualization periods (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+20
+First 
+months
+First 
+months
+First 
+months
+First 
+months
+21 
+Enter taxable income for each annualization period. See 
+instructions for the treatment of extraordinary items .
+.
+.
+.
+21
+22
+Annualization amounts (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+22
+23a
+Annualized taxable income. Multiply line 21 by line 22 .
+.
+.
+23a
+b
+Extraordinary items (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+23b
+c
+Add lines 23a and 23b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+23c
+24 
+ 
+Figure the tax on the amount on line 23c using the instructions 
+for Form 1120, Schedule J, line 2, or comparable line of 
+corporation’s return .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+25 
+Enter any alternative minimum tax (trusts only) for each payment 
+period (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+25
+26
+Enter any other taxes for each payment period. See instructions
+26
+27
+Total tax. Add lines 24 through 26 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27
+28 
+For each period, enter the same type of credits as allowed on 
+Form 2220, lines 1 and 2c. See instructions 
+.
+.
+.
+.
+.
+.
+28
+29 
+Total tax after credits. Subtract line 28 from line 27. If zero or 
+less, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29
+30
+Applicable percentage 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+30
+25%
+50%
+75%
+100%
+31
+Multiply line 29 by line 30 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+31
+Part III
+Required Installments
+Note: Complete lines 32 through 38 of one column before 
+completing the next column.
+1st  
+installment
+2nd  
+installment
+3rd  
+installment
+4th  
+installment
+32 
+ 
+If only Part I or Part II is completed, enter the amount in each 
+column  from line 19 or line 31. If both parts are completed, enter 
+the  smaller of the amounts in each column from line 19 or line 31  
+32
+33 
+Add the amounts in all preceding columns of line 38. See 
+instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33
+34 
+Adjusted seasonal or annualized income installments. 
+Subtract line 33 from line 32. If zero or less, enter -0- 
+.
+.
+.
+34
+35 
+ 
+Enter 25% (0.25) of line 5 on page 1 of Form 2220 in each 
+column.  Note: “Large corporations,” see the instructions for line 
+10 for the amounts to enter 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+35
+36 
+Subtract line 38 of the preceding column from line 37 of the 
+preceding column 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+36
+37
+Add lines 35 and 36 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+37
+38 
+Required installments. Enter the smaller of line 34 or line 37 
+here and on page 1 of Form 2220, line 10. See instructions 
+.
+38
+Form 2220 (2022)

@@ -1,0 +1,11 @@
+Form 8937 is a document issued by the Department of the Treasury and the Internal Revenue Service (IRS) in the United States. It is used to report organizational actions that affect the basis of securities. The form consists of two parts.
+
+Part I requires information about the reporting issuer, including their name, employer identification number (EIN), contact information, and the date of the action. It also asks for details such as the classification and description of the action, CUSIP number, serial number(s), ticker symbol, and account number(s).
+
+Part II is dedicated to describing the organizational action in more detail. This includes providing the date of the action or the date against which shareholders' ownership is measured, as well as the quantitative effect of the action on the basis of the security. It also requires the calculation of the change in basis and the supporting data used for the calculation.
+
+The form also asks for the applicable Internal Revenue Code section(s) and subsection(s) upon which the tax treatment is based, whether any resulting loss can be recognized, and any other information necessary for implementing the adjustment.
+
+The form must be signed and submitted to the Department of the Treasury, Internal Revenue Service in Ogden, UT.
+
+Please note that this is just a summary of the form and does not provide all the details and instructions.

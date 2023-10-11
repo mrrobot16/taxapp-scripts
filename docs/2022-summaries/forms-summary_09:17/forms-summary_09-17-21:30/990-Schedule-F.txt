@@ -1,0 +1,13 @@
+Schedule F is a form that is attached to Form 990, which is used by organizations to report their activities outside of the United States. It is completed if the organization answered "Yes" to certain questions on Form 990.
+
+Part I of Schedule F requests general information on activities outside the United States. This includes whether the organization maintains records to substantiate grants and other assistance, and the procedures for monitoring the use of grants and assistance outside the United States. It also includes a table to report activities conducted in different regions, including the number of offices, employees, agents, and independent contractors in each region, as well as the types of activities conducted and the total expenditures for and investments in each region.
+
+Part II of Schedule F is completed if the organization provided grants and other assistance to organizations or entities outside the United States. It includes a table to report the name of the organization, its IRS code section and EIN, the region, the purpose of the grant, the amount of cash grant, the manner of cash disbursement, the amount of noncash assistance, the description of noncash assistance, and the method of valuation.
+
+Part III of Schedule F is completed if the organization provided grants and other assistance to individuals outside the United States. It includes a table to report the type of grant or assistance, the region, the number of recipients, the amount of cash grant, the manner of cash disbursement, the amount of noncash assistance, the description of noncash assistance, and the method of valuation.
+
+Part IV of Schedule F asks whether the organization had certain foreign forms to file, such as Form 926 for property transfers to foreign corporations, Form 3520 for foreign trusts, Form 5471 for ownership interest in foreign corporations, Form 8621 for passive foreign investment companies or qualified electing funds, Form 8865 for ownership interest in foreign partnerships, and Form 5713 for operations in boycotting countries.
+
+Part V of Schedule F is for supplemental information, where organizations can provide additional details on monitoring funds, accounting methods, and other relevant information.
+
+Overall, Schedule F is used to gather information about an organization's activities outside the United States for tax reporting purposes.

@@ -1,0 +1,9 @@
+Schedule J is a form provided by the Internal Revenue Service (IRS) for organizations to report compensation information for certain officers, directors, trustees, key employees, and highest compensated employees. This form is completed if the organization answered "Yes" to line 23 in Part IV of Form 990.
+
+Part I of Schedule J includes questions regarding compensation. The organization is required to check the appropriate boxes if they provided any of the listed items to or for a person listed on Form 990, Part VII, Section A, line 1a. If any of the boxes are checked, the organization must also indicate whether they followed a written policy regarding payment or reimbursement of these expenses.
+
+Part II of Schedule J is used to report compensation for each individual whose compensation must be reported. The organization should report compensation from the organization on row (i) and from related organizations on row (ii). The breakdown of compensation should include base compensation, bonus and incentive compensation, other reportable compensation, retirement and other deferred compensation, nontaxable benefits, and the total compensation.
+
+Part III of Schedule J is for providing supplemental information, explanations, or descriptions required for various parts of the form, including Part I and Part II.
+
+Overall, Schedule J is a detailed form that organizations must complete to report compensation information for certain individuals.

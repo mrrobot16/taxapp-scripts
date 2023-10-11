@@ -1,0 +1,629 @@
+Form 8606
+Department of the Treasury  
+Internal Revenue Service
+Nondeductible IRAs
+Go to www.irs.gov/Form8606 for instructions and the latest information.
+Attach to 2022 Form 1040, 1040-SR, or 1040-NR.
+OMB No. 1545-0074
+2022
+Attachment   
+Sequence No. 48
+Name. If married, file a separate form for each spouse required to file 2022 Form 8606. See instructions.
+Your social security number 
+Fill in Your Address 
+Only if You Are 
+Filing This Form by 
+Itself and Not With 
+Your Tax Return
+Home address (number and street, or P.O. box if mail is not delivered to your home)
+Apt. no.
+City, town or post office, state, and ZIP code. If you have a foreign address, also complete the spaces below (see instructions). 
+Foreign country name
+Foreign province/state/county
+Foreign postal code
+Part I
+Nondeductible Contributions to Traditional IRAs and Distributions From Traditional, SEP, and SIMPLE IRAs
+Complete this part only if one or more of the following apply.
+• You made nondeductible contributions to a traditional IRA for 2022. 
+• You took distributions from a traditional, SEP, or SIMPLE IRA in 2022 and you made nondeductible contributions to a 
+traditional IRA in 2022 or an earlier year. For this purpose, a distribution does not include a rollover (other than a 
+repayment of a qualified disaster distribution, if any, from 2022 Form(s) 8915-F (see instructions)), qualified charitable 
+distribution, one-time distribution to fund an HSA, conversion, recharacterization, or return of certain contributions. 
+• You converted part, but not all, of your traditional, SEP, and SIMPLE IRAs to Roth IRAs in 2022 and you made 
+nondeductible contributions to a traditional IRA in 2022 or an earlier year.
+1 
+Enter your nondeductible contributions to traditional IRAs for 2022, including those made for 2022 
+from January 1, 2023, through April 18, 2023. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Enter your total basis in traditional IRAs. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Add lines 1 and 2
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+In 2022, did you take a distribution 
+from traditional, SEP, or SIMPLE IRAs, 
+or make a Roth IRA conversion?
+No
+Enter the amount from line 3 on line 14. 
+Do not complete the rest of Part I.
+Yes
+Go to line 4.
+4
+Enter those contributions included on line 1 that were made from January 1, 2023, through April 18, 2023
+4
+5
+Subtract line 4 from line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Enter the value of all your traditional, SEP, and SIMPLE IRAs as of December 31, 
+2022, plus any outstanding rollovers. Subtract certain repayments of qualified 
+disaster distributions, if any, from 2022 Form(s) 8915-F (see instructions) 
+.
+.
+6
+7 
+ 
+ 
+ 
+ 
+Enter your distributions from traditional, SEP, and SIMPLE IRAs in 2022. Do 
+not include rollovers (other than repayments of qualified disaster distributions, 
+if any, from 2022 Form(s) 8915-F (see instructions)), qualified charitable
+distributions, a one-time distribution to fund an HSA, conversions to a Roth
+IRA, certain returned contributions, or recharacterizations of traditional IRA 
+contributions (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8 
+Enter the net amount you converted from traditional, SEP, and SIMPLE IRAs to 
+Roth IRAs in 2022. Also, enter this amount on line 16
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Add lines 6, 7, and 8
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10 
+Divide line 5 by line 9. Enter the result as a decimal rounded to at least 3
+places. If the result is 1.000 or more, enter “1.000” .
+.
+.
+.
+.
+.
+.
+.
+.
+10
+×
+.
+11 
+Multiply line 8 by line 10. This is the nontaxable portion of the amount you
+converted to Roth IRAs. Also, enter this amount on line 17 .
+.
+.
+.
+.
+.
+.
+11
+12 
+Multiply line 7 by line 10. This is the nontaxable portion of your distributions
+that you did not convert to a Roth IRA
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Add lines 11 and 12. This is the nontaxable portion of all your distributions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Subtract line 13 from line 3. This is your total basis in traditional IRAs for 2022 and earlier years .
+14
+15 a
+Subtract line 12 from line 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15a
+b 
+ 
+Enter the amount on line 15a attributable to qualified disaster distributions, if any, from 2022 Form(s) 
+8915-F (see instructions). Also, enter this amount on 2022 Form(s) 8915-F, line 18, as applicable (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15b
+c Taxable amount. Subtract line 15b from line 15a. If more than zero, also include this amount on 2022 
+Form 1040, 1040-SR, or 1040-NR, line 4b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15c
+Note: You may be subject to an additional 10% tax on the amount on line 15c if you were under age 
+59½ at the time of the distribution. See instructions.
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 63966F
+Form 8606 (2022) 
+Form 8606 (2022)
+Page 2 
+Part II
+2022 Conversions From Traditional, SEP, or SIMPLE IRAs to Roth IRAs
+Complete this part if you converted part or all of your traditional, SEP, and SIMPLE IRAs to a Roth IRA in 2022.
+16 
+If you completed Part I, enter the amount from line 8. Otherwise, enter the net amount you converted
+from traditional, SEP, and SIMPLE IRAs to Roth IRAs in 2022 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17 
+If you completed Part I, enter the amount from line 11. Otherwise, enter your basis in the amount on
+line 16 (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18 
+Taxable amount. Subtract line 17 from line 16. If more than zero, also include this amount on 2022 
+Form 1040, 1040-SR, or 1040-NR, line 4b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+Part III
+Distributions From Roth IRAs
+Complete this part only if you took a distribution from a Roth IRA in 2022. For this purpose, a distribution does not include 
+a rollover (other than a repayment of a qualified disaster distribution (from 2022 Form(s) 8915-F (see instructions)), 
+qualified charitable distribution, one-time distribution to fund an HSA, recharacterization, or return of certain contributions 
+(see instructions).
+19
+Enter your total nonqualified distributions from Roth IRAs in 2022, including any qualified first-time
+homebuyer distributions, and any qualified disaster distributions from 2022 Form(s) 8915-F (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Qualified first-time homebuyer expenses (see instructions). Do not enter more than $10,000 reduced
+by the total of all your prior qualified first-time homebuyer distributions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21
+Subtract line 20 from line 19. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22
+Enter your basis in Roth IRA contributions (see instructions). If line 21 is zero, stop here .
+.
+.
+.
+.
+22
+23 
+Subtract line 22 from line 21. If zero or less, enter -0- and skip lines 24 and 25. If more than zero, you
+may be subject to an additional tax (see instructions)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24 
+Enter your basis in conversions from traditional, SEP, and SIMPLE IRAs and rollovers from qualified 
+retirement plans to a Roth IRA. See instructions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+25 a
+Subtract line 24 from line 23. If zero or less, enter -0- and skip lines 25b and 25c
+.
+.
+.
+.
+.
+.
+.
+25a
+b 
+ 
+Enter the amount on line 25a attributable to qualified disaster distributions, if any, from 2022 Form(s) 
+8915-F (see instructions). Also, enter this amount on 2022 Form(s) 8915-F, line 19, as applicable (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25b
+c Taxable amount. Subtract line 25b from line 25a. If more than zero, also include this amount on 2022 
+Form 1040, 1040-SR, or 1040-NR, line 4b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25c
+Sign Here Only if You 
+Are Filing This Form 
+by Itself and Not With 
+Your Tax Return
+Under penalties of perjury, I declare that I have examined this form, including accompanying attachments, and to the best of my knowledge and 
+belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Your signature
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed 
+PTIN
+Firm’s name     
+Firm’s address
+Firm’s EIN 
+Phone no.
+Form 8606 (2022) 

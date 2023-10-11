@@ -1,0 +1,5 @@
+Form 706-GS(D) is a tax return form used for reporting generation-skipping transfer tax distributions made after December 31, 2010. The form requires the filer to provide general information such as the name and social security number of the distributee, as well as the name and address of the person filing the return. 
+
+Part II of the form is dedicated to reporting the distributions made, including the trust employer identification number, item number, and amount of transfer. Part III involves the computation of the tax, including adjusted allowable expenses, taxable amount, and the generation-skipping transfer tax. The form also includes sections for reporting any payment made with Form 7004, the tax due, and any overpayment that may result in a refund.
+
+The form concludes with a declaration of the preparer, who must sign and date the form. The form also includes sections for the preparer's name, signature, and other relevant information.

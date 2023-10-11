@@ -1,0 +1,15 @@
+Schedule PH (Form 1120) is a form used by U.S. Personal Holding Companies (PHCs) to report undistributed personal holding company income and calculate the PHC tax. The form consists of six parts.
+
+Part I is used to calculate the undistributed personal holding company income. It includes additions such as taxable income before net operating loss deduction and special deductions, contributions deducted in figuring taxable income, and excess expenses and depreciation under section 545(b)(6). These additions are totaled to determine the undistributed personal holding company income.
+
+Part II is used to report the components of personal holding company income. It includes dividends, interest, royalties, annuities, rents, mineral, oil, and gas royalties, copyright royalties, produced film rents, compensation received for use of corporation property by 25% or more shareholder, and amounts received under personal service contracts and from their sale. These components are added together to determine the personal holding company income.
+
+Part III calculates the PHC tax by multiplying the undistributed personal holding company income (from Part I, line 13) by 20%. The resulting amount is entered on Schedule J (Form 1120), line 8, or on the proper line of the appropriate tax return.
+
+Part IV requires the names and addresses of individuals who owned more than 50% in value of the outstanding stock of the corporation during the last half of the tax year.
+
+Part V is used to calculate the excess of expenses and depreciation over income from property not allowable under section 545(b)(6). It requires a description of the property, date acquired, cost or other basis, depreciation deduction, repairs, insurance, and other expenses, income from rent or other compensation, and the excess of expenses and depreciation over income. The total excess is entered on Part I, line 3.
+
+Part VI calculates the deduction for dividends paid under sections 561 and 562. It includes taxable dividends paid, consent dividends, taxable distributions, dividend carryover from the first and second preceding tax years, and the deduction for dividends paid. The total deduction is entered on Part I, line 9.
+
+The completed Schedule PH (Form 1120) is attached to the tax return of the U.S. Personal Holding Company.

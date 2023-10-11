@@ -1,0 +1,148 @@
+SCHEDULE V 
+(Form 1120-F)
+(Rev. December 2022)
+List of Vessels or Aircraft, Operators, and Owners
+Department of the Treasury  
+Internal Revenue Service 
+Attach to Form 1120-F.
+Go to www.irs.gov/Form1120F for instructions and the latest information.
+OMB No. 1545-0123
+Name of corporation
+Employer identification number
+Provide the information requested on lines 1 through 9 for each vessel or aircraft with respect to which the corporation is subject to a 
+4% rate of tax under section 887. If you check “Yes” on line 3 or line 4 for a vessel or aircraft chartered in or chartered out, see 
+instructions to determine whether you must attach a statement to Schedule V with additional information.
+A
+B
+C
+D
+1
+Name of vessel or type of aircraft .
+.
+.
+.
+2
+Vessel or aircraft ID number .
+.
+.
+.
+.
+.
+3
+Was the vessel or aircraft chartered in? .
+.
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+No
+4
+Was the vessel or aircraft chartered out? 
+.
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+No
+5
+Name of registered owner 
+.
+.
+.
+.
+.
+.
+6
+EIN or SSN of registered owner 
+.
+.
+.
+.
+7
+Name of operator .
+.
+.
+.
+.
+.
+.
+.
+.
+8
+EIN or SSN of operator 
+.
+.
+.
+.
+.
+.
+.
+9 
+ 
+ 
+ 
+U.S. source gross transportation income. See 
+instructions for details regarding a statement 
+that must be attached to Schedule V describing 
+the method used to determine your U.S. source 
+gross transportation income .
+.
+.
+.
+.
+.
+10 
+ 
+Total U.S. source gross transportation income. Add the amounts on line 9, columns 
+A through D (and the amounts on line 9 of any attached continuation statements) .
+.
+10
+11
+Amount of line 10 that is exempt by treaty (attach Form 8833).
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12 
+ 
+Subtract line 11 from line 10. Enter the result here and on Form 1120-F, Section I, line
+9, column (b) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+For Paperwork Reduction Act Notice, see the Instructions for Form 1120-F.
+Cat. No. 50821R
+Schedule V (Form 1120-F) (Rev. 12-2022)

@@ -1,0 +1,9 @@
+Form 2210-F is a document provided by the Internal Revenue Service (IRS) for farmers and fishermen to calculate and report any underpayment of estimated tax. The form is to be attached to the taxpayer's Form 1040, 1040-SR, 1040-NR, or 1041.
+
+The form includes three parts. Part I is for the taxpayer to indicate the reason for filing Form 2210-F, with options for requesting a waiver or filing a joint return for only one of the two applicable years.
+
+Part II is used to calculate the underpayment. It involves entering the taxpayer's tax after credits, other taxes, refundable credits, and current year tax. The form provides instructions on how to calculate the required annual payment based on the previous year's tax return.
+
+Part III is used to figure the penalty for underpayment. The taxpayer enters the date the underpayment was paid or April 15, 2023, whichever is earlier, and calculates the number of days from January 15, 2023, to that date. The penalty is calculated based on the underpayment amount and the number of days, and the result is entered on the appropriate line of the taxpayer's Form 1040, 1040-SR, 1040-NR, or 1041.
+
+In general, taxpayers do not need to file Form 2210-F as the IRS will calculate any penalty owed and send a bill. However, taxpayers can still use the form to calculate their penalty and enter the amount on their return if they choose to do so. The form provides instructions and further information on how to complete it.

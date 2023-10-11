@@ -1,0 +1,30 @@
+Form 8996 is a document provided by the Internal Revenue Service (IRS) for taxpayers who are organized as corporations or partnerships and invest in qualified opportunity zone (QOZ) property. The form is used to calculate the investment standard and determine if the taxpayer has maintained the required investment in QOZ property.
+
+The form consists of several parts:
+
+Part I: General Information and Certification
+- Taxpayers indicate their type (corporation or partnership) and whether they are organized for the purpose of investing in QOZ property.
+- If it is the taxpayer's first period as a QOZ, they certify that their organizing documents include a statement of the entity's purpose of investing in QOZ property and a description of the trade or business(es) that the QOZ is engaged in.
+
+Part II: Investment Standard Calculation
+- Taxpayers enter the total value of QOZ property held and total assets held on the last day of the first 6-month period and the tax year.
+- They then calculate the ratio of QOZ property to total assets.
+
+Part III: Qualified Opportunity Fund Average and Penalty
+- Taxpayers add the ratios calculated in Part II and divide the sum by 2.0.
+- If the result is equal to or more than 0.90, they enter zero on this line. Otherwise, they proceed to Part IV to calculate the penalty.
+
+Part IV: Line 15 Penalty
+- Taxpayers calculate the penalty for failing to maintain the investment standard.
+- They enter the total assets and QOZ property values for each month and calculate the underpayment rate.
+- The penalty is determined by multiplying the underpayment rate by the difference between the QOZ property value and the required amount.
+- The total penalty is entered on Part III, line 15.
+
+Part V and VI: QOZ Business Property and QOZ Stock or Partnership Interests
+- Taxpayers provide information on QOZ business property directly owned or leased by the taxpayer and QOZ stock or partnership interests held by the taxpayer.
+- They enter the value of the property and interests held on the last day of the first 6-month period and the tax year.
+
+Part VII: QOZ Stock or Partnership Interests (continued)
+- Taxpayers continue providing information on QOZ stock or partnership interests held by the taxpayer.
+
+The form includes instructions and references to additional information on the IRS website.

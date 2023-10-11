@@ -1,0 +1,19 @@
+Form 8038-B is an information return for Build America Bonds and Recovery Zone Economic Development Bonds. It is used by issuers to report relevant information to the Internal Revenue Service (IRS). 
+
+The form is divided into several parts. Part I requires the issuer's name, employer identification number (EIN), and contact information. 
+
+Part II asks for the type of bonds being reported, including Build America Bonds (Tax Credit), Build America Bonds (Direct Payment), and Recovery Zone Economic Development Bonds (Direct Payment). 
+
+Part III requires the issuer to identify the purpose of the bond issue and enter the issue price. Various purposes are listed, such as education, health and hospital, transportation, public safety, environment, housing, utilities, and others. 
+
+Part IV is for describing the obligations of the bond issue, including the stated redemption price at maturity, final maturity date, weighted average maturity, and yield. 
+
+Part V is for reporting the use of proceeds from the bond issue, including sales proceeds, expected investment proceeds, proceeds used for accrued interest, bond issuance costs, credit enhancement, reserve fund, capital expenditures, working capital expenditures, currently refunding prior issues, and advance refunding prior issues. 
+
+Part VI is for describing any refunded bonds if applicable. 
+
+Part VII includes miscellaneous information, such as the volume cap allocated to the issue, gross proceeds invested in a guaranteed investment contract, proceeds used for loans to other governmental units, and information about any hedges or penalties in lieu of arbitrage rebate. 
+
+Part VIII is for the issuer's consent to the disclosure of certain information from the return, such as the issuer's name and address, employer identification number, bond issue details, and other relevant information. 
+
+The form requires the signature and consent of the issuer's authorized representative. There is also a section for paid preparers to sign and provide their information.

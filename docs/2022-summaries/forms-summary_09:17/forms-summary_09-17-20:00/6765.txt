@@ -1,0 +1,740 @@
+Form   6765
+(Rev. December 2020)
+Department of the Treasury  
+Internal Revenue Service
+Credit for Increasing Research Activities
+▶ Attach to your tax return. 
+▶ Go to www.irs.gov/Form6765 for instructions and the latest information.
+OMB No. 1545-0619
+Attachment   
+Sequence No. 676
+Name(s) shown on return
+Identifying number
+Section A—Regular Credit. Skip this section and go to Section B if you are electing or previously elected (and are not revoking) the 
+alternative simplified credit.
+1 
+Certain amounts paid or incurred to energy consortia (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Basic research payments to qualified organizations (see instructions) .
+.
+.  
+2 
+3 
+Qualified organization base period amount .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Subtract line 3 from line 2. If zero or less, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+ 
+Wages for qualified services (do not include wages used in figuring the work 
+opportunity credit) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Cost of supplies 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Rental or lease costs of computers (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8
+Enter the applicable percentage of contract research expenses. See instructions
+8 
+9 
+Total qualified research expenses. Add lines 5 through 8 .
+.
+.
+.
+.
+.
+.
+9 
+10 
+Enter fixed-base percentage, but not more than 16% (0.16) (see instructions)  
+10 
+% 
+11 
+Enter average annual gross receipts. See instructions  .
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Multiply line 11 by the percentage on line 10 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Subtract line 12 from line 9. If zero or less, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Multiply line 9 by 50% (0.50) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Enter the smaller of line 13 or line 14 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Add lines 1, 4, and 15 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17
+Are you electing the reduced credit under section 280C?  ▶
+Yes
+No
+If “Yes,” multiply line 16 by 15.8% (0.158). If “No,” multiply line 16 by 20% (0.20) and see the
+instructions for the statement that must be attached. Members of controlled groups or businesses
+under common control, see instructions for the statement that must be attached .
+.
+.
+.
+.
+.
+.
+17 
+Section B—Alternative Simplified Credit. Skip this section if you are completing Section A.
+18 
+Certain amounts paid or incurred to energy consortia (see the line 1 instructions) .
+.
+.
+.
+.
+.
+.
+18 
+19
+Basic research payments to qualified organizations (see the line 2 instructions)
+19 
+20 
+Qualified organization base period amount (see the line 3 instructions) .
+.
+.
+20
+21 
+Subtract line 20 from line 19. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22 
+Add lines 18 and 21 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+23 
+Multiply line 22 by 20% (0.20) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24 
+ 
+Wages for qualified services (do not include wages used in figuring the work 
+opportunity credit) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+25 
+Cost of supplies 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+26 
+Rental or lease costs of computers (see the line 7 instructions) .
+.
+.
+.
+.
+26 
+27 
+ 
+Enter the applicable percentage of contract research expenses. See the line 8
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27 
+28 
+Total qualified research expenses. Add lines 24 through 27 
+.
+.
+.
+.
+.
+.
+28
+29 
+Enter your total qualified research expenses for the prior 3 tax years. If you had 
+no qualified research expenses in any one of those years, skip lines 30 and 31 
+29 
+30 
+Divide line 29 by 6.0 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+30
+31 
+Subtract line 30 from line 28. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+31
+32 
+Multiply line 31 by 14% (0.14). If you skipped lines 30 and 31, multiply line 28 by 6% (0.06) .
+.
+.
+.
+32 
+33 
+Add lines 23 and 32 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+33
+34
+Are you electing the reduced credit under section 280C?  ▶
+Yes
+No
+If “Yes,” multiply line 33 by 79% (0.79). If “No,” enter the amount from line 33 and see the line 17 
+instructions for the statement that must be attached. Members of controlled groups or businesses
+under common control, see instructions for the statement that must be attached .
+.
+.
+.
+.
+.
+.
+34 
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 13700H
+Form 6765 (Rev. 12-2020)
+Form 6765 (Rev. 12-2020)
+Page 2 
+Section C—Current Year Credit
+35 
+ 
+Enter the portion of the credit from Form 8932, line 2, that is attributable to wages that were also 
+used to figure the credit on line 17 or line 34 (whichever applies) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+35 
+36 
+Subtract line 35 from line 17 or line 34 (whichever applies). If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+36
+37 
+Credit for increasing research activities from partnerships, S corporations, estates, and trusts .
+.
+.
+37 
+38 
+Add lines 36 and 37 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+38
+• Estates and trusts, go to line 39.
+• Partnerships and S corporations not electing the payroll tax credit, stop here and report this amount on 
+Schedule K.
+• Partnerships and S corporations electing the payroll tax credit, complete Section D and report on 
+Schedule K the amount on this line reduced by the amount on line 44.
+• Eligible small businesses, stop here and report the credit on Form 3800, Part III, line 4i. See instructions 
+for the definition of eligible small business.
+• Filers other than eligible small businesses, stop here and report the credit on Form 3800, Part III, line 1c.
+Note: Qualified small business filers, other than partnerships and S corporations, electing the payroll tax 
+credit must complete Form 3800 before completing Section D.
+39 
+Amount allocated to beneficiaries of the estate or trust (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+39
+40 
+ 
+Estates and trusts, subtract line 39 from line 38. For eligible small businesses, report the credit on
+Form 3800, Part III, line 4i. See instructions. For filers other than eligible small businesses, report the
+credit on Form 3800, Part III, line 1c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+40
+Section D—Qualified Small Business Payroll Tax Election and Payroll Tax Credit. Skip this section if the payroll tax election does 
+not apply. See instructions.
+41
+Check this box if you are a qualified small business electing the payroll tax credit. See instructions 
+42 
+Enter the portion of line 36 elected as a payroll tax credit (do not enter more than $250,000). See 
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+42
+43 
+General business credit carryforward from the current year (see instructions). Partnerships and S 
+corporations, skip this line and go to line 44 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+43
+44 
+ 
+ 
+Partnerships and S corporations, enter the smaller of line 36 or line 42. All others, enter the smallest of 
+line 36, line 42, or line 43. Enter here and on the applicable line of Form 8974, Part 1, column (e). 
+Members of controlled groups or businesses under common control, see instructions for the statement 
+that must be attached .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+44
+Form 6765 (Rev. 12-2020)

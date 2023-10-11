@@ -1,0 +1,15 @@
+Form 8582-CR is a tax form used by individuals or estates to calculate the limitations on passive activity credits. The form is divided into several parts.
+
+Part I is used to report passive activity credits from rental real estate activities with active participation, rehabilitation credits, low-income housing credits, and all other passive activity credits. The form provides columns to report the credits from worksheets and prior year unallowed credits, and then calculates the total credits for each category.
+
+Part II is used to calculate the special allowance for rental real estate activities with active participation. It requires the taxpayer to enter the smaller of the total credits from Part I or the tax attributable to net passive income. This part also includes calculations based on modified adjusted gross income.
+
+Part III is used to calculate the special allowance for rehabilitation credits and low-income housing credits for property placed in service before 1990. It follows a similar format as Part II, with calculations based on modified adjusted gross income.
+
+Part IV is used to calculate the special allowance for low-income housing credits for property placed in service after 1989. It also follows a similar format as Part II, with calculations based on modified adjusted gross income.
+
+Part V calculates the total passive activity credit allowed by adding the credits from Parts II, III, and IV.
+
+Part VI is an optional section for taxpayers who disposed of their entire interest in a passive activity and want to elect to increase their basis in credit property. This section requires information about the passive activity and the credit property.
+
+The form provides instructions and references to worksheets for further calculations. It must be attached to Form 1040, 1040-SR, or 1041 when filing taxes.

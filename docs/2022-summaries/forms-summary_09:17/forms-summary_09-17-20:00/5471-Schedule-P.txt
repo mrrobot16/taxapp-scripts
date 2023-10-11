@@ -1,0 +1,706 @@
+SCHEDULE P 
+(Form 5471)
+(Rev. December 2020)
+Department of the Treasury 
+Internal Revenue Service
+Previously Taxed Earnings and Profits of U.S. Shareholder  
+of Certain Foreign Corporations
+▶ Attach to Form 5471. 
+▶ Go to www.irs.gov/Form5471 for instructions and the latest information.
+OMB No. 1545-0123
+Name of person filing Form 5471
+Identifying number
+Name of U.S. shareholder
+Identifying number
+Name of foreign corporation
+EIN (if any)
+Reference ID number (see instructions)
+a
+Separate Category (Enter code—see instructions.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+b
+If code 901j is entered on line a, enter the country code for the sanctioned country (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part I
+Previously Taxed E&P in Functional Currency (see instructions)
+(a) 
+Reclassified section 
+965(a) PTEP
+(b) 
+Reclassified section 
+965(b) PTEP
+(c) 
+General section 
+959(c)(1) PTEP
+1a
+Balance at beginning of year (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Beginning balance adjustments (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Adjusted beginning balance (combine lines 1a and 1b) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Reduction for taxes unsuspended under anti-splitter rules 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Previously taxed E&P attributable to distributions of previously taxed E&P from lower-tier foreign corporation  
+4
+Previously taxed E&P carried over in nonrecognition transaction 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Other adjustments (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Total previously taxed E&P (combine lines 1c through 5) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Amounts reclassified to section 959(c)(2) E&P from section 959(c)(3) E&P 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Actual distributions of previously taxed E&P .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Amounts reclassified to section 959(c)(1) E&P from section 959(c)(2) E&P 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10  
+ 
+Amounts included as earnings invested in U.S. property and reclassified to section 959(c)(1) E&P (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Other adjustments (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+Balance at beginning of next year (combine lines 6 through 11) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 49203F
+Schedule P (Form 5471) (Rev. 12-2020)
+Schedule P (Form 5471) (Rev. 12-2020)
+Page 2
+Part I
+Previously Taxed E&P in Functional Currency (see instructions) (continued)
+(d) 
+Reclassified section 
+951A PTEP
+(e) 
+Reclassified section 
+245A(d) PTEP
+(f) 
+Section 965(a) PTEP
+(g) 
+Section 965(b) PTEP
+(h) 
+Section 951A 
+PTEP
+(i) 
+Section 245A(d) 
+PTEP
+(j) 
+Section 951(a)(1)(A) 
+PTEP
+(k) 
+Total
+1a
+b
+c
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11
+12 
+Schedule P (Form 5471) (Rev. 12-2020)
+Schedule P (Form 5471) (Rev. 12-2020)
+Page 3
+Part II
+Previously Taxed E&P in U.S. Dollars 
+(a) 
+Reclassified section 
+965(a) PTEP
+(b) 
+Reclassified section 
+965(b) PTEP
+(c) 
+General section 
+959(c)(1) PTEP
+1a
+Balance at beginning of year (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Beginning balance adjustments (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Adjusted beginning balance (combine lines 1a and 1b) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Reduction for taxes unsuspended under anti-splitter rules 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Previously taxed E&P attributable to distributions of previously taxed E&P from lower-tier foreign 
+corporation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Previously taxed E&P carried over in nonrecognition transaction 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Other adjustments (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Total previously taxed E&P (combine lines 1c through 5) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Amounts reclassified to section 959(c)(2) E&P from section 959(c)(3) E&P 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Actual distributions of previously taxed E&P .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Amounts reclassified to section 959(c)(1) E&P from section 959(c)(2) E&P 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+Amounts included as earnings invested in U.S. property and reclassified to section 959(c)(1) E&P (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Other adjustments (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+Balance at beginning of next year (combine lines 6 through 11) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule P (Form 5471) (Rev. 12-2020)
+Schedule P (Form 5471) (Rev. 12-2020)
+Page 4
+Part II
+Previously Taxed E&P in U.S. Dollars (continued)
+(d) 
+Reclassified section 
+951A PTEP
+(e) 
+Reclassified section 
+245A(d) PTEP
+(f) 
+Section 965(a) PTEP
+(g) 
+Section 965(b) PTEP
+(h) 
+Section 951A 
+PTEP
+(i) 
+Section 245A(d) 
+PTEP
+(j) 
+Section 951(a)(1)(A) 
+PTEP
+(k) 
+Total
+1a
+b
+c
+2
+3
+4
+5
+6
+7
+8
+9
+10 
+11
+12 
+Schedule P (Form 5471) (Rev. 12-2020)

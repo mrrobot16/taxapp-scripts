@@ -1,0 +1,19 @@
+Schedule H (Form 8865) is a document issued by the Internal Revenue Service (IRS) of the Department of Treasury in the United States. It is used to report acceleration events, termination events, successor events, taxable dispositions of partnership interests, and section 367 transfer events relating to gain deferral methods under Section 721(c) of the Internal Revenue Code.
+
+The form is attached to Form 8865 and requires the filer to provide various information including the name of the person filing, filer's identifying number, name of the partnership, successor partnership, and their respective Employer Identification Numbers (EINs). It also requires a reference ID number and the name of the U.S. transferor.
+
+The form is divided into six parts. Part I is for reporting acceleration events, which involves providing the schedule, line number, description, date, recognized gain, partnerships adjustment to section 721(c) property tax basis, and whether it is a partial acceleration event.
+
+Part II is for reporting termination events and requires similar information as Part I, including the schedule, line number, description, and date of the event.
+
+Part III is for reporting successor events and requires the schedule, line number, description, date of the event, and the name, address, and U.S. taxpayer identification number (U.S. TIN) of the successor partnership, lower-tier partnership, upper-tier partnership, or U.S. corporation involved.
+
+Part IV is for reporting taxable dispositions of a portion of an interest in a partnership event. It requires the description and date of the event, the percentage of partnership interest disposed and retained, and the aggregate remaining built-in gain attributed to the partnership interest retained.
+
+Part V is for reporting section 367 transfer events and requires the schedule, line number, description, date of the event, gain recognized, and the name, address, and U.S. TIN of the foreign transferee corporation involved.
+
+Part VI is for providing any supplemental information as required.
+
+The form also includes a reference to the Paperwork Reduction Act Notice for further information.
+
+Overall, Schedule H (Form 8865) is a detailed form used by tax CPAs and individuals to report various events and exceptions relating to gain deferral methods under Section 721(c) of the Internal Revenue Code.

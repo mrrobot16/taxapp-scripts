@@ -1,0 +1,1664 @@
+Form  3520-A
+2022
+Annual Information Return of Foreign 
+Trust With a U.S. Owner  
+(Under section 6048(b))
+Department of the Treasury  
+Internal Revenue Service 
+Go to www.irs.gov/Form3520A for instructions and the latest information. 
+OMB No. 1545-0159
+Note: All information must be in English. Show all amounts in U.S. dollars.
+For calendar year 2022, or tax year beginning 
+, 2022, ending 
+, 20 
+.
+Check appropriate boxes:
+Initial return
+Final return
+Amended return
+Extension filed
+Substitute Form 3520-A
+Check if any excepted specified foreign financial assets are reported on this form. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part I
+General Information (see instructions)
+1a    Name of foreign trust
+b   Employer identification number (EIN)
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d   Date foreign trust was created
+e    City or town
+f    State or province
+g   ZIP or foreign postal code
+h   Country
+2 
+ 
+Did the foreign trust appoint a U.S. agent (defined in the instructions) who can provide the IRS with all the relevant 
+trust information? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” skip lines 2a through 2e and go to line 3.
+If “No,” you are required to attach a copy of all trust documents as indicated below. If these documents have been attached to a Form 3520-A 
+filed within the previous 3 years, attach only relevant updates.
+Are you attaching a copy of any of the following?
+ Yes
+ No
+Attached 
+Previously
+Year 
+Attached
+a
+Summary of all written and oral agreements and understandings relating to the trust .
+.
+.
+b
+The trust instrument .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Memoranda or letters of wishes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+d
+Subsequent variances to original trust documents 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+e
+Organizational chart and other trust documents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a    Name of U.S. agent
+b   Taxpayer identification number (TIN)
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town
+e    State or province
+f    ZIP or postal code
+g   Country
+4a    Name of trustee
+b   TIN, if any
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town
+e    State or province
+f    ZIP or postal code
+g   Country
+5
+Enter the number of Foreign Grantor Trust Owner Statements (pages 3 and 4) included with this Form 3520-A .
+.
+6
+Enter the number of Foreign Grantor Trust Beneficiary Statements (page 5) included with this Form 3520-A 
+.
+.
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including any accompanying reports, schedules, or statements, and to the best of my 
+knowledge and belief, it is true, correct, and complete.
+Trustee’s (or U.S. owner’s) signature
+Title
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed
+PTIN
+Firm’s name
+Firm’s address
+Firm’s EIN
+Phone no.
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 19595G
+Form 3520-A (2022)
+Form 3520-A (2022) 
+Page 2 
+Part II
+Foreign Trust Income Statement  
+Enter totals from books and records of foreign trust. See instructions.
+Income
+1
+Interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Gross rents and royalties 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+3
+4
+Income (loss) from partnerships and fiduciaries .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Capital gains:
+a
+Net short-term capital gain (loss) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a
+b
+Net long-term capital gain (loss) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5b
+6
+Ordinary gains (losses) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Other income (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Total income (add lines 1 through 7) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+8
+Expenses
+9
+Interest expense .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10a
+Foreign taxes (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+10a
+b
+State and local taxes 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10b
+11
+Amortization and depreciation (depletion) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Trustee and advisor fees 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Charitable contributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Other expenses (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Total expenses (add lines 9 through 14) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Net income (loss) (subtract line 15 from line 8) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17 a 
+Enter the fair market value (FMV) of total distributions (directly or indirectly) from the trust to all persons, 
+whether U.S. or foreign. Attach statement. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17a
+b
+Distributions to U.S. owners:
+(i) Name of owner
+(ii) TIN
+(iii) Date of distribution
+(iv) FMV on date of distribution
+c
+Distributions to U.S. beneficiaries:
+(i) Name of beneficiary
+(ii) TIN
+(iii) Date of distribution
+(iv) FMV on date of distribution
+Part III
+Foreign Trust Balance Sheet
+Beginning of Tax Year
+End of Tax Year
+Assets
+(a)
+(b)
+(c)
+(d)
+1
+Cash 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Accounts receivable
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Mortgages and notes receivable 
+.
+.
+.
+.
+.
+4
+Inventories .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Government obligations .
+.
+.
+.
+.
+.
+.
+.
+6
+Other marketable securities .
+.
+.
+.
+.
+.
+.
+7
+Other nonmarketable securities .
+.
+.
+.
+.
+.
+8a
+Depreciable (depletable) assets .
+.
+.
+.
+.
+.
+b
+Less: accumulated depreciation (depletion) 
+.
+.
+9
+Real property .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+Other assets (attach statement) .
+.
+.
+.
+.
+.
+11
+Total assets (add lines 1 through 7 and 8b through 10) 
+Liabilities
+12
+Accounts payable .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+Contributions, gifts, grants, etc., payable .
+.
+.
+14
+Mortgages and notes payable .
+.
+.
+.
+.
+.
+15
+Other liabilities (attach statement) .
+.
+.
+.
+.  
+16
+Total liabilities (add lines 12 through 15) 
+.
+.
+.  
+Net Worth
+17
+Contributions to trust corpus 
+.
+.
+.
+.
+.
+.
+18
+Accumulated trust income 
+.
+.
+.
+.
+.
+.
+.
+19
+Other (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+20
+Total net worth (add lines 17 through 19) .
+.
+.
+21
+Total liabilities and net worth (add lines 16 and 20)
+Form 3520-A (2022) 
+Form 3520-A (2022) 
+Page 3 
+2022 Foreign Grantor Trust Owner Statement (see instructions)
+Important: Trustee (or U.S. owner if a substitute Form 3520-A) must prepare a separate statement for each U.S. owner and include a copy of each 
+statement with Form 3520-A. Trustee is also required to send to each U.S. owner a copy of the owner’s statement. U.S. owner must attach 
+a copy of its statement to Form 3520.
+1a    Name of foreign trust
+b    EIN
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    Date foreign trust was created
+e    City or town
+f   State or province
+g   ZIP or foreign postal code
+h    Country
+2 
+Did the foreign trust appoint a U.S. agent (defined in the instructions) who can provide the IRS with all relevant trust 
+information? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” complete lines 3a through 3g.
+3a    Name of U.S. agent
+b    TIN
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town
+e   State or province
+f   ZIP or postal code
+g    Country
+4a    Name of trustee
+b    TIN
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town
+e   State or province
+f   ZIP or postal code
+g    Country
+5
+The first and last day of the tax year of the foreign trust to which this statement relates:
+6a    Name of U.S. owner
+b    TIN
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town
+e   State or province
+f   ZIP or postal code
+g    Country
+7 
+Attach an explanation of the facts and law (including the section of the Internal Revenue Code) that establishes that the foreign trust (or portion 
+of the foreign trust) is treated for U.S. tax principles as owned by the U.S. person.
+8
+If the trust did not appoint a U.S. agent, list the trust documents attached to Form 3520-A. See instructions.
+9
+Gross value of the portion of the trust treated as owned by the U.S. owner .
+.
+.
+.
+.
+.
+.
+$
+10 
+Cash amounts or FMV of property distributed, directly or indirectly, during the foreign trust’s tax year, from the foreign trust (exclude loans) to 
+the U.S. owner.
+(a) 
+Date of distribution
+(b) 
+Description of property distributed
+(c) 
+FMV of property distributed 
+(determined on date of distribution)
+(d) 
+Description of property 
+transferred, if any
+(e) 
+FMV of property 
+transferred
+(f) 
+Excess of column (c)  
+over column (e)
+Total .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+Form 3520-A (2022)
+Form 3520-A (2022)
+Page 4 
+2022 Statement of Foreign Trust Income Attributable to U.S. Owner (see instructions)  
+Report each item on the proper form or schedule of your tax return.
+Income
+1a
+Taxable interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+1a
+b
+Tax-exempt interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+1b
+2a
+Total ordinary dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b
+Qualified dividends
+3
+Gross rents and royalties 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Income from partnerships and fiduciaries .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Capital gains (losses) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Ordinary gains (losses) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Other income (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Total income. Add lines 1a, 1b, 2a, and 3 through 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+Expenses
+9
+Interest expense .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10a
+Foreign taxes (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10a
+b
+State and local taxes 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10b
+11
+Amortization and depreciation (depletion) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Trustee and advisor fees 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Charitable contributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Other expenses (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Total expenses. Add lines 9 through 14 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Under penalties of perjury, I declare that I have examined this return, including any accompanying reports, schedules, or statements, and to the best of my knowledge and 
+belief, it is true, correct, and complete.
+Trustee’s (or U.S. owner’s) signature
+Title
+Date
+Form 3520-A (2022)
+Form 3520-A (2022)
+Page 5 
+2022 Foreign Grantor Trust Beneficiary Statement
+Important: Trustee (or U.S. owner if a substitute Form 3520-A) must prepare a separate statement for each U.S. beneficiary that received a distribution 
+from the trust during the tax year and include a copy of each statement with Form 3520-A. Trustee is also required to send to each such 
+beneficiary a copy of the beneficiary’s statement. Each U.S. beneficiary must attach a copy of its statement to its Form 3520.
+1a    Name of foreign trust
+b    EIN
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d   Date foreign trust was created
+e    City or town
+f   State or province
+g   ZIP or foreign postal code
+h    Country
+2 
+ 
+Did the foreign trust appoint a U.S. agent (defined in the instructions) who can provide the IRS with all relevant trust 
+information? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” complete lines 3a through 3g.
+If “No,” do you agree that either the IRS or the U.S. beneficiary can inspect and copy the trust’s permanent books of 
+account, records, and such other documents that are necessary to establish that the trust should be treated for U.S. 
+tax purposes as owned by another person? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+Yes
+No
+3a    Name of U.S. agent
+b    TIN
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town
+e   State or province
+f   ZIP or postal code
+g    Country
+4a    Name of trustee
+b    TIN
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town
+e   State or province
+f   ZIP or postal code
+g    Country
+5
+The first and last day of the tax year of the foreign trust to which Form 3520-A applies:
+6a    Name of U.S. beneficiary
+b    TIN
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town
+e   State or province
+f   ZIP or postal code
+g    Country
+7 
+ 
+ 
+ 
+Cash amounts or FMV of property that during the current tax year was (1) distributed directly or indirectly to a U.S. person whether or not the 
+U.S. person is designated as a beneficiary of the trust, (2) loaned (exclude loans treated as qualified obligations) directly or indirectly to the 
+U.S. person who is a beneficiary of the trust or a U.S. person related to that U.S. person, or (3) used by the U.S. person who is a beneficiary of 
+the trust or a U.S. person related to that U.S. person without compensating the trust for the FMV of the use of the property within a reasonable 
+period of time. (See the instructions for Part III of Form 3520 for U.S. tax treatment of these amounts.)
+(a) 
+Date of distribution
+(b) 
+Description of property distributed
+(c)  
+FMV of property distributed 
+(determined on date of distribution)
+(d) 
+Description of property 
+transferred, if any
+(e) 
+FMV of property 
+transferred
+(f) 
+Excess of column (c)  
+over column (e)
+Total .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+8 
+ 
+Attach an explanation of the facts and law (including the section of the Internal Revenue Code) that establishes that the foreign trust (or portion 
+of the foreign trust) is treated for U.S. tax principles as owned by another person.
+9
+Owner of the foreign trust is (check one):
+Individual
+Partnership
+Corporation
+Under penalties of perjury, I declare that I have examined this return, including any accompanying reports, schedules, or statements, and to the best of my knowledge and 
+belief, it is true, correct, and complete.
+Trustee’s (or U.S. owner’s) signature
+Title
+Date
+Form 3520-A (2022)

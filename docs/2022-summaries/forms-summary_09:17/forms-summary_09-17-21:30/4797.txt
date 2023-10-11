@@ -1,0 +1,13 @@
+Form 4797 is a document issued by the Internal Revenue Service (IRS) for reporting sales of business property, involuntary conversions, and recapture amounts under Sections 179 and 280F(b)(2) of the tax code. It is to be attached to the taxpayer's tax return.
+
+The form consists of several parts. Part I is for reporting sales or exchanges of property used in a trade or business and involuntary conversions. It requires the taxpayer to provide details such as the description of the property, dates of acquisition and sale, gross sales price, depreciation allowed or allowable, cost or basis, and gain or loss.
+
+Part II is for reporting ordinary gains and losses from property held for one year or less. It includes lines for reporting gains or losses from various sources, such as line 7, 11, 13, and 16.
+
+Part III is for reporting gain from the disposition of property under Sections 1245, 1250, 1252, 1254, and 1255. It requires the taxpayer to provide details of the property, including dates of acquisition and sale, gross sales price, cost or basis, depreciation allowed or allowable, adjusted basis, and total gain.
+
+Part IV is for reporting recapture amounts under Sections 179 and 280F(b)(2) when the business use of the property drops to 50% or less. It requires the taxpayer to report the section 179 expense deduction or depreciation allowable in prior years, recompute depreciation, and calculate the recapture amount.
+
+The form also includes instructions and references to other forms and schedules that may need to be completed and attached to the tax return.
+
+Taxpayers are advised to visit the IRS website for the latest instructions and information regarding Form 4797.

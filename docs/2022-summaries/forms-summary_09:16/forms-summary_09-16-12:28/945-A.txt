@@ -1,0 +1,7 @@
+Form 945-A is an annual record of federal tax liability form provided by the Internal Revenue Service (IRS) for taxpayers who are semiweekly schedule depositors or who became one because their accumulated tax liability during any month was $100,000 or more. This form is used to report tax liability, not deposits, and should not be used to change the current year tax liability by adjustments reported on any Form 945-X, CT-1 X, or 944-X.
+
+The form consists of a table with columns for each month of the calendar year. Taxpayers are required to enter their tax liability for each day of the month in the corresponding column. At the end of each month, taxpayers are instructed to calculate the total tax liability for that month by adding up the daily amounts. The total tax liability for the year is then calculated by adding up the monthly totals.
+
+Form 945-A must be filed along with Form 945, 945-X, CT-1, CT-1 X, 944, or 944-X. Taxpayers can find instructions and the latest information on the IRS website at www.irs.gov/Form945A. The form includes a Paperwork Reduction Act Notice, and the OMB number is 1545-1430.
+
+It is important to note that this summary is based on the information provided on the form and does not constitute tax advice. Taxpayers should consult with a qualified tax professional or refer to the instructions provided by the IRS for specific guidance on completing and filing this form.

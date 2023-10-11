@@ -1,0 +1,15 @@
+Schedule PH (Form 1120) is a tax form used by U.S. Personal Holding Companies (PHCs) to calculate their undistributed personal holding company income and the tax on that income. The form is divided into six parts.
+
+Part I is used to calculate the undistributed personal holding company income. It includes additions, such as taxable income before deductions and contributions deducted in figuring that income. It also includes deductions, such as federal and foreign income taxes not deducted in calculating the income, contributions deductible under section 545(b)(2), net operating loss deductions, income tax on net capital gains, and deductions for dividends paid.
+
+Part II is used to calculate the personal holding company income. It includes various types of income, such as dividends, interest, royalties, annuities, rents, mineral, oil, and gas royalties, copyright royalties, produced film rents, compensation received for the use of corporation property, and amounts received under personal service contracts and from estates and trusts.
+
+Part III is used to calculate the tax on the undistributed personal holding company income. The tax is calculated by multiplying the amount of undistributed income by 20%.
+
+Part IV is used to determine the stock ownership requirement under section 542(a)(2). The names and addresses of individuals who owned more than 50% of the outstanding stock of the corporation during the last half of the tax year are listed.
+
+Part V is used to calculate the excess of expenses and depreciation over income from property not allowable under section 545(b)(6). This is used in the calculation of the undistributed personal holding company income.
+
+Part VI is used to calculate the deduction for dividends paid under sections 561 and 562. This includes taxable dividends paid, consent dividends, taxable distributions, and dividend carryovers from previous tax years.
+
+Overall, Schedule PH (Form 1120) is a detailed form that helps U.S. Personal Holding Companies calculate their undistributed personal holding company income and the tax on that income.

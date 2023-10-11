@@ -1,0 +1,25 @@
+Form 8900 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Qualified Railroad Track Maintenance Credit. This form should be attached to the taxpayer's tax return.
+
+The form consists of several sections and lines to be filled out by the taxpayer. Here is a summary of the key sections:
+
+1. Qualified railroad track maintenance expenditures: The taxpayer should enter the amount of qualified expenses paid or incurred for railroad track maintenance.
+
+2. Calculation: The taxpayer should enter 50% (0.50) of the amount entered in line 1.
+
+3a. Number of miles of railroad track owned or leased: The taxpayer should enter the number of miles of railroad track they own or lease.
+
+3b. Less: number of miles assigned to other eligible taxpayers: If the taxpayer has assigned some of their railroad track miles to other eligible taxpayers for the purpose of this credit, they should enter the number of miles assigned here.
+
+3c. Number of miles assigned to the taxpayer: If the taxpayer has been assigned railroad track miles by the owner or lessee for the purpose of this credit, they should enter the number of miles assigned here.
+
+3d. Total: The sum of lines 3a through 3c.
+
+4. Multiply line 3d by $3,500: The taxpayer should multiply the amount on line 3d by $3,500.
+
+5. Enter the smaller of line 2 or line 4: The taxpayer should enter the smaller amount between line 2 and line 4.
+
+6. Qualified railroad track maintenance credit from partnerships and S corporations: If the taxpayer received a credit from partnerships and S corporations, they should enter the amount here.
+
+7. Add lines 5 and 6: The taxpayer should add the amounts from lines 5 and 6. Partnerships and S corporations should report this amount on Schedule K, while all others should report it on Form 3800, Part III, line 4g.
+
+The form also includes references to instructions and the IRS website for more information.

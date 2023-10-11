@@ -1,0 +1,9 @@
+Form 941-SS is the Employers Quarterly Federal Tax Return for American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands. It is used by employers in these territories to report wages, tips, and other compensation paid to employees and calculate the social security and Medicare taxes owed. 
+
+The form consists of several sections where employers provide information such as their employer identification number (EIN), name, address, and the quarter they are reporting for. They also report the number of employees who received compensation during the quarter and calculate the taxable social security wages, tips, and Medicare wages. 
+
+The form also includes sections for adjustments, nonrefundable credits, deposits, and refunds. Employers must complete all pages of the form and sign it under penalties of perjury. 
+
+The form also includes a separate payment voucher, Form 941-V(SS), which employers can use to make a payment with their Form 941-SS. The voucher includes instructions on how to complete it and where to send it along with the payment. 
+
+The form includes a Privacy Act and Paperwork Reduction Act Notice, which explains the purpose of the form and the requirements for providing the requested information. It also provides estimated time requirements for completing and filing the form and provides contact information for submitting comments or suggestions for improvement.

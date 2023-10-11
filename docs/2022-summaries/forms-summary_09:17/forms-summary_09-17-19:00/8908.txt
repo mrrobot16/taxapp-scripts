@@ -1,0 +1,21 @@
+Form 8908 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Energy Efficient Home Credit. The form is used to calculate the credit amount based on the number of qualified energy efficient homes sold or leased during the tax year.
+
+The form consists of several sections:
+
+1. Section 1: The taxpayer enters the total number of qualified energy efficient homes sold or leased before 2023, meeting the 50% standard. The taxpayer then multiplies this number by $2,000 to calculate the credit amount.
+
+2. Section 2: The taxpayer enters the total number of qualified energy efficient manufactured homes sold or leased before 2023, meeting the 30% standard. The taxpayer then multiplies this number by $1,000 to calculate the credit amount.
+
+3. Section 3: The taxpayer enters the total number of qualified energy efficient homes sold or leased after 2022, eligible to participate in the Energy Star Residential New Construction Program or the Energy Star Manufactured New Homes Program. The taxpayer multiplies this number by $2,500 to calculate the credit amount.
+
+4. Section 4: The taxpayer enters the total number of qualified energy efficient homes sold or leased after 2022, eligible to participate in the Energy Star Residential New Construction Program or the Energy Star Manufactured New Homes Program, and certified as a Zero Energy Ready Home. The taxpayer multiplies this number by $5,000 to calculate the credit amount.
+
+5. Section 5: The taxpayer enters the total number of qualified energy efficient homes sold or leased after 2022, eligible to participate in the Energy Star Multifamily New Construction Program but not meeting the prevailing wage requirements and not certified as a Zero Energy Ready Home. The taxpayer multiplies this number by $500 to calculate the credit amount.
+
+6. Section 6: The taxpayer enters the total number of qualified energy efficient homes sold or leased after 2022, eligible to participate in the Energy Star Multifamily New Construction Program, not meeting the prevailing wage requirements but certified as a Zero Energy Ready Home. The taxpayer multiplies this number by $1,000 to calculate the credit amount.
+
+7. Section 7: This section is for partnerships and S corporations to report the energy efficient home credit.
+
+8. Section 8: The taxpayer adds up the credit amounts calculated in sections 1b, 2b, 3b, 4b, 5b, 6b, and 7 to determine the total energy efficient home credit. Partnerships and S corporations report this amount on Schedule K, while all others report it on Form 3800, Part III, line 1p.
+
+Overall, Form 8908 is used to calculate and claim the Energy Efficient Home Credit for eligible taxpayers who have sold or leased qualified energy efficient homes.

@@ -1,0 +1,17 @@
+Form 6627 is a document provided by the Internal Revenue Service (IRS) for reporting and calculating environmental taxes. The form is used to report taxes on petroleum, chemicals (excluding ozone-depleting chemicals), imported chemical substances, ozone-depleting chemicals, imported products containing ozone-depleting chemicals, and floor stocks of ozone-depleting chemicals.
+
+The form is divided into six parts:
+
+Part I: Tax on Petroleum - This section calculates the tax on crude oil received at a U.S. refinery, crude oil taxed before receipt at a refinery, taxable crude oil, and crude oil used in the U.S. before the tax was imposed.
+
+Part II: Tax on Chemicals (Other Than Ozone-Depleting Chemicals) - This section lists various chemicals and their corresponding rates and calculates the tax by multiplying the tons of each chemical by its rate.
+
+Part III: Tax on Imported Chemical Substances - This section calculates the tax on imported chemical substances used in the manufacture of other substances.
+
+Part IV: Tax on Ozone-Depleting Chemicals (ODCs) - This section provides options for reporting the tax on post-1989 and post-1990 ODCs. It lists ODCs, their weights, tax per pound, and calculates the total tax.
+
+Part V: ODC Tax on Imported Products - This section calculates the tax on imported products containing ODCs based on the number of products, ODC weight, tax per pound, and entry value.
+
+Part VI: Tax on Floor Stocks of ODCs - This section calculates the tax on existing stocks of ODCs based on the number of pounds, tax per pound, and calculates the total tax.
+
+The form includes spaces to enter the necessary information for each section and provides instructions for completing the form. It is important to refer to the latest instructions and information provided on the IRS website for accurate reporting.

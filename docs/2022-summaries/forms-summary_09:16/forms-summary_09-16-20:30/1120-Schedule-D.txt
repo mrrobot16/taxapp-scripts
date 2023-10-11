@@ -1,0 +1,11 @@
+The document is a Schedule D form for reporting capital gains and losses on a tax return. It is used by corporations in the United States to report their short-term and long-term capital gains and losses. The form is attached to Form 1120, which is the corporate income tax return.
+
+The form is divided into three parts: Part I for reporting short-term capital gains and losses, Part II for reporting long-term capital gains and losses, and Part III for summarizing the information from Parts I and II.
+
+In each part, the form provides lines for entering the proceeds (sales price), cost (or other basis), adjustments to gain or loss from other forms, and calculating the gain or loss by subtracting the cost from the proceeds and adding the adjustments.
+
+There are also lines for reporting specific types of capital gains, such as gain from installment sales, like-kind exchanges, and capital gain distributions. The form provides totals for transactions reported on Form 1099-B and Form 8949, with different boxes checked.
+
+At the end of the form, there are lines for calculating the net short-term and long-term capital gains or losses, as well as the excess of net short-term capital gain over net long-term capital loss and the net capital gain. The final result is then transferred to Form 1120 or other applicable tax returns.
+
+The form includes instructions and references to other forms and resources for additional guidance on reporting capital gains and losses.

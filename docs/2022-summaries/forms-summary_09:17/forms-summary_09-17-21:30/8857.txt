@@ -1,0 +1,23 @@
+Form 8857 is a document provided by the Internal Revenue Service (IRS) for taxpayers who believe they should be relieved of joint tax liability due to the actions of their spouse. This form is used to request innocent spouse relief. 
+
+Important points to note about Form 8857 include:
+
+1. The form should not be filed with the tax return but should be sent to the appropriate IRS address as specified in the instructions.
+2. The instructions for the form and Publication 971, Innocent Spouse Relief, should be referred to for assistance in completing the form and understanding the factors considered by the IRS in granting innocent spouse relief.
+3. Any requested documents or documents believed to support the request for relief should be attached to the form.
+4. The IRS is required by law to notify the spouse listed on line 6 of the form about the request for relief, and that spouse will have the opportunity to participate in the process by completing a questionnaire for the tax years specified on line 3.
+5. Certain personal information such as name, address, phone numbers, and employer information will not be disclosed by the IRS.
+6. If the taxpayer petitions the Tax Court to review the request for relief, the court may only consider information provided by the taxpayer or the spouse listed on line 6 before the IRS made its final determination, additional information included in the administrative file, and newly discovered or previously unavailable information.
+7. Additional pages can be attached if more space is needed to answer any questions on the form, and the taxpayer's name and social security number should be written on all attached pages.
+
+The form is divided into several parts:
+
+Part I: Determines if the taxpayer should file the form based on their situation.
+Part II: Asks if the IRS has taken the taxpayer's share of a joint refund to pay any past-due debts owed only by the spouse listed on line 6.
+Part III: Requires the taxpayer to enter the tax years for which they are seeking innocent spouse relief.
+Part IV: Asks for information about the taxpayer and the spouse listed on line 6 for the tax years in question.
+Part V: Optional section for victims of domestic violence or abuse to provide additional information.
+Part VI: Allows the taxpayer to provide any additional information they want the IRS to consider.
+Part VII: Gives the taxpayer the option to request a refund if they qualify for relief and have already paid the tax.
+
+The form must be signed by the taxpayer under penalties of perjury, indicating that the information provided is true, correct, and complete.

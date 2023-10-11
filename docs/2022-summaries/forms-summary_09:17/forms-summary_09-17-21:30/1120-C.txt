@@ -1,0 +1,15 @@
+Form 1120 is a tax return form for U.S. corporations to report their income and calculate their income tax liability. The form is divided into several sections, including income, deductions, tax computation, and balance sheets. 
+
+The form begins with basic information about the corporation, such as its name, address, and employer identification number. It also asks for the date of incorporation and the total assets of the corporation.
+
+The income section of the form asks for various sources of income, including gross receipts or sales, returns and allowances, dividends, interest, rents, royalties, and capital gains. It also includes a space for other income and a total income line.
+
+The deductions section of the form includes various expenses that can be deducted from the income, such as compensation of officers, salaries and wages, repairs and maintenance, bad debts, taxes and licenses, interest, charitable contributions, and depreciation. There is also a space for other deductions and a total deductions line.
+
+The tax computation section of the form calculates the taxable income before net operating loss deduction and special deductions. It includes lines for the net operating loss deduction, special deductions, and the final taxable income.
+
+The form also includes a section for tax, refundable credits, and payments. This section calculates the total tax owed, including any credits and payments made throughout the year. It also includes a space for estimated tax penalty and the amount owed or overpaid.
+
+The form concludes with several schedules for additional information, such as dividends, inclusions, and special deductions. There are also sections for other information, balance sheets per books, reconciliation of income per books with income per return, and analysis of unappropriated retained earnings per books.
+
+Overall, Form 1120 is a comprehensive tax return form for U.S. corporations to report their income, deductions, and tax liability to the IRS.

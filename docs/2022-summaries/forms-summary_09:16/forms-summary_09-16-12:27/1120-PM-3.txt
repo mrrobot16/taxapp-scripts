@@ -1,0 +1,16 @@
+Schedule M-3 (Form 1120-PC) is a form provided by the Internal Revenue Service (IRS) for U.S. property and casualty insurance companies with total assets of $10 million or more. It is used to reconcile net income (loss) per the company's income statement with taxable income per the tax return.
+
+The form consists of three parts:
+
+Part I: Financial Information and Net Income (Loss) Reconciliation
+- This part requires the company to provide information about its financial statements and net income (loss) reconciliation. It includes questions about whether the company filed SEC Form 10-K, prepared a certified audited non-tax-basis income statement, or prepared a non-tax-basis income statement. The company is also required to provide the income statement period and indicate if the income statement has been restated.
+
+Part II: Reconciliation of Net Income (Loss) per Income Statement of Includible Corporations With Taxable Income per Return
+- This part focuses on reconciling income (loss) items between the income statement and the tax return. It includes items such as income (loss) from equity method foreign corporations, subpart F, QEF, and similar income inclusions, U.S. dividends not eliminated in tax consolidation, and income (loss) from U.S. partnerships. The company is required to provide the income (loss) per income statement, temporary difference, permanent difference, and income (loss) per tax return for each item.
+
+Part III: Reconciliation of Net Income (Loss) per Income Statement of Includible Corporations With Taxable Income per Return Expense/Deduction Items
+- This part focuses on reconciling expense/deduction items between the income statement and the tax return. It includes items such as U.S. current income tax expense, state and local current income tax expense, foreign current income tax expense, stock option expense, meals and entertainment expenses, and depreciation. The company is required to provide the expense per income statement, temporary difference, permanent difference, and deduction per tax return for each item.
+
+The form also includes sections for the company's total assets and total liabilities, as well as checkboxes to indicate the type of return (consolidated group, parent corp, consolidated eliminations, etc.) and whether it is a sub-consolidated or mixed group.
+
+It is important for companies to accurately complete Schedule M-3 to ensure the reconciliation of net income (loss) and taxable income is properly reported to the IRS.

@@ -1,0 +1,15 @@
+Schedule J (Form 1118) is a document provided by the Internal Revenue Service (IRS) that is used to make adjustments to separate limitation income or losses for determining numerators of limitation fractions, year-end recharacterization balances, and overall foreign and domestic loss account balances. 
+
+The form consists of four parts:
+
+Part I: Adjustments to Separate Limitation Income or Losses in Determining Numerators of Limitation Fractions. This part includes various lines where the taxpayer can enter the amounts of different types of income or losses, such as Section 951A income, foreign branch income, passive category income, general category income, and other income. The taxpayer is required to allocate separate limitation losses and calculate the subtotal.
+
+Part II: Year-End Balances of Future Separate Limitation Income That Must Be Recharacterized. This part allows the taxpayer to report the year-end balances of future separate limitation income that must be recharacterized under section 904(f)(5)(C). Similar to Part I, the taxpayer needs to enter the amounts of different types of income or losses and calculate the subtotal.
+
+Part III: Overall Foreign Loss Account Balances. This part is used to calculate the overall foreign loss account balances for each separate limitation income category. The taxpayer needs to provide the beginning balance, current year additions, current year reductions (other than recapture), current year recapture (from Part I), and ending balance.
+
+Part IV: Overall Domestic Loss Account Balances. This part is similar to Part III but is used to calculate the overall domestic loss account balances. The taxpayer needs to provide the beginning balance, current year additions, current year reductions (other than recapture), current year recapture (from Part I), and ending balance.
+
+The taxpayer is required to attach Schedule J to Form 1118 and enter the results from Part I on Schedule B, Part II, line 7 of the corresponding Form 1118. The form also includes a note referring to a computer-generated Schedule J in the instructions for more information.
+
+Overall, Schedule J (Form 1118) is a tool for taxpayers to report and calculate adjustments to separate limitation income or losses, year-end recharacterization balances, and overall foreign and domestic loss account balances for tax purposes.

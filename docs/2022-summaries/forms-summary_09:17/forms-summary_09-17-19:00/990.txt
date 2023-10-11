@@ -1,0 +1,13 @@
+Form 990 is a document that organizations exempt from income tax under section 501(c), 527, or 4947(a)(1) of the Internal Revenue Code (except private foundations) must file with the Internal Revenue Service (IRS). The form provides information about the organization's mission, activities, governance, and financials.
+
+The form is divided into several parts. Part I is a summary section where the organization provides basic information such as its name, address, and tax-exempt status. Part II asks for a brief description of the organization's mission and significant activities. Part III asks for information about the organization's program service accomplishments. Part IV is a checklist of required schedules that the organization may need to complete. Part V asks for statements regarding other IRS filings and tax compliance. 
+
+Part VI focuses on the organization's governing body and management, including the number of voting members, independent voting members, and subordinates. Part VII asks for information about the compensation of officers, directors, trustees, key employees, highest compensated employees, and independent contractors. 
+
+Part VIII is a statement of revenue, including contributions, program service revenue, investment income, and other revenue. Part IX is a statement of functional expenses, including grants, compensation, fundraising expenses, and other expenses. 
+
+Part X is a balance sheet, showing the organization's assets, liabilities, and net assets or fund balances at the beginning and end of the year. Part XI reconciles the organization's net assets or fund balances from the beginning to the end of the year. 
+
+Part XII asks about the organization's financial statements and reporting, including the accounting method used, whether the financial statements were compiled, reviewed, or audited by an independent accountant, and whether the organization underwent required audits as a result of federal awards.
+
+Overall, Form 990 provides a comprehensive overview of an organization's activities, governance, and financials, allowing the IRS and the public to assess its compliance with tax laws and its use of resources.

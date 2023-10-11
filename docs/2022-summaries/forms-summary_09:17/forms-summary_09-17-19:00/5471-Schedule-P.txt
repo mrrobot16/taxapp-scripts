@@ -1,0 +1,13 @@
+Schedule P (Form 5471) is a document provided by the Internal Revenue Service (IRS) for reporting previously taxed earnings and profits (E&P) of a U.S. shareholder in certain foreign corporations. The form is to be attached to Form 5471 and can be found on the IRS website.
+
+The form requires the filer to provide their identifying information, including their name and identifying number, as well as the name of the U.S. shareholder and identifying number. The form also requires information about the foreign corporation, including its name, Employer Identification Number (EIN), and a reference ID number.
+
+The form is divided into two parts: Part I for reporting previously taxed E&P in the functional currency and Part II for reporting previously taxed E&P in U.S. dollars.
+
+In Part I, the filer is required to report various categories of previously taxed E&P, including reclassified section 965(a) PTEP, reclassified section 965(b) PTEP, general section 959(c)(1) PTEP, and others. The form provides lines for reporting the balance at the beginning of the year, beginning balance adjustments, adjusted beginning balance, reduction for taxes unsuspended under anti-splitter rules, previously taxed E&P attributable to distributions from lower-tier foreign corporations, previously taxed E&P carried over in nonrecognition transactions, other adjustments, total previously taxed E&P, amounts reclassified to section 959(c)(2) E&P from section 959(c)(3) E&P, actual distributions of previously taxed E&P, amounts reclassified to section 959(c)(1) E&P from section 959(c)(2) E&P, other adjustments, and the balance at the beginning of the next year.
+
+Part II follows a similar structure as Part I but requires the reporting of previously taxed E&P in U.S. dollars instead of the functional currency.
+
+The form includes additional sections for reporting reclassified section 951A PTEP, reclassified section 245A(d) PTEP, section 965(a) PTEP, section 965(b) PTEP, section 951A PTEP, section 245A(d) PTEP, and section 951(a)(1)(A) PTEP.
+
+Overall, Schedule P (Form 5471) is a detailed form that allows U.S. shareholders to report previously taxed earnings and profits from certain foreign corporations.

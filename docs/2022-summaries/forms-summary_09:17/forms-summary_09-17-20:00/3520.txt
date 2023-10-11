@@ -1,0 +1,1549 @@
+Form  3520
+Department of the Treasury 
+Internal Revenue Service
+Annual Return To Report Transactions With  
+Foreign Trusts and Receipt of Certain Foreign Gifts
+Go to www.irs.gov/Form3520 for instructions and the latest information.
+OMB No. 1545-0159
+2022
+Note: All information must be in English. Show all amounts in U.S. dollars. File a separate Form 3520 for each foreign trust.
+For calendar year 2022, or tax year beginning 
+, 2022, ending 
+, 20
+A
+Check appropriate boxes:
+Initial return
+Final return
+Amended return
+B
+Check box that applies to person filing return:
+Individual
+Partnership
+Corporation
+Trust
+Executor
+C
+Check if any excepted specified foreign financial assets are reported on this form. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Check all applicable boxes. See applicable instructions. 
+You are (a) a U.S. transferor who, directly or indirectly, transferred money or other property during the current tax year to a foreign trust; (b) a U.S. 
+person who (1) during the current tax year, transferred property (including cash) to a related foreign trust (or a person related to the trust) in 
+exchange for an obligation, or (2) holds a qualified obligation from the trust that is currently outstanding; or (c) the executor of the estate of a U.S. 
+decedent and (1) the decedent made a transfer to a foreign trust by reason of death, (2) the decedent was treated as the owner of any portion of a 
+foreign trust immediately prior to death, or (3) the decedent’s estate included any portion of the assets of a foreign trust. Complete all applicable 
+identifying information requested below and Part I of the form. 
+You are a U.S. owner of all or any portion of a foreign trust at any time during the tax year. Complete all applicable identifying information 
+requested below and Part II of the form. 
+You are (a) a U.S. person (including a U.S. owner) or an executor of the estate of a U.S. person who, during the current tax year, received, directly 
+or indirectly, a distribution from a foreign trust; (b) a U.S. person who is a U.S. owner or beneficiary of a foreign trust and in the current tax year, 
+you or a U.S. person related to you received (1) a loan of cash or marketable securities, directly or indirectly, from such foreign trust, or (2) the 
+uncompensated use of trust property; or (c) a U.S. person who is a U.S. owner or beneficiary of a foreign trust and in the current tax year such 
+foreign trust holds an outstanding qualified obligation of yours or a U.S. person related to you. Complete all applicable identifying information 
+requested below and Part III of the form. 
+You are a U.S. person who, during the current tax year, received certain gifts or bequests from a foreign person. Complete all applicable 
+identifying information requested below and Part IV of the form. 
+1a    Name of U.S. person(s) with respect to whom this Form 3520 is being filed (see instructions) 
+b   Taxpayer identification number (TIN)
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d   Spouse’s TIN
+e    City or town
+f   State or province
+g   ZIP or foreign postal code
+h   Country
+i
+If you are filing with your spouse a current-year joint income tax return and a joint Form 3520, check this box .
+.
+.
+.
+.
+.
+.
+.
+.
+j
+If an automatic 2-month extension applies for the U.S. person’s tax return, check this box and attach statement. See instructions .
+.
+.
+k
+If an extension was requested for the tax return, check this box
+and enter the form number of the tax return to be filed:
+2a    Name of foreign trust (if applicable)
+b   Employer identification number (EIN), if any
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d   Date foreign trust was created
+e    City or town
+f   State or province
+g   ZIP or foreign postal code
+h   Country
+3
+Did the foreign trust appoint a U.S. agent (defined in the instructions) who can provide the IRS with all relevant trust information?
+Yes
+No
+If “Yes,” complete lines 3a through 3g. If “No,” and you are required to complete Part I, complete lines 15 through 18.
+3a    Name of U.S. agent
+b   TIN, if any
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town
+e   State or province
+f   ZIP or postal code
+g   Country
+4a    Name of U.S. decedent (see instructions)
+b   Address
+c   TIN of decedent
+d    Date of death
+e   EIN of estate
+f
+Check applicable box.
+U.S. decedent made transfer to a foreign trust by reason of death.
+U.S. decedent treated as owner of foreign trust immediately prior to death.
+Assets of foreign trust were included in estate of U.S. decedent.
+For Privacy Act and Paperwork Reduction Act Notice, see instructions.
+Cat. No. 19594V
+Form 3520 (2022)
+Form 3520 (2022)
+Page 2
+Part I
+Transfers by U.S. Persons to a Foreign Trust During the Current Tax Year (see instructions)
+5a    Name of trust creator
+b   Address
+c   TIN, if any
+6a    Country code of country where trust was created
+b   Country code of country whose law governs the trust
+c   Date trust was created
+7a
+Will any person (other than the foreign trust) be treated as the owner of the transferred assets after the transfer? .
+.
+.
+.
+Yes
+No
+b
+(i)  
+Name of foreign 
+trust owner
+(ii)  
+Address
+(iii) 
+Country of residence
+(iv) 
+TIN, if any
+(v)  
+Relevant Code 
+section
+8
+Was the transfer a completed gift or bequest? If “Yes,” see instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+9a
+Now or at any time in the future, can any part of the income or corpus of the trust benefit any U.S. beneficiary? .
+.
+.
+.
+Yes
+No
+b
+If “No,” could the trust be revised or amended to benefit a U.S. beneficiary? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+10
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Schedule A—Obligations of a Related Trust (see instructions)
+11 a 
+During the current tax year, did you transfer property (including cash) to a related foreign trust in exchange for an obligation 
+of the trust or an obligation of a person related to the trust? See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” complete the rest of Schedule A, as applicable. If “No,” go to Schedule B.
+b
+Were any of the obligations you received (with respect to a transfer described in line 11a above) qualified obligations? .
+.
+Yes
+No
+If “Yes,” complete the rest of Schedule A and attach a copy of each loan document entered into with respect to each 
+qualified obligation reported on line 11b. If these documents have been attached to a Form 3520 filed within the previous 3 
+years, attach only relevant updates.
+If “No,” go to Schedule B. 
+(i) 
+Date of transfer giving rise to obligation
+(ii) 
+Maximum term
+(iii) 
+Yield to maturity
+(iv) 
+FMV of obligation
+12 
+ 
+With respect to each qualified obligation you reported on line 11b, do you agree to extend the period of assessment of any 
+income or transfer tax attributable to the transfer, and any consequential income tax changes for each year that the 
+obligation is outstanding, to a date 3 years after the maturity date of the obligation? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Note: You have the right to refuse to extend the period of limitations or limit this extension to a mutually agreed-upon 
+issue(s) or mutually agreed-upon period of time. Generally, if you refuse to extend the period of limitations with respect to 
+each qualified obligation you reported on line 11b, then such obligation is not a qualified obligation and you cannot check 
+“Yes” to the question on line 11b. 
+Schedule B—Gratuitous Transfers (see instructions)
+13 
+During the current tax year, did you make any transfers (directly or indirectly) to the trust and receive less than FMV, or no 
+consideration at all, for the property transferred? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” complete columns (a) through (i) below and the rest of Schedule B, as applicable. When completing columns (a) 
+through (i) with respect to each nonqualified obligation, enter -0- in column (h).
+If “No,” go to Schedule C.
+(a) 
+Date of 
+transfer
+(b) 
+Description 
+of property 
+transferred
+(c) 
+FMV of property 
+transferred
+(d) 
+U.S. adjusted 
+basis of  
+property  
+transferred
+(e) 
+Gain recognized  
+at time of  
+transfer, 
+if any
+(f) 
+Excess, if any,  
+of column (c)  
+over the sum of 
+columns (d) and (e)
+(g) 
+Description 
+of property 
+received,  
+if any
+(h) 
+FMV of property 
+received
+(i) 
+Excess of  
+column (c) over 
+column (h)
+Totals
+$
+$
+14 
+If you have a sale or loan document in connection with a transfer reported on line 13, complete 14a through 14c and attach the relevant 
+document(s). If these documents have been attached to a Form 3520 filed within the previous 3 years, attach only relevant updates.
+Are you attaching a copy of any of the following?
+Yes
+No
+Attached 
+Previously
+Year 
+Attached
+a
+Sale document 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Loan document 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Subsequent variances to original sale or loan documents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form 3520 (2022)
+Form 3520 (2022)
+Page 3
+Part I
+Schedule B—Gratuitous Transfers (continued)
+Note: Complete lines 15 through 18 only if you are required to complete Part I and answered “No” to line 3, acknowledging that the foreign trust did 
+not appoint a U.S. agent to provide the IRS with all relevant trust information. 
+15
+(a) 
+Name of beneficiary
+(b) 
+Address of beneficiary
+(c) 
+U.S. beneficiary?
+(d) 
+TIN, if any
+     
+     
+Yes
+No
+     
+16
+(a) 
+Name of trustee
+(b) 
+Address of trustee
+(c) 
+TIN, if any
+17
+(a) 
+Name of other person 
+with trust powers
+(b) 
+Address of other person with trust powers
+(c)  
+Description of powers
+(d) 
+TIN, if any
+18 
+If you checked “No” on line 3, you are required to attach a copy of all trust documents as indicated below. If these documents have been 
+attached to a Form 3520-A or Form 3520 filed within the previous 3 years, attach only relevant updates.
+Are you attaching a copy of any of the following?
+Yes
+No
+Attached 
+Previously
+Year 
+Attached
+a
+Summary of all written and oral agreements and understandings relating to the trust .
+.
+.
+.
+b
+Trust instrument 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Memoranda or letters of wishes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+d
+Subsequent variances to original trust documents 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+e
+Trust financial statements 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+f
+Organizational chart and other trust documents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule C—Qualified Obligations Outstanding in the Current Tax Year (see instructions)
+19 
+Did you, at any time during your tax year, hold an outstanding obligation of a related foreign trust (or a person related to the 
+trust) that you reported as a qualified obligation in the current tax year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+If “Yes,” complete columns (a) through (f) below for each obligation.
+(a) 
+Date of original  
+obligation
+(b) 
+Tax year qualified  
+obligation first reported
+(c) 
+Amount of principal  
+payments made during  
+your tax year
+(d) 
+Amount of interest 
+payments made during  
+your tax year
+(e) 
+Balance of the outstanding 
+obligation at the end 
+of the tax year
+(f) 
+Does the obligation  
+still meet the  
+criteria for a  
+qualified obligation?
+     
+     
+     
+     
+         
+Yes
+No
+Form 3520 (2022)
+Form 3520 (2022)
+Page 4
+Part II
+U.S. Owner of a Foreign Trust (see instructions)
+20
+(a) 
+Name of foreign 
+trust owner
+(b) 
+Address
+(c) 
+Country of tax residence
+(d) 
+TIN, if any
+(e) 
+Relevant Code 
+ section
+21a    Country code of country where foreign trust was created
+b   Country code of country whose law governs the trust
+c   Date foreign trust was created
+22
+Did the foreign trust file Form 3520-A for the current tax year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” attach the Foreign Grantor Trust Owner Statement you received from the foreign trust.
+If “No,” to the best of your ability, complete and attach a substitute Form 3520-A for the foreign trust. 
+See instructions for information on penalties for failing to complete and attach a substitute Form 3520-A.
+23
+Enter the gross value of the portion of the foreign trust that you are treated as owning at the end of your tax year .
+.
+$
+Part III
+Distributions to a U.S. Person From a Foreign Trust During the Current Tax Year (see instructions)
+Note: If you received an amount from a portion of a foreign trust of which you are treated as the owner, only complete lines 24 and 27.
+24 
+Enter cash amounts or FMV of property received, directly or indirectly, during your current tax year, from the foreign trust (exclude loans and 
+uncompensated use of trust property included on line 25).
+(a) 
+Date of distribution
+(b) 
+Description of property received
+(c) 
+FMV of property received 
+(determined on date 
+of distribution)
+(d) 
+Description of property 
+transferred, if any
+(e) 
+FMV of property 
+transferred
+(f) 
+Excess of column (c) 
+over column (e)
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+25 During your current tax year, did you (or a person related to you) receive a loan or uncompensated use of trust property from a 
+related foreign trust (including an extension of credit upon the purchase of property from the trust)? .
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+If “Yes,” complete columns (a) through (g) below for each such loan or use of trust property.
+Note: See instructions for additional information, including how to complete columns (a) through (g) for use of trust property.
+(a) 
+FMV of loan proceeds  
+or property
+(b) 
+Date of original 
+transaction
+(c) 
+Maximum term of 
+repayment of 
+obligation
+(d) 
+Interest rate 
+of obligation
+(e) 
+Is the obligation a 
+qualified obligation?
+(f) 
+FMV of qualified 
+obligation
+(g) 
+Amount treated as 
+distribution from the trust 
+(subtract column (f) 
+from column (a))
+     
+     
+     
+     
+Yes 
+No 
+     
+     
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+26 
+ 
+With respect to each obligation you reported as a qualified obligation on line 25, do you agree to extend the period of 
+assessment of any income or transfer tax attributable to the transaction, and any consequential income tax changes for each 
+year that the obligation is outstanding, to a date 3 years after the maturity date of the obligation? .
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Note: You have the right to refuse to extend the period of limitations or limit this extension to a mutually agreed-upon issue(s) 
+or mutually agreed-upon period of time. Generally, if you refuse to extend the period of limitations with respect to an obligation 
+that you reported as a qualified obligation on line 25, then such obligation is not a qualified obligation and you cannot check 
+“Yes” in column (e) of line 25.
+27
+Total distributions received during your current tax year. Add line 24, column (f), and line 25, column (g) .
+.
+.
+.
+.
+$
+28 Did the trust, at any time during the current tax year, hold an outstanding obligation of yours (or a person related to you) that 
+you reported as a qualified obligation?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+If “Yes,” complete columns (a) through (f) below for each obligation.
+(a) 
+Date of original 
+loan transaction
+(b) 
+Tax year qualified 
+obligation first 
+reported
+(c) 
+Amount of principal payments 
+made during your tax year
+(d) 
+Amount of interest payments 
+made during your tax year
+(e) 
+Balance of the outstanding 
+obligation at the end 
+of the tax year
+(f) 
+Does the loan still 
+meet the criteria of a 
+qualified obligation?
+     
+     
+     
+     
+       
+Yes
+No
+Form 3520 (2022)
+Form 3520 (2022)
+Page 5
+Part III
+Distributions to a U.S. Person From a Foreign Trust During the Current Tax Year (continued)
+29
+Did you receive a Foreign Grantor Trust Beneficiary Statement from the foreign trust with respect to a distribution? 
+Yes
+No
+N/A
+If “Yes,” attach the statement and do not complete the remainder of Part III with respect to that distribution.
+If “No,” complete Schedule A with respect to that distribution. Also, complete Schedule C if you enter an amount 
+greater than zero on line 37.
+30 
+Did you receive a Foreign Nongrantor Trust Beneficiary Statement from the foreign trust with respect to a distribution?
+Yes
+No
+N/A
+If “Yes,” attach the statement and complete either Schedule A or Schedule B below. See instructions. Also, complete 
+Schedule C if you enter an amount greater than zero on line 37 or line 41a. 
+If “No,” complete Schedule A with respect to that distribution. Also, complete Schedule C if you enter an amount 
+greater than zero on line 37.
+Schedule A—Default Calculation of Trust Distributions (see instructions)
+31
+Enter amount from line 27 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+31
+32 
+Number of years the trust has been a foreign trust, including the current tax year 
+(see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+32
+33 
+Enter total distributions received from the foreign trust during the 3 preceding tax years (or during the number 
+of years the trust has been a foreign trust, if fewer than 3 years, but excluding the current tax year) .
+.
+.
+.  
+33
+34
+Multiply line 33 by 1.25 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+34
+35 
+Average distribution. Divide line 34 by 3.0 (or the number of years the trust has been a foreign trust, if fewer 
+than 3 years, but excluding the current tax year) and enter the result .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+35
+36
+Amount treated as ordinary income earned in the current tax year. Enter the smaller of line 31 or line 35 
+.
+.
+36
+37
+Amount treated as accumulation distribution. Subtract line 36 from line 31. If zero, do not complete the rest of Part III
+37
+38
+Applicable number of years of trust. Divide line 32 by 2.0 and enter the result here
+38
+Schedule B—Actual Calculation of Trust Distributions (see instructions)
+39
+Enter amount from line 27 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+39
+40a
+Amount treated as ordinary income in the current tax year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+40a
+b
+Qualified dividends 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+40b
+41a
+Amount treated as accumulation distribution. If zero, do not complete Schedule C below .
+.
+.
+.
+.
+.
+.
+41a
+b
+Amount of line 41a that is tax exempt .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+41b
+42a
+Amount treated as net short-term capital gain in the current tax year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+42a
+b
+Amount treated as net long-term capital gain in the current tax year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+42b
+c
+28% rate gain .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+42c
+d
+Unrecaptured section 1250 gain 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+42d
+43
+Amount treated as distribution from trust corpus .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+43
+44 
+Enter any other distributed amount received from the foreign trust not included on lines 40a, 41a, 42a, 42b, 
+and 43. (Attach explanation.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+44
+45
+Amount of foreign trust’s aggregate undistributed net income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+45
+46
+Amount of foreign trust’s weighted undistributed net income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+46
+47 
+Applicable number of years of trust. Divide line 46 by line 45 and enter the result 
+here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+47
+Schedule C—Calculation of Interest Charge (see instructions)
+48
+Enter accumulation distribution from line 37 or line 41a, as applicable 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+48
+ 49
+Enter tax on total accumulation distribution from line 28 of Form 4970. (Attach Form 4970—see instructions.) .
+49
+50 
+Enter applicable number of years of foreign trust from line 38 or line 47, as 
+applicable (round to nearest half year) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+50
+51
+Combined interest rate imposed on the total accumulation distribution (see instructions) .
+.
+.
+.
+.
+.
+.  
+51
+52
+Interest charge. Multiply the amount on line 49 by the combined interest rate on line 51 
+.
+.
+.
+.
+.
+.
+.
+52
+53 
+Tax attributable to accumulation distributions. Add lines 49 and 52. Enter here and as “additional tax” on your 
+income tax return .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+53 
+Form 3520 (2022)
+Form 3520 (2022)
+Page 6
+Part IV
+U.S. Recipients of Gifts or Bequests Received During the Current Tax Year From Foreign Persons (see instructions)
+54 
+ 
+During your current tax year, did you receive more than $100,000 that you treated as gifts or bequests from a nonresident 
+alien (including a distribution received from a domestic trust treated as owned by a foreign person) or a foreign estate? See 
+instructions for special rules regarding related donors 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” complete columns (a) through (c) with respect to each such gift or bequest in excess of $5,000. If more space is 
+needed, attach a statement.
+(a) 
+Date of gift or bequest
+(b) 
+Description of property received
+(c) 
+FMV of property received
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+55 
+During your current tax year, did you receive amounts from a foreign corporation or a foreign partnership that you treated as 
+gifts in excess of the amount provided in the instructions? See instructions regarding related donors 
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+If “Yes,” complete columns (a) through (g) with respect to each such gift. If more space is needed, attach a statement.
+(a) 
+Date of gift
+(b) 
+Name of foreign donor
+(c) 
+Address of foreign donor 
+(d) 
+TIN, if any
+(e) 
+Check the box that applies to the foreign donor
+(f) 
+Description of property received
+(g) 
+FMV of property received
+Corporation
+Partnership
+     
+     
+56 
+Do you have any reason to believe that the foreign donor, in making any gift or bequest described in lines 54 and 55, was 
+acting as a nominee or intermediary for any other person? If “Yes,” see instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including any accompanying reports, schedules, or statements, and to the best of my 
+knowledge and belief, it is true, correct, and complete.
+Signature
+Title
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check        if 
+self-employed
+PTIN
+Firm’s name
+Firm’s EIN
+Firm’s address
+Phone no.
+Form 3520 (2022)

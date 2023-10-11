@@ -1,0 +1,11 @@
+Schedule D (Form 941) is a document used by employers in the United States to report discrepancies between their quarterly federal tax returns (Form 941) and wage and tax statements (Form W-2). The purpose of this schedule is to ensure that the wages reported on Form 941 match those reported on Form W-2 and that the appropriate taxes have been paid. 
+
+The schedule is divided into three parts. 
+
+Part 1 asks background questions to determine the reason for the discrepancies. Employers must indicate whether they are filing the schedule after a statutory merger or consolidation, or after an acquisition using an alternate procedure. They also need to provide the effective date of the transaction and information about the other party involved. 
+
+Part 2 is where employers report the discrepancies for each category, including social security wages, Medicare wages and tips, social security tips, federal income tax withheld, and advance earned income credit payments. 
+
+If employers are filing for more than one transaction in a calendar year, they must complete Part 3. This part requires them to file a separate Schedule D (Form 941) for each transaction and report the discrepancies for each category. 
+
+The schedule is used to help the IRS resolve discrepancies without contacting the employer directly. Employers are advised to read the instructions before filling out the schedule.

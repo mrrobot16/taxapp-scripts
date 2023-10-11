@@ -1,0 +1,7 @@
+Schedule R (Form 941) is an allocation schedule for aggregate Form 941 filers. It is used by employers to allocate tax amounts to each of their clients or customers. The form includes sections for the employer identification number (EIN), the name of the filer, the type of filer (such as Section 3504 Agent, CPEO, or Other Third Party), and the reporting period (calendar year and quarter).
+
+The form consists of multiple lines where the filer can input various amounts related to Form 941, such as wages, line totals, and subtotals for clients. The form also includes sections for Form 941 amounts for employees and totals. Additionally, there are lines for specific items on Form 941, such as line 5f, line 11a, line 11b, etc.
+
+The form provides continuation sheets for additional lines if needed. The continuation sheets follow the same format as the main Schedule R form.
+
+Overall, Schedule R (Form 941) is a detailed form that allows employers to allocate tax amounts to their clients or customers and track various items related to Form 941.

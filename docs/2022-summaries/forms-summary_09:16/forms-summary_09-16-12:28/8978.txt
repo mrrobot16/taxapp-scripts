@@ -1,0 +1,27 @@
+Form 8978 is a document used by partners to report additional taxes, penalties, and interest for a specific tax year. The form is provided by the Department of the Treasury and the Internal Revenue Service (IRS). 
+
+The form consists of three parts:
+
+Part I: Computation of Additional Reporting Year Tax
+- This section requires the partner to provide information about the tax years ended in four different dates.
+- The partner is required to report the total income and deductions per the original return or as previously adjusted.
+- Adjustments to income and deductions are also reported.
+- The corrected income and deductions are calculated by combining the original or adjusted amounts with the adjustments.
+- The corrected taxable income is determined by subtracting the corrected deductions from the corrected income.
+- The income tax and alternative minimum tax on the corrected taxable income are calculated.
+- The total corrected income tax is determined by adding the income tax and alternative minimum tax.
+- The partner is also required to report any adjustments to credits and calculate the corrected credits.
+- The total corrected income tax liability is determined by subtracting the corrected credits from the total corrected income tax.
+- The total income tax shown on the original return or as previously adjusted is reported.
+- The increase or decrease to tax is calculated by subtracting the total income tax shown on the original return from the total corrected income tax liability.
+- The total increase or decrease to reporting year tax is determined by adding the increase or decrease to tax for each column (a) through (d).
+
+Part II: Penalties
+- This section is for reporting any penalties incurred.
+- The partner is required to report the penalties and calculate the total penalties by adding them for each column (a) through (d).
+
+Part III: Interest
+- This section is for reporting any interest incurred.
+- The partner is required to report the interest and calculate the total interest by adding them for each column (a) through (d).
+
+The form includes instructions and a website link for additional information. It also includes a Paperwork Reduction Act Notice.

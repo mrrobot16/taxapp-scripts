@@ -1,0 +1,16 @@
+Schedule M-3 (Form 1120-F) is a form provided by the Internal Revenue Service (IRS) for foreign corporations with reportable assets of $10 million or more. It is used to reconcile the net income (loss) per the income statement of the corporation with the taxable income per the tax return.
+
+The form consists of three parts:
+
+Part I: Financial Information and Net Income (Loss) Reconciliation
+- This part requires the corporation to provide information regarding the use of treaty provisions, preparation of audited income statements, and certified audited income statements for the set(s) of books reported on Form 1120-F, Schedule L.
+
+Part II: Reconciliation of Net Income (Loss) per Income Statement
+- This part involves reconciling various income (loss) items between the income statement and the tax return. It includes items such as gross receipts, dividends, interest income, rental income, royalty income, net income from partnerships and pass-through entities, and other income items.
+
+Part III: Reconciliation of Net Income (Loss) per Income Statement
+- This part focuses on reconciling various expense/deduction items between the income statement and the tax return. It includes items such as income tax expenses, compensation expenses, stock option expenses, pension and profit-sharing expenses, depreciation expenses, interest expenses, rental expenses, and other expense items.
+
+The form requires the corporation to provide detailed information for each income (loss) item and expense/deduction item, including temporary differences, permanent differences, and other permanent differences for allocations to non-effectively connected income (ECI) and ECI.
+
+It is important for the corporation to accurately complete Schedule M-3 to ensure the reconciliation of net income (loss) between the income statement and the tax return, and to comply with IRS regulations.

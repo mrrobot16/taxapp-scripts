@@ -1,0 +1,15 @@
+Schedule L (Form 1118) is a document used by corporations to report foreign tax redeterminations to the Internal Revenue Service (IRS). It is attached to Form 1118 and must be filled out for each category of income.
+
+The form is divided into several parts:
+
+Part I: Increase in Amount of Foreign Taxes Accrued - This section requires the taxpayer to enter redetermined amounts of foreign taxes by payor entity for each separate relation back year. It includes information such as the name and identification number of the payor entity, the country or U.S. possession to which the tax is paid, the date of additional foreign tax payment, and the amount of additional tax accrued in local currency and U.S. dollars.
+
+Part II: Decrease in Amount of Foreign Taxes Paid or Accrued - This section is similar to Part I but focuses on redetermined amounts of foreign taxes that have been refunded or deemed refunded. It includes information such as the name and identification number of the payor entity, the country or U.S. possession from which the tax was refunded, the date of the refund, and the amount of tax refunded in local currency and U.S. dollars.
+
+Part III: Change in Inclusions; Change in Foreign Taxes Paid, Accrued, or Deemed Paid; and Change in Foreign Tax Credits Claimed - This section requires the taxpayer to report changes in inclusions, foreign taxes paid or accrued, and foreign tax credits claimed for each relation back year. It includes information such as the relation back year, redetermined and original amounts of taxes paid or accrued, inclusions under different sections of the tax code, and amounts of foreign tax credits claimed.
+
+Part IV: Change in U.S. Tax Liability - This section requires the taxpayer to report the change in U.S. tax liability for each relation back year and other affected years. It includes information such as the relation back year or affected tax year, the total redetermined U.S. tax liability, the total U.S. tax liability per original or amended return, and the difference between the two.
+
+Part V: Annual Reporting for Contested Taxes - This section is only applicable for tax year 2023 and onwards. It is used to report contested foreign tax liabilities for which the taxpayer has made an election to claim a provisional foreign tax credit. It includes information such as the relation back year, name of the payor entity, reference ID number for the contested tax, the country or U.S. possession to which the tax was paid, the amount of contested tax provisionally claimed as a credit, and the status and resolution of the contest.
+
+Overall, Schedule L (Form 1118) provides a detailed breakdown of foreign tax redeterminations and their impact on the taxpayer's U.S. tax liability.

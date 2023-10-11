@@ -1,0 +1,982 @@
+Form 1066 
+2022
+U.S. Real Estate Mortgage Investment Conduit 
+(REMIC) Income Tax Return
+Department of the Treasury  
+Internal Revenue Service  
+Go to www.irs.gov/Form1066 for instructions and the latest information.
+For calendar year 2022 or short tax year beginning 
+ , 20
+ , ending 
+ , 20 
+OMB No. 1545-0123
+Type or  
+Print 
+Name 
+Number, street, and room or suite no. (If a P.O. box, see instructions.) 
+City or town, state or province, country, ZIP or foreign postal code 
+A  Employer identification number (EIN)
+B  Date REMIC started 
+C  Enter total assets at end of tax year 
+$ 
+D 
+Check applicable boxes:  (1) 
+Final return
+(2) 
+Name change
+(3) 
+Address change
+Section I—Computation of Taxable Income or Net Loss 
+Income (excluding amounts from prohibited transactions) 
+1 
+Taxable interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Accrued market discount under section 860C(b)(1)(B) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Ordinary gain or (loss) (attach Form 4797) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Other income (attach statement—see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+5 
+6 
+Total income (loss). Add lines 1 through 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Deductions (excluding amounts allocable to prohibited transactions) 
+7 
+Salaries and wages 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Rent 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Amount accrued to regular interest holders in the REMIC that is deductible as interest 
+.
+.
+9 
+10 
+Other interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Taxes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Depreciation (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Other deductions (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Total deductions. Add lines 7 through 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Taxable income (or net loss). Subtract line 14 from line 6. Enter here and on page 3, 
+Schedule M,  column (c) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+Section II—Tax and Payments 
+1 
+Total tax (Schedule J, line 12) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Tax paid with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Tax due. Enter excess of line 1 over line 2. See Payment of Tax Due in the instructions .
+.
+3 
+4 
+Overpayment. Enter excess of line 2 over line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my 
+knowledge and belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has 
+any knowledge. 
+Signature 
+Date 
+May the IRS discuss this return  
+with the preparer shown below? 
+See instructions. 
+Yes 
+No 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name
+Firm’s address
+Firm’s EIN
+Phone no. 
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 64383U 
+Form 1066 (2022) 
+Form 1066 (2022) 
+Page  2 
+Schedule J 
+Tax Computation 
+Part I—Tax on Net Income From Prohibited Transactions 
+1 
+Income (see instructions)
+a Gain from certain dispositions of qualified mortgages 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a 
+b Income from nonpermitted assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b 
+c Compensation for services .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c 
+d Gain from the disposition of cash flow investments (except from a qualified liquidation) .
+.
+.
+.
+1d 
+2 
+Total income. Add lines 1a through 1d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Deductions directly connected with the production of income shown on line 2 (excluding 
+deductions attributable to prohibited transactions resulting in a loss) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Tax on net income from prohibited transactions. Subtract line 3 from line 2 .
+.
+.
+.
+.
+.
+.
+.
+4 
+Part II—Tax on Net Income From Foreclosure Property (as defined in section 860G(a)(8))  
+(Caution: See instructions before completing this part.)
+5 
+Net gain or (loss) from the sale or other disposition of foreclosure property described in section 
+1221(a)(1) (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Gross income from foreclosure property (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Total income from foreclosure property. Add lines 5 and 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Deductions directly connected with the production of income shown on line 7 (attach statement) .
+8 
+9 
+Net income from foreclosure property. Subtract line 8 from line 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Tax on net income from foreclosure property. Enter 21% (0.21) of line 9 .
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+Part III—Tax on Contributions After the Startup Day 
+(Don’t complete this part if the startup day was before July 1, 1987. See instructions.) 
+11 
+Tax. Enter amount of taxable contributions received during the calendar year after the startup 
+day. See instructions. Attach statement .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+Part IV—Total Tax 
+12 
+Total tax. Add lines 4, 10, and 11. Enter here and on page 1, Section II, line 1 .
+.
+.
+.
+.
+.
+.
+12 
+Form 1066 (2022) 
+Form 1066 (2022) 
+Page  3 
+Additional Information (see instructions) 
+E 
+What type of entity is this REMIC? Check box:
+Corporation
+Partnership
+Trust
+Segregated Pool of Assets
+Yes No 
+If you checked “Segregated Pool of Assets,” enter the name and type of entity that owns the assets: 
+Name: 
+Type: 
+F 
+Number of residual interest holders in this REMIC:
+G 
+Check this box if this REMIC had more than one residual interest holder at any time during the tax year and it is 
+electing out of the centralized partnership audit regime under section 6221(b) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If you check this box, you must attach Schedule B-2 (Form 1065).
+If you had more than one residual interest holder at any time during the tax year and you didn’t check this box, 
+complete the Designation of Partnership Representative on page 4.
+H 
+ 
+At any time during calendar year 2022, did the REMIC have a financial interest or signature authority or other 
+authority over any foreign financial account, including bank, securities, or other types of financial accounts in a 
+foreign country? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” the REMIC may have to file FinCEN Form 114. See instructions. 
+If “Yes,” enter name of foreign country:
+I 
+During the tax year, did the REMIC receive a distribution from, or was it the grantor of, or transferor to, a foreign
+trust? If “Yes,” see instructions for other forms the REMIC may have to file .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+J 
+Enter the amount of tax-exempt interest accrued during the year:
+K 
+Check this box if the REMIC had more than one class of regular interests 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If so, attach a statement identifying the classes and principal amounts outstanding for each at the end of the year. 
+L 
+Enter the sum of the daily accruals determined under section 860E(c) for the calendar year:
+Schedule L 
+Balance Sheets per Books 
+(a) Beginning of year 
+(b) End of year 
+Assets 
+    
+     
+1 
+Permitted investments (see instructions): 
+a Cash flow investments 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Qualified reserve assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c Foreclosure property .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+Qualified mortgages 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Other assets (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+4 
+Total assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Liabilities and Capital 
+5 
+Current liabilities (attach statement) .
+.
+.
+.
+.
+.
+6 
+Other liabilities (attach statement) .
+.
+.
+.
+.
+.
+.
+7 
+Regular interests in REMIC .
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Residual interest holders’ capital accounts .
+.
+.
+.
+9 
+Total liabilities and capital 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule M 
+Reconciliation of Residual Interest Holders’ Capital Accounts (Show reconciliation of each 
+residual interest holder’s capital account quarterly on Schedule Q (Form 1066), item F.) 
+(                             ) (                             ) 
+(a) Residual interest  
+holders’ capital  
+accounts at  
+beginning of year 
+(b) Capital  
+contributed during  
+year 
+(c) Taxable income  
+(or net loss) from  
+Section I, line 15 
+(d) Nontaxable  
+income 
+(e) Unallowable  
+deductions 
+(f) Withdrawals and  
+distributions 
+(g) Residual interest  
+holders’ capital accounts 
+at end of year (combine  
+cols. (a) through (f)) 
+Form 1066 (2022) 
+Form 1066 (2022) 
+Page  4 
+Designation of Partnership Representative (see instructions)
+Enter below the information for the partnership representative (PR) for the calendar year of this return.
+Name of  PR 
+U.S. address of PR
+U.S. phone 
+number of PR
+If the PR is an entity, 
+name of the 
+designated individual 
+for the PR 
+U.S. address of 
+designated individual
+U.S. phone 
+number of 
+designated 
+individual
+Form 1066 (2022) 

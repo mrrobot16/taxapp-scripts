@@ -1,0 +1,272 @@
+SCHEDULE 1 
+(Form 8936-A)
+2022
+Qualified Commercial Clean Vehicle Credit Amount
+Department of the Treasury  
+Internal Revenue Service 
+Attach to your tax return. 
+Go to www.irs.gov/Form8936A for instructions and the latest information.
+OMB No. 1545-2137
+Name(s) shown on return
+Identifying number
+1
+Vehicle details: 
+a
+Year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Make .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Model .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Vehicle identification number (VIN) (see instructions) .
+.
+3
+Enter date vehicle was placed in service (MM/DD/YYYY) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 a Does the VIN you entered on line 2 belong to a qualified commercial clean vehicle you acquired after 2022 and placed in 
+service during your tax year? See instructions for definitions. 
+Yes.
+No. Stop here. You can’t use this schedule to figure a credit amount for other types of vehicles or for any vehicle acquired 
+before 2023.
+b Did you acquire the vehicle for use or to lease to others, and not for resale? Answer “No” if you are leasing the vehicle from 
+another person.
+Yes.
+No. Stop here. You can’t claim a credit amount for a vehicle you didn’t acquire for use or to lease to others, and not for 
+resale. 
+c Is the vehicle of a character subject to the allowance for depreciation? Answer “Yes” if the exception for certain tax-exempt 
+entities discussed in the instructions applies.
+Yes.
+No. Stop here. The vehicle isn’t a qualified commercial clean vehicle unless the exception applies.
+d
+Is the vehicle used primarily outside the United States? Answer “No” if it is but an exception applies. See instructions. 
+Yes. Stop here. You can’t claim a credit amount for a vehicle used primarily outside the United States.
+No. 
+e
+Is the vehicle also powered by gas or diesel? See instructions. 
+Yes. 
+No. 
+5
+Enter the cost or other basis of the vehicle. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Section 179 expense deduction (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Subtract line 6 from line 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Multiply line 7 by 15% (0.15) [30% (0.30) if the answer on line 4e above is “No”] 
+.
+.
+.
+.
+8
+9
+Enter the incremental cost of the vehicle. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Enter the smaller of line 8 or line 9 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11 
+Maximum credit. Enter $7,500 ($40,000 if the vehicle’s gross vehicle weight rating (GVWR) is 
+14,000 pounds or more) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Enter the smaller of line 10 or line 11. Include this credit amount on line 1 of Form 8936-A .
+12
+For Paperwork Reduction Act Notice, see the Form 8936-A instructions.
+Cat. No. 93501K
+Schedule 1 (Form 8936-A) 2022

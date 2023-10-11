@@ -1,0 +1,17 @@
+Form 1120 is the U.S. Corporation Income Tax Return form used by corporations to report their income, deductions, and tax liability to the IRS. The form is applicable for the tax year beginning in 2022. The form requires corporations to provide information such as their name, address, employer identification number, date of incorporation, and total assets.
+
+The form consists of several sections, including Income, Deductions, Tax, Refundable Credits, and Payments. In the Income section, corporations report their gross receipts or sales, returns and allowances, cost of goods sold, and other sources of income such as dividends, interest, rents, royalties, and capital gains.
+
+In the Deductions section, corporations report various expenses such as compensation of officers, salaries and wages, repairs and maintenance, bad debts, rents, taxes and licenses, interest, charitable contributions, depreciation, and other deductions.
+
+The Tax, Refundable Credits, and Payments section calculates the taxable income, total tax liability, and any refundable credits or payments made by the corporation. It also includes information on net operating loss deductions, special deductions, estimated tax penalties, and the amount owed or overpaid.
+
+The Other Information section requires corporations to provide additional details about their accounting method, business activity, ownership structure, asset transfers, and other relevant information.
+
+The Balance Sheets per Books section requires corporations to provide their assets, liabilities, and shareholders' equity at the beginning and end of the tax year.
+
+The Reconciliation of Income (Loss) per Books With Income per Return section, also known as Schedule M-1, reconciles the net income reported on the corporation's books with the income reported on the tax return. It identifies any differences between the two and explains the reasons for those differences.
+
+The Analysis of Unappropriated Retained Earnings per Books section, also known as Schedule M-2, analyzes the changes in the corporation's unappropriated retained earnings throughout the tax year. It includes the beginning balance, net income, other increases and decreases, distributions, and the ending balance.
+
+Overall, Form 1120 is a comprehensive tax return form that allows corporations to report their financial information accurately and calculate their tax liability in accordance with the tax laws and regulations.

@@ -1,0 +1,912 @@
+SCHEDULE R 
+(Form 990)
+2022
+Related Organizations and Unrelated Partnerships
+Department of the Treasury  
+Internal Revenue Service 
+Complete if the organization answered “Yes” on Form 990, Part IV, line 33, 34, 35b, 36, or 37. 
+Attach to Form 990.  
+Go to www.irs.gov/Form990 for instructions and the latest information.
+OMB No. 1545-0047
+Open to Public 
+Inspection
+Name of the organization
+Employer identification number
+Part I
+Identification of Disregarded Entities. Complete if the organization answered “Yes” on Form 990, Part IV, line 33.
+(a) 
+Name, address, and EIN (if applicable) of disregarded entity
+(b) 
+Primary activity
+(c)  
+Legal domicile (state  
+or foreign country)
+(d) 
+Total income
+(e) 
+End-of-year assets
+(f)  
+Direct controlling  
+entity
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+Part II
+Identification of Related Tax-Exempt Organizations. Complete if the organization answered “Yes” on Form 990, Part IV, line 34, because it had  
+one or more related tax-exempt organizations during the tax year.
+(a) 
+Name, address, and EIN of related organization
+(b) 
+ Primary activity
+(c)  
+Legal domicile (state  
+or foreign country)
+(d) 
+Exempt Code section
+(e)  
+Public charity status  
+(if section 501(c)(3))
+(f)  
+Direct controlling  
+entity
+(g) 
+Section 512(b)(13) 
+controlled 
+entity?
+    
+    
+    
+    
+     
+     
+Yes
+No
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+For Paperwork Reduction Act Notice, see the Instructions for Form 990.
+Cat. No. 50135Y
+Schedule R (Form 990) 2022
+Schedule R (Form 990) 2022
+Page 2
+Part III
+Identification of Related Organizations Taxable as a Partnership. Complete if the organization answered “Yes” on Form 990, Part IV, line 34,  
+because it had one or more related organizations treated as a partnership during the tax year.
+(a) 
+Name, address, and EIN of 
+related organization
+(b) 
+Primary activity
+(c) 
+Legal  
+domicile 
+(state or 
+foreign 
+country)
+(d) 
+Direct controlling 
+entity
+(e) 
+Predominant 
+income (related, 
+unrelated, 
+excluded from 
+tax under 
+sections 512—514)
+(f) 
+Share of total 
+income
+(g) 
+Share of end-of-
+year assets
+(h) 
+Disproportionate 
+allocations?
+(i) 
+Code V—UBI  
+amount in box 20 
+of Schedule K-1  
+(Form 1065)
+(j) 
+General or 
+managing 
+partner?
+(k) 
+Percentage 
+ownership
+     
+     
+     
+     
+     
+     
+     
+Yes
+No
+     
+Yes
+No
+     
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+Part IV
+Identification of Related Organizations Taxable as a Corporation or Trust. Complete if the organization answered “Yes” on Form 990, Part IV,  
+line 34, because it had one or more related organizations treated as a corporation or trust during the tax year.
+(a) 
+Name, address, and EIN of related organization
+(b) 
+Primary activity
+(c) 
+Legal domicile 
+(state or foreign country)
+(d) 
+Direct controlling 
+entity
+(e) 
+Type of entity  
+(C corp, S corp, or trust)
+(f) 
+Share of total 
+income
+(g) 
+Share of 
+end-of-year assets
+(h) 
+Percentage 
+ownership
+(i) 
+Section 512(b)(13) 
+controlled 
+entity?
+    
+    
+    
+    
+     
+     
+     
+     
+Yes
+No
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+Schedule R (Form 990) 2022
+Schedule R (Form 990) 2022
+Page 3
+Part V
+Transactions With Related Organizations. Complete if the organization answered “Yes” on Form 990, Part IV, line 34, 35b, or 36.
+Note: Complete line 1 if any entity is listed in Parts II, III, or IV of this schedule.
+Yes
+No
+1
+During the tax year, did the organization engage in any of the following transactions with one or more related organizations listed in Parts II–IV?
+a
+Receipt of (i) interest, (ii) annuities, (iii) royalties, or (iv) rent from a controlled entity 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b
+Gift, grant, or capital contribution to related organization(s) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+c
+Gift, grant, or capital contribution from related organization(s) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c
+d
+Loans or loan guarantees to or for related organization(s) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d
+e
+Loans or loan guarantees by related organization(s) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1e
+f
+Dividends from related organization(s) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1f
+g
+Sale of assets to related organization(s) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1g
+h
+Purchase of assets from related organization(s) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1h
+i
+Exchange of assets with related organization(s)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1i
+j
+Lease of facilities, equipment, or other assets to related organization(s) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1j
+k
+Lease of facilities, equipment, or other assets from related organization(s) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1k
+l
+Performance of services or membership or fundraising solicitations for related organization(s) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1l
+m Performance of services or membership or fundraising solicitations by related organization(s) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1m
+n
+Sharing of facilities, equipment, mailing lists, or other assets with related organization(s) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1n
+o
+Sharing of paid employees with related organization(s) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1o
+p
+Reimbursement paid to related organization(s) for expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1p
+q
+Reimbursement paid by related organization(s) for expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1q
+r
+Other transfer of cash or property to related organization(s) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1r
+s
+Other transfer of cash or property from related organization(s) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1s
+2
+If the answer to any of the above is “Yes,” see the instructions for information on who must complete this line, including covered relationships and transaction thresholds.
+(a) 
+Name of related organization
+(b) 
+Transaction 
+type (a—s)
+(c) 
+Amount involved
+(d) 
+Method of determining amount involved
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+Schedule R (Form 990) 2022
+Schedule R (Form 990) 2022
+Page 4
+Part VI
+Unrelated Organizations Taxable as a Partnership. Complete if the organization answered “Yes” on Form 990, Part IV, line 37.
+Provide the following information for each entity taxed as a partnership through which the organization conducted more than five percent of its activities (measured by total assets 
+or gross revenue) that was not a related organization. See instructions regarding exclusion for certain investment partnerships.
+(a) 
+Name, address, and EIN of entity
+(b) 
+Primary activity
+(c) 
+Legal domicile 
+(state or foreign 
+country)
+(d) 
+Predominant  
+income (related, 
+unrelated, excluded 
+from tax under 
+sections 512—514) 
+(e) 
+Are all partners 
+section 
+501(c)(3) 
+organizations?
+(f) 
+Share of  
+total income
+(g) 
+Share of  
+end-of-year 
+assets
+(h) 
+Disproportionate 
+allocations?
+(i) 
+Code V—UBI 
+amount in box 20 
+of Schedule K-1 
+(Form 1065)
+(j) 
+General or 
+managing 
+partner?
+(k) 
+Percentage 
+ownership
+     
+     
+     
+     
+Yes
+No      
+     
+Yes
+No      
+Yes
+No      
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(11)
+(12)
+(13)
+(14)
+(15)
+(16)
+Schedule R (Form 990) 2022
+Schedule R (Form 990) 2022
+Page 5
+Part VII
+Supplemental Information  
+Provide additional information for responses to questions on Schedule R. See instructions.
+Schedule R (Form 990) 2022

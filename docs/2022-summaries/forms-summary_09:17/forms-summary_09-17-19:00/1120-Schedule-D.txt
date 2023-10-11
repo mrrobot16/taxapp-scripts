@@ -1,0 +1,15 @@
+Schedule D (Form 1120) is a tax form used by corporations in the United States to report capital gains and losses for the tax year. This form is attached to various tax forms, such as Form 1120, 1120-C, 1120-F, and others.
+
+The form begins by asking if the corporation disposed of any investments in a qualified opportunity fund during the tax year. If the answer is yes, the corporation is required to attach Form 8949 and follow its instructions for reporting the gain or loss.
+
+The form is divided into three parts: Part I for short-term capital gains and losses, Part II for long-term capital gains and losses, and Part III for a summary of Parts I and II.
+
+In Part I, the corporation is instructed to enter the proceeds (sales price), cost (or other basis), and any adjustments to gain or loss from Form 8949. The form provides separate lines for reporting totals for short-term transactions reported on Form 1099-B, transactions reported on Form 8949 with Box A checked, transactions with Box B checked, and transactions with Box C checked. Additionally, there are lines for reporting short-term capital gains from installment sales, like-kind exchanges, and unused capital loss carryover. The net short-term capital gain or loss is calculated by combining the amounts from lines 1a through 6.
+
+Part II follows a similar format as Part I but is used for reporting long-term capital gains and losses. The form provides lines for reporting totals for long-term transactions reported on Form 1099-B, transactions reported on Form 8949 with Box D checked, transactions with Box E checked, and transactions with Box F checked. There are also lines for reporting long-term capital gains from Form 4797 and installment sales, like-kind exchanges, and capital gain distributions. The net long-term capital gain or loss is calculated by combining the amounts from lines 8a through 14.
+
+Part III summarizes the information from Parts I and II. It includes lines for entering the excess of net short-term capital gain over net long-term capital loss and the net capital gain. The total from line 18 is then entered on Form 1120, page 1, line 8, or the applicable line on other tax returns.
+
+The form concludes with a note reminding corporations to refer to the instructions for guidance on reporting capital losses and a reference to the Paperwork Reduction Act Notice.
+
+Overall, Schedule D (Form 1120) is used to report capital gains and losses for corporations and provides a structured format for organizing and calculating these amounts.

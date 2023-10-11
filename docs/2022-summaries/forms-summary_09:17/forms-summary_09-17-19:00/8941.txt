@@ -1,0 +1,15 @@
+Form 8941 is a document provided by the Internal Revenue Service (IRS) for the purpose of claiming the Credit for Small Employer Health Insurance Premiums. This form is to be attached to the taxpayer's tax return. The form includes various sections and instructions for completing each section.
+
+Section A of the form asks whether the taxpayer paid premiums for employee health insurance coverage through a Small Business Health Options Program (SHOP) Marketplace. If the answer is yes, the taxpayer must enter the Marketplace Identifier. If the answer is no, the taxpayer may be eligible for an exception and should refer to the instructions.
+
+Section B asks for the employer identification number (EIN) used to report employment taxes, if different from the identifying number listed above.
+
+Section C inquires whether a previous tax return filed by the taxpayer or any predecessor includes a Form 8941 with line A checked yes and line 12 showing a positive amount. If the answer is yes, the taxpayer may be eligible for an exception and should refer to the instructions.
+
+The subsequent sections of the form include various worksheets and calculations to determine the eligibility and amount of the credit. These sections involve entering the number of employees, calculating average annual wages, and determining the premiums paid for employee health insurance coverage. The form also includes instructions for completing Worksheets 1 through 7 as needed.
+
+The final sections of the form involve calculating the applicable percentage based on the type of employer (tax-exempt or other small employer), determining the credit amount based on various factors, and allocating the credit for partnerships, S corporations, cooperatives, estates, and trusts.
+
+The form concludes with a section to enter the amount paid for taxes considered payroll taxes for the purpose of the credit and provides instructions for tax-exempt small employers.
+
+Taxpayers should consult the instructions provided with Form 8941 for detailed guidance on completing the form and claiming the credit.

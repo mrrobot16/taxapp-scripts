@@ -1,0 +1,17 @@
+Form 8821 is a Tax Information Authorization form issued by the Internal Revenue Service (IRS) of the Department of the Treasury in the United States. This form is used to authorize individuals or entities to access and receive confidential tax information on behalf of the taxpayer.
+
+The form consists of several sections:
+
+1. Taxpayer Information: This section requires the taxpayer's name, address, taxpayer identification number(s), daytime telephone number, and plan number (if applicable). The taxpayer must sign and date the form on line 6.
+
+2. Designee(s): This section allows the taxpayer to name one or more individuals or entities as designees. If there are more than two designees, an attached list should be provided. The designees' names, addresses, telephone numbers, fax numbers, and other relevant details should be provided. The taxpayer can also indicate whether the designees should receive copies of notices and communications.
+
+3. Tax Information: In this section, the taxpayer specifies the type of tax information (e.g., income, employment, payroll, etc.), tax form number (e.g., 1040, 941, 720, etc.), year(s) or period(s), and specific tax matters for which the designees are authorized to access the information. The taxpayer can also authorize access to their IRS records via an Intermediate Service Provider.
+
+4. Specific Use Not Recorded on the Centralized Authorization File (CAF): If the tax information authorization is for a specific use not recorded on the Centralized Authorization File, the taxpayer should check this box. Further instructions can be found in the form.
+
+5. Retention/Revocation of Prior Tax Information Authorizations: If the taxpayer checked the box in line 4, they can skip this section. Otherwise, the IRS will automatically revoke all prior tax information authorizations on file unless the taxpayer checks the box in line 5 and attaches a copy of the tax information authorization(s) they want to retain. Instructions for revoking prior tax information authorizations without submitting a new authorization are also provided.
+
+6. Taxpayer Signature: The taxpayer or an authorized individual must sign, date, and print their name in this section. If signed by someone other than the taxpayer, the form certifies that the signer has the legal authority to execute the form on behalf of the taxpayer.
+
+It is important to note that this form should not be used to request copies of tax returns or to authorize someone to represent the taxpayer. The latest instructions and information regarding Form 8821 can be found on the IRS website at www.irs.gov/Form8821.

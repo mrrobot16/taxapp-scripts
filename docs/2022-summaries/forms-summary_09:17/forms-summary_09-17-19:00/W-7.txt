@@ -1,0 +1,13 @@
+Form W-7 is an application for an Individual Taxpayer Identification Number (ITIN) issued by the Internal Revenue Service (IRS) of the United States. This form is used by individuals who are not U.S. citizens or permanent residents and do not have a U.S. social security number (SSN). 
+
+The form contains various boxes to be checked based on the reason for submitting the form. The reasons include applying for a new ITIN, renewing an existing ITIN, or claiming tax treaty benefits. Depending on the reason selected, the applicant may be required to file a U.S. federal tax return along with Form W-7, unless they meet certain exceptions.
+
+The form also requires personal information such as name, mailing address, foreign address, date of birth, gender, citizenship, and information about any previous ITIN or IRSN (Internal Revenue Service Number) received. Additionally, the form asks for information regarding the applicant's U.S. visa, identification documents submitted, and the name of the college/university or company they are associated with.
+
+The form must be signed by the applicant or their delegate, and they declare under penalties of perjury that the information provided is true, correct, and complete. The applicant may authorize the IRS to share information with their acceptance agent to complete the form.
+
+The form includes sections for the delegate's information, including their relationship to the applicant, and sections for acceptance agents to fill out if applicable.
+
+It is important to keep a copy of the completed form for record-keeping purposes.
+
+The form includes a Paperwork Reduction Act Notice for reference.

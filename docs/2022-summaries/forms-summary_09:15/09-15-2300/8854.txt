@@ -1,0 +1,12 @@
+Form 8854 is an Initial and Annual Expatriation Statement form issued by the Internal Revenue Service (IRS) for individuals who have expatriated from the United States. The form is used to provide information about the expatriate's general information, expatriation details, balance sheet, property owned on the date of expatriation, and tax deferral elections.
+
+The form consists of several sections:
+
+- Part I: General Information, where the filer provides their mailing address, telephone number, address of principal foreign residence, country of tax residence, and citizenship information.
+- Part II: Initial Expatriation Statement for Persons Who Expatriated in 2022, where the filer provides information about their U.S. income tax liability, net worth, and other details related to their expatriation.
+- Part III: Annual Expatriation Statement for Persons Who Expatriated Before 2022, where the filer provides information about any deferred compensation items, distributions received, and other relevant details for the tax year.
+- Section A, B, C, and D: These sections provide detailed instructions and fields for the filer to report their expatriation information, balance sheet, property owned, and tax deferral elections.
+
+The form requires the filer's signature under penalties of perjury, declaring that the information provided is true, correct, and complete. The form also includes sections for preparer information if applicable.
+
+For more detailed instructions and the latest information regarding Form 8854, individuals are directed to visit the IRS website at www.irs.gov/Form8854.

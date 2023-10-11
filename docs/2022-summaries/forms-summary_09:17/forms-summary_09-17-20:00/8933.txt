@@ -1,0 +1,921 @@
+Form  8933
+(Rev. December 2022)
+Department of the Treasury 
+Internal Revenue Service
+Carbon Oxide Sequestration Credit
+Attach to your tax return. 
+Go to www.irs.gov/Form8933 for instructions and the latest information.
+OMB No. 1545-2132
+Attachment 
+Sequence No.  165
+Name(s) shown on return
+Identifying number
+Part I
+Information About You
+Check the applicable box(es). See instructions before completing this form.
+1
+Captured qualified carbon oxide during the tax year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Physically disposed, used, or utilized captured qualified carbon oxide during the tax year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Elected to allow another taxpayer to claim the carbon oxide sequestration credit that you would’ve otherwise been 
+entitled to .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Another taxpayer elected to allow you to claim the carbon oxide sequestration credit that they would’ve otherwise been 
+entitled to .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part II
+Facilities at Which Qualified Carbon Oxide Qualifies for a Credit Under Section 45Q(a)(1) or (2), or for 
+Which an Election Was Made Under Section 45Q(b)(3) 
+1 
+ 
+ 
+Qualified carbon oxide captured using carbon capture equipment originally placed in service 
+at a qualified facility before February 9, 2018, disposed of in secure geological storage, and not 
+used as a tertiary injectant in a qualified enhanced oil or natural gas recovery project, nor 
+utilized as described in section 45Q(f)(5).
+a 
+ 
+Metric tons captured and disposed of and for which you didn’t elect for another 
+taxpayer to claim the carbon oxide sequestration credit. See instructions for 
+attaching Model Certificates CF, DISP-Operator, and DISP-Owner .
+.
+.
+.  
+1a
+b
+Inflation-adjusted credit rate (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+c
+Multiply line 1a by line 1b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c
+2 
+ 
+Qualified carbon oxide captured using carbon capture equipment originally placed in service at 
+a qualified facility before February 9, 2018, disposed of in secure geological storage, and used
+as a tertiary injectant in a qualified enhanced oil or natural gas recovery project.
+a 
+ 
+Metric tons captured and disposed of and for which you didn’t elect for another 
+taxpayer to claim the carbon oxide sequestration credit. See instructions for 
+attaching Model Certificates CF, EOR-Operator, and EOR-Owner 
+.
+.
+.
+.
+2a
+b
+Inflation-adjusted credit rate (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c
+Multiply line 2a by line 2b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+3 
+Qualified carbon oxide captured using carbon capture equipment originally placed in service at 
+a qualified facility before February 9, 2018, and utilized as described in section 45Q(f)(5).
+a 
+ 
+Metric tons captured and utilized and for which you didn’t elect for another 
+taxpayer to claim the carbon oxide sequestration credit. See instructions for 
+attaching Model Certificates CF and UTZ 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b
+Inflation-adjusted credit rate (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+c
+Multiply line 3a by line 3b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c
+Part III
+Qualified Facilities Under Section 45Q(a)(3) or (4) for Which No Election Was Made Under Section 
+45Q(b)(3)
+4 
+ 
+ 
+ 
+Qualified carbon oxide captured using carbon capture equipment originally placed in service 
+at a qualified facility on or after February 9, 2018, during the 12-year period beginning on the 
+date the equipment was originally placed in service, disposed of in secure geological storage, 
+and not used as a tertiary injectant in a qualified enhanced oil or natural gas recovery project, 
+nor utilized as described in section 45Q(f)(5). 
+a 
+ 
+Metric tons captured and disposed of and for which you didn’t elect for another 
+taxpayer to claim the carbon oxide sequestration credit. See instructions for 
+attaching Model Certificates CF, DISP-Operator, and DISP-Owner .
+.
+.
+.
+4a
+b
+Section 45Q(a)(3) applicable dollar amount (see instructions) .
+.
+.
+.
+.
+.
+4b
+c
+Multiply line 4a by line 4b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4c
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 37748H
+Form 8933 (Rev. 12-2022)
+Form 8933 (Rev. 12-2022)
+Page 2
+Part III
+Qualified Facilities Under Section 45Q(a)(3) or (4) for Which No Election Was Made Under Section 
+45Q(b)(3) (continued)
+5 
+ 
+ 
+Qualified carbon oxide captured using carbon capture equipment originally placed in service 
+at a qualified facility on or after February 9, 2018, during the 12-year period beginning on the 
+date the equipment was originally placed in service, disposed of in secure geological storage, 
+and used as a tertiary injectant in a qualified enhanced oil or natural gas recovery project. 
+a 
+ 
+Metric tons captured and disposed of and for which you didn’t elect for another 
+taxpayer to claim the carbon oxide sequestration credit. See instructions for 
+attaching Model Certificates CF, EOR-Operator, and EOR-Owner 
+.
+.
+.
+.
+5a
+b
+Section 45Q(a)(4) applicable dollar amount (see instructions) .
+.
+.
+.
+.
+.
+5b
+c
+Multiply line 5a by line 5b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c
+6 
+ 
+Qualified carbon oxide captured using carbon capture equipment originally placed in service at 
+a qualified facility on or after February 9, 2018, during the 12-year period beginning on the date 
+the equipment was originally placed in service, and utilized as described in section 45Q(f)(5).
+a 
+ 
+Metric tons captured and utilized and for which you didn’t elect for another 
+taxpayer to claim the carbon oxide sequestration credit. See instructions for 
+attaching Model Certificates CF and UTZ 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a
+b
+Section 45Q(a)(4) applicable dollar amount (see instructions) .
+.
+.
+.
+.
+.
+6b
+c
+Multiply line 6a by line 6b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6c
+Part IV
+Qualified Direct Air Capture Facilities Under Section 45Q(d) Placed in Service After 2022
+7 
+ 
+ 
+ 
+Qualified carbon oxide captured using carbon capture equipment originally placed in service at 
+a qualified direct air capture facility after 2022, during the 12-year period beginning on the date 
+the equipment was originally placed in service, disposed of in secure geological storage, and 
+not used as a tertiary injectant in a qualified enhanced oil or natural gas recovery project, nor 
+utilized as described in section 45Q(f)(5).
+a 
+ 
+Metric tons captured and disposed of and for which you didn’t elect for another 
+taxpayer to claim the carbon oxide sequestration credit. See instructions for 
+attaching Model Certificates CF, DISP-Operator, and DISP-Owner .
+.
+.
+.
+7a
+b
+Section 45Q(b)(1)(B)(i) applicable dollar amount (see instructions) 
+.
+.
+.
+.  
+7b
+c
+Multiply line 7a by line 7b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7c
+8 
+ 
+ 
+Qualified carbon oxide captured using carbon capture equipment originally placed in service at 
+a qualified direct air capture facility after 2022, during the 12-year period beginning on the date 
+the equipment was originally placed in service, disposed of in secure geological storage, and 
+used as a tertiary injectant in a qualified enhanced oil or natural gas recovery project.
+a 
+ 
+Metric tons captured and disposed of and for which you didn’t elect for another 
+taxpayer to claim the carbon oxide sequestration credit. See instructions for 
+attaching Model Certificates CF, DISP-Operator, and DISP-Owner .
+.
+.
+.
+8a
+b
+Section 45Q(b)(1)(B)(ii) applicable dollar amount (see instructions) 
+.
+.
+.
+.  
+8b
+c
+Multiply line 8a by line 8b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8c
+9 
+ 
+Qualified carbon oxide captured using carbon capture equipment originally placed in service at 
+a qualified direct air capture facility after 2022, during the 12-year period beginning on the date 
+the equipment was originally placed in service, and utilized as described in section 45Q(f)(5).
+a 
+ 
+Metric tons captured and utilized and for which you didn’t elect for another 
+taxpayer to claim the carbon oxide sequestration credit. See instructions for 
+attaching Model Certificates CF and UTZ 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a
+b
+Section 45Q(b)(1)(B)(ii) applicable dollar amount (see instructions) 
+.
+.
+.
+.  
+9b
+c
+Multiply line 9a by line 9b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9c
+Form 8933 (Rev. 12-2022)
+Form 8933 (Rev. 12-2022)
+Page 3
+Part V
+Other Information
+10
+Check the box if you’re making the election under section 45Q(b)(3) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Check the box if you’re making the election under section 45Q(f)(6) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+Check the box if you’re making the election under section 45Q(f)(9) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+ 
+ 
+Carbon oxide sequestration credit that another taxpayer elected under section 45Q(f)(3)(B) to 
+allow you to claim. See instructions for attaching Model Certificates ELECT, EOR-Owner, 
+DISP-Owner, and UTZ. Provide basic information for the three largest elections (in dollars) on 
+lines 13a, 13b, and 13c; report all others on line 13e.
+(i) EIN of electing 
+taxpayer
+(ii) Metric tons 
+elected
+(iii) Credit 
+rates
+(iv) Credit elected. 
+Multiply column (ii) 
+by column (iii).
+a
+b
+c
+d
+Add lines 13a, 13b, and 13c in column (iv) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+13d
+e Report all other carbon oxide sequestration credit that another taxpayer 
+elected under section 45Q(f)(3)(B) to allow you to claim. See instructions .
+.  
+13e
+f
+Add lines 13d and 13e 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13f
+14
+Carbon oxide sequestration credit from partnerships and S corporations (see instructions) .
+.
+.
+.
+14
+15 
+Add lines 1c, 2c, 3c, 4c, 5c, 6c, 7c, 8c, 9c, 13f, and 14. Partnerships and S corporations, report this
+amount on Schedule K. All others, report this amount on Form 3800, Part III, line 1x .
+.
+.
+.
+.
+.
+15
+16 
+Carbon oxide sequestration credit recaptured. See instructions for attaching Model Certificate 
+RECAPTURE and for reporting this amount on the appropriate line of your return .
+.
+.
+.
+.
+.
+.
+16
+Form 8933 (Rev. 12-2022)

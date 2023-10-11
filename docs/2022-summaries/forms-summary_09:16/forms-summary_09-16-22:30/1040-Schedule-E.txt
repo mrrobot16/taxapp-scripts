@@ -1,0 +1,13 @@
+Schedule E (Form 1040) is a supplemental form used to report supplemental income and loss from various sources, such as rental real estate, royalties, partnerships, S corporations, estates, trusts, and REMICs. 
+
+Part I of the form is used to report income or loss from rental real estate and royalties. It includes sections for reporting payments made that require the filing of Form 1099, the physical address and type of property for each rental real estate property, and the number of fair rental and personal use days for each property. It also includes sections for reporting rents received and royalties received, as well as various expenses related to the rental properties.
+
+Part II is used to report income or loss from partnerships and S corporations. It includes sections for reporting the name, type, and identification number of each partnership or S corporation, as well as whether a basis computation or at-risk activity is required. It also includes columns for reporting passive income and loss, nonpassive income and loss, and totals for each.
+
+Part III is used to report income or loss from estates and trusts. It includes sections for reporting the name and identification number of each estate or trust, as well as columns for reporting passive deduction or loss, passive income, deduction or loss from Schedule K-1, and other income from Schedule K-1.
+
+Part IV is used to report income or loss from real estate mortgage investment conduits (REMICs) as a residual holder. It includes sections for reporting the name, identification number, excess inclusion, taxable income or net loss, and income from Schedules Q.
+
+Part V is a summary section that includes a line for reporting net farm rental income or loss from Form 4835, as well as a line for reconciling farming and fishing income and a line for reconciling real estate professional income.
+
+The form concludes with a line for reporting the total income or loss from all sources, which is then transferred to Schedule 1 (Form 1040), line 5. There are also lines for reconciling farming and fishing income and for reconciling real estate professional income.

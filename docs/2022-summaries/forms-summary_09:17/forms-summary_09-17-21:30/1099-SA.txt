@@ -1,0 +1,9 @@
+Form 1099-SA is a tax form used to report distributions from a health savings account (HSA), Archer medical savings account (MSA), or Medicare Advantage MSA. The form is divided into three copies: Copy A is filed with the Internal Revenue Service (IRS), Copy B is provided to the recipient, and Copy C is for the trustee/payer's records.
+
+The form requires the trustee/payer to provide their name, address, telephone number, and taxpayer identification number (TIN), as well as the recipient's name, address, and TIN. It also asks for the account number associated with the distribution.
+
+The form includes several boxes for reporting information about the distribution, including the gross distribution amount, earnings on excess contributions, distribution code, and fair market value on the date of death. There is also a box to indicate the type of account being reported (HSA, Archer MSA, or Medicare Advantage MSA).
+
+The instructions for the recipient explain that distributions from these accounts should be reported on Form 8853 or Form 8889 when filing their individual tax return, even if the distribution is not taxable. The instructions also provide information on when distributions are taxable and when they are not, as well as penalties for not using the distribution for qualified medical expenses.
+
+The instructions for the trustee/payer provide guidance on how to complete Form 1099-SA, including references to the general instructions for certain information returns and the specific instructions for Forms 1099-SA and 5498-SA. It also provides information on filing and furnishing the form, including electronic filing options and contact information for assistance.

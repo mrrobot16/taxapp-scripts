@@ -1,0 +1,13 @@
+Form 8915-C is a tax form issued by the Internal Revenue Service (IRS) for the year 2022. It is used to report qualified 2018 disaster retirement plan distributions and repayments. This form should be attached to the taxpayer's 2022 Form 1040, 1040-SR, or 1040-NR.
+
+The form includes two parts: Part I is for reporting qualified 2018 disaster distributions from retirement plans other than IRAs, and Part II is for reporting qualified 2018 disaster distributions from traditional, SEP, SIMPLE, and Roth IRAs.
+
+In Part I, the taxpayer is required to enter the amounts from their 2020 and 2021 Form 8915-C, lines 11 and 8 respectively, as well as the amounts from their 2021 Form 8915-C, line 3. They also need to subtract the amount from line 3b (carried back to a prior year) from line 3a to calculate the excess repayment. The taxpayer should then enter the total amount of repayments made before filing their 2022 tax return on line 5 and add lines 4 and 5 to get the total.
+
+In Part II, the taxpayer follows a similar process, entering the amounts from their 2020 and 2021 Form 8915-C, lines 27 and 17 respectively, as well as the amount from their 2021 Form 8915-C, line 12. They subtract the amount from line 10b (carried back to a prior year) from line 10a to calculate the excess repayment. The total amount of repayments made before filing the 2022 tax return should be entered on line 12, and lines 11 and 12 are added to get the total.
+
+The taxpayer should then subtract line 13 from line 8 in Part II to calculate the amount subject to tax in 2022. This amount should be included in the total on their 2022 Form 1040, 1040-SR, or 1040-NR, line 4b.
+
+The form includes a signature section for the taxpayer, and if applicable, for a paid preparer. It also provides instructions for completing the form and additional information for taxpayers to consider.
+
+Please note that this is a summary of the form and does not constitute tax advice. Taxpayers should consult the instructions and seek professional assistance if needed.

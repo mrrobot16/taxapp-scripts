@@ -1,0 +1,11 @@
+Schedule M-3 is a form that must be attached to Form 1065, the tax return for partnerships, under certain circumstances. The form is used to reconcile the net income or loss reported on the partnership's income statement with the income or loss reported on its tax return. 
+
+The form begins by asking the partnership to check the applicable boxes to indicate why they are filing Schedule M-3. The reasons include having total assets of $10 million or more, adjusted total assets of $10 million or more, total receipts of $35 million or more, or having a reportable entity partner with a 50% or more ownership interest. 
+
+Part I of the form requires the partnership to provide financial information and reconcile its net income or loss. It asks for information about the partnership's income statement period, whether any restatements were made, and the accounting standard used for reporting net income. It also asks for information about net income or loss from foreign entities and U.S. entities, as well as adjustments to eliminate transactions between includible and nonincludible entities. The section concludes with the calculation of the partnership's net income or loss per its income statement. 
+
+Part II of the form focuses on reconciling the net income or loss per the income statement with the income or loss per the tax return. It provides a list of income or loss items and asks for temporary and permanent differences between the income statement and tax return. The section also includes a reconciliation total. 
+
+Part III of the form focuses on reconciling the expense or deduction items per the income statement with the deductions per the tax return. It provides a list of expense or deduction items and asks for temporary and permanent differences between the income statement and tax return. The section concludes with the calculation of the total expense or deduction items. 
+
+Overall, Schedule M-3 is a detailed form that helps partnerships reconcile their financial information with their tax return and provides the IRS with additional information about the partnership's financial activities.

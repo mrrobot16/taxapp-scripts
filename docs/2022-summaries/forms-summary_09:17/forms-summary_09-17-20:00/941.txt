@@ -1,0 +1,928 @@
+Form   941 for 2023:
+(Rev. March 2023)
+Employer’s QUARTERLY Federal Tax Return
+Department of the Treasury — Internal Revenue Service
+950122
+OMB No. 1545-0029
+Employer identification number (EIN)
+—
+Name (not your trade name)
+Trade name (if any)
+Address
+Number                                Street                                                                                          Suite or room number
+City
+State
+ZIP code
+Foreign country name
+Foreign province/county
+Foreign postal code
+Report for this Quarter of 2023 
+(Check one.)
+1: January, February, March
+2: April, May, June
+3: July, August, September
+4: October, November, December
+Go to www.irs.gov/Form941 for 
+instructions and the latest information.
+Read the separate instructions before you complete Form 941. Type or print within the boxes.
+Part 1:
+Answer these questions for this quarter.
+1 
+Number of employees who received wages, tips, or other compensation for the pay period 
+including: Mar. 12 (Quarter 1), June 12 (Quarter 2), Sept. 12 (Quarter 3), or Dec. 12 (Quarter 4) 
+1
+2
+Wages, tips, and other compensation 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+.
+3
+Federal income tax withheld from wages, tips, and other compensation  .
+.
+.
+.
+.
+.
+3
+.
+4
+If no wages, tips, and other compensation are subject to social security or Medicare tax
+Check and go to line 6.
+Column 1
+Column 2
+5a
+Taxable social security wages* .
+.
+.
+× 0.124 =
+.
+5a
+(i)
+Qualified sick leave wages* 
+.
+.
+× 0.062 =
+.
+5a
+(ii) Qualified family leave wages* .
+.
+× 0.062 =
+.
+*Include taxable qualified sick and 
+family leave wages paid in this 
+quarter of 2023 for leave taken 
+after March 31, 2021, and before 
+October 1, 2021, on line 5a. Use 
+lines 5a(i) and 5a(ii) only for taxable 
+qualified sick and family leave 
+wages paid in this quarter of 2023 
+for leave taken after March 31, 
+2020, and before April 1, 2021.
+5b
+Taxable social security tips .
+.
+.
+.
+× 0.124 =
+.
+5c
+Taxable Medicare wages & tips.
+.
+.
+× 0.029 =
+.
+5d
+Taxable wages & tips subject to 
+Additional Medicare Tax withholding  
+.
+× 0.009 =
+.
+5e
+Total social security and Medicare taxes. Add Column 2 from lines 5a, 5a(i), 5a(ii), 5b, 5c, and 5d   
+5e
+.
+5f
+Section 3121(q) Notice and Demand—Tax due on unreported tips (see instructions) 
+.
+.
+5f
+.
+6
+Total taxes before adjustments. Add lines 3, 5e, and 5f .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+.
+7
+Current quarter’s adjustment for fractions of cents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+.
+8
+Current quarter’s adjustment for sick pay .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+.
+9
+Current quarter’s adjustments for tips and group-term life insurance .
+.
+.
+.
+.
+.
+.
+9
+.
+10
+Total taxes after adjustments. Combine lines 6 through 9 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+.
+11a
+Qualified small business payroll tax credit for increasing research activities. Attach Form 8974  11a
+.
+11b
+Nonrefundable portion of credit for qualified sick and family leave wages for leave taken 
+before April 1, 2021  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11b
+.
+11c
+Reserved for future use  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11c
+.
+You MUST complete all three pages of Form 941 and SIGN it.
+For Privacy Act and Paperwork Reduction Act Notice, see the back of the Payment Voucher.
+Cat. No. 17001Z
+Form 941 (Rev. 3-2023)
+951222
+Name (not your trade name)
+Employer identification number (EIN)
+–
+Part 1:
+Answer these questions for this quarter. (continued)
+11d
+Nonrefundable portion of credit for qualified sick and family leave wages for leave taken 
+after March 31, 2021, and before October 1, 2021 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11d
+.
+11e
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11e
+.
+11f
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11g
+Total nonrefundable credits. Add lines 11a, 11b, and 11d 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11g
+.
+12
+Total taxes after adjustments and nonrefundable credits. Subtract line 11g from line 10 
+.
+12
+.
+13a
+Total deposits for this quarter, including overpayment applied from a prior quarter and 
+overpayments applied from Form 941-X, 941-X (PR), 944-X, or 944-X (SP) filed in the current quarter  13a
+.
+13b
+Reserved for future use  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13b
+.
+13c
+Refundable portion of credit for qualified sick and family leave wages for leave taken 
+before April 1, 2021  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13c
+.
+13d
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13d
+.
+13e
+Refundable portion of credit for qualified sick and family leave wages for leave taken 
+after March 31, 2021, and before October 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13e
+.
+13f
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13f
+.
+13g
+Total deposits and refundable credits. Add lines 13a, 13c, and 13e
+.
+.
+.
+.
+.
+.
+.
+.
+13g
+.
+13h
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13h
+.
+13i
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13i
+.
+14
+Balance due. If line 12 is more than line 13g, enter the difference and see instructions .
+.
+.
+14
+.
+15
+Overpayment. If line 13g is more than line 12, enter the difference
+.
+Check one:
+Apply to next return.
+Send a refund.
+Part 2:
+Tell us about your deposit schedule and tax liability for this quarter.
+If you’re unsure about whether you’re a monthly schedule depositor or a semiweekly schedule depositor, see section 11 of Pub. 15.
+16
+Check one:
+Line 12 on this return is less than $2,500 or line 12 on the return for the prior quarter was less than $2,500, 
+and you didn’t incur a $100,000 next-day deposit obligation during the current quarter. If line 12 for the prior 
+quarter was less than $2,500 but line 12 on this return is $100,000 or more, you must provide a record of your 
+federal tax liability. If you’re a monthly schedule depositor, complete the deposit schedule below; if you’re a 
+semiweekly schedule depositor, attach Schedule B (Form 941). Go to Part 3.
+You were a monthly schedule depositor for the entire quarter. Enter your tax liability for each month and total 
+liability for the quarter, then go to Part 3.
+Tax liability:
+Month 1
+.
+Month 2
+.
+Month 3
+.
+Total liability for quarter
+.
+Total must equal line 12.
+You were a semiweekly schedule depositor for any part of this quarter. Complete Schedule B (Form 941), 
+Report of Tax Liability for Semiweekly Schedule Depositors, and attach it to Form 941. Go to Part 3.
+You MUST complete all three pages of Form 941 and SIGN it.
+Page 2
+Form 941 (Rev. 3-2023)
+950922
+Name (not your trade name)
+Employer identification number (EIN)
+–
+Part 3: 
+Tell us about your business. If a question does NOT apply to your business, leave it blank.
+17
+If your business has closed or you stopped paying wages .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Check here, and
+enter the final date you paid wages
+/       /                 ; also attach a statement to your return. See instructions.
+18
+If you’re a seasonal employer and you don’t have to file a return for every quarter of the year .
+.
+.
+Check here.
+19
+Qualified health plan expenses allocable to qualified sick leave wages for leave taken before April 1, 2021  
+19
+.
+20
+Qualified health plan expenses allocable to qualified family leave wages for leave taken before April 1, 2021 
+20
+.
+21
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+.
+22
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+.
+23
+Qualified sick leave wages for leave taken after March 31, 2021, and before October 1, 2021  
+23
+.
+24
+Qualified health plan expenses allocable to qualified sick leave wages reported on line 23 
+24
+.
+25
+Amounts under certain collectively bargained agreements allocable to qualified sick 
+leave wages reported on line 23
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+.
+26
+Qualified family leave wages for leave taken after March 31, 2021, and before October 1, 2021 
+26
+.
+27
+Qualified health plan expenses allocable to qualified family leave wages reported on line 26 
+27
+.
+28
+Amounts under certain collectively bargained agreements allocable to qualified family 
+leave wages reported on line 26
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28
+.
+Part 4: 
+May we speak with your third-party designee?
+Do you want to allow an employee, a paid tax preparer, or another person to discuss this return with the IRS? See the instructions 
+for details.
+Yes. Designee’s name and phone number
+Select a 5-digit personal identification number (PIN) to use when talking to the IRS.
+No.
+Part 5:
+Sign here. You MUST complete all three pages of Form 941 and SIGN it.
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge 
+and belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Sign your 
+name here
+Date
+/       /
+Print your 
+name here
+Print your 
+title here
+Best daytime phone
+Paid Preparer Use Only
+Check if you’re self-employed 
+.
+.
+.
+Preparer’s name
+PTIN
+Preparer’s signature
+Date
+/        /
+Firm’s name (or yours 
+if self-employed)
+EIN
+Address
+Phone
+City
+State
+ZIP code
+Page 3
+Form 941 (Rev. 3-2023)
+951020
+This page intentionally left blank
+Form 941-V, 
+Payment Voucher
+Purpose of Form
+Complete Form 941-V if you’re making a payment with 
+Form 941. We will use the completed voucher to credit 
+your payment more promptly and accurately, and to 
+improve our service to you. 
+Making Payments With Form 941
+To avoid a penalty, make your payment with Form 941 
+only if:
+• Your total taxes after adjustments and nonrefundable 
+credits (Form 941, line 12) for either the current quarter or 
+the preceding quarter are less than $2,500, you didn’t 
+incur a $100,000 next-day deposit obligation during the 
+current quarter, and you’re paying in full with a timely filed 
+return; or
+• You’re a monthly schedule depositor making a 
+payment in accordance with the Accuracy of Deposits 
+Rule. See section 11 of Pub. 15 for details. In this case, 
+the amount of your payment may be $2,500 or more.
+Otherwise, you must make deposits by electronic funds 
+transfer. See section 11 of Pub. 15 for deposit 
+instructions. Don’t use Form 941-V to make federal tax 
+deposits.
+▲
+!
+CAUTION
+Use Form 941-V when making any payment with 
+Form 941. However, if you pay an amount with 
+Form 941 that should’ve been deposited, you 
+may be subject to a penalty. See Deposit Penalties in 
+section 11 of Pub. 15.
+Specific Instructions
+Box 1—Employer identification number (EIN). If you 
+don’t have an EIN, you may apply for one online by 
+visiting the IRS website at www.irs.gov/EIN. You may also 
+apply for an EIN by faxing or mailing Form SS-4 to the 
+IRS. If you haven’t received your EIN by the due date of 
+Form 941, write “Applied For” and the date you applied in 
+this entry space.
+Box 2—Amount paid. Enter the amount paid with 
+Form 941.
+Box 3—Tax period. Darken the circle identifying the 
+quarter for which the payment is made. Darken only 
+one circle.
+Box 4—Name and address. Enter your name and 
+address as shown on Form 941.
+• Enclose your check or money order made payable to 
+“United States Treasury.” Be sure to enter your 
+EIN, “Form 941,” and the tax period (“1st Quarter 2023,” 
+“2nd Quarter 2023,” “3rd Quarter 2023,” or “4th Quarter 
+2023”) on your check or money order. Don’t send cash. 
+Don’t staple Form 941-V or your payment to Form 941 (or 
+to each other).
+• Detach Form 941-V and send it with your payment 
+and Form 941 to the address in the Instructions for 
+Form 941.
+Note: You must also complete the entity information 
+above Part 1 on Form 941.
+Detach Here and Mail With Your Payment and Form 941.
+Form
+941-V
+Department of the Treasury 
+Internal Revenue Service       
+Payment Voucher
+Don’t staple this voucher or your payment to Form 941.
+OMB No. 1545-0029
+2023
+1
+Enter your employer identification 
+number (EIN).
+–
+2
+Enter the amount of your payment.
+Make your check or money order payable to “United States Treasury.” 
+Dollars
+Cents
+3
+Tax Period
+1st 
+Quarter
+2nd 
+Quarter
+3rd 
+Quarter
+4th 
+Quarter
+4
+Enter your business name (individual name if sole proprietor).
+Enter your address.
+Enter your city, state, and ZIP code; or your city, foreign country name, foreign province/county, and foreign postal code.
+Form 941 (Rev. 3-2023)
+Privacy Act and Paperwork Reduction Act Notice. 
+We ask for the information on Form 941 to carry out the 
+Internal Revenue laws of the United States. We need it to 
+figure and collect the right amount of tax. Subtitle C, 
+Employment Taxes, of the Internal Revenue Code 
+imposes employment taxes on wages and provides for 
+income tax withholding. Form 941 is used to determine 
+the amount of taxes that you owe. Section 6011 requires 
+you to provide the requested information if the tax is 
+applicable to you. Section 6109 requires you to provide 
+your identification number. If you fail to provide this 
+information in a timely manner, or provide false or 
+fraudulent information, you may be subject to penalties. 
+You’re not required to provide the information 
+requested on a form that is subject to the Paperwork 
+Reduction Act unless the form displays a valid OMB 
+control number. Books and records relating to a form or 
+its instructions must be retained as long as their contents 
+may become material in the administration of any Internal 
+Revenue law.
+Generally, tax returns and return information are 
+confidential, as required by section 6103. However, 
+section 6103 allows or requires the IRS to disclose or  
+give the information shown on your tax return to others  
+as described in the Code. For example, we may  
+disclose your tax information to the Department of
+Justice for civil and criminal litigation, and to cities, 
+states, the District of Columbia, and U.S. commonwealths 
+and possessions for use in administering their tax laws. 
+We may also disclose this information to other countries 
+under a tax treaty, to federal and state agencies to 
+enforce federal nontax criminal laws, or to federal law 
+enforcement and intelligence agencies to combat 
+terrorism.
+The time needed to complete and file Form 941 will 
+vary depending on individual circumstances. The 
+estimated average time is:
+Recordkeeping .
+.
+.
+.
+.
+.
+.
+.
+.
+. 22 hr., 28 min.
+Learning about the law or the form
+.
+.
+.
+.
+ 53 min.
+Preparing, copying, assembling, and                      
+sending the form to the IRS
+.
+.
+.
+.
+.  1 hr., 18 min.
+If you have comments concerning the accuracy of 
+these time estimates or suggestions for making Form 941 
+simpler, we would be happy to hear from you. You can 
+send us comments from www.irs.gov/FormComments. Or 
+you can send your comments to Internal Revenue 
+Service, Tax Forms and Publications Division, 1111 
+Constitution Ave. NW, IR-6526, Washington, DC 20224. 
+Don’t send Form 941 to this address. Instead, see Where 
+Should You File? in the Instructions for Form 941.

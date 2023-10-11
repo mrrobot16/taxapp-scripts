@@ -1,0 +1,11 @@
+Schedule A (Form 8995-A) is a document provided by the Department of the Treasury and the Internal Revenue Service. It is used to report specified service trades or businesses for individuals with taxable income above a certain threshold.
+
+The document consists of two parts: Part I for other than publicly traded partnerships (PTP) and Part II for publicly traded partnerships.
+
+In Part I, individuals need to provide information such as the trade or business name, taxpayer identification number, qualified business income or loss, allocable share of W-2 wages, and allocable share of the unadjusted basis immediately after acquisition (UBIA) of all qualified property. They also need to calculate the applicable percentage of qualified business income or loss, W-2 wages, and the UBIA of qualified property.
+
+In Part II, individuals need to provide similar information for publicly traded partnerships, including the trade or business name, taxpayer identification number, qualified PTP income or loss, and total PTP specified service trade or business income or loss. They also need to calculate the applicable percentage of qualified PTP income or loss.
+
+The completed amounts from Part I and Part II are then used to fill out corresponding lines on Form 8995-A.
+
+It is important to note that individuals should refer to the instructions provided on the IRS website for complete guidance and the latest information.

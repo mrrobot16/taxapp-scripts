@@ -1,0 +1,15 @@
+Schedule H is a form used by hospitals in the United States to report their financial assistance and community benefit activities to the Internal Revenue Service (IRS). The form is attached to Form 990, which is the annual information return filed by tax-exempt organizations.
+
+Part I of Schedule H asks hospitals if they have a financial assistance policy in place and if it is a written policy. It also asks about the application of the policy to different hospital facilities and the use of Federal Poverty Guidelines in determining eligibility for free or discounted care.
+
+Part II of Schedule H focuses on community building activities conducted by the hospital during the tax year. It asks hospitals to provide information on the number of activities or programs, the persons served, and the total community building expense.
+
+Part III of Schedule H addresses bad debt, Medicare, and collection practices. It asks hospitals about their reporting of bad debt expense, the estimated amount of bad debt expense attributable to patients eligible for financial assistance, and the hospital's collection practices.
+
+Part IV of Schedule H is for hospitals to report any management companies or joint ventures in which they have a significant ownership interest.
+
+Part V of Schedule H collects information about the hospital facilities operated by the organization, including their names, addresses, and types of services provided. It also asks hospitals to report on their community health needs assessment, financial assistance policy, billing and collections practices, and charges to individuals eligible for assistance.
+
+Part VI of Schedule H provides space for hospitals to provide supplemental information, including descriptions required for certain sections of the form, details about needs assessment and patient education, information about the community served, and any other relevant information about the hospital's community benefit activities.
+
+Overall, Schedule H is a comprehensive form that helps hospitals report their financial assistance and community benefit activities to the IRS. It ensures transparency and accountability in the tax-exempt status of these organizations.

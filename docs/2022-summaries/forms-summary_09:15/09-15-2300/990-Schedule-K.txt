@@ -1,0 +1,21 @@
+Schedule K is a supplemental information form that organizations need to complete if they answered "Yes" to a specific question on Form 990, Part IV, line 24a. It provides additional details and explanations related to tax-exempt bonds. The form consists of several parts:
+
+Part I: Bond Issues
+This section requires the organization to provide information about the bond issues, including the issuer name, issuer EIN, CUSIP number, date issued, issue price, purpose, whether the bonds are defeased, and whether they are issued on behalf of the issuer or as part of pooled financing.
+
+Part II: Proceeds
+In this part, the organization needs to report various details about the proceeds from the bond issues, such as the amount of retired bonds, legally defeased bonds, total proceeds of the issue, gross proceeds in reserve funds, capitalized interest from proceeds, proceeds in refunding escrows, issuance costs from proceeds, credit enhancement from proceeds, working capital expenditures from proceeds, capital expenditures from proceeds, and other spent and unspent proceeds.
+
+Part III: Private Business Use
+This section focuses on determining whether the bond-financed property is used for private business purposes. The organization needs to provide information about partnerships or LLCs owning bond-financed property, lease arrangements that may result in private business use, management or service contracts that may result in private business use, research agreements that may result in private business use, the percentage of financed property used in private business use by entities other than a 501(c)(3) organization or a government, the percentage of financed property used in private business use as a result of unrelated trade or business activity, and whether the bond issue meets the private security or payment test.
+
+Part IV: Arbitrage
+This part focuses on arbitrage rebate and yield reduction related to the bond issue. The organization needs to indicate whether the issuer has filed Form 8038-T for arbitrage rebate, yield reduction, and penalty. If not, they need to provide information about the rebate status, any exceptions to the rebate, and whether the bond issue is a variable rate issue.
+
+Part V: Procedures To Undertake Corrective Action
+This section asks whether the organization has established written procedures to identify and correct violations of federal tax requirements through the voluntary closing agreement program.
+
+Part VI: Supplemental Information
+This part provides space for the organization to provide additional information or explanations related to the responses given in the previous parts of the form.
+
+The form includes instructions and a notice regarding the Paperwork Reduction Act.

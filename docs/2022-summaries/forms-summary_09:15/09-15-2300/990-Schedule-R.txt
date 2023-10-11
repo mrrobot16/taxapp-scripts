@@ -1,0 +1,19 @@
+Schedule R (Form 990) is a document that organizations need to complete if they answered "Yes" to certain questions on Form 990, Part IV. It is used to identify and provide information about related organizations, disregarded entities, partnerships, and transactions with related organizations.
+
+The form is divided into several parts:
+
+Part I: Identification of Disregarded Entities - Organizations need to provide the name, address, primary activity, legal domicile, total income, end-of-year assets, and direct controlling entity of any disregarded entities.
+
+Part II: Identification of Related Tax-Exempt Organizations - Organizations need to provide the name, address, primary activity, legal domicile, exempt code section, public charity status, and direct controlling entity of any related tax-exempt organizations.
+
+Part III: Identification of Related Organizations Taxable as a Partnership - Organizations need to provide the name, address, primary activity, legal domicile, direct controlling entity, predominant income, share of total income, share of end-of-year assets, disproportionate allocations, Code VUBI amount, general or managing partner status, and percentage ownership of any related organizations treated as a partnership.
+
+Part IV: Identification of Related Organizations Taxable as a Corporation or Trust - Organizations need to provide the name, address, primary activity, legal domicile, direct controlling entity, type of entity (C corp, S corp, or trust), share of total income, share of end-of-year assets, percentage ownership, and section 512(b)(13) controlled entity status of any related organizations treated as a corporation or trust.
+
+Part V: Transactions With Related Organizations - Organizations need to indicate whether they engaged in various transactions with related organizations, such as receipt of interest, annuities, royalties, or rent, gift or capital contribution, loans or loan guarantees, dividends, sale or purchase of assets, lease of facilities or equipment, performance of services or membership or fundraising solicitations, sharing of assets or employees, and reimbursement of expenses. They also need to provide details of each transaction, including the name of the related organization, transaction type, amount involved, and method of determining the amount involved.
+
+Part VI: Unrelated Organizations Taxable as a Partnership - Organizations need to provide information about any entity taxed as a partnership through which they conducted more than five percent of their activities that was not a related organization. This includes the name, address, primary activity, legal domicile, predominant income, whether all partners are section 501(c)(3) organizations, share of total income, share of end-of-year assets, disproportionate allocations, Code VUBI amount, general or managing partner status, and percentage ownership.
+
+Part VII: Supplemental Information - Organizations can provide additional information related to their responses on Schedule R.
+
+The form includes instructions and a notice regarding the Paperwork Reduction Act.

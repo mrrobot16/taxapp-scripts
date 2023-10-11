@@ -1,0 +1,837 @@
+SCHEDULE M-3  
+(Form 1120-S) 
+(Rev. December 2019)
+Department of the Treasury 
+Internal Revenue Service 
+Net Income (Loss) Reconciliation for S Corporations 
+With Total Assets of $10 Million or More 
+▶ Attach to Form 1120-S.
+▶ Go to www.irs.gov/Form1120S for instructions and the latest information.
+OMB No. 1545-0123 
+Name of corporation 
+Employer identification number 
+Part I 
+Financial Information and Net Income (Loss) Reconciliation (see instructions) 
+1a
+Did the corporation prepare a certified audited non-tax-basis income statement for the period ending with or within this tax 
+year? See instructions if multiple non-tax-basis income statements are prepared.
+Yes. Skip line 1b and complete lines 2 through 11 with respect to that income statement. 
+No.  Go to line 1b. 
+b Did the corporation prepare a non-tax-basis income statement for that period? 
+Yes. Complete lines 2 through 11 with respect to that income statement. 
+No. Skip lines 2 through 3b and enter the corporation’s net income (loss) per its books and records on line 4a. 
+2 
+Enter the income statement period:  Beginning 
+/ 
+/ 
+Ending 
+/ 
+/ 
+3 a
+Has the corporation’s income statement been restated for the income statement period on line 2? 
+Yes. If “Yes,” attach an explanation and the amount of each item restated.
+No. 
+b
+Has the corporation’s income statement been restated for any of the five income statement periods immediately preceding the
+period on line 2? 
+Yes. If “Yes,” attach an explanation and the amount of each item restated.
+No. 
+4a
+Worldwide consolidated net income (loss) from income statement source identified in Part I, line 1 
+.
+4a 
+b Indicate accounting standard used for line 4a (see instructions): 
+(1) 
+GAAP 
+(2) 
+IFRS 
+(3) 
+Tax-basis 
+(4) 
+Other (specify)
+5a
+Net income from nonincludible foreign entities (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a (                          ) 
+b Net loss from nonincludible foreign entities (attach statement and enter as a positive amount) .
+.
+.
+5b 
+6 a
+Net income from nonincludible U.S. entities (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a (                          ) 
+b Net loss from nonincludible U.S. entities (attach statement and enter as a positive amount) .
+.
+.
+.
+6b 
+7a
+Net income (loss) of other foreign disregarded entities (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7a 
+b
+Net income (loss) of other U.S. disregarded entities (except qualified subchapter S subsidiaries) 
+(attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7b 
+c Net income (loss) of other qualified subchapter S subsidiaries (QSubs) (attach statement) 
+.
+.
+.
+.
+7c 
+8
+Adjustment to eliminations of transactions between includible entities and nonincludible entities 
+(attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Adjustment to reconcile income statement period to tax year (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Other adjustments to reconcile to amount on line 11 (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Net income (loss) per income statement of the corporation. Combine lines 4 through 10 
+.
+.
+.
+11 
+Note: Part I, line 11, must equal Part II, line 26, column (a); or Schedule M-1, line 1. See instructions. 
+12 
+Enter the total amount (not just the corporation’s share) of the assets and liabilities of all entities included or removed on the following lines:
+Total Assets 
+Total Liabilities 
+a Included on Part I, line 4 
+b Removed on Part I, line 5 
+c Removed on Part I, line 6 
+d Included on Part I, line 7 
+For Paperwork Reduction Act Notice, see the Instructions for Form 1120-S. 
+Cat. No. 39666W 
+Schedule M-3 (Form 1120-S) (Rev. 12-2019)
+Schedule M-3 (Form 1120-S) (Rev. 12-2019)
+Page  2 
+Name of corporation 
+Employer identification number 
+Part II 
+Reconciliation of Net Income (Loss) per Income Statement of the Corporation With Total Income 
+(Loss) per Return (see instructions) 
+(                       )
+(                       )
+Income (Loss) Items 
+ (attach statements for lines 1 through 10)
+(a) 
+Income (Loss) per  
+Income Statement 
+(b) 
+Temporary 
+Difference 
+(c) 
+Permanent 
+Difference 
+(d) 
+Income (Loss) per 
+Tax Return 
+1 
+Income (loss) from equity method foreign corporations 
+2 
+Gross foreign dividends not previously taxed .
+.
+.
+3 
+Subpart F, QEF, and similar income inclusions 
+.
+.
+4 
+Gross foreign distributions previously taxed 
+.
+.
+.
+5 
+Income (loss) from equity method U.S. corporations .
+6 
+U.S. dividends not eliminated in tax consolidation 
+.
+7 
+Income (loss) from U.S. partnerships .
+.
+.
+.
+.
+.
+8 
+Income (loss) from foreign partnerships .
+.
+.
+.
+.
+9 
+Income (loss) from other pass-through entities 
+.
+.
+10 
+Items relating to reportable transactions .
+.
+.
+.
+.
+11 
+Interest income (see instructions) .
+.
+.
+.
+.
+.
+.
+12 
+Total accrual to cash adjustment .
+.
+.
+.
+.
+.
+.
+13 
+Hedging transactions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+Mark-to-market income (loss) .
+.
+.
+.
+.
+.
+.
+.
+15 
+Cost of goods sold (see instructions) .
+.
+.
+.
+.
+.
+16 
+Sale versus lease (for sellers and/or lessors) 
+.
+.
+.
+17 
+Section 481(a) adjustments .
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+Unearned/deferred revenue .
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+Income recognition from long-term contracts .
+.
+.
+20 
+Original issue discount and other imputed interest 
+.
+21a 
+ 
+Income statement gain/loss on sale, exchange,  
+abandonment, worthlessness, or other disposition of  
+assets other than inventory and pass-through entities 
+b Gross capital gains from Schedule D, excluding  
+amounts from pass-through entities .
+.
+.
+.
+.
+.
+c 
+ 
+Gross capital losses from Schedule D, excluding  
+amounts from pass-through entities, abandonment  
+losses, and worthless stock losses 
+.
+.
+.
+.
+.
+.
+d 
+ 
+Net gain/loss reported on Form 4797, line 17,  
+excluding amounts from pass-through entities,  
+abandonment losses, and worthless stock losses 
+.
+e Abandonment losses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+f 
+Worthless stock losses (attach statement) .
+.
+.
+.
+g Other gain/loss on disposition of assets other than  
+inventory .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+Other income (loss) items with differences (attach  
+statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+Total income (loss) items. Combine lines 1 through 
+22 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+Total expense/deduction items (from Part III, line 
+32) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25 
+Other items with no differences 
+.
+.
+.
+.
+.
+.
+.
+26 
+Reconciliation totals. Combine lines 23 through 25 
+Note: Line 26, column (a), must equal Part I, line 11, and column (d) must equal Form 1120-S, Schedule K, line 18. 
+Schedule M-3 (Form 1120-S) (Rev. 12-2019)
+Schedule M-3 (Form 1120-S) (Rev. 12-2019)
+Page  3 
+Name of corporation 
+Employer identification number 
+Part III 
+Reconciliation of Net Income (Loss) per Income Statement of the Corporation With Total Income  
+(Loss) per Return—Expense/Deduction Items (see instructions) 
+Expense/Deduction Items 
+(a) 
+Expense per 
+Income Statement 
+(b) 
+Temporary 
+Difference 
+(c) 
+Permanent 
+Difference 
+(d) 
+Deduction per 
+Tax Return 
+1 
+U.S. current income tax expense .
+.
+.
+.
+.
+.
+.
+2 
+U.S. deferred income tax expense 
+.
+.
+.
+.
+.
+.
+3 
+State and local current income tax expense 
+.
+.
+.
+4 
+State and local deferred income tax expense .
+.
+.
+5 
+Foreign current income tax expense (other than  
+foreign withholding taxes) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Foreign deferred income tax expense 
+.
+.
+.
+.
+.
+7 
+Equity-based compensation 
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Meals and entertainment .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+Fines and penalties 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+Judgments, damages, awards, and similar costs .
+.
+11 
+Pension and profit-sharing .
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+Other post-retirement benefits .
+.
+.
+.
+.
+.
+.
+.
+13 
+Deferred compensation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+Charitable   contribution   of   cash   and   tangible 
+property .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+Charitable contribution of intangible property .
+.
+.
+16 
+Current year acquisition or reorganization investment 
+banking fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+Current year acquisition or reorganization legal and  
+accounting fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+Current year acquisition/reorganization other costs .
+19 
+Amortization/impairment of goodwill .
+.
+.
+.
+.
+.
+20 
+Amortization of acquisition, reorganization, and 
+start-up costs 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+Other amortization or impairment write-offs 
+.
+.
+.
+22 
+Reserved .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23a
+Depletion—Oil & Gas .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Depletion—Other than Oil & Gas .
+.
+.
+.
+.
+.
+.
+24 
+Depreciation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25 
+Bad debt expense .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26 
+Interest expense (see instructions) 
+.
+.
+.
+.
+.
+.
+27 
+Corporate-owned life insurance premiums .
+.
+.
+.
+28 
+Purchase   versus   lease   (for   purchasers   and/or 
+lessees) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29
+Research and development costs .
+.
+.
+.
+.
+.
+.
+30
+Section 118 exclusion (attach statement)
+.
+.
+.
+.
+31 
+Other expense/deduction items with differences  
+(attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+32 
+ 
+ 
+Total expense/deduction items. Combine lines 1  
+through 31. Enter here and on Part II, line 24,  
+reporting positive amounts as negative and negative  
+amounts as positive 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule M-3 (Form 1120-S) (Rev. 12-2019)

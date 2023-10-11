@@ -1,0 +1,11 @@
+Schedule M-3 is a form that must be attached to Form 1065, which is used to report the income and losses of partnerships in the United States. The purpose of Schedule M-3 is to reconcile the net income or loss reported on the partnership's financial statements with the net income or loss reported on its tax return.
+
+The form begins by requiring the partnership to indicate why it is filing Schedule M-3. This includes options such as having total assets of $10 million or more, having total receipts of $35 million or more, or having a reportable entity partner with a 50% or greater interest in the partnership.
+
+Part I of the form focuses on financial information and the reconciliation of net income or loss. It asks whether the partnership filed an SEC Form 10-K or prepared a certified audited non-tax-basis income statement. The partnership is then required to enter the income statement period and indicate if any restatements were made. The form also includes sections for reporting net income or loss from foreign entities, U.S. entities, and other disregarded entities, as well as adjustments for eliminations of transactions and reconciling the income statement period to the tax year.
+
+Part II of the form is the reconciliation of net income or loss per the income statement of the partnership with the income or loss per the tax return. This section requires the partnership to report various income and loss items and indicate any temporary or permanent differences between the income statement and tax return.
+
+Part III of the form focuses on the reconciliation of expense and deduction items. The partnership is required to report various expense and deduction items and indicate any temporary or permanent differences between the income statement and tax return.
+
+Overall, Schedule M-3 is a detailed form that helps partnerships reconcile their financial statements with their tax returns, ensuring accurate reporting of income and losses to the IRS.

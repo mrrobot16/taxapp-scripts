@@ -1,0 +1,15 @@
+Form 8996 is a document provided by the Internal Revenue Service (IRS) for taxpayers who are organized for the purpose of investing in qualified opportunity zone (QOZ) property. The form is used to calculate the investment standard and determine if a penalty applies for failing to maintain the investment standard.
+
+The form consists of several parts. 
+
+Part I requires the taxpayer to provide general information and certify whether they are organized for investing in QOZ property and if it is their first period as a QOZ.
+
+Part II involves calculating the investment standard by entering the total QOZ property held by the taxpayer on the last day of the first 6-month period of the tax year and the total assets held by the taxpayer on the same day. The taxpayer then divides the QOZ property by the total assets to determine the investment standard.
+
+Part III determines if the investment standard is maintained. If the result of adding lines 9 and 12 from Part II is equal to or more than 0.90, the taxpayer enters -0- on this line and files the form with their tax return. If the result is less than 0.90, the taxpayer has failed to maintain the investment standard and must complete Part IV to calculate the penalty.
+
+Part IV calculates the penalty for failing to maintain the investment standard. The taxpayer enters the total assets and QOZ property held on the last day of each month, multiplies the QOZ property by 0.90, subtracts the QOZ property from the result, and multiplies it by the underpayment rate. The taxpayer then divides the result by 12 and adds up the penalties for each month to determine the total penalty.
+
+Part V and Part VI are used to report QOZ business property directly owned or leased by the taxpayer and QOZ stock or partnership interests held by the taxpayer, respectively. The taxpayer provides information on the QOZs, property values, and investments held.
+
+Overall, Form 8996 is used by taxpayers organized for investing in QOZ property to calculate the investment standard and penalties for failing to maintain it.

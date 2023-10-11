@@ -1,0 +1,19 @@
+Schedule D is a supplemental financial statement form that organizations must complete if they answered "Yes" to certain questions on Form 990, which is the annual information return filed by tax-exempt organizations in the United States. The purpose of Schedule D is to provide additional information about specific areas of the organization's operations and finances.
+
+Part I of Schedule D pertains to organizations that maintain donor advised funds or other similar funds or accounts. It requires the organization to provide information about the number of funds, the value of contributions and grants, and whether the organization has informed donors and grantees about the use of funds.
+
+Part II focuses on conservation easements and requires the organization to provide details about the purpose of the easements, the number of easements held, and any modifications or terminations during the tax year. It also asks about the organization's policy for monitoring and enforcing the easements.
+
+Part III is for organizations that maintain collections of art, historical treasures, or other similar assets. It asks about the use of the collections, whether the organization elected to report them in its financial statements, and whether any donations were received for the purpose of selling the assets.
+
+Part IV is for organizations that have escrow and custodial arrangements. It asks whether the organization acts as an agent, trustee, custodian, or intermediary for assets not included on Form 990, and if so, to provide details about the arrangement.
+
+Part V pertains to endowment funds and requires the organization to provide information about the beginning and ending balances, contributions, investment earnings, grants or scholarships, and other expenditures related to the funds.
+
+Parts VI, VII, VIII, IX, and X relate to land, buildings, equipment, investments in other securities, program-related investments, and other assets and liabilities. These sections require the organization to provide details about the assets and liabilities held, including their book value and method of valuation.
+
+Parts XI and XII are reconciliation sections that compare the revenue and expenses reported in the audited financial statements with the amounts reported on Form 990.
+
+Finally, Part XIII is a section for providing supplemental information about the various sections of Schedule D or any other additional information deemed necessary.
+
+Overall, Schedule D provides the IRS with a more detailed understanding of certain aspects of an organization's financial activities and helps ensure compliance with tax regulations.

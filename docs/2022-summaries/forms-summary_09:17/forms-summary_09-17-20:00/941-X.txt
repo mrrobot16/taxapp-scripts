@@ -1,0 +1,842 @@
+Form   941-X:
+(Rev. April 2022)
+Adjusted Employer’s QUARTERLY Federal Tax Return or Claim for Refund
+Department of the Treasury — Internal Revenue Service
+OMB No. 1545-0029
+Employer identification number 
+(EIN)
+—
+Name (not your trade name)
+Trade name (if any)
+Address
+Number                                 Street                                                                                       Suite or room number
+City
+State
+ZIP code
+Foreign country name
+Foreign province/county
+Foreign postal code
+Read the separate instructions before completing this form. Use this form to correct errors you 
+made on Form 941 or 941-SS. Use a separate Form 941-X for each quarter that needs 
+correction. Type or print within the boxes. You MUST complete all five pages. Don’t attach this 
+form to Form 941 or 941-SS unless you’re reclassifying workers; see the instructions for line 42.
+Part 1: Select ONLY one process. See page 6 for additional guidance, including information 
+on how to treat employment tax credits and social security tax deferrals.
+1.
+Adjusted employment tax return. Check this box if you underreported tax amounts. 
+Also check this box if you overreported tax amounts and you would like to use the 
+adjustment process to correct the errors. You must check this box if you’re correcting 
+both underreported and overreported tax amounts on this form. The amount shown on 
+line 27, if less than zero, may only be applied as a credit to your Form 941, Form 941-SS, 
+or Form 944 for the tax period in which you’re filing this form.
+2.
+Claim. Check this box if you overreported tax amounts only and you would like to use 
+the claim process to ask for a refund or abatement of the amount shown on line 27. 
+Don’t check this box if you’re correcting ANY underreported tax amounts on this form.
+Part 2: Complete the certifications.
+3.
+I certify that I’ve filed or will file Forms W-2, Wage and Tax Statement, or Forms W-2c, Corrected Wage and Tax Statement, 
+as required.
+Note: If you’re correcting underreported tax amounts only, go to Part 3 on page 2 and skip lines 4 and 5. If you’re correcting overreported 
+tax amounts, for purposes of the certifications on lines 4 and 5, Medicare tax doesn’t include Additional Medicare Tax. Form 941-X can’t be 
+used to correct overreported amounts of Additional Medicare Tax unless the amounts weren’t withheld from employee wages or an 
+adjustment is being made for the current year.
+4.
+If you checked line 1 because you’re adjusting overreported federal income tax, social security tax, Medicare tax, or Additional 
+Medicare Tax, check all that apply. You must check at least one box. 
+I certify that: 
+a.
+I repaid or reimbursed each affected employee for the overcollected federal income tax or Additional Medicare Tax for the current 
+year and the overcollected social security tax and Medicare tax for current and prior years. For adjustments of employee social 
+security tax and Medicare tax overcollected in prior years, I have a written statement from each affected employee stating that he 
+or she hasn’t claimed (or the claim was rejected) and won’t claim a refund or credit for the overcollection.
+b.
+The adjustments of social security tax and Medicare tax are for the employer’s share only. I couldn’t find the affected employees or 
+each affected employee didn’t give me a written statement that he or she hasn’t claimed (or the claim was rejected) and won’t 
+claim a refund or credit for the overcollection.
+c.
+The adjustment is for federal income tax, social security tax, Medicare tax, or Additional Medicare Tax that I didn’t withhold from 
+employee wages.
+5.
+If you checked line 2 because you’re claiming a refund or abatement of overreported federal income tax, social security tax, 
+Medicare tax, or Additional Medicare Tax, check all that apply. You must check at least one box.  
+I certify that:
+a.
+I repaid or reimbursed each affected employee for the overcollected social security tax and Medicare tax. For claims of employee 
+social security tax and Medicare tax overcollected in prior years, I have a written statement from each affected employee stating 
+that he or she hasn’t claimed (or the claim was rejected) and won’t claim a refund or credit for the overcollection.
+b.
+I have a written consent from each affected employee stating that I may file this claim for the employee’s share of social security 
+tax and Medicare tax. For refunds of employee social security tax and Medicare tax overcollected in prior years, I also have a 
+written statement from each affected employee stating that he or she hasn’t claimed (or the claim was rejected) and won’t claim a 
+refund or credit for the overcollection.
+c.
+The claim for social security tax and Medicare tax is for the employer’s share only. I couldn’t find the affected employees, or each 
+affected employee didn’t give me a written consent to file a claim for the employee’s share of social security tax and Medicare tax, 
+or each affected employee didn’t give me a written statement that he or she hasn’t claimed (or the claim was rejected) and won’t 
+claim a refund or credit for the overcollection.
+d.
+The claim is for federal income tax, social security tax, Medicare tax, or Additional Medicare Tax that I didn’t withhold from 
+employee wages.
+For Paperwork Reduction Act Notice, see the separate instructions.
+www.irs.gov/Form941X
+Cat. No. 17025J
+Form 941-X (Rev. 4-2022) 
+Return You’re Correcting...
+Check the type of return you’re correcting.
+941
+941-SS
+Check the ONE quarter you’re correcting.
+1:  January, February, March
+2:  April, May, June
+3:  July, August, September
+4:  October, November, December
+Enter the calendar year of the 
+quarter you’re correcting.
+(YYYY)
+Enter the date you discovered errors.
+/
+/
+(MM / DD / YYYY)
+Name (not your trade name)
+Employer identification number (EIN)
+–
+Correcting quarter
+(1, 2, 3, 4)
+Correcting calendar year  (YYYY)
+Part 3: Enter the corrections for this quarter. If any line doesn’t apply, leave it blank.
+Column 1
+Total corrected  
+amount (for ALL 
+employees)
+—
+Column 2
+Amount originally 
+reported or as 
+previously corrected 
+(for ALL employees)
+=
+Column 3
+Difference 
+(If this amount is a 
+negative number,  
+use a minus sign.)
+Column 4
+Tax correction
+6. 
+Wages, tips, and other 
+compensation (Form 941, line 2) 
+.
+—
+.
+=
+.
+Use the amount in Column 1 when you 
+prepare your Forms W-2 or Forms W-2c.
+7. 
+ 
+Federal income tax withheld 
+from wages, tips, and other 
+compensation (Form 941, line 3)
+.
+—
+.
+=
+.
+Copy Column  
+3 here .
+.
+.
+8. 
+Taxable social security wages 
+(Form 941 or 941-SS, line 5a, 
+Column 1)
+.
+—
+.
+=
+.
+×  0.124* =
+.
+* If you’re correcting your employer share only, use 0.062. See instructions.
+9. 
+Qualified sick leave wages* 
+(Form 941 or 941-SS, line 5a(i), 
+Column 1)
+.
+—
+.
+=
+.
+×  0.062 =
+.
+* Use line 9 only for qualified sick leave wages paid after March 31, 2020, for leave taken before April 1, 2021.
+10. 
+Qualified family leave wages* 
+(Form 941 or 941-SS, line 5a(ii), 
+Column 1)
+.
+—
+.
+=
+.
+×  0.062 =
+.
+* Use line 10 only for qualified family leave wages paid after March 31, 2020, for leave taken before April 1, 2021.
+11. 
+Taxable social security tips (Form 
+941 or 941-SS, line 5b, Column 1)
+.
+—
+.
+=
+.
+×  0.124* =
+.
+* If you’re correcting your employer share only, use 0.062. See instructions.
+12. 
+Taxable Medicare wages & tips (Form 
+941 or 941-SS, line 5c, Column 1)
+.
+—
+.
+=
+.
+×  0.029* =
+.
+* If you’re correcting your employer share only, use 0.0145. See instructions.
+13. 
+Taxable wages & tips subject to 
+Additional Medicare Tax 
+withholding (Form 941 or 
+941-SS, line 5d)
+.
+—
+.
+=
+.
+×  0.009* =
+.
+* Certain wages and tips reported in Column 3 shouldn’t be multiplied by 0.009. See instructions.
+14. 
+Section 3121(q) Notice and 
+Demand—Tax due on 
+unreported tips (Form 941 or 
+941-SS, line 5f)
+.
+—
+.
+=
+.
+Copy Column  
+3 here .
+.  
+.
+15.
+Tax adjustments (Form 941 or 
+941-SS, lines 7 through 9)
+.
+—
+.
+=
+.
+Copy Column  
+3 here .
+.  
+.
+16. 
+Qualified small business payroll tax 
+credit for increasing research 
+activities (Form 941 or 941-SS, line 
+11a; you must attach Form 8974)
+.
+—
+.
+=
+.
+See   
+instructions
+.
+17. 
+Nonrefundable portion of credit 
+for qualified sick and family 
+leave wages for leave taken 
+before  April 1, 2021 (Form 941 
+or 941-SS, line 11b)
+.
+—
+.
+=
+.
+See   
+instructions
+.
+18a. 
+Nonrefundable portion of 
+employee retention credit* 
+(Form 941 or 941-SS, line 11c)
+.
+—
+.
+=
+.
+See   
+instructions
+.
+* Use line 18a only for corrections to quarters beginning after March 31, 2020, and before January 1, 2022.
+18b. 
+Nonrefundable portion of credit for 
+qualified sick and family leave 
+wages for leave taken after March 
+31, 2021, and before October 1, 
+2021 (Form 941 or 941-SS, line 11d)
+.
+—
+.
+=
+.
+See   
+instructions
+.
+18c. 
+Nonrefundable portion of COBRA 
+premium assistance credit 
+(Form 941 or 941-SS, line 11e)
+.
+—
+.
+=
+.
+See   
+instructions
+.
+18d. 
+Number of individuals provided 
+COBRA premium assistance 
+(Form 941 or 941-SS, line 11f)
+—
+=
+19. 
+Special addition to wages for 
+federal income tax
+.
+—
+.
+=
+.
+See  
+instructions
+.
+20. 
+Special addition to wages for 
+social security taxes
+.
+—
+.
+=
+.
+See  
+instructions
+.
+21. 
+Special addition to wages for 
+Medicare taxes
+.
+—
+.
+=
+.
+See  
+instructions
+.
+Page 2
+Form 941-X (Rev. 4-2022)
+Name (not your trade name)
+Employer identification number (EIN)
+–
+Correcting quarter
+(1, 2, 3, 4)
+Correcting calendar year  (YYYY)
+Part 3: Enter the corrections for this quarter. If any line doesn’t apply, leave it blank. (continued)
+Column 1
+Total corrected  
+amount (for ALL 
+employees)
+—
+Column 2
+Amount originally 
+reported or as 
+previously corrected 
+(for ALL employees)
+=
+Column 3
+Difference 
+(If this amount is a 
+negative number,  
+use a minus sign.)
+Column 4
+Tax correction
+22. 
+Special addition to wages for 
+Additional Medicare Tax
+.
+—
+.
+=
+.
+See  
+instructions
+.
+23.
+Combine the amounts on lines 7 through 22 of Column 4  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24. 
+Deferred amount of social 
+security tax* (Form 941 or 
+941-SS, line 13b)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+* Use this line to correct the employer deferral for the second quarter of 2020 and the employer and employee deferral for the third and fourth quarters of 2020.
+25. 
+Refundable portion of credit for 
+qualified sick and family leave 
+wages for leave taken before  
+April 1, 2021 (Form 941 or 941-
+SS, line 13c)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+26a. 
+Refundable portion of employee 
+retention credit* (Form 941 or 
+941-SS, line 13d)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+* Use line 26a only for corrections to quarters beginning after March 31, 2020, and before January 1, 2022.
+26b. 
+Refundable portion of credit for 
+qualified sick and family leave 
+wages for leave taken after March 
+31, 2021, and before October 1, 
+2021 (Form 941 or 941-SS, line 13e)
+.
+—
+.
+=
+.
+See   
+instructions
+.
+26c. 
+Refundable portion of COBRA 
+premium assistance credit 
+(Form 941 or 941-SS, line 13f)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+27.
+Total. Combine the amounts on lines 23 through 26c of Column 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If line 27 is less than zero:
+• If you checked line 1, this is the amount you want applied as a credit to your Form 941 or 941-SS for the tax period in which you’re 
+filing this form. (If you’re currently filing a Form 944, Employer’s ANNUAL Federal Tax Return, see the instructions.)
+• If you checked line 2, this is the amount you want refunded or abated.
+If line 27 is more than zero, this is the amount you owe. Pay this amount by the time you file this return. For information on how to 
+pay, see Amount you owe in the instructions.
+28. 
+Qualified health plan expenses 
+allocable to qualified sick leave 
+wages for leave taken before 
+April 1, 2021 (Form 941 or 941-
+SS, line 19)
+.
+—
+.
+=
+.
+29. 
+Qualified health plan expenses 
+allocable to qualified family 
+leave wages for leave taken 
+before April 1, 2021 (Form 941 or 
+941-SS, line 20)
+.
+—
+.
+=
+.
+30. 
+Qualified wages for the 
+employee retention credit* 
+(Form 941 or 941-SS, line 21)
+.
+—
+.
+=
+.
+* Use line 30 only for corrections to quarters beginning after March 31, 2020, and before January 1, 2022.
+31a. 
+Qualified health plan expenses for 
+the employee retention credit* 
+(Form 941 or 941-SS, line 22)
+.
+—
+.
+=
+.
+* Use line 31a only for corrections to quarters beginning after March 31, 2020, and before January 1, 2022.
+31b.
+Check here if you’re eligible for the employee retention credit in the third or fourth quarter of 2021 
+solely because your business is a recovery startup business .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+32. 
+Credit from Form 5884-C, line 
+11, for this quarter* (Form 941 or 
+941-SS, line 23)
+.
+—
+.
+=
+.
+* Use line 32 only for corrections to quarters beginning after March 31, 2020, and before April 1, 2021.
+Page 3
+Form 941-X (Rev. 4-2022)
+Name (not your trade name)
+Employer identification number (EIN)
+–
+Correcting quarter
+(1, 2, 3, 4)
+Correcting calendar year  (YYYY)
+Part 3: Enter the corrections for this quarter. If any line doesn’t apply, leave it blank. (continued)
+Column 1
+Total corrected  
+amount (for ALL 
+employees)
+—
+Column 2
+Amount originally 
+reported or as 
+previously corrected 
+(for ALL employees)
+=
+Column 3
+Difference 
+(If this amount is a 
+negative number,  
+use a minus sign.)
+33a. 
+Qualified wages paid March 13 
+through March 31, 2020, for the 
+employee retention credit*  
+(Form 941 or 941-SS, line 24)
+.
+—
+.
+=
+.
+* Use line 33a only for corrections to the second quarter of 2020.
+33b. 
+Deferred amount of the 
+employee share of social 
+security tax included on Form 
+941 or 941-SS, line 13b* 
+(Form 941 or 941-SS, line 24)
+.
+—
+.
+=
+.
+* Use line 33b only for corrections to the third and fourth quarters of 2020.
+34. 
+Qualified health plan expenses 
+allocable to wages reported on 
+Form 941 or 941-SS, line 24*  
+(Form 941 or 941-SS, line 25)
+.
+—
+.
+=
+.
+* Use line 34 only for corrections to the second quarter of 2020.
+Caution: Lines 35–40 apply only to quarters beginning after March 31, 2021.
+35. 
+Qualified sick leave wages for 
+leave taken after March 31, 2021, 
+and before October 1, 2021 (Form 
+941 or 941-SS, line 23)
+.
+—
+.
+=
+.
+36. 
+Qualified health plan expenses 
+allocable to qualified sick leave 
+wages for leave taken after March 
+31, 2021, and before October 1, 
+2021 (Form 941 or 941-SS, line 24)
+.
+—
+.
+=
+.
+37. 
+Amounts under certain collectively 
+bargained agreements allocable to 
+qualified sick leave wages for leave 
+taken after March 31, 2021, and 
+before October 1, 2021 (Form 941 or 
+941-SS, line 25)
+.
+—
+.
+=
+.
+38. 
+Qualified family leave wages for 
+leave taken after March 31, 2021, 
+and before October 1, 2021 (Form 
+941 or 941- SS, line 26)
+.
+—
+.
+=
+.
+39. 
+Qualified health plan expenses 
+allocable to qualified family leave 
+wages for leave taken after March 
+31, 2021, and before October 1, 
+2021 (Form 941 or 941-SS, line 27)
+.
+—
+.
+=
+.
+40. 
+Amounts under certain collectively 
+bargained agreements allocable to 
+qualified family leave wages 
+for leave taken after March 31, 
+2021, and before October 1, 2021 
+(Form 941 or 941- SS, line 28)
+.
+—
+.
+=
+.
+Page 4
+Form 941-X (Rev. 4-2022)
+Name (not your trade name)
+Employer identification number (EIN)
+–
+Correcting quarter
+(1, 2, 3, 4)
+Correcting calendar year  (YYYY)
+Part 4: Explain your corrections for this quarter.
+41.
+Check here if any corrections you entered on a line include both underreported and overreported amounts. Explain both 
+your underreported and overreported amounts on line 43.
+42.
+Check here if any corrections involve reclassified workers. Explain on line 43.
+43.
+You must give us a detailed explanation of how you determined your corrections. See the instructions.
+Part 5: Sign here. You must complete all five pages of this form and sign it.
+Under penalties of perjury, I declare that I have filed an original Form 941 or Form 941-SS and that I have examined this adjusted return or claim, including 
+accompanying schedules and statements, and to the best of my knowledge and belief, it is true, correct, and complete. Declaration of preparer (other than 
+taxpayer) is based on all information of which preparer has any knowledge.
+✗
+Sign your 
+name here
+Date
+ /       /
+Print your 
+name here
+Print your 
+title here
+Best daytime phone
+Paid Preparer Use Only
+Check if you’re self-employed .
+.
+.
+Preparer’s name
+Preparer’s signature
+Firm’s name (or yours 
+if self-employed)
+Address
+City
+State
+PTIN
+Date
+ /       /
+EIN
+Phone
+ZIP code
+Page 5
+Form 941-X (Rev. 4-2022)
+Form 941-X: Which process should you use?
+Type of errors 
+you’re correcting
+Unless otherwise specified in the separate instructions, an underreported employment tax credit or social 
+security tax deferral should be treated like an overreported tax amount. An overreported employment tax credit 
+or social security tax deferral should be treated like an underreported tax amount. For more information, 
+including which process to select on lines 1 and 2, see Correcting an employment tax credit or social security tax 
+deferral in the separate instructions.
+Underreported 
+tax amounts  
+ONLY
+Use the adjustment process to correct underreported tax amounts.
+• Check the box on line 1.
+• Pay the amount you owe from line 27 by the time you file Form 941-X.
+Overreported 
+tax amounts  
+ONLY
+The process you 
+use depends on 
+when you file 
+Form 941-X.
+If you’re filing Form 941-X 
+MORE THAN 90 days before 
+the period of limitations on 
+credit or refund for Form 941  
+or Form 941-SS expires...
+Choose either the adjustment process or the claim 
+process to correct the overreported tax amounts.
+Choose the adjustment process if you want the 
+amount shown on line 27 credited to your Form 941, 
+Form 941-SS, or Form 944 for the period in which 
+you file Form 941-X. Check the box on line 1.
+OR
+Choose the claim process if you want the amount 
+shown on line 27 refunded to you or abated. Check 
+the box on line 2.
+If you’re filing Form 941-X 
+WITHIN 90 days of the 
+expiration of the period of 
+limitations on credit or  
+refund for Form 941 or Form 
+941-SS...
+You must use the claim process to correct the 
+overreported tax amounts. Check the box on line 2.
+BOTH 
+underreported 
+and 
+overreported 
+tax amounts 
+The process you 
+use depends on 
+when you file 
+Form 941-X.
+If you’re filing Form 941-X 
+MORE THAN 90 days before 
+the period of limitations on 
+credit or refund for Form 941 
+or Form 941-SS expires...
+Choose either the adjustment process or both the 
+adjustment process and the claim process when you 
+correct both underreported and overreported tax  
+amounts.
+Choose the adjustment process if combining your 
+underreported tax amounts and overreported tax 
+amounts results in a balance due or creates a credit 
+that you want applied to Form 941, Form 941-SS, or 
+Form 944.
+• File one Form 941-X, and
+• Check the box on line 1 and follow the instructions 
+on line 27.
+OR
+Choose both the adjustment process and the 
+claim process if you want the overreported tax 
+amount refunded to you or abated.
+File two separate forms.
+1. For the adjustment process, file one Form 941-X 
+to correct the underreported tax amounts. Check 
+the box on line 1. Pay the amount you owe from 
+line 27 by the time you file Form 941-X.
+2. For the claim process, file a second Form 941-X 
+to correct the overreported tax amounts. Check 
+the box on line 2.
+If you’re filing Form 941-X 
+WITHIN 90 days of the 
+expiration of the period of 
+limitations on credit or  
+refund for Form 941 or  
+Form 941-SS...
+You must use both the adjustment process and 
+the claim process.
+File two separate forms.
+1. For the adjustment process, file one Form 941-X 
+to correct the underreported tax amounts. Check 
+the box on line 1. Pay the amount you owe from 
+line 27 by the time you file Form 941-X.
+2. For the claim process, file a second Form 941-X 
+to correct the overreported tax amounts. Check 
+the box on line 2.
+Page 6
+Form 941-X (Rev. 4-2022)

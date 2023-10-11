@@ -1,0 +1,9 @@
+Form 8960 is a document provided by the Internal Revenue Service (IRS) that is used to calculate the Net Investment Income Tax for individuals, estates, and trusts. The form consists of three parts.
+
+Part I of the form is used to report investment income. It includes various categories such as taxable interest, ordinary dividends, annuities, rental real estate, royalties, partnerships, S corporations, and net gain or loss from the disposition of property.
+
+Part II of the form is used to report investment expenses that are allocable to investment income. This includes investment interest expenses, state, local, and foreign income tax, and miscellaneous investment expenses.
+
+Part III of the form is used to calculate the tax based on the net investment income. For individuals, modified adjusted gross income and the threshold based on filing status are taken into account. For estates and trusts, adjusted gross income and the highest tax bracket for the year are considered.
+
+The form includes instructions for each section and provides spaces to enter the necessary information. It is important to attach Form 8960 to your tax return and include the calculated net investment income tax.

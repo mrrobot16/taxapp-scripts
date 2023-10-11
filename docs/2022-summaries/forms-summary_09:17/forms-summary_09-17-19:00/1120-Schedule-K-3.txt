@@ -1,0 +1,17 @@
+The document is a Schedule K-3 (Form 1120-S) for the tax year 2022. It is used to report a shareholder's share of income, deductions, credits, and other information from a corporation. The form is divided into several parts, and the shareholder must indicate which parts apply to their situation.
+
+Part I is for reporting the shareholder's share of the corporation's other current year international information. It includes various items such as gain on personal property sale, foreign oil and gas taxes, foreign tax translation, and more.
+
+Part II is for reporting the foreign tax credit limitation. It includes sections for reporting gross income from various sources, such as sales, services, rental real estate, and more.
+
+Part III is for providing additional information for the preparation of Form 1116, which is used to claim the foreign tax credit. It includes information on apportionment factors for research and experimental expenses and interest expenses.
+
+Part IV is for reporting distributions from foreign corporations to the S corporation.
+
+Part V is for reporting information on the shareholder's share of Section 951(a)(1) and Section 951A inclusions.
+
+Part VI is for providing information to complete Form 8621, which is used to report information on passive foreign investment companies (PFICs), qualified electing funds (QEFs), or qualifying insurance corporations (QICs).
+
+Part VII is for reporting the shareholder's share of the S corporation's interest in foreign corporation income under Section 960.
+
+The document includes various sections and checkboxes for the shareholder to provide the necessary information. It is important for shareholders to carefully review the instructions and complete the form accurately to comply with IRS requirements.

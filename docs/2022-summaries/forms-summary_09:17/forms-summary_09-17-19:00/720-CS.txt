@@ -1,0 +1,13 @@
+Form 720-CS is a Carrier Summary Report form used by carriers to report their transactions for a specific month. The form requires information about the carrier, including their company name, employer identification number (EIN), address, and contact details. 
+
+The form is divided into two parts. Part I requires the carrier to provide their information, while Part II is for reporting the transactions for the month. The carrier must enter the net gallons for each product code (PC) on Schedules A and B, and then complete lines 1 and 2 for each PC. 
+
+Line 1 is for reporting total receipts, where the carrier must enter the total net gallons from Schedule A. If there are receipts from multiple facilities for a PC, the amounts from each facility's Schedule A should be added and entered as the combined total. 
+
+Line 2 is for reporting total deliveries, where the carrier must enter the total net gallons from Schedule B. If there are deliveries to multiple facilities for a PC, the amounts from each facility's Schedule B should be added and entered as the combined total. 
+
+The form must be signed by the carrier, declaring that the information provided is true, correct, and complete. The carrier must also provide their title, date, and printed name. 
+
+The form includes separate schedules for Schedule A (Carrier Receipts) and Schedule B (Carrier Deliveries). Each schedule requires the carrier to provide information about the consignor, mode code, vessel official number (if applicable), document date, document number, and net gallons. The totals from these schedules are entered on lines 1 and 2 of Part II of the form. 
+
+This summary is based on the information provided on the Form 720-CS (Rev. September 2010).

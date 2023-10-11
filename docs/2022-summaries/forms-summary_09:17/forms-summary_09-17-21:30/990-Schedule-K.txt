@@ -1,0 +1,15 @@
+Schedule K is a supplemental information form for tax-exempt organizations that have answered "Yes" to certain questions on Form 990. It is used to provide additional details, explanations, and information related to tax-exempt bonds. The form consists of several parts and asks questions about bond issues, proceeds, private business use, arbitrage, procedures for corrective action, and provides space for supplemental information.
+
+Part I of Schedule K asks for information about bond issues, including the issuer name, issuer EIN, CUSIP number, date issued, issue price, purpose, whether the bonds have been defeased, and whether they were issued on behalf of the issuer or as part of pooled financing.
+
+Part II asks for details about the proceeds from the bond issue, including the amount of bonds retired, amount of bonds legally defeased, total proceeds of the issue, gross proceeds in reserve funds, capitalized interest from proceeds, proceeds in refunding escrows, issuance costs from proceeds, credit enhancement from proceeds, working capital expenditures from proceeds, capital expenditures from proceeds, and other spent and unspent proceeds.
+
+Part III focuses on private business use of bond-financed property. It asks about partnerships or LLCs in which the organization is a partner or member, lease arrangements that may result in private business use, management or service contracts, research agreements, the percentage of financed property used in private business use, and whether the bond issue meets the private security or payment test.
+
+Part IV deals with arbitrage and asks if the issuer has filed Form 8038-T for arbitrage rebate, yield reduction, and penalty in lieu of arbitrage rebate. It also asks about exceptions to rebate, whether the bond issue is a variable rate issue, and if the organization has entered into a qualified hedge or invested gross proceeds in a guaranteed investment contract (GIC).
+
+Part V asks if the organization has established written procedures to ensure timely identification and correction of violations of federal tax requirements through the voluntary closing agreement program.
+
+Part VI provides space for supplemental information related to the responses given in the previous parts of Schedule K.
+
+Overall, Schedule K is a detailed form that requires organizations to provide specific information about their tax-exempt bond issues and related activities.

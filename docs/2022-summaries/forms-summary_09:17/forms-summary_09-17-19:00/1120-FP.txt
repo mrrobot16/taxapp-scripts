@@ -1,0 +1,15 @@
+Schedule P (Form 1120-F) is a document that is used to report foreign partner interests in partnerships for tax purposes. It is attached to Form 1120-F and is filed with the Internal Revenue Service (IRS).
+
+The form is divided into several parts. 
+
+Part I requires the foreign corporation to provide information about each partnership interest it holds, including the name and address of the partnership, as well as the employer identification number (EIN) of the partnership. The form also asks whether the foreign corporation's distributive share of income from the partnership is effectively connected income (ECI) with a U.S. trade or business.
+
+Part II is a summary of the foreign partner's income and expenses from Schedule K-3 (Form 1065), which is used to report the partnership's income, deductions, and credits. The form asks for the total gross income, gross ECI (partnership determination), gross ECI (partner determination), total deductions and losses, and deductions and losses deductible against gross ECI.
+
+Part III requires the foreign partner to report their average outside basis in the partnership under certain regulations.
+
+Part IV is used to report any transfers of partnership interests during the tax year. The form asks for the letter corresponding to the partnership from Part I, the percentage interest and units transferred, and the dates of acquisition and transfer.
+
+Part V is used to report the foreign partner's gain or loss on the transfer of partnership interests. The form asks for the amount realized on the transfer, the section 705 outside basis, and calculates the total outside gain or loss, outside ordinary gain or loss, outside capital gain or loss, effectively connected ordinary gain or loss, effectively connected capital gain or loss, recognized effectively connected ordinary gain or loss, recognized effectively connected capital gain or loss, and gain or loss under section 897(g) on the deemed sale of U.S. real property interests.
+
+The form includes instructions and a link to the IRS website for additional information.

@@ -1,0 +1,31 @@
+Form 990 is a tax form for organizations exempt from income tax under section 501(c), 527, or 4947(a)(1) of the Internal Revenue Code. It is used to report financial information, activities, governance, and compensation of officers, directors, trustees, key employees, and independent contractors.
+
+The form is divided into several parts:
+
+Part I: Summary - Provides basic information about the organization, including its mission, number of members, and gross receipts.
+
+Part II: Signature Block - Requires a declaration of accuracy and completeness of the form.
+
+Part III: Statement of Program Service Accomplishments - Describes the organization's mission and program services provided.
+
+Part IV: Checklist of Required Schedules - Specifies any additional schedules that need to be completed.
+
+Part V: Statements Regarding Other IRS Filings and Tax Compliance - Provides information about other IRS filings and compliance with tax regulations.
+
+Part VI: Governance, Management, and Disclosure - Asks about the organization's governing body, management, and disclosure policies.
+
+Part VII: Compensation of Officers, Directors, Trustees, Key Employees, Highest Compensated Employees, and Independent Contractors - Reports compensation of individuals associated with the organization.
+
+Part VIII: Statement of Revenue - Reports the organization's revenue from various sources.
+
+Part IX: Statement of Functional Expenses - Reports the organization's expenses by category.
+
+Part X: Balance Sheet - Reports the organization's assets, liabilities, and net assets or fund balances.
+
+Part XI: Reconciliation of Net Assets - Reconciles changes in net assets or fund balances from the beginning to the end of the year.
+
+Part XII: Financial Statements and Reporting - Asks about the organization's accounting method, financial statement preparation, and audits.
+
+The form also includes schedules and instructions for completing each section. Organizations may need to provide additional information on Schedule O if necessary.
+
+It's important for organizations to accurately complete Form 990 to ensure compliance with IRS regulations and maintain their tax-exempt status.

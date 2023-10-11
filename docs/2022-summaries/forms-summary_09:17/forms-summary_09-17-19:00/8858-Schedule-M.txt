@@ -1,0 +1,15 @@
+Schedule M (Form 8858) is a document provided by the Internal Revenue Service (IRS) that is used to report transactions between a foreign disregarded entity (FDE) or foreign branch (FB) and the filer or other related entities. It must be attached to Form 8858 and completed separately for each FDE or FB.
+
+The schedule contains three sets of column headings, and the filer must check the box that identifies the status of the tax owner and complete the applicable lines. The column headings include:
+
+1. Controlled Foreign Partnership: This section includes transactions of the FDE or FB, the U.S. person filing the return, any domestic corporation or partnership controlling or controlled by the filer, any foreign corporation or partnership controlling or controlled by the filer (other than the tax owner), and any U.S. person with a 10% or more direct interest in the controlled foreign partnership (other than the filer).
+
+2. Controlled Foreign Corporation: This section includes transactions of the FDE or FB, the U.S. person filing the return, any domestic corporation or partnership controlled by the filer, any foreign corporation or partnership controlled by the filer (other than the tax owner), any 10% or more U.S. shareholder of any corporation controlling the tax owner, and any 10% or more U.S. shareholder or other owner of any entity controlling the tax owner.
+
+3. U.S. Tax Owner: This section includes transactions of the FDE or FB, the U.S. person filing the return (other than the tax owner of the FDE or FB), any domestic corporation or partnership controlled by the filer (other than the tax owner of the FDE or FB), any foreign corporation (including its branches or disregarded entities) controlling or controlled by the filer, and any foreign partnership (including its branches or FDEs) controlling or controlled by the filer.
+
+The schedule includes various types of transactions such as sales of inventory, sales of property rights, compensation received for certain services, commissions received, rents, royalties, and license fees received, dividends/distributions received, interest received, loan guarantee fees received, and other transactions. It also includes purchases of inventory, purchases of tangible property other than inventory, purchases of property rights, compensation paid for certain services, commissions paid, rents, royalties, and license fees paid, interest paid, loan guarantee fees paid, amounts borrowed, and amounts loaned.
+
+All amounts must be stated in U.S. dollars and translated from the functional currency at the appropriate exchange rate for the FDEs or FBs tax year.
+
+The form provides additional instructions and references for completing the schedule. It also includes a Paperwork Reduction Act Notice.

@@ -1,0 +1,15 @@
+Form 941-X is an Adjusted Employers Quarterly Federal Tax Return or Claim for Refund form used by employers to correct errors made on Form 941 or 941-SS. The form is divided into five parts.
+
+Part 1: The employer must select one process - either the adjustment process or the claim process. The adjustment process is used to correct underreported tax amounts or to correct both underreported and overreported tax amounts. The claim process is used to request a refund or abatement of overreported tax amounts.
+
+Part 2: The employer must complete the certifications, including filing Forms W-2 or Forms W-2c as required.
+
+Part 3: The employer must enter the corrections for the quarter being corrected. This includes various tax amounts such as wages, federal income tax withheld, social security tax, Medicare tax, and other tax adjustments.
+
+Part 4: The employer must provide a detailed explanation of how they determined the corrections.
+
+Part 5: The employer must sign the form under penalties of perjury.
+
+The form provides instructions on which process to use based on the type of errors being corrected and the timing of the filing. It also includes a section for the employer to explain corrections involving reclassified workers.
+
+Overall, Form 941-X is a comprehensive form that allows employers to correct errors on their quarterly federal tax returns and claim refunds if applicable.

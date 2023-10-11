@@ -1,0 +1,11 @@
+Form 8990 is a tax form used by taxpayers in the United States to calculate the limitation on business interest expense under Section 163(j) of the Internal Revenue Code. The form is attached to the taxpayer's tax return and requires the taxpayer to provide information about their business interest expense, adjusted taxable income, business interest income, and other relevant details.
+
+The form has several parts and schedules that need to be completed depending on the taxpayer's situation. Part I of the form is completed by all taxpayers subject to Section 163(j) and requires the taxpayer to calculate their allowable business interest expense based on their current year business interest expense and various adjustments.
+
+Part II of the form is only completed by partnerships subject to Section 163(j) and requires the partnership to allocate excess business interest expense and excess taxable income to its partners.
+
+Part III of the form is only completed by S corporations subject to Section 163(j) and requires the S corporation to allocate excess taxable income to its shareholders.
+
+The form also includes Schedule A and Schedule B, which are used to summarize the excess items allocated to partners and shareholders, respectively.
+
+Overall, Form 8990 is a detailed tax form that taxpayers use to calculate their limitation on business interest expense under Section 163(j) and allocate excess items to partners and shareholders in partnerships and S corporations.

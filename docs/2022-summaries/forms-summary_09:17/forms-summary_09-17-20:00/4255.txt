@@ -1,0 +1,289 @@
+Form   4255
+(Rev. December 2016) 
+Department of the Treasury 
+Internal Revenue Service 
+Recapture of Investment Credit 
+▶ Attach to your income tax return. 
+▶ Information about Form 4255 and its separate instructions is at www.irs.gov/form4255. 
+OMB No. 1545-0166 
+Attachment 
+Sequence No.  172 
+Name(s) as shown on return 
+Identifying number 
+Properties Type of property—State whether rehabilitation, energy, qualifying advanced coal project, qualifying gasification project, qualifying advanced energy project, 
+or qualifying therapeutic discovery project property. (See the Instructions for Form 3468 for the year the investment credit property was placed in service 
+for definitions.) If rehabilitation property, also show type of building. If energy property, show type. 
+A 
+B 
+C 
+D 
+Part I
+Original Investment Credit 
+These columns relate to the properties A 
+Properties 
+through D described above .
+.
+.
+.
+.
+.
+. ▶
+A 
+B 
+C 
+D 
+1 Original rate of credit 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2  
+ 
+Credit base as of the end of the previous tax year 
+(see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3  
+  
+ 
+Net change in nonqualified nonrecourse financing 
+during the tax year. If a net decrease, enter as a 
+negative number .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4  
+ 
+Credit base as of the end of the current tax year. 
+Subtract line 3 from line 2
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 Refigured credit (see instructions)
+.
+.
+.
+.
+.
+5 
+6 
+ 
+Credit taken for this property on Form 3800 in 
+prior years. See instructions
+.
+.
+.
+.
+.
+.
+.
+6 
+Part II
+Recapture From Increase in Nonqualified Nonrecourse Financing (see instructions)
+     
+     
+     
+     
+     
+7  
+  
+ 
+Credit subject to recapture due to a net increase in 
+nonqualified nonrecourse financing. Subtract line 5 
+from line 6. If zero or less, enter -0- .
+.
+.
+.
+.
+7 
+8  
+  
+ 
+Unused general business credits that would have 
+been allowed if original credit had been figured with 
+current-year credit base (see instructions) .
+.
+.
+8 
+9 
+  
+ 
+Subtract line 8 from line 7. This is the recapture tax 
+as a result of a net increase in nonqualified 
+nonrecourse financing
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Part III
+Recapture From Disposition of Property or Cessation of Use as Investment Credit Property
+     
+     
+     
+     
+     
+10 Date property was placed in service .
+.
+.
+.
+10
+11 
+ 
+Date property ceased to be qualified investment 
+credit property .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+11
+12 
+ 
+Number of full years between the date on line 10 
+and the date on line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13 
+  
+ 
+Unused general business credits that would have 
+been allowed had there been no credit from this 
+property (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+13
+14 Subtract line 13 from line 6 .
+.
+.
+.
+.
+.
+.
+.
+14
+15 Recapture percentage (see instructions)
+.
+.
+.
+15
+16 Multiply line 14 by the percentage on line 15 .
+.
+16
+17 Add property columns A through D, line 9 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 Add property columns A through D, line 16 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 Recapture of qualifying therapeutic discovery project grant. Attach statement (see instructions) .
+.
+.
+19
+20 
+ 
+Total increase in tax. Add lines 17, 18, and 19. (See section 45K(b)(4) if you claim the nonconventional 
+source fuel credit.) Enter here and on the appropriate line of your tax return .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+For Paperwork Reduction Act Notice, see instructions. 
+Cat. No. 41488C 
+Form 4255 (Rev. 12-2016) 

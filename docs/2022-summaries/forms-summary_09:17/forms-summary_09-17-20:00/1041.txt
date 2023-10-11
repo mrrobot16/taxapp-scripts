@@ -1,0 +1,1574 @@
+Form
+1041 
+Department of the Treasury—Internal Revenue Service 
+U.S. Income Tax Return for Estates and Trusts
+Go to www.irs.gov/Form1041 for instructions and the latest information.
+2022
+OMB No. 1545-0092
+For calendar year 2022 or fiscal year beginning 
+, 2022, and ending  
+, 20  
+Name of estate or trust (If a grantor type trust, see the instructions.) 
+Name and title of fiduciary 
+Number, street, and room or suite no. (If a P.O. box, see the instructions.) 
+City or town, state or province, country, and ZIP or foreign postal code 
+A   Check all that apply: 
+Decedent’s estate 
+Simple trust 
+Complex trust 
+Qualified disability trust 
+ESBT (S portion only) 
+Grantor type trust
+Bankruptcy estate—Ch. 7
+Bankruptcy estate—Ch. 11
+Pooled income fund
+B    Number of Schedules K-1 
+attached (see 
+instructions) 
+C   Employer identification number
+D   Date entity created 
+E   Nonexempt charitable and split-interest 
+trusts, check applicable box(es). 
+See instructions. 
+Described in sec. 4947(a)(1). Check here
+if not a private foundation .
+.
+.
+Described in sec. 4947(a)(2)
+F  Check  
+applicable  
+boxes: 
+Initial return
+Final return
+Amended return
+Net operating loss carryback
+Change in trust’s name
+Change in fiduciary
+Change in fiduciary’s name
+Change in fiduciary’s address
+G  Check here if the estate or filing trust made a section 645 election .
+.
+.
+.
+.
+.
+.
+.
+.
+Trust TIN 
+Income 
+1 
+Interest income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+1 
+2a Total ordinary dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b Qualified dividends allocable to: (1) Beneficiaries 
+(2) Estate or trust 
+3 
+Business income or (loss). Attach Schedule C (Form 1040) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+3 
+4 
+Capital gain or (loss). Attach Schedule D (Form 1041) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5
+Rents, royalties, partnerships, other estates and trusts, etc. Attach Schedule E (Form 1040) 
+.
+.
+5 
+6 
+Farm income or (loss). Attach Schedule F (Form 1040) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Ordinary gain or (loss). Attach Form 4797 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+7 
+8 
+Other income. List type and amount 
+8 
+9 
+Total income. Combine lines 1, 2a, and 3 through 8 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+Deductions 
+10 
+Interest. Check if Form 4952 is attached           .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Taxes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+11 
+12 
+Fiduciary fees. If only a portion is deductible under section 67(e), see instructions .
+.
+.
+.
+.
+.
+12 
+13 
+Charitable deduction (from Schedule A, line 7) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+13 
+14 
+Attorney, accountant, and return preparer fees. If only a portion is deductible under section 67(e), 
+see instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 a Other deductions (attach schedule). See instructions for deductions allowable under section 67(e)
+15a 
+b Net operating loss deduction. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+15b 
+16 
+Add lines 10 through 15b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Adjusted total income or (loss). Subtract line 16 from line 9 
+.
+.
+.
+.
+.  
+17 
+18 
+Income distribution deduction (from Schedule B, line 15). Attach Schedules K-1 (Form 1041) .
+.
+18 
+19 
+Estate tax deduction including certain generation-skipping taxes (attach computation) .
+.
+.
+.
+19 
+20 
+Qualified business income deduction. Attach Form 8995 or 8995-A 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+21 
+Exemption
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+22 
+Add lines 18 through 21 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+22 
+Tax and Payments 
+23 
+Taxable income. Subtract line 22 from line 17. If a loss, see instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+24 
+Total tax (from Schedule G, Part I, line 9) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+25
+Current year net 965 tax liability paid from Form 965-A, Part II, column (k) (see instructions) 
+.
+.  
+25
+26
+Total payments (from Schedule G, Part II, line 19) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+26
+27
+Estimated tax penalty. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27
+28 
+Tax due. If line 26 is smaller than the total of lines 24, 25, and 27, enter amount owed .
+.
+.
+.
+28 
+29 
+Overpayment. If line 26 is larger than the total of lines 24, 25, and 27, enter amount overpaid .
+.  
+29 
+30
+Amount of line 29 to be: a Credited to 2023 
+ ;   b Refunded .
+.
+.
+.
+.
+.
+30
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and 
+belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature of fiduciary or officer representing fiduciary
+Date
+EIN of fiduciary if a financial institution
+May the IRS discuss this return 
+with the preparer shown below? 
+See instructions.
+Yes
+No 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name    
+Firm’s address  
+Firm’s EIN  
+Phone no.
+For Paperwork Reduction Act Notice, see the separate instructions. 
+Cat. No. 11370H 
+Form 1041 (2022) 
+Form 1041 (2022)
+Page 2 
+Schedule A 
+Charitable Deduction. Don’t complete for a simple trust or a pooled income fund. 
+1 
+Amounts paid or permanently set aside for charitable purposes from gross income. See instructions 
+1 
+2 
+Tax-exempt income allocable to charitable contributions. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Subtract line 2 from line 1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Capital gains for the tax year allocated to corpus and paid or permanently set aside for charitable
+purposes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Add lines 3 and 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Section 1202 exclusion allocable to capital gains paid or permanently set aside for charitable
+purposes. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Charitable deduction. Subtract line 6 from line 5. Enter here and on page 1, line 13 .
+.
+.
+.
+.
+.  
+7 
+Schedule B 
+Income Distribution Deduction 
+1 
+Adjusted total income. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Adjusted tax-exempt interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+2 
+3 
+Total net gain from Schedule D (Form 1041), line 19, column (1). See instructions .
+.
+.
+.
+.
+.
+.
+3 
+4 
+Enter amount from Schedule A, line 4 (minus any allocable section 1202 exclusion) 
+.
+.
+.
+.
+.
+.
+4 
+5 
+Capital gains for the tax year included on Schedule A, line 1. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.  
+5 
+6 
+Enter any gain from page 1, line 4, as a negative number. If page 1, line 4, is a loss, enter the loss as a 
+positive number .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Distributable net income. Combine lines 1 through 6. If zero or less, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+ 
+If a complex trust, enter accounting income for the tax year as determined
+under the governing instrument and applicable local law 
+.
+.
+.
+.
+.
+.
+.  
+8 
+9 
+Income required to be distributed currently .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+9 
+10 
+Other amounts paid, credited, or otherwise required to be distributed .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+10 
+11 
+Total distributions. Add lines 9 and 10. If greater than line 8, see instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Enter the amount of tax-exempt income included on line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Tentative income distribution deduction. Subtract line 12 from line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Tentative income distribution deduction. Subtract line 2 from line 7. If zero or less, enter -0- 
+.
+.
+.
+14 
+15 
+Income distribution deduction. Enter the smaller of line 13 or line 14 here and on page 1, line 18 
+.
+15 
+Schedule G 
+Tax Computation and Payments (see instructions) 
+Part I — Tax Computation
+1 
+Tax: 
+a Tax on taxable income. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+1a 
+b Tax on lump-sum distributions. Attach Form 4972 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b 
+c Alternative minimum tax (from Schedule I (Form 1041), line 54)  .
+.
+.
+.
+.
+1c 
+d Total. Add lines 1a through 1c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d 
+2a Foreign tax credit. Attach Form 1116 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+2a 
+b General business credit. Attach Form 3800 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+2b 
+c Credit for prior year minimum tax. Attach Form 8801 
+.
+.
+.
+.
+.
+.
+.
+.  
+2c 
+d Bond credits. Attach Form 8912 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2d 
+e
+Total credits. Add lines 2a through 2d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+2e
+3 
+Subtract line 2e from line 1d. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+3
+4 
+Tax on the ESBT portion of the trust (from ESBT Tax Worksheet, line 17). See instructions .
+.
+.
+.  
+4 
+5 
+Net investment income tax from Form 8960, line 21 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6
+Recapture taxes. Check if from:                                                        .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Form 4255
+Form 8611
+6
+7
+Household employment taxes. Attach Schedule H (Form 1040) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Other taxes and amounts due .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Total tax. Add lines 3 through 8. Enter here and on page 1, line 24 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Part II — Payments
+10
+2022 estimated tax payments and amount applied from 2021 return 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Estimated tax payments allocated to beneficiaries (from Form 1041-T) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Subtract line 11 from line 10 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Tax paid with Form 7004. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Federal income tax withheld. If any is from Form(s) 1099, check here        .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Current year net 965 tax liability from Form 965-A, Part I, column (f) (see instructions)  
+.
+.
+.
+.
+.
+15
+16
+Other payments: a  Form 2439
+;   b Form 4136 
+; Total .
+.
+.
+16c
+17
+Credit for qualified sick and family leave wages for leave taken before April 1, 2021
+.
+.
+.
+.
+.
+.
+17
+18
+Credit for qualified sick and family leave wages for leave taken after March 31, 2021, and before 
+October 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+Total payments. Add lines 12 through 15 and 16c through 18. Enter here and on page 1, line 26 .
+.
+19
+Form 1041 (2022) 
+Form 1041 (2022) 
+Page 3 
+Other Information 
+Yes No
+1 
+Did the estate or trust receive tax-exempt income? If “Yes,” attach a computation of the allocation of expenses. 
+Enter the amount of tax-exempt interest income and exempt-interest dividends .
+.
+.
+.
+.
+$ 
+2 
+Did the estate or trust receive all or any part of the earnings (salary, wages, and other compensation) of any 
+individual by reason of a contract assignment or similar arrangement? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+3 
+At any time during calendar year 2022, did the estate or trust have an interest in or a signature or other authority 
+over a bank, securities, or other financial account in a foreign country? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+See the instructions for exceptions and filing requirements for FinCEN Form 114. If “Yes,” enter the name of the
+foreign country 
+4 
+During the tax year, did the estate or trust receive a distribution from, or was it the grantor of, or transferor to, a 
+foreign trust? If “Yes,” the estate or trust may have to file Form 3520. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+5 
+Did the estate or trust receive, or pay, any qualified residence interest on seller-provided financing? If “Yes,” see 
+the instructions for the required attachment 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+6 
+If this is an estate or a complex trust making the section 663(b) election, check here. See instructions 
+.
+.
+.
+7 
+To make a section 643(e)(3) election, attach Schedule D (Form 1041), and check here. See instructions .
+.
+.
+8 
+If the decedent’s estate has been open for more than 2 years, attach an explanation for the delay in closing the
+estate, and check here
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+Are any present or future trust beneficiaries skip persons? See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+Was the trust a specified domestic entity required to file Form 8938 for the tax year? See the Instructions for 
+Form 8938 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+11a
+Did the estate or trust distribute S corporation stock for which it made a section 965(i) election? .
+.
+.
+.
+.
+.
+b
+If “Yes,” did each beneficiary enter into an agreement to be liable for the net tax liability? See instructions .
+.
+.
+12 
+Did the estate or trust either make a section 965(i) election or enter into a transfer agreement as an eligible 965(i) 
+transferee for S corporation stock held on the last day of the tax year? See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+13
+ESBTs only. Does the ESBT have a nonresident alien grantor? If “Yes,” see instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+14
+ESBTs only. Did the S portion of the trust claim a qualified business income deduction? If “Yes,” see instructions
+Form 1041 (2022) 

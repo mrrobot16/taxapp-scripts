@@ -1,0 +1,11 @@
+Form 8975 is a document used for reporting country-by-country information to the Internal Revenue Service (IRS) in the United States. It is used by multinational enterprises (MNEs) to provide information about their operations and activities in different countries.
+
+The form requires the filer to provide their name, reporting role code, and employer identification number (EIN). They must also provide their address, including the number, street, city, state/province, country, and ZIP or foreign postal code.
+
+Additionally, the form asks for the name of the U.S. MNE group, if it is different from the reporting entity.
+
+Part II of the form allows for the inclusion of any additional information related to the U.S. MNE group.
+
+The form includes a reference to the IRS website for instructions and the latest information on Form 8975.
+
+It is important to note that this summary is based on the information provided and does not cover all the details and requirements of Form 8975. For complete and accurate information, it is advisable to refer to the official instructions and consult with a tax professional or the IRS.

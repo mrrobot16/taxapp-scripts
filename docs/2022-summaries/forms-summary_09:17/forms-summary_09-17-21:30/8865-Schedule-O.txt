@@ -1,0 +1,19 @@
+Schedule O (Form 8865) is a document that is used to report the transfer of property to a foreign partnership under Section 6038B of the Internal Revenue Code. This form is attached to Form 8865 and provides information about the transferor, the foreign partnership, and the details of the property transfer.
+
+The form begins with basic information such as the name and identifying number of the transferor and the name and EIN of the foreign partnership. It also includes a reference ID number.
+
+The first section of the form asks whether the partnership is a section 721(c) partnership and if the gain deferral method was applied to avoid the recognition of gain upon the contribution of property.
+
+The second section asks whether any intangible property transferred was considered or anticipated to be a platform contribution as defined in Regulations section 1.482-7(c)(1).
+
+The main part of the form is divided into three parts: Part I, Part II, and Part III.
+
+Part I is used to report transfers that are subject to Section 6038B. It requires information about the type of property transferred, the date of transfer, a description of the property, the fair market value on the date of transfer, the cost or other basis, the recovery period, the Section 704(c) allocation method, and the gain recognized on the transfer.
+
+Part II is used to report dispositions of property that were previously transferred under Section 6038B. It requires information about the type of property, the date of the original transfer, the date of disposition, the manner of disposition, the gain recognized by the partnership, the depreciation recapture recognized by the partnership, the gain allocated to the partner, and the depreciation recapture allocated to the partner.
+
+Part III asks whether any transfers reported on the schedule are subject to gain recognition under section 904(f)(3) or section 904(f)(5)(F).
+
+The form concludes with a space for supplemental information that may be required to be reported.
+
+Overall, Schedule O (Form 8865) is a detailed form that helps taxpayers report the transfer of property to a foreign partnership and any subsequent dispositions of that property.

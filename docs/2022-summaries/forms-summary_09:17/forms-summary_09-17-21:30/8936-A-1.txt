@@ -1,0 +1,13 @@
+This document is Schedule 1 (Form 8936-A) for the year 2022, titled "Qualified Commercial Clean Vehicle Credit Amount." It is to be attached to a tax return and provides instructions for calculating the credit amount for qualified commercial clean vehicles.
+
+The form requires the taxpayer to provide details about the vehicle, including the year, make, model, vehicle identification number (VIN), and the date the vehicle was placed in service. 
+
+The taxpayer is then asked a series of questions to determine eligibility for the credit. They must confirm that the VIN entered belongs to a qualified commercial clean vehicle acquired after 2022 and placed in service during the tax year. They must also confirm that the vehicle was acquired for use or lease to others, and not for resale. Additionally, they must determine if the vehicle is of a character subject to the allowance for depreciation and if it is primarily used outside the United States. Finally, they must indicate if the vehicle is also powered by gas or diesel.
+
+After answering these questions, the taxpayer is instructed to enter the cost or other basis of the vehicle and the Section 179 expense deduction, if applicable. They must then subtract the expense deduction from the cost or basis to calculate the adjusted basis. 
+
+The taxpayer is then instructed to multiply the adjusted basis by 15% (or 30% if the vehicle is not powered by gas or diesel) to calculate the credit amount. They are also required to enter the incremental cost of the vehicle and determine the smaller value between the calculated credit amount and the incremental cost.
+
+The maximum credit amount is provided, which is $7,500 (or $40,000 if the vehicle's gross vehicle weight rating is 14,000 pounds or more). The taxpayer must enter the smaller value between the calculated credit amount and the maximum credit on line 12 of Form 8936-A.
+
+The document also includes a reference to the IRS website for instructions and the latest information, as well as a notice regarding the Paperwork Reduction Act.

@@ -1,0 +1,277 @@
+Attention: 
+Copy A of this form is provided for informational purposes only. Copy A appears in red, 
+similar to the official IRS form. The official printed version of Copy A of this IRS form is 
+scannable, but the online version of it, printed from this website, is not. Do not print and file 
+copy A downloaded from this website; a penalty may be imposed for filing with the IRS 
+information return forms that can’t be scanned. See part O in the current General 
+Instructions for Certain Information Returns, available at www.irs.gov/form1099, for more 
+information about penalties.
+Please note that Copy B and other copies of this form, which appear in black, may be 
+downloaded and printed and used to satisfy the requirement to provide the information to 
+the recipient.
+To order official IRS information returns, which include a scannable Copy A for filing with 
+the IRS and all other applicable copies of the form, visit www.IRS.gov/orderforms. Click on 
+Employer and Information Returns, and we’ll mail you the forms you request and their 
+instructions, as well as any publications you may order.
+Information returns may also be filed electronically using the IRS Filing Information Returns 
+Electronically (FIRE) system (visit www.IRS.gov/FIRE) or the IRS Affordable Care Act 
+Information Returns (AIR) program (visit www.IRS.gov/AIR).
+See IRS Publications 1141, 1167, and 1179 for more information about printing these tax 
+forms.
+     
+Form 1099-LS
+(Rev. December 2019)
+Cat. No. 71383M
+Reportable Life 
+Insurance Sale
+Copy A
+For 
+Internal Revenue 
+Service Center
+Department of the Treasury - Internal Revenue Service
+File with Form 1096. 
+OMB No. 1545-2281
+For Privacy Act 
+and Paperwork 
+Reduction Act 
+Notice, see the 
+current General 
+Instructions for 
+Certain 
+Information 
+Returns.
+For calendar year     
+20
+1616
+VOID
+CORRECTED
+ACQUIRER’S name, street address, city or town, state or province, country, 
+ZIP or foreign postal code, and telephone no.
+ACQUIRER’S TIN
+PAYMENT RECIPIENT’S TIN
+PAYMENT RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Policy number
+1  Amount paid to payment 
+recipient
+$
+2  Date of sale
+Issuer’s name
+Acquirer’s information contact name, street address, city or 
+town, state or province, country, ZIP or foreign postal code, 
+and telephone no. (if different from ACQUIRER)
+Form 1099-LS (Rev. 12-2019)
+www.irs.gov/Form1099LS
+Do  Not  Cut  or  Separate  Forms  on  This  Page  —  Do  Not  Cut or  Separate  Forms  on  This  Page
+     
+Form 1099-LS
+(Rev. December 2019)
+Reportable Life 
+Insurance Sale
+Copy B
+For Payment 
+Recipient
+Department of the Treasury - Internal Revenue Service
+This is important tax 
+information and is being 
+furnished to the IRS. If 
+you are required to file a 
+ return, a negligence 
+penalty or other 
+sanction may be 
+imposed on you if this 
+item is required to be 
+reported and the IRS 
+determines that it has 
+not been reported.
+OMB No. 1545-2281
+For calendar year     
+20
+CORRECTED (if checked)
+ACQUIRER’S name, street address, city or town, state or province, country, 
+ZIP or foreign postal code, and telephone no.
+ACQUIRER’S TIN
+PAYMENT RECIPIENT’S TIN
+PAYMENT RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Policy number
+1  Amount paid to payment 
+recipient
+$
+2  Date of sale
+Issuer’s name
+Acquirer’s information contact name, street address, city or 
+town, state or province, country, ZIP or foreign postal code, 
+and telephone no. (if different from ACQUIRER)
+Form 1099-LS (Rev. 12-2019)
+(keep for your records)
+www.irs.gov/Form1099LS
+Instructions for Payment Recipient
+An acquirer of a life insurance contract or any interest in a life 
+insurance contract in a reportable policy sale under section 
+6050Y must give this form to you for payments made to you in 
+the reportable policy sale.
+Payment recipient’s taxpayer identification number (TIN). 
+For your protection, this form may show only the last four 
+digits of your TIN (social security number (SSN), individual 
+taxpayer identification number (ITIN), adoption taxpayer 
+identification number (ATIN), or employer identification number 
+(EIN)). However, the acquirer has reported your complete TIN 
+to the IRS.
+Policy number. Shows the policy number the life insurance 
+company assigned to the life insurance contract.
+Box 1. Shows the amount paid to you in the reportable policy 
+sale under section 6050Y.
+Box 2. Shows the date of sale.
+Issuer’s name. Shows the insurance company that bears the 
+risk with respect to the life insurance contract on the date a 
+Form 1099-LS is required to be furnished to that issuer. 
+Generally, this will be the life insurance company responsible 
+for administering the contract, including paying death benefits 
+under the life insurance contract.
+Acquirer’s information contact name, address, and phone 
+number. Shows the contact information of the acquirer. The 
+contact information provided will give you direct access to a 
+person who can answer questions about this form. If blank, 
+the contact information is the same as the ACQUIRER.
+Future developments. For the latest developments related to 
+Form 1099-LS and its instructions, such as legislation enacted 
+after they were published, go to www.irs.gov/Form1099LS. 
+     
+Form 1099-LS
+(Rev. December 2019)
+Reportable Life 
+Insurance Sale
+Copy C
+For Issuer
+Department of the Treasury - Internal Revenue Service
+Copy C is 
+provided to you 
+for information 
+only. Only the 
+payment recipient is 
+required to 
+report this 
+information on 
+a tax return.
+OMB No. 1545-2281
+For calendar year     
+20
+CORRECTED (if checked)
+ACQUIRER’S name, street address, city or town, state or province, country, 
+ZIP or foreign postal code, and telephone no.
+ACQUIRER’S TIN
+PAYMENT RECIPIENT’S TIN
+PAYMENT RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Policy number
+1  Amount paid to payment 
+recipient (optional)
+$
+2  Date of sale
+Issuer’s name
+Acquirer’s information contact name, street address, city or 
+town, state or province, country, ZIP or foreign postal code, 
+and telephone no. (if different from ACQUIRER)
+Form 1099-LS (Rev. 12-2019)
+(keep for your records)
+www.irs.gov/Form1099LS
+Instructions for Issuer
+An acquirer of a life insurance contract or any interest in a 
+life insurance contract in a reportable policy sale under 
+section 6050Y must give this form to you to report the 
+acquisition.
+If you are the issuer, Copy C is provided to you because 
+you have an information reporting obligation under section 
+6050Y(b). You must file a Form 1099-SB with respect to 
+the reportable policy sale under section 6050Y. 
+Payment recipient’s taxpayer identification number 
+(TIN). For the payment recipient’s protection, this form may 
+show only the last four digits of the payment recipient’s 
+TIN (social security number (SSN), individual taxpayer 
+identification number (ITIN), adoption taxpayer 
+identification number (ATIN), or employer identification 
+number (EIN)). However, the acquirer has reported the 
+payment recipient’s complete TIN to the IRS.
+Policy number. Shows the policy number assigned to the 
+life insurance contract acquired from the payment 
+recipient.
+Box 1. This box may show the amount paid to the payment 
+recipient.
+Box 2. Shows the date of sale.
+Issuer’s name. Shows your name as the insurance 
+company that bears the risk with respect to the life 
+insurance contract on the date a Form 1099-LS is required 
+to be furnished to you.
+Acquirer’s information contact name, address, and 
+phone number. Shows the contact information of the 
+acquirer. If blank, the information is the same as 
+ACQUIRER.
+Future developments. For the latest developments related 
+to Form 1099-LS and its instructions, such as legislation 
+enacted after they were published, go to www.irs.gov/
+Form1099LS. 
+     
+Form 1099-LS
+(Rev. December 2019)
+Reportable Life 
+Insurance Sale
+Copy D
+For Acquirer
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-2281
+For Privacy Act 
+and Paperwork 
+Reduction Act 
+Notice, see the 
+current General 
+Instructions for 
+Certain 
+Information 
+Returns.
+For calendar year     
+20
+VOID
+CORRECTED
+ACQUIRER’S name, street address, city or town, state or province, country, 
+ZIP or foreign postal code, and telephone no.
+ACQUIRER’S TIN
+PAYMENT RECIPIENT’S TIN
+PAYMENT RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Policy number
+1  Amount paid to payment 
+recipient
+$
+2  Date of sale
+Issuer’s name
+Acquirer’s information contact name, street address, city or 
+town, state or province, country, ZIP or foreign postal code, 
+and telephone no. (if different from ACQUIRER)
+Form 1099-LS (Rev. 12-2019)
+www.irs.gov/Form1099LS
+Instructions for Acquirer
+To complete Form 1099-LS, use:
+• The current General Instructions for Certain 
+Information Returns, and
+• The current Instructions for Form 1099-LS.
+To get or to order these instructions, go to           
+www.irs.gov/Form1099LS.
+Filing and furnishing. For filing and furnishing 
+instructions, including due dates, and to request filing or 
+furnishing extensions, see the current General 
+Instructions for Certain Information Returns.
+To file electronically, you must have software that 
+generates a file according to the specifications in Pub. 
+1220. The IRS does not provide a fill-in form option for 
+Copy A.
+Need help? If you have questions about reporting on 
+Form 1099-LS, call the information reporting customer 
+service site toll free at 866-455-7438 or 304-263-8700 
+(not toll free). Persons with a hearing or speech 
+disability with access to TTY/TDD equipment can call 
+304-579-4827 (not toll free). 

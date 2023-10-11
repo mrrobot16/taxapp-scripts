@@ -1,0 +1,15 @@
+Form 4768 is an application for an extension of time to file a return and/or pay U.S. estate (and generation-skipping transfer) taxes. The form is used by executors or other authorized individuals to request an extension for filing Form 706, 706-A, 706-NA, or 706-QDT. 
+
+The form has several sections for identification, including the decedent's name, date of death, executor's name, and address. It also requires the decedent's social security number, the estate tax return due date, and the domicile of the decedent.
+
+Part II of the form allows the applicant to specify the form for which the extension is being requested, such as Form 706, Form 706-A, Form 706-NA, or Form 706-QDT. The applicant can indicate whether they are applying for an automatic 6-month extension of time to file or if they are applying for an extension for cause because they missed the automatic extension deadline. If applying for an extension for cause, the applicant must provide a detailed explanation of why they were unable to request the automatic extension and why they have good and sufficient cause for the extension.
+
+There is also an option for an additional extension beyond the 6-month automatic extension for executors who are out of the country. The applicant must provide a detailed explanation of why it was impossible or impractical to file the return by the due date.
+
+Part III of the form relates to an extension of time to pay the estate or generation-skipping transfer tax. The applicant must provide a written statement explaining in detail why it is impossible or impractical to pay the full amount of the tax by the return due date.
+
+Part IV of the form is for the payment to accompany the extension request. The applicant must estimate the amount of estate and generation-skipping transfer taxes due and provide the amount of any cash shortage. The balance due is calculated by subtracting the cash shortage from the estimated taxes due.
+
+The form requires the signature and verification of the executor or the person filing the application on behalf of the executor. The signature certifies that the statements made in the application are true and correct. The form also includes options for different types of authorized individuals, such as members of the bar, certified public accountants, enrolled agents, or authorized agents with a power of attorney.
+
+The completed form should be mailed to the Internal Revenue Service Center specified on the form.

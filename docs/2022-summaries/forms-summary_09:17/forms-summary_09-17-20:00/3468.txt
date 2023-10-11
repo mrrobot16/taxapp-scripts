@@ -1,0 +1,1096 @@
+Form  3468
+2022
+Investment Credit
+Department of the Treasury  
+Internal Revenue Service
+Attach to your tax return. 
+Go to www.irs.gov/Form3468 for instructions and the latest information.
+OMB No. 1545-0155
+Attachment   
+Sequence No. 174
+Name(s) shown on return
+Identifying number
+Part I
+Information Regarding the Election To Treat the Lessee as the Purchaser of Investment Credit Property
+If you are claiming the investment credit as a lessee based on a section 48(d) (as in effect on November 4, 1990) election, provide the 
+following information. If you acquired more than one property as a lessee, attach a statement showing the information below.
+1
+Name of lessor:
+2
+Address of lessor:
+3
+Description of property:
+4
+Amount for which you were treated as having acquired the property 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. $
+Part II
+Qualifying Advanced Coal Project Credit, Qualifying Gasification Project Credit, Qualifying Advanced 
+Energy Project Credit, and Advanced Manufacturing Investment Credit
+5
+Qualifying advanced coal project credit (see instructions):
+a 
+ 
+ 
+Qualified 
+investment 
+in 
+integrated 
+gasification combined cycle property placed 
+in service during the tax year for projects 
+described in section 48A(d)(3)(B)(i) .
+.
+.
+$
+× 20% (0.20)
+5a
+b 
+ 
+ 
+Qualified investment in advanced coal-
+based generation technology property 
+placed in service during the tax year for 
+projects described in section 48A(d)(3)(B)(ii)
+$
+× 15% (0.15)
+5b
+c 
+ 
+ 
+Qualified investment in advanced coal-
+based 
+generation 
+technology 
+property 
+placed in service during the tax year for 
+projects described in section 48A(d)(3)(B)(iii)
+$
+× 30% (0.30)
+5c
+d
+Total. Add lines 5a, 5b, and 5c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5d
+6
+Qualifying gasification or advanced energy project credit (see instructions):
+a 
+ 
+ 
+ 
+ 
+ 
+ 
+Qualified investment in property placed in 
+service during the tax year (a) of advanced 
+energy project property or (b) of qualified 
+gasification property for which credits 
+were allocated or reallocated after October 
+3, 2008, and that includes equipment that 
+separates and sequesters at least 75% of 
+the project’s carbon dioxide emissions .
+$
+× 30% (0.30)
+6a
+b 
+ 
+Qualified investment in property other than 
+in 6a above placed in service during the 
+tax year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 20% (0.20)
+6b
+c
+Total. Add lines 6a and 6b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6c
+7
+Advanced manufacturing investment credit (see instructions): 
+Basis in qualified property as part of an advanced manufacturing 
+facility, placed in service during the tax year and after 2022, the
+construction of which began after August 9, 2022 
+.
+.
+.
+.
+.
+$
+× 25% (0.25) 
+7
+8
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Enter the applicable unused investment credit from cooperatives (see instructions) 
+.
+.
+.
+.
+.
+.
+9
+10 
+Add lines 5d, 6c, 7, and 9. Report this amount on Form 3800, Part III, line 1a (see instructions if you
+entered an amount on line 7) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 12276E
+Form 3468 (2022) 
+Form 3468 (2022)
+Page 2 
+Part III
+Rehabilitation Credit and Energy Credit
+11
+Rehabilitation credit (see instructions for requirements that must be met):
+a 
+ 
+ 
+Check this box if you are electing under section 47(d)(5) to take your qualified rehabilitation expenditures 
+into account for the tax year in which paid (or, for self-rehabilitated property, when capitalized). See 
+instructions. Note: This election applies to the current tax year and to all later tax years. You may not 
+revoke this election without IRS consent .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Enter the dates on which the 24- or 60-month measuring period begins
+and ends
+.
+c Enter the adjusted basis of the building as of the beginning date above (or the
+first day of your holding period, if later) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+d Enter the amount of the qualified rehabilitation expenditures incurred, or treated
+as incurred, during the period on line 11b above .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+Enter the amount of qualified rehabilitation expenditures and multiply by the percentage shown:
+e
+Pre-1936 buildings under the transition rule (see instructions) .
+.
+$
+× 10% (0.10)
+11e
+f
+Certified historic structures under the transition rule (see instructions)
+$
+× 20% (0.20)
+11f
+g Certified historic structures with expenditures paid or incurred 
+after 2017 and not under the transition rule (see instructions) .
+.
+$
+× 4% (0.04)
+11g
+Note: This credit is allowed for a 5-year period beginning in the tax year that the qualified rehabilitated
+building is placed in service.
+For properties identified on line 11f or 11g, complete lines 11h and 11i.
+h Enter the assigned NPS project number or the pass-through entity’s 
+employer identification number (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+i 
+Enter the date that the NPS approved the Request for Certification of
+Completed Work (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+Energy credit:
+a Basis of property using geothermal energy placed in service during 
+the tax year. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 30% (0.30)
+12a
+b 
+ 
+ 
+Basis of property using solar illumination or solar energy placed in 
+service during the tax year that is attributable to periods after 
+2005, the construction of which began before 2020 or after 2021 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 30% (0.30)
+12b
+c 
+ 
+Basis of property using solar illumination or solar energy placed in 
+service during the tax year, the construction of which began in 
+2020 or 2021 (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 30% (0.30)
+12c
+d
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12d
+Qualified fuel cell property (see instructions):
+e 
+ 
+ 
+ 
+ 
+Basis of property placed in service during 
+the tax year that was acquired after 2005 
+and before October 4, 2008, and the basis 
+attributable to construction, reconstruction, 
+or erection by the taxpayer after 2005 and 
+before October 4, 2008 
+.
+.
+.
+.
+.
+.
+$
+× 30% (0.30)
+12e
+f 
+Applicable kilowatt capacity of property on line 12e 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+× $1,000
+12f
+g
+Enter the smaller of line 12e or line 12f  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12g
+h 
+ 
+ 
+Basis of property placed in service during 
+the tax year that is attributable to periods 
+after October 3, 2008, the construction of 
+which began before 2020 or after 2021 .  $
+× 30% (0.30)
+12h
+i 
+Applicable kilowatt capacity of property on line 12h 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+× $3,000
+12i
+j
+Enter the smaller of line 12h or line 12i 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12j
+k 
+ 
+Basis of property placed in service during 
+the tax year, the construction of which 
+began in 2020 or 2021 .
+.
+.
+.
+.
+.
+.
+ $
+× 30% (0.30)
+12k
+l 
+Applicable kilowatt capacity of property on line 12k 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+× $3,000
+12l
+m Enter the smaller of line 12k or line 12l 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12m
+n
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12n
+o
+Reserved for future use 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12o
+p
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12p
+Form 3468 (2022)
+Form 3468 (2022)
+Page 3 
+Part III
+Rehabilitation Credit and Energy Credit (continued)
+Qualified microturbine property (see instructions):
+q 
+ 
+ 
+ 
+Basis of property placed in service during 
+the tax year that was acquired after 2005, 
+the basis attributable to construction, 
+reconstruction, or erection by the taxpayer 
+after 2005 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 10% (0.10)
+12q
+r
+Kilowatt capacity of property on line 12q 
+.
+.
+.
+.
+× $200
+12r
+s
+Enter the smaller of line 12q or line 12r .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12s
+Combined heat and power system property (see instructions):
+Caution: You can’t claim this credit if the electrical capacity of the property is more than 50 megawatts 
+or has a mechanical energy capacity of more than 67,000 horsepower or an equivalent combination of 
+electrical and mechanical energy capabilities.
+t 
+ 
+ 
+Basis of property placed in service during 
+the tax year. See instructions. For property 
+placed in service after 2022, multiply by 
+30% instead of 10% .
+.
+.
+.
+.
+.
+.
+$
+× 10% (0.10)
+12t
+u
+If the electrical capacity of the property is measured in:
+• Megawatts, divide 15 by the megawatt capacity. Enter 1.0 if the capacity is 
+15 megawatts or less.
+• Horsepower, divide 20,000 by the horsepower. Enter 1.0 if the capacity is 
+20,000 horsepower or less .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12u
+.
+v
+Multiply line 12t by line 12u .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12v
+Qualified small wind energy property (see instructions):
+w
+ 
+ 
+ 
+ 
+Basis of property placed in service during 
+the tax year that was acquired after 
+October 3, 2008, and before 2009 and the 
+basis attributable to the construction, 
+reconstruction, or erection by the taxpayer 
+after October 3, 2008, and before 2009 .
+$
+× 30% (0.30)
+12w
+x
+Enter the smaller of line 12w or $4,000
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12x
+y 
+ 
+Basis of property placed in service during the tax year that is 
+attributable to periods after 2008, the construction of which began 
+before 2020 or after 2021 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 30% (0.30)
+12y
+z 
+Basis of property placed in service during the tax year, the 
+construction of which began in 2020 or 2021 .
+.
+.
+.
+.
+.
+.
+$
+× 30% (0.30)
+12z
+aa Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  12aa
+Waste energy recovery property:
+bb Basis of property placed in service during the tax year. See 
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 30% (0.30)
+12bb
+Geothermal heat pump systems (see instructions):
+cc 
+ 
+Basis of property placed in service during the tax year. See 
+instructions. For property placed in service after 2022, multiply by 
+30% instead of 10% .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+× 10% (0.10)
+12cc
+Qualified investment credit facility property (see instructions):
+dd Basis of property placed in service during the tax year 
+.
+.
+.
+.
+$
+× 30% (0.30)
+12dd
+ee Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12ee
+ff
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12ff
+gg Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12gg
+hh Other energy credits and special adjustments (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12hh
+13
+Enter the applicable unused investment credit from cooperatives (see instructions) 
+.
+.
+.
+.
+.
+.
+13
+14 
+Combine lines 11e, 11f, 11g, 12a, 12b, 12c, 12g, 12j, 12m, 12s, 12v, 12x, 12y, 12z, 12bb, 12cc, 12dd, 
+12hh, and 13. Report this amount on Form 3800, Part III, line 4a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+Form 3468 (2022) 

@@ -1,0 +1,17 @@
+Form 965-E is a consent agreement form that is used by shareholders of S Corporations to request consent from the Internal Revenue Service (IRS) to make a section 965(h) election. This election allows shareholders to pay their unpaid section 965(i) net tax liability in installments over a certain period of time. 
+
+The form is divided into several parts. Part I requires the shareholder to provide their personal information, including their name, taxpayer identification number, and address. Part II asks for identifying information of the S Corporation for which the section 965(i) election was in effect, such as the name and taxpayer identification number.
+
+Part III requires the shareholder to enter the date of the triggering event that gave rise to the need for consent and provide a detailed description of the triggering event.
+
+Part IV is used to report the amount of the section 965(i) net tax liability that remains unpaid and for which consent is being requested. The form also asks for the date on which the next installment payment will be due.
+
+Part V asks whether the shareholder is able to make the payments required under section 965(h) and provides a yes or no option. It also asks if the shareholder's leverage ratio exceeded 3:1 immediately after the triggering event. Additional information pertaining to the shareholder's ability to pay can be provided.
+
+Part VI contains the terms of the agreement, which the shareholder must agree to by signing the form. The shareholder agrees to comply with all the conditions and requirements of section 965(h) and Regulations section 1.965-7(b), as well as any other applicable requirements. The shareholder also agrees to provide any additional information requested by the Commissioner and acknowledges that the consent agreement may be rejected if it contains a material misrepresentation or omission.
+
+The form must be signed by the shareholder under penalties of perjury, and they must certify that they have the authority to execute the form. The shareholder must also provide their contact information, including their email address and daytime phone number.
+
+The form includes a Privacy Act and Paperwork Reduction Act Notice, which provides information on the collection and use of personal information.
+
+This summary provides an overview of the form and its sections, but it is recommended to refer to the instructions provided by the IRS for detailed guidance on completing and filing Form 965-E.

@@ -1,0 +1,13 @@
+Form 8936-A is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Qualified Commercial Clean Vehicle Credit. This form should be attached to the taxpayer's tax return. The form provides instructions and information on how to claim the credit for qualified commercial clean vehicles.
+
+Taxpayers are instructed to claim the credit for certain plug-in and new clean vehicles on Form 8936. The total credit amount figured on Schedule 1 (Form 8936-A) should be entered on line 1 of Form 8936-A.
+
+Line 2 of Form 8936-A is for taxpayers who are claiming the qualified commercial clean vehicle credit from partnerships and S corporations. The instructions provide further guidance on how to report this amount.
+
+Taxpayers should add lines 1 and 2 and report the total on line 3. Partnerships and S corporations should stop here and report this amount on Schedule K, while all others should report this amount on Form 3800, Part III, line 1zz.
+
+It is important to note that a separate Schedule 1 (Form 8936-A) should be completed for each qualified commercial clean vehicle placed in service during the tax year.
+
+The form includes a reference to the Paperwork Reduction Act Notice, which provides information on the collection of information and its impact on the taxpayer.
+
+Overall, Form 8936-A is a necessary document for taxpayers to claim the Qualified Commercial Clean Vehicle Credit and provides instructions and guidance on how to properly report the credit on their tax return.

@@ -1,0 +1,1225 @@
+Form 720
+(Rev. March 2023)
+Department of the Treasury  
+Internal Revenue Service 
+Quarterly Federal Excise Tax Return
+ See the Instructions for Form 720.
+Go to www.irs.gov/Form720 for instructions and the latest information.
+OMB No. 1545-0023
+Check here if: 
+Final return 
+Address change 
+Name 
+Quarter ending 
+Number, street, and room or suite no.   
+(If you have a P.O. box, see the instructions.) 
+City or town, state or province, country, and ZIP or foreign postal code
+Employer identification number 
+FOR IRS USE ONLY 
+T 
+FF 
+FD 
+FP 
+I 
+T 
+Part I 
+IRS No. Environmental Taxes (attach Form 6627, ODCs are ozone-depleting chemicals) 
+Tax  
+IRS No. 
+53
+Domestic petroleum superfund tax
+53
+18 
+Domestic petroleum oil spill tax
+18
+16 
+Imported petroleum products superfund tax
+16
+21
+Imported petroleum products oil spill tax
+21
+54
+Chemicals (other than ODCs)
+54
+17 
+Imported chemical substances
+17
+98 
+Ozone-depleting chemicals (ODCs) 
+98 
+19 
+ODC tax on imported products 
+19 
+     
+Communications and Air Transportation Taxes (see instructions)
+Tax   
+     
+22 
+Local telephone service and teletypewriter exchange service 
+22 
+26 
+Transportation of persons by air
+26 
+28 
+Transportation of property by air
+28 
+27 
+Use of international air travel facilities
+27 
+     
+Fuel Taxes 
+Number of gallons 
+Rate 
+Tax   
+     
+     
+(a)  Diesel, tax on removal at terminal rack 
+$.244
+60 
+(b)  Diesel, tax on taxable events other than removal at terminal rack
+.244
+60 
+     
+(c)  Diesel, tax on sale or removal of biodiesel mixture 
+(not at terminal rack)
+.244
+104 
+Diesel-water fuel emulsion 
+.198
+104 
+105 
+Dyed diesel, LUST tax 
+.001
+105 
+107 
+Dyed kerosene, LUST tax 
+.001
+107 
+119 
+LUST tax, other exempt removals (see instructions) 
+.001
+119 
+35 
+(a)  Kerosene, tax on removal at terminal rack (see instructions) 
+.244
+     
+(b)  Kerosene, tax on taxable events other than removal at terminal rack 
+.244
+35 
+69 
+Kerosene for use in aviation (see instructions) 
+.219
+69 
+77 
+Kerosene for use in commercial aviation (other than foreign trade) 
+.044
+77 
+111 
+Kerosene for use in aviation, LUST tax on nontaxable uses 
+.001
+111 
+79 
+Other fuels (see instructions) 
+79 
+62 
+(a)  Gasoline, tax on removal at terminal rack 
+.184
+     (b)  Gasoline, tax on taxable events other than removal at terminal rack 
+.184
+62 
+13 
+Any liquid fuel used in a fractional ownership program aircraft
+.141
+13
+14 
+Aviation gasoline 
+.194
+14 
+112 
+Liquefied petroleum gas (LPG) (see instructions)
+.183
+112 
+118 
+“P Series” fuels 
+.184
+118 
+120 
+Compressed natural gas (CNG) (see instructions)
+.183
+120 
+121 
+Liquefied hydrogen 
+.184
+121 
+122
+Fischer-Tropsch process liquid fuel from coal (including peat)
+.244
+122 
+123 
+Liquid fuel derived from biomass 
+.244
+123 
+124 
+Liquefied natural gas (LNG) (see instructions)
+.243
+124 
+}
+}
+}
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions. 
+Cat. No. 10175Y 
+Form 720 (Rev. 3-2023)
+Form 720 (Rev. 3-2023) 
+Page 2 
+IRS No. 
+Rate 
+Tax 
+IRS No. 
+33 
+Retail Tax—Truck, trailer, and semitrailer chassis and bodies, and tractor
+12% of sales price
+33
+     
+Ship Passenger Tax 
+Number of persons 
+Rate 
+Tax   
+     
+29 
+Transportation by water 
+$3 per person
+29 
+     
+Other Excise Tax 
+Amount of obligations 
+Rate 
+Tax     
+     
+31 
+Obligations not in registered form 
+$.01
+31 
+     
+Foreign Insurance Taxes—Policies issued by foreign insurers
+Premiums paid 
+Rate 
+Tax     
+IRS No. 
+     
+Casualty insurance and indemnity bonds 
+$.04
+ 
+30 
+Life insurance, sickness and accident policies, and annuity 
+contracts 
+.01
+30 
+     
+Reinsurance 
+.01
+ 
+}
+     
+Manufacturers Taxes 
+Number of tons 
+Sales price 
+     
+     
+     
+36 
+Coal—Underground mined 
+$1.10 per ton
+36 
+37      
+4.4% of sales price
+37 
+38 
+Coal—Surface mined 
+$.55 per ton
+38
+39      
+4.4% of sales price
+39 
+     
+Number of tires 
+Tax   
+IRS No. 
+108 
+Taxable tires other than bias ply or super single tires 
+108 
+109 
+Taxable bias ply or super single tires (other than super single tires designed for steering) 
+109 
+113 
+Taxable tires, super single tires designed for steering 
+113 
+40 
+Gas guzzler tax. Attach Form 6197. Check if one-time filing .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+40 
+97 
+Vaccines (see instructions) 
+97 
+Reserved for future use
+Sales price
+2.3% of sales price
+1 
+Total. Add all amounts in Part I. Complete Schedule A unless one-time filing 
+.
+.
+.
+.
+.
+.
+.  
+$ 
+Part II 
+}
+IRS No. 
+Patient-Centered Outcomes Research Fee (see 
+instructions)
+(a) Avg. number 
+of lives covered 
+(see inst.)
+(b) Rate for 
+avg. 
+covered life
+(c) Fee (see 
+instructions)
+Tax 
+IRS No. 
+Specified health insurance policies
+(a) With a policy year ending before October 1, 2021
+$2.66
+ 
+(b) With a policy year ending on or after October 1, 2021, 
+and before October 1, 2022
+$2.79
+133
+Applicable self-insured health plans
+  
+133
+(c) With a plan year ending before October 1, 2021
+$2.66
+ 
+(d) With a plan year ending on or after October 1, 2021, 
+and before October 1, 2022
+$2.79
+ 
+     
+Rate
+Tax
+     
+41 
+Sport fishing equipment (other than fishing rods and fishing poles) 
+10% of sales price
+41
+110 
+Fishing rods and fishing poles (limits apply, see instructions) 
+10% of sales price
+110 
+42 
+Electric outboard motors 
+3% of sales price
+42 
+114 
+Fishing tackle boxes 
+3% of sales price
+114 
+44 
+Bows, quivers, broadheads, and points 
+11% of sales price
+44 
+106 
+Arrow shafts 
+$.59 per shaft
+106 
+140 
+Indoor tanning services
+10% of amount paid
+140
+     
+Number of gallons 
+Rate
+Tax
+     
+64 
+Inland waterways fuel use tax 
+$.29
+64 
+125 
+LUST tax on inland waterways fuel use (see instructions) 
+.001
+125 
+51 
+Section 40 fuels (see instructions)
+51 
+117 
+Biodiesel sold as but not used as fuel 
+117 
+20 
+Floor Stocks Tax—Ozone-depleting chemicals (floor stocks). Attach Form 6627. 
+20 
+2 
+Total. Add all amounts in Part II
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$ 
+Form 720 (Rev. 3-2023)
+Form 720 (Rev. 3-2023) 
+Page 3 
+Part III 
+3 
+Total tax. Add Part I, line 1, and Part II, line 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+3 
+4 
+Claims (see instructions; complete Schedule C) .
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Deposits made for the quarter .
+.
+.
+.
+.
+5 
+Check here if you used the safe harbor rule to make your deposits. 
+6 
+Overpayment from previous quarters .
+.
+.
+6 
+7 
+Enter the amount from Form 720-X included 
+on line 6, if any .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Add lines 5 and 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Add lines 4 and 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Balance Due. If line 3 is greater than line 9, enter the difference. Pay the full amount with the return (see instructions) 
+10 
+11 
+Overpayment. If line 9 is greater than line 3, enter the difference. Check if you want the 
+overpayment: 
+Applied to your next return, or 
+Refunded to you. 
+11 
+Third Party 
+Designee 
+Do you want to allow another person to discuss this return with the IRS (see instructions)? 
+Yes. Complete the following. 
+No 
+Designee name 
+Phone  no.
+Personal identification number (PIN)
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is 
+true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge. 
+Signature 
+Type or print name below signature. 
+Date 
+Title 
+Telephone number  
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name  
+Firm’s address
+Firm’s EIN  
+Phone no.
+Form 720 (Rev. 3-2023)
+Form 720 (Rev. 3-2023) 
+Page 4 
+Schedule A 
+Excise Tax Liability (see instructions) 
+Note: You must complete Schedule A if you have a liability for any tax in Part I of Form 720. Don’t complete Schedule A for 
+Part II taxes or for a one-time filing of the gas guzzler tax. 
+1 Regular method taxes 
+(a) Record of Net  
+Tax Liability 
+Period 
+1st–15th day 
+16th–last day 
+  
+    
+   
+First month 
+A 
+B 
+Second month 
+C 
+D 
+Third month 
+E 
+F 
+Special rule for September* .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ G 
+(b) Net liability for regular method taxes. Add the amounts for each semimonthly period. 
+2 Alternative method taxes (IRS Nos. 22, 26, 28, and 27) 
+(a) Record of Taxes 
+Considered as  
+Collected
+Period 
+1st–15th day 
+16th–last day 
+   
+     
+   
+First month 
+M
+N
+Second month 
+O
+P
+Third month 
+Q
+R
+Special rule for September* .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ S
+(b) Alternative method taxes. Add the amounts for each semimonthly period.
+* Complete only as instructed (see instructions). 
+Schedule T 
+Two-Party Exchange Information Reporting (see instructions) 
+Fuel 
+Number of gallons 
+Diesel fuel, gallons received in a two-party exchange within a terminal, included  
+on Form 720, IRS No. 60(a) 
+Diesel fuel, gallons delivered in a two-party exchange within a terminal 
+Kerosene, gallons received in a two-party exchange within a terminal, included 
+on Form 720, IRS No. 35(a), 69, 77, or 111 
+Kerosene, gallons delivered in a two-party exchange within a terminal 
+Gasoline, gallons received in a two-party exchange within a terminal, included 
+on Form 720, IRS No. 62(a) 
+Gasoline, gallons delivered in a two-party exchange within a terminal 
+Aviation gasoline, gallons received in a two-party exchange within a terminal, included 
+on Form 720, IRS No. 14 
+Aviation gasoline, gallons delivered in a two-party exchange within a terminal 
+Form 720 (Rev. 3-2023) 
+Form 720 (Rev. 3-2023) 
+Page 5 
+Schedule C 
+Claims 
+Month your income tax year ends
+•  Complete Schedule C for claims only if you are reporting liability in Part I or II of Form 720. 
+•  Attach a statement explaining each claim as required. Include your name and EIN on the statement (see instructions). 
+Caution: Claimant has the name and address of the person(s) who sold the fuel to the claimant, the dates of purchase, and if 
+exported, the required proof of export. For claims on lines 1a and 2b (type of use 13 and 14), 3c, 4b, and 5, claimant hasn’t waived 
+the right to make the claim. 
+1 
+Nontaxable Use of Gasoline 
+Note: CRN is credit reference number.
+Period of claim
+Type of use 
+Rate 
+Gallons 
+Amount of claim   
+CRN 
+a Gasoline (see Caution above line 1) 
+$.183
+$ 
+362
+b Exported (see Caution above line 1) 
+.184
+411
+2 
+Nontaxable Use of Aviation Gasoline 
+Period of claim 
+Type of use 
+Rate 
+Gallons 
+Amount of claim   
+CRN 
+a Used in commercial aviation (other than foreign trade) 
+$.15
+$ 
+354
+b Other nontaxable use (see Caution above line 1) 
+.193
+324
+c Exported (see Caution above line 1) 
+.194
+412
+d LUST tax on aviation fuels used in foreign trade 
+.001
+433
+3 
+Nontaxable Use of Undyed Diesel Fuel 
+Period of claim
+Claimant certifies that the diesel fuel did not contain visible evidence of dye. 
+Exception. If any of the diesel fuel included in this claim did contain visible evidence of dye, attach a detailed   
+explanation and check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Type of use 
+Rate 
+Gallons 
+Amount of claim   
+CRN 
+a Nontaxable use 
+$.243
+$ 
+360
+b Use in trains 
+.243
+353
+c Use in certain intercity and local buses (see Caution above line 1) 
+.17
+350
+d Use on a farm for farming purposes 
+.243
+360
+e Exported (see Caution above line 1) 
+.244
+413
+4 
+Nontaxable Use of Undyed Kerosene (Other Than Kerosene Used in Aviation) Period of claim 
+Claimant certifies that the kerosene did not contain visible evidence of dye. 
+Exception. If any of the kerosene included in this claim did contain visible evidence of dye, attach a detailed   
+explanation and check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.   
+Caution: Claims cannot be made on line 4 for kerosene sales from a blocked pump. Type of use 
+Rate 
+Gallons 
+Amount of claim   
+CRN 
+a Nontaxable use 
+$.243
+$ 
+346
+b Use in certain intercity and local buses (see Caution above line 1) 
+.17
+347
+c Use on a farm for farming purposes 
+.243
+346
+d Exported (see Caution above line 1) 
+.244
+414
+e Nontaxable use taxed at $.044 
+.043
+377
+f 
+Nontaxable use taxed at $.219 
+.218
+369
+5 
+Kerosene Used in Aviation (see Caution above line 1) 
+Period of claim 
+Type of use 
+Rate 
+Gallons 
+Amount of claim   
+CRN 
+a Kerosene used in commercial aviation (other than foreign 
+trade) taxed at $.244 
+$.200
+$ 
+417
+b Kerosene used in commercial aviation (other than foreign 
+trade) taxed at $.219 
+.175
+355
+c Nontaxable use (other than use by state or local 
+government) taxed at $.244 
+.243
+346
+d Nontaxable use (other than use by state or local 
+government) taxed at $.219 
+.218
+369
+e
+LUST tax on aviation fuels used in foreign trade 
+.001
+433
+Form 720 (Rev. 3-2023)
+Form 720 (Rev. 3-2023)
+Page 6 
+6 
+Nontaxable Use of Alternative Fuel 
+Caution: There is a reduced credit rate for use in certain intercity and local buses (type of use 5) (see instructions).
+Type of use 
+Rate 
+Gallons, or gasoline 
+or diesel gallon 
+equivalents
+Amount of claim     
+CRN 
+a Liquefied petroleum gas (LPG) (see instructions)  
+$.183
+$ 
+419
+b “P Series” fuels 
+.183
+420
+c Compressed natural gas (CNG) (see instructions)  
+.183
+421
+d Liquefied hydrogen 
+.183
+422
+e
+Fischer-Tropsch process liquid fuel from coal (including peat)
+.243
+423
+f 
+Liquid fuel derived from biomass 
+.243
+424
+g Liquefied natural gas (LNG) (see instructions)  
+.243
+425
+h Liquefied gas derived from biomass 
+.183
+435
+7 
+Sales by Registered Ultimate Vendors of Undyed Diesel Fuel  
+Period of claim 
+Registration number
+Claimant certifies that it sold the diesel fuel at a tax-excluded price, repaid the amount of tax to the buyer, or has obtained   
+written consent of the buyer to make the claim. Claimant certifies that the diesel fuel didn’t contain visible evidence of dye. 
+Exception. If any of the diesel fuel included in this claim did contain visible evidence of dye, attach a detailed  
+explanation and check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Rate 
+Gallons 
+Amount of claim   
+CRN 
+a Use by a state or local government 
+$.243
+$ 
+360
+b Use in certain intercity and local buses 
+.17
+350
+8 
+Sales by Registered Ultimate Vendors of Undyed Kerosene  
+(Other Than Kerosene For Use in Aviation) 
+Period of claim
+Registration number 
+Claimant certifies that it sold the kerosene at a tax-excluded price, repaid the amount of tax to the buyer, or has obtained the 
+written consent of the buyer to make the claim. Claimant certifies that the kerosene didn’t contain visible evidence of dye. 
+Exception. If any of the kerosene included in this claim did contain visible evidence of dye, attach a detailed  
+explanation and check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+346
+Rate 
+Gallons 
+Amount of claim   
+CRN 
+a Use by a state or local government 
+$.243
+$ 
+b Sales from a blocked pump 
+.243
+c Use in certain intercity and local buses 
+.17
+347
+9 
+Sales by Registered Ultimate Vendors of Kerosene For Use in Aviation
+Registration number 
+• See Caution above line 1.
+• Claimant sold the kerosene for use in aviation at a tax-excluded price and hasn’t collected the amount of tax from the buyer, 
+repaid the amount of tax to the buyer, or has obtained written consent of the buyer to make the claim. See the instructions for 
+additional information to be submitted. 
+Type of use 
+Rate 
+Gallons 
+Amount of claim   
+CRN 
+a Use in commercial aviation (other than foreign trade) taxed at $.219 
+$.175
+$ 
+355
+b Use in commercial aviation (other than foreign trade) taxed at $.244 
+.200
+417
+c Nonexempt use in noncommercial aviation 
+.025
+418
+d Other nontaxable uses taxed at $.244 
+.243
+346
+e Other nontaxable uses taxed at $.219
+.218
+369
+f 
+LUST tax on aviation fuels used in foreign trade 
+.001
+433
+10
+Sales by Registered Ultimate Vendors of Gasoline
+Registration number
+Claimant sold the gasoline at a tax-excluded price and hasn’t collected the amount of tax from the buyer, repaid the amount of 
+tax to the buyer, or has obtained written consent of the buyer to take the claim; and obtained an unexpired certificate from the 
+buyer and has no reason to believe any information in the certificate is false. See the instructions for additional information to 
+be submitted. 
+Rate 
+Gallons 
+Amount of claim 
+CRN 
+a Use by a nonprofit educational organization 
+$.183
+$ 
+b Use by a state or local government 
+.183
+362
+11 
+Sales by Registered Ultimate Vendors of Aviation Gasoline 
+Registration number
+Claimant sold the aviation gasoline at a tax-excluded price and hasn’t collected the amount of tax from the buyer, repaid the amount 
+of tax to the buyer, or has obtained written consent of the buyer to take the claim; and obtained an unexpired certificate from the buyer 
+and has no reason to believe any information in the certificate is false. See the instructions for additional information to be submitted. 
+Rate 
+Gallons 
+Amount of claim 
+CRN 
+a Use by a nonprofit educational organization 
+$.193
+$ 
+b Use by a state or local government 
+.193
+324
+Form 720 (Rev. 3-2023)
+Form 720 (Rev. 3-2023) 
+Page 7 
+12 
+Biodiesel, Renewable Diesel, or Sustainable Aviation Fuel Credit
+Period of claim
+Registration number 
+Biodiesel or renewable diesel mixtures. Claimant produced a mixture by mixing biodiesel with diesel fuel, or produced a 
+mixture by mixing renewable diesel with liquid fuel (other than renewable diesel). The biodiesel used to produce the biodiesel 
+mixture met ASTM D6751 and met EPA’s registration requirements for fuels and fuel additives. The renewable diesel used to 
+produce the renewable diesel mixture was derived from biomass, met EPA’s registration requirements for fuels and fuel 
+additives, and met ASTM D975, D396, or other equivalent standard approved by the IRS. The biodiesel or renewable mixture 
+was sold by the claimant to any person for use as a fuel or was used as a fuel by the claimant. Sustainable aviation fuel (SAF) 
+mixtures. Claimant produced a qualified mixture by mixing SAF with kerosene. The qualified mixture was produced by the 
+claimant in the United States, such mixture was used by the claimant (or sold by the claimant for use) in an aircraft, such sale 
+or use was in the ordinary course of a trade or business of the claimant, and the transfer of such mixture to the fuel tank of 
+such aircraft occurred in the United States. The SAF used to produce the qualified mixture is the portion of liquid fuel that is 
+not kerosene that (i) either (A) meets the specifications of one of the ASTM D7566 Annexes, or (B) meets the specifications of 
+ASTM D1655 Annex A1, (ii) is not derived from coprocessing an applicable material (or materials derived from an applicable 
+material) with a feedstock that is not biomass, (iii) is not derived from palm fatty acid distillates or petroleum, and (iv) has been 
+certified in accordance with section 40B(e) as having a lifecycle greenhouse gas emissions reduction percentage of at least 50 
+percent. For all claims. Claimant has attached the appropriate certificates and, if applicable, appropriate reseller statements. 
+Claimant has no reason to believe that the information in the certificate or statement is false. See the instructions for additional 
+information and requirements.
+Rate 
+Number of gallons 
+sold or used
+Amount of claim   
+CRN 
+a Biodiesel (other than agri-biodiesel) mixtures
+$1.00
+$
+388
+b Agri-biodiesel mixtures
+1.00
+390
+c Renewable diesel mixtures
+1.00
+307
+d
+Sustainable aviation fuel mixtures (see instructions)
+440
+13 
+Alternative Fuel Credit and Alternative Fuel Mitxture Credit
+Registration number 
+For the alternative fuel mixture credit, claimant produced a mixture by mixing taxable fuel with alternative fuel. Claimant certifies that 
+it (a) produced the alternative fuel, or (b) has in its possession the name, address, and EIN of the person(s) that sold the alternative 
+fuel to the claimant; the date of purchase; and an invoice or other documentation identifying the amount of the alternative fuel. The 
+claimant also certifies that it made no other claim for the amount of the alternative fuel, or has repaid the amount to the government. 
+The alternative fuel mixture was sold by the claimant to any person for use as a fuel or was used as a fuel by the claimant.
+Rate 
+Gallons, or  
+gasoline or diesel 
+gallon equivalents 
+(see instructions) 
+Amount of claim   
+CRN 
+a Liquefied petroleum gas (LPG)* (see instructions)
+$.50
+$
+426
+b “P Series” fuels
+.50
+427
+c Compressed natural gas (CNG)* (see instructions)
+.50
+428
+d Reserved for future use
+e Fischer-Tropsch process liquid fuel from coal (including peat)
+.50
+430
+f 
+Liquid fuel derived from biomass
+.50
+431
+g Liquified natural gas (LNG)* (see instructions)
+.50
+432
+h Liquified gas derived from biomass*
+.50
+436
+i 
+Compressed gas derived from biomass*
+.50
+437
+* You can’t claim the alternative fuel mixture credit for this fuel.
+14 
+Other claims. See the instructions. For lines 14b and 14c, see the Caution above line 1 on page 5. 
+Amount of claim      
+CRN 
+a Section 4051(d) tire credit (tax on vehicle reported on IRS No. 33) 
+$ 
+366
+b Exported dyed diesel fuel and exported gasoline blendstocks taxed at $.001 
+415
+c Exported dyed kerosene 
+416
+d Diesel-water fuel emulsion 
+e Registered credit card issuers 
+    
+     
+Number of tires 
+Amount of claim   
+CRN 
+f
+Taxable tires other than bias ply or super single tires 
+$ 
+396
+g
+Taxable tires, bias ply or super single tires (other than super single tires designed for steering) 
+304
+h
+Taxable tires, super single tires designed for steering 
+305
+i
+Chemicals (other than ODCs)
+454
+j
+Imported chemical substances
+317
+k
+15 
+Total claims. Add amounts on lines 1 through 14. Enter the result here and on Form 720, Part III, line 4. 
+15 
+Form 720 (Rev. 3-2023) 
+Form 720-V, 
+Payment Voucher
+Purpose of Form
+Complete Form 720-V if you’re making a payment by 
+check or money order with Form 720, Quarterly Federal 
+Excise Tax Return. We will use the completed voucher to 
+credit your payment more promptly and accurately, and 
+to improve our service to you.
+If you have your return prepared by a third party and a 
+payment is required, provide this payment voucher to the 
+return preparer.
+Don’t file Form 720-V if you’re paying the balance due 
+on line 10 of Form 720 using EFTPS.
+Specific Instructions
+Box 1. If you don’t have an EIN, you may apply for one 
+online by visiting www.irs.gov/EIN. You may also apply 
+for an EIN by faxing or mailing Form SS-4, Application for 
+Employer Identification Number, to the IRS. However, if 
+you’re making a one-time filing, enter your social security 
+number.
+Box 2. Enter the amount paid from line 10 of Form 720.
+Box 3. Darken the circle identifying the quarter for which 
+the payment is made. Darken only one circle.
+Box 4. Enter your name and address as shown on Form 
+720.
+• Enclose your check or money order made payable to 
+“United States Treasury.” Be sure to enter your EIN (SSN 
+for one-time filing), “Form 720,” and the tax period on 
+your check or money order. Don’t send cash. Don’t staple 
+this voucher or your payment to the return (or to each 
+other).
+• Detach the completed voucher and send it with your 
+payment and Form 720. See Where To File in the 
+Instructions for Form 720.
+     Detach here and mail with your payment and Form 720.                                      
+Form 720-V (2023) 
+Form
+720-V
+Department of the Treasury 
+Internal Revenue Service
+Payment Voucher
+Don’t staple or attach this voucher to your payment.
+OMB No. 1545-0023
+2023
+1
+Enter your employer identification 
+number (EIN). See instructions.
+2
+Enter the amount of your payment.
+Make your check or money order payable to “United States Treasury.” 
+Dollars
+Cents
+3
+Tax Period
+1st 
+Quarter
+2nd 
+Quarter
+3rd 
+Quarter
+4th 
+Quarter
+4
+Enter your business name (individual name if sole proprietor).
+Enter your address.
+City or town, state or province, country, and ZIP or foreign postal code

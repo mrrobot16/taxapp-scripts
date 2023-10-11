@@ -1,0 +1,11 @@
+This document provides instructions and information regarding the filing of Forms W-2 and W-3 for employers. It states that employers can file these forms electronically on the SSA's Employer W-2 Filing Instructions and Information web page. The forms can be filled in online and printed for filing with the Social Security Administration (SSA), state or local governments, distribution to employees, and for record-keeping purposes.
+
+The document also includes a caution that Copy A of the form, which appears in red, is for informational purposes only and cannot be scanned if printed from the website. Employers are advised not to file this downloaded copy with the SSA to avoid penalties. However, other copies of the form, which appear in black, can be downloaded, filled in, printed, and used to provide information to recipients.
+
+Employers are encouraged to order official IRS information returns, such as Forms W-2 and W-3, from the IRS Online Ordering for Information Returns and Employer Returns page or www.irs.gov/orderforms. These forms will include a scannable Copy A for filing.
+
+The document also references IRS Publications 1141, 1167, and 1179 for more information about printing tax forms.
+
+The remaining sections of the document provide instructions for completing the various sections of Form W-2, including the reporting of wages, tips, compensation, taxes withheld, and other relevant information. It also includes instructions for employees on how to use the information on the form for filing their tax returns, as well as information on various codes used in Box 12 of the form.
+
+Finally, the document includes information for employers, such as due dates for furnishing copies of Form W-2 to employees and filing with the SSA, contact information for assistance, and guidance on e-filing options. It also mentions that future developments regarding Form W-2 will be posted on the IRS website.

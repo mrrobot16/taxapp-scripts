@@ -1,0 +1,17 @@
+Form 4506-A is a document issued by the Internal Revenue Service (IRS) of the Department of the Treasury in the United States. It is used to request a copy of an exempt or political organization's IRS Form.
+
+The form must be completed clearly and accurately, as an incomplete or illegible form may be rejected. The instructions for completing Form 4506-A can be found on the IRS website at www.irs.gov/form4506ab.
+
+However, it is important to note that certain returns, such as Form 8871, Form 8872, Form 990, Form 990-EZ, Form 990-PF, and Form 990-T, can be accessed online at specific IRS webpages. Exempt or political organizations are required to make their returns, reports, notices, and exempt applications available for public inspection. Therefore, it may be possible to visit the organization and inspect the material instead of requesting it from the IRS.
+
+Additionally, Form 990-N (e-Postcard) annual electronic notice can be accessed for inspection at www.irs.gov/teos. E-filed Forms 990, 990-EZ, and 990-PF are also available in machine-readable data format at www.irs.gov/teos.
+
+The form itself requires the requester to provide their name, address, contact person, and phone number. The requester must also indicate their category (commercial user, non-commercial scientific institution, media, educational institution, or others) and provide a reason for the request. Non-commercial requesters must explain how the records will be used to avoid being charged the commercial rate.
+
+The requester can then specify the forms they are requesting by checking the appropriate boxes and indicating the tax year(s) or period(s) they are interested in. Paper requests and USB requests are available for certain forms, and the requester can also specify the state(s) and month(s) if requesting a partial set.
+
+Form 4506-A includes a section for requesting Form 5227 and other forms as well, with the requester indicating the tax year(s) or period(s) they are interested in.
+
+The form concludes with a Privacy Act and Paperwork Reduction Act Notice, which provides information on the use and disclosure of the information provided on the form.
+
+Overall, Form 4506-A is used to request a copy of an exempt or political organization's IRS Form, with options for different types of requests and specific forms and tax years or periods.

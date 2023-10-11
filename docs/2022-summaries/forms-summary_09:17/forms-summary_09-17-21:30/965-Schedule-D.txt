@@ -1,0 +1,25 @@
+Schedule D (Form 965) is a document that U.S. shareholders of specified foreign corporations must attach to Form 965 when filing their tax returns. The purpose of this schedule is to report the aggregate foreign cash position of the U.S. shareholder.
+
+The schedule requires the following information to be provided for each specified foreign corporation:
+
+1. Name of the foreign corporation and its EIN or reference ID number.
+2. Cash position at the close of the last taxable year prior to the year referenced in column (d).
+3. Pro rata share of the cash position in column (b).
+4. Cash position at the close of the last taxable year that ends before November 2, 2017.
+5. Pro rata share of the cash position in column (d).
+6. Cash position at the close of the last taxable year beginning before January 1, 2018.
+7. Pro rata share of the cash position in column (f).
+
+The schedule also includes calculations and totals for the aggregate foreign cash position. These include:
+
+1. Total of column (g), which is the sum of all pro rata shares in column (g).
+2. Combination of totals of columns (c) and (e), divided by two.
+3. Aggregate foreign cash position, which is the larger of the amount on line 17 or the amount on line 18.
+4. Aggregate foreign cash position taken into account on the 2017 tax return.
+5. Aggregate foreign cash position taken into account on the 2018 tax return.
+
+Additional schedules can be added if needed.
+
+This document is to be completed in U.S. dollars.
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form965.

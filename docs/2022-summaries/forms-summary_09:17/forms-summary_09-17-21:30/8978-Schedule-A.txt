@@ -1,0 +1,11 @@
+Schedule A (Form 8978) is a document used by partners to report additional tax adjustments for a specific tax year. It is to be attached to Form 8978, and the latest information can be found on the IRS website.
+
+The form requires the partner(s) to provide their name and tax ID number. The adjustments reported on the form can be sourced from either a BBA Audit or an AAR Filing.
+
+The form consists of four columns, labeled (a) through (d), representing four different tax years. Each column has seven rows, labeled 1a through 1g for income adjustments, 3a through 3g for deduction adjustments, and 5a through 5g for credit adjustments.
+
+The partner(s) need to fill in the appropriate amounts for each adjustment category in each column. The amounts in each row are then totaled in lines 2, 4, and 6 for income, deductions, and credits, respectively.
+
+The form also includes a reference to the Paperwork Reduction Act Notice, which can be found in the Instructions for Form 1065.
+
+Overall, Schedule A (Form 8978) is a tool for partners to report and summarize their additional tax adjustments for specific tax years.

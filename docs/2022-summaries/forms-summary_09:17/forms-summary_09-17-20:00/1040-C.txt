@@ -1,0 +1,987 @@
+Form 1040-C
+(Rev. January 2023)
+U.S. Departing Alien Income Tax Return
+Department of the Treasury  
+Internal Revenue Service 
+Go to www.irs.gov/Form1040C for instructions and the latest information.  
+File original and one copy.
+OMB No. 1545-0074
+, and ending
+For tax period or year beginning 
+, 20
+, 20
+Print 
+or 
+Type
+Your first name and initial
+Last name
+Your social security number 
+If a joint return, spouse’s first name and initial (see instructions)
+Last name
+Spouse’s identifying number
+U.S. address (number, street, and apt. no. or rural route)
+City, state, and ZIP code
+Passport or alien registration card number
+Your number
+Spouse’s number
+Date on which you first arrived in the U.S.
+Date of departure
+Complete foreign address
+Date on which you last arrived in the U.S.
+Of what country are you a citizen or national?
+Of what country are you a resident for tax purposes?
+Caution: Form 1040-C is not a final income tax return. You must file a final return on the correct form after your tax year ends. 
+See Final Return Required in the instructions.
+Part I
+Explanation of Status—Resident or Nonresident Alien—See instructions.
+1 
+ 
+Check the box or boxes that apply. Note: A nonresident alien who has income from U.S. real property may elect to treat this
+income as effectively connected income. Gain or loss on the disposition of a U.S. real property interest by a nonresident alien
+is effectively connected income or loss. For details, see the Form 1040-NR instructions or Pub. 519, U.S. Tax Guide for Aliens.
+Group I—Resident alien.
+Group II—Nonresident alien with income effectively connected with a U.S. trade or business.
+Group III—Nonresident alien with income not effectively connected with a U.S. trade or business.
+2
+Type of trade or business or occupation in the United States:
+3 
+Visa number and class under which you were last admitted to the United States: 
+4 
+Do you have a permit to reenter the United States? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” enter the expiration date:
+5 
+Have you signed a waiver of rights, privileges, exemptions, and immunities as described under Exceptions 
+in the instructions? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” enter the date signed:
+6 
+During your stay in the United States, did you furnish Form W-9, Request for Taxpayer Identification
+Number and Certification, to a withholding agent?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+7 a Have you applied for U.S. citizenship?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+b 
+ 
+Have you applied for, or taken other affirmative steps to apply for, lawful permanent resident status (green
+card holder) in the United States, or do you have an application pending to change your status to that of a 
+lawful permanent resident of the United States?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+8 
+If you filed income tax returns in the United States, give the following information for the prior tax year.
+a Type of return filed (for example, Form 1040, 1040-SR, 1040-NR, etc.):
+b Your U.S. address, if any, shown on return:
+c Taxable income reported $
+d Total tax payments $
+e Balance due
+$
+9 
+Do you know of any current charges against you concerning your U.S. taxes for any tax period? .
+.
+.
+.
+Yes
+No
+10 
+Do you plan to return to the United States? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” complete lines 11 through 14 below .
+11 
+Are your spouse and any children remaining in the United States?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+12 
+Show the approximate value and location in the United States of any property held by you.
+Value
+Location
+a Real property {
+.
+.
+.
+.
+.
+.
+.
+.
+$ 
+;
+.
+.
+.
+.
+.
+.
+.
+.
+$ 
+;
+b Stocks and bonds .
+.
+.
+.
+.
+.
+.
+.
+$ 
+;
+c Cash
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$ 
+;
+d Other (specify):
+$ 
+;
+13 
+ 
+At any time during the tax year, did you: (a) receive (as a reward, award, or payment for property or 
+services); or (b) sell, exchange, gift, or otherwise dispose of a digital asset (or a financial interest in a digital 
+asset)? (See instructions.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+14 
+ 
+If you will not return to the United States before the due date for filing a final U.S. income tax return for the current year or the
+due date for filing a final U.S. income tax return for the preceding year, what arrangements have you made to file the final 
+income tax return(s) and pay the tax(es)?  
+For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see the instructions.
+Cat. No. 11310F
+Form 1040-C (Rev. 1-2023)
+Form 1040-C (Rev. 1-2023)
+Page 2 
+Part II
+Dependents—See instructions.
+15
+If more         
+than four 
+dependents, 
+see instructions.
+(b) Social security 
+number
+(c) Relationship 
+to you
+(d) ✔ if qualifies for (see instructions):
+(a) First name  
+ Last name
+Child tax credit
+Credit for other dependents
+Part III
+Figuring Your Income Tax
+Groups 
+I and II
+16
+Total income (from page 3, Schedule A, line 4, column (d) or (e)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+Adjustments. See the instructions and attach appropriate form or statement .
+.
+.
+.
+.
+.
+.  
+17
+18
+Adjusted gross income. Subtract line 17 from line 16 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+Enter the amount from page 4, Schedule D, line 6 or 12, whichever applies
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Credits. See the instructions and attach appropriate form or statement .
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21
+Subtract line 20 from line 19. If zero or less, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+21
+22
+Other taxes. See the instructions and attach appropriate form .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+23
+Tax for Group I or II. Add lines 21 and 22 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+Group 
+III
+24
+Total income (from page 3, Schedule A, line 4, column (f))
+.
+.
+.
+.
+.
+.
+24
+25 Tax (multiply line 24 by 30% (0.30)). If less than 30% (0.30), attach statement showing computation. 
+See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+Tax 
+Summary
+26
+Total tax. Add lines 23 and 25
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+26
+Note: Your tax liability on your final return may be different from line 26.
+27 U.S. income tax paid or withheld at source (from page 3, Schedule A, lines 4
+and 5, column (c))
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27
+28
+Current year’s estimated tax payments and amount applied from preceding 
+year’s tax return .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28
+29
+Other payments (specify):
+29
+30
+Total payments. Add lines 27 through 29
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+30
+31
+If line 26 is more than line 29, subtract line 30 from line 26. This is the amount you owe .
+.
+.
+31
+32 If line 30 is more than line 26, subtract line 26 from line 30. This is the amount you overpaid. Any
+overpayment of tax will be refunded only when you file your final return for the tax year 
+.
+.
+.
+32
+Sign  
+Here 
+Joint return? 
+See instructions.  
+Keep a copy for 
+your records. 
+Under penalties of perjury, I declare that I have examined this return and accompanying schedules and statements, and to the best of my knowledge and belief, 
+they are true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Your signature 
+Date 
+Your occupation 
+If the IRS sent you an Identity 
+Protection PIN, enter it here 
+(see inst.) 
+Spouse’s signature. If a joint return, both must sign. 
+Date 
+Spouse’s occupation
+If the IRS sent your spouse an 
+Identity Protection PIN, enter it here 
+(see inst.)
+Phone no. 
+Email address 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if 
+self-employed
+PTIN
+Firm’s name   
+Firm’s address 
+Firm’s EIN 
+Phone no.
+Certificate of Compliance
+This certifies that the above individual(s) has satisfied all the requirements of the Internal Revenue Code and the Internal Revenue Regulations relating to departing aliens 
+according to all information available to me at this date. This certificate is effective for the tax period
+beginning
+, 20
+, and ending
+ , 20
+ , or the tax year ended
+ , 20
+ .
+(Field Assistance Area Director) 
+Internal Revenue Service
+Date
+ ,
+By
+(Name)
+(Title)
+Form 1040-C (Rev. 1-2023)
+Form 1040-C (Rev. 1-2023)
+Page 3 
+Schedule A
+Income—See instructions.
+1 
+(a) Payer of income
+(b) Type of income 
+(such as salary, wages, 
+taxable interest, 
+dividends, rents, etc.)
+(c) Amount of U.S. 
+income tax paid or 
+withheld at source
+(d) Resident alien 
+income
+Nonresident alien income
+       
+       
+        
+      
+(e) Effectively 
+connected with a U.S. 
+trade or business
+(f) Not effectively 
+connected with a U.S. 
+trade or business
+2 
+Net gain, if any, from Schedule D (Form 
+1040) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Net gain, if any, from Schedule B, line 2
+3 
+4 
+Totals .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Exempt income. Do not include on line 4
+5 
+Schedule B
+Certain Gains and Losses From Sales or Exchanges by Nonresident Aliens of Property Not Effectively 
+Connected With a U.S. Trade or Business—See instructions. Include any U.S. income tax that was paid or 
+withheld on these sales or exchanges on Schedule A, line 3, column (c).
+1 
+(a) Description of property  
+(If necessary, attach statement of  
+descriptive details not shown below.)
+(b) Date acquired 
+(mo., day, yr.)
+(c) Date sold 
+(mo., day, yr.)
+(d) Sales price  
+(e) Cost or other 
+basis  
+(f) Gain or (loss) 
+subtract (e) from (d)  
+2 
+Net gain. Combine the gains and losses entered on line 1, column (f). If the total is greater than zero, 
+enter this net gain amount on Schedule A, line 3, column (f) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+Schedule C
+Itemized Deductions—See instructions.
+• If you are a resident alien reporting income on Schedule A, column (d), you may claim the same deductions allowable on 
+Schedule A (Form1040).
+• If you are a nonresident alien reporting income on Schedule A, column (e), you may claim only deductions that are connected to U.S. 
+trade or business income and not deducted elsewhere. See Schedule A (Form 1040-NR). However, casualty or theft losses and 
+charitable contributions do not have to be related to U.S. trade or business income. You should file Form 4684, Casualties and 
+Thefts, to support casualty or theft losses shown below. See instructions for the extent to which casualty and theft losses are 
+deductible.
+• If you are a nonresident alien reporting income on Schedule A, column (f), do not claim any deductions related to that income.
+1 
+(a) Type of deduction 
+(such as interest, taxes, contributions, etc.)
+(b) Amount  
+of deduction
+(c) Type of deduction  
+(such as interest, taxes, contributions, etc.)
+(d) Amount of  
+deduction
+2 
+Total itemized deductions. Add the amounts in columns (b) and (d) of line 1. Enter the total here 
+and on Schedule D, line 2 or line 8, whichever applies .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+Form 1040-C (Rev. 1-2023)
+Form 1040-C (Rev. 1-2023)
+Page 4 
+Schedule D
+Tax Computation—See instructions.
+Tax for Resident Alien—Group I Only (For description of groups, see line 1 on page 1.)
+1 
+Enter amount from page 2, line 18 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. 
+1 
+2 
+If you itemize deductions, enter amount from page 3, Schedule C, line 2. If you do not plan to itemize 
+deductions, enter your standard deduction. See Standard Deduction (Group I only) in the instructions 
+2 
+3 
+Taxable income. Subtract line 2 from line 1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. 
+3 
+4 
+ 
+Tax. Figure your tax on the amount on line 3 by using the current year’s Tax Rate Schedules in the
+instructions. Include in the total any tax from Form 4972 and Form 8814. Enter the tax here .
+.
+.
+.
+4
+5
+Alternative minimum tax (AMT). Enter the amount, if any, of AMT from Form 6251
+.
+.
+.
+.
+.
+. 
+5
+6
+Add lines 4 and 5. Enter the result here and on Form 1040-C, line 19
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Tax for Nonresident Alien With Income Effectively Connected With a U.S. Trade or Business—Group II Only
+7
+Enter amount from page 2, line 18 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+7
+8
+Enter itemized deductions from page 3, Schedule C, line 2 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Taxable income. Subtract line 8 from line 7
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. 
+9
+10 
+Tax. Figure your tax on the amount on line 9 by using the current year’s Tax Rate Schedules in the
+instructions. Include in the total any tax from Form 4972 and Form 8814. Enter the tax here .
+.
+.
+.
+10
+11
+Alternative minimum tax (AMT). Enter the amount, if any, of AMT from Form 6251
+.
+.
+.
+.
+.
+. 
+11
+12
+Add lines 10 and 11. Enter the result here and on Form 1040-C, line 19
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+Form 1040-C (Rev. 1-2023)

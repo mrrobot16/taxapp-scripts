@@ -1,0 +1,19 @@
+Form 3520-A is an annual information return that must be filed by a foreign trust with a U.S. owner. The form is used to report information about the foreign trust to the Internal Revenue Service (IRS). The form must be completed in English and all amounts must be shown in U.S. dollars.
+
+The form begins by asking for general information about the foreign trust, including its name, employer identification number (EIN), address, and the date it was created. It also asks whether the foreign trust has appointed a U.S. agent who can provide the IRS with relevant trust information.
+
+If the foreign trust has not appointed a U.S. agent, the form requires the attachment of copies of all trust documents, including written and oral agreements, the trust instrument, memoranda or letters of wishes, subsequent variances to original trust documents, and an organizational chart and other trust documents.
+
+The form also asks for information about the U.S. agent and the trustee of the foreign trust. It requires the U.S. agent's name, taxpayer identification number (TIN), address, and country. Similarly, it requires the trustee's name, TIN, address, and country.
+
+The form includes a section for reporting the foreign trust's income and expenses. It asks for details about the trust's interest, dividends, gross rents and royalties, income or loss from partnerships and fiduciaries, capital gains, ordinary gains or losses, and other income. It also asks for information about the trust's interest expense, foreign and state/local taxes, amortization and depreciation, and trustee and advisor fees.
+
+Additionally, the form includes a section for reporting the foreign trust's assets and liabilities at the beginning and end of the tax year. It requires the reporting of cash, accounts receivable, mortgages and notes receivable, inventories, government obligations, marketable and nonmarketable securities, depreciable assets, real property, and other assets. Liabilities such as accounts payable, contributions payable, mortgages and notes payable, and other liabilities must also be reported.
+
+The form provides separate sections for U.S. owners and U.S. beneficiaries of the foreign trust to report their income attributable to the trust. U.S. owners must report their taxable and tax-exempt interest, dividends, gross rents and royalties, income or loss from partnerships and fiduciaries, capital gains or losses, ordinary gains or losses, and other income. They must also report their interest expense, foreign and state/local taxes, amortization and depreciation, and trustee and advisor fees.
+
+U.S. beneficiaries must report any cash amounts or fair market value of property distributed to them, directly or indirectly, by the foreign trust during the tax year. They must also provide an explanation of the facts and law establishing that the trust is treated as owned by another person for U.S. tax purposes.
+
+The form concludes with a declaration under penalties of perjury, where the trustees or U.S. owners must sign and date the form, affirming that the information provided is true, correct, and complete.
+
+Overall, Form 3520-A is a detailed information return that foreign trusts with U.S. owners must file to report their activities and provide information to the IRS.

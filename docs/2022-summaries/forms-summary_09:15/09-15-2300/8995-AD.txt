@@ -1,0 +1,11 @@
+Schedule D (Form 8995-A) is a document provided by the Department of the Treasury, Internal Revenue Service. It is to be attached to Form 8995-A and is intended for patrons of agricultural or horticultural cooperatives. 
+
+The purpose of Schedule D is to calculate the patron reduction amount for qualified business income. The form includes several sections for entering relevant information, such as the trade, business, or aggregation name, taxpayer identification number, qualified business income allocable to qualified payments received from the cooperative, W-2 wages from the trade or business allocable to the qualified payments, and the patron reduction amount.
+
+The patron reduction amount is determined by multiplying the qualified business income by 9% and the W-2 wages by 50%, and then entering the smaller of the two amounts on Form 8995-A, line 14, for the corresponding trade, business, or aggregation.
+
+Taxpayers who have more than three trades, businesses, or aggregations may attach additional Schedule D forms as needed.
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8995A.
+
+This document includes a Privacy Act and Paperwork Reduction Act Notice, which provides information about the collection and use of personal information and the burden estimate associated with completing the form.

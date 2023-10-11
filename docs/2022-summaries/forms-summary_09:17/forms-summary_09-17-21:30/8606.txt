@@ -1,0 +1,11 @@
+Form 8606 is a tax form issued by the Internal Revenue Service (IRS) for individuals who have made nondeductible contributions to traditional Individual Retirement Accounts (IRAs) and have taken distributions from traditional, SEP, or SIMPLE IRAs. The form is used to calculate the taxable and nontaxable portions of these contributions and distributions.
+
+The form is divided into three parts. Part I is for reporting nondeductible contributions and distributions from traditional, SEP, and SIMPLE IRAs. Part II is for reporting conversions from traditional, SEP, or SIMPLE IRAs to Roth IRAs. Part III is for reporting distributions from Roth IRAs.
+
+The form requires individuals to provide information such as the amount of nondeductible contributions made to traditional IRAs, the total basis in traditional IRAs, the value of all traditional, SEP, and SIMPLE IRAs as of December 31, the amount of distributions taken from traditional, SEP, and SIMPLE IRAs, and the amount converted to Roth IRAs.
+
+The form also includes calculations to determine the nontaxable portions of conversions and distributions, as well as any taxable amounts. Individuals may be subject to an additional 10% tax on certain distributions if they were under age 59 at the time of the distribution.
+
+The completed Form 8606 is to be attached to the individual's Form 1040, 1040-SR, or 1040-NR when filing their tax return.
+
+For more detailed instructions and the most up-to-date information, individuals are directed to visit the IRS website at www.irs.gov/Form8606.

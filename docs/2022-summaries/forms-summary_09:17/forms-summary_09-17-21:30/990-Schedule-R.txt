@@ -1,0 +1,17 @@
+Schedule R (Form 990) is a document that organizations in the United States must complete if they answered "Yes" to certain questions on Form 990. It is used to provide information about related organizations and unrelated partnerships.
+
+Part I of Schedule R requires the organization to provide information about any disregarded entities, including their name, address, primary activity, legal domicile, total income, end-of-year assets, and direct controlling entity.
+
+Part II is completed if the organization had one or more related tax-exempt organizations during the tax year. It requires information such as the name, address, and EIN of the related organization, its primary activity, legal domicile, exempt code section, public charity status (if applicable), and direct controlling entity.
+
+Part III is completed if the organization had one or more related organizations treated as a partnership during the tax year. It requires information about the related organization's name, address, EIN, primary activity, legal domicile, direct controlling entity, predominant income, share of total income, share of end-of-year assets, disproportionate allocations, Code VUBI amount, general or managing partner status, and percentage ownership.
+
+Part IV is completed if the organization had one or more related organizations treated as a corporation or trust during the tax year. It requires information about the related organization's name, address, EIN, primary activity, legal domicile, direct controlling entity, type of entity (C corp, S corp, or trust), share of total income, share of end-of-year assets, percentage ownership, and whether it is a Section 512(b)(13) controlled entity.
+
+Part V is completed if the organization engaged in transactions with related organizations listed in Parts II, III, or IV. It requires information about the type of transaction and the amount involved.
+
+Part VI is completed if the organization had unrelated organizations taxable as a partnership through which it conducted more than five percent of its activities. It requires information about the entity's name, address, EIN, primary activity, legal domicile, predominant income, whether all partners are section 501(c)(3) organizations, share of total income, share of end-of-year assets, disproportionate allocations, Code VUBI amount, general or managing partner status, and percentage ownership.
+
+Part VII is a section for providing supplemental information related to the responses on Schedule R.
+
+Schedule R (Form 990) is attached to Form 990 and is used to provide additional details about related organizations and partnerships for tax reporting purposes.

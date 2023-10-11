@@ -1,0 +1,15 @@
+Form 8866 is a document provided by the Internal Revenue Service (IRS) that is used to calculate interest on property depreciation under the income forecast method. The form is used by taxpayers who have depreciated properties and need to recompute their interest for a specific year.
+
+The form requires the taxpayer to provide their identifying information, including their name, address, and taxpayer identification number. They must also indicate the type of taxpayer they are, such as an individual, corporation, estate or trust, S corporation, or partnership.
+
+If the taxpayer was an owner of an interest in a pass-through entity (such as a partnership or S corporation) that depreciated properties, they must provide the name and employer identification number of the entity.
+
+The form includes several sections for the recomputation year and prior years. The taxpayer must enter the taxable income (or loss) for the prior years shown on their tax return, as well as any adjustments to taxable income related to the difference between the depreciation deducted under the income forecast method and the depreciation allowable based on actual income earned.
+
+The form also includes sections for calculating the income tax liability on the adjusted taxable income, as well as any increase or decrease in tax for the prior years on which interest is due or to be refunded. The taxpayer must calculate the interest due or to be refunded based on the increase or decrease in tax.
+
+The form requires the taxpayer's signature, as well as the signature of their spouse if filing a joint return. If the form is being filed separately from the tax return, the taxpayer must also provide the name and signature of the preparer.
+
+Form 8866 should be filed separately and not attached to the tax return. The taxpayer must file the form if there is a net amount of interest to be refunded or owed.
+
+Overall, Form 8866 is used to calculate interest on property depreciation under the income forecast method and must be filed separately from the tax return.

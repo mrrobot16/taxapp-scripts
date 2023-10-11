@@ -1,0 +1,19 @@
+Form 8845 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Indian Employment Credit. Taxpayers are required to attach this form to their tax return. The form includes several sections for taxpayers to enter information related to qualified wages and qualified employee health insurance costs paid or incurred during the tax year.
+
+Line 1 requires taxpayers to enter the total amount of qualified wages and qualified employee health insurance costs for the tax year.
+
+Line 2 is specifically for the tax year 1993 and taxpayers need to enter the amount of qualified wages and qualified employee health insurance costs for that year. If there were none, taxpayers should enter -0-.
+
+Line 3 calculates the incremental increase by subtracting the amount on line 2 from line 1. If the result is zero or less, taxpayers should enter -0-.
+
+Line 4 instructs taxpayers to multiply the amount on line 3 by 20% (0.20). Taxpayers should refer to the instructions for any adjustments they need to make to their deduction for salaries and wages.
+
+Line 5 is for taxpayers who received the Indian employment credit from partnerships, S corporations, cooperatives, estates, and trusts.
+
+Line 6 instructs taxpayers to add the amounts on lines 4 and 5. For cooperatives, estates, and trusts, they should proceed to line 7. For partnerships and S corporations, they can stop at this line and report the amount on Schedule K. All other taxpayers should stop at this line and report the amount on Form 3800, Part III, line 1g.
+
+Line 7 is for the amount allocated to patrons of the cooperative or beneficiaries of the estate or trust, as specified in the instructions.
+
+Line 8 is for cooperatives, estates, and trusts to calculate the final amount by subtracting the amount on line 7 from line 6. This final amount should be reported on Form 3800, Part III, line 1g.
+
+Taxpayers should refer to the separate instructions for the form for any additional information and the Paperwork Reduction Act Notice.

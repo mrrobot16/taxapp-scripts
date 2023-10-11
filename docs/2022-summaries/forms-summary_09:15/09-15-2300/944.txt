@@ -1,0 +1,15 @@
+Form 944 is an annual federal tax return for employers. It is filed instead of quarterly Forms 941 if the IRS has notified the employer in writing. The form requires the employer to provide their employer identification number (EIN), name, trade name (if any), and address. 
+
+Part 1 of the form asks employers to answer questions about wages, tips, and other compensation, federal income tax withheld, and social security and Medicare wages and tips. 
+
+Part 2 asks employers to report any adjustments, credits, and taxes after adjustments and nonrefundable credits. 
+
+Part 3 asks employers to provide information about their business, such as if it has closed or stopped paying wages. 
+
+Part 4 asks if the employer wants to designate a third-party designee to discuss the return with the IRS. 
+
+Part 5 is where the employer signs the form. 
+
+The form also includes a payment voucher, Form 944-V, which should be completed if the employer is making a payment with Form 944. The voucher includes fields for the employer's EIN, the amount paid, and the employer's name and address. The voucher should be detached and sent with the payment and Form 944 to the address provided in the instructions. 
+
+The form includes a Privacy Act and Paperwork Reduction Act Notice, which explains the purpose of the form and the requirements for providing the requested information. It also provides estimated average times for completing and filing the form.

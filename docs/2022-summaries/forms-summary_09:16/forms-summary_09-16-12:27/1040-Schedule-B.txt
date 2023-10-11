@@ -1,0 +1,16 @@
+Schedule B (Form 1040) is a document provided by the Department of the Treasury and the Internal Revenue Service (IRS) for taxpayers to report their interest and ordinary dividends for the tax year 2022. It is to be attached to Form 1040 or 1040-SR.
+
+The form consists of three parts:
+
+Part I: Interest
+Taxpayers are required to list the names of payers who provided them with interest income. If the interest is from a seller-financed mortgage and the buyer used the property as a personal residence, specific instructions should be followed. The total interest amount from all payers should be added together.
+
+Part II: Ordinary Dividends
+Taxpayers are required to list the names of payers who provided them with ordinary dividends. The total amount of ordinary dividends received should be entered.
+
+Part III: Foreign Accounts and Trusts
+This part must be completed if the taxpayer had over $1,500 of taxable interest or ordinary dividends, had a foreign account, or received a distribution from, or were a grantor of, or a transferor to, a foreign trust. It includes questions about financial interests in foreign accounts and the requirement to file FinCEN Form 114 (Report of Foreign Bank and Financial Accounts) or Form 3520 (Annual Return To Report Transactions With Foreign Trusts and Receipt of Certain Foreign Gifts).
+
+Taxpayers are advised to refer to the instructions provided on the IRS website (www.irs.gov/ScheduleB) for detailed guidance and the latest information.
+
+It is important to note that if the total interest or ordinary dividends exceed $1,500, additional information and reporting may be required. Failure to comply with reporting requirements may result in penalties.

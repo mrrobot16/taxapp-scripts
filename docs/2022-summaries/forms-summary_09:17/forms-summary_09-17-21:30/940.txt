@@ -1,0 +1,21 @@
+Form 940 is the Employers Annual Federal Unemployment (FUTA) Tax Return for the year 2022. It is used by employers to report their FUTA tax liability to the Internal Revenue Service (IRS). The form includes various sections and boxes to be filled out with relevant information.
+
+In Part 1, the employer provides their identification number, name, trade name (if any), address, and other contact details. They also indicate the type of return they are filing, such as amended, successor employer, no payments to employees in 2022, or final (business closed or stopped paying wages).
+
+Part 2 is used to determine the FUTA tax before adjustments. The employer enters the total payments made to all employees, any payments exempt from FUTA tax (such as fringe benefits or retirement/pension contributions), and any payments made to individual employees in excess of $7,000. The subtotal and total taxable FUTA wages are calculated based on this information.
+
+Part 3 is for adjustments to the FUTA tax liability. The employer enters the amount of taxable FUTA wages that were excluded from state unemployment tax, any late payments of state unemployment tax, and any credit reduction that applies. These adjustments are used to calculate the final FUTA tax liability.
+
+Part 4 summarizes the FUTA tax liability and any balance due or overpayment. The employer enters the total FUTA tax after adjustments, any FUTA tax deposited for the year, and calculates the balance due or overpayment.
+
+Part 5 is optional and is used to report the FUTA tax liability by quarter if the total FUTA tax after adjustments is more than $500.
+
+Part 6 asks if the employer wants to allow a third-party designee to discuss the return with the IRS.
+
+Part 7 is where the employer signs the form under penalties of perjury, declaring that the information provided is true, correct, and complete.
+
+The document also includes instructions for completing Form 940 and a payment voucher (Form 940-V) to be used when making a payment with Form 940.
+
+The Privacy Act and Paperwork Reduction Act Notice provides information on the collection and use of the information provided on the form, as well as the estimated time required to complete the form.
+
+Overall, Form 940 is a comprehensive form that employers use to report their FUTA tax liability and make any necessary payments to the IRS.

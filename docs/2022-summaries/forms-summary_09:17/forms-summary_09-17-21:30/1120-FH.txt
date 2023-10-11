@@ -1,0 +1,25 @@
+Schedule H (Form 1120-F) is a tax form used by corporations to allocate and apportion deductible expenses related to effectively connected income (ECI) and non-ECI. The form is divided into four parts.
+
+Part I: Home Office Deductible Expenses Definitely Related Solely to ECI or Non-ECI
+- This part requires the corporation to enter the total expenses on the books of the home office and specify the accounting convention used.
+- Adjustments for U.S. tax principles are also reported.
+- The total deductible expenses on the books of the home office, including interest expense and bad debt expense, are calculated.
+- Remaining deductible expenses to be allocated and apportioned between ECI and non-ECI are determined.
+
+Part II: Home Office Deductible Expenses Allocated and Apportioned to ECI
+- This part involves the allocation and apportionment of remaining deductible expenses on the books of the home office to ECI.
+- The average exchange rate used to convert amounts to U.S. dollars is reported.
+- The home office deductible expenses allocated and apportioned to ECI are calculated.
+
+Part III: Allocation and Apportionment Methods and Financial Records Used to Complete Parts I and II
+- This part requires the corporation to indicate whether it used any financial and other records to identify deductible expenses allocated and apportioned to ECI.
+- Ratios for gross income, assets, and number of personnel are calculated.
+- The use of ratio-based methods and other methods in Parts I and II is reported.
+
+Part IV: Allocation and Apportionment of Expenses on Books and Records Used to Prepare Form 1120-F, Schedule L
+- This part involves the allocation and apportionment of expenses on the books and records used to prepare Form 1120-F, Schedule L.
+- Adjustments for U.S. tax principles are reported.
+- Deductible expenses allocated and apportioned to ECI or non-ECI are determined.
+- Reconciliation of allocation and apportionment of deductible expenses to ECI and non-ECI is provided.
+
+Overall, Schedule H (Form 1120-F) helps corporations accurately allocate and apportion deductible expenses related to ECI and non-ECI for tax purposes.

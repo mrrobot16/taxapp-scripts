@@ -1,0 +1,28 @@
+Form 8962 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Premium Tax Credit (PTC) and reconcile any advance payments of the PTC. The form is to be attached to Form 1040, 1040-SR, or 1040-NR.
+
+The form is divided into several parts:
+
+Part I: Annual and Monthly Contribution Amounts
+- Taxpayers are required to enter their tax family size, modified adjusted gross income (AGI), total dependents' modified AGI, household income, and federal poverty line.
+- The form provides tables for entering the appropriate federal poverty line amount based on the taxpayer's location.
+- The applicable figure is calculated using the household income as a percentage of the federal poverty line.
+
+Part II: Premium Tax Credit Claim and Reconciliation of Advance Payment of Premium Tax Credit
+- Taxpayers indicate if they are allocating policy amounts with another taxpayer or if they want to use the alternative calculation for the year of marriage.
+- Depending on the response, taxpayers either skip to Part IV or Part V, or proceed to line 10.
+- Taxpayers calculate their annual or monthly PTC based on various factors such as annual enrollment premiums, applicable SLCSP premiums, contribution amounts, maximum premium assistance, and advance payment of the PTC.
+
+Part III: Repayment of Excess Advance Payment of the Premium Tax Credit
+- Taxpayers calculate the excess advance payment of the PTC, repayment limitation, and excess advance premium tax credit repayment.
+
+Part IV: Allocation of Policy Amounts
+- Taxpayers can allocate policy amounts for up to four policies using information from Form 1095-A.
+- Allocation details include policy number, SSN of other taxpayer, allocation start and stop months, allocation percentage, premium percentage, SLCSP percentage, and advance payment of the PTC percentage.
+
+Part V: Alternative Calculation for Year of Marriage
+- Taxpayers can elect the alternative calculation for the year of marriage by completing lines 35 and/or 36.
+- The alternative entries include alternative family size, alternative monthly contribution amount, alternative start and stop months for both the taxpayer and spouse.
+
+The form also includes sections for total premium tax credit, advance payment of the PTC, net premium tax credit, and repayment of excess advance payment of the PTC.
+
+Taxpayers are advised to refer to the instructions provided on the IRS website for further guidance and the latest information.

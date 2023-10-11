@@ -1,0 +1,11 @@
+Form 8850 is a document used by job applicants and employers to determine eligibility for the Work Opportunity Credit, a tax credit offered by the Internal Revenue Service (IRS) in the United States. The form includes sections for the job applicant to provide their personal information, such as name, social security number, address, and telephone number. The applicant must also indicate if they have received a conditional certification for the work opportunity credit from a state workforce agency or participating local agency.
+
+The form also includes a series of checkboxes for the job applicant to indicate if they meet certain eligibility criteria for the credit. These criteria include being a member of a family that has received assistance from Temporary Assistance for Needy Families (TANF) or Supplemental Nutrition Assistance Program (SNAP), being referred by a rehabilitation agency or employment network, being convicted of a felony or released from prison, receiving supplemental security income (SSI) benefits, being a veteran who was unemployed for a certain period of time, or being a member of a family that has received TANF payments.
+
+The employer section of the form is for the employer to provide their contact information and indicate if they believe the job applicant is a member of a targeted group eligible for the Work Opportunity Credit. The employer must sign the form under penalties of perjury, declaring that the information provided by the job applicant is true and complete.
+
+The form also includes a privacy notice, explaining how the information provided on the form may be used by the IRS, state workforce agencies, and other government entities for tax administration and enforcement purposes.
+
+The form concludes with information about the time required to complete and file the form, as well as instructions for where to send comments or feedback about the form.
+
+Overall, Form 8850 is a document that facilitates the determination of eligibility for the Work Opportunity Credit and helps employers claim the credit on their federal tax return.

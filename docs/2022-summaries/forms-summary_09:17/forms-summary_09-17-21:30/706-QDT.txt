@@ -1,0 +1,11 @@
+Form 706-QDT is the U.S. Estate Tax Return for Qualified Domestic Trusts. This form is used to report the estate tax owed by a qualified domestic trust for a specific calendar year. The form requires the trust's name, employer identification number (EIN), and the name and social security number (SSN) or EIN of the trustee/designated filer. It also requires information about the surviving spouse, including their name, taxpayer identification number (TIN), date of death (if applicable), and current marital status.
+
+The form includes a section for the trustee/designated filer to make certain elections, such as electing alternate valuation or special use valuation, or electing to pay taxes in installments. If the surviving spouse has become a U.S. citizen, there is a question about whether they elect to treat prior taxable distributions as taxable gifts.
+
+The form also includes a section for tax computation, including the calculation of current taxable trust distributions, the value of taxable trust property at the date of death, and the calculation of charitable and marital deductions. It provides space for the computation of the net tentative taxable amount, prior taxable events, taxable estate of the decedent, and the final estate tax due.
+
+The form includes several schedules for additional information, such as Schedule A for the summary of prior taxable distributions, current taxable distributions, property remaining in the trust at the death of the surviving spouse, and marital and charitable deductions. There is also a Schedule B for the trustee to provide general information about the trust, taxable distributions from prior years, current taxable distributions, taxable property in the trust at the death of the surviving spouse, marital deductions, and charitable deductions.
+
+The form must be signed by the trustee/designated filer and includes a declaration that the information provided is true, correct, and complete. There is space for the signature, date, and paid preparer information if applicable.
+
+Overall, Form 706-QDT is a comprehensive tax return form specifically designed for qualified domestic trusts to report their estate tax liability.

@@ -1,0 +1,11 @@
+Schedule D (Form 1065) is a document provided by the Internal Revenue Service (IRS) for reporting capital gains and losses for partnerships or entities classified as partnerships for tax purposes. It is to be attached to Form 1065 or Form 8865.
+
+The form instructs taxpayers to use Form 8949 to list their transactions for specific lines on Schedule D, such as lines 1b, 2, 3, 8b, 9, and 10. The form also provides a website (www.irs.gov/Form1065) for accessing instructions and the latest information.
+
+The first part of the form, Part I, focuses on short-term capital gains and losses for assets held for one year or less. It provides various lines to report the proceeds (sales price), cost (or other basis), adjustments to gain or loss from Form 8949, and the resulting gain or loss. It includes lines for reporting transactions reported on Form 1099-B, Form 8949 with Box A checked, Form 8949 with Box B checked, Form 8949 with Box C checked, short-term capital gain from installment sales, short-term capital gain or loss from like-kind exchanges, and the partnership's share of net short-term capital gain or loss.
+
+Part II of the form focuses on long-term capital gains and losses for assets held for more than one year. It follows a similar structure to Part I, with lines for reporting transactions reported on Form 1099-B, Form 8949 with Box D checked, Form 8949 with Box E checked, Form 8949 with Box F checked, long-term capital gain from installment sales, long-term capital gain or loss from like-kind exchanges, the partnership's share of net long-term capital gain or loss, and capital gain distributions.
+
+The form concludes with a line to calculate the net long-term capital gain or loss by combining the amounts reported in lines 8a through 14 in column (h). This net amount is then entered on Form 1065, Schedule K, line 9a or 11, or Form 8865, Schedule K, line 9a or 11.
+
+Overall, Schedule D (Form 1065) provides a structured format for partnerships to report their capital gains and losses, ensuring compliance with IRS regulations.

@@ -1,0 +1,7 @@
+Form 8858 is an information return that must be filed by U.S. persons who have foreign disregarded entities (FDEs) or foreign branches (FBs). The form collects various information about the FDEs or FBs, including their name, address, identifying number, country of organization, principal business activity, and functional currency. 
+
+The form also requires the filer to provide information about the tax owner and direct owner of the FDE or FB, including their name, address, identifying number, and functional currency. Additionally, the form requires the filer to attach an organizational chart that shows the ownership structure of the FDE or FB and any entities in which the FDE or FB has a 10% or more direct or indirect interest.
+
+The form includes several schedules for reporting income, section 987 gain or loss information, balance sheet information, and other information such as ownership of trusts, intracompany transactions, and base erosion payments. There is also a schedule for reporting current earnings and profits or taxable income and another schedule for reporting income taxes paid or accrued.
+
+Overall, Form 8858 is a comprehensive information return that helps the IRS gather information about U.S. persons' foreign disregarded entities and foreign branches for tax purposes.

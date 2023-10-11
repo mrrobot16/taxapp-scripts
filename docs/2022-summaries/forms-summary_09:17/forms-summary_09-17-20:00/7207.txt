@@ -1,0 +1,524 @@
+Form  7207
+(January 2023)
+Advanced Manufacturing Production Credit
+Department of the Treasury  
+Internal Revenue Service 
+Go to www.irs.gov/Form7207 for instructions and the latest information.
+OMB No. 1545-2306
+Attachment 
+Sequence No. 207
+Name (as shown on your income tax return)
+Identifying number
+Components produced by you in the United States and sold in your trade or business during your tax year to unrelated persons 
+(unless the election under section 45X(a)(3)(B) has been made). See instructions.
+Check to indicate whether the election under section 45X(a)(3)(B) has been made for this tax year .
+.
+.
+.
+.
+.
+Yes
+No
+Check to indicate whether eligible components include property produced at a facility taken into account for which 
+a credit under section 48C is being claimed .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+(a) 
+Eligible component
+(b) 
+Unit
+(c) 
+Credit per unit
+(d) 
+Number of units 
+produced and  
+sold or, for 2a,  
+5a, and 7a, sales 
+price or costs
+(e) 
+Amount of credit 
+(column (c) x 
+column (d))
+1
+Solar Energy Components 
+     
+    
+     
+     
+     
+a Thin film photovoltaic cell or crystalline photovoltaic 
+cell .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Capacity in direct 
+current watts
+$   0.04
+b
+Photovoltaic wafer .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Square meter
+$ 12.00
+c
+Solar grade polysilicon 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Kilogram
+$   3.00
+d
+Polymeric backsheet .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Square meter
+$   0.40
+e
+Solar module 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Capacity in direct 
+current watts
+$   0.07
+2
+Wind Energy Components 
+Total rated capacity 
+(expressed on a  
+per watt basis) of  
+the completed wind 
+turbine for which 
+such component  
+is designed
+    
+     
+    
+     
+     
+a
+Related offshore wind vessel 
+.
+.
+.
+.
+.
+.
+.
+Sales price of vessel
+10% (0.10)
+$
+b
+Blade .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$   0.02
+c
+Nacelle 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$   0.05
+d
+Tower .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$   0.03
+e Offshore wind foundation which uses a fixed 
+platform .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$   0.02
+f 
+Offshore wind foundation which uses a floating 
+platform .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$   0.04
+3
+Torque Tube and Structural Fastener Components
+     
+     
+     
+     
+     
+a
+Torque tube .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Kilogram
+$   0.87
+b
+Structural fastener .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Kilogram
+$   2.28
+4
+Inverter Components
+Capacity  
+expressed on a  
+per alternating 
+current watt basis
+     
+     
+     
+     
+     
+a
+Central inverter .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$   0.0025
+b
+Utility inverter 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$   0.015
+c
+Commercial inverter 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$   0.02
+d
+Residential inverter 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$   0.065
+e
+Microinverter or distributed wind inverter 
+.
+.
+.
+$   0.11
+5
+Electrode Active Materials
+     
+     
+     
+     
+     
+a
+Electrode active materials 
+.
+.
+.
+.
+.
+.
+.
+.
+Costs incurred by 
+taxpayer with 
+respect to the 
+production of 
+electrode active 
+materials
+10% (0.10)
+$
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 56400S
+Form 7207 (1-2023) 
+Form 7207 (1-2023) 
+Page 2 
+(a) 
+Eligible component
+(b) 
+Unit
+(c) 
+Credit per unit
+(d) 
+Number of units 
+produced and 
+sold or, for 2a, 
+5a, and 7a, sales 
+price or costs
+(e) 
+Amount of credit 
+(column (c) x 
+column (d))
+6
+Battery Components
+Capacity  
+expressed on a 
+kilowatt-hour basis  
+(limitations apply;  
+see instructions)
+     
+     
+     
+     
+     
+a
+Battery cell 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$ 35.00
+b
+Battery module which uses battery cells .
+.
+.
+.
+$ 10.00
+c
+Battery module which does not use battery cells .
+$ 45.00
+7
+Critical Minerals
+     
+     
+     
+     
+     
+a
+Applicable critical minerals .
+.
+.
+.
+.
+.
+.
+.
+Costs incurred by 
+taxpayer with 
+respect to the 
+production of such 
+minerals
+10% (0.10)
+$
+8
+Advanced Manufacturing Production Credit From Other Entities
+Advanced manufacturing production credit from partnerships, S corporations, estates, and trusts 
+.
+8
+9
+Advanced Manufacturing Production Credit 
+a 
+ 
+Add amounts in column (e), lines 1 through 8. Estates and trusts, go to line 9b. Partnerships and 
+S corporations, stop here and report this amount on Schedule K. All others, stop here and report this
+amount on Form 3800, Part III, line 1b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a
+b
+Amount allocated to beneficiaries of the estate or trust (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9b
+c
+Estates and trusts, subtract line 9b from line 9a. Report this amount on Form 3800, Part III, line 1b 
+.
+9c
+Form 7207 (1-2023) 

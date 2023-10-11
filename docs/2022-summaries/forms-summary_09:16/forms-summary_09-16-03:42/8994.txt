@@ -1,0 +1,19 @@
+Form 8994 is a document provided by the Internal Revenue Service (IRS) for employers to claim the Employer Credit for Paid Family and Medical Leave. This form must be attached to the employer's tax return. The form consists of several sections and questions that the employer needs to answer.
+
+Section A asks if the employer has a written policy that provides for at least 2 weeks of annual paid family and medical leave for qualifying employees. If the answer is no, the employer should not file Form 8994 unless there is an exception for partnerships or S corporations.
+
+Section B asks if the written policy provides paid family and medical leave of at least 50% of the wages normally paid to a qualifying employee. If the policy does not meet this requirement, the employer should not file Form 8994 unless there is an exception for partnerships or S corporations.
+
+Section C asks if the employer paid family and medical leave to at least one qualifying employee during the tax year. If the answer is no, the employer should not file Form 8994 unless there is an exception for partnerships or S corporations.
+
+Section D asks if the employer employed at least one qualifying employee who was not covered by the Family and Medical Leave Act and if the employer included non-interference language in their written policy. If the answer is no, the employer should not file Form 8994 unless there is an exception for partnerships or S corporations.
+
+Line 1 is where the employer enters the total paid family and medical leave credit figured for wages paid to qualifying employees during the tax year. The employer may need to make adjustments to their deduction for salaries and wages based on the instructions provided.
+
+Line 2 is specifically for partnerships and S corporations to report the employer credit for paid family and medical leave.
+
+Line 3 is where the employer adds lines 1 and 2 together. For partnerships and S corporations, this amount should be reported on Schedule K. For all others, this amount should be reported on Form 3800, Part III, line 4j.
+
+The form also includes a section for the Paperwork Reduction Act Notice, which provides information about the collection of information and its estimated burden on taxpayers.
+
+For further instructions and the most up-to-date information, employers are directed to visit the IRS website at www.irs.gov/Form8994.

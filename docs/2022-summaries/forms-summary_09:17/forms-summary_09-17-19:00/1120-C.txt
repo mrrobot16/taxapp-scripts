@@ -1,0 +1,11 @@
+Form 1120 is the U.S. Corporation Income Tax Return form used by corporations to report their income, deductions, and tax liability to the Internal Revenue Service (IRS). The form is used for the tax year beginning in 2022 and ending in 2022.
+
+The form requires the corporation to provide information such as its name, address, employer identification number, and date of incorporation. The corporation must also report its total assets and indicate if it is filing an initial return, final return, or if there has been a name or address change.
+
+The form includes several schedules for reporting income, deductions, and tax credits. Schedule C is used to report dividends, inclusions, and special deductions. Schedule J is used to calculate the corporation's tax liability and payments. Schedule K is used to provide additional information about the corporation, such as its accounting method, business activity, and ownership structure. Schedule L is used to report the corporation's balance sheet per books. Schedule M-1 is used to reconcile the corporation's income per books with its income per the tax return. Schedule M-2 is used to analyze the corporation's unappropriated retained earnings per books.
+
+The form also includes sections for the corporation to report other information, such as its ownership of other entities, payments made that require filing Forms 1099, and compliance with certain tax provisions.
+
+The form must be signed by an authorized officer of the corporation under penalties of perjury, declaring that the information provided is true, correct, and complete.
+
+Overall, Form 1120 is a comprehensive tax return form that allows corporations to report their income and deductions accurately and calculate their tax liability in accordance with the tax laws of the United States.

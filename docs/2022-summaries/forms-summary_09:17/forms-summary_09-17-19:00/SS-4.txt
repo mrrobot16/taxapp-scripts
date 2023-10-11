@@ -1,0 +1,36 @@
+Form SS-4 is an application for an Employer Identification Number (EIN) issued by the Internal Revenue Service (IRS) in the United States. The form is used by various entities, including employers, corporations, partnerships, trusts, estates, churches, government agencies, Indian tribal entities, certain individuals, and others.
+
+The form requires the following information to be provided:
+
+1. Legal name of the entity or individual for whom the EIN is being requested.
+2. Trade name of the business, if different from the name on line 1.
+3. Executor, administrator, trustee, or care of name.
+4a. Mailing address, including room, apartment, suite number, or P.O. box.
+5a. Street address, if different from the mailing address (P.O. boxes not allowed).
+4b. City, state, and ZIP code for the mailing address (foreign addresses have separate instructions).
+5b. City, state, and ZIP code for the street address (foreign addresses have separate instructions).
+6. County and state where the principal business is located.
+7a. Name of the responsible party.
+7b. Social Security Number (SSN), Individual Taxpayer Identification Number (ITIN), or EIN of the responsible party.
+8a. Indicates whether the application is for a limited liability company (LLC) or foreign equivalent.
+8b. If 8a is Yes, the number of LLC members should be entered.
+8c. If 8a is Yes, whether the LLC was organized in the United States.
+9a. Type of entity, such as sole proprietor, partnership, corporation, trust, etc.
+9b. If a corporation, the state or foreign country where it is incorporated.
+10. Reason for applying, such as starting a new business, changing type of organization, hiring employees, etc.
+11. Date the business started or was acquired.
+12. Closing month of the accounting year.
+13. Highest number of employees expected in the next 12 months.
+14. Option to file Form 944 annually instead of Forms 941 quarterly if employment tax liability is expected to be $1,000 or less.
+15. Dates of first wages or annuities paid and first date income will be paid to nonresident aliens (if applicable).
+16. Principal activity of the business.
+17. Principal line of merchandise sold, construction work done, products produced, or services provided.
+18. Whether the applicant entity has previously applied for and received an EIN.
+
+The form also includes a section for a third-party designee if the applicant wants to authorize someone else to receive the EIN and answer questions about the form.
+
+The form concludes with a declaration of accuracy, signature, and date.
+
+The second page of the form provides guidance on whether an EIN is needed based on the specific circumstances of the applicant. It outlines which lines on the form should be completed for different situations, such as starting a new business, hiring employees, opening a bank account, changing the type of organization, etc.
+
+Overall, Form SS-4 is a comprehensive application for obtaining an EIN from the IRS, and it provides instructions for completing the form based on the specific needs of the applicant.

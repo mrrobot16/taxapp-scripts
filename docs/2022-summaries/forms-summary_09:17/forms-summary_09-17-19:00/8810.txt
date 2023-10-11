@@ -1,0 +1,13 @@
+Form 8810 is a document issued by the Department of the Treasury, Internal Revenue Service (IRS) in the United States. It is used to report and calculate corporate passive activity loss and credit limitations for the tax year 2022. The form must be attached to the tax return of personal service and closely held corporations.
+
+The form consists of three parts: Part I, Part II, and Part III.
+
+Part I is used to calculate the passive activity loss for the tax year. It requires the taxpayer to enter their current year income, current year deductions and losses, and prior year unallowed losses. These figures are then combined to determine the net income or zero result. Closely held corporations enter net active income, while personal service corporations enter -0- on this line.
+
+Part II is used to calculate the passive activity credits for the tax year. The taxpayer must enter their current year credits and prior year unallowed credits. These figures are then added together to determine the total credits.
+
+Part III is an optional section for taxpayers who disposed of their entire interest in a passive activity or former passive activity in a fully taxable transaction. If the taxpayer elects to increase the basis of credit property used in that activity by the unallowed credit that reduced the property's basis, they must check the box and provide the necessary information.
+
+The form provides cautionary notes and references to worksheets and instructions for more detailed guidance on completing each section. The taxpayer is advised to visit the IRS website for the latest instructions and information related to Form 8810.
+
+The form also includes an OMB number and space for the taxpayer's name and employer identification number.

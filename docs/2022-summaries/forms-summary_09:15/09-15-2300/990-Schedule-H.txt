@@ -1,0 +1,15 @@
+Schedule H is a form used by hospitals to report financial assistance and community benefit activities. The form consists of several parts that ask hospitals to provide information about their financial assistance policies, community building activities, bad debt, Medicare, collection practices, facility information, and more.
+
+Part I asks hospitals if they have a financial assistance policy and if it is a written policy. It also asks about the application of the policy to different hospital facilities and the use of Federal Poverty Guidelines in determining eligibility for free or discounted care.
+
+Part II requires hospitals to provide information about their community building activities and how they promote the health of the communities they serve.
+
+Part III focuses on bad debt, Medicare, and collection practices. It asks hospitals if they reported bad debt expense, the amount of bad debt expense, and the estimated amount of bad debt expense attributable to patients eligible for financial assistance. It also asks about Medicare revenue and costs.
+
+Part IV asks hospitals about management companies and joint ventures owned by officers, directors, trustees, key employees, and physicians.
+
+Part V requires hospitals to provide information about their facility, including the number of hospital facilities operated, their primary activities, and ownership percentages.
+
+Part VI is a section for hospitals to provide supplemental information, including descriptions of financial assistance policies, community health needs assessments, patient education on eligibility for assistance, community information, promotion of community health, affiliated health care systems, and state filing of community benefit reports.
+
+Overall, Schedule H collects information about hospitals' financial assistance policies, community benefit activities, and other relevant details to ensure transparency and compliance with tax regulations.

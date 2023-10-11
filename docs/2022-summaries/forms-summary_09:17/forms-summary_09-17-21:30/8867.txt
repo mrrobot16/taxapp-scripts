@@ -1,0 +1,19 @@
+Form 8867 is a checklist provided by the Internal Revenue Service (IRS) for tax preparers to ensure they have completed the necessary due diligence when claiming certain tax credits and filing statuses on a taxpayer's return. The form is to be completed by the preparer and filed with Form 1040, 1040-SR, 1040-NR, 1040-PR, or 1040-SS.
+
+The form consists of six parts:
+
+Part I: Due Diligence Requirements - The preparer checks the boxes for the credits and/or filing status claimed on the return and completes the related sections for each benefit claimed.
+
+Part II: Due Diligence Questions for Returns Claiming Earned Income Credit (EIC) - The preparer answers questions related to the eligibility requirements for claiming the EIC, including the number of qualifying children and residency requirements.
+
+Part III: Due Diligence Questions for Returns Claiming Child Tax Credit (CTC), Additional Child Tax Credit (ACTC), or Credit for Other Dependents (ODC) - The preparer answers questions about the eligibility requirements for claiming these credits, including citizenship and residency requirements.
+
+Part IV: Due Diligence Questions for Returns Claiming American Opportunity Tax Credit (AOTC) - The preparer answers questions about whether the taxpayer provided substantiation for the AOTC, such as Form 1098-T and receipts for qualified tuition expenses.
+
+Part V: Due Diligence Questions for Claiming Head of Household (HOH) Filing Status - The preparer determines if the taxpayer meets the requirements for claiming HOH filing status, including being unmarried or considered unmarried and providing more than half of the cost of keeping up a home for a qualifying person.
+
+Part VI: Eligibility Certification - The preparer certifies that they have completed all due diligence requirements, including interviewing the taxpayer, documenting their responses, reviewing adequate information, and keeping the necessary records.
+
+The form also includes instructions and information about record retention requirements and potential penalties for failure to comply with due diligence requirements.
+
+Overall, Form 8867 serves as a tool for tax preparers to ensure they have met the necessary due diligence requirements when claiming certain tax credits and filing statuses on a taxpayer's return.

@@ -1,0 +1,13 @@
+Form 926 is a tax form used by U.S. taxpayers to report the transfer of property to a foreign corporation. The form is attached to the taxpayer's income tax return for the year of the transfer or distribution. 
+
+The form is divided into several parts. Part I collects information about the U.S. transferor, including their name, identifying number, and whether the transferee is a specified 10%-owned foreign corporation that is not a controlled foreign corporation. 
+
+Part II collects information about the transferee foreign corporation, including its name, identifying number, address, and country of incorporation or organization. It also asks whether the transferee is a controlled foreign corporation. 
+
+Part III collects information regarding the transfer of property, including the type of property, date of transfer, description of the property, fair market value on the date of transfer, cost or other basis, and gain recognized on the transfer. It also asks whether cash was the only property transferred and whether any assets of a foreign branch were transferred. 
+
+Part IV collects additional information regarding the transfer of property, including the transferor's interest in the transferee foreign corporation before and after the transfer, the type of nonrecognition transaction, and whether the transfer resulted from a change in entity classification. 
+
+The form also includes sections for reporting intangible property subject to section 367(d) and for reporting whether the transfer resulted from a section 367(e)(2) distribution or a section 355 distribution. 
+
+Taxpayers should refer to the instructions for Form 926 for more detailed information and guidance on completing the form.

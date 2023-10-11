@@ -1,0 +1,9 @@
+Form 8885 is a document provided by the Internal Revenue Service (IRS) for individuals who want to claim the Health Coverage Tax Credit (HCTC). The HCTC is a tax credit available to eligible individuals who were recipients of trade adjustment assistance (TAA), alternative TAA (ATAA), reemployment TAA (RTAA), or Pension Benefit Guaranty Corporation (PBGC) payments. It is also available to qualifying family members of individuals who passed away or with whom the taxpayer finalized a divorce under one of these categories.
+
+The form consists of two parts. In Part I, the taxpayer must indicate the month in their tax year when they elected to take the HCTC. They must also confirm that they and/or their family members were covered by HCTC-qualified health insurance coverage for which they paid the entire premiums, were not enrolled in certain healthcare programs, were not imprisoned, and did not receive significant employer contributions or COBRA premium reductions.
+
+Part II of the form requires the taxpayer to enter the total amount they paid directly to their health plan for HCTC-qualified health insurance coverage during the months indicated in Part I. They must also subtract any Archer MSA or health savings account distributions used to pay for the coverage. The resulting amount is multiplied by 72.5% and entered on the appropriate line of their tax return (Schedule 3 for Form 1040, line 13c; Form 1040-SS, line 10; or Form 1040-PR, line 10).
+
+It is important for taxpayers to attach the required documents listed in the instructions for any amounts included on line 2. Failure to do so may result in the disallowance of the credit.
+
+This form is to be attached to the taxpayer's Form 1040, 1040-SR, 1040-NR, 1040-SS, or 1040-PR. The IRS website provides instructions and the latest information for completing Form 8885.

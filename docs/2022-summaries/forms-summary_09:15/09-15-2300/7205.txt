@@ -1,0 +1,11 @@
+Form 7205 is a document provided by the Department of the Treasury and the Internal Revenue Service (IRS) for claiming the Energy Efficient Commercial Buildings Deduction. The form is to be attached to the tax return and includes various sections for providing information related to the building and energy efficient commercial building property (EECBP).
+
+Part I of the form requires the address of the building, the date the EECBP was placed in service, the EECBP system and computed energy savings percentage, and whether the interim lighting rule was used. It also requires the potential amount per square foot based on energy savings and system, the building square footage, and the potential section 179D deduction amount.
+
+Part II is for the computation of the Energy Efficient Commercial Buildings Deduction amount. It includes columns for the total per square foot amount claimed in prior years, the maximum amount allowed, and whether the amount in column 2(b) is greater than or equal to column 1(e). Depending on the answer, different calculations are required.
+
+Part III is for certification information for each property listed in Part I. It includes the name of the qualified individual completing the certification, their employer, and their address.
+
+Part IV is for designer allocation information and is to be completed by the designer only. It includes the identified owner of the building, the name of the building owner's authorized representative completing the allocation, and their address.
+
+The form also provides instructions and directs taxpayers to visit the IRS website for more information.

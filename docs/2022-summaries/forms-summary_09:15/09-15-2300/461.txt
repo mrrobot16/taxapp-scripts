@@ -1,0 +1,12 @@
+Form 461 is a document issued by the Department of the Treasury, Internal Revenue Service. It is used to calculate the limitation on business losses and must be attached to the taxpayer's tax return. The form consists of three parts.
+
+Part I: Total Income/Loss Items
+In this section, various amounts from the taxpayer's tax return are entered, such as income from Schedule 1 (Form 1040), line 3, income from Form 1040 or 1040-SR, line 7, and other income, gain, or losses from a trade or business not reported on previous lines. These amounts are then combined on line 9.
+
+Part II: Adjustment for Amounts Not Attributable to Trade or Business
+Here, any income or gain reported on lines 1 through 8 that is not attributable to a trade or business is entered on line 10. Similarly, any losses or deductions reported on lines 1 through 8 that are not attributable to a trade or business are entered on line 11. Line 12 represents the subtraction of line 11 from line 10.
+
+Part III: Limitation on Losses
+Line 12, which represents the result of the subtraction in Part II, is entered on line 13 as a positive number if it is negative, or as a negative number if it is positive. Line 14 is the sum of lines 9 and 13. On line 15, the taxpayer enters either $270,000 or $540,000, depending on their filing status. Line 16 is the addition of lines 14 and 15. If the result is less than zero, the taxpayer enters that amount as a positive number on Schedule 1 (Form 1040), line 8p. If the result is zero or greater, the taxpayer does not need to attach this form to their tax return.
+
+The form includes a reference to the IRS website for instructions and the latest information. It also provides space for the taxpayer's name, identifying number, and tax return details.

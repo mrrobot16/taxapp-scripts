@@ -1,0 +1,53 @@
+Form 8941 is a document issued by the Internal Revenue Service (IRS) in the United States. It is used to claim the Credit for Small Employer Health Insurance Premiums. The form must be attached to the taxpayer's tax return.
+
+The form contains various sections and instructions for completion. Here is a summary of the key sections:
+
+Section A: The taxpayer is asked whether they paid premiums for employee health insurance coverage through a Small Business Health Options Program (SHOP) Marketplace. They are also asked to enter the Marketplace Identifier if applicable.
+
+Section B: The taxpayer is asked to enter the employer identification number (EIN) used for reporting employment taxes if it is different from the identifying number listed above.
+
+Section C: The taxpayer is asked whether a previous tax return filed between 2013 and 2021 included a Form 8941 with certain criteria. If applicable, the taxpayer is instructed not to file Form 8941 and to refer to the instructions for exceptions.
+
+Line 1: The taxpayer is instructed to enter the number of individuals employed during the tax year who are considered employees for the purposes of the credit.
+
+Line 2: The taxpayer is instructed to enter the number of full-time equivalent employees (FTEs) they had during the tax year.
+
+Line 3: The taxpayer is instructed to enter the average annual wages paid during the tax year, which must be a multiple of $1,000.
+
+Line 4: The taxpayer is instructed to enter the premiums paid during the tax year for employees included on line 1 for health insurance coverage under a qualifying arrangement.
+
+Line 5: The taxpayer is instructed to enter the premiums that would have been entered on line 4 if the total premium for each employee equaled the average premium for the small group market in which the employee enrolls in health insurance coverage.
+
+Line 6: The taxpayer is instructed to enter the smaller of line 4 or line 5.
+
+Line 7: The taxpayer is instructed to multiply line 6 by the applicable percentage based on their tax-exempt status.
+
+Line 8: If line 2 is 10 or less, the taxpayer is instructed to enter the amount from line 7. Otherwise, they are instructed to enter the amount from a specific worksheet.
+
+Line 9: If line 3 is $28,000 or less, the taxpayer is instructed to enter the amount from line 8. Otherwise, they are instructed to enter the amount from another specific worksheet.
+
+Line 10: The taxpayer is instructed to enter the total amount of any state premium subsidies paid and any state tax credits available to them for premiums included on line 4.
+
+Line 11: The taxpayer is instructed to subtract line 10 from line 4. If the result is zero or less, they are instructed to enter -0-.
+
+Line 12: The taxpayer is instructed to enter the smaller of line 9 or line 11.
+
+Line 13: If line 12 is zero, the taxpayer is instructed to skip lines 13 and 14 and go to line 15. Otherwise, they are instructed to enter the number of employees included on line 1 for whom they paid premiums for health insurance coverage.
+
+Line 14: The taxpayer is instructed to enter the number of FTEs they would have entered on line 2 if they only included employees from line 13.
+
+Line 15: This line is for the credit for small employer health insurance premiums from partnerships, S corporations, cooperatives, estates, and trusts.
+
+Line 16: The taxpayer is instructed to add lines 12 and 15. Depending on the entity type, further instructions are provided for reporting this amount on the appropriate tax form.
+
+Line 17: This line is for the amount allocated to patrons of the cooperative or beneficiaries of the estate or trust.
+
+Line 18: For cooperatives, estates, and trusts, this line instructs them to subtract line 17 from line 16 and report the result on Form 3800, Part III, line 4h.
+
+Line 19: The taxpayer is instructed to enter the amount paid in 2022 for taxes considered payroll taxes for the purposes of this credit.
+
+Line 20: Tax-exempt small employers are instructed to enter the smaller of line 16 or line 19 on Form 990-T, Part III, line 6f.
+
+The form also includes a Paperwork Reduction Act Notice and a space for the taxpayer's name(s) shown on the return and identifying number.
+
+For detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8941.

@@ -1,0 +1,13 @@
+This document provides information about Form 3921, which is used to report the exercise of an Incentive Stock Option (ISO) under Section 422(b) of the Internal Revenue Code. 
+
+The document begins by stating that Copy A of the form is provided for informational purposes only and should not be printed and filed with the IRS. It warns that penalties may be imposed for filing with the IRS information return forms that cannot be scanned. However, Copy B and other copies of the form can be downloaded, printed, and used to provide information to the recipient.
+
+To order official IRS information returns, including a scannable Copy A, the document directs readers to visit the IRS website and order forms through the Employer and Information Returns section.
+
+The document also mentions that information returns can be filed electronically using the IRS Filing Information Returns Electronically (FIRE) system or the IRS Affordable Care Act Information Returns (AIR) program.
+
+The remaining pages of the document display different copies of Form 3921, including Copy A for the IRS, Copy B for the employee, Copy C for the corporation, and Copy D for the transferor. Each copy includes fields for providing information such as the transferor's name, address, and taxpayer identification number, the employee's name and address, the dates of option grant and exercise, the exercise price per share, the fair market value per share on the exercise date, the number of shares transferred, and the name, address, and taxpayer identification number of the corporation whose stock is being transferred.
+
+The document concludes with instructions for the employee and transferor on how to complete the form, as well as information on due dates for furnishing copies to the employee and corporation, and filing Copy A with the IRS.
+
+Readers are also provided with contact information for the IRS information reporting customer service site if they have questions about reporting on Form 3921.

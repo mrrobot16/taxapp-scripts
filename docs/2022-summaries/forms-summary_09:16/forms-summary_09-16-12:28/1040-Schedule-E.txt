@@ -1,0 +1,15 @@
+Schedule E (Form 1040) is a supplemental form used to report supplemental income and loss from various sources such as rental real estate, royalties, partnerships, S corporations, estates, trusts, and REMICs. The form is attached to Form 1040, 1040-SR, 1040-NR, or 1041.
+
+Part I of the form is used to report income or loss from rental real estate and royalties. It asks for information about any payments made in 2022 that would require the filing of Form 1099, and whether the required Form 1099 has been filed. It also asks for the physical address and type of property for each rental real estate property, as well as the number of fair rental and personal use days.
+
+Part I also includes sections to report rents received, royalties received, and various expenses related to rental real estate, such as advertising, auto and travel expenses, cleaning and maintenance, commissions, insurance, legal and other professional fees, management fees, mortgage interest, repairs, supplies, taxes, utilities, and depreciation expense or depletion. These expenses are used to calculate the total expenses and deductible rental real estate loss.
+
+Part II of the form is used to report income or loss from partnerships and S corporations. It asks for information about the name, type, and identification number of the partnership or S corporation, as well as whether a basis computation or at-risk activity is involved. It also includes columns to report passive income and loss, nonpassive income and loss, and totals.
+
+Part III of the form is used to report income or loss from estates and trusts. It asks for information about the name and identification number of the estate or trust, as well as columns to report passive income and loss, nonpassive income and loss, and totals.
+
+Part IV of the form is used to report income or loss from real estate mortgage investment conduits (REMICs) residual holder. It asks for information about the name, identification number, excess inclusion, taxable income, and income from Schedules Q.
+
+Part V of the form is a summary section that includes the net farm rental income or loss from Form 4835, as well as a reconciliation of farming and fishing income and a reconciliation for real estate professionals.
+
+The form concludes with a section to calculate the total income or loss from all sources, which is then entered on Schedule 1 (Form 1040), line 5.

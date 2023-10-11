@@ -1,0 +1,27 @@
+Schedule A (Form 990-T) is a document provided by the Internal Revenue Service (IRS) for reporting unrelated business taxable income from an unrelated trade or business. This form is applicable to 501(c)(3) organizations and is open to public inspection for these organizations only.
+
+The form includes several sections for reporting different types of income and deductions. 
+
+Part I is for reporting the income from the unrelated trade or business. It includes sections for reporting gross receipts or sales, cost of goods sold, gross profit, capital gain net income, net gain (loss), capital loss deduction, income (loss) from a partnership or an S corporation, rent income, unrelated debt-financed income, interest, annuities, royalties, and rents from a controlled organization, investment income of section 501(c)(7), (9), or (17) organizations, exploited exempt activity income, advertising income, and other income.
+
+Part II is for reporting deductions not taken elsewhere. It includes sections for reporting compensation of officers, directors, and trustees, salaries and wages, repairs and maintenance, bad debts, interest, taxes and licenses, depreciation, depletion, contributions to deferred compensation plans, employee benefit programs, excess exempt expenses, excess readership costs, and other deductions.
+
+Part III is for reporting the cost of goods sold, including inventory valuation, inventory at the beginning and end of the year, purchases, cost of labor, additional section 263A costs, and other costs.
+
+Part IV is for reporting rent income from real property and personal property leased with real property. It includes sections for describing the property, reporting rent received or accrued, and deductions directly connected with the income.
+
+Part V is for reporting unrelated debt-financed income. It includes sections for describing the debt-financed property, reporting gross income from or allocable to the property, deductions directly connected with or allocable to the property, average acquisition debt, average adjusted basis, and calculating the gross income reportable.
+
+Part VI is for reporting interest, annuities, royalties, and rents from controlled organizations. It includes sections for reporting the name and employer identification number of the controlled organization, net unrelated income, total specified payments made, deductions directly connected with the income, and calculating the totals.
+
+Part VII is for reporting investment income of a section 501(c)(7), (9), or (17) organization. It includes sections for describing the income, reporting the amount of income, deductions directly connected, set-asides, and calculating the totals.
+
+Part VIII is for reporting exploited exempt activity income, other than advertising income. It includes sections for describing the exploited activity, reporting gross unrelated business income, expenses directly connected with the production of unrelated business income, and calculating the net income (loss) and excess exempt expenses.
+
+Part IX is for reporting advertising income. It includes sections for listing the names of periodicals, reporting gross advertising income, direct advertising costs by periodical, and calculating the advertising gain (loss) and excess readership costs.
+
+Part X is for reporting the compensation of officers, directors, and trustees. It includes sections for listing their names, titles, percentage of time devoted to business, and compensation attributable to unrelated business.
+
+Part XI is for providing any supplemental information that may be required.
+
+The form also includes instructions and a section for entering the name of the organization, employer identification number, unrelated business activity code, and sequence number.

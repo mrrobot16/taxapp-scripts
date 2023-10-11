@@ -1,0 +1,734 @@
+Form   926
+(Rev. November 2018)
+Department of the Treasury  
+Internal Revenue Service 
+Return by a U.S. Transferor of Property 
+to a Foreign Corporation
+▶  Go to www.irs.gov/Form926 for instructions and the latest information.
+▶ Attach to your income tax return for the year of the transfer or distribution.
+OMB No. 1545-0026
+Attachment   
+Sequence No. 128
+Part I
+U.S. Transferor Information (see instructions)
+Name of transferor
+Identifying number (see instructions)
+1 
+Is the transferee a specified 10%-owned foreign corporation that is not a controlled foreign corporation? .
+Yes
+No
+2
+If the transferor was a corporation, complete questions 2a through 2d.
+a 
+ 
+If the transfer was a section 361(a) or (b) transfer, was the transferor controlled (under section 368(c)) by
+five or fewer domestic corporations? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+b
+Did the transferor remain in existence after the transfer? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If not, list the controlling shareholder(s) and their identifying number(s).
+Controlling shareholder
+Identifying number
+c 
+ 
+If the transferor was a member of an affiliated group filing a consolidated return, was it the parent 
+corporation? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If not, list the name and employer identification number (EIN) of the parent corporation.
+Name of parent corporation
+EIN of parent corporation
+d
+Have basis adjustments under section 367(a)(4) been made? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+3 
+ 
+If the transferor was a partner in a partnership that was the actual transferor (but is not treated as such under section 367), 
+complete questions 3a through 3d.
+a
+List the name and EIN of the transferor’s partnership.
+Name of partnership
+EIN of partnership
+b
+Did the partner pick up its pro rata share of gain on the transfer of partnership assets? .
+.
+.
+.
+.
+.
+.
+Yes
+No
+c
+Is the partner disposing of its entire interest in the partnership? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+d 
+ 
+Is the partner disposing of an interest in a limited partnership that is regularly traded on an established 
+securities market? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Part II
+Transferee Foreign Corporation Information (see instructions)
+4      Name of transferee (foreign corporation)
+5a Identifying number, if any
+5b Reference ID number              
+(see instructions)
+6      Address (including country)
+7      Country code of country of incorporation or organization (see instructions)
+8      Foreign law characterization (see instructions)
+9
+Is the transferee foreign corporation a controlled foreign corporation? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 16982D
+Form 926 (Rev. 11-2018)
+Form 926 (Rev. 11-2018)
+Page 2 
+Part III
+Information Regarding Transfer of Property (see instructions)
+Section A—Cash
+Type of 
+property
+(a) 
+Date of 
+transfer
+(b)  
+Description of  
+property
+(c)  
+Fair market value on  
+date of transfer
+(d)  
+Cost or other  
+basis
+(e)  
+Gain recognized on  
+transfer
+Cash
+10
+Was cash the only property transferred? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” skip the remainder of Part III and go to Part IV.
+Section B—Other Property (other than intangible property subject to section 367(d))
+Stock and 
+securities
+Inventory
+Other property  
+(not listed under  
+another category)
+Property with  
+built-in loss
+Type of 
+property
+(a) 
+Date of 
+transfer
+(b)  
+Description of  
+property
+(c)  
+Fair market value on  
+date of transfer
+(d)  
+Cost or other  
+basis
+(e)  
+Gain recognized on  
+transfer
+      
+     
+          
+        
+     
+         
+        
+      
+       
+     
+     
+     
+Totals
+11
+Did the transferor transfer stock or securities subject to section 367(a) with respect to which a gain
+recognition agreement was filed? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+12 
+ 
+Were any assets of a foreign branch (including a branch that is a foreign disregarded entity) transferred to a 
+foreign corporation?  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+a 
+ 
+Yes
+No
+If “Yes,” go to line 12b.
+b
+Was the transferor a domestic corporation that transferred substantially all of the assets of a foreign branch 
+(including a branch that is a foreign disregarded entity) to a specified 10%-owned foreign corporation? .
+.
+Yes
+No
+If “Yes,” continue to line 12c. If “No,” skip lines 12c and 12d, and go to line 13.
+c 
+ 
+Immediately after the transfer, was the domestic corporation a U.S. shareholder with respect to the
+transferee foreign corporation? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” continue to line 12d. If “No,” skip line 12d, and go to line 13.
+d
+Enter the transferred loss amount included in gross income as required under section 91 ▶ $
+13
+Did the transferor transfer property described in section 367(d)(4)?  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “No,” skip Section C and questions 14a through 15.
+Property described 
+in sec. 367(d)(4)
+Section C—Intangible Property Subject to Section 367(d)
+Type of 
+property
+(a) 
+Date of 
+transfer
+(b)  
+Description of  
+property
+(c)  
+Useful 
+life
+(d)  
+Arm’s length price 
+on date of transfer
+(e)  
+Cost or other basis
+(f)  
+Income inclusion 
+for year of transfer 
+(see instructions)
+   
+    
+    
+    
+    
+    
+    
+    
+     
+Totals
+Form 926 (Rev. 11-2018)
+Form 926 (Rev. 11-2018)
+Page 3 
+14a
+Did the transferor transfer any intangible property that, at the time of the transfer, had a useful life
+reasonably anticipated to exceed 20 years? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+b
+At the time of the transfer, did any of the transferred intangible property have an indefinite useful life?
+.
+.
+Yes
+No
+c
+Did the transferor choose to apply the 20-year inclusion period provided under Regulations section
+1.367(d)-1(c)(3)(ii) for any intangible property? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+d
+If the answer to line 14c is “Yes,” enter the total estimated anticipated income or cost reduction attributable 
+to the intangible property’s, or properties’, as applicable, use(s) beyond the 20-year period described in 
+Regulations section 1.367(d)-1(c)(3)(ii) ▶ $
+15 
+ 
+Was any intangible property transferred considered or anticipated to be, at the time of the transfer or at any
+time thereafter, a platform contribution as defined in Regulations section 1.482-7(c)(1)? .
+.
+.
+.
+.
+.
+.
+Yes
+No
+Supplemental Part III Information Required To Be Reported (see instructions)
+Part IV
+Additional Information Regarding Transfer of Property (see instructions)
+16
+Enter the transferor’s interest in the transferee foreign corporation before and after the transfer.
+(a) Before
+% (b) After
+%
+17
+Type of nonrecognition transaction (see instructions) ▶
+18
+Indicate whether any transfer reported in Part III is subject to any of the following.
+a
+Gain recognition under section 904(f)(3) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+b
+Gain recognition under section 904(f)(5)(F) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+c
+Recapture under section 1503(d) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+d
+Exchange gain under section 987 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+19
+Did this transfer result from a change in entity classification? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+20a
+Did a domestic corporation make a distribution of property covered by section 367(e)(2)? See instructions .
+Yes
+No
+If “Yes,” complete lines 20b and 20c.
+b
+Enter the total amount of gain or loss recognized pursuant to Regulations section 1.367(e)-2(b) ▶ $
+c 
+ 
+Did the domestic corporation not recognize gain or loss on the distribution of property because the
+property was used in the conduct of U.S. trade or business under Regulations section 1.367(e)-2(b)(2)? .
+.
+Yes
+No
+21 
+ 
+Did a domestic corporation make a section 355 distribution of stock in a foreign controlled corporation
+covered by section 367(e)(1)? See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Form 926 (Rev. 11-2018)

@@ -1,0 +1,272 @@
+Form   8952
+(Rev. November 2013)
+Department of the Treasury  
+Internal Revenue Service   
+Application for Voluntary 
+ Classification Settlement Program (VCSP)
+▶ Do not send payment with Form 8952.  
+▶ Information about Form 8952 and its separate instructions is at www.irs.gov/form8952.
+OMB No. 1545-2215
+Caution. Taxpayer must make certain representations in order to be eligible to participate in the VCSP. These representations can be found in 
+Part V on page 2.
+Part I 
+Taxpayer Information
+1 Taxpayer's name
+2 Employer identification number (EIN)
+3
+Number and street (or P.O. box number if mail is not delivered to a street address)
+Room/Suite
+4
+City, town or post office, state, and ZIP code
+5 Telephone number
+6 Website address (optional)
+7
+Fax number (optional)
+8 Email address (optional)
+9
+Type of entity.
+Check the applicable box:
+Sole proprietorship
+Joint venture
+Partnership
+C corporation
+S corporation
+Cooperative organization described in section 1381 of the Internal Revenue Code
+Tax-exempt organization
+State or local government (for worker class or position not covered under a section 218 agreement)
+Other (specify here)
+10 Are you a member of an affiliated group?
+Yes
+No
+If “Yes,” complete the common parent information on lines 11-14.
+If “No,” skip to Part II.
+11 Name of common parent of the affiliated group
+12
+EIN of common parent
+13 Number and street (or P.O. box number if mail is not delivered to a street address) of common parent
+14 City, town or post office, state, and ZIP code of common parent
+Part II Contact Person
+Attach a properly completed Form 2848, Power of Attorney and Declaration of Representative, if applicable. Also see Special 
+instructions for Form 2848 in the instructions. 
+• Name and title of contact person
+• Contact person's number and street (or P.O. box number if mail is not delivered to a street address)
+• Contact person's city, town or post office, state, and ZIP code
+• Contact person's telephone number
+• Contact person's fax number (optional)
+• Contact person's email address (optional)
+Part III
+General Information About Workers To Be Reclassified
+15
+Enter the total number of workers from all classes 
+to be reclassified. A class of workers includes all 
+workers who perform the same or similar 
+services.
+16
+Enter a description of the class or classes of workers to be reclassified. If 
+more space is needed, attach separate sheets (see instructions).
+17 Enter the beginning date of the employment tax 
+period (calendar year or quarter) for which you 
+want to begin treating the class or classes of 
+workers as employees. This date should be at 
+least 60 days after the date you file Form 8952 
+(see instructions).
+/
+/
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 37772H
+Form 8952 (Rev. 11-2013)
+Form 8952 (Rev. 11-2013)
+Page 2
+Taxpayer's name
+Employer identification number (EIN)
+Part IV
+Payment Calculation Using Section 3509(a) Rates (see instructions)
+18 Enter total compensation paid in the most recently completed calendar year to 
+all workers to be reclassified (see instructions)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19 Multiply line 18 by 3.24% (.0324) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20 Enter any compensation included on line 18 that exceeded the social security 
+wage base for any worker or workers for the most recently completed calendar 
+year (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21 Subtract line 20 from line 18 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22 Multiply line 21 by 7.44% (.0744)  [7.04% (.0704) for compensation paid prior to 2013] .
+.
+.
+.
+.
+.
+22
+23 Add lines 19 and 22 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24 Multiply line 23 by 10% (.10). This is the VCSP payment you will pay when you submit your signed 
+closing agreement (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+Part V
+Taxpayer Representations
+Caution. Since the representations include the penalty of perjury statement, the representations under Part V must be signed by the 
+taxpayer, not the taxpayer's representative.
+A
+Treatment of Workers
+1
+Taxpayer wants to voluntarily reclassify certain workers as employees for federal income tax withholding, Federal Insurance 
+Contributions Act, and Federal Unemployment Tax Act taxes (collectively, federal employment taxes) for future tax periods.
+2 Taxpayer is presently treating the workers as nonemployees.
+3 Taxpayer has filed all required Forms 1099 for each of the workers to be reclassified for the 3 preceding calendar years ending 
+before the date of this application.
+4 Taxpayer has consistently treated the workers as nonemployees.
+5 There is no current dispute between the taxpayer and the IRS as to whether the class or classes of workers are nonemployees or 
+employees for federal employment tax purposes.
+B
+Examination
+1
+Taxpayer or, if applicable, any member of the taxpayer's affiliated group, is not under employment tax examination by the IRS.
+2
+Taxpayer is not under examination by the Department of Labor or any state agency concerning the proper classification of the 
+class or classes of workers.
+3a Taxpayer has not been examined previously by the IRS or the Department of Labor concerning the proper classification of the 
+class or classes of workers; or,
+b Taxpayer has been examined previously by the IRS or the Department of Labor concerning the proper classification of the class 
+or classes of workers and the taxpayer has complied with the results of the prior examination.
+Caution. Do not send payment with Form 8952. You will submit payment later with your signed closing agreement. If you submit payment 
+with Form 8952, it may cause a processing delay.
+Sign Here 
+Under penalties of perjury, I declare that I have examined this submission, including any accompanying documents, and to the best of my knowledge and 
+belief, all of the facts contained herein are true, correct, and complete. 
+Taxpayer's signature
+▲
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer's name
+Preparer's signature
+Date
+Check          if  
+self-employed
+PTIN 
+Firm's name ▶
+Firm's address ▶
+Firm's EIN ▶
+Phone no.
+Form 8952 (Rev. 11-2013)

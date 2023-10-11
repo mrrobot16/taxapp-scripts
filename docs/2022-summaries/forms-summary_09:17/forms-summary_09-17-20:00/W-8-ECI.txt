@@ -1,0 +1,180 @@
+Form  W-8ECI
+(Rev. October 2021)
+Certificate of Foreign Person's Claim That Income Is Effectively  
+Connected With the Conduct of a Trade or Business in the United States
+Department of the Treasury  
+Internal Revenue Service 
+▶ Section references are to the Internal Revenue Code.  
+ ▶ Go to www.irs.gov/FormW8ECI for instructions and the latest information.   
+▶ Give this form to the withholding agent or payer. Do not send to the IRS. 
+OMB No. 1545-1621
+Note: Persons submitting this form must file an annual U.S. income tax return to report income claimed to be effectively connected with a U.S. trade or business. See instructions. 
+Do not use this form for: 
+Instead, use Form: 
+•  A beneficial owner solely claiming foreign status or treaty benefits 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+W-8BEN or W-8BEN-E 
+• A foreign government, international organization, foreign central bank of issue, foreign tax-exempt organization, foreign private 
+foundation, or government of a U.S. possession claiming the applicability of section(s) 115(2), 501(c), 892, 895, or 1443(b) 
+.
+.
+.
+.
+W-8EXP 
+Note: These entities should use Form W-8ECI if they received effectively connected income and are not eligible to claim an exemption for chapter 3 
+or 4 purposes on Form W-8EXP. 
+•  A foreign partnership or a foreign trust (unless claiming an exemption from U.S. withholding on income effectively connected with the 
+conduct of a trade or business in the United States) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+W-8BEN-E or W-8IMY 
+•  A person acting as an intermediary 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+W-8IMY 
+Note: See instructions for additional exceptions. 
+Part I 
+Identification of Beneficial Owner (see instructions) 
+1 
+Name of individual or organization that is the beneficial owner 
+2 Country of incorporation or organization 
+3 
+Name of disregarded entity receiving the payments (if applicable)
+4 
+Type of entity (check the appropriate box):
+Partnership 
+Foreign Government - Controlled Entity
+Foreign Government - Integral Part
+Private foundation 
+Simple trust 
+Grantor trust 
+International organization 
+Individual 
+Complex trust 
+Central bank of issue 
+Corporation 
+Estate 
+Tax-exempt organization 
+5
+Permanent residence address (street, apt. or suite no., or rural route). Do not use a P.O. box or in-care-of address. 
+City or town, state or province. Include postal code where appropriate. 
+Country 
+6
+Business address in the United States (street, apt. or suite no., or rural route). Do not use a P.O. box or in-care-of address. 
+City or town, state, and ZIP code 
+7
+U.S. taxpayer identification number (required—see instructions) 
+SSN or ITIN 
+EIN 
+8a
+Foreign tax identifying number (FTIN)
+8b
+Check if FTIN not legally required 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Reference number(s) (see instructions) 
+10
+Date of birth (MM-DD-YYYY) 
+11
+Specify each item of income that is, or is expected to be, received from the payer that is effectively connected with the conduct of a trade or 
+business in the United States (attach statement if necessary). 
+12
+Check here to certify that: you are a dealer in securities (as defined in section 475(c)(1)); you are a transferor of an interest in a publicly traded partnership 
+(PTP) claiming an exception from withholding under Regulations section 1.1446(f)-4(b)(6); and any gain from the transfer of the PTP interest associated 
+with this form is effectively connected with the conduct of a trade or business within the United States without regard to section 864(c)(8). .
+.
+.
+Part II 
+Certification
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined the information on this form and to the best of my knowledge and belief it is true, correct, and 
+complete. I further certify under penalties of perjury that: 
+•  I am the beneficial owner (or I am authorized to sign for the beneficial owner) of all the payments to which this form relates, 
+•  The amounts for which this certification is provided are effectively connected with the conduct of a trade or business in the United States,
+•  The income for which this form was provided is includible in my gross income (or the beneficial owner’s gross income) for the taxable year, and 
+•  The beneficial owner is not a U.S. person. 
+Furthermore, I authorize this form to be provided to any withholding agent that has control, receipt, or custody of the payments of which I am the 
+beneficial owner or any withholding agent that can disburse or make payments of the amounts of which I am the beneficial owner.  
+I agree that I will submit a new form within 30 days if any certification made on this form becomes incorrect.
+I certify that I have the capacity to sign for the person identified on line 1 of this form. 
+Signature of beneficial owner (or individual authorized to sign for the beneficial owner) 
+Print name
+Date (MM-DD-YYYY)
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 25045D 
+Form  W-8ECI  (Rev. 10-2021) 
+SIGN

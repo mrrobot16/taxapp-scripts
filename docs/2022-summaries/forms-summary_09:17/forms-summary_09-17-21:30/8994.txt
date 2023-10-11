@@ -1,0 +1,21 @@
+Form 8994 is a document provided by the Internal Revenue Service (IRS) for employers to claim the Employer Credit for Paid Family and Medical Leave. The form must be attached to the employer's tax return.
+
+The form consists of several sections with yes/no questions and spaces for entering information. Here is a summary of each section:
+
+Section A: The employer is asked if they have a written policy providing at least 2 weeks of annual paid family and medical leave for qualifying employees. If the answer is no, the form should not be filed, except for certain exceptions for partnerships or S corporations.
+
+Section B: The employer is asked if their written policy provides paid family and medical leave of at least 50% of the wages normally paid to a qualifying employee. If the answer is no, the form should not be filed, except for certain exceptions for partnerships or S corporations.
+
+Section C: The employer is asked if they paid family and medical leave to at least one qualifying employee during the tax year. If the answer is no, the form should not be filed, except for certain exceptions for partnerships or S corporations.
+
+Section D: If the employer had at least one qualifying employee not covered by the Family and Medical Leave Act, they are asked if they included non-interference language in their written policy and otherwise complied with it. If the answer is no, the form should not be filed, except for certain exceptions for partnerships or S corporations.
+
+Line 1: The employer must enter the total paid family and medical leave credit figured for wages paid during the tax year to qualifying employees while on family and medical leave. The instructions provide guidance on how to calculate this amount and the adjustment that needs to be made to the deduction for salaries and wages.
+
+Line 2: This line is specifically for partnerships and S corporations to report their employer credit for paid family and medical leave. The instructions provide further details.
+
+Line 3: The employer must add the amounts from lines 1 and 2. Partnerships and S corporations should report this amount on Schedule K, while all others should report it on Form 3800, Part III, line 4j.
+
+The form also includes a section for the Paperwork Reduction Act Notice, which provides additional information and instructions.
+
+Overall, Form 8994 is used by employers to claim the Employer Credit for Paid Family and Medical Leave and should be completed and attached to the employer's tax return if they meet the eligibility criteria outlined in the form and instructions.

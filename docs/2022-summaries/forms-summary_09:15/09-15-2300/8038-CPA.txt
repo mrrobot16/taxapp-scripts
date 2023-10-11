@@ -1,0 +1,9 @@
+Schedule A (Form 8038-CP) is a document provided by the Department of the Treasury and the Internal Revenue Service (IRS). It is used to compute the credit for specified tax credit bonds, specifically new clean renewable energy bonds (NCREBs), qualified energy conservation bonds (QECBs), qualified zone academy bonds (QZABs), and qualified school construction bonds (QSCBs).
+
+The form consists of two pages. On the first page, the issuer's name, employer identification number (EIN), interest payment date, and report number are to be filled in. There is a table that needs to be completed for each maturity of bonds outstanding, which includes the bond maturity date, interest payable on bond maturity, interest payable on bond maturity calculated using Form 8038-CP, and applicable credit rate. For NCREBs and QECBs, there are additional columns to multiply the calculated interest by 70% and to enter the smaller of the interest payable or the calculated interest. For QZABs and QSCBs, the smaller of the interest payable or the calculated interest is entered directly.
+
+There are lines to add up the amounts in the table and enter the total on Form 8038-CP. If there are additional maturities, a continuation table is provided on the second page, with the same columns as the first page.
+
+The form includes a reference to the IRS website for instructions and the latest information, as well as a notice regarding the Paperwork Reduction Act.
+
+Overall, Schedule A (Form 8038-CP) is a tool to help calculate the credit for specified tax credit bonds, taking into account the bond maturity date, interest payable, and applicable credit rate.

@@ -1,0 +1,11 @@
+Form 8889 is a document provided by the Internal Revenue Service (IRS) for individuals to report their contributions and distributions from Health Savings Accounts (HSAs). The form is to be attached to Form 1040, 1040-SR, or 1040-NR when filing taxes.
+
+The form is divided into three parts: Part I deals with HSA contributions and deductions, Part II covers HSA distributions, and Part III addresses income and additional tax for failure to maintain HDHP coverage.
+
+In Part I, individuals are required to indicate their coverage under a high-deductible health plan (HDHP) during the tax year and report their HSA contributions made for the year. Contributions made by the employer, through a cafeteria plan, or as rollovers are not included in this section.
+
+Part II focuses on HSA distributions. Individuals are asked to report the total distributions received from all HSAs, including any rollovers to another HSA and any excess contributions withdrawn by the tax return due date. Qualified medical expenses paid using HSA distributions are also reported.
+
+Part III addresses income and additional tax for failure to maintain HDHP coverage. It includes the last-month rule and qualified HSA funding distribution. The total income from these sources is calculated and included on Schedule 1 (Form 1040), Part I, line 8f. An additional tax of 10% of the total income is also calculated and included on Schedule 2 (Form 1040), Part II, line 17d.
+
+Form 8889 is an essential document for individuals who have HSAs and need to report their contributions and distributions accurately to the IRS. It is important to consult the instructions provided by the IRS for detailed guidance on completing the form correctly.

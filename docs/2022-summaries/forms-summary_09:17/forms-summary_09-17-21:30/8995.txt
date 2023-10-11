@@ -1,0 +1,15 @@
+Form 8995 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Qualified Business Income Deduction. This deduction is available to individuals who have qualified business income from a qualified trade or business, real estate investment trust dividends, publicly traded partnership income, or a domestic production activities deduction passed through from an agricultural or horticultural cooperative.
+
+The form is used by taxpayers whose taxable income, before the qualified business income deduction, is at or below $170,050 ($340,100 if married filing jointly) and who are not patrons of an agricultural or horticultural cooperative.
+
+The form consists of several sections where taxpayers are required to provide information regarding their trade or business, including the name, taxpayer identification number, and qualified business income or loss. The total qualified business income or loss is then calculated by combining the amounts from different sources.
+
+The form also includes sections for reporting qualified business net loss carryforward from the prior year, total qualified business income, and the qualified business income component. Similarly, there are sections for reporting qualified REIT dividends and publicly traded partnership income or loss, qualified REIT dividends and qualified PTP loss carryforward from the prior year, and the total qualified REIT dividends and PTP income.
+
+Taxpayers are required to calculate the REIT and PTP component, which is then used to determine the qualified business income deduction before the income limitation. The form also includes sections for reporting taxable income before the qualified business income deduction, net capital gain, and the resulting amount after subtracting net capital gain from taxable income.
+
+The income limitation is calculated by multiplying the amount on line 13 by 20% (0.20). Finally, taxpayers are required to enter the smaller of the qualified business income deduction or the income limitation on their tax return.
+
+The form also includes sections for reporting total qualified business loss carryforward and total qualified REIT dividends and PTP loss carryforward, although these sections are only applicable if the amounts are greater than zero.
+
+Taxpayers are advised to refer to the instructions provided on the IRS website for further guidance on completing Form 8995.

@@ -1,0 +1,12 @@
+Form 8082 is a notice and request form used by partners, S corporation shareholders, estate and domestic trust beneficiaries, foreign trust owners and beneficiaries, REMIC residual interest holders, TMPs, and PRs to address inconsistent treatment or request administrative adjustments related to their tax returns. The form is divided into three parts.
+
+Part I: General Information
+This section requires the taxpayer to provide their name, identifying number, and check the appropriate boxes to indicate whether they are submitting a notice of inconsistent treatment or an administrative adjustment request (AAR). For AARs, the taxpayer must specify whether it is a TEFRA AAR, ELPs/REMICs AAR, or BBA AAR. There are also questions regarding the revocation and appointment of a partnership representative, imputed underpayments, and elections under section 6227(b)(2) to consider.
+
+Part II: Inconsistent or Administrative Adjustment Request (AAR) Items
+In this section, the taxpayer must identify the type of pass-through entity they are associated with (TEFRA partnership, S corporation, estate, trust, REMIC, or BBA partnership). They must provide the employer identification number, name, address, and ZIP code of the pass-through entity, as well as the tax year of the entity and their own tax year. The taxpayer is then required to describe the inconsistent or AAR items, specify whether the inconsistency is in the treatment or the AAR is correcting the item, provide the amount of the item, and indicate the amount as shown on Schedule K-1, Schedule Q, or similar statement, a foreign trust statement, or their return. They must also report the difference between the amounts provided.
+
+Part III: Explanations
+In this section, the taxpayer is given space to provide explanations for each item listed in Part II. They are also instructed to show how the imputed underpayment was calculated and how modifications were applied if applicable.
+
+The form includes a reminder about the Paperwork Reduction Act Notice, which can be found in separate instructions.

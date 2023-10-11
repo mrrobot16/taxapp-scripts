@@ -1,0 +1,17 @@
+Form 965-E is a consent agreement form issued by the Department of the Treasury, Internal Revenue Service (IRS) in the United States. It is used by shareholders to request consent to make a section 965(h) election under the Internal Revenue Code. 
+
+The form consists of six parts:
+
+Part I: Shareholder Information - The shareholder provides their name, taxpayer identification number, address, and contact details.
+
+Part II: Identifying Information of the S Corporation - The shareholder provides the name and taxpayer identification number of the S Corporation for which the section 965(i) election was in effect.
+
+Part III: Triggering Event Under Section 965(i)(2)(A)(ii) Giving Rise to Need for Consent - The shareholder provides the date of the triggering event and a detailed description of the event that necessitates the consent to make a section 965(h) election.
+
+Part IV: Report of Unpaid Section 965(i) Net Tax Liability for Which Consent Is Requested - The shareholder enters the amount of the section 965(i) net tax liability remaining unpaid for which the section 965(h) election will be made. They also provide the date on which the next installment payment will be due.
+
+Part V: Shareholders Ability To Make Payments Required Under Section 965(h) - The shareholder indicates whether they are able to make the payments required under section 965(h) and if their leverage ratio exceeded 3:1 immediately after the triggering event. They can also provide additional information regarding their ability to pay.
+
+Part VI: Terms of Agreement - The shareholder agrees to comply with the conditions and requirements of section 965(h) and Regulations section 1.965-7(b). They also agree to provide additional information if requested by the Commissioner. The agreement may be rejected if it contains a material misrepresentation or omission.
+
+The form requires the shareholder's signature, date, printed name, title, email address, and daytime phone number. The shareholder must also certify, under penalties of perjury, that the form is true, correct, and complete.

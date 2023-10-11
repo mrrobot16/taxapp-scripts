@@ -1,0 +1,17 @@
+Form 8027 is an annual information return that employers in the United States use to report tip income and allocated tips. The form is issued by the Department of the Treasury, Internal Revenue Service (IRS). 
+
+The form requires employers to provide information about their establishment, including the name, address, and employer identification number. Employers must also indicate the type of establishment they operate, such as evening meals only, evening and other meals, meals other than evening meals, or alcoholic beverages.
+
+If the establishment accepts credit cards, debit cards, or other charges, the employer must complete certain sections of the form. This includes reporting the total charged tips for the calendar year and the total charge receipts showing charged tips.
+
+Employers must also report the total amount of service charges of less than 10% that were paid as wages to employees. Additionally, they must report the total tips reported by indirectly tipped employees and directly tipped employees. The form provides a worksheet to help employers determine potential unreported tips by their employees.
+
+The form also requires employers to report the gross receipts from food and beverages. They must then multiply the gross receipts by 8% or a lower rate granted by the IRS. If a lower rate is used, the employer must attach a copy of the IRS determination letter to the return.
+
+If the employer has allocated tips using a period other than the calendar year, they must mark an X on the form and enter the amount of allocated tips from their records.
+
+The form includes a section for the allocation of tips. If the amount calculated in the previous section is more than the total tips reported, the excess must be allocated as tips to tipped employees working in the establishment. The employer must indicate the method used for the allocation and provide the total number of directly tipped employees at the establishment during the year.
+
+The form must be signed by the employer, declaring that the information provided is true, correct, and complete. The form also includes a Privacy Act and Paperwork Reduction Act Notice.
+
+For detailed instructions and the latest information, employers are directed to visit the IRS website at www.irs.gov/Form8027.

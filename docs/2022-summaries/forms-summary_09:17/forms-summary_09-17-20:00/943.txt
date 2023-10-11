@@ -1,0 +1,1102 @@
+430122
+Form  943
+2022
+Employer’s Annual Federal Tax Return 
+for Agricultural Employees
+Department of the Treasury  
+Internal Revenue Service 
+Go to www.irs.gov/Form943 for instructions and the latest information.
+OMB No. 1545-0035
+Type         
+or            
+Print
+Name (as distinguished from trade name)
+Employer identification number (EIN)
+–
+Trade name, if any
+Address (number and street)
+City or town, state or province, country, and ZIP or foreign postal code
+If address is 
+different from 
+prior return, 
+check here  
+If you don’t have to file returns in the future, check here 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+Number of agricultural employees employed in the pay period that includes March 12, 2022 
+.
+.
+1 
+2 
+Wages subject to social security tax* .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+*Include taxable qualified 
+sick and family leave wages 
+paid in 2022 for leave taken 
+after March 31, 2021, and 
+before October 1, 2021, on 
+line 2. Use lines 2a and 2b 
+only for taxable qualified 
+sick and family leave wages 
+paid in 2022 for leave taken 
+after March 31, 2020, and 
+before April 1, 2021.
+a
+Qualified sick leave wages* .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b
+Qualified family leave wages* 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+3 
+Social security tax (multiply line 2 by 12.4% (0.124)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+a
+Social security tax on qualified sick leave wages (multiply line 2a by 6.2% (0.062)) .
+.
+.
+.
+.
+.
+3a
+b
+Social security tax on qualified family leave wages (multiply line 2b by 6.2% (0.062)) .
+.
+.
+.
+.
+3b
+4 
+Wages subject to Medicare tax  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Medicare tax (multiply line 4 by 2.9% (0.029)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6
+Wages subject to Additional Medicare Tax withholding .
+.
+.
+.
+.
+.
+6
+7
+Additional Medicare Tax withholding (multiply line 6 by 0.9% (0.009)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Federal income tax withheld 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Total taxes before adjustments. Add lines 3, 3a, 3b, 5, 7, and 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+9
+10
+Current year’s adjustments .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Total taxes after adjustments (line 9 as adjusted by line 10) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+11
+12a
+Qualified small business payroll tax credit for increasing research activities. Attach Form 8974 .
+.
+12a
+b Nonrefundable portion of credit for qualified sick and family leave wages for leave taken before 
+April 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12b
+c
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12c
+d Nonrefundable portion of credit for qualified sick and family leave wages for leave taken after 
+March 31, 2021, and before October 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12d
+e
+Nonrefundable portion of COBRA premium assistance credit .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12e
+f
+Number of individuals provided COBRA premium assistance 
+g
+Total nonrefundable credits. Add lines 12a, 12b, 12d, and 12e
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12g
+13
+Total taxes after adjustments and nonrefundable credits. Subtract line 12g from line 11 .
+.
+.
+.
+13
+You MUST complete all three pages of Form 943 and SIGN it.
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 11252K
+Form 943 (2022) 
+430222
+Form 943 (2022) 
+Page  2 
+14a
+Total deposits for 2022, including overpayment applied from a prior year and Form 943-X .
+.
+.
+14a
+b
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14b
+c
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14c
+d Refundable portion of credit for qualified sick and family leave wages for leave taken before
+April 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14d
+e
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14e
+f 
+Refundable portion of credit for qualified sick and family leave wages for leave taken after 
+March 31, 2021, and before October 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14f
+g
+Refundable portion of COBRA premium assistance credit .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14g
+h
+Total deposits and refundable credits. Add lines 14a, 14d, 14f, and 14g 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14h
+i
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14i
+j
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14j
+15
+Balance due. If line 13 is more than line 14h, enter the difference and see the instructions .
+.
+.
+15
+16
+Overpayment. If line 14h is more than line 13, enter the difference .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+Check one:
+Apply to next return.
+Send a refund.
+• All filers: If line 13 is less than $2,500, don’t complete line 17 or Form 943-A.
+• Semiweekly schedule depositors: Complete Form 943-A and check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+• Monthly schedule depositors: Complete line 17 and check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+Monthly Summary of Federal Tax Liability. (Don’t complete if you were a semiweekly schedule depositor.)
+Tax liability for month
+A January .
+.
+.
+B February .
+.
+.
+C March 
+.
+.
+.
+D April .
+.
+.
+.
+E May .
+.
+.
+.
+Tax liability for month
+F June .
+.
+.
+.
+G July 
+.
+.
+.
+.
+H August 
+.
+.
+.
+I September .
+.
+J October .
+.
+.
+Tax liability for month
+K November .
+.
+L December .
+.
+M 
+ 
+ 
+Total liability 
+for year 
+(add lines A   
+through L) .
+.  
+18 
+Qualified health plan expenses allocable to qualified sick leave wages for leave taken before 
+April 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19 
+Qualified health plan expenses allocable to qualified family leave wages for leave taken before 
+April 1, 2021 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+20
+21
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+21
+You MUST complete all three pages of Form 943 and SIGN it.
+Form 943 (2022) 
+430322
+Form 943 (2022) 
+Page  3 
+22
+Qualified sick leave wages for leave taken after March 31, 2021, and before October 1, 2021 .
+.
+22
+23
+Qualified health plan expenses allocable to qualified sick leave wages reported on line 22 .
+.
+.
+23
+24 
+Amounts under certain collectively bargained agreements allocable to qualified sick leave wages 
+reported on line 22 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+25
+Qualified family leave wages for leave taken after March 31, 2021, and before October 1, 2021 
+.
+25
+26
+Qualified health plan expenses allocable to qualified family leave wages reported on line 25 
+.
+.
+26
+27 
+Amounts under certain collectively bargained agreements allocable to qualified family leave wages 
+reported on line 25 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27
+28
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28
+29
+Reserved for future use
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29
+Third- 
+Party  
+Designee
+Do you want to allow another person to discuss this return with the IRS? See the separate instructions.
+Yes. Complete the following.
+No.
+Designee’s 
+name 
+Phone 
+no. 
+Personal identification 
+number (PIN) 
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of 
+my knowledge and belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which 
+preparer has any knowledge.
+Signature 
+Date
+Print your name and title
+Paid 
+Preparer  
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed
+PTIN
+Firm’s name 
+Firm’s address 
+Firm’s EIN 
+Phone no.
+Form 943 (2022) 
+430621
+This page intentionally left blank
+Form 943-V,  
+Payment Voucher
+Purpose of Form
+Complete Form 943-V if you’re making a payment with 
+Form 943. We will use the completed voucher to credit 
+your payment more promptly and accurately, and to 
+improve our service to you.
+Making Payments With Form 943
+To avoid a penalty, make your payment with your 2022 
+Form 943 only if:
+• Your total taxes after adjustments and nonrefundable 
+credits for the year (Form 943, line 13) are less than 
+$2,500 and you’re paying in full with a timely filed return, 
+or
+• You’re a monthly schedule depositor making a payment 
+in accordance with the Accuracy of Deposits Rule. See 
+section 7 of Pub. 51 for details. In this case, the amount 
+of your payment may be $2,500 or more.
+Otherwise, you must make deposits by electronic funds 
+transfer. See section 7 of Pub. 51 for deposit instructions. 
+Don’t use Form 943-V to make federal tax deposits.
+▲
+!
+CAUTION
+Use Form 943-V when making any payment with 
+Form 943. However, if you pay an amount with 
+Form 943 that should’ve been deposited, you may  
+be subject to a penalty. See Deposit Penalties in section 7 
+of Pub. 51.
+Specific Instructions
+Box 1—Employer identification number (EIN). If you 
+don’t have an EIN, you may apply for one online by 
+visiting the IRS website at www.irs.gov/EIN. You may also 
+apply for an EIN by faxing or mailing Form SS-4 to the 
+IRS. If you haven’t received your EIN by the due date of 
+Form 943, write “Applied For” and the date you applied in 
+this entry space.
+Box 2—Amount paid. Enter the amount paid with     
+Form 943.
+Box 3—Name and address. Enter your name and 
+address as shown on Form 943.
+• Enclose your check or money order made payable to 
+“United States Treasury.” Be sure to enter your EIN, 
+“Form 943,” and “2022” on your check or money order. 
+Don’t send cash. Don’t staple Form 943-V or your 
+payment to Form 943 (or to each other).
+• Detach Form 943-V and send it with your payment and 
+Form 943 to the address provided in the Instructions for 
+Form 943.
+Note: You must also complete the entity information 
+above line 1 on Form 943.
+Detach Here and Mail With Your Payment and Form 943. 
+Form  943-V
+Department of the Treasury  
+Internal Revenue Service 
+Payment Voucher
+Don’t staple this voucher or your payment to Form 943.
+OMB No. 1545-0035
+2022
+1   Enter your employer identification number (EIN).
+–
+2 Enter the amount of your payment .
+.
+.
+.
+Make your check or money order payable to “United States Treasury”
+Dollars
+Cents
+3 Enter your business name (individual name if sole proprietor).
+Enter your address.
+Enter your city or town, state or province, country, and ZIP or foreign postal code.

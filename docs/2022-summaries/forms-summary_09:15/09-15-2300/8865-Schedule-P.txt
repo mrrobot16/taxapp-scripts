@@ -1,0 +1,15 @@
+Schedule P (Form 8865) is a document provided by the Department of the Treasury and the Internal Revenue Service for reporting acquisitions, dispositions, and changes of interests in a foreign partnership under Section 6046A. This schedule should be attached to Form 8865 and the instructions for Form 8865 can be found on the IRS website.
+
+The form consists of four parts:
+
+Part I: Acquisitions - This section requires the filer to provide the name, address, and identification number of the person from whom their interest in the foreign partnership was acquired, along with the date of acquisition, fair market value (FMV) of the interest acquired, basis in the interest acquired, and the percentage of interest before and after the acquisition.
+
+Part II: Dispositions - Here, the filer needs to provide the name, address, and identification number of the person who acquired their interest in the foreign partnership, along with the date of disposition, FMV of the interest disposed, basis in the interest disposed, and the percentage of interest before and after the disposition.
+
+Part III: Change in Proportional Interest - This section requires a description of the change in proportional interest, the date of the change, FMV of the interest, basis in the interest, and the percentage of interest before and after the change.
+
+Part IV: Supplemental Information Required To Be Reported - This part is for providing any additional information that is required to be reported, as specified in the instructions.
+
+The document also includes a reference ID number, and the filer's name, identification number, and the name of the foreign partnership. The EIN (Employer Identification Number) of the foreign partnership should be provided if available.
+
+The form includes a Paperwork Reduction Act Notice, and the latest version of the form is dated December 2019.

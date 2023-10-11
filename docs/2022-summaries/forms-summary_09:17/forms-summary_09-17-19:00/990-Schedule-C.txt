@@ -1,0 +1,21 @@
+This document is Schedule C (Form 990) issued by the Department of the Treasury Internal Revenue Service for organizations exempt from income tax under section 501(c) and section 527. It is to be completed and attached to Form 990 or Form 990-EZ.
+
+The document provides instructions for completing different parts of Schedule C based on the organization's activities. 
+
+Part I-A is to be completed by organizations exempt under section 501(c) or section 527 and requires a description of the organization's direct and indirect political campaign activities, as well as information on political campaign activity expenditures and volunteer hours.
+
+Part I-B is to be completed by organizations exempt under section 501(c)(3) and requires information on any excise tax incurred by the organization or organization managers under section 4955. It also asks if the organization filed Form 4720 for this year and if any corrections were made.
+
+Part I-C is to be completed by organizations exempt under section 501(c), except section 501(c)(3), and requires information on expenditures for section 527 exempt function activities and funds contributed to other organizations for section 527 exempt function activities. It also asks if the organization filed Form 1120-POL for this year.
+
+Part II-A is to be completed by organizations exempt under section 501(c)(3) and filed Form 5768 (election under section 501(h)). It includes information on lobbying expenditures and a check to indicate if the organization belongs to an affiliated group.
+
+Part II-B is to be completed by organizations exempt under section 501(c)(3) and have not filed Form 5768. It asks about lobbying activities and whether they caused the organization to be not described in section 501(c)(3). It also asks about any taxes incurred under section 4912 and if Form 4720 was filed.
+
+Part III-A is to be completed by organizations exempt under section 501(c)(4), section 501(c)(5), or section 501(c)(6). It asks about dues received and in-house lobbying expenditures.
+
+Part III-B is to be completed if certain conditions are met in Part III-A and asks for information on dues, assessments, and similar amounts from members, nondeductible lobbying and political expenditures, and the taxable amount of lobbying and political expenditures.
+
+Part IV is for supplemental information and requires descriptions for various parts of the form.
+
+Overall, this document provides instructions and guidance for organizations to report their political campaign and lobbying activities to the IRS.

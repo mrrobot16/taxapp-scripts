@@ -1,0 +1,15 @@
+Form 8962 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Premium Tax Credit (PTC) and reconcile any advance payments of the credit.
+
+The form is divided into several parts:
+
+Part I: Annual and Monthly Contribution Amount - This section requires the taxpayer to enter their tax family size, modified adjusted gross income (AGI), total dependents' modified AGI, household income, and the federal poverty line amount.
+
+Part II: Premium Tax Credit Claim and Reconciliation of Advance Payment of Premium Tax Credit - This section determines whether the taxpayer needs to allocate policy amounts with another taxpayer or use the alternative calculation for the year of marriage. It also calculates the annual and monthly premium tax credit allowed based on enrollment premiums, applicable premium, and contribution amounts.
+
+Part III: Repayment of Excess Advance Payment of the Premium Tax Credit - If the advance payment of the premium tax credit exceeds the allowed credit, this section calculates the excess amount and any repayment limitations.
+
+Part IV: Allocation of Policy Amounts - If the taxpayer needs to allocate policy amounts with another taxpayer, this section allows them to provide details for up to four policy amount allocations, including policy number, allocation start and stop months, and allocation percentages.
+
+Part V: Alternative Calculation for Year of Marriage - If eligible, the taxpayer can elect to use an alternative calculation for the year of marriage by providing alternative family size, monthly contribution amount, start and stop months for their own and their spouse's Social Security Number.
+
+Overall, Form 8962 is used to calculate and reconcile the Premium Tax Credit and any advance payments received. It requires taxpayers to provide various income and policy information to determine the appropriate credit amount and potential repayment obligations.

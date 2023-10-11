@@ -1,0 +1,19 @@
+Form 1118 is a document used by corporations to claim the foreign tax credit. The form is divided into several schedules, each addressing different aspects of the foreign tax credit calculation.
+
+Schedule A is used to report income or loss before adjustments from sources outside the United States. It includes categories such as gross income, dividends, interest, rents, royalties, and other income.
+
+Schedule B is used to report the foreign taxes paid, accrued, and deemed paid. It includes information on the type of taxes, dates paid or accrued, and amounts in foreign currency.
+
+Schedule C is used to report the tax deemed paid with respect to section 951(a)(1) inclusions by a domestic corporation filing a return. It includes information on the foreign corporation's name, tax year end, country of incorporation, and functional currency.
+
+Schedule D is used to report the tax deemed paid with respect to section 951A income by a domestic corporation filing a return. It includes information on the foreign corporation's name, tax year end, country of incorporation, and functional currency.
+
+Schedule E is used to report the tax deemed paid with respect to previously taxed earnings and profits (PTEP) by a domestic corporation filing a return. It includes information on the distributing foreign corporation's name, tax year end, country of incorporation, and functional currency.
+
+Schedule F is reserved for future use.
+
+Schedule G is used to report reductions of taxes paid, accrued, or deemed paid. It includes information on reductions under various sections of the tax code.
+
+Schedule H is used to apportion certain deductions among different categories of income. It includes sections for research and experimental deductions, deductions allocated and apportioned based on assets, and other deductions.
+
+Overall, Form 1118 is a comprehensive document that allows corporations to calculate and claim the foreign tax credit. It requires detailed information on income, taxes, and deductions related to foreign operations.

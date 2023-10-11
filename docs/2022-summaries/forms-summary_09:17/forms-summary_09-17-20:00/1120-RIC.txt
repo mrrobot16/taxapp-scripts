@@ -1,0 +1,2014 @@
+Form 1120-RIC
+Department of the Treasury  
+Internal Revenue Service 
+U.S. Income Tax Return for 
+Regulated Investment Companies
+For calendar year 2022 or tax year beginning
+, 2022, and ending
+, 20
+Go to www.irs.gov/Form1120RIC for instructions and the latest information.
+OMB No. 1545-0123
+2022
+Please  
+type or 
+print
+Name of fund
+Number, street, and room or suite no. (If a P.O. box, see instructions.)
+City or town, state, and ZIP code
+A     Year of RIC status 
+election
+B     Date fund was established 
+(see instructions)
+C  Employer identification number
+D  Total assets (see instructions)
+$ 
+E 
+Check applicable boxes:
+(1) 
+Final return
+(2) 
+Name change
+(3) 
+Address change
+(4) 
+Amended return
+F 
+Check if the fund is a personal holding company (attach Sch. PH) or if the fund is not in compliance with Regs. sec. 1.852-6 for this tax year  
+Part I—Investment Company Taxable Income (see instructions)
+Income
+1 
+Dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Net foreign currency gain or (loss) from section 988 transactions (attach statement) .
+.
+.
+.
+.
+.
+.
+3 
+4 
+Payments with respect to securities loans .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Excess of net short-term capital gain over net long-term capital loss from Schedule D (Form 1120), line 
+16 (attach Schedule D (Form 1120)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Net gain or (loss) from Form 4797, Part II, line 17 (attach Form 4797) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Other income (see instructions—attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Total income. Add lines 1 through 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Deductions (see instructions)
+9 
+Compensation of officers (see instructions—attach Form 1125-E) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Salaries and wages (less employment credits) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Rents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Taxes and licenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Interest (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Depreciation (attach Form 4562) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Advertising 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Registration fees 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Insurance .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Accounting and legal services 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Management and investment advisory fees 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+Transfer agency, shareholder servicing, and custodian fees and expenses 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+21 
+Reports to shareholders 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+22 
+Other deductions (see instructions—attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+23 
+Total deductions. Add lines 9 through 22 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+24 
+Taxable income before deduction for dividends paid and deductions under sections 851(d)(2) and 851(i). 
+Subtract line 23 from line 8 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+25 
+Less: a
+Deduction for dividends paid (Schedule A, line 8a) 
+.
+.
+.
+.
+.
+ 
+25a 
+b
+Deductions for tax imposed under sections 851(d)(2) and 851(i) 
+(Schedule J, line 2c) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25b
+25c
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true, 
+correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature of officer
+Date
+Title
+May the IRS discuss this return 
+with the preparer shown below? 
+See instructions.
+Yes
+ No 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name     
+Firm’s address 
+Firm’s EIN 
+Phone no. 
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 64140B
+Form 1120-RIC (2022)
+Form 1120-RIC (2022)
+Page 2 
+Part I—Investment Company Taxable Income (see instructions) (continued)
+Tax and Payments
+26 
+Investment company taxable income. Subtract line 25c from line 24 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26 
+27 
+Total tax. (Schedule J, line 8) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27 
+28
+Reserved for future use.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28
+29a
+2021 overpayment credited to 2022  
+.
+.
+.
+.
+29a
+b 
+2022 estimated tax payments 
+.
+.
+.
+.
+.
+.
+29b
+c 
+Less 2022 refund applied for on Form 4466 .
+.
+29c (                            ) dBal 29d
+e 
+Tax deposited with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29e
+f 
+Credit for tax paid on undistributed capital gains (attach Form 2439) 
+.
+.
+.
+29f
+g 
+Credit for federal tax paid on fuels (attach Form 4136) .
+.
+.
+.
+.
+.
+.
+.
+29g
+h 
+Reserved for future use 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29h
+i
+Reserved for future use 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29i
+29j
+30
+Estimated tax penalty (see instructions). Check if Form 2220 is attached  .
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+30
+31 
+Amount owed. If line 29j is smaller than the total of lines 27 and 30, enter amount owed .
+.
+.
+.
+.
+31 
+32 
+Overpayment. If line 29j is larger than the total of lines 27 and 30, enter amount overpaid .
+.
+.
+.
+.
+32
+33
+Enter amount from line 32: Credited to 2023 estimated tax .
+.
+.
+Refunded .  
+33
+Part II—Tax on Undistributed Net Capital Gain Not Designated Under Section 852(b)(3)(D)
+1
+Net capital gain from Schedule D (Form 1120), line 17 (attach Schedule D (Form 1120)) .
+.
+.
+.
+.
+.
+.
+1
+2
+Capital gain dividends from Schedule A, line 8b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Subtract line 2 from line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Capital gains tax. Multiply line 3 by 21% (0.21). Enter tax here and on line 2b, Schedule J 
+.
+.
+.
+.
+.
+4
+Schedule A
+Deduction for Dividends Paid (Do not include exempt-interest dividends or capital gain dividends 
+reported on Form 2438, line 9b. See instructions.) 
+1
+Dividends paid (other than dividends paid after the end of the tax year). Do  not include 
+dividends deemed paid in the preceding tax year under section  852(b)(7) or 855(a), or 
+deficiency dividends as defined in section 860(f) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(a) Ordinary dividends
+(b) Capital gain 
+dividends
+1
+2
+Dividends paid in the 12-month period following the close of the tax year that the fund 
+elects to treat as paid during the tax year under section 855(a) 
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Dividends declared in October, November, or December and deemed paid on December 
+31 under section 852(b)(7) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Consent dividends (section 565) (attach Forms 972 and 973) .
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Deficiency dividends (section 860) (attach Form 976) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Foreign tax paid deduction (section 853(b)(1)(B)), if applicable .
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Credits from tax credit bonds distributed to shareholders (see instructions)   .
+.
+.
+.
+7
+8
+Deduction for dividends paid:
+a
+Ordinary dividends. Add lines 1 through 7 of column (a). Enter here and on line 25a, Part I
+8a
+b
+Capital gain dividends. Add lines 1 through 5 of column (b). Enter here and on line 2, 
+Part II, above .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8b
+Schedule B
+Information Required With Respect to Income From Tax-Exempt Obligations
+1
+Did the fund qualify under section 852(b)(5) or 852(g) to pay exempt-interest dividends for 2022? 
+.
+.
+.
+.
+Yes
+No
+If “Yes,” complete lines 2 through 5.
+2
+Amount of interest excludable from gross income under section 103(a) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Amounts disallowed as deductions under sections 265 and 171(a)(2) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Net income from tax-exempt obligations. Subtract line 3 from line 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Amount of line 4 designated as exempt-interest dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Schedule J
+Tax Computation (see instructions)
+1
+Check if the fund is a member of a controlled group (attach Schedule O (Form 1120)) 
+.
+.
+.
+.
+.
+.
+ 
+2a
+Tax on investment company taxable income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b
+Tax on undistributed net capital gain (from Part II, line 4) 
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c
+Tax imposed under sections
+851(d)(2)
+ and
+851(i)
+.
+.
+.
+.
+.
+.
+2c
+d
+Income tax. Add lines 2a through 2c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2d
+3a
+Foreign tax credit (attach Form 1118) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b
+Credit from Form 8834, line 7 (attach Form 8834) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+c
+General business credit (attach Form 3800) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c
+d
+Other credits (attach statement—see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3d
+e
+Total credits. Add lines 3a through 3d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3e
+4
+Subtract line 3e from line 2d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Form 1120-RIC (2022)
+Form 1120-RIC (2022)
+Page 3 
+Schedule J
+Tax Computation (see instructions) (continued)
+5
+Personal holding company tax (attach Schedule PH (Form 1120)) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Interest on deferred tax liability for installment obligations under sections: 
+453A(c) and/or
+453(l)(3) 
+6
+7
+Other taxes. Check if from:
+Form 4255
+Other (attach statement) .
+.
+.
+.
+.
+.
+7
+8
+Total tax. Add lines 4 through 7. Enter here and on line 27 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+Schedule K
+Other Information (see instructions)
+Yes No
+1
+Check method of accounting:
+a
+Cash
+b
+Accrual
+c
+Other (specify): 
+2
+At the end of the tax year, did the RIC own, directly or indirectly, 50% or more of the voting stock of a domestic corporation? .
+.
+(For rules of attribution, see section 267(c).)
+If “Yes,” attach a statement showing (a) name and identification number, (b) percentage owned, and (c) taxable income or (loss) 
+before a net operating loss (NOL) and special deductions of such corporation for the tax year ending with or within your  tax year. 
+3
+Is the RIC a subsidiary in a parent-subsidiary controlled group? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter the employer identification number and the name of the parent corporation: 
+4 
+At the end of the tax year, did any individual, partnership, corporation, estate, or trust own, directly or indirectly, 50% or 
+more of the RIC’s voting stock? (For rules of attribution, see section 267(c).) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach a statement showing name and identification number. (Do not include any information already entered in 3 
+above.) Enter percentage owned:  
+5
+At any time during the tax year, did one foreign person own, directly or indirectly, at least 25% of:
+a
+The total voting power of all classes of stock of the fund entitled to vote, or
+b
+The total value of all classes of stock of the fund? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter:
+(1) Percentage owned: 
+(2) Owner’s country:  
+The fund may have to file Form 5472. Enter number of Forms 5472 attached:  
+6 
+During this tax year, did the fund pay dividends (other than stock dividends and distributions in exchange for stock) in excess 
+of the fund’s current and accumulated earnings and profits? (see sections 301 and 316) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+If “Yes,” file Form 5452.
+7
+Check this box if the fund issued publicly offered debt instruments with original issue discount  .
+.
+.
+.
+.
+.
+.
+.
+If checked, the fund may have to file Form 8281.
+8
+Enter the amount of tax-exempt interest received or accrued during the tax year.  
+$
+9
+If this return is being filed for a series fund (as defined in section 851(g)(2)), enter:
+a
+The name of the regulated investment company in which the fund is a series: 
+b
+The date the regulated investment company was incorporated or organized:
+10a
+Section 853 election. Check this box if the fund meets the requirements of section 853(a) and section 901(k) and elects 
+to pass through the deduction or credit for foreign taxes it paid to its shareholders. See the instructions for additional 
+details and requirements  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Section 852(g) election. Check this box if the fund meets the requirements of section 852(g) and elects the application 
+of section 853 without regards to the requirement of section 853(a)(1). See the instructions for additional details and 
+requirements .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+Section 853A election. Check this box if the fund elects under section 853A to pass through credits from tax credit 
+bonds to its shareholders. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+Section 852(b)(8) election. Check this box if, for purposes of computing taxable income, the fund elects under section 
+852(b)(8) to defer all or part of its post-October capital loss or late-year ordinary loss for this tax year 
+.
+.
+.
+.
+.
+.
+If the election is made, enter the amounts deferred:
+a
+Post-October capital loss:
+b
+Late-year ordinary loss: 
+13 
+Did the RIC have an election under section 163(j) for any real property trade or business or any farming business in effect 
+during the tax year (see instructions)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+Does the RIC satisfy one or more of the following (see instructions)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+a
+The RIC owns a pass-through entity with current or prior year carryover excess business interest expense.
+b
+The RIC’s aggregate average annual gross receipts (determined under section 448(c)) for the 3 tax years preceding the 
+current tax year are more than $27 million and the corporation has business interest expense.
+c
+The RIC is a tax shelter and the RIC has business interest expense.
+d
+The RIC paid section 163(j) interest dividends for the tax year.
+If “Yes” to any, complete and attach Form 8990.
+15
+Is the RIC attaching Form 8996 to certify as a Qualified Opportunity Fund? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter amount from Form 8996, line 15 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form 1120-RIC (2022)
+Form 1120-RIC (2022)
+Page 4 
+Schedule L
+Balance Sheets per Books
+Beginning of tax year
+End of tax year
+(                              ) 
+(                                 ) 
+(                              ) 
+(                                 ) 
+(                              ) 
+(                                 ) 
+(                                 ) 
+(                                 ) 
+Assets
+(a)
+(b)
+(c)
+(d)
+1
+Cash
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. 
+2a
+Trade notes and accounts receivable 
+.
+.
+b
+Less allowance for bad debts .
+.
+.
+.
+.
+3
+U.S. government obligations .
+.
+.
+.
+.
+4
+Tax-exempt securities (see instructions) 
+.
+5
+Other current assets (attach statement) .
+.
+6
+Loans to shareholders .
+.
+.
+.
+.
+.
+.
+7
+Mortgage and real estate loans 
+.
+.
+.
+.
+8
+Other investments (attach statement) 
+.
+.
+9a
+Buildings and other fixed depreciable assets .
+b
+Less accumulated depreciation .
+.
+.
+.
+10
+Land (net of any amortization) .
+.
+.
+.
+.
+11a
+Intangible assets (amortizable only) .
+.
+.
+b
+Less accumulated amortization .
+.
+.
+.
+12
+Other assets (attach statement) .
+.
+.
+.
+13 
+Total assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Liabilities and Shareholders’ Equity
+14 
+Accounts payable 
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+Mortgages, notes, bonds payable in less than 1 year
+16 
+Other current liabilities (attach statement)
+.
+17 
+Loans from shareholders .
+.
+.
+.
+.
+.
+18 
+Mortgages, notes, bonds payable in 1 year or more
+19 
+Other liabilities (attach statement) 
+.
+.
+.
+20 
+Capital stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+Additional paid-in capital .
+.
+.
+.
+.
+.
+22 
+Retained earnings—Appropriated (attach statement)
+23 
+Retained earnings—Unappropriated 
+.
+.
+24 
+Adjustments to shareholders’ equity (attach statement)
+25 
+Less cost of treasury stock 
+.
+.
+.
+.
+.
+26 
+Total liabilities and shareholders’ equity .
+.
+Note: The fund is not required to complete Schedules M-1 and M-2 if the total assets on Schedule L, line 13, column (d), are less than $25,000.
+Schedule M-1
+Reconciliation of Income (Loss) per Books With Income per Return (see instructions)
+1
+Net income (loss) per books .
+.
+.
+.
+.
+2
+Federal income tax (less built-in gains tax)
+3
+Excess of capital losses over capital gain
+4 
+Income subject to tax not recorded on 
+books this year (itemize):
+5 
+Expenses recorded on books this year not 
+deducted on this return (itemize):
+a
+Depreciation .
+.
+.
+$
+b 
+Expenses allocable to tax-exempt interest 
+income .
+.
+.
+.
+.
+$
+c
+Section 4982 tax .
+.
+$
+d
+Travel and entertainment
+$
+6
+Add lines 1 through 5 
+.
+.
+.
+.
+.
+.
+.
+7
+Income recorded on books this year
+not included on this return (itemize):
+Tax-exempt interest 
+$
+8
+Deductions on this return not charged 
+against book income this year (itemized):
+a
+Depreciation 
+.
+.
+$
+b
+Deduction for dividends paid (line 
+25a, Part I)
+.
+.
+.
+$
+9
+Net capital gain from Form 2438, line 9a
+10
+If the fund did not file Form 2438, enter 
+the net capital gain from Schedule D 
+(Form 1120), line 17. Otherwise, enter -0-
+11
+Add lines 7 through 10 
+.
+.
+.
+. 
+12
+Investment company taxable income 
+(line 26, Part I)—line 6 less line 11 
+.
+Schedule M-2
+Analysis of Unappropriated Retained Earnings per Books (Schedule L, line 23)
+1
+Balance at beginning of year .
+.
+.
+.
+2
+Net income (loss) per books
+.
+.
+.
+.
+3
+Other increases (itemize):
+4
+Add lines 1, 2, and 3.
+.
+.
+.
+.
+.
+.
+5
+Distributions: 
+a Cash .
+.
+.
+.
+b Stock .
+.
+.
+.
+c Property .
+.
+.
+6
+Other decreases (itemize):
+7
+Add lines 5 and 6
+.
+.
+.
+.
+.
+.
+8
+Balance at end of year (line 4 less line 7)
+Form 1120-RIC (2022)

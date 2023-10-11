@@ -1,0 +1,17 @@
+Schedule Q (Form 5471) is a document provided by the Department of the Treasury and the Internal Revenue Service (IRS) for taxpayers to report CFC (Controlled Foreign Corporation) income by CFC income groups. This schedule is to be attached to Form 5471.
+
+The form requires the taxpayer to enter their name, identifying number, name of the foreign corporation, and EIN (if applicable). They also need to provide a reference ID number.
+
+The taxpayer is instructed to complete a separate Schedule Q for each applicable category of income. They are required to enter a category code and, if applicable, a grouping code or a country code for sanctioned countries.
+
+The form also provides options for reporting U.S. source income or foreign source income, as well as FOGEI or FORI income. The taxpayer is instructed to check the appropriate box if completing the form for FOGEI or FORI income.
+
+The main section of the form includes tables for reporting income, expenses, taxes, and other relevant information for various subpart F income groups, including dividends, interest, rents, royalties, and annuities; net gain from certain property transactions; net gain from commodities transactions; net foreign currency gain; income equivalent to interest; and other income.
+
+There are additional sections for reporting foreign base company sales income, foreign base company services income, full inclusion foreign base company income, insurance income, international boycott income, bribes, kickbacks, and other payments, section 901(j) income, recaptured subpart F income, tested income group, residual income group, and total income.
+
+Each section requires the taxpayer to enter the gross income, definitely related expenses, related person interest expense, other interest expense, research and experimental expenses, other expenses, current year taxes, net income, foreign taxes for which credit is allowed, average asset value, high tax election, loss allocation, and net income after loss allocation.
+
+The form also includes instructions for using a computer-generated Schedule Q.
+
+Overall, Schedule Q (Form 5471) is a detailed form that taxpayers need to complete to report CFC income by CFC income groups to the IRS.

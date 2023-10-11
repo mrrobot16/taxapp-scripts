@@ -1,0 +1,21 @@
+Form 8949 is a document provided by the Internal Revenue Service (IRS) in the United States for reporting sales and other dispositions of capital assets. It is used in conjunction with Schedule D to list transactions for lines 1b, 2, 3, 8b, 9, and 10 of Schedule D.
+
+The form consists of two parts: Part I for short-term transactions (assets held for 1 year or less) and Part II for long-term transactions (assets held for more than 1 year).
+
+Before completing the form, taxpayers are advised to check whether they have received any Form 1099-B or substitute statements from their brokers. These forms provide information on the basis (usually the cost) of the assets and can help determine which box to check on Form 8949.
+
+In Part I, taxpayers must check Box A, B, or C to indicate the type of short-term transactions they are reporting. Box A is for transactions where the basis was reported to the IRS, Box B is for transactions where the basis was not reported, and Box C is for transactions not reported on Form 1099-B.
+
+The form requires taxpayers to provide details of each transaction, including a description of the property, the date acquired and sold, proceeds (sales price), cost or other basis, adjustments to gain or loss, and the resulting gain or loss.
+
+For short-term transactions where the basis was reported to the IRS and no adjustments or codes are required, taxpayers can aggregate the totals and report them directly on Schedule D, line 1a.
+
+In Part II, taxpayers follow a similar process for long-term transactions. They must check Box D, E, or F to indicate the type of transactions they are reporting. Box D is for transactions where the basis was reported to the IRS, Box E is for transactions where the basis was not reported, and Box F is for transactions not reported on Form 1099-B.
+
+Again, taxpayers provide details of each transaction, calculate adjustments to gain or loss, and determine the resulting gain or loss.
+
+For long-term transactions where the basis was reported to the IRS and no adjustments or codes are required, taxpayers can aggregate the totals and report them directly on Schedule D, line 8a.
+
+If the basis reported to the IRS is incorrect, taxpayers can make adjustments on the form by entering the correct basis in column (e) and an adjustment in column (g).
+
+The completed Form 8949 is then included with the taxpayer's tax return.

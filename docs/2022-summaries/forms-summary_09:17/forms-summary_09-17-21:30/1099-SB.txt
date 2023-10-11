@@ -1,0 +1,11 @@
+This document is a Form 1099-SB, which is used to report the sale or transfer of a life insurance contract. The form is divided into three copies: Copy A is to be filed with the Internal Revenue Service (IRS), Copy B is for the seller, and Copy C is for the issuer.
+
+The form requires the issuer to provide their name, address, and telephone number, as well as their taxpayer identification number (TIN). The seller's TIN, name, address, and policy number are also required. 
+
+The form includes two boxes for reporting information. Box 1 is for reporting the issuer's estimate of the seller's investment in the contract, and Box 2 is for reporting the surrender amount that the seller would have received upon surrendering the life insurance contract.
+
+The form also includes instructions for the seller and the issuer. The seller is instructed that they may receive a form if their life insurance contract is transferred in a reportable policy sale or transferred to a foreign person. The issuer is instructed to use the current General Instructions for Certain Information Returns and the current Instructions for Form 1099-SB to complete the form.
+
+The document provides contact information for the issuer and directs the seller to contact the issuer if they have any questions about the form.
+
+The document also includes information on how to file and furnish the form, including electronic filing options. It provides a phone number for information reporting customer service for assistance with reporting on Form 1099-SB.

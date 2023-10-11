@@ -1,0 +1,15 @@
+Form 1065-X is a document provided by the Internal Revenue Service (IRS) for partnerships and electing large partnerships (ELPs) to file an amended return or administrative adjustment request (AAR). It is used by filers of Forms 1065, 1065-B, and 1066. The form includes various sections and parts that need to be completed depending on the type of partnership and the tax year.
+
+Part I of the form requires the filer to provide general information such as the name, employer identification number (EIN), address, and telephone number. It also asks for the number of Schedules K-1 or Schedules Q being filed with the return.
+
+Part II is for partnerships filing Form 1065 only and includes sections for reporting amended or AAR items related to income (loss), self-employment deductions, credits, foreign transactions, alternative minimum tax (AMT) items, and other information.
+
+Part III is specifically for ELPs and REMICs (real estate mortgage investment conduits) and includes sections for reporting amended or AAR items related to tax and payments.
+
+Part IV is for reporting the imputed underpayment under the Centralized Partnership Audit Regime.
+
+Part V is for providing explanations for the changes made in the amended return or AAR, including the line numbers, reasons for the changes, and any computations or calculations.
+
+The form includes spaces for the signature of the current partnership representative or designated individual, as well as the preparer's information if applicable.
+
+Overall, Form 1065-X is used by partnerships and ELPs to correct errors or make adjustments to their original tax return, providing detailed information on the changes made.

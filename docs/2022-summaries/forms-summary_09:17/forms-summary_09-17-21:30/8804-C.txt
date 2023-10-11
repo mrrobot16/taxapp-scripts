@@ -1,0 +1,13 @@
+This document is a form titled "Certificate of Partner-Level Items to Reduce Section 1446 Withholding" (Form 8804-C) issued by the Department of the Treasury, Internal Revenue Service (IRS). The purpose of the form is to provide certification of deductions and losses that foreign partners in a partnership can use to reduce their withholding tax liability under Section 1446 of the Internal Revenue Code.
+
+The form requires the foreign partner to provide their taxpayer identification number, name, address, and other relevant information. It also includes sections for partner and partnership information, as well as representations and certifications by the partner.
+
+Part II of the form is used to certify the deductions and losses that the partner reasonably expects to be available to reduce their U.S. federal income tax liability on their share of effectively connected income or gain from the partnership.
+
+Part III of the form is used to certify that the partner's investment in the partnership is the only activity that will give rise to effectively connected items for the tax year.
+
+The form also includes a section for the partner to give consent to the IRS for disclosing return and return information to the partnership or other withholding agent for the purpose of administering Section 1446.
+
+The form must be signed by the partner or an authorized representative, and it includes a declaration under penalties of perjury that the information provided is true, correct, and complete.
+
+Overall, this form is used by foreign partners in a partnership to certify deductions and losses that can be used to reduce their withholding tax liability under Section 1446.

@@ -1,0 +1,15 @@
+Schedule K (Form 990) is a supplemental information form that must be completed by tax-exempt organizations in the United States if they answered "Yes" to question 24a on Form 990, Part IV. This form provides additional details and explanations regarding tax-exempt bonds issued by the organization.
+
+Part I of the form collects information about the bond issues, including the issuer's name, employer identification number (EIN), CUSIP number, date issued, issue price, purpose of the bond, whether it has been defeased, and whether it was issued on behalf of the issuer or as part of pooled financing.
+
+Part II focuses on the proceeds of the bond issue. It asks for details on the amount of bonds retired, amount of bonds legally defeased, total proceeds of the issue, gross proceeds in reserve funds, capitalized interest from proceeds, proceeds in refunding escrows, issuance costs from proceeds, credit enhancement from proceeds, working capital expenditures from proceeds, capital expenditures from proceeds, and any other spent or unspent proceeds. It also asks about the year of substantial completion and whether the bonds were issued as part of a refunding issue.
+
+Part III deals with private business use of the bond-financed property. It asks if the organization was a partner in a partnership or a member of an LLC that owned property financed by tax-exempt bonds. It also asks about lease arrangements, management or service contracts, and research agreements that may result in private business use of the bond-financed property. The form also asks for the percentage of financed property used in private business use by entities other than a section 501(c)(3) organization or a state or local government, as well as the percentage of financed property used in private business use as a result of unrelated trade or business activity. It also asks if the bond issue meets the private security or payment test and if there have been any sales or dispositions of bond-financed property to non-governmental persons.
+
+Part IV focuses on arbitrage. It asks if the issuer has filed Form 8038-T for arbitrage rebate, yield reduction, and penalty in lieu of arbitrage rebate. If not, it asks if there are exceptions to the rebate, if the rebate is not yet due, or if no rebate is due. The form also asks if the bond issue is a variable rate issue and if the organization or the governmental issuer has entered into a qualified hedge with respect to the bond issue. It also asks about gross proceeds invested in a guaranteed investment contract (GIC) and whether any gross proceeds were invested beyond an available temporary period.
+
+Part V asks if the organization has established written procedures to ensure timely identification and correction of violations of federal tax requirements through the voluntary closing agreement program.
+
+Part VI provides space for additional supplemental information and explanations for the responses given in the previous sections of the form.
+
+The form must be attached to Form 990 and is open to public inspection.

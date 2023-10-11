@@ -1,0 +1,11 @@
+Form 5405 is a document issued by the Internal Revenue Service (IRS) that is used for the repayment of the First-Time Homebuyer Credit. The form is attached to Form 1040, 1040-SR, 1040-NR, or 1040-X. It provides instructions and information for taxpayers regarding the repayment requirements for the credit.
+
+The form is divided into three parts. Part I is for taxpayers to indicate the disposition or change in use of the main home for which the credit was claimed. It includes various checkboxes for different scenarios, such as selling the home to a non-related person, converting the home to rental or business use, transferring the home to a spouse or ex-spouse, or if the home was destroyed, condemned, or sold under threat of condemnation.
+
+Part II is for the repayment of the credit. Taxpayers are required to enter the amount of the credit claimed on Form 5405 for 2008 and the amount of the credit repaid with their tax returns for the years 2010 through 2021. The form provides calculations to determine the amount of the credit to be repaid.
+
+Part III is a worksheet for taxpayers whose home was destroyed or sold to a non-related person. It helps calculate the gain or loss on the sale of the home, taking into account the selling price, selling expenses, and adjusted basis.
+
+The form includes checkboxes for taxpayers to indicate whether they have a gain or not, and based on that, they are directed to complete specific sections of the form.
+
+Overall, Form 5405 is used to determine the repayment requirements for the First-Time Homebuyer Credit and provides instructions and worksheets to assist taxpayers in calculating the amount to be repaid.

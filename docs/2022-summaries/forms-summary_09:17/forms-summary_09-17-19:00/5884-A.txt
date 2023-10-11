@@ -1,0 +1,21 @@
+Form 5884-A is a document provided by the Internal Revenue Service (IRS) for employers who have been affected by qualified disasters. The form is used to calculate the Employee Retention Credit for these employers. 
+
+The form consists of several lines where employers enter information regarding the qualified wages paid or incurred during the applicable period while the business was inoperable due to a qualified disaster. There are separate sections for employers affected by 2018 through 2019 qualified disasters and employers affected by a 2020 qualified disaster.
+
+Line 1a is for employers affected by 2018 through 2019 qualified disasters to enter the total qualified wages paid or incurred during the applicable period. Line 1b is for employers affected by a 2020 qualified disaster to enter the total qualified wages paid or incurred during the applicable period.
+
+Line 1c is used to add the amounts from lines 1a and 1b.
+
+Line 2 instructs employers to multiply line 1c by 40% (0.40). The instructions provide further details on the adjustment that needs to be made to the deduction for salaries and wages.
+
+Line 3 is for the employee retention credit from partnerships, S corporations, cooperatives, estates, and trusts.
+
+Line 4 instructs employers to add lines 2 and 3. Cooperatives, estates, and trusts are directed to proceed to line 5, while partnerships and S corporations should stop here and report this amount on Schedule K. All others should stop here and report this amount on Form 3800, Part III, line 1aa.
+
+Line 5 is for the amount allocated to patrons of the cooperative or beneficiaries of the estate or trust.
+
+Line 6 is for cooperatives, estates, and trusts to subtract line 5 from line 4 and report this amount on Form 3800, Part III, line 1aa.
+
+The form also includes a section for the name(s) shown on the return and the identifying number. The instructions and the latest information can be found on the IRS website at www.irs.gov/Form5884A.
+
+Overall, Form 5884-A is a tool for employers affected by qualified disasters to calculate the Employee Retention Credit and report it on their tax return.

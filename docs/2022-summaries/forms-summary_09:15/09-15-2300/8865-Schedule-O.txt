@@ -1,0 +1,17 @@
+Schedule O (Form 8865) is a document provided by the Internal Revenue Service (IRS) for reporting the transfer of property to a foreign partnership under Section 6038B of the tax code. The form is attached to Form 8865 and includes information about the transferor, the foreign partnership, and the property being transferred.
+
+The form begins with basic information such as the name of the transferor, the transferor's identifying number, the name of the foreign partnership, and its Employer Identification Number (EIN). There is also a reference ID number provided.
+
+The first section of the form asks whether the partnership is a section 721(c) partnership, and if so, whether the gain deferral method was applied to avoid recognizing gain upon the contribution of property.
+
+The second section asks whether any intangible property transferred is considered or anticipated to be a platform contribution as defined in Regulations section 1.482-7(c)(1).
+
+The main part of the form is divided into three parts: Part I, Transfers Reportable Under Section 6038B; Part II, Dispositions Reportable Under Section 6038B; and Part III, which asks whether any transfer reported on the schedule is subject to gain recognition under section 904(f)(3) or section 904(f)(5)(F).
+
+In Part I, the type of property transferred is listed, including stock, notes receivable and payable, other securities, inventory, tangible property used in trade or business, intangible property described in section 197(f)(9), intangible property other than described in section 197(f)(9), and other property. The date of transfer, description of the property, fair market value on the date of transfer, cost or other basis, recovery period, section 704(c) allocation method, and gain recognized on transfer are also recorded.
+
+Part II asks for information about any dispositions of property that were previously transferred, including the type of property, date of the original transfer, date of disposition, manner of disposition, gain recognized by the partnership, depreciation recapture recognized by the partnership, gain allocated to partner, and depreciation recapture allocated to partner.
+
+Finally, Part III asks whether any transfer reported on the schedule is subject to gain recognition under section 904(f)(3) or section 904(f)(5)(F).
+
+The form includes instructions and a reference to the IRS website for additional guidance.

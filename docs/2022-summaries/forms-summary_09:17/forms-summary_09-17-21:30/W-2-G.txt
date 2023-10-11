@@ -1,0 +1,15 @@
+This document is a copy of Form W-2G, which is used to report certain gambling winnings to the Internal Revenue Service (IRS). The form is divided into different copies, each with a specific purpose.
+
+Copy A is to be filed with the IRS by the payer along with Form 1096. It includes information such as the payer's name, address, and identification number, as well as the winner's name, address, and identification number. It also includes details about the reportable winnings, date won, type of wager, federal income tax withheld, and other information related to the winnings.
+
+Copy 1 is for the state, city, or local tax department. It contains the same information as Copy A and is to be attached to the winner's state, city, or local income tax return if required.
+
+Copy B is to be attached to the winner's federal tax return. It includes the same information as Copy A and also states that the income should be reported on the federal tax return. If federal income tax was withheld, the amount is shown in box 4.
+
+Copy C is for the winner's records. It includes the same information as Copy A and serves as an important tax document. It states that failure to report this income may result in penalties or sanctions imposed by the IRS.
+
+Copy 2 is to be attached to the winner's state, city, or local income tax return, if required. It contains the same information as Copy A.
+
+Copy D is for the payer's records. It includes the same information as Copy A and states that it is for the payer's use.
+
+The document also includes instructions for the winner and the payer on how to complete the form and provides information on reporting gambling winnings, withholding federal income tax, and other related topics. It also provides contact information for further assistance and mentions that the latest information about Form W-2G can be found on the IRS website.

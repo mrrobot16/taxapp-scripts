@@ -1,0 +1,11 @@
+Form 4255 is a document provided by the Internal Revenue Service (IRS) that is used to recapture the investment credit. The form is to be attached to the taxpayer's income tax return. The form includes three parts.
+
+Part I of the form is used to calculate the original investment credit for specific properties. The taxpayer is required to provide information about the type of property, such as rehabilitation, energy, or qualifying advanced coal project. The form provides columns A through D for the taxpayer to input the relevant information for each property, including the original rate of credit, credit base as of the end of the previous tax year, net change in nonqualified nonrecourse financing, credit base as of the end of the current tax year, refigured credit, and credit taken for this property on Form 3800 in prior years.
+
+Part II of the form is used to calculate the recapture from an increase in nonqualified nonrecourse financing. The taxpayer is required to subtract the refigured credit from the credit taken for this property on Form 3800 in prior years. If there is a net increase, the taxpayer must calculate the recapture tax as a result of the increase.
+
+Part III of the form is used to calculate the recapture from the disposition of property or cessation of use as investment credit property. The taxpayer is required to provide the date the property was placed in service and the date it ceased to be qualified investment credit property. The number of full years between these dates is calculated, and the unused general business credits that would have been allowed if there had been no credit from this property are subtracted from the credit taken for this property on Form 3800 in prior years. The recapture percentage is then multiplied by the difference to calculate the recapture amount.
+
+The form also includes additional sections for the recapture of a qualifying therapeutic discovery project grant and the calculation of the total increase in tax. The total increase in tax, which includes the recapture amounts from all properties and grants, is entered on the appropriate line of the taxpayer's tax return.
+
+This summary provides a brief overview of the information and calculations required on Form 4255. For more detailed instructions and definitions, taxpayers are directed to visit www.irs.gov/form4255.

@@ -1,0 +1,15 @@
+Form 8902 is a tax form issued by the Department of the Treasury and the Internal Revenue Service (IRS) in the United States. It is used by corporations to calculate and report the Alternative Tax on Qualifying Shipping Activities. The form is to be attached to the corporation's income tax return.
+
+The form consists of five parts:
+
+Part I: Section 1354 Election or Termination - This section is used to indicate whether the corporation previously made an election under section 1354 for a specific tax year, is making a new election for the current tax year, revoking a previous election, or if the election was automatically terminated due to the corporation no longer being a qualifying vessel operator.
+
+Part II: Other Information - This section includes questions about whether the corporation is a member of an electing group and if any member of the electing group has income from qualifying secondary activities or qualifying incidental activities. If yes, a worksheet providing the requested information for each member of the electing group must be attached to the form.
+
+Part III: Vessel Information - This section requires the corporation to provide information about the vessels used in qualifying shipping activities, including vessel name, IMO number, USCG VIN number, flag, date flagged, vessel type, whether it was used in U.S. foreign trade, percentage of U.S. ownership, type of ownership, type of vessel use, and date placed in service.
+
+Part IV: Notional Shipping Income - This section is used to calculate the corporation's notional shipping income based on the dead weight tons and net tons of the vessels used in qualifying shipping activities. It also includes calculations for daily notional shipping income, days operated in U.S. foreign trade during the tax year, and ownership percentage.
+
+Part V: Alternative Tax - This section calculates the alternative tax on qualifying shipping activities by multiplying the total annual notional shipping income by the highest rate of tax specified in section 11. The resulting amount is then entered on the Other taxes line of Form 1120, Schedule J, or Form 1120-F, Schedule J.
+
+The form includes instructions and a website link for additional information.

@@ -1,0 +1,616 @@
+Form  8835
+2022
+Renewable Electricity Production Credit
+Department of the Treasury 
+Internal Revenue Service
+ Attach to your tax return. 
+Go to www.irs.gov/Form8835 for instructions and the latest information. 
+OMB No. 1545-1362
+Attachment 
+Sequence No. 835
+Name(s) shown on return
+Identifying number
+Complete lines 1 and 2 with respect to 
+electricity produced at qualified facilities using:
+(a) 
+Kilowatt-hours produced 
+and sold (see instructions) 
+(b) 
+Rate 
+(see inst.)
+(c) 
+Column (a) × 
+Column (b)
+1a
+Wind 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+$0.0275
+b
+Closed-loop biomass .
+.
+.
+.
+.
+.
+1b
+$0.0275
+c
+Geothermal .
+.
+.
+.
+.
+.
+.
+.
+.
+1c
+$0.0275
+d
+Solar 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d
+$0.0275
+e
+Add column (c) of lines 1a through 1d and enter here (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+1e
+        
+      
+      
+      
+2a
+Open-loop biomass 
+.
+.
+.
+.
+.
+.
+2a
+$0.0125
+b
+Reserved for future use .
+.
+.
+.
+.
+2b
+c
+Landfill gas .
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+$0.0125
+d
+Trash .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2d
+$0.0125
+e
+Hydropower .
+.
+.
+.
+.
+.
+.
+.
+.
+2e
+$0.0125
+f
+Marine and hydrokinetic renewables .
+2f
+$0.0125
+g
+Add column (c) of lines 2a through 2f and enter here (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+2g
+3
+Add lines 1e and 2g 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Phaseout adjustment (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+$
+×
+4
+5
+Credit before reduction. Subtract line 4 from line 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Specified adjustments (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Special adjustments (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Combine lines 5 and 8 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Reduction for government grants, subsidized financing, and other credits
+12 
+ 
+ 
+Total of government grants, proceeds of tax-exempt government obligations, subsidized energy 
+financing, and any federal tax credits allowed for the project for this and all prior tax years 
+(especially with respect to qualified facilities, the construction of which began after August 16, 2022) 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Total of additions to the capital account for the qualified facility for this and all prior tax years .
+.
+13
+14
+Divide line 12 by line 13. Show as a decimal carried to at least 4 places 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+.
+15 
+Multiply line 5 by the smaller of 1/2 (15% of line 5 for facilities the construction of which began after 
+August 16, 2022) or line 14 (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Subtract line 15 from line 11 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17a
+Enter the amount from line 16 applicable to wind facilities, the construction of which began during 2017 
+17a
+b
+For facilities placed in service after 2021, enter -0-; otherwise, multiply line 17a by 20% (0.20) .
+.
+17b
+c Enter the amount from line 16 applicable to wind facilities, the construction of which began during 
+2018, 2020, or 2021 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17c
+d
+For facilities placed in service after 2021, enter -0-; otherwise, multiply line 17c by 40% (0.40) .
+.
+17d
+e
+Enter the amount from line 16 applicable to wind facilities, the construction of which began during 2019 
+17e
+f
+For facilities placed in service after 2021, enter -0-; otherwise, multiply line 17e by 60% (0.60) .
+.
+17f
+g
+Add lines 17b, 17d, and 17f .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17g
+18
+Subtract line 17g from line 16, and combine the result with any amounts on line 6 .
+.
+.
+.
+.
+.
+18
+19 
+Renewable electricity production credit from partnerships, S corporations, cooperatives, estates, 
+and trusts (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20 
+ 
+ 
+ 
+ 
+Add lines 18 and 19. Cooperatives, estates, and trusts, go to line 21. Partnerships and S corporations, 
+stop here and report this amount on Schedule K. All others: For electricity or refined coal produced 
+during the 4-year period beginning on the date the facility was placed in service or Indian coal 
+produced, stop here and report the applicable part of this amount on Form 3800, Part III, line 4e. For 
+all other production of electricity or refined coal, stop here and report the applicable part of this 
+amount on Form 3800, Part III, line 1f (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21
+Amount allocated to patrons of the cooperative or beneficiaries of the estate or trust (see instructions) 
+21
+22 
+ 
+ 
+Cooperatives, estates, and trusts, subtract line 21 from line 20. For electricity or refined coal produced 
+during the 4-year period beginning on the date the facility was placed in service or Indian coal produced, 
+report the applicable part of this amount on Form 3800, Part III, line 4e. For all other production of
+electricity or refined coal, report the applicable part of this amount on Form 3800, Part III, line 1f .
+22
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 14954R
+Form 8835 (2022)

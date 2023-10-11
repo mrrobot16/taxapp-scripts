@@ -1,0 +1,13 @@
+Form 944-X is an IRS form used to correct errors made on Form 944, which is the Employers Annual Federal Tax Return. The form is used to correct both underreported and overreported tax amounts. The form must be completed for each year that needs correction and all five pages of the form must be completed. 
+
+Part 1 of the form requires the taxpayer to select one process for correction - either the adjusted employment tax return process or the claim process for a refund or abatement. 
+
+Part 2 of the form requires the taxpayer to complete certifications related to filing Forms W-2 and the repayment or reimbursement of overcollected social security tax and Medicare tax. 
+
+Part 3 of the form is where the corrections for the calendar year being corrected are entered. This includes corrections for wages, tips, and other compensation, federal income tax withheld, taxable social security wages, qualified sick leave wages, qualified family leave wages, taxable social security tips, taxable Medicare wages and tips, taxable wages and tips subject to Additional Medicare Tax withholding, tax adjustments, and various tax credits. 
+
+Part 4 of the form is where the taxpayer explains the corrections being made. 
+
+Part 5 of the form is where the taxpayer signs the form and provides information about the preparer if applicable. 
+
+The form includes instructions and additional guidance for each section, including information on how to treat employment tax credits and social security tax deferrals.

@@ -1,0 +1,13 @@
+Form 944-X is a document used by employers to correct errors made on their Form 944, which is the Employers Annual Federal Tax Return. The form is divided into five parts.
+
+Part 1: The employer must select one process for correction. They can choose either the adjusted employment tax return process or the claim process for a refund or abatement of overreported tax amounts.
+
+Part 2: The employer must complete certifications regarding the filing of Forms W-2 and the repayment or reimbursement of overcollected social security tax and Medicare tax.
+
+Part 3: The employer must enter the corrections for the calendar year being corrected. This includes various tax amounts such as wages, federal income tax withheld, social security tax, Medicare tax, and Additional Medicare Tax.
+
+Part 4: The employer must provide an explanation of how they determined their corrections, including any reclassified workers.
+
+Part 5: The employer must sign the form, declaring that it is true, correct, and complete.
+
+The form provides additional instructions and guidance for employers on how to choose the appropriate correction process and how to handle specific types of errors.

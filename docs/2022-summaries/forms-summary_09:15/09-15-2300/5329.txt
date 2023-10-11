@@ -1,0 +1,23 @@
+Form 5329 is a document issued by the Internal Revenue Service (IRS) that is used to report and calculate additional taxes on qualified retirement plans, individual retirement accounts (IRAs), and other tax-favored accounts. It is attached to Form 1040, 1040-SR, or 1040-NR. The form consists of several parts, each addressing different types of additional taxes.
+
+Part I of the form is used to calculate the additional tax on early distributions from qualified retirement plans or IRAs. It requires the taxpayer to report the early distributions included in their income and any exceptions to the additional tax.
+
+Part II is used to calculate the additional tax on certain distributions from education accounts and ABLE accounts. This includes distributions from Coverdell education savings accounts (ESAs), qualified tuition programs (QTPs), and ABLE accounts.
+
+Part III is used to calculate the additional tax on excess contributions to traditional IRAs. It requires the taxpayer to report any excess contributions made to their traditional IRAs and calculate the additional tax based on the value of their IRAs.
+
+Part IV is used to calculate the additional tax on excess contributions to Roth IRAs. Similar to Part III, it requires the taxpayer to report any excess contributions made to their Roth IRAs and calculate the additional tax based on the value of their IRAs.
+
+Part V is used to calculate the additional tax on excess contributions to Coverdell ESAs. It requires the taxpayer to report any excess contributions made to their Coverdell ESAs and calculate the additional tax based on the value of their ESAs.
+
+Part VI is used to calculate the additional tax on excess contributions to Archer MSAs. It requires the taxpayer to report any excess contributions made to their Archer MSAs and calculate the additional tax based on the value of their MSAs.
+
+Part VII is used to calculate the additional tax on excess contributions to health savings accounts (HSAs). It requires the taxpayer to report any excess contributions made to their HSAs and calculate the additional tax based on the value of their HSAs.
+
+Part VIII is used to calculate the additional tax on excess contributions to an ABLE account. It requires the taxpayer to report any excess contributions made to their ABLE account and calculate the additional tax based on the value of their account.
+
+Part IX is used to calculate the additional tax on excess accumulation in qualified retirement plans. It requires the taxpayer to report the minimum required distribution for the year and the amount actually distributed, and calculate the additional tax based on the difference.
+
+The form also includes sections for the taxpayer to provide their personal information, such as their name, social security number, and address. There is also a section for the taxpayer to sign the form if they are filing it separately from their tax return.
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form5329.

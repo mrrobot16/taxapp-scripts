@@ -1,0 +1,9 @@
+Form 1094-C is a document used by applicable large employers (ALE) to transmit their employer-provided health insurance offer and coverage information returns to the Internal Revenue Service (IRS). The form includes various sections for the ALE member's information, such as their name, employer identification number (EIN), address, and contact details. It also includes sections for ALE member information, including whether the form is the authoritative transmittal, the total number of Forms 1095-C filed by the ALE member, and whether the ALE member is part of an aggregated ALE group.
+
+Part III of the form collects monthly information on minimum essential coverage offer indicators, full-time employee counts, total employee counts, and aggregated group indicators. It includes a table for each month of the year to report this information.
+
+Part IV of the form is for reporting other ALE members of the aggregated ALE group, including their names and EINs.
+
+The form requires a signature, title, and date to certify the accuracy of the information provided.
+
+The document also includes references to instructions and additional information available on the IRS website.

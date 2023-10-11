@@ -1,0 +1,21 @@
+Form 8908 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Energy Efficient Home Credit. This credit is available for contractors who own and have a basis in qualified energy efficient homes during their construction.
+
+The form consists of several sections where taxpayers need to enter specific information regarding the number of qualified energy efficient homes sold or leased. The form includes the following sections:
+
+1. Section 1: Taxpayers need to enter the total number of qualified energy efficient homes, including manufactured homes meeting the 50% standard, that were sold or leased before 2023 for use as a residence. The form provides instructions on how to calculate the credit amount based on this number.
+
+2. Section 2: Taxpayers need to enter the total number of qualified energy efficient manufactured homes meeting the 30% standard that were sold or leased before 2023 for use as a residence. The form provides instructions on how to calculate the credit amount based on this number.
+
+3. Section 3: Taxpayers need to enter the total number of qualified energy efficient homes eligible to participate in the Energy Star Residential New Construction Program or the Energy Star Manufactured New Homes Program (or the Energy Star Multifamily New Construction Program if prevailing wage requirements are met) that were sold or leased after 2022 for use as a residence. The form provides instructions on how to calculate the credit amount based on this number.
+
+4. Section 4: Taxpayers need to enter the total number of qualified energy efficient homes eligible to participate in the Energy Star Residential New Construction Program or the Energy Star Manufactured New Homes Program (or the Energy Star Multifamily New Construction Program if prevailing wage requirements are met) and certified as a Zero Energy Ready Home that were sold or leased after 2022 for use as a residence. The form provides instructions on how to calculate the credit amount based on this number.
+
+5. Section 5: Taxpayers need to enter the total number of qualified energy efficient homes eligible to participate in the Energy Star Multifamily New Construction Program that do not meet the prevailing wage requirements and are not certified as a Zero Energy Ready Home that were sold or leased after 2022 for use as a residence. The form provides instructions on how to calculate the credit amount based on this number.
+
+6. Section 6: Taxpayers need to enter the total number of qualified energy efficient homes eligible to participate in the Energy Star Multifamily New Construction Program that are not meeting the prevailing wage requirements but are certified as a Zero Energy Ready Home that were sold or leased after 2022 for use as a residence. The form provides instructions on how to calculate the credit amount based on this number.
+
+7. Section 7: This section is for partnerships and S corporations to report the energy efficient home credit.
+
+8. Section 8: Taxpayers need to add up the credit amounts calculated in sections 1b, 2b, 3b, 4b, 5b, 6b, and 7. Partnerships and S corporations report this amount on Schedule K, while all others report it on Form 3800, Part III, line 1p.
+
+The form also includes information on where to find instructions and the latest information on the IRS website, as well as a notice regarding the Paperwork Reduction Act.

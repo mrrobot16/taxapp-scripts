@@ -1,0 +1,11 @@
+The Schedule M-3 is a form used by U.S. property and casualty insurance companies with total assets of $10 million or more to reconcile their net income (loss) per their income statement with their taxable income per their tax return. The form is divided into three parts.
+
+Part I requires the corporation to provide financial information and reconcile their net income (loss) based on their income statement. They must indicate whether they filed SEC Form 10-K, prepared a certified audited non-tax-basis income statement, or prepared a non-tax-basis income statement. They also need to provide the income statement period and indicate if the income statement has been restated.
+
+Part II focuses on the reconciliation of net income (loss) per the income statement of includible corporations with taxable income per the tax return. It requires the corporation to provide details of income (loss) items, including income from equity method foreign corporations, subpart F, QEF, and similar income inclusions, U.S. dividends, and income from partnerships and other pass-through entities.
+
+Part III focuses on the reconciliation of expense/deduction items per the income statement with deductions per the tax return. It requires the corporation to provide details of expense items, such as income tax expenses, stock option expenses, meals and entertainment expenses, pension and profit-sharing expenses, and interest expenses.
+
+The form also includes sections for reporting total income (loss) items, total expense/deduction items, and reconciliation totals.
+
+The Schedule M-3 is attached to Form 1120-PC, and the instructions for completing the form can be found on the IRS website.

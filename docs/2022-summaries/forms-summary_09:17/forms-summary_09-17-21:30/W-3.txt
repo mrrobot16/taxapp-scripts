@@ -1,0 +1,13 @@
+This document provides instructions for employers on how to file Forms W-2 and W-3 with the Social Security Administration (SSA) and the Internal Revenue Service (IRS). It states that employers can file these forms electronically on the SSA's website or print out copies for filing with state or local governments, distribution to employees, and record-keeping purposes. 
+
+The document also emphasizes that Copy A of the form, which is provided for informational purposes only, should not be printed and filed with the SSA as it is not scannable. Penalties may be imposed for filing forms that cannot be scanned. However, other copies of the form, such as Copy B, can be downloaded, filled in, printed, and used to provide information to recipients.
+
+To order official IRS information returns, employers can visit the IRS Online Ordering page or www.irs.gov/orderforms. The document also mentions IRS publications for more information on printing tax forms.
+
+The document includes a Form W-3 Transmittal of Wage and Tax Statements for the tax year 2023. It explains that this form should only be completed when filing paper Copy A of Form(s) W-2 and should not be filed alone. It provides instructions on how to complete the form and reminds employers to make copies for their records.
+
+The document suggests that employers report Form W-3 and Forms W-2 Copy A electronically through the SSA's Business Services Online (BSO) website. It mentions two free e-filing options: W-2 Online, which allows employers to create, save, print, and submit up to 50 Forms W-2 at a time, and File Upload, which allows employers to upload wage files created using payroll or tax software. The document states that e-filed forms must be submitted by January 31, 2024.
+
+For employers filing paper forms, the document instructs them to mail Form W-3 with Copy A of Form(s) W-2 to the Social Security Administration's Direct Operations Center in Wilkes-Barre, PA. It provides alternative addresses for certified mail and IRS-approved private delivery services.
+
+The document concludes with a reminder to review the separate instructions for Privacy Act and Paperwork Reduction Act Notice.

@@ -1,0 +1,15 @@
+Form 8233 is a document provided by the Internal Revenue Service (IRS) for nonresident alien individuals who are receiving compensation for independent or dependent personal services in the United States. The form is used to claim a tax treaty withholding exemption for part or all of the compensation.
+
+The form is not to be used if the individual is receiving compensation for dependent personal services and is not claiming a tax treaty withholding exemption, or if they are receiving noncompensatory scholarship or fellowship income without any personal services income from the same withholding agent.
+
+The form requires the individual to provide their personal information, including their name, taxpayer identification number, foreign tax identification number (if applicable), permanent residence address, and address in the United States. Additional information such as U.S. visa type, country issuing passport, passport number, date of entry into the United States, and current nonimmigrant status is also required.
+
+Part II of the form is used to claim the tax treaty withholding exemption. The individual must provide a description of the personal services they are providing, the total compensation they expect to be paid for those services, the tax treaty on which they are basing the exemption, the treaty article on which they are basing the exemption, and the total compensation that is exempt from tax under the treaty.
+
+If the individual also received compensation for personal services from the same withholding agent, they must complete additional information in Part III of the form regarding noncompensatory scholarship or fellowship income.
+
+The form concludes with a certification section where the individual declares, under penalties of perjury, that the information provided is true, correct, and complete. They also certify that they are the beneficial owner of the income, that they are not a U.S. person, and that they are a resident of the treaty country listed on the form.
+
+The form also includes a section for the withholding agent to accept and certify the exemption from withholding.
+
+This summary provides a general overview of Form 8233 and its purpose. For detailed instructions and the most up-to-date information, individuals are directed to visit the IRS website or refer to the separate instructions provided with the form.

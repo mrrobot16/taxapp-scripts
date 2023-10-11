@@ -1,0 +1,15 @@
+Schedule E (Form 1040) is a document used to report supplemental income and loss from various sources such as rental real estate, royalties, partnerships, S corporations, estates, trusts, and REMICs. It is attached to Form 1040, 1040-SR, 1040-NR, or 1041.
+
+Part I of the form is used to report income or loss from rental real estate and royalties. It includes sections to report payments that require filing Form(s) 1099 and whether the required Form(s) 1099 have been filed. It also includes spaces to provide the physical address and type of property for each rental real estate property, as well as the number of fair rental and personal use days.
+
+Part I also includes sections to report rents received and royalties received, as well as various expenses such as advertising, auto and travel expenses, cleaning and maintenance expenses, commissions, insurance, legal and other professional fees, management fees, mortgage interest, repairs, supplies, taxes, utilities, depreciation expense or depletion, and other expenses. The total expenses are then subtracted from the rents and royalties received to determine the income or loss.
+
+Part II of the form is used to report income or loss from partnerships and S corporations. It includes sections to provide the name, type, and identification number of each partnership or S corporation, as well as information on passive and nonpassive income or loss.
+
+Part III of the form is used to report income or loss from estates and trusts. It includes sections to provide the name and identification number of each estate or trust, as well as information on passive and nonpassive income or loss.
+
+Part IV of the form is used to report income or loss from real estate mortgage investment conduits (REMICs) as a residual holder. It includes sections to provide the name and identification number of each REMIC, as well as information on excess inclusion, taxable income or net loss, and income.
+
+Part V of the form is a summary section that combines the income or loss from all the previous parts. It includes spaces to report net farm rental income or loss from Form 4835 and to reconcile farming and fishing income. It also includes a space to reconcile income for real estate professionals.
+
+The total income or loss from all sources is then entered on Schedule 1 (Form 1040), line 5.

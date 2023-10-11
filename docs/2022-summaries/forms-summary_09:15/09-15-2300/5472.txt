@@ -1,0 +1,5 @@
+Form 5472 is an information return required by the Internal Revenue Service (IRS) for 25% foreign-owned U.S. corporations or foreign corporations engaged in a U.S. trade or business. The form collects information about the reporting corporation, including its name, address, employer identification number, total assets, principal business activity, and total value of gross payments made or received.
+
+The form also requires information about the foreign shareholders, including their names, addresses, identifying numbers, and countries where they conduct business. Additionally, the form asks for details about related parties, monetary transactions between the reporting corporation and foreign related parties, reportable transactions of a foreign-owned U.S. disregarded entity, nonmonetary and less-than-full consideration transactions, and additional information.
+
+The form is divided into several parts, each addressing different aspects of the reporting requirements. It must be completed in English and all monetary items should be reported in U.S. dollars. The form includes instructions for filling it out and can be found on the IRS website.

@@ -1,0 +1,11 @@
+The document is a Form 720-TO, which is used by terminal operators to report their transactions and inventory for tax purposes. The form requires the terminal operator to provide their employer identification number (EIN), company name, address, and contact information. They are also required to provide information about their terminal, such as its name and location.
+
+The form includes several sections for reporting transactions and inventory. The terminal operator must enter the total gallons available and total disbursements for the month. They must also report any stock gains or losses and provide the actual physical ending inventory at the terminal.
+
+The form includes a declaration that must be signed by the terminal operator, stating that the information provided is true, correct, and complete.
+
+The form also includes schedules for reporting receipts and disbursements by product code (PC). The terminal operator must provide information about the carriers involved in the transactions, including their names, employer identification numbers, and vessel official numbers if applicable.
+
+The form provides instructions for completing the schedules and includes examples for clarification.
+
+Overall, the Form 720-TO is a detailed document that terminal operators use to report their transactions and inventory to the IRS.

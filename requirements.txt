@@ -1,0 +1,5 @@
+openai==0.27.8
+PyMuPDF==1.22.5
+tqdm==4.66.1
+tiktoken==0.5.1
+dotenv=1.0.0

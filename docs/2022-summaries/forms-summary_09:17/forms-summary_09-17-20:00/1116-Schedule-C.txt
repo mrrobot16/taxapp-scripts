@@ -1,0 +1,383 @@
+SCHEDULE C 
+(Form 1116)
+(Rev. December 2022)
+Foreign Tax Redeterminations
+Department of the Treasury 
+Internal Revenue Service
+See separate instructions. 
+Go to www.irs.gov/Form1116 for instructions and the latest information.
+OMB No. 1545-0121
+For calendar year 20 
+, or other tax year beginning 
+, 20 
+, and ending 
+, 20 
+.
+Name 
+Identifying number as shown 
+on page 1 of your tax return
+Use a separate Schedule C (Form 1116) for each applicable category of income listed below. See instructions. Check only one box on each schedule. 
+a
+Section 951A category income
+b
+Foreign branch category income
+c
+Passive category income
+d
+General category income
+e
+Section 901(j) income
+f
+Certain income re-sourced by treaty
+g
+Lump-sum distributions
+h
+If box e is checked, enter the country code for the sanctioned country. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+i
+If box f is checked, enter the country code for the treaty country. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part I
+Increase in Amount of Foreign Taxes Accrued (see instructions)
+Enter redetermined amounts by payor for each separate relation back year (starting with the most recent) followed by a subtotal for each relation back year. 
+1. U.S. Tax Year 
+of Taxpayer to 
+Which Tax Relates 
+(relation back year) 
+(MM/DD/YYYY)
+A
+2a. Name of Payor 
+(see instructions)
+2b. EIN or Reference ID Number 
+of Payor
+3. Country or 
+U.S. Possession 
+to Which Tax 
+Is Paid 
+(enter code— 
+see instructions)
+4. Date 
+Additional 
+Foreign Tax 
+Was Paid 
+(MM/DD/YYYY)
+5. Foreign 
+Tax Year 
+to Which 
+Tax Relates 
+(MM/DD/YYYY)
+(1)
+(2)
+(3)
+B
+     
+     
+     
+     
+     
+(1)
+(2)
+(3)
+6. Payor’s Income 
+Subject to Tax in the 
+Foreign Jurisdiction 
+(see instructions)
+7. Additional Tax 
+Accrued in 
+Local Currency 
+in Which the 
+Tax Is Payable
+8. Additional Tax 
+Accrued in 
+Functional Currency 
+of Payor
+9. Conversion Rate 
+of Local Currency 
+to U.S. Dollars
+10. Additional Tax 
+Accrued in 
+U.S. Dollars 
+(divide column 7 
+by column 9)
+11. U.S. Dollar 
+Tax of Payor 
+Reported on 
+Original/Amended Return
+12. Revised Tax Accrued 
+(add column 10 
+and column 11)
+13. Reference ID Number 
+for Contested Tax, 
+if Applicable 
+(see instructions) 
+(1)
+A
+(2)
+(3)
+Subtotal by Relation Back Year of Taxpayer 
+(add amounts in columns 10, 11, and 12) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+     
+     
+     
+     
+     
+     
+     
+     
+(1)
+B
+(2)
+(3)
+Subtotal by Relation Back Year of Taxpayer 
+(add amounts in columns 10, 11, and 12) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 75187Q
+Schedule C (Form 1116) (Rev. 12-2022)
+Schedule C (Form 1116) (Rev. 12-2022)
+Page 2
+Part II
+Decrease in Amount of Foreign Taxes Paid or Accrued (see instructions) 
+Enter redetermined amounts by payor for each separate relation back year (starting with the most recent) followed by a subtotal for each relation back year. 
+1. U.S. Tax Year 
+of Taxpayer to 
+Which Tax Relates 
+(relation back year) 
+(MM/DD/YYYY)
+A
+2a. Name of Payor 
+(see instructions)
+2b. EIN or 
+Reference ID Number 
+of Payor
+3. Country or 
+U.S. Possession 
+From Which Tax 
+Was Refunded 
+or Deemed 
+Refunded 
+(enter code— 
+see instructions)
+4. Date 
+Foreign Tax 
+Was Refunded 
+or Deemed 
+Refunded 
+(MM/DD/YYYY) 
+(see instructions)
+5. Foreign 
+Tax Year 
+to Which 
+Tax Relates 
+(MM/DD/YYYY)
+(1)
+(2)
+(3)
+B
+     
+     
+     
+     
+     
+(1)
+(2)
+(3)
+6. Payor’s Income 
+Subject to Tax in the 
+Foreign Jurisdiction 
+(see instructions)
+7. Tax Refunded 
+or Deemed Refunded 
+in Local Currency in 
+Which the Tax Is Payable
+8. Refunded Amount 
+in Functional Currency 
+of Payor
+9. Conversion Rate 
+of Local Currency 
+to U.S. Dollars
+10. Refunded Amount 
+in U.S. Dollars 
+(divide column 7 
+by column 9)
+11. U.S. Dollar Tax 
+of Payor Reported on 
+Original/Amended Return
+12. Revised Tax 
+Paid or Accrued 
+(subtract column 10 
+from column 11)
+13. Check Box if 
+Section 905(c)(2) 
+Two Year Rule 
+Applies 
+(see instructions)
+(1)
+A
+(2)
+(3)
+Subtotal by Relation Back Year of Taxpayer (add amounts in columns 10, 11, and 12) .
+.
+     
+     
+     
+     
+     
+     
+     
+     
+(1)
+B
+(2)
+(3)
+Subtotal by Relation Back Year of Taxpayer (add amounts in columns 10, 11, and 12) .
+.
+Part III
+Change in Foreign Taxes Paid or Accrued
+Enter the information below for the change to the total amount of foreign taxes paid or accrued and the foreign tax credits (FTCs) claimed for each relation back year.
+1. Relation Back Year 
+(MM/DD/YYYY)
+2. Redetermined Foreign Taxes 
+Paid or Accrued
+3. Foreign Taxes Paid or Accrued 
+per Original/Amended Return
+4. Amount of FTC Claimed 
+per Original/Amended Return
+5. Amount of FTC Claimed 
+After Redetermination
+A
+B
+Part IV
+Change in U.S. Tax Liability
+Enter the information below for the change in U.S. tax liability for each relation back year and other affected year (see instructions). 
+1. Relation Back Year or Affected Tax Year 
+(MM/DD/YYYY)
+2. Total Redetermined 
+U.S. Tax Liability
+3. Total U.S. Tax Liability 
+per Original/Amended Return
+4. Difference 
+(subtract column 3 from column 2)
+A
+B
+Schedule C (Form 1116) (Rev. 12-2022)
+Schedule C (Form 1116) (Rev. 12-2022)
+Page 3
+Part V
+Annual Reporting for Contested Taxes—Do Not Complete Part V For Tax Year 2022
+Beginning with the 2023 tax year, taxpayers will enter the information below for each contested foreign tax liability for which the taxpayer has previously made an election under 
+Regulations section 1.905-1(d)(4) to claim a provisional foreign tax credit.
+1. Relation Back Year 
+(MM/DD/YYYY)
+2. Name of Payor 
+(see instructions)
+3. Reference ID Number 
+for the Contested Tax
+4. Country or 
+U.S. Possession 
+to Which Tax 
+Was Paid 
+(enter code— 
+see instructions)
+(1)
+(2)
+(3)
+(4)
+(5)
+5. Amount of Contested Tax 
+Provisionally Claimed as Credit
+6. Contest 
+Ongoing
+7. Contest 
+Resolved
+8. Date Contest 
+Resolved 
+(MM/DD/YYYY)
+9. Tax Refunded or 
+Additional Tax Paid, if Any 
+(see instructions)
+(1)
+(2)
+(3)
+(4)
+(5)
+Schedule C (Form 1116) (Rev. 12-2022)

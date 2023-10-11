@@ -1,0 +1,11 @@
+Form 8960 is a document issued by the Department of the Treasury, Internal Revenue Service (IRS) in the United States. It is used to calculate the Net Investment Income Tax for individuals, estates, and trusts. The form is attached to the taxpayer's tax return and requires the taxpayer's name, social security number or employer identification number.
+
+The form is divided into three parts:
+
+Part I: Investment Income - This section requires the taxpayer to report various types of investment income, such as taxable interest, ordinary dividends, annuities, rental real estate income, and net gains or losses from the disposition of property.
+
+Part II: Investment Expenses Allocable to Investment Income and Modifications - This section allows the taxpayer to deduct investment-related expenses, such as investment interest expenses, state and local income taxes, and miscellaneous investment expenses. It also includes additional modifications to the investment income.
+
+Part III: Tax Computation - This section calculates the net investment income by subtracting the total deductions and modifications from the total investment income. For individuals, it also requires the calculation of modified adjusted gross income and the determination of the threshold based on filing status. The smaller of the net investment income or the threshold is multiplied by 3.8% to calculate the net investment income tax for individuals. For estates and trusts, the smaller of the net investment income or the adjusted gross income is multiplied by 3.8% to calculate the net investment income tax.
+
+The form provides instructions and references to additional information on the IRS website. It is important for taxpayers to consult the instructions and seek professional advice to accurately complete and file Form 8960.

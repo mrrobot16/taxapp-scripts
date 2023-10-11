@@ -1,0 +1,13 @@
+Schedule P (Form 1120-F) is a document used to list foreign partner interests in partnerships for tax purposes. It is attached to Form 1120-F and provides information on the partnership interests held by a foreign corporation.
+
+Part I of the schedule requires the foreign corporation to list the name, address, and employer identification number (EIN) of each partnership it is involved in. It also asks whether the foreign corporation's distributive share of income from the partnership is effectively connected income (ECI) with a U.S. trade or business.
+
+Part II summarizes the foreign partner's income and expenses from Schedule K-3 (Form 1065), which is a separate form used to report partnership income. It includes the total gross income, gross ECI from partnership determination, gross ECI from partner determination, total deductions and losses, and interest expenses.
+
+Part III calculates the foreign partner's average outside basis, which is used to determine the tax consequences of partnership activities. It includes sections for section 705 outside basis, partners' liabilities included in outside basis, and partners' liabilities under specific regulations.
+
+Part IV is used to report any transfers of partnership interests during the tax year. It asks for the letter corresponding to the partnership in Part I, the percentage interest transferred, units transferred, and the dates of acquisition and transfer.
+
+Part V calculates the gain or loss on the transfer of partnership interests. It includes the amount realized on the transfer, section 705 outside basis, total outside gain or loss, outside ordinary gain or loss, outside capital gain or loss, effectively connected ordinary gain or loss, effectively connected capital gain or loss, recognized effectively connected ordinary gain or loss, recognized effectively connected capital gain or loss, and gain or loss under section 897(g) on the deemed sale of U.S. real property interests.
+
+Overall, Schedule P provides a comprehensive overview of a foreign corporation's partnership interests and their tax implications.

@@ -1,0 +1,15 @@
+Form 8957 is a document used for the registration of financial institutions under the Foreign Account Tax Compliance Act (FATCA). The form is divided into two parts.
+
+Part 1 requires the financial institution to provide basic information such as its type, legal name, country/jurisdiction of residence for tax purposes, tax ID, and FATCA classification in its country/jurisdiction of tax residence. The form also asks for the mailing address of the financial institution.
+
+Part 1 also asks whether the financial institution has a withholding agreement with the IRS as a Qualified Intermediary (QI), Withholding Foreign Partnership (WP), or Withholding Foreign Trust (WT). If applicable, the financial institution must provide the respective EIN and indicate whether it intends to maintain its status.
+
+If the financial institution maintains a branch outside its country/jurisdiction of tax residence, Part 1 asks for information on the branch and whether the financial institution is a tax resident of the United States or maintains a branch in the United States.
+
+Part 1 concludes with the requirement to provide the details of the FATCA Responsible Officer (RO) for the financial institution, including their business title, legal name, contact information, and whether they wish to designate additional points of contact (POCs) for the financial institution.
+
+Part 2 is only applicable for lead financial institutions of an Expanded Affiliated Group. It requires the legal name, country/jurisdiction of residence for tax purposes, and FATCA classification type for each member financial institution of the group.
+
+The form ends with a signature section where the person completing the form certifies the accuracy and completeness of the information provided.
+
+The form is available on the IRS website, and it is recommended to complete the form online for faster processing.

@@ -1,0 +1,355 @@
+Form 8802
+(Rev. November 2018)
+Department of the Treasury 
+Internal Revenue Service
+Application for United States  
+Residency Certification
+▶ See separate instructions.
+OMB No. 1545-1817
+Important. For applicable user fee information, see the Instructions for Form 8802.
+For IRS use only:
+Additional request (see instructions)
+Foreign claim form attached
+Pmt Amt $                                   .  
+Deposit Date:            /        / 
+Date Pmt Vrfd:          /        /
+Electronic payment confirmation no.   ▶
+Applicant’s name
+Applicant’s U.S. taxpayer identification number
+If a joint return was filed, spouse’s name (see instructions)
+If a separate certification is needed for spouse, check here   ▶
+If a joint return was filed, spouse’s U.S. taxpayer  
+identification number
+1
+Applicant’s name and taxpayer identification number as it should appear on the certification if different from above
+2
+Applicant’s address during the calendar year for which certification is requested, including country and ZIP or postal code. If a P.O. 
+box, see instructions.
+3a
+Mail Form 6166 to the following address:
+b
+Appointee Information (see instructions):
+Appointee Name ▶
+CAF No. ▶
+Phone No. ▶
+(                 )
+Fax No. ▶
+(                 )
+4
+Applicant is (check appropriate box(es)):
+a
+Individual. Check all applicable boxes.
+U.S. citizen
+U.S. lawful permanent resident (green card holder)
+Sole proprietor
+Other U.S. resident alien. Type of entry visa ▶
+Current nonimmigrant status  ▶
+and date of change (see instructions) ▶
+Dual-status U.S. resident (see instructions). From  ▶
+to ▶
+Partial-year Form 2555 filer (see instructions). U.S. resident from  ▶
+to ▶
+b
+Partnership. Check all applicable boxes.
+U.S.
+Foreign
+LLC
+c
+Trust. Check if:
+Grantor (U.S.)
+Simple
+Rev. Rul. 81-100 Trust
+IRA (for Individual)
+Grantor (foreign)
+Complex
+Section 584
+IRA (for Financial Institution)
+d
+Estate
+e
+Corporation. If incorporated in the United States only, go to line 5. Otherwise, continue.
+Check if:
+Section 269B
+Section 943(e)(1)
+Section 953(d)
+Section 1504(d)
+Country or countries of incorporation ▶
+If a dual-resident corporation, specify other country of residence ▶
+If included on a consolidated return, attach page 1 of Form 1120 and Form 851.
+f
+S corporation
+g
+Employee benefit plan/trust. Plan number, if applicable  ▶
+Check if:
+Section 401(a)
+Section 403(b)
+Section 457(b)
+h
+Exempt organization. If organized in the United States, check all applicable boxes.
+Section 501(c)
+Section 501(c)(3)
+Governmental entity
+Indian tribe
+Other (specify)  ▶
+i
+Disregarded entity.  Check if:
+LLC
+LP
+LLP
+Other (specify)  ▶
+j
+Nominee applicant (must specify the type of entity/individual for whom the nominee is acting) ▶
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 10003D
+Form 8802 (Rev. 11-2018)
+Form 8802 (Rev. 11-2018)
+Page 2
+Applicant name:
+5
+Was the applicant required to file a U.S. tax form for the tax period(s) on which certification will be based?
+Yes.
+Check the appropriate box for the form filed and go to line 7.
+990
+990-T
+1040
+1041
+1065
+1120
+1120S
+3520-A
+5227
+5500
+Other (specify)  ▶
+No.
+Attach explanation (see instructions). Check applicable box and go to line 6.
+Minor child
+QSub
+U.S. DRE
+Foreign DRE
+Section 761(a) election
+FASIT
+Foreign partnership
+Other ▶
+6
+Was the applicant’s parent, parent organization or owner required to file a U.S. tax form? (Complete this line only if you checked 
+“No” on line 5.)
+Yes.
+Check the appropriate box for the form filed by the parent.
+990
+990-T
+1040
+1041
+1065
+1120
+1120S
+5500
+Other (specify) ▶
+Parent’s/owner’s name and address ▶
+and U.S. taxpayer identification number ▶
+No.
+Attach explanation (see instructions).
+7
+Calendar year(s) for which certification is requested.
+Note. If certification is for the current calendar year or a year for which a tax return is not yet required to be filed, a penalties 
+of perjury statement from Table 2 of the instructions must be entered on line 10 or attached to Form 8802 (see instructions).
+8
+Tax period(s) on which certification will be based (see instructions).
+9
+Purpose of certification. Must check applicable box (see instructions).
+Income tax
+VAT (specify NAICS codes)  ▶
+Other (must specify)  ▶
+10
+Enter penalties of perjury statements and any additional required information here (see instructions).
+Sign 
+here
+Under penalties of perjury, I declare that I have examined this application and accompanying attachments, and to the best of my knowledge and belief, 
+they are true, correct, and complete. If I have designated a third party to receive the residency certification(s), I declare that the certification(s) will be used 
+only for obtaining information or assistance from that person relating to matters designated on line 9.
+Keep a 
+copy for 
+your 
+records. ▶
+Applicant’s signature (or individual authorized to sign for the applicant)
+Signature
+Date
+Applicant’s daytime phone no.:
+Name and title (print or type)
+Spouse’s signature. If a joint application, both must sign.
+Name (print or type)
+Form 8802 (Rev. 11-2018)
+Form 8802 (Rev. 11-2018)
+Worksheet for U.S. Residency Certification Application
+Page 3
+Applicant Name
+Applicant TIN
+Appointee Name (If Applicable)
+Calendar year(s) for which certification is requested (must be the same year(s) indicated on line 7)
+11
+Enter the number of certifications needed in the column to the right of each country for which certification is requested.
+Note. If you are requesting certifications for more than one calendar year per country, enter the total number of certifications for all years for 
+each country (see instructions).
+Column A
+Country
+CC
+#
+Armenia
+AM
+Australia
+AS
+Austria
+AU
+Azerbaijan
+AJ
+Bangladesh
+BG
+Barbados
+BB
+Belarus
+BO
+Belgium
+BE
+Bermuda
+BD
+Bulgaria
+BU
+Canada
+CA
+China
+CH
+Cyprus
+CY
+Czech Republic
+EZ
+Denmark
+DA
+Egypt
+EG
+Estonia
+EN
+Column A - Total    
+Column B
+Country
+CC
+#
+Finland
+FI
+France
+FR
+Georgia
+GG
+Germany
+GM
+Greece
+GR
+Hungary
+HU
+Iceland
+IC
+India
+IN
+Indonesia
+ID
+Ireland
+EI
+Israel
+IS
+Italy
+IT
+Jamaica
+JM
+Japan
+JA
+Kazakhstan
+KZ
+Korea, South
+KS
+Kyrgyzstan
+KG
+Column B - Total  
+Column C
+Country
+CC
+#
+Latvia
+LG
+Lithuania
+LH
+Luxembourg
+LU
+Mexico
+MX
+Moldova
+MD
+Morocco
+MO
+Netherlands
+NL
+New Zealand
+NZ
+Norway
+NO
+Pakistan
+PK
+Philippines
+RP
+Poland
+PL
+Portugal
+PO
+Romania
+RO
+Russia
+RS
+Slovak Republic
+LO
+Slovenia
+SI
+Column C - Total  
+Column D
+Country
+CC
+#
+South Africa
+SF
+Spain
+SP
+Sri Lanka
+CE
+Sweden
+SW
+Switzerland
+SZ
+Tajikistan
+TI
+Thailand
+TH
+Trinidad and Tobago
+TD
+Tunisia
+TS
+Turkey
+TU
+Turkmenistan
+TX
+Ukraine
+UP
+United Kingdom
+UK
+Uzbekistan
+UZ
+Venezuela
+VE
+Column D - Total  
+12
+Enter the total number of certifications requested (add columns A, B, C, and D of line 11) .
+.
+.
+.
+.
+.
+.
+.
+.
+.   ▶
+Form 8802 (Rev. 11-2018)

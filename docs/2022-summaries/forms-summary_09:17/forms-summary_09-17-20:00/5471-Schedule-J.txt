@@ -1,0 +1,421 @@
+SCHEDULE J 
+(Form 5471)
+(Rev. December 2020)
+Department of the Treasury 
+Internal Revenue Service
+Accumulated Earnings & Profits (E&P) of Controlled Foreign Corporation
+▶ Attach to Form 5471. 
+▶ Go to www.irs.gov/Form5471 for instructions and the latest information.
+OMB No. 1545-0123
+Name of person filing Form 5471
+Identifying number
+Name of foreign corporation
+EIN (if any)
+Reference ID number (see instructions)
+a
+Separate Category (Enter code—see instructions.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+b
+If code 901j is entered on line a, enter the country code for the sanctioned country (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part I
+Accumulated E&P of Controlled Foreign Corporation
+Check the box if person filing return does not have all U.S. shareholders’ information to complete an amount in column (e) (see instructions).
+Important: Enter amounts in functional currency. 
+(a) 
+Post-2017 E&P Not 
+Previously Taxed 
+(post-2017 section 
+959(c)(3) balance)
+(b) 
+Post-1986 
+Undistributed Earnings 
+(post-1986 and pre-2018 
+section 959(c)(3) balance)
+(c) 
+Pre-1987 E&P Not 
+Previously Taxed 
+(pre-1987 section 
+959(c)(3) balance)
+(d) 
+Hovering Deficit and 
+Deduction for 
+Suspended Taxes
+(e) Previously Taxed E&P (see instructions)
+     
+     
+     
+     
+(i) Reclassified section 
+965(a) PTEP
+(ii) Reclassified section 
+965(b) PTEP
+1a 
+ 
+Balance at beginning of year (as reported on prior 
+year Schedule J) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Beginning balance adjustments (attach statement) 
+c Adjusted beginning balance (combine lines 1a and 1b)
+2a Reduction for taxes unsuspended under anti-splitter rules
+b 
+ 
+Disallowed deduction for taxes suspended under 
+anti-splitter rules .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Current year E&P (or deficit in E&P) (enter amount
+from applicable line 5c of Schedule H) .
+.
+.
+.
+4 
+ 
+E&P attributable to distributions of previously taxed 
+E&P from lower-tier foreign corporation .
+.
+.
+5a E&P carried over in nonrecognition transaction .
+b 
+ 
+Reclassify deficit in E&P as hovering deficit after 
+nonrecognition transaction 
+.
+.
+.
+.
+.
+.
+.
+6
+Other adjustments (attach statement) .
+.
+.
+.
+7 
+ 
+Total current and accumulated E&P (combine lines 
+1c through 6) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+ 
+Amounts reclassified to section 959(c)(2) E&P from 
+section 959(c)(3) E&P .
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Actual distributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+ 
+Amounts reclassified to section 959(c)(1) E&P from 
+section 959(c)(2) E&P .
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+ 
+Amounts included as earnings invested in U.S. property 
+and reclassified to section 959(c)(1) E&P (see instructions)
+12
+Other adjustments (attach statement) .
+.
+.
+.
+13 
+ 
+Hovering deficit offset of undistributed post-
+transaction E&P (see instructions) .
+.
+.
+.
+.
+14 
+Balance at beginning of next year (combine lines 7 through 13) 
+For Paperwork Reduction Act Notice, see the Instructions for Form 5471.
+Cat. No. 21111K
+Schedule J (Form 5471) (Rev. 12-2020)
+Schedule J (Form 5471) (Rev. 12-2020)
+Page 2
+Part I
+Accumulated E&P of Controlled Foreign Corporation (continued)
+(e) Previously Taxed E&P (see instructions)
+(iii) General section 
+959(c)(1) PTEP
+(iv) Reclassified section 951A PTEP
+(v) Reclassified section 245A(d) PTEP
+(vi) Section 965(a) PTEP
+(vii) Section 965(b) PTEP
+1a
+b
+c
+2a
+b
+3
+4 
+5a
+b
+6
+7 
+8 
+9
+10 
+11 
+12
+13
+14 
+(e) Previously Taxed E&P (see instructions)
+(f) 
+Total Section 964(a) E&P 
+(combine columns (a), (b), (c), 
+and (e)(i) through (e)(x))
+(viii) Section 951A PTEP
+(ix) Section 245A(d) PTEP
+(x) Section 951(a)(1)(A) PTEP
+    
+1a
+b
+c
+2a
+b
+3
+4 
+5a
+b
+6
+7 
+8 
+9
+10 
+11 
+12
+13
+14 
+Schedule J (Form 5471) (Rev. 12-2020)
+Schedule J (Form 5471) (Rev. 12-2020)
+Page 3
+Part II
+Nonpreviously Taxed E&P Subject to Recapture as Subpart F Income (section 952(c)(2))
+Important: Enter amounts in functional currency.
+1
+Balance at beginning of year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+1
+2
+Additions (amounts subject to future recapture) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+2
+3
+Subtractions (amounts recaptured in current year) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+3
+4
+Balance at end of year (combine lines 1 through 3) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+4
+Schedule J (Form 5471) (Rev. 12-2020)

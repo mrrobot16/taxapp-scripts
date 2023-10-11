@@ -1,0 +1,13 @@
+Schedule O (Form 5471) is a document provided by the Internal Revenue Service (IRS) for reporting information about the organization or reorganization of a foreign corporation, as well as acquisitions and dispositions of its stock. The form is to be completed by U.S. officers, directors, and shareholders.
+
+The form is divided into several sections. Part I is to be completed by U.S. officers and directors and requires information about the shareholders for whom acquisition information is being reported. Part II is to be completed by U.S. shareholders and includes general shareholder information, such as their name, address, and identifying number.
+
+Section A of Part II requires information about the shareholder's latest U.S. income tax return, including the type of return, date filed, and the IRS center where it was filed. Section B is for U.S. persons who are officers or directors of the foreign corporation and requires their name, address, and social security number.
+
+Section C is for reporting the acquisition of stock and requires the name of the shareholder filing the schedule, the class of stock acquired, the date of acquisition, the method of acquisition, and the number of shares acquired. Section D is for reporting the disposition of stock and requires similar information as Section C.
+
+Section E is for reporting the organization or reorganization of the foreign corporation, including the name and address of the transferor, the identifying number (if any), the date of transfer, and a description of the assets transferred.
+
+Section F is for providing any additional information, such as filing a U.S. income tax return for the foreign corporation in the last 3 years, listing any reorganizations of the foreign corporation in the last 4 years, and providing a chain of ownership chart if the foreign corporation is part of a group.
+
+The form includes instructions and a link to the IRS website for more information.

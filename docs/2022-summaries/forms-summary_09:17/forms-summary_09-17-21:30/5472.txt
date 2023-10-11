@@ -1,0 +1,13 @@
+Form 5472 is an information return that must be filed by a 25% foreign-owned U.S. corporation or a foreign corporation engaged in a U.S. trade or business. The form is used to report certain information about the reporting corporation, its foreign shareholders, related parties, and transactions between the reporting corporation and foreign related parties.
+
+The form is divided into several parts. Part I requires the reporting corporation to provide its name, address, employer identification number, total assets, principal business activity, and other relevant information. Part II requires information about the 25% foreign shareholders, including their names, addresses, identifying numbers, and countries of citizenship or incorporation.
+
+Part III requires information about related parties, including their names, addresses, identifying numbers, principal business activities, and relationships to the reporting corporation and foreign shareholders. Part IV requires the reporting of monetary transactions between the reporting corporation and foreign related parties, including sales, purchases, rents, royalties, and other amounts received or paid.
+
+Part V allows the reporting corporation to report other transactions related to the formation, dissolution, acquisition, and disposition of the entity. Part VI allows the reporting of nonmonetary and less-than-full consideration transactions between the reporting corporation and foreign related parties.
+
+Part VII requires additional information about the reporting corporation, including whether it imports goods from a foreign related party, whether it participated in a cost sharing arrangement, and whether it claimed certain deductions or had certain loan transactions with related parties.
+
+Part VIII is for reporting information about a specific cost sharing arrangement in which the reporting corporation participated. Part IX is for reporting base erosion payments and base erosion tax benefits under section 59A of the Internal Revenue Code.
+
+The form must be completed in English and all money items must be reported in U.S. dollars. The form includes instructions and a website where taxpayers can find the latest information and guidance for completing the form.

@@ -1,0 +1,9 @@
+Schedule B-2 (Form 1065) is a form provided by the Internal Revenue Service (IRS) for partnerships to elect out of the centralized partnership audit regime. This election is available to partnerships with 100 or fewer partners, as long as each partner falls into one of the eligible categories (individual, C corporation, foreign entity treated as a C corporation, S corporation, or estate of a deceased partner). The form requires the partnership to provide a list of eligible partners, including their names, taxpayer identification numbers (TINs), and the type of eligible partner they are.
+
+If the partnership has any S corporation partners, a separate section of the form must be completed for each S corporation partner. This section requires the name and TIN of the S corporation partner, as well as the names, TINs, and type of person (individual, estate of deceased shareholder, trust, or other) for each shareholder of the S corporation.
+
+The form also includes sections for the partnership to indicate the total number of Schedules K-1 that will be required to be issued, based on the information provided in Parts I, II, IV, and V. If the total number of Schedules K-1 exceeds 100, the partnership is not eligible to make the election under section 6221(b).
+
+The form consists of multiple pages, with Part IV and Part V providing additional space to list eligible partners and S corporation shareholders, respectively.
+
+Partnerships must attach Schedule B-2 to either Form 1065 or Form 1066, and the latest instructions for the form can be found on the IRS website.

@@ -1,0 +1,13 @@
+Form 8978 is a document provided by the Internal Revenue Service (IRS) for partners to report additional tax information. The form is used to report adjustments to income, deductions, and credits for a specific tax year.
+
+Part I of the form requires partners to compute the additional reporting year tax by providing the total income per the original return or as previously adjusted. Adjustments to income from Schedule A are also included. The corrected income is calculated by combining the total income and adjustments.
+
+Similarly, total deductions per the original return or as previously adjusted are reported in line 3a, along with adjustments to deductions from Schedule A in line 3b. The corrected deductions are calculated by combining these amounts.
+
+Line 5 calculates the corrected taxable income by subtracting the corrected deductions from the corrected income. Income tax and alternative minimum tax on line 5 are calculated in lines 6 and 7, respectively. The total corrected income tax is obtained by adding lines 6 and 7 in line 8.
+
+Part II of the form deals with penalties. Line 15 is used to report any penalties, and line 16 calculates the total penalties by adding the penalties in columns (a) through (d).
+
+Part III of the form addresses interest. Line 17 is used to report the interest amount, and line 18 calculates the total interest by adding the interest in columns (a) through (d).
+
+The form includes instructions and a reference to the IRS website for further guidance.

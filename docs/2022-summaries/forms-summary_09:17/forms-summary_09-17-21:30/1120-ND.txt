@@ -1,0 +1,9 @@
+Form 1120-ND is a tax form used by nuclear decommissioning funds and certain related persons to report their income and deductions to the Internal Revenue Service (IRS). The form requires the filer to provide information such as the name and address of the fund or individual, as well as their employer identification number. 
+
+The form is divided into several sections. Part I is used to calculate the fund's income tax, including taxable interest, capital gains, and other income. Deductions, such as trustees fees, taxes, and accounting and legal services, are also reported in this section. The modified gross income before net operating loss deduction is calculated by subtracting the total deductions from the gross income.
+
+Part II is used to calculate the initial taxes on self-dealing, which applies to acts of self-dealing between the fund and disqualified persons. The section requires the filer to provide details about the acts of self-dealing, including the date, description, and amount involved. The tax on self-dealing disqualified persons and trustees is calculated based on a percentage of the amount involved in the act.
+
+The form also includes schedules for balance sheets and other information, such as contributions received by the fund, distributions includible in income, and any self-dealing acts that occurred during the year.
+
+The form must be signed by an authorized officer and filed with the IRS. It is important to note that this summary is based on the October 2013 version of Form 1120-ND, and there may be updates or changes to the form since then.

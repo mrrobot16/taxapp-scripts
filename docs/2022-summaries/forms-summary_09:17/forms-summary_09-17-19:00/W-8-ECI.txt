@@ -1,0 +1,11 @@
+Form W-8ECI is a certificate that foreign individuals or organizations can use to claim that their income is effectively connected with the conduct of a trade or business in the United States. This form should be given to the withholding agent or payer and should not be sent to the IRS.
+
+The form provides instructions on how to fill it out and includes a list of situations where this form should not be used, along with the appropriate forms to use instead. It also states that those submitting this form must file an annual U.S. income tax return to report the income claimed to be effectively connected with a U.S. trade or business.
+
+The form includes two parts. Part I requires the identification of the beneficial owner, including their name, country of incorporation or organization, type of entity, permanent residence address, business address in the United States, U.S. taxpayer identification number, foreign tax identifying number (if applicable), reference numbers, date of birth, and a specification of each item of income that is or is expected to be received from the payer that is effectively connected with a trade or business in the United States.
+
+Part II is the certification section, where the beneficial owner or an authorized individual declares under penalties of perjury that the information provided is true, correct, and complete. They also certify that they are the beneficial owner of the payments, the amounts are effectively connected with a trade or business in the United States, the income is includible in their gross income for the taxable year, and they are not a U.S. person. The form also includes a signature and date section.
+
+The form includes a note stating that a new form must be submitted within 30 days if any certification made on the form becomes incorrect. It also includes a section for the beneficial owner to authorize the form to be provided to any withholding agent that has control, receipt, or custody of the payments or can disburse or make payments of the amounts.
+
+The form concludes with a space for the signature of the beneficial owner or the individual authorized to sign for the beneficial owner, their printed name, and the date.

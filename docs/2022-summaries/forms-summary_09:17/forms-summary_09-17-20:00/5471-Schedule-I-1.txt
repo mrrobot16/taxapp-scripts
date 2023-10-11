@@ -1,0 +1,245 @@
+SCHEDULE I-1  
+(Form 5471)
+(Rev. December 2021)
+Department of the Treasury 
+Internal Revenue Service
+Information for Global Intangible Low-Taxed Income
+▶ Attach to Form 5471.
+▶ Go to www.irs.gov/Form5471 for instructions and the latest information.
+OMB No. 1545-0123
+Name of person filing Form 5471
+Identifying number
+Name of foreign corporation
+EIN (if any)
+Reference ID number (see instructions)
+Separate Category (Enter code–see instructions.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Functional 
+Currency
+Conversion 
+Rate
+U.S. Dollars
+1 
+Gross income (see instructions if cost of goods sold exceed gross 
+receipts)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Exclusions (see instructions if cost of goods sold exceed gross receipts)
+a Effectively connected income
+.
+.
+.
+.
+2a 
+b
+Subpart F income .
+.
+.
+.
+.
+.
+.
+.
+2b 
+c
+High-tax exception income per section 
+954(b)(4) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+d
+Related party dividends .
+.
+.
+.
+.
+.
+2d
+e
+Foreign oil and gas extraction income 
+.
+2e
+3
+Total exclusions (combine lines 2a through 2e) 
+.
+.
+.
+.
+.
+.
+3
+4
+Gross income less total exclusions (line 1 minus line 3) (see 
+instructions)  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Deductions properly allocable to amount on line 4 
+.
+.
+.
+.
+.
+5
+6
+Tested income (loss) (line 4 minus line 5) (see instructions) .
+.
+.
+6
+7
+Tested foreign income taxes 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Qualified business asset investment (QBAI) .
+.
+.
+.
+.
+.
+.
+.
+8
+9a Interest expense included on line 5
+.
+.
+9a 
+b Qualified interest expense
+.
+.
+.
+.
+.
+9b 
+c
+Tested loss QBAI amount 
+.
+.
+.
+.
+.
+9c 
+d
+Tested interest expense (line 9a minus the sum of line 9b and line 
+9c). If zero or less, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9d
+10a Interest income included in line 4 .
+.
+.
+10a 
+b Qualified interest income .
+.
+.
+.
+.
+.
+10b 
+c
+Tested interest income (line 10a minus line 10b). If zero or less, 
+enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10c
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 71400M
+Schedule I-1 (Form 5471) (Rev. 12-2021) 

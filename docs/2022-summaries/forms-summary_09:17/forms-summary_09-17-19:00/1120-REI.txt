@@ -1,0 +1,23 @@
+Form 1120-REIT is the U.S. Income Tax Return for Real Estate Investment Trusts. It is used by real estate investment trusts (REITs) to report their income and deductions to the Internal Revenue Service (IRS). The form includes various sections and schedules to report different types of income, deductions, and tax computations.
+
+The form begins with general information such as the REIT's name, address, and employer identification number. It also asks for the year of the REIT status election and the date the REIT was established.
+
+Part I of the form is used to report the REIT's taxable income, including dividends, interest, gross rents from real property, capital gains, and other income. Deductions directly connected with income are also reported in this section.
+
+Part II is used to calculate the tax on net income from foreclosure property. It includes the net gain or loss from the sale or other disposition of foreclosure property and deductions directly connected with the production of income from foreclosure property.
+
+Part III is used to calculate the tax for failure to meet certain source-of-income requirements. It includes calculations for different types of income and deductions related to the REIT's activities.
+
+Schedule A is used to report the deduction for dividends paid by the REIT. It includes different categories of dividends paid and calculates the total deduction for dividends paid.
+
+Schedule J is used to compute the REIT's tax liability. It includes calculations for different types of taxes, credits, and other tax-related items.
+
+Schedule K is used to provide other information about the REIT, such as its method of accounting, ownership of voting stock, and membership in controlled groups.
+
+Schedule L is used to report the balance sheets per books at the beginning and end of the tax year. It includes assets, liabilities, and shareholders' equity.
+
+Schedule M-1 is used to reconcile the income or loss reported on the REIT's books with the income reported on the tax return. It includes adjustments for items such as federal income tax, depreciation, and expenses recorded on books but not deducted on the tax return.
+
+Schedule M-2 is used to analyze the unappropriated retained earnings per books. It includes the beginning and ending balances of retained earnings, net income or loss per books, distributions, and other increases or decreases.
+
+Overall, Form 1120-REIT is a comprehensive tax return form specifically designed for real estate investment trusts to report their income, deductions, and tax liabilities to the IRS.

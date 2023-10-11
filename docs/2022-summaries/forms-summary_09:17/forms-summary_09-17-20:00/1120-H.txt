@@ -1,0 +1,738 @@
+Form 1120-H
+Department of the Treasury  
+Internal Revenue Service
+U.S. Income Tax Return 
+for Homeowners Associations
+Go to www.irs.gov/Form1120H for instructions and the latest information.
+OMB No. 1545-0123
+2022
+For calendar year 2022 or tax year beginning
+ , 2022, and ending
+ , 20
+TYPE 
+OR 
+PRINT
+Name
+Number, street, and room or suite no. If a P.O. box, see instructions.
+City or town, state or province, country, and ZIP or foreign postal code
+Employer identification number
+Date association formed
+Check if:
+(1)
+Final return
+(2)
+Name change
+(3)
+Address change
+(4)
+Amended return
+A
+Check type of homeowners association:
+Condominium management association
+Residential real estate association
+Timeshare association
+B
+Total exempt function income. Must meet 60% gross income test. See instructions 
+.
+.
+.
+.
+.
+.
+B
+C
+Total expenditures made for purposes described in 90% expenditure test. See instructions .
+.
+.
+.
+C
+D
+Association’s total expenditures for the tax year. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+D
+E 
+Tax-exempt interest received or accrued during the tax year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+E
+Gross Income (excluding exempt function income) 
+1
+Dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Taxable interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Gross rents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Gross royalties .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Capital gain net income (attach Schedule D (Form 1120)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Net gain or (loss) from Form 4797, Part II, line 17 (attach Form 4797) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Other income (excluding exempt function income) (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Gross income (excluding exempt function income). Add lines 1 through 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+Deductions (directly connected to the production of gross income, excluding exempt function income) 
+9
+Salaries and wages 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Repairs and maintenance 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Rents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Taxes and licenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Depreciation (attach Form 4562) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Other deductions (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Total deductions. Add lines 9 through 15 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+Taxable income before specific deduction of $100. Subtract line 16 from line 8 .
+.
+.
+.
+.
+.
+.
+.
+17
+18
+Specific deduction of $100 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+$100
+Tax and Payments
+19
+Taxable income. Subtract line 18 from line 17 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Enter 30% (0.30) of line 19. (Timeshare associations, enter 32% (0.32) of line 19.) .
+.
+.
+.
+.
+.
+.
+20
+21
+Tax credits (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22
+Total tax. Subtract line 21 from line 20. See instructions for recapture of certain credits .
+.
+.
+.
+.
+22
+23a
+2021 overpayment credited to 2022 .
+.
+23a
+b
+2022 estimated tax payments .
+.
+.
+.
+23b
+c
+Total
+23c
+d
+Tax deposited with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23d
+e
+Credit for tax paid on undistributed capital gains (attach Form 2439) 
+.
+.
+.
+23e
+f
+Credit for federal tax paid on fuels (attach Form 4136) .
+.
+.
+.
+.
+.
+.
+.
+23f
+g
+Add lines 23c through 23f 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23g
+24
+Amount owed. Subtract line 23g from line 22. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+25
+Overpayment. Subtract line 22 from line 23g .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+26
+Enter amount of line 25 you want: Credited to 2023 estimated tax 
+Refunded 
+26
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is 
+true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature of officer
+Date
+Title
+May the IRS discuss this return 
+with the preparer shown below? 
+See instructions.
+Yes
+No
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if  
+self-employed 
+PTIN
+Firm’s name  
+Firm’s address 
+Firm’s EIN 
+Phone no. 
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11477H
+Form 1120-H (2022) 

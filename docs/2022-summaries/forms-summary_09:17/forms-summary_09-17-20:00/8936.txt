@@ -1,0 +1,348 @@
+Form 8936
+(Rev. January 2023)
+Department of the Treasury  
+Internal Revenue Service 
+Qualified Plug-in Electric Drive Motor Vehicle Credit 
+(Including Qualified Two-Wheeled Plug-in Electric Vehicles and New Clean Vehicles)
+Attach to your tax return. 
+Go to www.irs.gov/Form8936 for instructions and the latest information.
+OMB No. 1545-2137
+Attachment  
+Sequence No. 69
+Name(s) shown on return
+Identifying number
+Note: This credit is for qualified plug-in electric drive motor vehicles placed in service before 2023, qualified two-wheeled plug-in 
+electric vehicles acquired before but placed in service in 2022, and new clean vehicles placed in service after 2022. See separate 
+instructions for vehicle definitions and other requirements.
+Part I
+Tentative Credit
+Use a separate column for each vehicle. If you need more columns, 
+use additional Forms 8936 and include the totals on lines 12 and 19. 
+(a)  Vehicle 1
+(b)  Vehicle 2
+1
+Year, make, and model of vehicle .
+.
+.
+.
+.
+.
+.
+1
+2
+Vehicle identification number (see instructions) 
+.
+.
+2
+3
+Enter date vehicle was placed in service (MM/DD/YYYY)
+3
+4a 
+ 
+If the vehicle is a two-wheeled vehicle, enter the cost of 
+the vehicle. If the vehicle has at least four wheels, see 
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4a
+b
+Phase-out percentage (see instructions) .
+.
+.
+.
+.
+4b
+%
+%
+c
+Tentative credit. Multiply line 4a by line 4b .
+.
+.
+.
+4c
+Next: If you did NOT use your vehicle for business or investment purposes and did not have a credit from a partnership or S corporation, 
+skip Part II and go to Part III. All others, go to Part II.
+Part II
+Credit for Business/Investment Use Part of Vehicle
+     
+     
+5
+Business/investment use percentage (see instructions)  
+5
+%
+%
+6 
+Multiply line 4c by line 5. If the vehicle has at least four 
+wheels, leave lines 7 through 10 blank and go to line 11  
+6
+7
+Section 179 expense deduction (see instructions) 
+.
+7
+8
+Subtract line 7 from line 6 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Multiply line 8 by 10% (0.10) 
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Maximum credit per vehicle .
+.
+.
+.
+.
+.
+.
+.
+.
+10
+2,500
+2,500
+11 
+ 
+For vehicles with four or more wheels, enter the 
+amount from line 6. If the vehicle is a two-wheeled 
+vehicle, enter the smaller of line 9 or line 10 
+.
+.
+.
+11
+12
+Add columns (a) and (b) on line 11 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13 
+Qualified plug-in electric drive motor vehicle credit from partnerships and S corporations 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14 
+ 
+Business/investment use part of credit. Add lines 12 and 13. Partnerships and 
+S corporations, stop here and report this amount on Schedule K. All others, report this
+amount on Form 3800, Part III, line 1y 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+Note: Complete Part III to figure any credit for the personal use part of the vehicle.
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 37751E
+Form 8936 (Rev. 1-2023) 
+Form 8936 (Rev. 1-2023) 
+Page 2 
+Part III
+Credit for Personal Use Part of Vehicle 
+(a)  Vehicle 1  
+(b)  Vehicle 2  
+15 
+ 
+ 
+If you skipped Part II, enter the amount from line 4c. If 
+you completed Part II, subtract line 6 from line 4c. If the 
+vehicle has at least four wheels, leave lines 16 and 17 
+blank and go to line 18 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Multiply line 15 by 10% (0.10) .
+.
+.
+.
+.
+.
+.
+.
+16
+17 
+ 
+Maximum credit per vehicle. If you skipped Part II, 
+enter $2,500. If you completed Part II, subtract line 11 
+from line 10 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18 
+ 
+ 
+ 
+For vehicles with four or more wheels placed in service 
+before 2023, enter the amount from line 15. If the 
+vehicle is a two-wheeled vehicle, enter the smaller of 
+line 16 or line 17. For vehicles placed in service after 
+2022, see instructions  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+Add columns (a) and (b) on line 18 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Enter the amount from Form 1040, 1040-SR, or 1040-NR, line 18 
+.
+.
+.
+.
+.
+.
+.  
+20
+21
+Personal credits from Form 1040, 1040-SR, or 1040-NR (see instructions) 
+.
+.
+.
+.
+21
+22 
+Subtract line 21 from line 20. If zero or less, enter -0- and stop here. You cannot claim
+the personal use part of the credit .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+23 
+Personal use part of credit. Enter the smaller of line 19 or line 22 here and on
+Schedule 3 (Form 1040), line 6f. If line 22 is smaller than line 19, see instructions 
+.
+.
+23
+Form 8936 (Rev. 1-2023) 

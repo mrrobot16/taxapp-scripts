@@ -1,0 +1,13 @@
+Form 8959 is a document provided by the Internal Revenue Service (IRS) for reporting and calculating the Additional Medicare Tax. The form is to be attached to Form 1040, 1040-SR, 1040-NR, 1040-PR, or 1040-SS. The form consists of several parts.
+
+Part I of the form is for reporting Additional Medicare Tax on Medicare wages. It requires the taxpayer to enter their Medicare wages and tips from Form W-2, as well as any unreported tips or wages from other forms.
+
+Part II is for reporting Additional Medicare Tax on self-employment income. It requires the taxpayer to enter their self-employment income from Schedule SE (Form 1040) and subtract any applicable deductions.
+
+Part III is for reporting Additional Medicare Tax on Railroad Retirement Tax Act (RRTA) compensation. The taxpayer needs to enter their RRTA compensation and tips from Form W-2.
+
+Part IV is for calculating the total Additional Medicare Tax. The taxpayer needs to add the amounts calculated in Parts I, II, and III.
+
+Part V is for reconciling withholding. The taxpayer needs to enter the Medicare tax withheld from Form W-2 and calculate the regular Medicare tax withholding on Medicare wages. They then subtract the regular Medicare tax withholding from the Medicare tax withheld to determine the Additional Medicare Tax withholding on Medicare wages. Additionally, they need to enter any Additional Medicare Tax withholding on railroad retirement (RRTA) compensation. Finally, they add the amounts calculated to determine the total Additional Medicare Tax withholding.
+
+The completed form should be included with the taxpayer's tax return and any applicable amounts should be included on the appropriate lines of the tax return.

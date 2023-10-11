@@ -1,0 +1,13 @@
+Form 1045 is an Application for Tentative Refund that is used by individuals, estates, or trusts to carry back certain tax benefits to previous years. The form is filed separately from the tax return and is used to claim a net operating loss (NOL), unused general business credit, or net section 1256 contracts loss.
+
+The form requires the taxpayer to provide their personal information, including their name, social security number, and address. They must also indicate the specific tax benefits they are carrying back and the tax year they are applying it to. If the taxpayer filed a joint return or separate returns for some of the years involved, they must list the years and specify whether it was a joint or separate return.
+
+The form also asks for information regarding any changes in accounting period, whether a petition has been filed in Tax Court, and if the decrease in tax is due to a loss or credit resulting from a reportable transaction. Additionally, if the taxpayer is carrying back an NOL or net section 1256 contracts loss, they must indicate if it caused the release of foreign tax credits or other credits.
+
+The form includes a computation section where the taxpayer can calculate the decrease in tax for each tax year involved. This includes determining the NOL deduction, adjusted gross income, deductions, exemptions, taxable income, and various credits.
+
+There are also schedules included in the form, such as Schedule A for the NOL computation and Schedule B for the NOL carryover. These schedules provide additional details and calculations related to the NOL carryback.
+
+The form requires the taxpayer to sign under penalties of perjury, declaring that the information provided is true, correct, and complete.
+
+Overall, Form 1045 is a detailed application that allows taxpayers to carry back certain tax benefits to previous years and potentially claim a refund for overpaid taxes.

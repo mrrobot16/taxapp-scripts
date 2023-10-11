@@ -1,0 +1,134 @@
+SCHEDULE O 
+(Form 1120)
+(Rev. December 2018)
+Department of the Treasury  
+Internal Revenue Service
+Consent Plan and Apportionment Schedule 
+for a Controlled Group
+▶ Attach to Form 1120, 1120-C, 1120-F, 1120-FSC, 1120-L, 1120-PC, 1120-REIT, or 1120-RIC.
+▶ Go to www.irs.gov/Form1120 for instructions and the latest information.
+OMB No. 1545-0123
+Name
+Employer identification number
+Part I
+Apportionment Plan Information
+1
+Type of controlled group:
+a
+ Parent–subsidiary group
+b
+ Brother–sister group
+c
+ Combined group
+d
+ Life insurance companies only
+2
+This corporation has been a member of this group:
+a
+ For the entire year.
+b
+From 
+, 20
+, until 
+, 20
+.
+3
+This corporation consents and represents to:
+a
+Adopt an apportionment plan. All the other members of this group are adopting an apportionment plan effective for the
+current tax year which ends on
+, 20
+, and for all succeeding tax years.
+b
+Amend the current apportionment plan. All the other members of this group are currently amending a previously adopted
+plan, which was in effect for the tax year ending
+, 20
+, and for all succeeding tax years.
+c
+Terminate the current apportionment plan and not adopt a new plan. All the other members of this group are not adopting 
+an apportionment plan.
+d
+Terminate the current apportionment plan and adopt a new plan. All the other members of this group are adopting an
+apportionment plan effective for the current tax year which ends on
+, 20
+, and for all
+succeeding tax years.
+4
+If you checked box 3c or 3d above, check the applicable box below to indicate if the termination of the current apportionment 
+plan was:
+a
+Elected by the component members of the group.
+b
+Required for the component members of the group.
+5
+If you did not check a box on line 3 above, check the applicable box below concerning the status of the group’s apportionment 
+plan (see instructions).
+a
+No apportionment plan is in effect and none is being adopted.
+b
+An apportionment plan is already in effect. It was adopted for the tax year ending
+, 20
+, and for
+all succeeding tax years.
+6
+If all the members of this group are adopting a plan or amending the current plan for a tax year after the due date  
+(including extensions) of the tax return for this corporation, is there at least one year remaining on the statute of limitations  
+from the date this corporation filed its amended return for such tax year for assessing any resulting deficiency?  
+See instructions.
+a
+Yes.
+(i)
+The statute of limitations for this year will expire on
+, 20
+.
+(ii)
+On
+, 20
+, this corporation entered into an agreement with the Internal Revenue Service to  
+extend the statute of limitations for purposes of assessment until
+, 20
+.
+b
+No. The members may not adopt or amend an apportionment plan.
+7
+If the corporation has a short tax year that does not include December 31, check the box. See instructions.
+For Paperwork Reduction Act Notice, see Instructions for Form 1120.
+Cat. No. 48100N
+Schedule O (Form 1120) (Rev. 12-2018)
+Schedule O (Form 1120) (Rev. 12-2018)
+Page 2
+Part II
+Apportionment (See instructions)
+(a)  
+Group member’s name and   
+employer identification number
+(b)  
+Tax year end  
+(Yr-Mo)
+Apportionment
+ (c)  
+Accumulated earnings 
+credit
+(d)   
+Penalty for failure to 
+pay estimated tax
+(e)   
+Other
+    
+    
+    
+    
+    
+    
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Total
+Schedule O (Form 1120) (Rev. 12-2018)

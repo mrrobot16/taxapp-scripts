@@ -1,0 +1,11 @@
+Form 8839 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim qualified adoption expenses. It is to be attached to Form 1040, 1040-SR, or 1040-NR. The form consists of three parts.
+
+Part I requires the taxpayer to provide information about their eligible child or children, including their names, years of birth, whether they were born before 2005 and disabled, a child with special needs, or a foreign child.
+
+Part II is for calculating the adoption credit. It includes fields for entering the maximum adoption credit per child, whether Form 8839 was filed for a prior year for the same child, and the calculation of qualified adoption expenses. The taxpayer is also required to enter their modified adjusted gross income and determine if it exceeds a certain threshold.
+
+Part III is for reporting employer-provided adoption benefits. It includes fields for entering the maximum exclusion per child, whether employer-provided adoption benefits were received for a prior year for the same child, and the calculation of excluded and taxable benefits.
+
+The form provides instructions and references to additional worksheets for further calculations and guidance.
+
+Overall, Form 8839 is used by taxpayers to claim adoption-related tax benefits and report relevant information to the IRS.

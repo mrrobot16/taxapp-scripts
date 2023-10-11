@@ -1,0 +1,15 @@
+Form 6251 is a tax form used by individuals in the United States to calculate their Alternative Minimum Tax (AMT). The form is attached to Form 1040, 1040-SR, or 1040-NR and is used to determine if the taxpayer owes any additional tax under the AMT system.
+
+The form is divided into three parts. 
+
+Part I is used to calculate the Alternative Minimum Taxable Income (AMTI). It includes various adjustments to the taxpayer's income, such as deductions, exemptions, and certain types of income.
+
+Part II calculates the AMT based on the AMTI. It includes calculations for exemptions based on filing status and applies tax rates to the AMTI to determine the tentative minimum tax.
+
+Part III is used to calculate the tax using maximum capital gains rates. This part is only required if the taxpayer is required to do so by line 7 or by the Foreign Earned Income Tax Worksheet.
+
+The form includes various lines where the taxpayer needs to enter specific amounts from their tax return or other forms, such as Schedule A, Schedule D, or Schedule 1.
+
+After completing the calculations, the taxpayer enters the final AMT amount on line 11 and transfers it to Schedule 2 (Form 1040), line 1.
+
+It's important for taxpayers to consult the instructions for Form 6251 to ensure they complete the form correctly and accurately calculate their AMT. The form can be found on the IRS website, along with the latest instructions and information.

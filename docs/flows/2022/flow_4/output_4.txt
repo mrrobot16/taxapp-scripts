@@ -1,0 +1,7 @@
+Relevant Keywords
+
+[“single”, “dependents”, “aging parent”, “head of household”, “day care”, “dependent expenses”] → Form 1040, Form 2441
+[“employee”, “salary”, “incentive stock options”, “ISO”, “startup”] → Form W-2, 83(b) election, Form 3921, Form 6251
+[“health savings account”, “HSA”, “healthcare”, “employee benefits”] → Form 8889, Form 1099-SA , Form 5498-SA
+[“roth IRA”] →  Form 5498
+[“irrevocable trust”, “trusts and estates”, “business property”, “property”, “stocks”, “bonds”, “investment income”, “capital gains”] → Form 4797, Form 8960, Form 8582, Form 1041, Schedule K-1, Schedule D, Form 8949

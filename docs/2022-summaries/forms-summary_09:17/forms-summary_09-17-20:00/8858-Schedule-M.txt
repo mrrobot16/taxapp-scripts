@@ -1,0 +1,237 @@
+SCHEDULE M  
+(Form 8858) 
+(Rev. September 2021)
+Transactions Between Foreign Disregarded Entity (FDE) or 
+Foreign Branch (FB) and the Filer or Other Related Entities
+Department of the Treasury  
+Internal Revenue Service 
+▶ Attach to Form 8858.  
+ ▶ Go to www.irs.gov/Form8858 for instructions and the latest information.
+OMB No. 1545-1910
+Name of person filing Form 8858
+Identifying number
+Name of FDE or FB
+U.S. identifying number, if any
+Reference ID number (see instructions)
+Name of tax owner
+U.S. identifying number, if any
+Important: Complete a separate Schedule M for each FDE or FB. Enter the totals for each type of transaction that occurred during 
+the annual accounting period between the FDE or FB and the persons listed in the applicable columns (b) through (f). All amounts must 
+be stated in U.S. dollars translated from functional currency at the appropriate exchange rate for the FDE’s or FB’s tax year. See 
+instructions. 
+Enter the relevant functional currency and the exchange rate used throughout this schedule ▶
+Column headings. This schedule contains three sets of column headings. Check the box that identifies the status of the tax owner 
+and complete lines 1 through 21 with respect to the applicable set of column headings.
+Controlled Foreign Partnership 
+(a) Transactions of 
+  FDE or FB
+(b) U.S. person filing 
+this return 
+(c) Any domestic  
+corporation or  
+partnership 
+controlling or 
+controlled by the filer 
+(d) Any foreign  
+corporation or  
+partnership 
+controlling or 
+controlled by the 
+filer (other than the 
+tax owner) 
+(e) Any U.S. person 
+  with a 10% or more  
+direct interest in the  
+controlled foreign  
+partnership (other 
+than the filer) 
+Controlled Foreign Corporation 
+(a) Transactions of 
+FDE or FB
+(b) U.S. person filing 
+this return 
+(c) Any domestic  
+corporation or  
+partnership controlled  
+by the filer 
+(d) Any foreign  
+corporation or  
+partnership controlled  
+by the filer (other 
+  than tax owner) 
+(e) 10% or more U.S.  
+shareholder of any  
+corporation 
+  controlling the tax  
+owner 
+(f) 10% or more U.S.  
+shareholder, or other  
+owner, of any entity  
+controlling the tax  
+owner 
+U.S. Tax Owner
+(a) Transactions of 
+  FDE or FB
+(b) U.S. person filing 
+this return 
+(other than the 
+tax owner of the 
+FDE or FB)
+(c) Any domestic 
+corporation or 
+partnership controlled 
+by the filer (other than 
+the tax owner of the 
+FDE or FB)
+(d) Any foreign 
+corporation (including 
+its branches or 
+disregarded entities) 
+controlling or controlled 
+by the filer
+(e) Any foreign 
+partnership (including its 
+branches or FDEs) 
+controlling or controlled 
+by the filer
+     
+     
+     
+     
+     
+     
+1 
+Sales of inventory .
+.
+.
+.
+. 
+2 
+Sales of property rights .
+.
+. 
+3 
+Compensation received for certain 
+services .
+.
+.
+.
+.
+.
+.
+.
+4 
+Commissions received 
+.
+.
+. 
+5 
+Rents, royalties, and license fees 
+received 
+.
+.
+.
+.
+.
+.
+.
+6 
+Dividends/Distributions received  
+7 
+Interest received .
+.
+.
+.
+. 
+8 
+Loan guarantee fees received 
+.
+9
+Other 
+.
+.
+.
+.
+.
+.
+.
+. 
+10
+Add lines 1 through 9 .
+.
+.
+. 
+11
+Purchases of inventory 
+.
+.
+. 
+12 
+Purchases of tangible property 
+other than inventory .
+.
+.
+. 
+13
+Purchases of property rights 
+. 
+14 
+Compensation paid for certain  
+services 
+.
+.
+.
+.
+.
+.
+. 
+15
+Commissions paid 
+.
+.
+.
+. 
+16 
+Rents, royalties, and license fees 
+paid .
+.
+.
+.
+.
+.
+.
+.
+. 
+17
+Interest paid 
+.
+.
+.
+.
+.
+. 
+18
+Loan guarantee fees paid 
+.
+.
+19
+Add lines 11 through 18 .
+.
+. 
+20 
+Amounts borrowed 
+(see instructions) .
+.
+.
+.
+. 
+21 
+Amounts loaned 
+(see instructions) .
+.
+.
+.
+. 
+For Paperwork Reduction Act Notice, see the Instructions for Form 8858. 
+Cat. No. 37387C 
+Schedule M (Form 8858) (Rev. 9-2021)

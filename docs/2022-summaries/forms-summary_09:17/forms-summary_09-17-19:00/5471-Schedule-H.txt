@@ -1,0 +1,15 @@
+Schedule H (Form 5471) is a document that is to be attached to Form 5471, which is used to report information about a foreign corporation. The purpose of Schedule H is to calculate the current earnings and profits of the foreign corporation according to U.S. financial and tax accounting standards.
+
+The form consists of several lines where various adjustments are made to the net income or loss of the foreign corporation per its books of account. These adjustments include capital gains or losses, depreciation and amortization, depletion, investment or incentive allowance, charges to statutory reserves, inventory adjustments, income taxes, foreign currency gains or losses, and any other adjustments that may be necessary.
+
+The total net additions and total net subtractions are calculated, and then the current earnings and profits are determined by subtracting the total net subtractions from the sum of the net income or loss and the total net additions.
+
+There is also a provision for reporting the DASTM gain or loss for foreign corporations that use DASTM (Domestic Asset Sales Tax Method). The result of combining the current earnings and profits with the DASTM gain or loss is entered on line 5c.
+
+Finally, there are additional lines to report the portion of the line 5c amount with respect to different categories of income, such as the general category, passive category, and the Section 901(j) category for sanctioned countries. The amounts for each category are also entered on the applicable Schedule J, Part I, line 3, column (a).
+
+The form concludes with the translation of the current earnings and profits in U.S. dollars using the average exchange rate, as defined in section 989(b)(3) and the related regulations. The exchange rate used is also entered on the form.
+
+It is important to note that the amounts entered on lines 1 through 5c should be in the functional currency of the foreign corporation.
+
+The form includes instructions and a reference ID number for further guidance and information.

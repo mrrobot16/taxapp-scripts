@@ -1,0 +1,13 @@
+The Schedule F (Form 990) is a document used by organizations in the United States to report their activities outside the country. It is completed if the organization answered "Yes" to certain questions on Form 990. This schedule provides detailed information on grants and other assistance provided to organizations or entities outside the United States, as well as grants and assistance provided to individuals outside the country.
+
+Part I of the schedule asks for general information on activities outside the United States, including whether the organization maintains records to substantiate its grants and assistance, and the procedures for monitoring the use of those funds.
+
+Part II focuses on grants and other assistance provided to organizations or entities outside the United States. It requires information such as the name of the organization, purpose of the grant, amount of cash grant, manner of cash disbursement, and description of noncash assistance.
+
+Part III addresses grants and assistance provided to individuals outside the United States. It asks for information on the type of grant or assistance, region, number of recipients, amount of cash grant, manner of cash disbursement, and description of noncash assistance.
+
+Part IV of the schedule pertains to foreign forms that may need to be filed if the organization had certain transactions or ownership interests in foreign entities during the tax year. These forms include Form 926, Form 3520, Form 3520-A, Form 5471, Form 8621, Form 8865, and Form 5713.
+
+Part V is for supplemental information, where organizations can provide additional details related to monitoring of funds, accounting methods, and other relevant information.
+
+The Schedule F (Form 990) is attached to Form 990 and is used to provide a comprehensive overview of an organization's activities outside the United States.

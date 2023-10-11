@@ -1,0 +1,17 @@
+Form 8902 is a document provided by the Internal Revenue Service (IRS) for corporations to report and calculate the alternative tax on qualifying shipping activities. The form is to be attached to the corporation's income tax return.
+
+The form is divided into several parts. 
+
+Part I is for the corporation to indicate whether they have previously made a section 1354 election, are making a new section 1354 election, revoking a previous election, or had their election automatically terminated due to ceasing to be a qualifying vessel operator. 
+
+Part II requests other information, such as whether the corporation is a member of an electing group, the number of corporations and vessels in the electing group, and whether any member of the group has income from qualifying secondary or incidental activities. 
+
+Part III is for vessel information, including vessel name, IMO number, USCG VIN number, flag, date flagged, vessel type, and whether the vessel is used in U.S. foreign trade.
+
+Part IV is for calculating notional shipping income, including dead weight tons, net tons, the smaller of net tons or 25,000, multiplying the previous amount by 0.004, subtracting the smaller amount from net tons and multiplying the result by 0.002, and adding the two previous amounts to get the daily notional shipping income. The number of days the vessel operated in U.S. foreign trade is multiplied by the daily notional shipping income to get an amount. 
+
+Part IV also includes calculations for vessels that had income excluded under section 883 or other provisions. 
+
+Part V calculates the total annual notional shipping income by summing the amounts from Part IV, line 28. This amount is then multiplied by the highest rate of tax specified in section 11 to determine the alternative tax on qualifying shipping activities. This amount is to be entered on the Other taxes line of Form 1120, Schedule J, or Form 1120-F, Schedule J.
+
+The form includes additional instructions and a separate notice for the Paperwork Reduction Act.

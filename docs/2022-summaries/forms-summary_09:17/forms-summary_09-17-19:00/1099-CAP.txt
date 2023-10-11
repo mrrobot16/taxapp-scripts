@@ -1,0 +1,9 @@
+Form 1099-CAP is a tax form used by corporations to report changes in corporate control and capital structure to the IRS. The form has three copies: Copy A is filed with the IRS, Copy B is provided to the shareholder, and Copy C is retained by the corporation.
+
+The form requires the corporation to provide its name, address, telephone number, and taxpayer identification number (TIN). It also requires the shareholder's name, address, and TIN. Additionally, the form asks for information about the sale or exchange of stock, including the date, aggregate amount received, number of shares exchanged, and classes of stock exchanged.
+
+The instructions for the shareholder state that they may receive this form if they own stock in a corporation that has had a change in control or capital structure. The shareholder may be required to recognize gain from the exchange and should report it on Form 8949. However, they cannot claim a loss on Form 8949 as a result of this exchange.
+
+The instructions for the corporation state that they should use the current General Instructions for Certain Information Returns and the current Instructions for Form 1099-CAP to complete the form. They can file electronically or by mail, following the instructions provided.
+
+If there are any questions about reporting on Form 1099-CAP, the information reporting customer service site can be contacted for assistance.

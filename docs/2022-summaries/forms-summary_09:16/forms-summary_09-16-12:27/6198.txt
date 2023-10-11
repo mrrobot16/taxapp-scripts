@@ -1,0 +1,15 @@
+Form 6198 is a document provided by the Internal Revenue Service (IRS) that taxpayers need to attach to their tax return. It is used to determine the amount at risk for certain activities and to calculate deductible losses.
+
+The form is divided into four parts:
+
+Part I: Current Year Profit (Loss) From the Activity, Including Prior Year Nondeductible Amounts. This section requires taxpayers to report their ordinary income or loss, gain or loss from the sale of assets used in the activity, other income and gains from the activity, and other deductions and losses from the activity.
+
+Part II: Simplified Computation of Amount at Risk. Taxpayers need to calculate the adjusted basis in the activity at the beginning of the tax year and make adjustments for increases and decreases during the year.
+
+Part III: Detailed Computation of Amount at Risk. This section is only necessary if the taxpayer completed Part III of Form 6198 in the prior year. It involves calculating the investment in the activity, increases and decreases at the effective date, and determining the amount at risk.
+
+Part IV: Deductible Loss. Taxpayers need to enter the larger of the amount at risk from Part II or Part III and then enter the smaller of the line 5 loss or the amount at risk. This will determine the deductible loss.
+
+The form provides checkboxes and instructions for taxpayers to follow, and it is important to refer to the instructions for further guidance.
+
+It is worth noting that if the loss is from a passive activity, taxpayers need to consult the instructions for Form 8582 or Form 8810 to determine if the loss is allowed under the passive activity rules.

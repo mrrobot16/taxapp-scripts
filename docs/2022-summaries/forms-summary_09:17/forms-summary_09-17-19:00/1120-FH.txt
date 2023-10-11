@@ -1,0 +1,23 @@
+Schedule H (Form 1120-F) is a document provided by the Internal Revenue Service (IRS) for corporations to report deductions allocated to effectively connected income (ECI) under Regulations Section 1.861-8. The form is to be attached to Form 1120-F, which is the U.S. Income Tax Return of a Foreign Corporation.
+
+The form is divided into four parts:
+
+Part I: Home Office Deductible Expenses Definitely Related Solely to ECI or Non-ECI
+- This section requires the corporation to enter the total expenses on the books of the home office and indicate the accounting convention used to compute the amount.
+- It also includes adjustments for U.S. tax principles and calculates the total deductible expenses on the books of the home office, including interest expense and bad debt expense.
+
+Part II: Home Office Deductible Expenses Allocated and Apportioned to ECI
+- This section involves the allocation and apportionment of remaining deductible expenses on the books of the home office that are not definitely related solely to ECI or non-ECI.
+- It requires the corporation to enter the average exchange rate used to convert amounts to U.S. dollars and calculate the remaining home office deductible expenses allocated and apportioned to ECI.
+
+Part III: Allocation and Apportionment Methods and Financial Records Used to Complete Parts I and II
+- This part asks the corporation to indicate whether it used any financial and other records to identify deductible expenses allocated and apportioned to ECI.
+- It also includes questions about the corporation's use of ratio-based methods and other methods in Parts I and II.
+
+Part IV: Allocation and Apportionment of Expenses on Books and Records Used to Prepare Form 1120-F, Schedule L
+- This section involves the allocation and apportionment of deductible expenses on the books and records used to prepare Form 1120-F, Schedule L.
+- It includes adjustments for U.S. tax principles and calculates the total deductible expenses, including third-party interest expense, interbranch interest expense, bad debt expense, and other deductible expenses not allocated or apportioned to ECI and non-ECI.
+
+The form also includes a reconciliation of the allocation and apportionment of deductible expenses to ECI and non-ECI, as well as a calculation of the total deductible expenses on books and records allocated and apportioned to ECI and non-ECI.
+
+Overall, Schedule H (Form 1120-F) provides a structured format for foreign corporations to report and allocate their deductible expenses in relation to effectively connected income and non-effectively connected income.

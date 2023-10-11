@@ -1,0 +1,1444 @@
+Form  709
+Department of the Treasury  
+Internal Revenue Service 
+United States Gift (and Generation-Skipping Transfer) Tax Return 
+Go to www.irs.gov/Form709 for instructions and the latest information.
+(For gifts made during calendar year 2022) 
+See instructions. 
+OMB No. 1545-0020
+2022 
+Part 1—General Information 
+1  Donor’s first name and middle initial 
+2  Donor’s last name 
+3 Donor’s social security number 
+4  Address (number, street, and apartment number) 
+5  Legal residence (domicile) 
+6  City or town, state or province, country, and ZIP or foreign postal code
+7  Citizenship (see instructions) 
+8 
+If the donor died during the year, check here
+and enter date of death 
+, 
+. 
+Yes 
+No 
+9 
+If you extended the time to file this Form 709, check here
+10 
+Enter the total number of donees listed on Schedule A. Count each person only once:
+11 a
+Have you (the donor) previously filed a Form 709 (or 709-A) for any other year? If “No,” skip line 11b 
+.
+.
+.
+.
+.
+.
+.
+b 
+Has your address changed since you last filed Form 709 (or 709-A)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+ 
+ 
+Gifts by husband or wife to third parties. Do you consent to have the gifts (including generation-skipping transfers) made 
+by you and by your spouse to third parties during the calendar year considered as made one-half by each of you? (See 
+instructions.) (If the answer is “Yes,” the following information must be furnished and your spouse must sign the consent 
+shown below. If the answer is “No,” skip lines 13–18.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+Name of consenting spouse 
+14 SSN 
+15 
+Were you married to one another during the entire calendar year? See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+If line 15 is “No,” check whether 
+married 
+divorced or 
+widowed/deceased, and give date. See instructions:
+17 
+Will a gift tax return for this year be filed by your spouse? If “Yes,” mail both returns in the same envelope 
+.
+.
+.
+.
+.
+18 
+Consent of Spouse. I consent to have the gifts (and generation-skipping transfers) made by me and by my spouse to third parties during the calendar 
+year considered as made one-half by each of us. We are both aware of the joint and several liability for tax created by the execution of this consent. 
+Consenting spouse’s signature: 
+Date:
+19 
+Have you applied a DSUE amount received from a predeceased spouse to a gift or gifts reported on this or a previous Form 
+709? If “Yes,” complete Schedule C .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part 2—Tax Computation 
+1 
+Enter the amount from Schedule A, Part 4, line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Enter the amount from Schedule B, line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Total taxable gifts. Add lines 1 and 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Tax computed on amount on line 3 (see Table for Computing Gift Tax in instructions) 
+.
+.
+.
+.
+.
+.
+4 
+5 
+Tax computed on amount on line 2 (see Table for Computing Gift Tax in instructions) 
+.
+.
+.
+.
+.
+.
+5 
+6 
+Balance. Subtract line 5 from line 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Applicable credit amount. If donor has DSUE amount from predeceased spouse(s) or Restored Exclusion 
+Amount, enter amount from Schedule C, line 5; otherwise, see instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Enter the applicable credit against tax allowable for all prior periods (from Sch. B, line 1, col. C) 
+.
+.
+.
+8 
+9 
+Balance. Subtract line 8 from line 7. Do not enter less than zero .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Enter 20% (0.20) of the amount allowed as a specific exemption for gifts made after September 8, 1976, 
+and before January 1, 1977. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Balance. Subtract line 10 from line 9. Do not enter less than zero 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Applicable credit. Enter the smaller of line 6 or line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Credit for foreign gift taxes (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Total credits. Add lines 12 and 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Balance. Subtract line 14 from line 6. Do not enter less than zero 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Generation-skipping transfer taxes (from Schedule D, Part 3, col. G, total) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Total tax. Add lines 15 and 16 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Gift and generation-skipping transfer taxes prepaid with extension of time to file .
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+If line 18 is less than line 17, enter balance due. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+If line 18 is greater than line 17, enter amount to be refunded 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+Attach check or money order here. 
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined this return, including any accompanying schedules and statements, and to the best of my 
+knowledge and belief, it is true, correct, and complete. Declaration of preparer (other than donor) is based on all information of which preparer has 
+any knowledge. 
+Signature of donor 
+Date
+May the IRS discuss this return  
+with the preparer shown below?  
+See instructions. 
+Yes 
+No 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if  
+self-employed 
+PTIN
+Firm’s name
+Firm’s address
+Firm’s EIN
+Phone no. 
+For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see the instructions for this form. 
+Cat. No. 16783M
+Form 709 (2022)
+Gifts made by spouse—complete only if you are splitting gifts with your spouse and he/she also made gifts.  
+Form 709 (2022)
+Page 2
+SCHEDULE A 
+Computation of Taxable Gifts (including transfers in trust) (see instructions) 
+A 
+Does the value of any item listed on Schedule A reflect any valuation discount? If “Yes,” attach explanation 
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+B 
+Check here if you elect under section 529(c)(2)(B) to treat any contributions made this year to a qualified tuition program as made ratably over a 
+5-year period beginning this year. See instructions. Attach explanation. 
+Part 1—Gifts Subject Only to Gift Tax. Gifts less political organization, medical, and educational exclusions. See instructions. 
+A  
+Item 
+number 
+B 
+• Donee’s name and address   
+• Relationship to donor (if any)   
+• Description of gift   
+• If the gift was of securities, give CUSIP no.   
+• If closely held entity, give EIN 
+C 
+D 
+Donor’s adjusted 
+basis of gift 
+E 
+Date 
+of gift 
+F 
+Value at 
+date of gift 
+G 
+For split gifts, 
+enter 1/2 of 
+column F 
+H 
+Net transfer 
+(subtract col. G 
+from col. F) 
+1
+Gifts made by spouse—complete only if you are splitting gifts with your spouse and he/she also made gifts.  
+    
+     
+     
+     
+     
+     
+     
+     
+Total of Part 1. Add amounts from Part 1, column H .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Part 2—Direct Skips. Gifts that are direct skips and are subject to both gift tax and generation-skipping transfer tax. You must list the gifts in 
+chronological order. 
+A  
+Item 
+number 
+B 
+• Donee’s name and address   
+• Relationship to donor (if any)   
+• Description of gift   
+• If the gift was of securities, give CUSIP no.   
+• If closely held entity, give EIN 
+C 
+2632(b)  
+election 
+out 
+D 
+Donor’s adjusted 
+basis of gift 
+E 
+Date 
+of gift 
+F  
+Value at   
+date of gift 
+G 
+For split gifts, 
+enter 1/2 of 
+column F 
+H 
+Net transfer 
+(subtract col. G 
+from col. F) 
+1
+    
+     
+     
+     
+     
+     
+     
+     
+Total of Part 2. Add amounts from Part 2, column H .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part 3—Indirect Skips and Other Transfers in Trust. Gifts to trusts that are indirect skips as defined under section 2632(c) or to trusts that 
+are currently subject to gift tax and may later be subject to generation-skipping transfer tax. You must list these gifts in chronological order.
+A  
+Item 
+number 
+B 
+• Donee’s name and address   
+• Relationship to donor (if any)   
+• Description of gift   
+• If the gift was of securities, give CUSIP no.   
+• If closely held entity, give EIN 
+C 
+2632(c)  
+election 
+D 
+Donor’s adjusted 
+basis of gift 
+E 
+Date 
+of gift 
+F  
+Value at   
+date of gift 
+G 
+For split gifts, 
+enter 1/2 of 
+column F 
+H 
+Net transfer 
+(subtract col. G 
+from col. F) 
+1
+Gifts made by spouse—complete only if you are splitting gifts with your spouse and he/she also made gifts.  
+     
+     
+     
+     
+     
+     
+     
+     
+Total of Part 3. Add amounts from Part 3, column H .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach additional statements.) 
+Form 709 (2022) 
+Form 709 (2022)
+Page 3
+Part 4—Taxable Gift Reconciliation 
+1 
+Total value of gifts of donor. Add totals from column H of Parts 1, 2, and 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Total annual exclusions for gifts listed on line 1 (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Total included amount of gifts. Subtract line 2 from line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Deductions (see instructions) 
+4 
+Gifts of interests to spouse for which a marital deduction will be claimed, based on item
+numbers 
+of Schedule A .
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Exclusions attributable to gifts on line 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Marital deduction. Subtract line 5 from line 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Charitable deduction, based on item numbers 
+less exclusions 
+7 
+8 
+Total deductions. Add lines 6 and 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Subtract line 8 from line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Generation-skipping transfer taxes payable with this Form 709 (from Schedule D, Part 3, col. G, total) .
+.
+.
+.
+10 
+11 
+Taxable gifts. Add lines 9 and 10. Enter here and on page 1, Part 2—Tax Computation, line 1 
+.
+.
+.
+.
+.
+.
+11 
+Terminable Interest (QTIP) Marital Deduction. (See instructions for Schedule A, Part 4, line 4.) 
+If a trust (or other property) meets the requirements of qualified terminable interest property under section 2523(f), and: 
+a. The trust (or other property) is listed on Schedule A; and 
+b. The value of the trust (or other property) is entered in whole or in part as a deduction on Schedule A, Part 4, line 4, then the donor shall be 
+deemed to have made an election to have such trust (or other property) treated as qualified terminable interest property under section 2523(f). 
+If less than the entire value of the trust (or other property) that the donor has included in Parts 1 and 3 of Schedule A is entered as a deduction 
+on line 4, the donor shall be considered to have made an election only as to a fraction of the trust (or other property). The numerator of this 
+fraction is equal to the amount of the trust (or other property) deducted on Schedule A, Part 4, line 6. The denominator is equal to the total 
+value of the trust (or other property) listed in Parts 1 and 3 of Schedule A. 
+If you make the QTIP election, the terminable interest property involved will be included in your spouse’s gross estate upon his or her death 
+(section 2044). See instructions for line 4 of Schedule A. If your spouse disposes (by gift or otherwise) of all or part of the qualifying life income 
+interest, he or she will be considered to have made a transfer of the entire property that is subject to the gift tax. See Transfer of Certain Life 
+Estates Received From Spouse in the instructions. 
+12 
+Election Out of QTIP Treatment of Annuities 
+Check here if you elect under section 2523(f)(6) not to treat as qualified terminable interest property any joint and survivor annuities that are 
+reported on Schedule A and would otherwise be treated as qualified terminable interest property under section 2523(f). See instructions. Enter the 
+item numbers from Schedule A for the annuities for which you are making this election:
+SCHEDULE B 
+Gifts From Prior Periods 
+If you answered “Yes” on line 11a of page 1, Part 1, see the instructions for completing Schedule B. If you answered “No,” skip to the 
+Tax Computation on page 1 (or Schedule C or D, if applicable). Complete Schedule A before beginning Schedule B. See instructions 
+for recalculation of the column C amounts. Attach calculations.
+A 
+Calendar year or   
+calendar quarter 
+(see instructions) 
+B 
+Internal Revenue office 
+where prior return was filed 
+C 
+Amount of applicable 
+credit (unified credit)   
+against gift tax  
+for periods after  
+December 31, 1976 
+D 
+Amount of specific  
+exemption for prior  
+periods ending before 
+January 1, 1977 
+E 
+Amount of 
+taxable gifts 
+1 
+Totals for prior periods 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Amount, if any, by which total specific exemption, line 1, column D, is more than $30,000 
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Total amount of taxable gifts for prior periods. Add amount on line 1, column E, and amount, if any, on line 2. Enter 
+here and on page 1, Part 2—Tax Computation, line 2 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+(If more space is needed, attach additional statements.) 
+Form 709 (2022) 
+Form 709 (2022)
+Page 4
+SCHEDULE C 
+Deceased Spousal Unused Exclusion (DSUE) Amount and Restored Exclusion
+Provide the following information to determine the DSUE amount and applicable credit received from prior spouses. Complete Schedule A 
+before beginning Schedule C.
+A 
+Name of deceased spouse 
+(dates of death after December 31, 2010, only)
+B 
+Date of death
+C  
+Portability election 
+made?
+Yes
+No
+D  
+If “Yes,” DSUE 
+amount received 
+from spouse
+E  
+DSUE amount applied 
+by donor to lifetime 
+gifts (list current 
+and prior gifts)
+F 
+Date of gift(s)      
+(enter as mm/dd/yy 
+for Part 1 and as 
+yyyy for Part 2)
+Part 1—DSUE RECEIVED FROM LAST DECEASED SPOUSE
+    
+   
+   
+   
+   
+   
+    
+Part 2—DSUE RECEIVED FROM PREDECEASED SPOUSE(S)
+     
+     
+     
+     
+     
+     
+     
+TOTAL (for all DSUE amounts applied from column E for Part 1 and Part 2) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. 
+1 
+Donor’s basic exclusion amount (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2
+Total from column E, Parts 1 and 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Restored Exclusion Amount (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Add lines 1, 2, and 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5 
+Applicable credit on amount in line 4 (see Table for Computing Gift Tax in the instructions). Enter here and on line 7, 
+Part 2—Tax Computation 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+SCHEDULE D 
+Computation of Generation-Skipping Transfer Tax 
+Note: Inter vivos direct skips that are completely excluded by the GST exemption must still be fully reported (including value and exemptions 
+claimed) on Schedule D. 
+Part 1—Generation-Skipping Transfers. List items from Schedule A first, then items to be reported on Schedule D, including any transfers 
+subject to an Estate Tax Inclusion Period (ETIP).
+A 
+Item number 
+(from Schedule A, 
+Part 2, col. A, then 
+ETIP transfers, 
+if any)
+B 
+Description 
+(only for ETIP transfers) 
+C 
+Value 
+(from Schedule A, 
+Part 2, col. H, 
+or close of ETIP 
+described in col. B) 
+D 
+Nontaxable 
+portion of transfer 
+E 
+Net transfer 
+(subtract col. D 
+from col. C) 
+1
+Gifts made by spouse (for gift splitting only)     
+     
+     
+     
+     
+     
+(If more space is needed, attach additional statements.) 
+Form 709 (2022) 
+Form 709 (2022)
+Page 5
+Part 2—GST Exemption Reconciliation (Section 2631) and Section 2652(a)(3) Election 
+Check here
+if you are making a section 2652(a)(3) (special QTIP) election. See instructions. 
+Enter the item numbers from Schedule A of the gifts for which you are making this election:
+1 
+Maximum allowable exemption (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Total exemption used for periods before filing this return 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Exemption available for this return. Subtract line 2 from line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Exemption claimed on this return from Part 3, column C, total below .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Automatic allocation of exemption to transfers reported on Schedule A, Part 3. To opt out of the automatic 
+allocation rules, you must attach an “Election Out” statement. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Exemption allocated to transfers not shown on line 4 or line 5 above. You must attach a “Notice of Allocation.” 
+See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Add lines 4, 5, and 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Exemption available for future transfers. Subtract line 7 from line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Part 3—Tax Computation 
+A 
+Item number 
+(from Schedule D, 
+Part 1) 
+B 
+Net transfer 
+(from Schedule D, 
+Part 1, col. E) 
+C 
+GST exemption  
+allocated 
+D 
+Divide col. C  
+by col. B
+E 
+Inclusion ratio 
+(Subtract col. D 
+from 1.000)
+F 
+Applicable rate  
+(multiply col. E  
+by 40% (0.40)) 
+G 
+Generation-skipping  
+transfer tax   
+(multiply col. B 
+by col. F) 
+1
+Gifts made by spouse (for gift splitting only)     
+      
+     
+     
+      
+     
+     
+     
+Total exemption claimed. Enter here 
+and on Part 2, line 4, above. May not 
+exceed Part 2, line 3, above .
+.
+.
+Total generation-skipping transfer tax. Enter here; on page 
+3, Schedule A, Part 4, line 10; and on page 1, Part 2—Tax 
+Computation, line 16 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach additional statements.) 
+Form 709 (2022) 

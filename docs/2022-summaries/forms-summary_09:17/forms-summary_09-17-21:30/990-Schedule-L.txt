@@ -1,0 +1,13 @@
+Schedule L is a form that organizations in the United States must complete if they answered "Yes" to certain questions on Form 990 or Form 990-EZ. The form is used to disclose transactions with interested persons, excess benefit transactions, loans to and from interested persons, grants or assistance benefiting interested persons, and business transactions involving interested persons.
+
+Part I of the form is for excess benefit transactions, which are applicable to section 501(c)(3), section 501(c)(4), and section 501(c)(29) organizations. The organization must provide the name of the disqualified person, their relationship with the organization, a description of the transaction, and indicate whether it has been corrected. The form also requires the organization to enter the amount of tax incurred by the organization managers or disqualified persons under section 4958 and any tax reimbursed by the organization.
+
+Part II is for loans to and/or from interested persons. The organization must provide the name of the interested person, their relationship with the organization, the purpose of the loan, whether it is a loan to or from the organization, the original principal amount, the balance due, whether it is in default, and whether it was approved by the board or committee. 
+
+Part III is for grants or assistance benefiting interested persons. The organization must provide the name of the interested person, their relationship with the organization, the amount of assistance, the type of assistance, and the purpose of assistance.
+
+Part IV is for business transactions involving interested persons. The organization must provide the name of the interested person, their relationship with the organization, the amount of the transaction, a description of the transaction, and indicate whether there is a sharing of organizations' revenues.
+
+Part V is for providing additional information for responses to questions on Schedule L.
+
+Overall, Schedule L is a form that organizations use to disclose transactions with interested persons and ensure compliance with IRS regulations.

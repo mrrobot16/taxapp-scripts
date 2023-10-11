@@ -1,0 +1,15 @@
+Schedule H (Form 5471) is a document that must be attached to Form 5471 when filing taxes. It is used to report the current earnings and profits of a foreign corporation. The form requires the taxpayer to provide various amounts in the functional currency of the foreign corporation.
+
+The form is divided into several sections. The first section requires the taxpayer to enter the current year net income or loss per foreign books of account.
+
+The second section requires the taxpayer to make net adjustments to determine the current earnings and profits according to U.S. financial and tax accounting standards. These adjustments include capital gains or losses, depreciation and amortization, depletion, investment or incentive allowance, charges to statutory reserves, inventory adjustments, income taxes, foreign currency gains or losses, and any other adjustments.
+
+The third section calculates the total net additions and total net subtractions based on the adjustments made in the second section.
+
+The fourth section calculates the current earnings and profits by adding the net additions and subtracting the net subtractions from the current year net income or loss.
+
+The fifth section includes additional calculations for DASTM gain or loss for foreign corporations that use DASTM. It also requires the taxpayer to combine the current earnings and profits with the DASTM gain or loss and enter the result on line 5c. The taxpayer must then allocate the amount on line 5c to specific categories of income, including the general category, passive category, and Section 901(j) category for sanctioned countries.
+
+The form also requires the taxpayer to translate the current earnings and profits into U.S. dollars using the average exchange rate and enter the exchange rate used.
+
+Overall, Schedule H (Form 5471) is a detailed form that helps taxpayers accurately report the current earnings and profits of a foreign corporation for tax purposes.

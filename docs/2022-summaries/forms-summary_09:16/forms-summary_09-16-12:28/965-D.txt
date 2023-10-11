@@ -1,0 +1,13 @@
+Form 965-D is a transfer agreement form issued by the Department of the Treasury, Internal Revenue Service (IRS) in the United States. The form is used to report the transfer of tax liabilities under Section 965(i)(2) of the Internal Revenue Code.
+
+The form requires the transferor and transferee to provide their respective information, including name, taxpayer identification number, and address. It also requires the identification of the S Corporation with respect to which the Section 965(i) election was effective.
+
+The form includes a section to provide information about the triggering event that led to the transfer agreement, such as the date of the event and whether the transfer was due to the death of the transferor. The form also requires the transferor to provide the percentage of their section 965(i) deferred net tax liability that is properly allocable to the portion of stock being transferred to the transferee.
+
+Additionally, the form requires the reporting of the transferor's unpaid section 965(i) net tax liability being assumed by the transferee. The transferee is then asked to confirm their ability to pay the assumed tax liability and whether their leverage ratio exceeded 3:1 immediately after the triggering event. The form provides space for any additional information pertaining to the transferee's ability to pay.
+
+The form includes a section for the terms of the agreement, where both the transferor and transferee must sign and agree to assume the tax liability. The transferor and any successor to the transferor remain jointly and severally liable for the tax liability being assumed by the transferee. The transferee also agrees to comply with all the conditions and requirements of Section 965(i) and related regulations.
+
+The form concludes with a declaration by both the transferor and transferee, under penalties of perjury, stating that the information provided on the form is true, correct, and complete.
+
+The form is filed in duplicate and should be submitted according to the instructions provided on the IRS website.

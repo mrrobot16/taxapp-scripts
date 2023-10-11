@@ -1,0 +1,11 @@
+Form 1120-FSC is the U.S. Income Tax Return for a Foreign Sales Corporation (FSC). This form is used to report the income and deductions of a foreign sales corporation for tax purposes. The form includes various schedules and sections to report specific information, such as the FSC's assets, liabilities, income, and expenses.
+
+The form requires the FSC to provide details about its principal shareholder, including their name, identification number, address, and total assets. It also asks whether the FSC is a subsidiary in a parent-subsidiary controlled group and requires information about the common parent if applicable.
+
+The form includes a section for the FSC to indicate the pricing rules used to determine taxable income on transactions resulting in foreign trading gross receipts. It also asks for information about estimated tax payments, overpayments, and any penalties.
+
+There are several schedules to complete as part of Form 1120-FSC. Schedule A is used to report the cost of goods sold related to foreign trading gross receipts. Schedule B is used to report net income attributable to nonexempt foreign trade income. Schedule E is used to report exemption percentages used in calculating exempt foreign trade income. Schedule F is used to report net income from nonexempt foreign trade income and taxable nonforeign trade income. Schedule G is used to report deductions allocated or apportioned to foreign trade income other than foreign trade income reported on Schedule F.
+
+The form also includes a tax computation schedule (Schedule J) to calculate the FSC's income tax liability and a balance sheet schedule (Schedule L) to report the FSC's assets, liabilities, and shareholders' equity. Additionally, there are reconciliation schedules (Schedule M-1 and Schedule M-2) to reconcile the FSC's income and deductions per books with the income and deductions reported on the tax return.
+
+Overall, Form 1120-FSC is a comprehensive tax return form specifically designed for foreign sales corporations to report their income, deductions, and other relevant information to the IRS.

@@ -1,0 +1,27 @@
+Schedule C (Form 8995-A) is a document that is attached to Form 8995-A and used for loss netting and carryforward purposes. It is provided by the Department of the Treasury and the Internal Revenue Service. 
+
+The form allows for the reporting of trades, businesses, or aggregations, and provides space for up to three entries. If more than three are required, additional Schedule C forms can be attached.
+
+The form includes several sections:
+
+1. Trade, business, or aggregation name: This section is used to enter the name of each trade, business, or aggregation being reported.
+
+2. Qualified business income/(loss): This section is used to report the qualified business income or loss for each trade, business, or aggregation.
+
+3. Reduction for loss netting: This section provides instructions for calculating the reduction for loss netting.
+
+4. Adjusted qualified business income: This section is used to combine the qualified business income or loss with the reduction for loss netting to calculate the adjusted qualified business income.
+
+5. Qualified business net (loss) carryforward from prior years: This section is used to report any net loss carryforward from previous years.
+
+6. Total of the trades, businesses, or aggregations losses: This section is used to calculate the total losses by combining the negative amounts from line 1 and line 2 for all trades, businesses, or aggregations.
+
+7. Total of the trades, businesses, or aggregations income: This section is used to calculate the total income by adding the positive amounts from line 1 for all trades, businesses, or aggregations.
+
+8. Losses netted with income of other trades, businesses, or aggregations: This section is used to determine the smaller amount between the absolute value of the total losses and the total income. This amount is then allocated to each trade, business, or aggregation on line 1.
+
+9. Qualified business net (loss) carryforward: This section is used to calculate the qualified business net loss carryforward by subtracting the amount on line 5 from the amount on line 3.
+
+The form also includes information regarding Privacy Act and Paperwork Reduction Act Notice.
+
+For detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8995A.

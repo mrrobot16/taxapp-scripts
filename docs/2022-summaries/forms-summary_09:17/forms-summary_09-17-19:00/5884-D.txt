@@ -1,0 +1,21 @@
+Form 5884-D is a document provided by the Internal Revenue Service (IRS) for tax-exempt organizations affected by qualified disasters to claim the Employee Retention Credit. This form is separate from the tax return and should not be attached to it.
+
+The form requires the organization to provide their name, employer identification number, trade name (if applicable), and address. If the form is filed by a third-party payer, the qualified tax-exempt organization must be identified.
+
+The organization must indicate whether it is a qualified tax-exempt organization and whether it is a federally chartered corporation or a federal, state, or local college, university, hospital, or medical care entity. If the organization does not meet these criteria, it cannot claim the credit and should not file this form.
+
+The form also requires the organization to provide information about the applicable qualified disaster zone(s) in 2020, including the disaster declaration number, description, and county, parish, or municipality name(s).
+
+The organization must indicate the employment tax return filed (e.g., Form 941, Form 943) and the employment tax period for which the credit is being claimed (e.g., 2019, 2020, 2021).
+
+The organization must enter the total qualified wages for the 2020 qualified disaster employee retention credit paid in all employment tax periods through the end of the indicated tax period.
+
+The form provides calculations to determine the credit amount based on the total qualified wages and the number of eligible employees.
+
+If the organization has previously filed Forms 5884-D for prior employment tax periods, it must enter the total amount of credits claimed on those forms.
+
+The form also includes calculations for taxable social security wages and tips, the small business payroll tax credit for increasing research activities, and the final credit amount claimed for the employment tax period.
+
+The form must be signed by an officer of the organization and sent to the Department of the Treasury, Internal Revenue Service in Ogden, UT, along with any required payment.
+
+For complete instructions and the latest information, the organization is directed to visit the IRS website at www.irs.gov/Form5884D.

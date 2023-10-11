@@ -1,0 +1,13 @@
+Schedule H (Form 1120-F) is a document used by corporations to allocate and apportion deductions to effectively connected income (ECI) and non-ECI under Regulations Section 1.861-8. The form is divided into four parts.
+
+Part I is for home office deductible expenses that are definitely related solely to ECI or non-ECI. It includes fields for total expenses on the books of the home office, adjustments for U.S. tax principles, total deductible expenses, interest expense, bad debt expense, and the total of interest expense and bad debt expense. It also calculates the remaining deductible expenses to be allocated and apportioned between ECI and non-ECI.
+
+Part II is for home office deductible expenses that are allocated and apportioned to ECI. It includes fields for remaining deductible expenses not definitely related solely to ECI or non-ECI, the average exchange rate used to convert amounts to U.S. dollars, and the allocation and apportionment of remaining home office deductible expenses to ECI.
+
+Part III is for indicating the allocation and apportionment methods and financial records used to complete Parts I and II. It includes fields for gross income ratio, asset ratio, number of personnel ratio, and whether any ratio-based methods or other methods were used.
+
+Part IV is for the allocation and apportionment of expenses on books and records used to prepare Form 1120-F, Schedule L. It includes fields for total expenses, adjustments for U.S. tax principles, total deductible expenses, third-party interest expense, interbranch interest expense, bad debt expense, other third-party deductible expenses, interbranch expenses, and the deductible expenses allocated and apportioned to ECI or non-ECI.
+
+The form also includes a reconciliation of the allocation and apportionment of deductible expenses to ECI and non-ECI, as well as fields for derivative transaction deductible expenses, other deductible expenses, and the total deductible expenses related to ECI or non-ECI.
+
+Overall, Schedule H (Form 1120-F) is used to calculate and report the allocation and apportionment of deductible expenses to effectively connected income and non-effectively connected income for tax purposes.

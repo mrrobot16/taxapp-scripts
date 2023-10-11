@@ -1,0 +1,11 @@
+This document is Schedule D (Form 1120) for the year 2022, which is used to report capital gains and losses for corporations. It is to be attached to Form 1120 or other applicable forms. The schedule asks if the corporation disposed of any investments in a qualified opportunity fund during the tax year and provides options to indicate yes or no.
+
+The document is divided into three parts: Part I for short-term capital gains and losses, Part II for long-term capital gains and losses, and Part III for a summary of Parts I and II.
+
+In Part I, the corporation is instructed to enter the proceeds (sales price), cost (or other basis), and adjustments to gain or loss from Form 8949 for short-term assets held one year or less. The totals for various transactions reported on Form 1099-B and Form 8949 with different checkboxes are also required. Additionally, any short-term capital gain from installment sales or like-kind exchanges should be reported, as well as any unused capital loss carryover. The net short-term capital gain or loss is calculated by combining the previous entries.
+
+Part II follows a similar format as Part I but is for long-term capital gains and losses from assets held for more than one year. The corporation is required to enter the proceeds, cost, and adjustments to gain or loss from Form 8949 for long-term assets. Totals for transactions reported on Form 1099-B and Form 8949 with different checkboxes are also necessary. Other entries include long-term capital gain from installment sales or like-kind exchanges, and capital gain distributions. The net long-term capital gain or loss is calculated by combining the previous entries.
+
+Part III provides a summary of the net short-term capital gain, net long-term capital gain, excess of net short-term capital gain over net long-term capital loss, and net capital gain. The final figure is to be entered on Form 1120 or other applicable forms.
+
+The document ends with a note stating that if losses exceed gains, the instructions for Capital Losses should be followed. It also includes a reference to the Paperwork Reduction Act Notice.

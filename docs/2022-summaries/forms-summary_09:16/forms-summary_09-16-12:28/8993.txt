@@ -1,0 +1,25 @@
+Form 8993 is a document provided by the Internal Revenue Service (IRS) for taxpayers to determine their deduction eligible income (DEI) and deemed intangible income (DII) for the purpose of claiming the Section 250 deduction for foreign-derived intangible income (FDII) and global intangible low-taxed income (GILTI).
+
+The form is divided into three parts:
+
+Part I: Determining DEI and DII
+- Taxpayers must calculate their gross income and exclude specific types of income, such as income included under section 951(a)(1) and section 951A, financial services income, CFC dividends, domestic oil and gas extraction income, and foreign branch income.
+- The total exclusions are subtracted from the gross income to calculate the gross DEI.
+- Deductions properly allocable to the gross DEI are subtracted to determine the DEI.
+- The deemed tangible income return (DTIR) is calculated as 10% of qualified business asset investment (QBAI) and is subtracted from the DEI to determine the DII.
+
+Part II: Determining Foreign-Derived Deduction Eligible Income (FDDEI)
+- Taxpayers must calculate their foreign-derived income from sales of general property, sales of intangible property, and income from services.
+- Gross receipts are reported, and the cost of goods sold (COGS) is subtracted to calculate the gross FDDEI.
+- Various deductions, including allocable deductions, interest deductions, research and experimental deductions, and other apportioned deductions, are subtracted to determine the FDDEI.
+
+Part III: Determining FDII and/or GILTI Deduction
+- The foreign-derived ratio is calculated by dividing the FDDEI by the DEI.
+- The FDII is determined by multiplying the DII by the foreign-derived ratio.
+- The GILTI inclusion is calculated separately.
+- The total FDII and GILTI are added together.
+- Taxable income is calculated, and any excess FDII and GILTI over taxable income are determined.
+- The FDII reduction and GILTI reduction are calculated.
+- The FDII deduction and GILTI deduction are determined and entered on Form 1120, Schedule C.
+
+Taxpayers are advised to refer to the instructions for additional guidance and the most up-to-date information.

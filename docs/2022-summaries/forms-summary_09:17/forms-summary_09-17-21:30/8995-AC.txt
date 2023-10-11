@@ -1,0 +1,15 @@
+The Schedule C form (Form 8995-A) is used by taxpayers to report loss netting and carryforward for their trades, businesses, or aggregations. The form is attached to Form 8995-A and can be completed multiple times if there are more than three trades, businesses, or aggregations.
+
+The form consists of several sections. In section 1, taxpayers enter the name of their trade, business, or aggregation, along with the qualified business income or loss for that entity. They also calculate the reduction for loss netting, which is explained in the instructions. The adjusted qualified business income is then determined by combining the qualified business income or loss with the reduction for loss netting.
+
+Section 2 is used to report any qualified business net (loss) carryforward from prior years. The instructions provide further guidance on how to calculate this amount.
+
+Section 3 is where taxpayers calculate the total of the losses for all their trades, businesses, or aggregations by combining the negative amounts from section 1, column (a), and the qualified business net (loss) carryforward from section 2.
+
+Section 4 is used to calculate the total income for all trades, businesses, or aggregations by adding the positive amounts from section 1, column (a).
+
+In section 5, taxpayers determine the losses that can be netted with the income of other trades, businesses, or aggregations. They enter the smaller of the absolute value of the total losses from section 3 or the total income from section 4 in the parentheses on line 5. This amount is then allocated to each trade, business, or aggregation on line 1, column (b).
+
+Finally, in section 6, taxpayers calculate the qualified business net (loss) carryforward by subtracting line 5 from line 3. If this amount is zero or more, they enter -0-.
+
+The form also includes information about Privacy Act and Paperwork Reduction Act Notice, which taxpayers can find in the separate instructions.

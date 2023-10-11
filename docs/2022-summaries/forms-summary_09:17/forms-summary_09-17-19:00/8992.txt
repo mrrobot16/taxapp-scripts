@@ -1,0 +1,17 @@
+Form 8992 is a document provided by the Internal Revenue Service (IRS) for U.S. shareholders to calculate their Global Intangible Low-Taxed Income (GILTI). The form consists of two parts.
+
+Part I focuses on the net controlled foreign corporation (CFC) tested income. U.S. shareholders who are not part of a U.S. consolidated group enter the total from Schedule A, line 1, column (e) as the sum of their pro rata share of net tested income. Meanwhile, U.S. shareholders who are part of a U.S. consolidated group enter the amount from Schedule B, Part II, column (c) that pertains to them. The same process is followed for the sum of pro rata share of net tested loss on line 2.
+
+Net CFC tested income is then calculated by combining lines 1 and 2, and if the result is zero or less, the calculation stops at this point.
+
+Part II focuses on the calculation of GILTI. The net CFC tested income from Part I, line 3, is entered on line 1. U.S. shareholders who are not part of a U.S. consolidated group multiply the total from Schedule A, line 1, column (g) by 10% (0.10) to calculate the deemed tangible income return (DTIR) on line 2. U.S. shareholders who are part of a U.S. consolidated group enter the amount from Schedule B, Part II, column (i) that pertains to them.
+
+Lines 3a and 3b are used to calculate the sum of pro rata share of tested interest expense and tested interest income, respectively. These lines are filled differently depending on whether the U.S. shareholder is part of a U.S. consolidated group or not.
+
+Line 3c is used to calculate the specified interest expense by subtracting line 3b from line 3a. If the result is zero or less, -0- is entered.
+
+Net DTIR on line 4 is calculated by subtracting line 3c from line 2. If the result is zero or less, -0- is entered.
+
+Finally, GILTI is calculated by subtracting line 4 from line 1 on line 5. If the result is zero or less, -0- is entered.
+
+The form also provides a reference to the IRS website for instructions and the latest information on Form 8992.

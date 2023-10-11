@@ -1,0 +1,15 @@
+Schedule H (Form 1040) is a document used to report household employment taxes, including Social Security, Medicare, withheld income, and Federal Unemployment (FUTA) taxes. The form must be attached to Form 1040, 1040-SR, 1040-NR, 1040-SS, or 1041. 
+
+The form consists of several sections and lines that ask questions about the employer's household employees and their wages. The employer must answer these questions and fill in the appropriate lines based on their situation. 
+
+Part I of the form deals with Social Security, Medicare, and Federal Income Taxes. It includes calculations for determining the amount of tax owed based on the cash wages paid to household employees. 
+
+Part II of the form pertains to the Federal Unemployment (FUTA) Tax. It asks questions about the employer's contributions to the state unemployment fund and calculates the FUTA tax owed. 
+
+Part III of the form summarizes the total household employment taxes owed, which is calculated by adding the amounts from Part I and Part II. 
+
+If the employer is required to file Form 1040, they include the amount from line 26 on Schedule 2 (Form 1040), line 9. They may also need to include amounts from other lines on Schedule 3 (Form 1040). 
+
+Part IV of the form is for the employer's address and signature. It is to be completed if required. 
+
+The form includes instructions and the latest information can be found on the IRS website.

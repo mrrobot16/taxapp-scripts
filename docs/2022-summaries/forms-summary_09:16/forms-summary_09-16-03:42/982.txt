@@ -1,0 +1,11 @@
+Form 982 is a document issued by the Internal Revenue Service (IRS) in the United States. It is used to report the reduction of tax attributes due to the discharge of indebtedness and to make a section 1082 basis adjustment. The form must be attached to the taxpayer's income tax return.
+
+Part I of the form requires the taxpayer to provide general information and check the applicable box(es) to indicate the reason for the discharge of indebtedness. The options include discharge of indebtedness in a title 11 case, discharge of indebtedness to the extent insolvent (not in a title 11 case), discharge of qualified farm indebtedness, discharge of qualified real property business indebtedness, and discharge of qualified principal residence indebtedness.
+
+Part II of the form deals with the reduction of tax attributes. The taxpayer must attach a description of any transactions resulting in the reduction in basis under section 1017. The form provides various lines to report the amount excluded from gross income and how it is applied to reduce the basis of depreciable real property, reduce net operating loss, reduce general business credit carryover, reduce minimum tax credit, reduce net capital loss, reduce the basis of nondepreciable and depreciable property, and reduce the basis of the principal residence.
+
+Part III of the form is for corporations that have excluded a certain amount from gross income and consent to have the basis of their property adjusted in accordance with the regulations prescribed under section 1082(a)(2).
+
+The form includes instructions and a link to the IRS website for more information.
+
+This summary provides a brief overview of the form and its sections. It is important to consult the instructions and seek professional tax advice for accurate completion of Form 982.

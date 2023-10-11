@@ -1,0 +1,9 @@
+Schedule R (Form 941) is an allocation schedule used by aggregate Form 941 filers to allocate amounts to their clients. This form is used by Section 3504 Agents, Certified Professional Employer Organizations (CPEOs), and other third parties. The form requires the filer to provide their employer identification number (EIN), name as shown on Form 941, type of filer, and the calendar year and quarter being reported.
+
+The form consists of multiple sections where the filer can enter information for each client, including the client's EIN, type of wages (for CPEOs only), and various amounts from Form 941, such as lines 1, 2, 3, 5a, 5b, 5c, and 5e. Subtotals for each client are calculated by adding the amounts entered for each line. The subtotals from each client are then included on Schedule R, Page 1, line 7.
+
+The form also includes sections for entering amounts from Form 941, such as lines 5f, 11a, 11b, 11d, 12, 13a, 13c, 13e, 19, 20, 23, 24, 25, 26, 27, and 28. These amounts are used to calculate the totals on the form, which are entered on line 9.
+
+The form includes a continuation sheet for additional clients, where the same information can be entered for each client. The subtotals from the continuation sheet are added to the subtotals from the main form.
+
+This form is used to allocate amounts to clients and report the totals on Form 941. It is important to read the instructions before completing the form and to type or print within the designated boxes.

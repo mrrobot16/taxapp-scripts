@@ -1,0 +1,304 @@
+Form    1139
+(Rev. October 2018)
+Department of the Treasury  
+Internal Revenue Service 
+Corporation Application for Tentative Refund 
+▶  Go to www.irs.gov/Form1139 for instructions and the latest information.
+▶ Do not file with the corporation’s income tax return—file separately. 
+▶ Keep a copy of this application for your records. 
+OMB No. 1545-0123
+Name
+Employer identification number
+Number, street, and room or suite no. If a P.O. box, see instructions.
+Date of incorporation
+City or town, state, and ZIP code
+Daytime phone number
+1 
+Reason(s) for filing. 
+See instructions— 
+attach computation 
+a Net operating loss (NOL) .
+.
+ ▶ $ 
+b Net capital loss 
+.
+.
+.
+.
+ ▶ $ 
+c Unused general  
+business credit  ▶ $ 
+d Other 
+.
+.
+ ▶ $ 
+2 
+Return for year of loss, unused credit, or  
+overpayment under section 1341(b)(1)  ▶
+a  Tax year ended 
+b  Date tax return filed c  Service center where filed 
+3 
+If this application is for an unused credit created by another carryback, enter ending date for the tax year of the first carryback ▶
+4 
+Did a loss result in the release of a foreign tax credit, or is the corporation carrying back a general business credit that 
+was released because of the release of a foreign tax credit (see instructions)? If “Yes,” the corporation must file an 
+amended return to carry back the released credits .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+Yes
+No
+5a 
+Was a consolidated return filed for any carryback year or did the corporation join a consolidated group (see instructions)? 
+Yes
+No
+b 
+If “Yes,” enter the tax year ending date and the name of the common parent and its EIN, if different from above (see instructions) ▶
+6a 
+If Form 1138 has been filed, was an extension of time granted for filing the return for the tax year of the NOL?  
+.
+.
+Yes
+No
+b 
+If “Yes,” enter the date to which extension was granted  ▶
+c  Enter the date Form 1138 was filed .  ▶
+d 
+Unpaid tax for which Form 1138 is in effect 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+$ 
+7 
+If the corporation changed its accounting period, enter the date permission to change was granted .
+.
+.
+.
+.  ▶
+8 
+If this is an application for a dissolved corporation, enter date of dissolution .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+9 
+Has the corporation filed a petition in Tax Court for the year or years to which the carryback is to be applied? .
+.
+.
+ 
+Yes
+No
+10 
+Is any part of the decrease in tax due to a loss or credit resulting from a reportable transaction required to be 
+disclosed? If “Yes,” attach Form 8886 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Computation of Decrease in Tax 
+  See instructions. 
+preceding 
+tax year ended ▶
+preceding 
+tax year ended ▶
+preceding 
+tax year ended ▶
+Note:  If only filing for an unused general business 
+credit (line 1c), skip lines 11 through 15. 
+(a) Before  
+carryback 
+(b) After  
+carryback 
+(c) Before  
+carryback 
+(d) After  
+carryback 
+(e) Before  
+carryback 
+(f) After  
+carryback 
+     
+     
+     
+     
+     
+     
+11 
+Taxable income from tax return .
+.
+.
+.
+12 
+Capital loss carryback (see instructions)
+13 
+Subtract line 12 from line 11 .
+.
+.
+.
+.
+14 
+NOL deduction (see instructions)  .
+.
+.
+15
+Taxable income. Subtract line 14 from line 13
+16
+Income tax 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+Alternative minimum tax .
+.
+.
+.
+.
+.
+18
+Base erosion minimum tax (Attach Form 8991)
+19
+Add lines 16 through 18 .
+.
+.
+.
+.
+.  
+20
+General business credit (see instructions) 
+21
+Other credits (see instructions) .
+.
+.
+.    
+22
+Total credits. Add lines 20 and 21 .
+.
+.
+23 
+Subtract line 22 from line 19 .
+.
+.
+.
+.
+24
+Personal holding company tax (Sch. PH (Form 1120))
+25 
+Other taxes (see instructions) 
+.
+.
+.
+.
+26
+Total tax liability. Add lines 23 through 25
+27
+Enter amount from “After carryback” 
+column on line 26 for each year .
+.
+.
+.
+28
+Decrease in tax. Subtract line 27 from line 26
+29
+Overpayment of tax due to a claim of right adjustment under section 1341(b)(1) (attach computation) 
+.
+.
+.
+.
+.
+.
+.
+ 
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined this application and accompanying schedules and statements, and to the best of my knowledge and belief, they are true, correct, and complete.
+▲
+Signature of officer
+▲
+Date
+▲
+Title
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name      ▶
+Firm’s address  ▶
+Firm’s EIN  ▶
+Phone no.
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 11170F 
+Form 1139 (Rev. 10-2018) 

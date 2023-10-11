@@ -1,0 +1,9 @@
+Schedule K (Form 1118) is a document provided by the Internal Revenue Service (IRS) for corporations to reconcile their foreign tax carryovers. It is used for the tax year beginning and ending in a specific year. The form requires corporations to enter their name, employer identification number, and separate category codes for each type of income.
+
+The form includes several sections for reconciling foreign tax carryovers from previous tax years. It provides columns for the 10th, 9th, 8th, 7th, 6th, and 5th preceding tax years, as well as a subtotal column for adding up the amounts from the preceding columns. Corporations are required to enter the foreign tax carryover amounts from the prior tax year, make any necessary adjustments, and calculate the adjusted foreign tax carryover.
+
+The form also includes sections for recording the foreign tax carryover used in the current tax year, any expired unused foreign tax carryover, and any foreign tax carryover generated in the current tax year. Corporations are also required to enter the actual or estimated amount of the foreign tax carryover to be carried back to the prior tax year.
+
+The form provides a continuation page for additional reconciliations for the 4th, 3rd, 2nd, and 1st preceding tax years, as well as the current tax year. The same calculations and adjustments are made for each year, and the totals from each column are added up to provide the final foreign tax carryover to be reported on the current year's Form 1118, Schedule B, Part II, line 5.
+
+Corporations are instructed to attach Schedule K (Form 1118) to their Form 1118 and can find additional instructions and information on the IRS website. The form also includes a reference to the Paperwork Reduction Act Notice.

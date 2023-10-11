@@ -1,0 +1,15 @@
+Schedule L is a form that organizations need to complete if they answered "Yes" to certain questions on their Form 990 or Form 990-EZ. The form is divided into different parts, each addressing a specific type of transaction involving interested persons.
+
+Part I is for excess benefit transactions and is applicable to section 501(c)(3), section 501(c)(4), and section 501(c)(29) organizations. The organization needs to provide information about disqualified persons, their relationship with the organization, a description of the transaction, and whether it has been corrected.
+
+Part II is for loans to and/or from interested persons. The organization needs to provide details about the interested person, their relationship with the organization, the purpose of the loan, whether it was given to or from the organization, the original principal amount, the balance due, whether it is in default, and whether it was approved by the board or committee.
+
+Part III is for grants or assistance benefiting interested persons. The organization needs to provide information about the interested person, their relationship with the organization, the amount of assistance, the type of assistance, and the purpose of the assistance.
+
+Part IV is for business transactions involving interested persons. The organization needs to provide information about the interested person, their relationship with the organization, the amount of the transaction, a description of the transaction, and whether there is a sharing of the organization's revenues.
+
+Part V is for supplemental information, where the organization can provide additional details related to the responses given in the previous parts of the form.
+
+The form also includes sections for entering the amount of tax incurred by the organization managers or disqualified persons under section 4958 and the amount of tax reimbursed by the organization.
+
+Overall, Schedule L is a detailed form that organizations need to complete to provide information about transactions involving interested persons.

@@ -1,0 +1,191 @@
+Form   8023
+(Rev. November 2016)
+Department of the Treasury  
+Internal Revenue Service 
+Elections Under Section 338 for 
+Corporations Making Qualified Stock Purchases
+▶  See separate instructions. 
+▶ Information about Form 8023 and its separate instructions is at www.irs.gov/form8023.
+OMB No. 1545-0123
+Section A-1—Purchasing Corporation 
+1a  Name and address of purchasing corporation 
+1b  Employer identification number 
+1c  Tax year ending 
+1d  State or country of incorporation 
+Section A-2—Common Parent of the Purchasing Corporation 
+2a  Name and address of common parent of purchasing corporation 
+2b  Employer identification number 
+2c  Tax year ending 
+2d  State or country of incorporation 
+Section B—Target Corporation 
+3a  Name and address of target corporation 
+3b  Employer identification number 
+3c  Tax year ending 
+3d  State or country of incorporation 
+Section C—Common Parent of Selling Consolidated Group, Selling Affiliate,   
+S Corporation Shareholder, or U.S. Shareholder 
+Complete only for a section 338(h)(10) election or if target was a member of a consolidated group or a controlled foreign corporation (CFC)   
+or had been a CFC within the preceding five years. 
+4a  Name and address of common parent of the selling consolidated group,      
+      selling affiliate, U.S. shareholder(s) of foreign target corporation, or                   
+      S corporation shareholder(s) 
+4b  Identifying number(s) 
+4c  Tax year ending 
+Section D—General Information 
+5a  Acquisition date 
+5b   What percentage of target corporation stock was purchased: 
+(i)    During the 12-month acquisition period? 
+% 
+(ii)   On the acquisition date? 
+% 
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 49972Z
+Form 8023 (Rev. 11-2016) 
+Form 8023 (Rev. 11-2016)
+Page 2 
+Section E—Elections Under Section 338 
+6 
+Check here to make a section 338(h)(10) election for the target corporation listed in Section B on page 1 .
+.
+.
+.
+.
+.
+.
+.
+.  ▶ 
+7 
+Check here to make a section 338 election (other than a section 338(h)(10) election) for the target corporation listed in Section B 
+on page 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶ 
+8 
+If the box on line 7 is checked for the target corporation listed in Section B on page 1, check here to make a gain recognition election  for 
+that corporation. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+9 
+Check here if this form is filed to make a section 338 election for any target corporation in addition to the one listed in Section B 
+on  page 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶ 
+Purchasing Corporation(s) Signature(s) 
+Under penalties of perjury, I state and declare that I am authorized to make the election(s) on lines 6, 7, 8, and 9 on behalf of the purchasing corporation(s). 
+▲
+Signature of authorized person for purchasing corporation(s) 
+Date 
+▲
+Title 
+Consolidated Selling Group or Selling Affiliate Signature (Section 338(h)(10) Election) 
+Under penalties of perjury, I state and declare that I am authorized to make the section 338(h)(10) election on line 6 on behalf of the common parent of the selling 
+consolidated group or on behalf of the selling affiliate. 
+▲
+Signature of authorized person for the common parent or selling  
+affiliate 
+Date 
+▲
+Title 
+S Corporation Shareholder(s) Signature(s) (Section 338(h)(10) Election) 
+Under penalties of perjury, I state and declare that I am a shareholder of the S corporation target or that I am authorized to make the section 338(h)(10) election on  line 6 on 
+behalf of that shareholder. If more than one shareholder, attach a schedule with other signatures. 
+▲
+Signature of S corporation shareholder 
+Date 
+▲
+Title 
+Form  8023  (Rev. 11-2016) 

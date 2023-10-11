@@ -1,0 +1,23 @@
+Form 8582 is a document issued by the Internal Revenue Service (IRS) in the United States. It is used to calculate and report passive activity loss limitations for individuals and trusts. The form is attached to Form 1040, 1040-SR, or 1041.
+
+The form is divided into several parts:
+
+Part I: Passive Activity Loss - This section is used to report rental real estate activities with active participation and all other passive activities. It includes fields to enter net income, net loss, and prior years' unallowed losses for each activity.
+
+Part II: Special Allowance for Rental Real Estate Activities - This part is used to calculate a special allowance for rental real estate activities with active participation. It requires entering the smaller of the loss from Part I or Part III and certain thresholds.
+
+Part III: Total Losses Allowed - This section calculates the total losses allowed from all passive activities for the tax year.
+
+Part IV: Activity Details - This part is used to provide details of each activity, including net income, net loss, unallowed loss, gain, and loss. The totals from this part are entered in Part I, lines 1a, 1b, and 1c.
+
+Part V: Activity Details - Similar to Part IV, this part provides details for other passive activities. The totals are entered in Part I, lines 2a, 2b, and 2c.
+
+Part VI: Additional Reporting - This part is used if an amount is shown on Part II, line 9. It requires providing the name of the activity and the form or schedule where the loss should be reported.
+
+Part VII: Allocation of Unallowed Losses - This part is used to allocate unallowed losses among different activities. It requires providing the name of the activity and the form or schedule where the loss should be reported.
+
+Part VIII: Allowed Losses - This part provides a summary of allowed losses for each activity. It requires providing the name of the activity and the form or schedule where the allowed loss should be reported.
+
+Part IX: Activities With Losses Reported on Two or More Forms or Schedules - This part is used when losses are reported on multiple forms or schedules. It requires providing the name of the activity and the form or schedule where the loss should be reported.
+
+Overall, Form 8582 is a comprehensive form that helps individuals and trusts calculate and report passive activity loss limitations for tax purposes.

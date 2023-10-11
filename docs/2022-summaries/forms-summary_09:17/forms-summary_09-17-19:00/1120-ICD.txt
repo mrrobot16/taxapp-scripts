@@ -1,0 +1,9 @@
+Form 1120-IC-DISC is a tax return form for Interest Charge Domestic International Sales Corporations (IC-DISCs) in the United States. The form is used to report the IC-DISC's income, deductions, assets, liabilities, and other information to the Internal Revenue Service (IRS).
+
+The form requires the IC-DISC to provide basic information such as its name, address, employer identification number, and date of incorporation. The form also asks for details about the IC-DISC's business activity code, total assets, and any changes in ownership or address.
+
+The form includes several schedules for reporting specific information. Schedule A is used to report the cost of goods sold, Schedule B is used to report gross income, Schedule C is used to report dividends, inclusions, and special deductions, and Schedule E is used to report deductions. Other schedules include Schedule J for deemed and actual distributions and deferred DISC income, Schedule L for assets, liabilities, and shareholders' equity, Schedule M-1 for reconciling income per books with income per return, Schedule M-2 for analyzing other earnings and profits, Schedule M-3 for analyzing previously taxed income, Schedule M-4 for analyzing accumulated IC-DISC income, Schedule N for export gross receipts, Schedule O for other information, and Schedule N for foreign operations.
+
+The form also includes a declaration by the IC-DISC's officer, stating that the information provided is true, correct, and complete. The form must be filed with the appropriate IRS service center.
+
+Overall, Form 1120-IC-DISC is a comprehensive tax return form that allows IC-DISCs to report their income and fulfill their tax obligations to the IRS.

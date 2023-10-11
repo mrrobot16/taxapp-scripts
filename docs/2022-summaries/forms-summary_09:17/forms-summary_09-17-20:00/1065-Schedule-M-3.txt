@@ -1,0 +1,849 @@
+SCHEDULE M-3  
+(Form 1065) 
+(Rev. December 2021)
+Net Income (Loss) Reconciliation 
+for Certain Partnerships 
+Department of the Treasury  
+Internal Revenue Service 
+▶ Attach to Form 1065. 
+▶ Go to www.irs.gov/Form1065 for instructions and the latest information.
+OMB No. 1545-0123 
+Name of partnership 
+Employer identification number 
+This Schedule M-3 is being filed because (check all that apply): 
+A 
+The amount of the partnership’s total assets at the end of the tax year is equal to $10 million or more. 
+B 
+ 
+The amount of the partnership’s adjusted total assets for the tax year is equal to $10 million or more. If box B is checked, 
+enter the amount of adjusted total assets for the tax year 
+. 
+C 
+ 
+The amount of total receipts for the tax year is equal to $35 million or more. If box C is checked, enter the total receipts for 
+the tax year 
+. 
+D 
+ 
+An entity that is a reportable entity partner with respect to the partnership owns or is deemed to own an interest of 50% or 
+more in the partnership’s capital, profit, or loss on any day during the tax year of the partnership. 
+Name of Reportable Entity Partner 
+Identifying Number 
+Maximum Percentage Owned or  
+Deemed Owned 
+E 
+Voluntary filer.
+Part I 
+Financial Information and Net Income (Loss) Reconciliation 
+1a
+Did the partnership file SEC Form 10-K for its income statement period ending with or within this tax year? 
+Yes. Skip lines 1b and 1c and complete lines 2 through 11 with respect to that SEC Form 10-K. 
+No. Go to line 1b. See instructions if multiple non-tax-basis income statements are prepared. 
+b Did the partnership prepare a certified audited non-tax-basis income statement for that period? 
+Yes. Skip line 1c and complete lines 2 through 11 with respect to that income statement. 
+No. Go to line 1c. 
+c Did the partnership prepare a non-tax-basis income statement for that period? 
+Yes. Complete lines 2 through 11 with respect to that income statement. 
+No. Skip lines 2 through 3b and enter the partnership’s net income (loss) per its books and records on line 4a. 
+2 
+Enter the income statement period:  Beginning 
+/ 
+/ 
+Ending 
+/ 
+/ 
+3a
+Has the partnership’s income statement been restated for the income statement period on line 2? 
+Yes. (If “Yes,” attach a statement and the amount of each item restated.) 
+No. 
+b 
+ 
+Has the partnership’s income statement been restated for any of the 5 income statement periods immediately preceding the period 
+on line 2? 
+Yes. (If “Yes,” attach a statement and the amount of each item restated.) 
+No. 
+4 a
+Worldwide consolidated net income (loss) from income statement source identified on Part I, line 1 .
+4a 
+b Indicate accounting standard used for line 4a. See instructions.
+1 
+GAAP 
+2 
+IFRS 
+3 
+Section 704(b) 
+4 
+Tax-basis 
+5 
+Other (specify) ▶
+5 a
+Net income from nonincludible foreign entities (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+5a (                           ) 
+b Net loss from nonincludible foreign entities (attach statement and enter as a positive amount) .
+.
+.
+5b 
+6 a
+Net income from nonincludible U.S. entities (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a (                           ) 
+b Net loss from nonincludible U.S. entities (attach statement and enter as a positive amount) .
+.
+.
+.
+6b 
+7 a
+Net income (loss) of other foreign disregarded entities (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7a 
+b Net income (loss) of other U.S. disregarded entities (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7b 
+8 
+ 
+Adjustment to eliminations of transactions between includible entities and nonincludible entities 
+(attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Adjustment to reconcile income statement period to tax year (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Other adjustments to reconcile to amount on line 11 (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Net income (loss) per income statement of the partnership. Combine lines 4a through 10 .
+.
+.
+11 
+Note: Part I, line 11, must equal Part II, line 26, column (a); or Form 1065, Schedule M-1, line 1. See 
+instructions. 
+12 
+Enter the total amount (not just the partnership’s share) of the assets and liabilities of all entities included or removed on the following lines.
+Total Assets 
+Total Liabilities 
+a Included on Part I, line 4 
+b Removed on Part I, line 5 
+c Removed on Part I, line 6 
+d Included on Part I, line 7 
+For Paperwork Reduction Act Notice, see the instructions for your return. 
+Cat. No. 39669D 
+Schedule M-3 (Form 1065) (Rev. 12-2021)
+Schedule M-3 (Form 1065) (Rev. 12-2021)
+Page  2 
+Name of partnership 
+Employer identification number 
+Part II 
+Reconciliation of Net Income (Loss) per Income Statement of Partnership With Income (Loss) per 
+Return 
+(                           )
+(                           )
+Income (Loss) Items  
+Attach statements for lines 1 through 10.
+(a) 
+Income (Loss) per  
+Income Statement 
+(b) 
+Temporary 
+Difference 
+(c) 
+Permanent 
+Difference 
+(d) 
+Income (Loss) per  
+Tax Return 
+1 
+Income (loss) from equity method foreign corporations 
+2 
+Gross foreign dividends not previously taxed .
+.
+.
+3 
+Subpart F, QEF, and similar income inclusions 
+.
+.
+4 
+Gross foreign distributions previously taxed 
+.
+.
+.
+5 
+Income (loss) from equity method U.S. corporations 
+6 
+U.S. dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+Income (loss) from U.S. partnerships .
+.
+.
+.
+.
+.
+8 
+Income (loss) from foreign partnerships .
+.
+.
+.
+.
+9 
+Income (loss) from other pass-through entities 
+.
+.
+10 
+Items relating to reportable transactions .
+.
+.
+.
+.
+11 
+Interest income (see instructions) .
+.
+.
+.
+.
+.
+.
+12 
+Total accrual to cash adjustment .
+.
+.
+.
+.
+.
+.
+13 
+Hedging transactions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+Mark-to-market income (loss) .
+.
+.
+.
+.
+.
+.
+.
+15 
+Cost of goods sold (see instructions) .
+.
+.
+.
+.
+.
+16 
+Sale versus lease (for sellers and/or lessors) 
+.
+.
+.
+17 
+Section 481(a) adjustments .
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+Unearned/deferred revenue .
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+Income recognition from long-term contracts .
+.
+.
+20 
+Original issue discount and other imputed interest 
+.
+21a 
+  
+ 
+Income statement gain/loss on sale, exchange,  
+abandonment, worthlessness, or other disposition of  
+assets other than inventory and pass-through entities  
+b 
+ 
+Gross capital gains from Schedule D, excluding  
+amounts from pass-through entities .
+.
+.
+.
+.
+.
+c 
+  
+ 
+Gross capital losses from Schedule D, excluding  
+amounts from pass-through entities, abandonment  
+losses, and worthless stock losses 
+.
+.
+.
+.
+.
+.
+d 
+  
+ 
+Net gain/loss reported on Form 4797, line 17, 
+excluding amounts from pass-through entities, 
+abandonment losses, and worthless stock losses 
+.  
+e Abandonment losses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+f Worthless stock losses (attach statement)  .
+.
+.
+.
+g 
+ 
+Other gain/loss on disposition of assets other than 
+inventory .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+ 
+Other income (loss) items with differences (attach 
+statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+ 
+Total income (loss) items. Combine lines 1 through 
+22 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+ 
+Total expense/deduction items. (From Part III, line 
+31) (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25 
+Other items with no differences 
+.
+.
+.
+.
+.
+.
+.
+26 
+Reconciliation totals. Combine lines 23 through 25 
+Note: Line 26, column (a), must equal Part I, line 11, and column (d) must equal Form 1065, Analysis of Net Income (Loss), line 1.
+Schedule M-3 (Form 1065) (Rev. 12-2021)
+Schedule M-3 (Form 1065) (Rev. 12-2021)
+Page  3 
+Name of partnership 
+Employer identification number 
+Part III 
+Reconciliation of Net Income (Loss) per Income Statement of Partnership With Income (Loss) per 
+Return—Expense/Deduction Items 
+Expense/Deduction Items 
+(a) 
+Expense per 
+Income Statement 
+(b) 
+Temporary 
+Difference 
+(c) 
+Permanent 
+Difference 
+(d) 
+Deduction per 
+Tax Return 
+1 
+State and local current income tax expense 
+.
+.
+.
+2 
+State and local deferred income tax expense .
+.
+.
+3 
+ 
+Foreign current income tax expense (other than 
+foreign withholding taxes) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Foreign deferred income tax expense 
+.
+.
+.
+.
+.
+5 
+Equity-based compensation 
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Meals and entertainment .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+Fines and penalties 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Judgments, damages, awards, and similar costs .
+.
+9 
+Guaranteed payments 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+Pension and profit-sharing .
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+Other post-retirement benefits .
+.
+.
+.
+.
+.
+.
+.
+12 
+Deferred compensation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+Charitable contribution of cash and tangible property    
+14
+Charitable contribution of intangible property .
+.
+.
+15 
+ 
+Organizational expenses as per Regulations section 
+1.709-2(a) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+ 
+Syndication expenses as per Regulations section 
+1.709-2(b) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+ 
+Current year acquisition/reorganization investment  
+banking fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+ 
+Current year acquisition/reorganization legal and  
+accounting fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+Amortization/impairment of goodwill .
+.
+.
+.
+.
+.
+20 
+ 
+Amortization of acquisition, reorganization, and start-
+up costs .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+Other amortization or impairment write-offs 
+.
+.
+.
+22 
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23a
+Depletion—oil & gas .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Depletion—other than oil & gas 
+.
+.
+.
+.
+.
+.
+.
+24 
+Intangible drilling and development costs (IDC) 
+.
+.
+25 
+Depreciation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26 
+Bad debt expense .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27 
+Interest expense (see instructions) 
+.
+.
+.
+.
+.
+.
+28
+Purchase versus lease (for purchasers and/or lessees)  
+29 
+Research and development costs .
+.
+.
+.
+.
+.
+.  
+30 
+ 
+Other expense/deduction items with differences 
+(attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+31 
+  
+  
+ 
+Total expense/deduction items. Combine lines 1  
+through 30. Enter here and on Part II, line 24,  
+reporting positive amounts as negative and negative  
+amounts as positive 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule M-3 (Form 1065) (Rev. 12-2021)

@@ -1,0 +1,15 @@
+Form 8994 is a document provided by the Internal Revenue Service (IRS) that is used to claim the Employer Credit for Paid Family and Medical Leave. This form must be attached to the taxpayer's tax return. The form includes several sections and questions that the taxpayer must answer.
+
+In section A, the taxpayer is asked if they have a written policy that provides at least 2 weeks of annual paid family and medical leave for qualifying employees. If the answer is "No," the taxpayer should not file Form 8994, unless there is an exception that applies to a partnership or S corporation.
+
+In section B, the taxpayer is asked if the written policy provides paid family and medical leave of at least 50% of the wages normally paid to a qualifying employee. If the answer is "No," the taxpayer should not file Form 8994, unless there is an exception that applies to a partnership or S corporation.
+
+In section C, the taxpayer is asked if they paid family and medical leave to at least one qualifying employee during the tax year. If the answer is "No," the taxpayer should not file Form 8994, unless there is an exception that applies to a partnership or S corporation.
+
+In section D, the taxpayer is asked if they included non-interference language in their written policy and otherwise complied with it if they employed at least one qualifying employee who was not covered by the Family and Medical Leave Act. If the answer is "No," the taxpayer should not file Form 8994, unless there is an exception that applies to a partnership or S corporation.
+
+The form also includes a space to enter the total paid family and medical leave credit figured for wages paid during the tax year to qualifying employees. This amount should be reported on the taxpayer's tax return and may require an adjustment to the deduction for salaries and wages.
+
+Partnerships and S corporations have an additional section to report the employer credit for paid family and medical leave.
+
+Overall, Form 8994 is a necessary form for taxpayers who want to claim the Employer Credit for Paid Family and Medical Leave and must be completed accurately and attached to the tax return.

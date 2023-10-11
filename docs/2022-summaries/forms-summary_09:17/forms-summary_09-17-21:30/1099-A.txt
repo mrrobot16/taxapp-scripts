@@ -1,0 +1,13 @@
+This document provides information about Form 1099-A, which is used to report the acquisition or abandonment of secured property. It includes instructions for both the lender and the borrower.
+
+The document advises that Copy A of the form is provided for informational purposes only and should not be printed and filed from the website as it is not scannable by the IRS. Penalties may be imposed for filing information return forms that cannot be scanned. However, Copy B and other copies of the form can be downloaded, printed, and used to provide information to the recipient.
+
+To order official IRS information returns, including a scannable Copy A, individuals can visit the IRS website and order the necessary forms and instructions. The document also mentions that information returns can be filed electronically using the IRS Filing Information Returns Electronically (FIRE) system or the IRS Affordable Care Act Information Returns (AIR) program.
+
+The form itself includes sections for the lender's and borrower's information, including names, addresses, and taxpayer identification numbers (TINs). It also includes fields to report the date of the lender's acquisition or knowledge of abandonment, the balance of the outstanding principal, the fair market value of the property, and whether the borrower was personally liable for repayment of the debt. There is also a section to provide a description of the property.
+
+The document provides instructions for the borrower, explaining that they may have reportable income or loss due to the acquisition or abandonment of the property. It explains how gain or loss is measured and mentions that the tax consequences of abandoning property depend on whether or not the borrower was personally liable for the debt. Losses on acquisitions or abandonments of property held for personal use are not deductible.
+
+The document also includes instructions for the lender, including information about the borrower's taxpayer identification number (TIN) and the account number assigned to distinguish the borrower's account. It explains how to complete each box on the form, including the date of acquisition or knowledge of abandonment, the balance of the principal outstanding, the fair market value of the property, and whether the borrower was personally liable for repayment of the debt.
+
+Overall, the document provides instructions and information about Form 1099-A and its use in reporting the acquisition or abandonment of secured property. It also provides resources for further assistance and guidance.

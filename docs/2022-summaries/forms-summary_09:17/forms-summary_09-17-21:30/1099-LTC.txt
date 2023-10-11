@@ -1,0 +1,9 @@
+Form 1099-LTC is a tax form used to report long-term care and accelerated death benefits. The form is divided into four copies: Copy A is filed with the Internal Revenue Service (IRS), Copy B is provided to the policyholder, Copy C is provided to the insured for information purposes only, and Copy D is for the payer's records.
+
+The form requires the payer's name, address, and telephone number, as well as their taxpayer identification number (TIN). It also requires the policyholder's name, address, and TIN, and the insured's name, address, and TIN.
+
+The form includes several boxes to report the gross long-term care benefits paid, accelerated death benefits paid, and whether the payments were made on a per diem basis or as reimbursement for actual long-term care expenses. There are also optional boxes to indicate if the benefits were from a qualified long-term care insurance contract and whether the insured was certified as chronically or terminally ill, along with the date of certification.
+
+The instructions provided with the form explain the tax implications of long-term care and accelerated death benefits, including exclusions from income for qualified long-term care insurance contracts and terminally ill individuals. The instructions also provide guidance on reporting the information on a tax return and include references to relevant publications and forms for further information.
+
+The form and instructions can be obtained from the IRS website, and there is a customer service hotline available for assistance with reporting on Form 1099-LTC.

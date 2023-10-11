@@ -1,0 +1,392 @@
+SCHEDULE A 
+(Form 8995-A)
+2022
+Specified Service Trades or Businesses
+Department of the Treasury  
+Internal Revenue Service 
+Attach to Form 8995-A. 
+Go to www.irs.gov/Form8995A for instructions and the latest information.
+OMB No. 1545-2294
+Attachment   
+Sequence No. 55B
+Name(s) shown on return
+Your taxpayer identification number
+Complete Schedule A only if your trade or business is a specified service trade or business (see instructions) and your taxable income is more 
+than $170,050 but not $220,050 ($340,100 and $440,100 if married filing jointly). If your taxable income isn’t more than $170,050 ($340,100 if 
+married filing jointly) and you’re not a patron of an agricultural or horticultural cooperative, don’t file this form; instead, file Form 8995, Qualified 
+Business Income Deduction Simplified Computation. Otherwise, complete Schedule D (Form 8995-A) before beginning Schedule A. If your 
+taxable income is more than $220,050 ($440,100 if married filing jointly), your specified service trade or business doesn’t qualify for the 
+deduction. If you have more than three trades or businesses, attach as many Schedules A as needed. See instructions.
+Part I
+Other Than Publicly Traded Partnerships (PTP)
+See instructions before completing Parts I and II.
+A
+B
+C
+1a
+Trade or business name .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b
+Taxpayer identification number .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+2
+Qualified business income or (loss) from the trade or business .
+.
+2
+3
+Allocable share of W-2 wages from the trade or business .
+.
+.
+3
+4 
+Allocable share of the unadjusted basis immediately after 
+acquisition (UBIA) of all qualified property .
+.
+.
+.
+.
+.
+.
+.
+4
+5 
+Taxable income before qualified business 
+income deduction .
+.
+.
+.
+.
+.
+.
+.
+5
+6  
+Threshold. Enter $170,050 ($340,100 if 
+married filing jointly) 
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Subtract line 6 from line 5 
+.
+.
+.
+.
+.
+7
+8 
+Phase-in range. Enter $50,000 ($100,000 if 
+married filing jointly) 
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Divide line 7 by line 8 .
+.
+.
+.
+.
+.
+.
+9
+10 
+Applicable percentage. Subtract line 9 
+from 100% 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+%
+11 
+ 
+   
+Applicable percentage of qualified business income or (loss). 
+Multiply line 2 by line 10. Enter this amount on Schedule C (Form 
+8995-A) or on Form 8995-A, line 2, for the corresponding trade or 
+business, as appropriate .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+ 
+Applicable percentage of W-2 wages. Multiply line 3 by line 10. 
+Enter this amount on Form 8995-A, line 4, for the corresponding 
+trade or business, as appropriate .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13 
+ 
+Applicable percentage of the UBIA of qualified property. Multiply line 
+4 by line 10. Enter this amount on Form 8995-A, line 7, for the 
+corresponding trade or business, as appropriate 
+.
+.
+.
+.
+.
+.
+13
+Part II
+Publicly Traded Partnership
+A
+B
+C
+14
+Trade or business name .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Taxpayer identification number .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16
+Qualified PTP income or (loss) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+Total PTP specified service trade or business (SSTB) income or (loss). Combine all amounts on line 16 
+17
+18
+Taxable income before qualified business income deduction .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+Threshold. Enter $170,050 ($340,100 if married filing jointly) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Subtract line 19 from line 18 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21
+Phase-in range. Enter $50,000 ($100,000 if married filing jointly) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22
+Divide line 20 by line 21 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+23
+Applicable percentage. Subtract line 22 from 100% .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+%
+24 
+Applicable percentage of qualified PTP income or (loss). Multiply line 17 by line 23. Include this
+amount on Form 8995-A, line 28 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 72681D
+Schedule A (Form 8995-A) 2022

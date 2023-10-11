@@ -1,0 +1,2676 @@
+Form  5227
+Department of the Treasury  
+Internal Revenue Service  
+Split-Interest Trust Information Return
+ See separate instructions.
+Go to www.irs.gov/Form5227 for instructions and the latest information.
+Do not enter social security numbers on this form (except on Schedule A) as it may be made public.
+For the calendar year 2022 or tax year beginning
+, 2022, and ending
+, 20
+OMB No. 1545-0196
+2022
+Open to Public  
+Inspection 
+A  Full name of trust 
+Name of trustee 
+Number, street, and room or suite no. (If a P.O. box, see the instructions.) 
+City or town, state or province, country, and ZIP or foreign postal code 
+B  Employer identification number 
+C  Type of Entity 
+(1) 
+Charitable lead trust 
+(2) 
+Charitable remainder annuity trust  
+described in section 664(d)(1) 
+(3) 
+Charitable remainder unitrust  
+described in section 664(d)(2) 
+(4) 
+Pooled income fund described in  
+section 642(c)(5) 
+(5) 
+Other—Attach explanation
+D  Fair market value (FMV) of assets at end of tax year 
+E  Gross Income 
+F
+Check applicable  
+boxes (see  
+instructions) 
+Initial return 
+Final return 
+Amended return incl. amended K-1s, if nec.
+Change in trustee’s  
+Name 
+Address 
+G  Date the trust was created 
+Part I 
+Income and Deductions (All trusts complete Sections A through D) 
+Section A—Ordinary Income 
+1 
+Interest income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2a Ordinary dividends (including qualified dividends) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b Qualified dividends (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b 
+3 
+Business income or (loss). Attach Schedule C (Form 1040) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Rents, royalties, partnerships, other estates and trusts, etc. Attach Schedule E (Form 1040) 
+.
+.
+4 
+5 
+Farm income or (loss). Attach Schedule F (Form 1040) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Ordinary gain or (loss). Attach Form 4797 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Other income. List type and amount 
+7 
+8 
+Total ordinary income. Combine lines 1, 2a, and 3 through 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+8 
+Section B—Capital Gains (Losses) 
+9 
+Total short-term capital gain or (loss). Attach Schedule D, Part I (Form 1041) 
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Total long-term capital gain or (loss). Attach Schedule D, Part II (Form 1041) .
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Unrecaptured section 1250 gain 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+28% gain .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Total capital gains (losses). Combine lines 9 and 10 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+13 
+Section C—Nontaxable Income 
+14 
+Tax-exempt interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Other nontaxable income. List type and amount 
+15 
+16 
+Total nontaxable income. Add lines 14 and 15 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+Section D—Deductions 
+17 
+Interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Taxes (see the instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Trustee fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+Attorney, accountant, and return preparer fees 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+21 
+Other allowable deductions. Attach statement (see the instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+22 
+Total. Add lines 17 through 21 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+23 
+Charitable deduction .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+Section E—Deductions Allocable to Income Categories (Section 664 trust only) 
+24a Enter the amount from line 22 allocable to ordinary income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24a 
+b Subtract line 24a from line 8 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24b 
+25 a Enter the amount from line 22 allocable to capital gains (losses) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25a 
+b Subtract line 25a from line 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25b 
+26 a Enter the amount from line 22 allocable to nontaxable income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26a 
+b Subtract line 26a from line 16 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26b 
+For Paperwork Reduction Act Notice, see the instructions. 
+Cat. No. 13227T 
+Form 5227 (2022) 
+Form 5227 (2022) 
+Page 2 
+Part II 
+Schedule of Distributable Income (Section 664 trust only) (See instructions) 
+ Accumulations 
+(a) Ordinary income 
+(b) Capital gains (losses) 
+(c) Nontaxable income 
+  Net Investment Income (NII) Classification
+Excluded 
+Income 
+Accumulated 
+NII post 2012
+Excluded 
+Income 
+Accumulated 
+NII post 2012
+Excluded 
+Income 
+Accumulated 
+NII post 2012
+1
+Undistributed income from prior tax years .
+.
+2
+Current tax year net income (before distributions): 
+• In column (a), enter the amount from Part I, line 24b   
+• In column (b), enter the amount from Part I, line 25b   
+• In column (c), enter the amount from Part I, line 26b
+3
+Total distributable income. Add lines 1 and 2 .
+Part III
+Distributions of Principal for Charitable Purposes 
+Section A
+1
+Principal distributed in prior tax years for charitable purposes 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Principal distributed during the current tax year for charitable purposes. Fill in the information for 
+columns (A), (B), and (C) and enter the amount distributed on the space to the right. (see the
+instructions) 
+ (A) 
+Payee’s name and address 
+(B)  
+Date of distribution 
+(C) 
+Charitable purpose and description of assets distributed 
+     
+a 
+ 
+ 
+ 
+2a 
+b  
+ 
+ 
+2b 
+c 
+ 
+ 
+ 
+2c 
+3
+Attachment total .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Total. Add lines 1 through 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Accumulated Income Set Aside and Income Distributions for Charitable Purposes 
+Grantor type trusts complete only lines 7 through 9 (see instructions) 
+Section B
+5a Income set aside in prior tax years for which a deduction was claimed under 
+section 642(c) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a 
+b Enter the amount shown on Part I, line 23 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5b 
+6
+Add lines 5a and 5b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Distributions made during the tax year (see the instructions): 
+• For income set aside in prior tax years for which a deduction was claimed under section 642(c),
+• For charitable purposes for which a charitable deduction was claimed under section 642(c) in
+the current tax year, or
+• For charitable purposes by a grantor type trust for which a charitable deduction was claimed 
+under section 170 upon contribution to the trust
+Fill in the information for columns (A), (B), and (C) and enter the amount distributed on the line 
+to the right. 
+ (A) 
+Payee’s name and address 
+(B)  
+Date of distribution 
+(C) 
+Charitable purpose and description of assets distributed 
+     
+a 
+ 
+ 
+ 
+7a 
+b 
+ 
+ 
+ 
+7b 
+c 
+ 
+ 
+ 
+7c 
+8
+Attachment total .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Add lines 7a through 8 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Carryover. Subtract line 9 from line 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+Form 5227 (2022) 
+Form 5227 (2022) 
+Page 3 
+Part IV 
+Balance Sheet (see instructions) 
+ Assets
+(a) Beginning-of- 
+Year Book Value 
+(b) End-of-Year  
+Book Value 
+(c) FMV (see the 
+instructions)
+1
+Cash—non-interest-bearing .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Savings and temporary cash investments .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3a Accounts receivable .
+.
+.
+.
+.
+.
+.
+.
+.
+3a 
+b Less: allowance for doubtful accounts 
+.
+.
+.
+3b 
+4 
+ 
+Receivables due from officers, directors, trustees, and other disqualified 
+persons (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5a Other notes and loans receivable .
+.
+.
+.
+.
+5a 
+b Less: allowance for doubtful accounts 
+.
+.
+.
+5b 
+6
+Inventories for sale or use 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Prepaid expenses and deferred charges 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8a Investments—U.S. and state government obligations (attach statement)  
+8a 
+b Investments—corporate stock (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+8b 
+c Investments—corporate bonds (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+8c 
+9a 
+ 
+Investments—land, buildings, and equipment:  
+basis (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+9a 
+b Less: accumulated depreciation 
+.
+.
+.
+.
+.
+9b 
+10
+Investments—other (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11a Land, buildings, and equipment: basis 
+.
+.
+.
+11a 
+b Less: accumulated depreciation 
+.
+.
+.
+.
+.
+11b 
+12
+Other assets. Describe 
+12
+13
+Total assets. Add lines 1 through 12 (must equal line 23)  .
+.
+.
+.
+.
+13
+ Liabilities
+    
+     
+     
+14
+Accounts payable and accrued expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Deferred revenue 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Loans from officers, directors, trustees, and other disqualified persons 
+16
+17
+Mortgages and other notes payable (attach statement) .
+.
+.
+.
+.
+.
+17
+18
+Other liabilities. Describe 
+18
+19
+Total liabilities. Add lines 14 through 18 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+19
+ Net Assets
+     
+    
+    
+20
+Trust principal or corpus .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21a Undistributed income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21a 
+b Undistributed capital gains .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21b 
+c Undistributed nontaxable income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21c 
+22
+Total net assets. Add lines 20 through 21c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+23
+Total liabilities and net assets. Add lines 19 and 22 
+.
+.
+.
+.
+.
+.
+23
+Form 5227 (2022) 
+Form 5227 (2022) 
+Page 4 
+Part V 
+Charitable Remainder Annuity Trust (CRAT) Information (to be completed only by a Section 664 CRAT) 
+1 a Enter the initial fair market value (FMV) of the property placed in the trust .
+.
+.
+.
+.
+.
+.
+.
+.
+1a 
+b Enter the total annual annuity amounts for all recipients 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b 
+Part VI 
+Charitable Remainder Unitrust (CRUT) Information (to be completed only by a Section 664 CRUT)  
+(See instructions) 
+1
+Is the CRUT a net income charitable remainder unitrust (NICRUT) as described in Regulations section 
+1.664-3(a)(1)(i)(b)(1)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+2
+Is the CRUT a net income with make-up charitable remainder unitrust (NIMCRUT) as described in Regulations 
+section 1.664-3(a)(1)(i)(b)(2)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+3
+Did the trust change its method of payment during the tax year? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+If “Yes,” describe the triggering event including the date of the event and the old method of payment 
+4a Enter the unitrust fixed percentage to be paid to the recipients .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4a 
+% 
+b Unitrust amount. Subtract Part IV, line 19, column (c), from Part IV, line 13, column (c), and multiply
+the result by the percentage on line 4a. Do not enter less than -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4b 
+If the answer is “Yes” on line 1 or line 2, go to line 5a. Otherwise, skip lines 5a through 6b and 
+enter the line 4b amount on line 7. 
+5a Trust’s accounting income for 2022. Attach statement .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a 
+If the answer is “Yes” on line 1, go to line 5b. If the answer is “Yes” on line 2, skip line 5b and 
+go to line 6a. 
+b Enter the smaller of line 4b or line 5a here and on line 7. Skip lines 6a and 6b 
+.
+.
+.
+.
+.
+.
+.
+5b 
+6a Total accumulated distribution deficiencies from previous years (see instructions) .
+.
+.
+.
+.
+.
+6a 
+b Add lines 4b and 6a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6b 
+If lines 6a and 6b are completed, enter the smaller of line 5a or line 6b on line 7. 
+7
+Required unitrust distribution for 2022 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Carryover of accumulated distribution deficiency (only for trusts that answered “Yes” on line 2). 
+Subtract line 7 from line 6b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+If this is the final return, enter the initial FMV of all assets placed in trust by the donor .
+.
+.
+.
+.
+9
+10
+Did the trustee change the method of determining the FMV of the assets? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+If “Yes,” attach an explanation. 
+11
+Were any additional contributions received by the trust during 2022? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+If “Yes,” be sure to complete all columns of line 2 in Schedule A, Part V. 
+Part VII 
+Statements Regarding Activities (see instructions) 
+1
+Are the requirements of section 508(e) satisfied either: 
+Yes No
+•  By the language in the governing instrument; or 
+• By state legislation that effectively amends the governing instrument so that no mandatory directions
+that conflict with the state law remain in the governing instrument? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Are you using this return only to report the income and assets of a segregated amount under section
+4947(a)(2)(B)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Form 5227 (2022) 
+Form 5227 (2022) 
+Page 5 
+Part VIII 
+Statements Regarding Activities for Which Form 4720 May Be Required 
+File Form 4720 if any item is checked in the “Yes” column (to the right), unless an exception applies. 
+Yes No 
+1
+Self-dealing (section 4941): 
+a During 2022, did the trust (either directly or indirectly): 
+(1) Engage in the sale or exchange, or leasing of property with a disqualified person? 
+.
+.
+.
+.
+.
+.
+.
+1a(1)
+(2) 
+ 
+Borrow money from, lend money to, or otherwise extend credit to (or accept it from) a disqualified
+person? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a(2)
+(3) Furnish goods, services, or facilities to (or accept them from) a disqualified person? .
+.
+.
+.
+.
+.
+.
+1a(3)
+(4) Pay compensation to, or pay or reimburse the expenses of, a disqualified person? 
+.
+.
+.
+.
+.
+.
+.
+1a(4)
+(5) Transfer any income or assets to a disqualified person (or make any of either available  for the benefit or 
+use of a disqualified person)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a(5)
+(6) 
+ 
+Agree to pay money or property to a government official? (Exception. Check “No” if
+the trust agreed to make a grant to or to employ the official for a period after termination of government 
+service, if terminating within 90 days.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a(6)
+b 
+ 
+If any answer is “Yes” to lines 1a(1) through (6), did any of the acts fail to qualify under the exceptions
+described in Regulations sections 53.4941(d)-3 and 4, or in a current Notice regarding disaster assistance
+(see instructions)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b 
+c
+Organizations relying on a current Notice regarding disaster assistance, check here .
+.
+.
+.
+.
+.
+d
+Did the trust engage in a prior year in any of the acts described in line 1a, other than excepted acts, that 
+were not corrected before January 1, 2022? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d
+2
+Does section 4947(b)(3)(A) or (B) apply? (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+If “Yes,” check the “N/A” box in lines 3 and 4.
+3a
+Taxes on excess business holdings (section 4943): 
+N/A 
+b
+Did the trust hold more than a 2% direct or indirect interest in any business enterprise at any time during 
+2022? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+c
+If “Yes,” did the trust have excess business holdings in 2022 as a result of (1) any purchase by the trust or 
+disqualified persons after May 26, 1969; (2) the lapse of the 5-year period (or longer period approved by the 
+Commissioner under section 4943(c)(7)) to dispose of holdings acquired by gift or bequest; or 
+(3) the lapse of the 10-, 15-, or 20-year first phase holding period? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c
+Use Form 4720, Schedule C, to determine if the trust had excess business holdings in 2022. 
+4a Taxes on investments that jeopardize charitable purposes (section 4944): 
+N/A 
+b
+Did the trust invest during 2022 any amount in a manner that would jeopardize its charitable purpose? .
+.
+4b
+c
+Did the trust make any investment in a prior year (but after December 31, 1969) that could jeopardize its 
+charitable purpose that had not been removed from jeopardy before January 1, 2022? 
+.
+.
+.
+.
+.
+.
+.
+4c
+5
+Taxes on taxable expenditures (section 4945) and political expenditures (section 4955): 
+a During 2022, did the trust pay or incur any amount to: 
+(1) Carry on propaganda, or otherwise attempt to influence legislation (section 4945(e))? 
+.
+.
+.
+.
+.
+.
+5a(1)
+(2) Influence the outcome of any specific public election (see section 4955); or to carry on, directly or 
+indirectly, any voter registration drive? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a(2)
+(3) Provide a grant to an individual for travel, study, or other similar purposes? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a(3)
+(4) Provide a grant to an organization other than a charitable, etc., organization described  in section 509(a)(1), 
+(2), or (3), or section 4940(d)(2)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a(4)
+(5) Provide for any purpose other than religious, charitable, scientific, literary, or  educational, or for the
+prevention of cruelty to children or animals? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a(5)
+b 
+ 
+If any answer is “Yes” to lines 5a(1) through (5), did any of the transactions fail to qualify under the
+exceptions described in Regulations section 53.4945, or in a current Notice regarding disaster assistance
+(see instructions)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5b 
+c
+Organizations relying on a current Notice regarding disaster assistance, check here .
+.
+.
+.
+.
+.
+d
+If the answer is “Yes” to line 5a(4), does the trust claim exemption from the tax because it maintained 
+expenditure responsibility for the grant?  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5d
+If “Yes,” attach the statement required by Regulations section 53.4945-5(d). 
+6
+Personal benefit contracts (section 170(f)(10)): 
+a Did the trust, during the year, receive any funds, directly or indirectly, to pay premiums on  a personal benefit 
+contract? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a
+b Did the trust, during the year, pay premiums, directly or indirectly, on a personal benefit contract? 
+.
+.
+.
+6b 
+If “Yes” to line 6b, file Form 8870 (see instructions).
+7
+Section 664 trusts: Did the trust have unrelated business taxable income during the year? .
+.
+.
+.
+.
+.
+7
+If “Yes,” file Form 4720.
+Form 5227 (2022)
+Form 5227 (2022) 
+Page 6 
+Part IX
+Questionnaire for Charitable Lead Trusts, Pooled Income Funds, and Charitable Remainder Trusts  
+(see instructions) 
+Section A—All Trusts 
+1
+Check this box if any of the split-interest trust’s income interests expired during 2022 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Check this box if all of the split-interest trust’s income interests expired before 2022 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+If line 2 is checked and this is not a final return, attach an explanation. 
+Section B—Charitable Lead Trusts 
+3 
+Does the governing instrument require income in excess of the required annuity or unitrust payments to be 
+paid for charitable purposes? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+4 
+Enter the amount of any excess income required to be paid for charitable purposes for 2022 .
+.
+.
+4 
+5 
+Enter the amount of annuity or unitrust payments required to be paid to charitable beneficiaries for 2022
+5 
+Section C—Pooled Income Funds 
+6 
+Enter the amount of contributions received during 2022 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Enter the amount required to be distributed for 2022 to satisfy the remainder interest .
+.
+.
+.
+.
+7 
+8 
+Enter any amounts that were required to be distributed to the remainder beneficiary that remain 
+undistributed 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Enter the amount of income required to be paid to the charitable remainder beneficiary for 2022 .
+9 
+Section D—Charitable Remainder Trusts 
+10 
+Check this box if you are filing for a charitable remainder annuity trust or a charitable remainder unitrust whose 
+charitable interests involve only cemeteries or war veterans’ posts .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+ 
+Check this box if you are making an election under Regulations section 1.664-2(a)(1)(i)(a)(2) or 1.664-3(a)(1)(i)(g)(2) to 
+treat income generated from certain property distributions (other than cash) by the trust as occurring on the last day 
+of the tax year. (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+Are you making an election under Regulations section 1.1411-10(g) with respect to a controlled foreign
+corporation or a qualified electing fund? (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+13 
+Is this the initial return? If “Yes,” attach a copy of the trust instrument .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+14 
+Was the trust instrument amended during the year? If “Yes,” attach a copy .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+15a If this is the final return, were final distributions made according to the trust instrument? .
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+b If “Yes,” did you complete Part III, Section A, line 2? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+c If either line 15a or 15b is “No,” explain why 
+16 
+At any time during calendar year 2022, did the trust have an interest in or a signature or other authority over a 
+bank, securities, or other financial account in a foreign country? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+See the instructions for exceptions and filing requirements for FinCEN Form 114. 
+If “Yes,” enter the name of the foreign country 
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my 
+knowledge and belief, it is true, correct, and complete. Declaration of preparer (other than trustee) is based on all information of which preparer
+has any knowledge. 
+Signature of trustee or officer representing trustee 
+Date 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name    
+Firm’s address 
+Firm’s EIN 
+Phone no. 
+Form 5227 (2022)
+Form 5227 (2022)
+Page 7 
+Full name of trust 
+Employer identification number 
+NOT Open To Public Inspection 
+Schedule A—Distributions, Assets, and Donor Information 
+Part I
+Accumulation Schedule (Section 664 trust only) (see instructions) 
+ Accumulations 
+(a) Ordinary income 
+(b) Capital gain (loss) 
+(c) Nontaxable income 
+Net Investment Income (NII) Classification
+Excluded 
+Income 
+Accumulated 
+NII 
+Excluded 
+Income 
+Accumulated 
+NII 
+Excluded 
+Income 
+ Accumulated 
+NII
+1 
+Total distributable income. Enter the amount from 
+Part II, line 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+2a Total distributions for 2022: 
+b 2022 distributions from income 
+.
+.
+.
+.
+.
+3  
+Undistributed income at end of tax year. Subtract 
+line 2b from line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part II 
+Simplified Net Investment Income Calculation
+(a) Accumulated NII 
+(b) Current Year NII
+(c) Distributions
+(d) Ending NII
+1
+Part III 
+Current Distributions Schedule (Section 664 trust only) (see instructions)
+(a) 
+Name of recipient 
+(b) 
+Identifying number 
+(c) 
+Percentage of total unitrust amount 
+payable (if applicable) 
+1a 
+% 
+b 
+% 
+(d) 
+Ordinary  Income 
+Capital gains 
+(g) 
+Nontaxable 
+income 
+(h) 
+Corpus 
+(i) 
+Add cols.  
+(d) through (h) 
+(j) 
+Net investment 
+income
+     
+(e) Short-term 
+(f) Long-term      
+     
+     
+     
+1a 
+b 
+2     Attachment total 
+.
+3     Total 
+.
+.
+.
+.
+.
+4
+If line 3, Total, column (i) does not agree with Part V, line 1b of Form 5227 for a CRAT or Part VI, line 7 of Form 5227 for a   
+CRUT, check here  
+and attach an explanation. 
+Part IV 
+Current Distributions (charitable lead trusts or pooled income funds only) (see instructions) 
+1
+Enter the amount required to be paid to private beneficiaries for 2022 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part V 
+Assets and Donor Information (Section 664 trust or charitable lead trust only) 
+1
+Is this the initial return or were additional assets contributed to the trust in 2022? .
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+If “Yes,” complete the schedule below. 
+If “No,” complete only column (a) of the schedule below. 
+(a) 
+Name and address of donor 
+(b) 
+Description of each asset donated 
+(c) 
+FMV of each  
+asset on date of donation 
+(d) 
+Date of donation 
+2a 
+2b 
+2c 
+3
+Attachment total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+4
+Total .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+    
+5
+For charitable remainder trusts: If this was the final year, was an early termination agreement signed 
+by all parties to the trust? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+N/A 
+If “Yes,” attach a copy of the signed agreement. 
+Form 5227 (2022) 

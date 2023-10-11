@@ -1,0 +1,11 @@
+Schedule 2 (Form 1040) is an attachment to Form 1040, 1040-SR, or 1040-NR for reporting additional taxes. It is divided into two parts: Part I for reporting the alternative minimum tax and excess advance premium tax credit repayment, and Part II for reporting other taxes.
+
+In Part I, taxpayers are required to attach Form 6251 for reporting the alternative minimum tax and Form 8962 for reporting excess advance premium tax credit repayment. The total of lines 1 and 2 should be entered on Form 1040, 1040-SR, or 1040-NR, line 17.
+
+In Part II, taxpayers are required to attach various forms for reporting different types of taxes. These include Schedule SE for self-employment tax, Form 4137 for social security and Medicare tax on unreported tip income, Form 8919 for uncollected social security and Medicare tax on wages, and Form 5329 for additional tax on IRAs or other tax-favored accounts. Other taxes that need to be reported include household employment taxes, repayment of first-time homebuyer credit, additional Medicare Tax, net investment income tax, and recapture of low-income housing credit, among others. The total of lines 4, 7 through 16, and 18 should be entered on Form 1040 or 1040-SR, line 23, or Form 1040-NR, line 23b.
+
+The form also provides space for reporting other additional taxes not covered by the listed forms. The total additional taxes are calculated by adding the amounts reported on lines 17a through 17z and entered on line 18.
+
+Line 19 is reserved for future use, and line 20 is for reporting the Section 965 net tax liability installment from Form 965-A.
+
+The total other taxes reported on line 21 are entered on Form 1040 or 1040-SR, line 23, or Form 1040-NR, line 23b.

@@ -1,0 +1,23 @@
+Schedule G (Form 8865) is a document used by taxpayers to report the application of the Gain Deferral Method under Section 721(c) of the Internal Revenue Code. This form is attached to Form 8865, which is used to report information about certain foreign partnerships.
+
+The form is divided into several parts:
+
+Part I: Section 721(c) Property
+This section requires taxpayers to provide information about the property contributed under Section 721(c). It includes details such as the tax year of contribution, description of the property, recovery period, and whether it is effectively connected income property.
+
+Part II: Remaining Built-in Gain, Remedial Income, and Gain Recognition
+This section calculates the remaining built-in gain at the beginning and end of the tax year, the remedial income allocated to the U.S. transferor, and the gain recognized due to acceleration events or section 367 transfers.
+
+Part III: Allocation Percentages of Partnership Items With Respect to Section 721(c) Property
+This section determines the allocation percentages of partnership items (income, gain, deduction, and loss) related to the Section 721(c) property. It breaks down the allocation percentages for the U.S. transferor, related domestic partners, and related foreign partners.
+
+Part IV: Allocation of Items to U.S. Transferor With Respect to Section 721(c) Property
+This section allocates specific items (income, gain, deduction, and loss) to the U.S. transferor with respect to the Section 721(c) property. It includes both book and tax allocations.
+
+Part V: Additional Information
+This section asks a series of questions to determine if certain events occurred during the tax year, such as acceleration events, termination events, successor events, tax dispositions of partnership interests, or transfers of Section 721(c) property to foreign corporations subject to section 367. If any of these events occurred, the taxpayer is instructed to complete Schedule H.
+
+Part VI: Supplemental Information
+This section allows taxpayers to provide any additional information that may be relevant to the application of the Gain Deferral Method.
+
+Taxpayers are advised to refer to the instructions for Form 8865 for further guidance and the most up-to-date information.

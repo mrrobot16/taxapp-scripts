@@ -1,0 +1,17 @@
+Schedule J is a form that organizations must complete if they answered "Yes" to a specific question on Form 990, Part IV, line 23. This form is used to provide information about compensation for certain officers, directors, trustees, key employees, and highest compensated employees.
+
+Part I of Schedule J asks a series of questions regarding compensation. The organization is required to check the appropriate boxes if they provided certain benefits or payments to individuals listed on Form 990, Part VII, Section A, line 1a. If any of these boxes are checked, the organization must also indicate whether they followed a written policy regarding the payment or reimbursement of these expenses and whether they required substantiation prior to reimbursing or allowing expenses.
+
+The organization is then asked to indicate which methods they used to establish the compensation of the CEO/Executive Director, such as a compensation committee, written employment contract, independent compensation consultant, compensation survey or study, Form 990 of other organizations, or approval by the board or compensation committee.
+
+Further questions inquire whether any individuals listed on Form 990, Part VII, Section A, line 1a received severance payments, participated in nonqualified retirement plans or equity-based compensation arrangements, or received nonfixed payments. If any of these apply, the organization is required to provide the applicable amounts and list the persons in Part III.
+
+The form also asks whether the organization paid or accrued any compensation contingent on the revenues or net earnings of the organization or any related organization. If so, the organization must describe these arrangements in Part III.
+
+Additionally, the form asks whether any amounts reported on Form 990, Part VII, were paid or accrued pursuant to a contract subject to the initial contract exception and whether the organization followed the rebuttable presumption procedure.
+
+Part II of Schedule J is used to report the compensation of officers, directors, trustees, key employees, and highest compensated employees. The form provides space to report compensation from the organization and related organizations for each individual listed on Form 990, Part VII.
+
+Part III is a section for providing supplemental information, explanations, or descriptions required for the questions in Part I and Part II, as well as any additional information.
+
+Overall, Schedule J is a detailed form that organizations must complete to provide information about compensation for certain individuals.

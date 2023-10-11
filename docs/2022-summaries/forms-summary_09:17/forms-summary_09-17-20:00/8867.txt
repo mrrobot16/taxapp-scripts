@@ -1,0 +1,495 @@
+Form  8867
+(Rev. November 2022)
+Department of the Treasury  
+Internal Revenue Service 
+Paid Preparer’s Due Diligence Checklist
+Earned Income Credit (EIC), American Opportunity Tax Credit (AOTC), 
+Child Tax Credit (CTC) (including the Additional Child Tax Credit (ACTC) and 
+Credit for Other Dependents (ODC)), and Head of Household (HOH) Filing Status
+To be completed by preparer and filed with Form 1040, 1040-SR, 1040-NR, 1040-PR, or 1040-SS. 
+ Go to www.irs.gov/Form8867 for instructions and the latest information.
+OMB No. 1545-0074
+For tax year
+20
+Attachment 
+Sequence No. 70 
+Taxpayer name(s) shown on return
+Taxpayer identification number
+Preparer’s name
+Preparer tax identification number
+Part I 
+Due Diligence Requirements
+Please check the appropriate box for the credit(s) and/or HOH filing status claimed on the return and complete the related Parts I–V 
+for the benefit(s) claimed (check all that apply). 
+EIC
+CTC/ACTC/ODC
+AOTC
+HOH
+Yes 
+No 
+1 
+Did you complete the return based on information for the applicable tax year provided by the taxpayer 
+or reasonably obtained by you? (See instructions if relying on prior year earned income.) 
+.
+.
+.
+.
+N/A
+2
+If credits are claimed on the return, did you complete the applicable EIC and/or CTC/ACTC/ODC 
+worksheets found in the Form 1040, 1040-SR, 1040-NR, 1040-PR, 1040-SS, or Schedule 8812 (Form
+1040) instructions, and/or the AOTC worksheet found in the Form 8863 instructions, or your own
+worksheet(s) that provides the same information, and all related forms and schedules for each credit 
+claimed? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Did you satisfy the knowledge requirement? To meet the knowledge requirement, you must do both of
+the following.
+• Interview the taxpayer, ask questions, and contemporaneously document the taxpayer’s responses to 
+determine that the taxpayer is eligible to claim the credit(s) and/or HOH filing status.
+• Review information to determine that the taxpayer is eligible to claim the credit(s) and/or HOH filing 
+status and to figure the amount(s) of any credit(s) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+ 
+Did any information provided by the taxpayer or a third party for use in preparing the return, or 
+information reasonably known to you, appear to be incorrect, incomplete, or inconsistent? (If “Yes,”
+answer questions 4a and 4b. If “No,” go  to question 5.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+a
+Did you make reasonable inquiries to determine the correct, complete, and consistent information? .
+b 
+ 
+Did you contemporaneously document your inquiries? (Documentation should include the questions
+you asked, whom you asked, when you asked, the information that was provided, and the impact the
+information had on your preparation of the return.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+ 
+ 
+ 
+ 
+Did you satisfy the record retention requirement? To meet the record retention requirement, you must 
+keep a copy of your documentation referenced in question 4b, a copy of this Form 8867, a copy of any
+applicable worksheet(s), a record of how, when, and from whom the information used to prepare Form
+8867 and any applicable worksheet(s) was obtained, and a copy of any document(s) provided by the
+taxpayer that you relied on to determine eligibility for the credit(s) and/or HOH filing status or to figure 
+the amount(s) of the credit(s)  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+List those documents provided by the taxpayer, if any, that you relied on:
+6 
+ 
+Did you ask the taxpayer whether he/she could provide documentation to substantiate eligibility for the
+credit(s) and/or HOH filing status and the amount(s) of any credit(s) claimed on the return if his/her 
+return is selected for audit? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Did you ask the taxpayer if any of these credits were disallowed or reduced in a previous year? 
+.
+.
+(If credits were disallowed or reduced, go to question 7a; if not, go to question 8.)
+a
+Did you complete the required recertification Form 8862? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+If the taxpayer is reporting self-employment income, did you ask questions to prepare a complete and 
+correct Schedule C (Form 1040)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 26142H
+Form 8867 (Rev. 11-2022) 
+Form 8867 (Rev. 11-2022)
+Page 2 
+Part II
+Due Diligence Questions for Returns Claiming EIC (If the return does not claim EIC, go to Part III.)
+9 
+ 
+a 
+ 
+Have you determined that the taxpayer is eligible to claim the EIC for the number of qualifying children
+claimed, or is eligible to claim the EIC without a qualifying child? (If the taxpayer is claiming the EIC
+and does not have a qualifying child, go to question 10.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+N/A
+b Did you ask the taxpayer if the child lived with the taxpayer for over half of the year, even if the taxpayer 
+has supported the child the entire year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c Did you explain to the taxpayer the rules about claiming the EIC when a child is the qualifying child of
+more than one person (tiebreaker rules)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part III
+Due Diligence Questions for Returns Claiming CTC/ACTC/ODC (If the return does not claim CTC, ACTC, 
+or ODC, go to Part IV.)
+10 
+Have you determined that each qualifying person for the CTC/ACTC/ODC is the taxpayer’s dependent who is 
+a citizen, national, or resident of the United States? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+N/A
+11 
+ 
+Did you explain to the taxpayer that he/she may not claim the CTC/ACTC if the child has not lived with
+the taxpayer for over half of the year, even if the taxpayer has supported the child, unless the child’s 
+custodial parent has released a claim to exemption for the child?  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+ 
+Did you explain to the taxpayer the rules about claiming the CTC/ACTC/ODC for a child of divorced or 
+separated parents (or parents who live apart), including any requirement to attach a Form 8332 or similar 
+statement to the return? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part IV
+Due Diligence Questions for Returns Claiming AOTC (If the return does not claim AOTC, go to Part V.)
+13 
+Did the taxpayer provide substantiation for the credit, such as a Form 1098-T and/or receipts for the qualified 
+tuition and related expenses for the claimed AOTC? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+Part V
+Due Diligence Questions for Claiming HOH (If the return does not claim HOH filing status, go to Part VI.)
+14 
+Have you determined that the taxpayer was unmarried or considered unmarried on the last day of the tax year 
+and provided more than half of the cost of keeping up a home for the year for a qualifying person? .
+.
+.
+.
+Yes 
+No 
+Part VI
+Eligibility Certification
+You will have complied with all due diligence requirements for claiming the applicable credit(s) and/or HOH filing status 
+on the return of the taxpayer identified above if you:
+A. Interview the taxpayer, ask adequate questions, contemporaneously document the taxpayer’s responses on the return or 
+in your notes, review adequate information to determine if the taxpayer is eligible to claim the credit(s) and/or HOH filing 
+status and to figure the amount(s) of the credit(s);
+B. Complete this Form 8867 truthfully and accurately and complete the actions described in this checklist for any applicable 
+credit(s) claimed and HOH filing status, if claimed;
+C. Submit Form 8867 in the manner required; and
+D. Keep all five of the following records for 3 years from the latest of the dates specified in the Form 8867 instructions under 
+Document Retention.
+1. A copy of this Form 8867.
+2. The applicable worksheet(s) or your own worksheet(s) for any credit(s) claimed.
+3. Copies of any documents provided by the taxpayer on which you relied to determine the taxpayer’s eligibility for the 
+credit(s) and/or HOH filing status and to figure the amount(s) of the credit(s).
+4. A record of how, when, and from whom the information used to prepare this form and the applicable worksheet(s) was 
+obtained.
+5. A record of any additional information you relied upon, including questions you asked and the taxpayer’s responses, to 
+determine the taxpayer’s eligibility for the credit(s) and/or HOH filing status and to figure the amount(s) of the credit(s).
+If you have not complied with all due diligence requirements, you may have to pay a penalty for each failure to comply 
+related to a claim of an applicable credit or HOH filing status (see instructions for more information).
+15 
+Do you certify that all of the answers on this Form 8867 are, to the best of your knowledge, true, correct, and 
+complete? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes 
+No 
+Form 8867 (Rev. 11-2022) 

@@ -1,0 +1,13 @@
+Form 8915-C is a document provided by the Internal Revenue Service (IRS) for taxpayers to report qualified 2018 disaster retirement plan distributions and repayments. It is to be attached to the taxpayer's 2022 Form 1040, 1040-SR, or 1040-NR.
+
+The form consists of two parts: Part I for reporting qualified 2018 disaster distributions from retirement plans other than IRAs, and Part II for reporting qualified 2018 disaster distributions from traditional, SEP, SIMPLE, and Roth IRAs.
+
+In Part I, taxpayers are required to enter the amounts from their 2020 and 2021 Form 8915-C, lines 11 and 8, respectively. They also need to subtract line 2b from line 2a to determine their excess repayment from 2021. The form provides space to enter any repayments made before filing the 2022 tax return, excluding repayments made after the due date or the 3-year cutoff date. Finally, taxpayers need to calculate the amount subject to tax in 2022 by subtracting line 6 from line 1.
+
+In Part II, taxpayers follow a similar process to report qualified 2018 disaster distributions from IRAs. They enter the amounts from their 2020 and 2021 Form 8915-C, lines 27 and 17, respectively. They subtract line 9b from line 9a to determine their excess repayment from 2021. They enter any repayments made before filing the 2022 tax return, excluding repayments made after the due date or the 3-year cutoff date. Finally, taxpayers calculate the amount subject to tax in 2022 by subtracting line 13 from line 8.
+
+The form includes spaces for the taxpayer's name, social security number, address, and signature. If the form is being filed separately and not with the tax return, the taxpayer must sign the form under penalties of perjury.
+
+The form also includes sections for paid preparer information and a checkbox for self-employed individuals. The bottom of the form provides space for the preparer's name, signature, and PTIN, as well as the firm's name, address, and EIN.
+
+Taxpayers are advised to refer to the instructions on the IRS website for additional guidance and the latest information related to Form 8915-C.

@@ -1,0 +1,11 @@
+Form 8995-A is a tax form issued by the Internal Revenue Service (IRS) for taxpayers to claim the Qualified Business Income Deduction. This deduction is available to individuals who have qualified business income from a qualified trade or business, real estate investment trust dividends, publicly traded partnership income, or a domestic production activities deduction passed through from an agricultural or horticultural cooperative.
+
+The form consists of four parts. In Part I, taxpayers are required to provide information about their trade, business, or aggregation. They must complete Schedules A, B, and/or C (Form 8995-A) as applicable.
+
+Part II is used to determine the adjusted qualified business income. Taxpayers need to calculate their qualified business income from the trade, business, or aggregation and multiply it by 20% (0.20). They also need to calculate their allocable share of W-2 wages and the unadjusted basis immediately after acquisition (UBIA) of all qualified property.
+
+In Part III, taxpayers need to complete this section only if their taxable income is more than $170,050 but not more than $220,050 (or $340,100 and $440,100 if married filing jointly) and line 10 is less than line 3. This part involves calculations related to the phased-in reduction.
+
+Part IV is used to determine the qualified business income deduction. Taxpayers need to calculate the total qualified business income component from all qualified trades, businesses, or aggregations. They also need to determine the qualified REIT dividends and publicly traded partnership (PTP) income or loss, and the qualified REIT dividends and PTP loss carryforward from prior years. These calculations are used to determine the qualified business income deduction before the income limitation and the domestic production activities deduction (DPAD) under section 199A(g). The final step is to calculate the total qualified business income deduction by adding lines 37 and 38.
+
+Taxpayers are instructed to attach Form 8995-A to their tax return and can find additional instructions and information on the IRS website.

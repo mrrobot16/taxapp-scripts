@@ -1,0 +1,753 @@
+Form  W-8IMY
+(Rev. October 2021)
+Department of the Treasury  
+Internal Revenue Service 
+Certificate of Foreign Intermediary, Foreign Flow-Through Entity, or Certain 
+U.S. Branches for United States Tax Withholding and Reporting
+▶ Section references are to the Internal Revenue Code.                                    
+  ▶ Go to www.irs.gov/FormW8IMY for instructions and the latest information.
+▶ Give this form to the withholding agent or payer. Do not send to the IRS. 
+OMB No. 1545-1621
+Do not use this form for: 
+Instead, use Form: 
+•  A beneficial owner solely claiming foreign status or treaty benefits (other than a qualified intermediary (QI) acting as a qualified derivatives  
+   dealer (QDD))  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ W-8BEN or W-8BEN-E
+•  A hybrid entity claiming treaty benefits on its own behalf (other than a QI acting as a QDD)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.   W-8BEN-E
+•  A foreign person claiming that income is effectively connected with the conduct of a trade or business in the United States 
+.
+.
+.
+.
+.   W-8ECI
+•  A disregarded entity with a single foreign owner that is the beneficial owner (other than a QI acting as a QDD) of the income to which this form 
+relates. Instead, the single foreign owner should use 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ W-8BEN, W-8ECI, or W-8BEN-E 
+•  A foreign government, international organization, foreign central bank of issue, foreign tax-exempt organization, foreign private foundation, or 
+government of a U.S. possession claiming the applicability of section(s) 115(2), 501(c), 892, 895, or 1443(b) .
+.
+.
+.
+.
+.
+.
+.
+.
+. W-8EXP 
+•  U.S. entity or U.S. citizen or resident .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  W-9
+•  A foreign person documenting itself for purposes of section 6050W .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ W-8BEN, W-8BEN-E, or W-8ECI
+Part I 
+Identification of Entity
+1    Name of organization that is acting as intermediary 
+2    Country of incorporation or organization
+3    Name of disregarded entity (if applicable), see instructions
+4
+Chapter 3 Status (entity type) (Must check one box only.):
+QI (including a QDD). Complete Part III.
+Nonqualified intermediary. Complete Part IV. 
+Territory financial institution. Complete Part V.  
+U.S. branch. Complete Part VI. 
+Withholding foreign partnership. Complete Part VII. 
+Withholding foreign trust. Complete Part VII. 
+Nonwithholding foreign partnership. Complete Part VIII. 
+Nonwithholding foreign simple trust. Complete Part VIII. 
+Nonwithholding foreign grantor trust. Complete Part VIII. 
+5
+Chapter 4 Status (FATCA status) (See instructions for details and complete the certification below for the entity’s applicable status.) 
+(Must check one box only.):
+Nonparticipating foreign financial institution (FFI) (including an FFI related 
+to a Reporting IGA FFI other than a deemed-compliant FFI, participating 
+FFI, or exempt beneficial owner). Complete Part IX (if applicable).
+Participating FFI.
+Reporting Model 1 FFI. 
+Reporting Model 2 FFI.
+Registered deemed-compliant FFI (other than a reporting Model 1 FFI, 
+sponsored FFI, or nonreporting IGA FFI covered in Part XIX).                 
+Territory financial institution. Complete Part V.  
+Sponsored FFI (other than a certified deemed-compliant sponsored, 
+closely held investment vehicle). Complete Part X.
+Certified deemed-compliant nonregistering local bank. Complete Part XII.  
+Certified deemed-compliant FFI with only low-value accounts. Complete Part XIII.
+Certified deemed-compliant sponsored, closely held investment 
+vehicle. Complete Part XIV.                        
+Certified deemed-compliant limited life debt investment entity. Complete Part XV. 
+Certain investment entities that do not maintain financial accounts. Complete Part XVI. 
+Owner-documented FFI. Complete Part XI.
+Restricted distributor. Complete Part XVII.                                  
+Foreign central bank of issue. Complete Part XVIII. 
+Nonreporting IGA FFI. Complete Part XIX. 
+Exempt retirement plans. Complete Part XX.
+Excepted nonfinancial group entity. Complete Part XXI.
+Excepted nonfinancial start-up company. Complete Part XXII.
+Excepted nonfinancial entity in liquidation or bankruptcy. 
+Complete Part XXIII.
+Publicly traded NFFE or NFFE affiliate of a publicly traded 
+corporation. Complete Part XXIV.                                          
+Excepted territory NFFE. Complete Part XXV.
+Active NFFE. Complete Part XXVI.                                             
+Passive NFFE. Complete Part XXVII.                                           
+Direct reporting NFFE.                                     
+Sponsored direct reporting NFFE. Complete Part XXVIII.           
+6   Permanent residence address (street, apt. or suite no., or rural route). Do not use a P.O. box or in-care-of address (other than a registered address).
+City or town, state or province. Include postal code where appropriate.
+Country
+7   Mailing address (if different from above)
+City or town, state or province. Include postal code where appropriate.
+Country
+8   U.S. taxpayer identification number, if required  ▶
+9a  GIIN (if applicable)  ▶
+  b  Foreign taxpayer identification number, if required  ▶
+QI-EIN
+WP-EIN
+WT-EIN
+EIN
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 25402Q 
+Form W-8IMY (Rev. 10-2021) 
+10   Reference number(s) (see instructions)
+Form W-8IMY (Rev. 10-2021) 
+Page  2 
+Part II
+Disregarded Entity or Branch Receiving Payment. (Complete only if a disregarded entity with a GIIN or 
+a branch of an FFI in a country other than the FFI’s country of residence. Do not complete Part II for QDD 
+branches. See instructions.)
+11
+Chapter 4 Status (FATCA status) of disregarded entity or branch receiving payment.
+Branch treated as nonparticipating FFI.
+Participating FFI.
+Reporting Model 1 FFI.
+Reporting Model 2 FFI.
+U.S. Branch.
+12      Address of branch (street, apt. or suite no., or rural route). Do not use a P.O. box or in-care-of address (other than a registered address).
+             City or town, state or province. Include postal code where appropriate.
+             Country
+13
+GIIN (if any)  ▶
+Chapter 3 Status Certifications
+Part III 
+Qualified Intermediary
+All Qualified Intermediaries
+14
+I certify that the entity identified in Part I (or branch, if relevant): 
+• Is a QI with respect to the accounts identified on line 10 or in a withholding statement associated with this form (as required) that is one 
+or more of the following:
+(i)
+Not acting for its own account; 
+(ii) A QDD receiving payments on underlying securities and/or potential section 871(m) transactions;
+(iii) A QI assuming primary withholding responsibility for payments of substitute interest, as permitted by the QI Agreement.
+• Has provided or will provide a withholding statement (as required) for purposes of chapters 3 and 4, and section 1446(a), or section 
+1446(f), subject to the certifications made on this form.
+• To the extent it acts as a disclosing QI for purposes of section 1446(a) or (f) for  payments associated with this form, the QI is to provide 
+the required payee documentation to associate with an amount realized or an amount subject to withholding on a PTP distribution.
+Qualified Intermediaries When Not Acting As Qualified Derivatives Dealers (check all that apply)
+15a
+I certify that the entity identified in Part I of this form assumes primary withholding responsibility for purposes of chapters 3 and 4 for each 
+account identified on a withholding statement attached to this form (or, if no withholding statement is attached to this form, for all accounts).
+b
+I certify that the entity identified in Part I of this form assumes primary withholding and reporting responsibility for each payment of an amount 
+realized from the sale of an interest in a publicly traded partnership under section 1446(f) associated with each account identified on a withholding 
+statement attached to this form for receiving such amounts (or, if no withholding statement is attached to this form, for all accounts).
+c
+I certify that the entity identified in Part I of this form assumes primary withholding as a nominee under Regulations section 1.1446-4(b)(3) 
+for each distribution by a publicly traded partnership associated with each account identified on a withholding statement attached to this 
+form for receiving such distributions (or, if no withholding statement is attached to this form, for all accounts).
+d
+I certify that the entity identified in Part I of this form is a QI acting as a qualified securities lender assuming primary withholding and 
+reporting responsibilities with respect to payments that are U.S. source substitute dividends received from the withholding agent 
+associated with each account identified on a withholding statement attached to this form (or, if no withholding statement is attached to this 
+form, for all accounts).
+e
+I certify that the entity identified in Part I of this form assumes primary withholding responsibility for purposes of chapters 3 and 4 and   
+primary Form 1099 reporting and backup withholding responsibility for all payments of U.S. source interest and substitute interest 
+associated with this form, as permitted by the QI Agreement.
+f
+I certify that the entity identified in Part I of this form assumes primary Form 1099 reporting and backup withholding responsibility or 
+reporting responsibility as a participating FFI or registered deemed-compliant FFI with respect to accounts that it maintains that are held by 
+specified U.S. persons as permitted under Regulations sections 1.6049-4(c)(4)(i) or (c)(4)(ii) in lieu of Form 1099 reporting for each account 
+identified on a withholding statement attached to this form (or, if no withholding statement is attached to this form, for all accounts). 
+g
+I certify that the entity identified in Part I of this form does not assume primary Form 1099 reporting and backup withholding responsibility for each 
+account identified on a withholding statement attached to this form (or, if no withholding statement is attached to this form, for all accounts).
+h
+(Complete only to the extent the entity identified in Part I of this form does not assume primary Form 1099 reporting and backup withholding 
+responsibility.) If the entity identified in Part I of this form has allocated or will allocate a portion of a payment to a chapter 4 withholding rate pool 
+of U.S. payees on a withholding statement associated with this form, I certify that the entity meets the requirements of Regulations section  
+1.6049-4(c)(4)(iii) with respect to any account holder of an account it maintains that is included in such a withholding rate pool.
+i
+(Complete only to the extent the entity identified in Part I of this form does not assume primary Form 1099 reporting and backup withholding          
+responsibility.) If the entity identified in Part I of this form has allocated or will allocate a portion of a payment to a chapter 4 withholding rate pool 
+of U.S. payees on a withholding statement associated with this form, to the extent the U.S. payees are account holders of an intermediary or flow-
+through entity receiving a payment from the entity, I certify that the entity has obtained, or will obtain, documentation sufficient to establish each 
+such intermediary or flow-through entity status as a participating FFI, registered deemed-compliant FFI, or FFI that is a QI. 
+Form W-8IMY (Rev. 10-2021) 
+Form W-8IMY (Rev. 10-2021) 
+Page  3 
+Qualified Derivatives Dealers 
+16a
+I certify that each QDD identified in Part I of this form or on a withholding statement associated with this form meets the requirements to 
+act as a QDD (including approval by the IRS to so act) and assumes primary withholding and reporting responsibilities under chapters 3, 4, 
+and 61 and section 3406 with respect to any payments it makes with respect to potential section 871(m) transactions. 
+b
+Entity classification of QDD: 
+Corporation
+Partnership
+Disregarded Entity
+Part IV 
+Nonqualified Intermediary
+Check all that apply.
+17a
+(All nonqualified intermediaries and QIs that are not acting in their capacity as such check here.) I certify that the entity identified in Part I of this 
+form is not acting as a QI with respect to each account(s) for which this form is provided and is not acting for its own account. 
+b
+I certify that the entity identified in Part I of this form is using this form to transmit withholding certificates and/or other documentation and 
+has provided, or will provide, a withholding statement, as required. Note: If this form is provided for purposes of the entity’s interest in a 
+publicly traded partnership, see the instructions for Part IV before checking this box.
+c
+I certify that the entity identified in Part I of this form meets the requirements of Regulations section 1.6049-4(c)(4)(iii) with respect to any  
+account holder of an account it maintains that is included in a withholding rate pool of U.S. payees provided on a withholding statement 
+associated with this form (excluding a distribution from a publicly traded partnership).
+d
+I certify that the entity identified in Part I of this form is acting as a qualified securities lender (other than a QI) assuming primary withholding and reporting 
+responsibilities with respect to payments associated with this form that are U.S. source substitute dividends received from the withholding agent.
+e
+To the extent that the entity identified in Part I of this form  is providing an alternative withholding statement described in Regulations 
+section 1.1441-1(e)(3)(iv)(C)(3) for any payments associated with the form, the entity represents that the information on all of the 
+withholding statements associated with this withholding certificate have been (or will be) verified for inconsistency with any other account 
+information the entity has for the beneficial owners for determining the rate of withholding with respect to each payee (applying the 
+standards of knowledge under section 1441 or section 1471, as applicable).
+Part V
+Territory Financial Institution
+18a
+I certify that the entity identified in Part I is a financial institution (other than an investment entity that is not also a depository institution, 
+custodial institution, or specified insurance company) that is incorporated or organized under the laws of a territory of the United States.
+Check the box on line 18b or 18c, whichever applies.
+b
+I further certify that the entity identified in Part I is using this form as evidence of its agreement with the withholding agent to be treated as a U.S. person 
+for purposes of chapters 3 and 4 with respect to any reportable amounts and withholdable payments associated with this withholding certificate.
+c
+I further certify that the entity identified in Part I:
+• Is using this form to transmit withholding certificates and/or other documentation for the persons for whom it receives a payment of a 
+reportable amount or a withholdable payment; and 
+• Has provided or will provide a withholding statement, as required. 
+Check the boxes on lines 18d, and 18e or 18f, as applicable.
+d
+I certify that the entity identified in Part I agrees to be treated as a U.S. person under Regulations section 1.1446(f)-4(a)(2)(i)(B) with respect 
+to amounts realized on sales of interests in publicly traded partnerships.
+e
+I certify that the entity identified in Part I agrees to be treated as a U.S. person (as described in Regulations section 1.1441-1(b)(2)(iv)(A)) 
+and as a nominee under Regulations section 1.1446-4(b)(3) with respect to distributions by publicly traded partnerships, or
+f
+Is not acting as a nominee for distributions from publicly traded partnerships and is providing withholding statements for the distributions. 
+Note: If this form is provided for an amount realized, see the instructions for Part V before providing a withholding statement for an amount 
+realized when the entity does not check the box on line 18d.
+Part VI
+Certain U.S. Branches
+19a
+I certify that the entity identified in Part I is a U.S. branch receiving reportable amounts or withholdable payments that are not income 
+effectively connected with the conduct of a trade or business in the United States, distributions from publicly traded partnerships, or 
+amounts realized on sales of interests in publicly traded partnerships. 
+Check the box on line 19b or 19c, whichever applies.
+b
+I certify that the entity identified in Part I is a U.S. branch of a foreign bank or insurance company described in Regulations section 
+1.1441-1(b)(2)(iv)(A) that is using this form as evidence of its agreement with the withholding agent to be treated as a U.S. person with 
+respect to any reportable amounts or withholdable payments associated with this withholding certificate.
+c
+I certify that the entity identified in Part I: 
+• Is using this form to transmit withholding certificates and/or other documentation for the persons for whom the branch receives a payment of a reportable amount;
+• Has provided or will provide a withholding statement, as required; and
+• In the case of a withholdable payment, is applying the rules described in Regulations section 1.1471-4(d)(2)(iii)(C).
+Check the boxes on lines 19d, and 19e or 19f, as applicable.
+d
+I certify that the entity identified in Part I is a U.S. branch (as described in Regulations section 1.1446(f)-4(a)(2)(i)(B)) that is acting as a U.S.  
+person with respect to amounts realized on the sales of interests in publicly traded partnerships,
+e
+I certify that the entity identified in Part I is a U.S. branch (as described in Regulations section 1.1441-1(b)(2)(iv)(A)) that is treated as a 
+U.S. person and as a nominee with respect to distributions by publicly traded partnerships under Regulations section 1.1446-4(b)(3), or 
+f
+Is not acting as a nominee for distributions from publicly traded partnerships and is providing withholding statements for the distributions. 
+Note: If this form is provided for an amount realized, see the instructions for Part VI before providing a withholding statement for an 
+amount realized when the U.S. branch does not check the box on line 19d.   
+Form W-8IMY (Rev. 10-2021) 
+Form W-8IMY (Rev. 10-2021) 
+Page  4 
+Part VII 
+Withholding Foreign Partnership (WP) or Withholding Foreign Trust (WT)
+20
+I certify that the entity identified in Part I is a withholding foreign partnership or a withholding foreign trust that is compliant with the terms 
+of its WP or WT agreement. 
+Part VIII 
+Nonwithholding Foreign Partnership, Simple Trust, or Grantor Trust
+Check all that apply.
+21a
+I certify that the entity identified in Part I: 
+• Is a nonwithholding foreign partnership, a nonwithholding foreign simple trust, or a nonwithholding foreign grantor trust and is providing 
+this form for payments that are not effectively connected, or are not treated as effectively connected, with the conduct of a trade or 
+business in the United States; and 
+• Is using this form to transmit withholding certificates and/or other documentation and has provided or will provide a withholding 
+statement, as required for purposes of chapters 3 and 4, that is subject to the certifications made on this form.
+b
+I certify that the entity identified in Part I is a foreign partnership or foreign grantor trust that is a partner in a lower-tier partnership and is 
+providing this Form W-8IMY for purposes of section 1446(a).
+c
+I certify that the entity identified in Part I is a foreign partnership receiving an amount realized on the transfer of an interest in a partnership 
+for purposes of section 1446(f).
+d
+I certify that the entity identified in Part I is a foreign partnership providing a withholding statement for a modified amount realized from the 
+transfer (check, when applicable, only if box 21c is checked).
+e
+I certify that the entity identified in Part I is a foreign grantor trust providing the form on behalf of each grantor or other owner of the trust 
+under Regulations section 1.1446(f)-1(c)(2)(vii) that is transmitting withholding certificates and providing a withholding statement to allocate 
+the amount realized to each grantor or other owner. 
+f
+To the extent the entity identified in Part I of this form is providing an alternative withholding statement described in Regulations section 
+1.1441-1(e)(3)(iv)(C)(3) for any payments associated with the form, the entity represents that the information on all of the withholding 
+certificates associated with the withholding statement may be relied on based on the standards of knowledge under section 1441 or 
+section 1471 applicable to the entity.
+Chapter 4 Status Certifications
+Part IX 
+Nonparticipating FFI with Exempt Beneficial Owners
+22
+I certify that the entity identified in Part I is using this form to transmit withholding certificates and/or other documentation and has provided 
+or will provide a withholding statement that indicates the portion of the payment allocated to one or more exempt beneficial owners.
+Part X 
+Sponsored FFI 
+23a
+Name of sponsoring entity:  ▶
+Check the box on line 23b or 23c, whichever applies.
+b
+I certify that the entity identified in Part I:
+• Is an investment entity;
+• Is not a QI, WP (except to the extent permitted in the withholding foreign partnership agreement), or WT; and 
+• Has agreed with the entity identified above (that is not a nonparticipating FFI) to act as the sponsoring entity for this entity.
+c
+I certify that the entity identified in Part I:
+• Is a controlled foreign corporation as defined in section 957(a);
+• Is not a QI, WP, or WT; 
+• Is  wholly owned, directly or indirectly, by the U.S. financial institution identified above that agrees to act as the sponsoring entity for this 
+entity; and
+• Shares a common electronic account system with the sponsoring entity (identified above) that enables the sponsoring entity to identify all 
+account holders and payees of the entity and to access all account and customer information maintained by the entity including, but not limited 
+to, customer identification information, customer documentation, account balance, and all payments made to account holders or payees. 
+Part XI 
+Owner-Documented FFI
+Note: This status only applies if the U.S. financial institution, participating FFI, reporting Model 1 FFI, or reporting Model 2 FFI to which this form is 
+given has agreed that it will treat the FFI as an owner-documented FFI. The owner-documented FFI must make the certifications below.
+24a
+I certify that the FFI identified in Part I:
+• Does not act as an intermediary;
+• Does not accept deposits in the ordinary course of a banking or similar business;
+• Does not hold, as a substantial portion of its business, financial assets for the account of others;
+• Is not an insurance company (or the holding company of an insurance company) that issues or is obligated to make payments with 
+respect to a financial account;
+• Is not affiliated with an entity (other than an FFI that is also treated as an owner-documented FFI) that accepts deposits in the ordinary 
+course of a banking or similar business, holds, as a substantial portion of its business, financial assets for the account of others, or is an 
+insurance company (or the holding company of an insurance company) that issues or is obligated to make payments with respect to a 
+financial account; and
+• Does not maintain a financial account for any nonparticipating FFI.
+Form W-8IMY (Rev. 10-2021) 
+Form W-8IMY (Rev. 10-2021) 
+Page  5 
+Part XI 
+Owner-Documented FFI (continued)
+Check the box on line 24b or 24c, whichever applies.
+b
+I certify that the FFI identified in Part I:
+• Has provided, or will provide, an FFI owner reporting statement (including any applicable owner documentation) that contains:
+(i)
+The name, address, TIN (if any), chapter 4 status, and type of documentation provided (if required) of every individual and specified 
+U.S. person that owns a direct or indirect equity interest in the owner-documented FFI (looking through all entities other than 
+specified U.S. persons);
+(ii) The name, address, TIN (if any), chapter 4 status, and type of documentation provided (if required) of every individual and specified 
+U.S. person that owns a debt interest in the owner-documented FFI (including any indirect debt interest, which includes debt interests 
+in any entity that directly or indirectly owns the payee or any direct or indirect equity interest in a debt holder of the payee) that 
+constitutes a financial account in excess of $50,000 (disregarding all such debt interests owned by participating FFIs, registered 
+deemed-compliant FFIs, certified deemed-compliant FFIs, excepted NFFEs, exempt beneficial owners, or U.S. persons other than 
+specified U.S. persons); and
+(iii) Any additional information the withholding agent requests in order to fulfill its obligations with respect to the entity.
+c
+I certify that the FFI identified in Part I:
+• Has provided, or will provide, an auditor’s letter, signed no more than 4 years prior to the date of payment, from an independent 
+accounting firm or legal representative with a location in the United States stating that the firm or representative has reviewed the FFI’s 
+documentation with respect to all of its owners and debt holders identified in Regulations section 1.1471-3(d)(6)(iv)(A)(2) and that the FFI 
+meets all the requirements to be an owner-documented FFI. The FFI identified in Part I has also provided, or will provide, an FFI owner 
+reporting statement and  Form W-9, with applicable waivers, as described in Regulations section 1.1471-3(d)(6)(iv).
+Part XII
+Certified Deemed-Compliant Nonregistering Local Bank
+25
+I certify that the FFI identified in Part I:
+• Operates and is licensed solely as a bank or credit union (or similar cooperative credit organization operated without profit) in its country 
+of incorporation or organization;
+• Engages primarily in the business of receiving deposits from and making loans to, with respect to a bank, retail customers unrelated to 
+such bank and, with respect to a credit union or similar cooperative credit organization, members, provided that no member has a greater 
+than 5% interest in such credit union or cooperative credit organization;
+• Does not solicit account holders outside its country of organization;
+• Has no fixed place of business outside such country (for this purpose, a fixed place of business does not include a location that is not 
+advertised to the public and from which the FFI performs solely administrative support functions);
+• Has no more than $175 million in assets on its balance sheet and, if it is a member of an expanded affiliated group, the group has no 
+more than $500 million in total assets on its consolidated or combined balance sheets; and
+• Does not have any member of its expanded affiliated group that is an FFI, other than an FFI that is incorporated or organized in the same 
+country as the FFI identified in Part I and that meets the requirements set forth in this Part XII.
+Part XIII 
+Certified Deemed-Compliant FFI With Only Low-Value Accounts
+26
+I certify that the FFI identified in Part I:
+• Is not engaged primarily in the business of investing, reinvesting, or trading in securities, partnership interests, commodities, notional 
+principal contracts, insurance or annuity contracts, or any interest (including a futures or forward contract or option) in such security, 
+partnership interest, commodity, notional principal contract, insurance contract, or annuity contract;
+• No financial account maintained by the FFI or any member of its expanded affiliated group, if any, has a balance or value in excess of 
+$50,000 (as determined after applying applicable account aggregation rules); and
+• Neither the FFI nor the FFI’s entire expanded affiliated group, if any, has more than $50 million in assets on its consolidated or combined 
+balance sheet as of the end of its most recent accounting year.
+Part XIV 
+Certified Deemed-Compliant Sponsored, Closely Held Investment Vehicle
+27a
+Name of sponsoring entity:  ▶
+b
+I certify that the FFI identified in Part I:
+• Is an FFI solely because it is an investment entity described in Regulations section 1.1471-5(e)(4);
+• Is not a QI, WP, or WT;
+• Will have all of its due diligence, withholding, and reporting responsibilities (determined as if the FFI were a participating FFI) fulfilled by 
+the sponsoring entity identified on line 27a; and
+• 20 or fewer individuals own all of the debt and equity interests in the entity (disregarding debt interests owned by U.S. financial 
+institutions, participating FFIs, registered deemed-compliant FFIs, and certified deemed-compliant FFIs and equity interests owned by an 
+entity that owns 100% of the equity interests in the FFI identified in Part I and is itself a sponsored FFI).
+Part XV 
+Certified Deemed-Compliant Limited Life Debt Investment Entity
+28
+I certify that the FFI identified in Part I:
+• Was in existence as of January 17, 2013; 
+• Issued all classes of its debt or equity interests to investors on or before January 17, 2013, pursuant to a trust indenture or similar 
+agreement; and 
+• Is certified deemed-compliant because it satisfies the requirements to be treated as a limited life debt investment entity (such as the 
+restrictions with respect to its assets and other requirements under Regulations section 1.1471-5(f)(2)(iv)). 
+Form W-8IMY (Rev. 10-2021) 
+Form W-8IMY (Rev. 10-2021) 
+Page  6 
+Part XVI 
+Certain Investment Entities That Do Not Maintain Financial Accounts
+29
+I certify that the entity identified in Part I:
+• Is a financial institution solely because it is an investment entity described in Regulations section 1.1471-5(e)(4)(i)(A); and 
+• Does not maintain financial accounts.
+Part XVII 
+Restricted Distributor
+30a
+(All restricted distributors check here.) I certify that the entity identified in Part I:
+• Operates as a distributor with respect to debt or equity interests of the restricted fund with respect to which this form is furnished;
+• Provides investment services to at least 30 customers unrelated to each other and less than half of its customers are related to each 
+other; 
+• Is required to perform AML due diligence procedures under the anti-money laundering laws of its country of organization (which is a 
+FATF-compliant jurisdiction); 
+• Operates solely in its country of incorporation or organization, has no fixed place of business outside of that country, and has the same 
+country of incorporation or organization as all members of its affiliated group, if any;
+• Does not solicit customers outside its country of incorporation or organization;
+• Has no more than $175 million in total assets under management and no more than $7 million in gross revenue on its income statement 
+for the most recent accounting year; 
+• Is not a member of an expanded affiliated group that has more than $500 million in total assets under management or more than $20 
+million in gross revenue for its most recent accounting year on a combined or consolidated income statement; and
+• Does not distribute any debt or securities of the restricted fund to specified U.S. persons, passive NFFEs with one or more substantial 
+U.S. owners, or nonparticipating FFIs.
+Check the box on line 30b or 30c, whichever applies.
+I further certify that with respect to all sales of debt or equity interests in the restricted fund with respect to which this form is furnished that are made 
+after December 31, 2011, the entity identified in Part I:
+b
+Has been bound by a distribution agreement that contained a general prohibition on the sale of debt or securities to U.S. entities and U.S. 
+resident individuals and is currently bound by a distribution agreement that contains a prohibition of the sale of debt or securities to any 
+specified U.S. person, passive NFFE with one or more substantial U.S. owners, or nonparticipating FFI.
+c
+Is currently bound by a distribution agreement that contains a prohibition on the sale of debt or securities to any specified U.S. person, 
+passive NFFE with one or more substantial U.S. owners, or nonparticipating FFI and, for all sales made prior to the time that such a 
+restriction was included in its distribution agreement, has reviewed all accounts related to such sales in accordance with the procedures 
+identified in Regulations section 1.1471-4(c) applicable to preexisting accounts and has redeemed or retired any securities which were sold 
+to specified U.S. persons, passive NFFEs with one or more substantial U.S. owners, or nonparticipating FFIs, or will transfer the securities 
+to a distributor that is a participating FFI, reporting Model 1 FFI, or reporting Model 2 FFI.  
+Part XVIII 
+Foreign Central Bank of Issue
+31
+I certify that the entity identified in Part I is treated as the beneficial owner of the payment solely for purposes of chapter 4 under  
+Regulations section 1.1471-6(d)(4). 
+Part XIX 
+Nonreporting IGA FFI
+32
+I certify that the entity identified in Part I:
+• Meets the requirements to be considered a nonreporting financial institution pursuant to an applicable IGA between the United States and 
+.  The applicable IGA is a
+Model 1 IGA or a
+Model 2 IGA; and
+is treated as a
+under the provisions of the applicable IGA or Treasury regulations 
+(if applicable, see instructions); and
+• If you are a trustee documented trust or a sponsored entity, provide the name of the trustee or sponsor 
+ .
+The trustee is:
+U.S.
+Foreign
+Part XX 
+Exempt Retirement Plans
+Check the box on line 33a, b, c, d, e, or f, whichever applies.
+33a
+I certify that the entity identified in Part I:
+• Is established in a country with which the United States has an income tax treaty in force;
+• Is operated principally to administer or provide pension or retirement benefits; and
+• Is entitled to treaty benefits on income that the fund derives from U.S. sources (or would be entitled to benefits if it derived any such 
+income) as a resident of the other country which satisfies any applicable limitation on benefits requirement.  
+b
+I certify that the entity identified in Part I:
+• Is organized for the provision of retirement, disability, or death benefits (or any combination thereof) to beneficiaries that are former 
+employees of one or more employers in consideration for services rendered;
+• No single beneficiary has a right to more than 5% of the FFI’s assets;
+• Is subject to government regulation and provides annual information reporting about its beneficiaries to the relevant tax authorities in the 
+country in which the fund is established or operated; and
+Form W-8IMY (Rev. 10-2021) 
+Form W-8IMY (Rev. 10-2021) 
+Page  7 
+Part XX 
+Exempt Retirement Plans (continued)
+(i)
+Is generally exempt from tax on investment income under the laws of the country in which it is established or operates due to its 
+status as a retirement or pension plan;
+(ii) Receives at least 50% of its total contributions from sponsoring employers (disregarding transfers of assets from other plans 
+described in this part, retirement and pension accounts described in an applicable Model 1 or Model 2 IGA, other retirement funds 
+described in an applicable Model 1 or Model 2 IGA, or accounts described in Regulations section 1.1471-5(b)(2)(i)(A));
+(iii) Either does not permit or penalizes distributions or withdrawals made before the occurrence of specified events related to 
+retirement, disability, or death (except rollover distributions to accounts described in Regulations section 1.1471-5(b)(2)(i)(A) 
+(referring to retirement and pension accounts), to retirement and pension accounts described in an applicable Model 1 or Model 2 
+IGA, or to other retirement funds described in this part or in an applicable Model 1 or Model 2 IGA); or
+(iv) Limits contributions by employees to the fund by reference to earned income of the employee or may not exceed $50,000 annually.
+c
+I certify that the entity identified in Part I:
+• Is organized for the provision of retirement, disability, or death benefits (or any combination thereof) to beneficiaries that are former 
+employees of one or more employers in consideration for services rendered;
+• Has fewer than 50 participants;
+• Is sponsored by one or more employers, each of which is not an investment entity or passive NFFE;
+• Employee and employer contributions to the fund (disregarding transfers of assets from other plans described in this part, retirement and 
+pension accounts described in an applicable Model 1 or Model 2 IGA, or accounts described in Regulations section 1.1471-5(b)(2)(i)(A)) are 
+limited by reference to earned income and compensation of the employee, respectively;
+• Participants that are not residents of the country in which the fund is established or operated are not entitled to more than 20% of the fund’s assets; and
+• Is subject to government regulation and provides annual information reporting about its beneficiaries to the relevant tax authorities in the 
+country in which the fund is established or operates.
+d
+I certify that the entity identified in Part I is formed pursuant to a pension plan that would meet the requirements of section 401(a), other 
+than the requirement that the plan be funded by a trust created or organized in the United States.
+e
+I certify that the entity identified in Part I is established exclusively to earn income for the benefit of one or more retirement funds described 
+in this part or in an applicable Model 1 or Model 2 IGA, accounts described in Regulations section 1.1471-5(b)(2)(i)(A) (referring to 
+retirement and pension accounts), or retirement and pension accounts described in an applicable Model 1 or Model 2 IGA.
+f
+I certify that the entity identified in Part I:
+• Is established and sponsored by a foreign government, international organization, central bank of issue, or government of a U.S. 
+possession (each as defined in Regulations section 1.1471-6) or an exempt beneficial owner described in an applicable Model 1 or Model 
+2 IGA to provide retirement, disability, or death benefits to beneficiaries or participants that are current or former employees of the sponsor 
+(or persons designated by such employees); or
+• Is established and sponsored by a foreign government, international organization, central bank of issue, or government of a U.S. 
+possession (each as defined in Regulations section 1.1471-6) or an exempt beneficial owner described in an applicable Model 1 or Model 
+2 IGA to provide retirement, disability, or death benefits to beneficiaries or participants that are not current or former employees of such 
+sponsor, but are in consideration of personal services performed for the sponsor.
+Part XXI 
+Excepted Nonfinancial Group Entity
+34
+I certify that the entity identified in Part I:
+• Is a holding company, treasury center, or captive finance company and substantially all of the entity’s activities are functions described in 
+Regulations section 1.1471-5(e)(5)(i)(C) through (E);
+• Is a member of a nonfinancial group described in Regulations section 1.1471-5(e)(5)(i)(B);
+• Is not a depository or custodial institution (other than for members of the entity’s expanded affiliated group); and
+• Does not function (or hold itself out) as an investment fund, such as a private equity fund, venture capital fund, leveraged buyout fund, or 
+any investment vehicle with an investment strategy to acquire or fund companies and then hold interests in those companies as capital 
+assets for investment purposes.
+Part XXII 
+Excepted Nonfinancial Start-Up Company
+35
+I certify that the entity identified in Part I:
+• Was formed on (or in the case of a new line of business, the date of board resolution approving the new line of business)
+(date must be less than 24 months prior to date of payment);
+• Is not yet operating a business and has no prior operating history or is investing capital in assets with the intent to operate a new line of 
+business other than that of a financial institution or passive NFFE; and
+• Does not function (or hold itself out) as an investment fund, such as a private equity fund, venture capital fund, leveraged buyout fund, or 
+any investment vehicle whose purpose is to acquire or fund companies and then hold interests in those companies as capital assets for 
+investment purposes. 
+Part XXIII 
+Excepted Nonfinancial Entity in Liquidation or Bankruptcy
+36
+I certify that the entity identified in Part I:
+• Filed a plan of liquidation, filed a plan for reorganization, or filed for bankruptcy on the following date:
+;
+• Has not been engaged during the past 5 years in business as a financial institution or acted as a passive NFFE;
+• Is either liquidating or emerging from a reorganization or bankruptcy with the intent to continue or recommence operations as a 
+nonfinancial entity; and
+• Has provided, or will provide, documentary evidence such as a bankruptcy filing or other public documentation that supports its claim if 
+it remains in bankruptcy or liquidation for more than 3 years.
+Form W-8IMY (Rev. 10-2021) 
+Form W-8IMY (Rev. 10-2021) 
+Page  8 
+Part XXIV 
+Publicly Traded NFFE or NFFE Affiliate of a Publicly Traded Corporation
+Check the box on line 37a or 37b, whichever applies.
+37a
+I certify that:
+• The entity identified in Part I is a foreign corporation that is not a financial institution; and 
+• The stock of such corporation is regularly traded on one or more established securities markets, including
+.
+b
+I certify that:
+• The entity identified in Part I is a foreign corporation that is not a financial institution; 
+• The entity identified in Part I is a member of the same expanded affiliated group as an entity the stock of which is regularly traded on an 
+established securities market;
+• The name of the entity, the stock of which is regularly traded on an established securities market, is
+; and
+• The name of the securities market on which the stock is regularly traded is  ▶
+.
+Part XXV 
+Excepted Territory NFFE
+38
+I certify that:
+• The entity identified in Part I is an entity that is organized in a possession of the United States;
+• All of the owners of the entity identified in Part I are bona fide residents of the possession in which the NFFE is organized or incorporated; 
+and
+• The entity identified in Part I:
+(i)
+Does not accept deposits in the ordinary course of a banking or similar business; 
+(ii) Does not hold, as a substantial portion of its business, financial assets for the account of others; and 
+(iii) Is not an insurance company (or the holding company of an insurance company) that issues or is obligated to make payments with 
+respect to a financial account.
+Part XXVI Active NFFE
+39
+I certify that:
+• The entity identified in Part I is a foreign entity that is not a financial institution; 
+• Less than 50% of such entity’s gross income for the preceding calendar year is passive income; and
+• Less than 50% of the assets held by such entity are assets that produce or are held for the production of passive income (calculated as a 
+weighted average of the percentage of passive assets measured quarterly). See the instructions for the definition of passive income. 
+Part XXVII Passive NFFE
+40
+I certify that the entity identified in Part I: 
+• Is a foreign entity that is not a financial institution (this category includes an entity organized in a possession of the United States that 
+engages (or holds itself out as being engaged) primarily in the business of investing, reinvesting, or trading in securities, partnership 
+interests, commodities, notional principal contracts, insurance or annuity contracts, or any interest in such security, partnership interest, 
+commodity, notional principal contract, insurance contract, or annuity contract); and
+• Is using this form to transmit withholding certificates and/or other documentation and has provided or will provide a withholding 
+statement, as required. 
+Part XXVIII Sponsored Direct Reporting NFFE 
+41
+Name of sponsoring entity: ▶
+42
+I certify that the entity identified in Part I is a direct reporting NFFE that is sponsored by the entity identified on line 41.
+Part XXIX Certification
+Under penalties of perjury, I declare that I have examined the information on this form, and to the best of my knowledge and belief, it is true, correct, and 
+complete.  Furthermore, I authorize this form to be provided to any withholding agent that has control, receipt, or custody of the income or proceeds for 
+which I am providing this form or any withholding agent that can disburse or make payments of the amounts for which I am providing this form. 
+I agree that I will submit a new form within 30 days if any certification made on this form becomes incorrect.
+Sign Here 
+▲
+Signature of authorized official
+Print Name
+Date (MM-DD-YYYY) 
+Form W-8IMY (Rev. 10-2021) 
+SIGN

@@ -1,0 +1,9 @@
+Schedule B (Form 1040) is a document provided by the Department of the Treasury and the Internal Revenue Service (IRS) for taxpayers to report their interest and ordinary dividends. It is to be attached to Form 1040 or 1040-SR when filing taxes. The form includes three parts.
+
+Part I is for reporting interest income. Taxpayers are instructed to list the name of the payer and the amount of interest received. If the interest is from a seller-financed mortgage and the property was used as a personal residence, additional information is required. Excludable interest on series EE and I U.S. savings bonds issued after 1989 should be reported separately using Form 8815. The total interest is calculated by adding up the amounts listed.
+
+Part II is for reporting ordinary dividends. Taxpayers are instructed to list the name of the payer and the amount of ordinary dividends received. Similar to Part I, if taxpayers received a Form 1099-DIV or substitute statement from a brokerage firm, they should list the firm's name as the payer. The total amount of ordinary dividends is calculated by adding up the amounts listed.
+
+Part III is only required if taxpayers had over $1,500 of taxable interest or ordinary dividends, had a foreign account, or received a distribution from, or were a grantor of, or a transferor to, a foreign trust. This part includes questions regarding financial interests in foreign accounts and the requirement to file FinCEN Form 114 (FBAR) or Form 8938 (Statement of Specified Foreign Financial Assets). Taxpayers are also asked if they received a distribution from, or were the grantor of, or transferor to, a foreign trust, which may require filing Form 3520.
+
+Taxpayers should consult the instructions provided with the form for more detailed information and guidance.

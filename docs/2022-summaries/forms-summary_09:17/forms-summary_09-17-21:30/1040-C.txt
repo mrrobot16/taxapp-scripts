@@ -1,0 +1,11 @@
+Form 1040-C is a tax form used by departing aliens (individuals who are not U.S. citizens or residents for tax purposes) to report their income and pay any applicable taxes before leaving the United States. The form must be filed along with a copy of the individual's passport or alien registration card.
+
+The form is divided into three parts. Part I requires the individual to indicate their status as a resident or nonresident alien and provide information about their trade or business in the United States, visa number, and whether they have a permit to reenter the U.S. They must also disclose if they have applied for U.S. citizenship or lawful permanent resident status.
+
+Part II is for dependents, where the individual can list the names and social security numbers of their dependents and indicate if they qualify for child tax credit or credit for other dependents.
+
+Part III is for figuring the individual's income tax. The form provides separate sections for resident aliens, nonresident aliens with income effectively connected with a U.S. trade or business, and nonresident aliens with income not effectively connected with a U.S. trade or business. The individual must report their total income, make adjustments, calculate their adjusted gross income, and determine their tax liability based on the applicable tax rate schedules.
+
+The form also includes schedules for reporting income, itemized deductions, and tax computation for resident and nonresident aliens.
+
+It is important to note that Form 1040-C is not a final income tax return. Departing aliens must file a final return on the correct form after their tax year ends.

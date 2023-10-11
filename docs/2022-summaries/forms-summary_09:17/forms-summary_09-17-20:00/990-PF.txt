@@ -1,0 +1,3233 @@
+Form  990-PF
+Department of the Treasury  
+Internal Revenue Service 
+Return of Private Foundation 
+or Section 4947(a)(1) Trust Treated as Private Foundation
+Do not enter social security numbers on this form as it may be made public.
+Go to www.irs.gov/Form990PF for instructions and the latest information. 
+OMB No. 1545-0047
+2022
+Open to Public Inspection
+For calendar year 2022 or tax year beginning
+, 2022, and ending
+, 20
+Name of foundation
+Number and street (or P.O. box number if mail is not delivered to street address)
+Room/suite
+City or town, state or province, country, and ZIP or foreign postal code
+A   Employer identification number
+B   Telephone number (see instructions)
+C If exemption application is pending, check here .
+D 1. Foreign organizations, check here .
+.
+.
+.
+2. Foreign organizations meeting the 85% test, 
+check here and attach computation 
+.
+.
+.
+E
+If private foundation status was terminated under 
+section 507(b)(1)(A), check here
+.
+.
+.
+.
+.
+F
+If the foundation is in a 60-month termination 
+under section 507(b)(1)(B), check here
+.
+.
+.
+G
+Check all that apply:
+Initial return
+Final return
+Address change
+Initial return of a former public charity
+Amended return
+Name change
+H
+Check type of organization:
+Section 501(c)(3) exempt private foundation
+Section 4947(a)(1) nonexempt charitable trust
+Other taxable private foundation
+I
+Fair market value of all assets at 
+end of year  (from Part II, col. (c), 
+line 16) 
+$
+J
+Accounting method:
+Cash
+Accrual
+Other (specify)
+(Part I, column (d), must be on cash basis.)
+Part I
+Analysis of Revenue and Expenses (The total of 
+amounts in columns (b), (c), and (d) may not necessarily equal 
+the amounts in column (a) (see instructions).)
+Revenue
+Operating and Administrative Expenses
+(a) Revenue and 
+expenses per  
+books
+(b) Net investment 
+income
+(c) Adjusted net 
+income
+(d) Disbursements 
+for charitable 
+purposes  
+(cash basis only)
+1
+Contributions, gifts, grants, etc., received (attach schedule)
+2
+Check
+if the foundation is not required to attach Sch. B
+3
+Interest on savings and temporary cash investments
+4
+Dividends and interest from securities .
+.
+.
+.
+5a
+Gross rents .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Net rental income or (loss)
+6a
+Net gain or (loss) from sale of assets not on line 10
+b
+Gross sales price for all assets on line 6a
+7
+Capital gain net income (from Part IV, line 2) .
+.
+8
+Net short-term capital gain .
+.
+.
+.
+.
+.
+.
+.
+9
+Income modifications 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10a
+Gross sales less returns and allowances
+b
+Less: Cost of goods sold 
+.
+.
+.
+c
+Gross profit or (loss) (attach schedule) .
+.
+.
+.
+11
+Other income (attach schedule) 
+.
+.
+.
+.
+.
+.
+12
+Total. Add lines 1 through 11 .
+.
+.
+.
+.
+.
+.
+13
+Compensation of officers, directors, trustees, etc.
+14
+Other employee salaries and wages .
+.
+.
+.
+.
+15
+Pension plans, employee benefits 
+.
+.
+.
+.
+.
+16a
+Legal fees (attach schedule) 
+.
+.
+.
+.
+.
+.
+.
+b
+Accounting fees (attach schedule) 
+.
+.
+.
+.
+.
+c
+Other professional fees (attach schedule) .
+.
+.
+17
+Interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+Taxes (attach schedule) (see instructions) .
+.
+.
+19
+Depreciation (attach schedule) and depletion .
+.
+20
+Occupancy .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+Travel, conferences, and meetings 
+.
+.
+.
+.
+.
+22
+Printing and publications 
+.
+.
+.
+.
+.
+.
+.
+.
+23
+Other expenses (attach schedule) 
+.
+.
+.
+.
+.
+24 
+Total operating and administrative expenses. 
+Add lines 13 through 23 .
+.
+.
+.
+.
+.
+.
+.
+.
+25
+Contributions, gifts, grants paid 
+.
+.
+.
+.
+.
+.
+26
+Total expenses and disbursements. Add lines 24 and 25
+27
+Subtract line 26 from line 12:
+a
+Excess of revenue over expenses and disbursements
+b
+Net investment income (if negative, enter -0-) .
+c
+Adjusted net income (if negative, enter -0-) .
+.
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 11289X
+Form 990-PF (2022) 
+Form 990-PF (2022)
+Page 2 
+Part II
+Balance Sheets Attached schedules and amounts in the description column 
+should be for end-of-year amounts only. (See instructions.)
+Beginning of year
+End of year
+Assets
+Liabilities
+Net Assets or Fund Balances
+     
+     
+(a) Book Value
+(b) Book Value
+(c) Fair Market Value
+1
+Cash—non-interest-bearing 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Savings and temporary cash investments .
+.
+.
+.
+.
+.
+.
+3
+Accounts receivable 
+Less: allowance for doubtful accounts 
+4
+Pledges receivable 
+Less: allowance for doubtful accounts 
+5
+Grants receivable .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Receivables due from officers, directors, trustees, and other 
+disqualified persons (attach schedule) (see instructions) 
+.
+.
+7
+Other notes and loans receivable (attach schedule) 
+Less: allowance for doubtful accounts 
+8
+Inventories for sale or use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Prepaid expenses and deferred charges 
+.
+.
+.
+.
+.
+.
+.
+10a
+Investments—U.S. and state government obligations (attach schedule)
+b
+Investments—corporate stock (attach schedule) .
+.
+.
+.
+.
+c
+Investments—corporate bonds (attach schedule) 
+.
+.
+.
+.
+11
+Investments—land, buildings, and equipment: basis 
+Less: accumulated depreciation (attach schedule) 
+12
+Investments—mortgage loans .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+Investments—other (attach schedule) 
+.
+.
+.
+.
+.
+.
+.
+.
+14
+Land, buildings, and equipment: basis 
+Less: accumulated depreciation (attach schedule) 
+15
+Other assets (describe 
+)
+16 
+Total assets (to be completed by all filers—see the 
+instructions. Also, see page 1, item I) 
+.
+.
+.
+.
+.
+.
+.
+.
+17
+Accounts payable and accrued expenses .
+.
+.
+.
+.
+.
+.
+18
+Grants payable .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+Deferred revenue .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+Loans from officers, directors, trustees, and other disqualified persons
+21
+Mortgages and other notes payable (attach schedule) .
+.
+.
+22
+Other liabilities (describe 
+)
+23
+Total liabilities (add lines 17 through 22) .
+.
+.
+.
+.
+.
+.
+Foundations that follow FASB ASC 958, check here   
+and complete lines 24, 25, 29, and  30.
+24
+Net assets without donor restrictions 
+.
+.
+.
+.
+.
+.
+.
+.
+25
+Net assets with donor restrictions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Foundations that do not follow FASB ASC 958, check here  
+and complete lines 26 through 30.
+26
+Capital stock, trust principal, or current funds .
+.
+.
+.
+.
+.
+27
+Paid-in or capital surplus, or land, bldg., and equipment fund
+28
+Retained earnings, accumulated income, endowment, or other funds
+29
+Total net assets or fund balances (see instructions) .
+.
+.
+30 
+Total 
+liabilities 
+and 
+net 
+assets/fund 
+balances 
+(see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part III
+Analysis of Changes in Net Assets or Fund Balances
+1 Total net assets or fund balances at beginning of year—Part II, column (a), line 29 (must agree with
+end-of-year figure reported on prior year’s return) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2 Enter amount from Part I, line 27a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3 Other increases not included in line 2 (itemize) 
+3
+4 Add lines 1, 2, and 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5 Decreases not included in line 2 (itemize) 
+5
+6 Total net assets or fund balances at end of year (line 4 minus line 5)—Part II, column (b), line 29 .
+.
+6
+Form 990-PF (2022) 
+Form 990-PF (2022)
+Page 3 
+Part IV
+Capital Gains and Losses for Tax on Investment Income
+(a) List and describe the kind(s) of property sold (for example, real estate, 
+2-story brick warehouse; or common stock, 200 shs. MLC Co.)
+(b) How acquired 
+P—Purchase  
+D—Donation
+(c) Date acquired 
+(mo., day, yr.)
+(d) Date sold 
+ (mo., day, yr.)
+1a
+b
+c
+d
+e
+(e) Gross sales price
+(f) Depreciation allowed 
+(or allowable)
+(g) Cost or other basis 
+plus expense of sale
+(h) Gain or (loss) 
+((e) plus (f) minus (g))
+a
+b
+c
+d
+e
+Complete only for assets showing gain in column (h) and owned by the foundation on 12/31/69.
+(i) FMV as of 12/31/69
+(j) Adjusted basis 
+as of 12/31/69
+(k) Excess of col. (i) 
+over col. (j), if any
+     
+     
+     
+     
+(l) Gains (Col. (h) gain minus  
+col. (k), but not less than -0-) or  
+Losses (from col. (h))
+a
+b
+c
+d
+e
+2
+Capital gain net income or (net capital loss) {
+If gain, also enter in Part I, line 7 
+If (loss), enter -0- in Part I, line 7
+}
+2
+3 
+ 
+Net short-term capital gain or (loss) as defined in sections 1222(5) and (6):  
+If gain, also enter in Part I, line 8, column (c). See instructions.  If (loss), enter -0- in
+Part I, line 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. }
+3
+Part V
+Excise Tax Based on Investment Income (Section 4940(a), 4940(b), or 4948—see instructions)
+1a
+Exempt operating foundations described in section 4940(d)(2), check here 
+and enter “N/A” on line 1.
+Date of ruling or determination letter:
+(attach copy of letter if necessary—see instructions)
+b
+All other domestic foundations enter 1.39% (0.0139) of line 27b. Exempt foreign organizations, 
+enter 4% (0.04) of Part I, line 12, col. (b) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. }
+1
+2
+Tax under section 511 (domestic section 4947(a)(1) trusts and taxable foundations only; others, enter -0-)
+2
+3
+Add lines 1 and 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Subtitle A (income) tax (domestic section 4947(a)(1) trusts and taxable foundations only; others, enter -0-)
+4
+5
+Tax based on investment income. Subtract line 4 from line 3. If zero or less, enter -0- .
+.
+.
+.
+.
+5
+6
+Credits/Payments:
+a
+2022 estimated tax payments and 2021 overpayment credited to 2022 
+.
+.
+6a
+b
+Exempt foreign organizations—tax withheld at source .
+.
+.
+.
+.
+.
+.
+.
+6b
+c
+Tax paid with application for extension of time to file (Form 8868)
+.
+.
+.
+.
+6c
+d
+Backup withholding erroneously withheld .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6d
+7
+Total credits and payments. Add lines 6a through 6d 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Enter any penalty for underpayment of estimated tax. Check here
+if Form 2220 is attached
+8
+9
+Tax due. If the total of lines 5 and 8 is more than line 7, enter amount owed 
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Overpayment. If line 7 is more than the total of lines 5 and 8, enter the amount overpaid
+.
+.
+.
+.
+10
+11
+Enter the amount of line 10 to be: Credited to 2023 estimated tax
+Refunded  .
+11
+Form 990-PF (2022)
+Form 990-PF (2022)
+Page 4 
+Part VI-A
+Statements Regarding Activities
+1 a During the tax year, did the foundation attempt to influence any national, state, or local legislation or did it 
+participate or intervene in any political campaign? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+1a
+b Did it spend more than $100 during the year (either directly or indirectly) for political purposes? See the
+instructions for the definition 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+If the answer is “Yes” to 1a or 1b, attach a detailed description of the activities and copies of any materials 
+published or distributed by the foundation in connection with the activities.
+c
+Did the foundation file Form 1120-POL for this year? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c
+d
+Enter the amount (if any) of tax on political expenditures (section 4955) imposed during the year:
+(1) On the foundation. $
+(2) On foundation managers.  $
+e
+Enter the reimbursement (if any) paid by the foundation during the year for political expenditure tax imposed 
+on foundation managers.  $
+2
+Has the foundation engaged in any activities that have not previously been reported to the IRS? .
+.
+.
+.
+2
+If “Yes,” attach a detailed description of the activities.
+3 
+Has the foundation made any changes, not previously reported to the IRS, in its governing instrument, articles 
+of incorporation, or bylaws, or other similar instruments? If “Yes,” attach a conformed copy of the changes .
+3
+4a
+Did the foundation have unrelated business gross income of $1,000 or more during the year? .
+.
+.
+.
+.
+4a
+b
+If “Yes,” has it filed a tax return on Form 990-T for this year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4b
+5
+Was there a liquidation, termination, dissolution, or substantial contraction during the year? 
+.
+.
+.
+.
+.
+5
+If “Yes,” attach the statement required by General Instruction T.
+6
+Are the requirements of section 508(e) (relating to sections 4941 through 4945) satisfied either:
+• By language in the governing instrument, or
+• By state legislation that effectively amends the governing instrument so that no mandatory directions that 
+conflict with the state law remain in the governing instrument? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Did the foundation have at least $5,000 in assets at any time during the year? If “Yes,” complete Part II, col. (c), and Part XIV
+7
+8a
+Enter the states to which the foundation reports or with which it is registered. See instructions. 
+b If the answer is “Yes” to line 7, has the foundation furnished a copy of Form 990-PF to the Attorney General 
+(or designate) of each state as required by General Instruction G? If “No,” attach explanation .
+.
+.
+.
+.
+8b
+9 
+ 
+Is the foundation claiming status as a private operating foundation within the meaning of section 4942(j)(3) or 
+4942(j)(5) for calendar year 2022 or the tax year beginning in 2022? See the instructions for Part XIII. If “Yes,”
+complete Part XIII .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10 
+Did any persons become substantial contributors during the tax year? If “Yes,” attach a schedule listing their 
+names and addresses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11 
+At any time during the year, did the foundation, directly or indirectly, own a controlled entity within the
+meaning of section 512(b)(13)? If “Yes,” attach schedule. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12 
+Did the foundation make a distribution to a donor advised fund over which the foundation or a disqualified
+person had advisory privileges? If “Yes,” attach statement. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Did the foundation comply with the public inspection requirements for its annual returns and exemption application?
+13
+Website address  
+14
+The books are in care of  
+ Telephone no.  
+Located at  
+ZIP+4  
+15
+Section 4947(a)(1) nonexempt charitable trusts filing Form 990-PF in lieu of Form 1041—check here .
+.
+.
+.
+.
+.
+.
+.
+and enter the amount of tax-exempt interest received or accrued during the year
+.
+.
+.
+.
+.
+.
+15
+16 
+At any time during calendar year 2022, did the foundation have an interest in or a signature or other authority 
+over a bank, securities, or other financial account in a foreign country?.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+16
+See the instructions for exceptions and filing requirements for FinCEN Form 114. If “Yes,” enter the name of 
+the foreign country 
+Form 990-PF (2022) 
+Form 990-PF (2022)
+Page 5 
+Part VI-B
+Statements Regarding Activities for Which Form 4720 May Be Required
+File Form 4720 if any item is checked in the “Yes” column, unless an exception applies.
+Yes
+No
+1a
+During the year, did the foundation (either directly or indirectly):
+(1) Engage in the sale or exchange, or leasing of property with a disqualified person? 
+.
+.
+.
+.
+.
+.
+.
+1a(1)
+(2) Borrow money from, lend money to, or otherwise extend credit to (or accept it from) a disqualified
+person? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a(2)
+(3) Furnish goods, services, or facilities to (or accept them from) a disqualified person? .
+.
+.
+.
+.
+.
+.
+1a(3)
+(4) Pay compensation to, or pay or reimburse the expenses of, a disqualified person? 
+.
+.
+.
+.
+.
+.
+.
+1a(4)
+(5) Transfer any income or assets to a disqualified person (or make any of either available for the benefit or 
+use of a disqualified person)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a(5)
+(6) 
+ 
+Agree to pay money or property to a government official? (Exception. Check “No” if the foundation
+agreed to make a grant to or to employ the official for a period after termination of government service, if
+terminating within 90 days.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a(6)
+b
+If any answer is “Yes” to 1a(1)–(6), did any of the acts fail to qualify under the exceptions described in
+Regulations section 53.4941(d)-3 or in a current notice regarding disaster assistance? See instructions  
+.
+1b
+c
+Organizations relying on a current notice regarding disaster assistance, check here 
+.
+.
+.
+.
+.
+.
+.
+ 
+d
+Did the foundation engage in a prior year in any of the acts described in 1a, other than excepted acts, that 
+were not corrected before the first day of the tax year beginning in 2022? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d
+2
+Taxes on failure to distribute income (section 4942) (does not apply for years the foundation was a private 
+operating foundation defined in section 4942(j)(3) or 4942(j)(5)):
+a
+At the end of tax year 2022, did the foundation have any undistributed income (Part XII, lines 6d and 6e) for 
+tax year(s) beginning before 2022? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+If “Yes,” list the years   20
+ , 20
+ , 20
+ , 20
+b
+Are there any years listed in 2a for which the foundation is not applying the provisions of section 4942(a)(2) 
+(relating to incorrect valuation of assets) to the year’s undistributed income? (If applying section 4942(a)(2) to 
+all years listed, answer “No” and attach statement—see instructions.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c
+If the provisions of section 4942(a)(2) are being applied to any of the years listed in 2a, list the years here.
+20
+ , 20
+ , 20
+ , 20
+3a
+Did the foundation hold more than a 2% direct or indirect interest in any business enterprise at any time
+during the year? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b
+If “Yes,” did it have excess business holdings in 2022 as a result of (1) any purchase by the foundation or 
+disqualified persons after May 26, 1969; (2) the lapse of the 5-year period (or longer period approved by the
+Commissioner under section 4943(c)(7)) to dispose of holdings acquired by gift or bequest; or (3) the lapse of
+the 10-, 15-, or 20-year first phase holding period? (Use Form 4720, Schedule C, to determine if the
+foundation had excess business holdings in 2022.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+4a
+Did the foundation invest during the year any amount in a manner that would jeopardize its charitable
+purposes? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4a
+b
+Did the foundation make any investment in a prior year (but after December 31, 1969) that could jeopardize 
+its charitable purpose that had not been removed from jeopardy before the first day of the tax year beginning 
+in 2022? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4b
+Form 990-PF (2022)
+Form 990-PF (2022)
+Page 6 
+Part VI-B
+Statements Regarding Activities for Which Form 4720 May Be Required (continued)
+5a
+During the year, did the foundation pay or incur any amount to:
+Yes
+No
+(1) Carry on propaganda, or otherwise attempt to influence legislation (section 4945(e))? 
+.
+.
+.
+.
+.
+.
+5a(1)
+(2) Influence the outcome of any specific public election (see section 4955); or to carry on, directly or 
+indirectly, any voter registration drive? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a(2)
+(3) Provide a grant to an individual for travel, study, or other similar purposes? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a(3)
+(4) Provide a grant to an organization other than a charitable, etc., organization described in section 4945(d)
+(4)(A)? See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a(4)
+(5) Provide for any purpose other than religious, charitable, scientific, literary, or educational purposes, or for 
+the prevention of cruelty to children or animals? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a(5)
+b
+If any answer is “Yes” to 5a(1)–(5), did any of the transactions fail to qualify under the exceptions described 
+in Regulations section 53.4945 or in a current notice regarding disaster assistance? See instructions 
+.
+.
+5b
+c
+Organizations relying on a current notice regarding disaster assistance, check here 
+.
+.
+.
+.
+.
+.
+.
+d
+If the answer is “Yes” to question 5a(4), does the foundation claim exemption from the tax because it 
+maintained expenditure responsibility for the grant? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5d
+If “Yes,” attach the statement required by Regulations section 53.4945-5(d).
+6a
+Did the foundation, during the year, receive any funds, directly or indirectly, to pay premiums on a personal
+benefit contract? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a
+b
+Did the foundation, during the year, pay premiums, directly or indirectly, on a personal benefit contract? 
+.
+6b
+If “Yes” to 6b, file Form 8870.
+7a
+At any time during the tax year, was the foundation a party to a prohibited tax shelter transaction?  
+7a
+b
+If “Yes,” did the foundation receive any proceeds or have any net income attributable to the transaction? .
+7b
+8
+Is the foundation subject to the section 4960 tax on payment(s) of more  than $1,000,000 in remuneration or 
+excess parachute payment(s) during the year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+Part VII
+Information About Officers, Directors, Trustees, Foundation Managers, Highly Paid Employees,    
+and Contractors
+1
+List all officers, directors, trustees, and foundation managers and their compensation. See instructions.
+(a) Name and address
+(b) Title, and average 
+hours per week 
+devoted to position
+(c) Compensation 
+(If not paid,  
+enter -0-)
+(d) Contributions to 
+employee benefit plans 
+and deferred compensation
+(e) Expense account, 
+other allowances
+2
+Compensation of five highest-paid employees (other than those included on line 1—see instructions). If none, enter 
+“NONE.”
+(a) Name and address of each employee paid more than $50,000
+(b) Title, and average 
+hours per week  
+devoted to position
+(c) Compensation
+(d) Contributions to 
+employee benefit 
+plans and deferred 
+compensation
+(e) Expense account, 
+other allowances
+Total number of other employees paid over $50,000 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form 990-PF (2022) 
+Form 990-PF (2022)
+Page 7 
+Part VII
+Information About Officers, Directors, Trustees, Foundation Managers, Highly Paid Employees,  
+and Contractors (continued)
+3
+Five highest-paid independent contractors for professional services. See instructions. If none, enter “NONE.”
+(a) Name and address of each person paid more than $50,000
+(b) Type of service
+(c) Compensation
+Total number of others receiving over $50,000 for professional services 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Part VIII-A
+Summary of Direct Charitable Activities
+List the foundation’s four largest direct charitable activities during the tax year. Include relevant statistical information such as the number of 
+organizations and other beneficiaries served, conferences convened, research papers produced, etc.
+Expenses
+1
+2
+3
+4
+Part VIII-B
+Summary of Program-Related Investments (see instructions)
+Describe the two largest program-related investments made by the foundation during the tax year on lines 1 and 2.
+Amount
+1
+2
+All other program-related investments. See instructions.
+3
+Total. Add lines 1 through 3
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form 990-PF (2022) 
+Form 990-PF (2022)
+Page 8 
+Part IX
+Minimum Investment Return (All domestic foundations must complete this part. Foreign foundations,  
+see instructions.)
+1 
+Fair market value of assets not used (or held for use) directly in carrying out charitable, etc., 
+purposes:
+a
+Average monthly fair market value of securities 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b
+Average of monthly cash balances 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+c
+Fair market value of all other assets (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c
+d
+Total (add lines 1a, b, and c) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d
+e
+Reduction claimed for blockage or other factors reported on lines 1a and 
+1c (attach detailed explanation) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1e
+2
+Acquisition indebtedness applicable to line 1 assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Subtract line 2 from line 1d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Cash deemed held for charitable activities. Enter 1.5% (0.015) of line 3 (for greater amount, see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Net value of noncharitable-use assets. Subtract line 4 from line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Minimum investment return. Enter 5% (0.05) of line 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Part X
+Distributable Amount (see instructions) (Section 4942(j)(3) and (j)(5) private operating foundations
+and certain foreign organizations, check here 
+and do not complete this part.)
+1
+Minimum investment return from Part IX, line 6 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2a
+Tax on investment income for 2022 from Part V, line 5 .
+.
+.
+.
+.
+.
+.
+2a
+b
+Income tax for 2022. (This does not include the tax from Part V.) 
+.
+.
+.
+2b
+c
+Add lines 2a and 2b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+3
+Distributable amount before adjustments. Subtract line 2c from line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Recoveries of amounts treated as qualifying distributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Add lines 3 and 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Deduction from distributable amount (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Distributable amount as adjusted. Subtract line 6 from line 5. Enter here and on Part XII, 
+line 1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Part XI
+Qualifying Distributions (see instructions)
+1
+Amounts paid (including administrative expenses) to accomplish charitable, etc., purposes:
+a
+Expenses, contributions, gifts, etc.—total from Part I, column (d), line 26 .
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b
+Program-related investments—total from Part VIII-B .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+2
+Amounts paid to acquire assets used (or held for use) directly in carrying out charitable, etc., 
+purposes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Amounts set aside for specific charitable projects that satisfy the:
+a
+Suitability test (prior IRS approval required) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b
+Cash distribution test (attach the required schedule) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+4
+Qualifying distributions. Add lines 1a through 3b. Enter here and on Part XII, line 4 .
+.
+.
+.
+.
+.
+4
+Form 990-PF (2022) 
+Form 990-PF (2022)
+Page 9 
+Part XII
+Undistributed Income (see instructions)
+(a) 
+Corpus
+(b)  
+Years prior to 2021
+(c) 
+2021
+(d) 
+2022
+1
+Distributable amount for 2022 from Part X, line 7  
+2
+Undistributed income, if any, as of the end of 2022:
+a
+Enter amount for 2021 only .
+.
+.
+.
+.
+.
+b
+Total for prior years: 20
+, 20
+, 20
+3
+Excess distributions carryover, if any, to 2022:
+a
+From 2017 
+.
+.
+.
+.
+.
+.
+b
+From 2018 
+.
+.
+.
+.
+.
+.
+c
+From 2019
+.
+.
+.
+.
+.
+.
+d
+From 2020 
+.
+.
+.
+.
+.
+.
+e
+From 2021 
+.
+.
+.
+.
+.
+.
+f
+Total of lines 3a through e .
+.
+.
+.
+.
+.
+4 
+Qualifying distributions for 2022 from Part XI,  
+line 4:     $
+a
+Applied to 2021, but not more than line 2a .
+b Applied to undistributed income of prior years 
+(Election required—see instructions) .
+.
+.
+c Treated as distributions out of corpus (Election 
+required—see instructions) .
+.
+.
+.
+.
+.
+d
+Applied to 2022 distributable amount 
+.
+.
+e
+Remaining amount distributed out of corpus  
+5 
+ 
+Excess distributions carryover applied to 2022 
+(If an amount appears in column (d), the same 
+amount must be shown in column (a).) 
+.
+.
+6 
+Enter the net total of each column as 
+indicated below:
+a
+Corpus. Add lines 3f, 4c, and 4e. Subtract line 5
+b Prior years’ undistributed income. Subtract 
+line 4b from line 2b 
+.
+.
+.
+.
+.
+.
+.
+.
+c 
+ 
+ 
+Enter the amount of prior years’ undistributed 
+income for which a notice of deficiency has 
+been issued, or on which the section 4942(a) 
+tax has been previously assessed .
+.
+.
+.
+d Subtract line 6c from line 6b. Taxable   
+amount—see instructions 
+.
+.
+.
+.
+.
+.
+e 
+ 
+Undistributed income for 2021. Subtract line 
+4a from line 2a. Taxable amount—see 
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+f 
+ 
+Undistributed income for 2022. Subtract lines 
+4d and 5 from line 1. This amount must be 
+distributed in 2023 .
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+7 
+ 
+ 
+Amounts treated as distributions out of corpus 
+to satisfy requirements imposed by section 
+170(b)(1)(F) or 4942(g)(3) (Election may be 
+required—see instructions) .
+.
+.
+.
+.
+.
+8 
+Excess distributions carryover from 2017 not 
+applied on line 5 or line 7 (see instructions) .
+9 
+Excess distributions carryover to 2023. 
+Subtract lines 7 and 8 from line 6a 
+.
+.
+.
+10
+Analysis of line 9:
+a
+Excess from 2018 .
+.
+.
+.
+b
+Excess from 2019 .
+.
+.
+.
+c
+Excess from 2020 .
+.
+.
+.
+d
+Excess from 2021 .
+.
+.
+.
+e
+Excess from 2022 .
+.
+.
+.
+Form 990-PF (2022) 
+Form 990-PF (2022)
+Page 10 
+Part XIII
+Private Operating Foundations (see instructions and Part VI-A, question 9)
+1a
+If the foundation has received a ruling or determination letter that it is a private operating 
+foundation, and the ruling is effective for 2022, enter the date of the ruling .
+.
+.
+.
+.
+.
+.
+b
+Check box to indicate whether the foundation is a private operating foundation described in section
+4942(j)(3) or
+4942(j)(5)
+Tax year
+Prior 3 years
+(a) 2022
+(b) 2021
+(c) 2020
+(e) Total
+2a 
+ 
+ 
+Enter the lesser of the adjusted net 
+income from Part I or the minimum 
+investment return from Part IX for 
+each year listed .
+.
+.
+.
+.
+.
+.
+(d) 2019
+b
+85% (0.85) of line 2a 
+.
+.
+.
+.
+.
+c Qualifying distributions from Part XI, 
+line 4, for each year listed .
+.
+.
+.
+d 
+Amounts included in line 2c not used directly 
+for active conduct of exempt activities .
+.
+e 
+ 
+Qualifying distributions made directly 
+for active conduct of exempt activities. 
+Subtract line 2d from line 2c 
+.
+.
+.
+3 
+Complete 3a, b, or c for the 
+alternative test relied upon:
+a
+“Assets” alternative test—enter:
+(1) Value of all assets .
+.
+.
+.
+.
+(2) Value of assets qualifying under 
+section 4942(j)(3)(B)(i) .
+.
+.
+.
+b “Endowment” alternative test—enter 2/3 
+of minimum investment return shown in 
+Part IX, line 6, for each year listed 
+.
+.
+c
+“Support” alternative test—enter:
+(1) 
+ 
+ 
+ 
+Total support other than gross 
+investment 
+income 
+(interest, 
+dividends, rents, payments on 
+securities         loans         (section 
+512(a)(5)), or royalties) .
+.
+.
+.
+(2) 
+ 
+ 
+Support 
+from 
+general 
+public 
+and 
+5 
+or 
+more 
+exempt 
+organizations 
+as 
+provided 
+in 
+section 4942(j)(3)(B)(iii) .
+.
+.
+.
+(3) Largest amount of support from 
+an exempt organization 
+.
+.
+.
+(4) Gross investment income .
+.
+.
+Part XIV
+Supplementary Information (Complete this part only if the foundation had $5,000 or more in assets at 
+any time during the year—see instructions.)
+1
+Information Regarding Foundation Managers:
+a
+List any managers of the foundation who have contributed more than 2% of the total contributions received by the foundation
+before the close of any tax year (but only if they have contributed more than $5,000). (See section 507(d)(2).)
+b
+List any managers of the foundation who own 10% or more of the stock of a corporation (or an equally large portion of the
+ownership of a partnership or other entity) of which the foundation has a 10% or greater interest.
+2
+Information Regarding Contribution, Grant, Gift, Loan, Scholarship, etc., Programs:
+Check here    if the foundation only makes contributions to preselected charitable organizations and does not accept 
+unsolicited requests for funds. If the foundation makes gifts, grants, etc., to individuals or organizations under other conditions, 
+complete items 2a, b, c, and d. See instructions.
+a
+The name, address, and telephone number or email address of the person to whom applications should be addressed:
+b
+The form in which applications should be submitted and information and materials they should include:
+c
+Any submission deadlines:
+d
+Any restrictions or limitations on awards, such as by geographical areas, charitable fields, kinds of institutions, or other 
+factors:
+Form 990-PF (2022) 
+Form 990-PF (2022)
+Page 11 
+Part XIV
+Supplementary Information (continued)
+3
+Grants and Contributions Paid During the Year or Approved for Future Payment
+Recipient
+Name and address (home or business)
+If recipient is an individual, 
+show any relationship to 
+any foundation manager  
+or substantial contributor
+Foundation 
+status of 
+recipient
+Purpose of grant or 
+contribution
+Amount
+a    Paid during the year
+     
+     
+     
+     
+Total
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b    Approved for future payment
+     
+     
+     
+    
+Total
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+Form 990-PF (2022) 
+Form 990-PF (2022)
+Page 12 
+Part XV-A
+Analysis of Income-Producing Activities
+Enter gross amounts unless otherwise indicated.
+Unrelated business income
+Excluded by section 512, 513, or 514
+(a) 
+Business code
+(b) 
+Amount
+(c) 
+Exclusion code
+(d) 
+Amount
+(e) 
+Related or exempt 
+function income 
+(See instructions.)
+1 Program service revenue:
+a
+b
+c
+d
+e
+f
+g
+Fees and contracts from government agencies
+2 Membership dues and assessments 
+.
+.
+.
+.
+3
+Interest on savings and temporary cash investments
+4 Dividends and interest from securities .
+.
+.
+.
+5 Net rental income or (loss) from real estate:
+a
+Debt-financed property 
+.
+.
+.
+.
+.
+.
+.
+Not debt-financed property 
+.
+.
+.
+.
+.
+.
+b
+6 Net rental income or (loss) from personal property
+7 Other investment income .
+.
+.
+.
+.
+.
+.
+.
+8
+Gain or (loss) from sales of assets other than inventory
+9 Net income or (loss) from special events .
+.
+.
+10 Gross profit or (loss) from sales of inventory .
+.
+11 Other revenue: a
+b
+c
+d
+e
+12 Subtotal. Add columns (b), (d), and (e) .
+.
+.
+.
+13 Total. Add line 12, columns (b), (d), and (e) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+(See worksheet in line 13 instructions to verify calculations.)
+Part XV-B
+Relationship of Activities to the Accomplishment of Exempt Purposes
+Line No.  
+Explain below how each activity for which income is reported in column (e) of Part XV-A contributed importantly to the accomplishment 
+of the foundation’s exempt purposes (other than by providing funds for such purposes). (See instructions.)
+Form 990-PF (2022) 
+Form 990-PF (2022)
+Page 13 
+Part XVI
+Information Regarding Transfers to and Transactions and Relationships With Noncharitable Exempt 
+Organizations
+1 
+ 
+Did the organization directly or indirectly engage in any of the following with any other organization described 
+in section 501(c) (other than section 501(c)(3) organizations) or in section 527, relating to political 
+organizations?  
+Yes
+No
+a
+Transfers from the reporting foundation to a noncharitable exempt organization of:
+(1) Cash .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a(1)
+(2) Other assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a(2)
+b
+Other transactions:
+(1) Sales of assets to a noncharitable exempt organization 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b(1)
+(2) Purchases of assets from a noncharitable exempt organization .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b(2)
+(3) Rental of facilities, equipment, or other assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b(3)
+(4) Reimbursement arrangements .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b(4)
+(5) Loans or loan guarantees 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b(5)
+(6) Performance of services or membership or fundraising solicitations 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b(6)
+c
+Sharing of facilities, equipment, mailing lists, other assets, or paid employees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c
+d 
+ 
+If the answer to any of the above is “Yes,” complete the following schedule. Column (b) should always show the fair market 
+value of the goods, other assets, or services given by the reporting foundation. If the foundation received less than fair market 
+value in any transaction or sharing arrangement, show in column (d) the value of the goods, other assets, or services received.
+(a) Line no.
+(b) Amount involved
+(c) Name of noncharitable exempt organization
+(d) Description of transfers, transactions, and sharing arrangements
+2 a Is the foundation directly or indirectly affiliated with, or related to, one or more tax-exempt organizations
+described in section 501(c) (other than section 501(c)(3)) or in section 527? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+b
+If “Yes,” complete the following schedule.
+(a) Name of organization
+(b) Type of organization
+(c) Description of relationship
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true, 
+correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature of officer or trustee
+Date
+Title
+May the IRS discuss this return 
+with the preparer shown below? 
+See instructions.
+Yes
+No 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name    
+Firm’s address  
+Firm’s EIN  
+Phone no.
+Form 990-PF (2022) 

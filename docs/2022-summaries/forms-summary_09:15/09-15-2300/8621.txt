@@ -1,0 +1,21 @@
+Form 8621 is an information return that must be filed by shareholders of a Passive Foreign Investment Company (PFIC) or Qualified Electing Fund (QEF). The form collects information about the shareholder's holdings and transactions related to the PFIC or QEF.
+
+The form begins by requesting basic information about the shareholder, including their name, address, and identifying number. The shareholder is also asked to indicate their tax year and the type of shareholder they are (individual, corporation, partnership, etc.).
+
+The form then provides several election options for the shareholder to choose from, including the Qualifying Insurance Corporation Election, which allows the shareholder to treat their stock as the stock of a Qualifying Insurance Corporation.
+
+Next, the form asks for information about the foreign corporation, PFIC, or QEF, including its name, address, and tax year.
+
+Part I of the form requires the shareholder to provide a summary of annual information about their holdings of the PFIC, including the description of each class of shares held, the date shares were acquired, the number of shares held at the end of the tax year, and the value of shares held at the end of the tax year.
+
+Part II of the form provides options for various elections that the shareholder may make, including the election to treat the PFIC as a QEF, the election to extend the time for payment of tax, the election to mark-to-market PFIC stock, and others.
+
+Part III of the form is specific to shareholders of a QEF and requires them to report their income from the QEF, including their share of ordinary earnings and total net capital gain.
+
+Part IV of the form is specific to shareholders who have made the mark-to-market election and requires them to report their gain or loss from the election.
+
+Part V of the form is specific to shareholders who have received distributions from or disposed of stock of a section 1291 fund. The shareholder is required to report the excess distributions and gains or losses from the disposition.
+
+Part VI of the form is used to report the status of prior year section 1294 elections and any termination or partial termination of those elections.
+
+Overall, Form 8621 is a comprehensive form that collects information about a shareholder's holdings and transactions related to a PFIC or QEF. It is used to ensure compliance with tax regulations related to these types of investments.

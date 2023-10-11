@@ -1,0 +1,7 @@
+Schedule O is a form that is attached to Form 1120, which is used for corporate tax returns. It is used to provide information about a controlled group, which is a group of corporations that are related to each other.
+
+Part I of the form asks for information about the type of controlled group and the corporation's membership in the group. It also asks the corporation to indicate whether it consents to adopt, amend, terminate, or adopt a new apportionment plan. An apportionment plan is a plan that determines how income, deductions, and credits are allocated among the members of the group for tax purposes.
+
+Part II of the form is used to provide details about the apportionment for each member of the controlled group. This includes the name and employer identification number of each member, the tax year end, and any accumulated earnings credit, penalties for failure to pay estimated tax, or other information.
+
+Overall, Schedule O is used to provide information about the apportionment plan and the members of a controlled group for tax purposes.

@@ -1,0 +1,13 @@
+Form 1099-QA is a tax form used to report distributions from Achieving a Better Life Experience (ABLE) accounts. The form is divided into three copies: Copy A is filed with the Internal Revenue Service (IRS), Copy B is provided to the recipient, and Copy C is retained by the payer.
+
+The form includes sections for the payer's information, including name, address, and telephone number, as well as the payer's taxpayer identification number (TIN). The recipient's information, including name, address, and TIN, is also included.
+
+There are several boxes on the form that provide information about the distribution from the ABLE account. Box 1 shows the gross distribution paid to the recipient in the reported calendar year, including both qualified and nonqualified disability expenses. Box 2 shows the earnings part of the gross distribution, which may be taxable. Box 3 shows the recipient's basis in the gross distribution.
+
+Other boxes on the form include Box 4, which is checked if there was a program-to-program transfer from the ABLE account to another ABLE account. Box 5 is checked if the ABLE account was terminated in the reported calendar year. Box 6 is checked if the recipient is not the designated beneficiary of the ABLE account.
+
+The form also provides instructions for the recipient, including information about their taxpayer identification number (TIN) and the account number assigned to their ABLE account. It explains the purpose of each box on the form and provides guidance on how to report the distribution on their tax return.
+
+The instructions for the payer explain how to complete the form using the current General Instructions for Certain Information Returns and the current Instructions for Form 1099-QA. It also provides information on filing and furnishing the form, including due dates and extensions.
+
+If there are any questions about reporting on Form 1099-QA, the Technical Services Operation (TSO) can be contacted for assistance.

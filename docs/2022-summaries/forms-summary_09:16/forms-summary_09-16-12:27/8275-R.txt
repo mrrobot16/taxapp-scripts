@@ -1,0 +1,15 @@
+Form 8275-R is a regulation disclosure statement provided by the Internal Revenue Service (IRS) for taxpayers to disclose items or positions on their tax return that are contrary to Treasury regulations. This form is used specifically for disclosures related to foreign entities. 
+
+The form consists of several parts: 
+
+- Part I: General Information, where taxpayers provide details such as the regulation section, item or group of items being disclosed, a detailed description of the items, the form or schedule being affected, and the line number on the tax return. 
+
+- Part II: Detailed Explanation, where taxpayers can provide further explanations or details about the items being disclosed. 
+
+- Part III: Information About Pass-Through Entity, which is only completed by partners, shareholders, beneficiaries, or residual interest holders if they are making adequate disclosure for a pass-through item. This part requires information about the pass-through entity, such as its name, address, identifying number, tax year, and the IRS center where its return was filed. 
+
+- Part IV: Explanations, which is used to continue providing explanations from Parts I and/or II if additional space is needed. 
+
+Taxpayers are required to attach Form 8275-R to their tax return when disclosing items or positions that are contrary to Treasury regulations. The form includes an OMB number and attachment sequence number for tracking purposes. 
+
+For more information and instructions on how to complete Form 8275-R, taxpayers can visit the IRS website at www.irs.gov/form8275.

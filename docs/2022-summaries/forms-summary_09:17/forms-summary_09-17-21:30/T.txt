@@ -1,0 +1,13 @@
+Form T (Timber) is a document provided by the Internal Revenue Service (IRS) for individuals or businesses involved in timber-related activities. The form is used to report information related to timber acquisitions, timber depletion, profit or loss from land and timber sales, and reforestation and timber stand activities. 
+
+Part I of the form requires information about timber acquisitions, including the name of the block and title of the account, location of the property, and details about the seller or person from whom the property was acquired. It also asks for the amount paid, including cash, interest-bearing notes, and non-interest-bearing notes. Legal expenses and other acquisition expenses are also recorded.
+
+Part II focuses on timber depletion and includes information about the quantity and cost or other basis of timber returnable through depletion. It also includes details about additions and transfers to the timber account, timber acquired during the tax year, and additions to capital. The form calculates the total at the end of the tax year before depletion and the depletion for the current tax year.
+
+Part III is used to report profit or loss from land and timber sales. It requires information about the property, including its location and the purchaser's name and address. The form asks for the amount received, including cash, interest-bearing notes, and non-interest-bearing notes. It also includes information about the cost or other basis of the property, direct sale expenses, and calculates the profit or loss.
+
+Part IV focuses on reforestation and timber stand activities. It requires information about the qualified timber property, the kind of activity performed, the number of acres treated, and the total expenditures.
+
+Part V is used to show changes in land ownership accounts. It requires information about the block and title of the account, the acres of land, the total cost or other basis, and any changes in balance throughout the year.
+
+The form also includes space for additional information and instructions for completing the form.

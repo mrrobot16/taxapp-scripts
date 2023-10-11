@@ -1,0 +1,13 @@
+Form 8038-CP is a return form used by issuers of qualified bonds to receive credit payments. The form requires the issuer to provide information about the entity that will receive the payment, including their name, employer identification number (EIN), address, and contact person. The form also asks for reporting authority information, such as the issuer's name, EIN, address, and contact person. The issuer must indicate the type of bond (variable rate or fixed rate) and provide details about the bond issue, including the date of issue, name of the issue, and CUSIP number. 
+
+The form includes a section for reporting the payment of credit, including the interest payment date, the amount of interest payable to bondholders, and the applicable credit rate for specified tax credit bonds. The issuer must also complete Schedule A and enter the amount from Schedule A, line 3. 
+
+The form calculates the amount of credit allowed for the interest payment date based on the type of bond. The issuer must indicate the type of bond (Build America bonds, recovery zone economic development bonds, new clean renewable energy bonds, qualified energy conservation bonds, qualified zone academy bonds, or qualified school construction bonds) and multiply the interest payable by the corresponding credit rate. 
+
+The form also allows for adjustments to previous credit payments, either a net increase or net decrease, and requires an explanation code for the adjustment. The issuer must indicate the amount of credit payment requested by combining the calculated credit amount with the adjustment amount. 
+
+Additional information is requested regarding changes to the debt service schedule and the payment of interest. The issuer must indicate if there has been a change to the debt service schedule and provide an explanation code if applicable. They must also indicate if the return is submitted for the final interest payment date for the bonds. 
+
+The form includes a section for direct deposit information if the issuer prefers to receive the credit payment via direct deposit. 
+
+The issuer must sign the form under penalties of perjury, declaring that the information provided is true, correct, and complete. The form also includes sections for the preparer's information if applicable.

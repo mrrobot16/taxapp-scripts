@@ -1,0 +1,9 @@
+Schedule M (Form 5471) is a document that must be attached to Form 5471 when filing taxes. It is used to report transactions between a controlled foreign corporation and shareholders or other related persons. The form requires the filer to provide information about the foreign corporation, the filer's identification, and the relevant functional currency and exchange rate used.
+
+The form consists of multiple sections for reporting different types of transactions, including sales of stock in trade, sales of tangible property, sales of property rights, platform contribution transaction payments received, cost sharing transaction payments received, compensation received for services, commissions received, rents, royalties, and license fees received, hybrid dividends received, dividends received, interest received, premiums received for insurance or reinsurance, loan guarantee fees received, and other amounts received.
+
+Similarly, the form also includes sections for reporting purchases of stock in trade, purchases of tangible property, purchases of property rights, platform contribution transaction payments paid, cost sharing transaction payments paid, compensation paid for services, commissions paid, rents, royalties, and license fees paid, hybrid dividends paid, dividends paid, interest paid, premiums paid for insurance or reinsurance, loan guarantee fees paid, and other amounts paid.
+
+The form requires the filer to sum up the amounts for each type of transaction and provides space for reporting accounts payable, amounts borrowed, accounts receivable, and amounts loaned.
+
+Overall, Schedule M (Form 5471) is a detailed form used to report various transactions between a controlled foreign corporation and shareholders or related persons for tax purposes.

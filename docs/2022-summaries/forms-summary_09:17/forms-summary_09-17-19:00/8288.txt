@@ -1,0 +1,9 @@
+Form 8288 is a U.S. withholding tax return for certain dispositions by foreign persons. It is used by withholding agents, entities subject to the provisions of Section 1445(e), and buyers/transferees required to withhold under Section 1446(f)(1) to report and calculate the amount of withholding tax owed.
+
+The form contains several parts that need to be completed depending on the type of taxpayer. It includes sections for providing withholding agent information, describing the U.S. real property interest acquired or transferred, and indicating the date of transfer. There are also sections for calculating the amount subject to withholding, determining the withholding tax liability based on the applicable withholding rate, and reporting the amount withheld.
+
+Additionally, the form includes sections for partnerships to report distributions and withholding, as well as a section for buyers/transferees claiming a refund of withholding under Section 1446(f)(4).
+
+The form must be signed by the withholding agent, partner, fiduciary, or corporate officer under penalties of perjury.
+
+For detailed instructions and the latest information, taxpayers are directed to visit the IRS website.

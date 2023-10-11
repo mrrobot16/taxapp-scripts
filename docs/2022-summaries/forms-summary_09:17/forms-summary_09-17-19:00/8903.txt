@@ -1,0 +1,29 @@
+Form 8903 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Domestic Production Activities Deduction. Taxpayers are required to attach this form to their tax return. The form consists of various columns and lines where taxpayers need to enter specific information related to their domestic production activities.
+
+The form begins with instructions to skip column (a) unless the taxpayer has oil-related production activities. All activities, including oil-related ones, should be entered in column (b). The form then requires taxpayers to enter their domestic production gross receipts (DPGR) in line 1.
+
+Line 2 is for the allocable cost of goods sold, but if the taxpayer is using the small business simplified overall method, they can skip lines 2 and 3. Deductions and losses allocable to DPGR should be entered in line 3.
+
+Line 4 is only applicable for those not using the small business simplified overall method. Taxpayers should enter the amount of cost of goods sold and other deductions or losses that are apportioned to DPGR.
+
+Line 5 requires taxpayers to add lines 2 through 4. Line 6 is for subtracting line 5 from line 1 to determine the domestic production activities deduction.
+
+Line 7 is for qualified production activities income from estates, trusts, certain partnerships, and S corporations. Line 8 is for adding lines 6 and 7, with estates and trusts directed to go to line 9, while others should skip line 9 and go to line 10.
+
+Line 9 is for the amount allocated to beneficiaries of the estate or trust. Line 10a is for oil-related qualified production activities income, and line 10b is for qualified production activities income.
+
+Line 11 requires individuals, estates, and trusts to enter their adjusted gross income figured without the domestic production activities deduction. All others should enter their taxable income figured without the deduction.
+
+Line 12 is for entering the smaller of line 10b or line 11. Line 13 requires taxpayers to enter 9% of line 12.
+
+Line 14a is for entering the smaller of line 10a or line 12. Line 14b is for multiplying line 14a by 3% to calculate the reduction for oil-related qualified production activities income. Line 15 is for subtracting line 14b from line 13.
+
+Line 16 is for Form W-2 wages, and line 17 is for Form W-2 wages from estates, trusts, partnerships, and S corporations. Line 18 requires adding lines 16 and 17, with estates and trusts directed to go to line 19.
+
+Line 19 is for the amount allocated to beneficiaries of the estate or trust. Line 20 is for subtracting line 19 from line 18. Line 21 requires entering 50% of line 20, which is the Form W-2 wage limitation.
+
+Line 22 requires entering the smaller of line 15 or line 21. Line 23 is for the domestic production activities deduction from cooperatives, which should be entered from Form 1099-PATR, box 6.
+
+Line 24 is for the expanded affiliated group allocation. Finally, line 25 requires combining lines 22 through 24 to determine the domestic production activities deduction, which should be entered on the applicable line of the taxpayer's return.
+
+Overall, Form 8903 is a detailed form that helps taxpayers calculate and claim the Domestic Production Activities Deduction based on their specific production activities and income.

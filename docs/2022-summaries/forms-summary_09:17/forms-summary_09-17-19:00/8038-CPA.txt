@@ -1,0 +1,9 @@
+Schedule A (Form 8038-CP) is a document provided by the Internal Revenue Service (IRS) for the purpose of computing the specified tax credit for certain types of bonds. This schedule is to be completed and attached to Form 8038-CP, specifically for bond types 102, 103, 104, and 105.
+
+The schedule consists of two pages. On the first page, the issuer's name, employer identification number (EIN), interest payment date, and report number are required to be filled in. The main table on this page is used to compute the eligible interest for each maturity of bonds outstanding. The columns in the table include the bond maturity date, interest payable on bond maturity from Form 8038-CP (line 18), interest payable on bond maturity calculated using Form 8038-CP (line 19b) and the applicable credit rate, and the resulting calculations for NCREBs and QECBs.
+
+On the second page, there is a continuation of the table from the first page for additional maturities of bonds. The columns and calculations are the same as on the first page.
+
+At the end of the schedule, there are instructions to verify and print the form, as well as a reminder to consult the separate instructions for the Paperwork Reduction Act Notice.
+
+Overall, Schedule A (Form 8038-CP) is a tool provided by the IRS to assist issuers in calculating the specified tax credit for certain types of bonds. It helps ensure accurate reporting and compliance with tax regulations.

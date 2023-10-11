@@ -1,0 +1,9 @@
+Form 8994 is a document provided by the Department of the Treasury and the Internal Revenue Service (IRS) in the United States. It is used to claim the Employer Credit for Paid Family and Medical Leave.
+
+The form requires the taxpayer to answer several questions related to their paid family and medical leave policy. The questions include whether the taxpayer has a written policy providing for at least 2 weeks of annual paid family and medical leave for qualifying employees, whether the written policy provides paid leave of at least 50% of the wages normally paid to a qualifying employee, whether the taxpayer paid family and medical leave to at least one qualifying employee during the tax year, and whether the taxpayer included non-interference language in their policy for qualifying employees not covered by the Family and Medical Leave Act.
+
+If the taxpayer answers "yes" to all of the questions, they can proceed to enter the total paid family and medical leave credit figured for wages paid to qualifying employees during the tax year. This amount is then used to calculate the employer credit for paid family and medical leave. The form also includes a section for partnerships and S corporations to report their credit amount separately.
+
+The form provides instructions for completing it and directs taxpayers to the IRS website for additional information. It also includes a section for the taxpayer's name and identifying number.
+
+Overall, Form 8994 is a necessary document for taxpayers who wish to claim the Employer Credit for Paid Family and Medical Leave on their tax return.

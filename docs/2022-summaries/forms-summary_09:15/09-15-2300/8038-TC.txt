@@ -1,0 +1,17 @@
+Form 8038-TC is an information return for tax credit bonds and specified tax credit bonds under Internal Revenue Code section 149(e). The form is used by issuers to report information about the bonds they have issued. 
+
+The form is divided into several parts. Part I includes information about the issuer, such as their name, employer identification number (EIN), and contact information. Part II is used to indicate the type of issue, including the tax credit bond code and whether the issuer has made an irrevocable election to apply a certain section of the Internal Revenue Code. 
+
+Part III requires a description of the obligations, including the issue price, stated redemption price at maturity, final maturity date, applicable credit rate, maximum term, permitted sinking fund yield, and the interest rate on the bonds. If the issue is a variable rate issue, additional information about the frequency of rate resets is required. 
+
+Part IV is used to report the proceeds of the issue, including sale proceeds, proceeds used for bond issuance costs, estimated investment proceeds, and expected available project proceeds. 
+
+Part V requires a description of the use of proceeds for qualified purpose expenditures, such as loans, land, buildings, grants, and repairs. The total amount of qualified purpose expenditures is also calculated. 
+
+Part VI is used to report the allocation of the national, state, tribal, or local bond limitation amount, including the source and amount of the allocation. 
+
+Part VII includes miscellaneous questions, such as whether there is a reserve or sinking fund, whether all requirements governing conflicts of interest have been satisfied, and whether the entitlements to credits are expected to be stripped. 
+
+Part VIII includes a consent to disclose certain information from the return, such as the issuer's name and address, to assist in the reporting obligations under the Internal Revenue Code. 
+
+The form also includes several schedules for specific types of tax credit bonds, including New Clean Renewable Energy Bonds (New CREBs), Qualified Energy Conservation Bonds (QECBs), Qualified Zone Academy Bonds (QZABs), and Qualified School Construction Bonds (QSCBs). These schedules require additional information specific to each type of bond.

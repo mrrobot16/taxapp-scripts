@@ -1,0 +1,610 @@
+Form  706-A
+(Rev. August 2019)
+Department of the Treasury  
+Internal Revenue Service 
+United States Additional Estate Tax Return
+To report dispositions or cessations of qualified use under 
+section 2032A of the Internal Revenue Code. 
+▶ Go to www.irs.gov/Form706A for instructions and the latest information.
+OMB No. 1545-0016
+Part I 
+General Information 
+1a  Name of qualified heir 
+1b  Address of qualified heir (number and street, including apt. no., or P.O. box) 
+1c  City, town or post office, state, and ZIP code 
+2  Heir’s social security number 
+3  Commencement date (see instructions) 
+4  Decedent’s name reported on Form 706 
+5  Decedent’s social security number 6  Date of death 
+7  Check here if you are making an election under section 1016(c) to increase the basis of specially valued property. Attach the statement described
+on page 2 of the instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part II 
+Tax Computation (First complete Schedules A and B. See instructions.) 
+1 
+Value at date of death (or alternate valuation date) of all specially valued property that passed from 
+decedent to qualified heir: 
+a Without section 2032A election 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a 
+b With section 2032A election .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b 
+c Balance. Subtract line 1b from line 1a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c 
+2 
+Value at date of death (or alternate valuation date) of all specially valued property in decedent’s estate: 
+a Without section 2032A election 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b With section 2032A election .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b 
+c Balance. Subtract line 2b from line 2a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c 
+3 
+Decedent’s estate tax: 
+a Recomputed without section 2032A election (attach computation) .
+.
+3a 
+b Reported on Form 706 with section 2032A election .
+.
+.
+.
+.
+.
+.
+3b 
+c Balance. Subtract line 3b from line 3a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c 
+4 
+Divide line 1c by line 2c and enter the result as a percentage .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+% 
+5 
+Total estate tax saved. Multiply line 3c by percentage on line 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Value, without section 2032A election, at date of death (or alternate 
+valuation date) of specially valued property shown on Schedule A of
+this Form 706-A .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Divide line 6 by line 1a and enter the result as a percentage .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+% 
+8 
+Multiply line 5 by percentage on line 7 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Total estate tax recaptured on previous Form(s) 706-A (attach copies of 706-A) .
+.
+.
+.
+.
+.
+.
+9 
+10 
+Remaining estate tax savings. Subtract line 9 from line 5. Do not enter less than zero .
+.
+.
+.
+.
+10 
+11 
+Enter the lesser of line 8 or line 10 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Enter the total of column D, Schedule A .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Enter the total of column E, Schedule A .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Balance. Subtract line 13 from line 12 (but enter the line 12 amount in the case of a disposition of 
+standing timber on qualified woodland) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Enter the lesser of line 11 or line 14 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+If you completed Schedule B, complete lines 16–19. If you did not complete Schedule B, skip lines 16–18 and enter the amount from line 15 on line 19. 
+16 
+Enter the total cost (or fair market value (FMV)) from Schedule B .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Divide line 16 by line 12 and enter the result as a percentage. Do not enter more than 100% 
+.
+.
+17 
+% 
+18 
+Multiply line 15 by percentage on line 17 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Additional estate tax. Subtract line 18 from line 15. Do not enter less than zero 
+.
+.
+.
+.
+.
+.
+19 
+20 
+Enter section 1016(c) interest (where applicable) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+Under penalties of perjury, I declare that I have examined this return, and to the best of my knowledge and belief, it is true, correct, and complete. Declaration of preparer 
+(other than taxpayer) is based on all information of which preparer has any knowledge. 
+Sign  
+Here
+▲
+Signature of executor
+▲
+Date
+▲
+Signature of executor
+May the IRS discuss this return with the preparer shown 
+below? See instructions. Yes
+No
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name     ▶
+Firm’s address ▶
+Firm’s EIN ▶
+Phone no. 
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions. 
+Cat. No. 10141S 
+Form 706-A (Rev. 8-2019) 
+Form 706-A (Rev. 8-2019) 
+Page  2 
+Schedule A. Disposition of Specially Valued Property or Cessation of Qualified Use   
+Note: List property in chronological order of disposition or cessation. 
+A    
+Item  
+number
+B   
+Description of specially valued property and schedule and item  
+number where reported on the decedent’s Form 706 
+C   
+Date of disposition  
+(or date qualified  
+use ceased) 
+D   
+Amount received (or FMV, if 
+applicable) (see instructions) 
+E   
+Special use value   
+(see instructions) 
+Form 706, Schedule 
+, Item 
+Description: 
+Totals. Enter total of column D on Part II, Tax Computation, line 12, and  
+total of column E on  Part II, Tax Computation, line 13 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. 
+Form 706-A (Rev. 8-2019) 
+Form 706-A (Rev. 8-2019) 
+Page  3 
+Schedule B. Involuntary Conversions or Exchanges 
+Check if for: 
+Involuntary Conversion
+Exchange
+Qualified replacement (or exchange) property 
+A   
+Item 
+B   
+Description of qualified replacement (or exchange) property 
+C   
+Cost (or FMV) 
+Total cost (or FMV). Enter here and on line 16 of Part II, Tax Computation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form 706-A (Rev. 8-2019) 
+Form 706-A (Rev. 8-2019) 
+Page  4 
+Schedule C. Dispositions to Family Members of the Qualified Heir 
+Each transferee must enter into an agreement to be personally liable for any additional taxes imposed by section 2032A(c) and 
+the agreement must be attached to this Form 706-A. See instructions. 
+Transferee #1: 
+Last name 
+First name 
+Middle initial 
+Social security number 
+Relationship to the qualified heir
+Description of property transferred 
+A 
+Item  
+number 
+B   
+Description of specially valued property and schedule and item  
+number where reported on the decedent’s Form 706 
+C   
+Date of  
+disposition 
+Form 706, Schedule 
+, Item 
+Description: 
+Transferee #2: 
+Last name 
+First name 
+Middle initial 
+Social security number 
+Relationship to the qualified heir 
+Description of property transferred 
+A 
+Item  
+number 
+B   
+Description of specially valued property and schedule and item  
+number where reported on the decedent’s Form 706 
+C   
+Date of  
+disposition 
+Form 706, Schedule 
+, Item 
+Description: 
+If there are more than two transferees, attach additional sheets using the same format. 
+Form 706-A (Rev. 8-2019) 

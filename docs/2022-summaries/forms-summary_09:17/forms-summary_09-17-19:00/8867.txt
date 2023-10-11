@@ -1,0 +1,17 @@
+Form 8867 is a checklist provided by the Internal Revenue Service (IRS) for paid tax preparers to ensure they have met the due diligence requirements when preparing a tax return. The form is used for tax returns that claim the Earned Income Credit (EIC), American Opportunity Tax Credit (AOTC), Child Tax Credit (CTC), including the Additional Child Tax Credit (ACTC) and Credit for Other Dependents (ODC), and Head of Household (HOH) filing status.
+
+The form consists of six parts:
+
+Part I: Due Diligence Requirements - The preparer must check the appropriate box for the credits and/or HOH filing status claimed on the return and complete the related parts for each credit claimed.
+
+Part II: Due Diligence Questions for Returns Claiming EIC - This part includes questions specific to the EIC, including determining eligibility and understanding the rules for claiming the credit.
+
+Part III: Due Diligence Questions for Returns Claiming CTC/ACTC/ODC - This part includes questions specific to the CTC, ACTC, and ODC, including determining eligibility and understanding the rules for claiming the credit.
+
+Part IV: Due Diligence Questions for Returns Claiming AOTC - This part includes questions specific to the AOTC, including verifying substantiation for the credit.
+
+Part V: Due Diligence Questions for Claiming HOH - This part includes questions specific to the HOH filing status, including determining eligibility.
+
+Part VI: Eligibility Certification - The preparer must certify that they have completed all due diligence requirements, including interviewing the taxpayer, documenting responses, reviewing information, completing the form truthfully and accurately, submitting the form as required, and retaining all necessary records.
+
+The form serves as a record for the tax preparer to demonstrate that they have met the due diligence requirements set by the IRS. Failure to comply with these requirements may result in penalties.

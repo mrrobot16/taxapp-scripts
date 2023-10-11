@@ -1,0 +1,871 @@
+Form  706-QDT
+(Rev. June 2019)
+Department of the Treasury  
+Internal Revenue Service 
+U.S. Estate Tax Return for 
+Qualified Domestic Trusts
+Calendar Year
+▶ Go to www.irs.gov/Form706QDT for instructions and the latest information.
+OMB No. 1545-1212
+Part I
+General Information
+1a     Name of trust
+1b   EIN of trust
+2a     Name of trustee/designated filer (see instructions)
+2b   SSN or EIN of trustee/designated filer
+2c     Address of trustee/designated filer
+3a     Name of surviving spouse (see Definitions in the instructions)
+3b   TIN of surviving spouse
+3c     Surviving spouse’s date of death (if applicable)
+3d   Surviving spouse’s current marital status
+4a     Name of decedent
+4b   SSN of decedent
+4c   Decedent’s date of death
+Part II
+Elections by the Trustee/Designated Filer (see instructions)
+Please check the “Yes” or “No” box for each question.
+Yes
+No
+1
+Do you elect alternate valuation? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Do you elect special use valuation? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” you must complete and attach Schedule A-1 of Form 706.
+3
+Do you elect to pay the taxes in installments as described in section 6166? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” you must attach the additional information described in the instructions.
+Note: By electing section 6166, you may be required to provide security for estate tax deferred under 
+section 6166 and interest in the form of a surety bond or a section 6324A lien.
+4 
+ 
+If the surviving spouse has become a U.S. citizen, does he or she elect under section 2056A(b)(12)(C) to treat all prior 
+taxable distributions as taxable gifts and to treat any of the decedent’s unified credit applied to the QDOT tax on 
+those distributions as the surviving spouse’s unified credit used under section 2505? (If not a U.S. citizen, enter “N/A”)
+Part III
+Tax Computation
+1
+Current taxable trust distributions (total from Part II of Schedule A) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Value of taxable trust property at date of death (if applicable) (total from Part III of Schedule A) .
+.
+.
+2
+3
+Add lines 1 and 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Charitable and marital deductions. See Schedule B instructions (total from col. D, Part IV of Sch. A) .
+4
+5
+Net tentative taxable amount. Subtract line 4 from line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Prior taxable events (total from Part I of Schedule A) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Taxable estate of the decedent. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Add lines 6 and 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Add lines 5 and 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10 
+Recomputation of decedent’s estate tax based on the amount on line 9. See instructions. Attach
+computation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11 
+Recomputation of decedent’s estate tax based on the amount on line 8. See instructions. Attach
+computation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Net estate tax. Subtract line 11 from line 10 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Payment made with request for extension, if any, and credit under section 2056A(b)(2)(B)(ii) .
+.
+.
+.  
+13
+14
+Tax due. (If the amount on line 12 exceeds the amount on line 13, enter the difference here.) .
+.
+ ▶
+14
+15
+Overpayment. (If the amount on line 13 exceeds the amount on line 12, enter the difference here.) .
+15
+Under penalties of perjury, I declare that I have examined this return, along with accompanying schedules and statements, and to the best of my knowledge and belief, it is 
+true, correct, and complete. Declaration of preparer (other than trustee or designated filer) is based on all information of which preparer has any knowledge.
+Sign 
+Here
+▲
+Signature
+▲
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if 
+self-employed
+PTIN
+Firm’s name      ▶
+Firm’s address  ▶
+Firm’s EIN  ▶
+Phone no.
+For Paperwork Reduction Act Notice, see the separate instructions for this form.
+Cat. No. 12292E
+Form 706-QDT (Rev. 6-2019)
+Form 706-QDT (Rev. 6-2019)
+Page 2
+Schedule A
+Complete Schedule A only if you are a designated filer filing this return for multiple trusts.
+Part I
+Summary of Prior Taxable Distributions
+A  
+Year
+B  
+Amount
+C  
+Year
+D  
+Amount
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+Total. Combine columns B and D 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part II
+Summary of Current Taxable Distributions
+A  
+EIN of QDOT
+B  
+Total Taxable Distributions for the Year
+C  
+EIN of QDOT
+D  
+Total Taxable Distributions for the Year
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+Total. Combine columns B and D 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part III
+Summary of Property Remaining in QDOTs at Death of Surviving Spouse
+A  
+EIN of QDOT
+B Alternate Valuation 
+Date (if applicable)
+C  
+Value
+D  
+EIN of QDOT
+E Alternate Valuation 
+Date (if applicable)
+F  
+Value
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+Total. Combine columns C and F 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+Part IV
+Summary of Marital and Charitable Deductions
+A  
+EIN of QDOT
+B  
+Total Marital Deduction
+C  
+Total Charitable Deduction
+D  
+Total Deductions (add cols. B and C)
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+Total .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Form 706-QDT (Rev. 6-2019)
+Form 706-QDT (Rev. 6-2019)
+Page 3
+Schedule B
+To be completed by trustee.
+Part I
+General Information (see instructions)
+1a     Name of trust
+1b   EIN of trust
+2a     Name of trustee
+2b   SSN or EIN of trustee
+2c     Address of trustee
+3       Name of designated filer, if applicable
+4a     Name of surviving spouse
+4b   TIN of surviving spouse
+4c     Surviving spouse’s date of death (if applicable)
+4d   Surviving spouse’s current marital 
+status (or at death, if applicable)
+5a     Name of decedent
+5b   SSN of decedent
+5c   Decedent’s date of death
+Part II
+Taxable Distributions From Prior Years
+A  
+Year
+B  
+Amount
+C  
+Year
+D  
+Amount
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+Total. Combine columns B and D .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part III
+Current Taxable Distributions
+A  
+Date of Distribution
+B  
+Description
+C  
+Value
+D  
+Amount of Hardship 
+Exemption Claimed 
+(see instructions)
+E  
+Net Transfer  
+(col. C minus col. D)
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Form 706-QDT (Rev. 6-2019)
+Form 706-QDT (Rev. 6-2019)
+Page 4
+Schedule B
+To be completed by trustee. (continued)
+Part IV
+Taxable Property in Trust at Death of Surviving Spouse
+A  
+Item No.
+B  
+Description
+C  
+Alternate Valuation 
+Date
+D  
+Value
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part V
+Marital Deductions
+A  
+Item No.
+B  
+Description of Property Interests Passing to Spouse
+C  
+Value
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part VI
+Charitable Deductions
+A  
+Item No.
+B  
+Description
+C  
+Name and Address of Beneficiary
+D  
+Character of 
+Institution
+E  
+Amount
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Form 706-QDT (Rev. 6-2019)

@@ -1,0 +1,13 @@
+Form 8966 is a FATCA Report form used by taxpayers to report foreign financial accounts to the Internal Revenue Service (IRS) in the United States. The form is available on the IRS website, along with instructions for completing it.
+
+The form begins with general information, including the filer's name, address, and taxpayer identification number (TIN). If applicable, the form also requires the filer to provide information about any sponsored entity or intermediary.
+
+The second part of the form is dedicated to providing information about the account holder or payee, including their name, address, and TIN. If the account holder or payee is an entity, the form asks for the entity type.
+
+The third part of the form is specifically for reporting information about U.S. owners who are specified U.S. persons. For each U.S. owner, a separate report must be filed, providing their name, address, and TIN.
+
+The fourth part of the form requests financial information about the account, including the account number, currency code, account balance, and any interest, dividends, gross proceeds/redemptions, or other financial transactions associated with the account.
+
+The fifth and final part of the form relates to pooled reporting types. The filer must indicate the applicable pooled reporting type, such as recalcitrant account holders with U.S. indicia or dormant accounts. They must also provide the number of accounts, aggregate payment amount, aggregate account balance, and currency code.
+
+Form 8966 is used to comply with the Foreign Account Tax Compliance Act (FATCA), which requires U.S. taxpayers to report certain foreign financial accounts to the IRS.

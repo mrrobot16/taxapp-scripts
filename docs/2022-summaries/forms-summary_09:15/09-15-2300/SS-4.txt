@@ -1,0 +1,19 @@
+Form SS-4 is an application form used to request an Employer Identification Number (EIN) from the Internal Revenue Service (IRS). The EIN is a unique identification number assigned to entities such as employers, corporations, partnerships, trusts, estates, churches, government agencies, Indian tribal entities, and certain individuals.
+
+The form requires the applicant to provide their legal name, trade name (if different), mailing address, street address (if different), city, state, ZIP code, county, and state where the principal business is located. It also asks for the name of the responsible party and their Social Security Number (SSN), Individual Taxpayer Identification Number (ITIN), or EIN.
+
+The form includes questions about the type of entity applying for the EIN, such as a limited liability company (LLC) or a foreign equivalent, and whether the LLC was organized in the United States. It also asks for the type of entity, such as sole proprietor, partnership, corporation, trust, estate, etc., and the state or foreign country where the entity is incorporated (if applicable).
+
+The form asks for the reason for applying for an EIN, such as starting a new business, changing the type of organization, purchasing a going business, hiring employees, creating a trust or pension plan, or for compliance with IRS withholding regulations. It also asks for the date the business started or was acquired, the closing month of the accounting year, and the highest number of employees expected in the next 12 months.
+
+There is an option to indicate if the employment tax liability is expected to be $1,000 or less in a full calendar year, in which case the applicant can choose to file Form 944 annually instead of Forms 941 quarterly.
+
+The form asks for the first date wages or annuities were paid, the principal activity of the business, and the principal line of merchandise sold or services provided.
+
+There is a section for a third-party designee, where the applicant can authorize an individual to receive the entity's EIN and answer questions about the completion of the form.
+
+The form must be signed by the applicant under penalties of perjury and includes space for the applicant's name, title, telephone number, signature, and date.
+
+The second page of the form provides information on when to file Form SS-4 and which lines to complete based on the applicant's specific situation and needs.
+
+Overall, Form SS-4 is a comprehensive application form used to request an EIN from the IRS, and it requires detailed information about the entity or individual applying for the EIN.

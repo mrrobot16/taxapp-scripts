@@ -1,0 +1,870 @@
+Form  5713
+(Rev. December 2010) 
+Department of the Treasury  
+Internal Revenue Service 
+International Boycott Report 
+For tax year beginning 
+, 20 
+, 
+and ending 
+, 20 
+. 
+▶ Controlled groups, see instructions. 
+OMB No. 1545-0216 
+Attachment  
+Sequence No. 123 
+Paper filers must file in 
+duplicate (see When and Where 
+to File in the instructions)
+Name 
+Identifying number 
+Number, street, and room or suite no. If a P.O. box, see instructions. 
+City or town, state, and ZIP code 
+Address of service center where your tax return is filed 
+Type of filer (check one): 
+Individual 
+Partnership 
+Corporation 
+Trust 
+Estate 
+Other 
+1 
+Individuals—Enter adjusted gross income from your tax return (see instructions) 
+2 
+Partnerships and corporations: 
+a Partnerships—Enter each partner’s name and identifying number. 
+b Corporations—Enter the name and employer identification number of each member of the controlled group (as defined in  
+section 993(a)(3)). Do not list members included in the consolidated return; instead, attach a copy of Form 851. List all  other 
+members of the controlled group not included in the consolidated return.   
+If you list any corporations below or if you attach Form 851, you must designate a common tax year. Enter on line  4b 
+the name and employer identification number of the corporation whose tax year is designated. 
+Name 
+Identifying number 
+If more space is needed, attach additional sheets and check this box .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+Code 
+Description 
+c Enter principal business activity code and description (see instructions) 
+d IC-DISCs—Enter principal product or service code and description (see instructions) 
+3 
+Partnerships—Each partnership filing Form 5713 must give the following information: 
+a Partnership’s total assets (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Partnership’s ordinary income (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Corporations—Each corporation filing Form 5713 must give the following information: 
+a Type of form filed (Form 1120, 1120-FSC, 1120-IC-DISC, 1120-L, 1120-PC, etc.) 
+.
+.
+.
+b Common tax year election (see instructions) 
+(1) Name of corporation ▶ 
+(2) Employer identification number 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(3) Common tax year beginning
+, 20 
+, and ending 
+, 20 
+. 
+c Corporations filing this form enter: 
+(1) Total assets (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(2) Taxable income before net operating loss and special deductions (see instructions) .
+.
+5 
+Estates or trusts—Enter total income (Form 1041, page 1) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Enter the total amount (before reduction for boycott participation or cooperation) of the following tax benefits (see instructions): 
+a Foreign tax credit .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Deferral of earnings of controlled foreign corporations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c Deferral of IC-DISC income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+d FSC exempt foreign trade income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+e Foreign trade income qualifying for the extraterritorial income exclusion 
+.
+.
+.
+.
+.  
+Please  
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined this report, including accompanying schedules and statements, and to the best of my  
+knowledge and belief, it is true, correct, and complete. 
+▲
+Signature 
+Date 
+▲
+Title 
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 12030E 
+Form  5713  (Rev. 12-2010) 
+Form 5713 (Rev. 12-2010) 
+Page  2 
+Yes No 
+7 a Are you a U.S. shareholder (as defined in section 951(b)) of any foreign corporation (including a FSC that does not 
+use the administrative pricing rules) that had operations reportable under section 999(a)? 
+.
+.
+.
+.
+.
+.
+.
+.  
+b If the answer to question 7a is “Yes,” is any foreign corporation a controlled foreign corporation (as defined in 
+section 957(a))? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c Do you own any stock of an IC-DISC? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+d Do you claim any foreign tax credit? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+e Do you control (within the meaning of section 304(c)) any corporation (other than a corporation included in this 
+report) that has operations reportable under section 999(a)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+If “Yes,” did that corporation participate in or cooperate with an international boycott at any time during its tax 
+year that ends with or within your tax year? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+f 
+Are you controlled (within the meaning of section 304(c)) by any person (other than a person included in this 
+report) who has operations reportable under section 999(a)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+If “Yes,” did that person participate in or cooperate with an international boycott at any time during its tax year 
+that ends with or within your tax year? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+g Are you treated under section 671 as the owner of a trust that has reportable operations under section 999(a)? .  
+h Are you a partner in a partnership that has reportable operations under section 999(a)? .
+.
+.
+.
+.
+.
+.
+.
+.  
+i 
+Are you a foreign sales corporation (FSC) (as defined in section 922(a), as in effect before its repeal)? 
+.
+.
+.
+.
+j 
+Are you excluding extraterritorial income (defined in section 114(e), as in effect before its repeal) from  
+gross income? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part I 
+Operations in or Related to a Boycotting Country  (see instructions) 
+Yes No 
+8 
+Boycott of Israel—Did you have any operations in or related to any country (or with the government, a company, 
+or a national of that country) associated in carrying out the boycott of Israel which is on the list maintained by the  
+Secretary of the Treasury under section 999(a)(3)? (See Boycotting Countries  in the instructions.) .
+.
+.
+.
+.
+If “Yes,” complete the following table. If more space is needed, attach additional sheets using the exact format and check 
+this box  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶
+Name of country   
+  
+(1) 
+Identifying number of   
+person having operations   
+(2) 
+Principal business activity 
+Code  
+ (3) 
+Description  
+ (4) 
+IC-DISCs   
+only—Enter  
+product code  
+ (5) 
+a 
+b 
+c 
+d 
+e 
+f 
+g 
+h 
+i 
+j 
+k 
+l 
+m 
+n 
+Form  5713  (Rev. 12-2010) 
+o
+Form 5713 (Rev. 12-2010) 
+Page  3 
+Yes No 
+9 
+Nonlisted countries boycotting Israel— Did you have operations in any nonlisted country which you know or  
+have reason to know requires participation in or cooperation with an international boycott directed against Israel? 
+If “Yes,” complete the following table. If more space is needed, attach additional sheets using the exact format and check 
+this box 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+Name of country   
+  
+(1) 
+Identifying number of   
+person having operations   
+(2) 
+Principal business activity 
+Code  
+ (3) 
+Description  
+ (4) 
+IC-DISCs   
+only—Enter  
+product code  
+ (5) 
+a 
+b 
+c 
+d 
+e 
+f 
+g 
+h 
+Yes No 
+10 
+Boycotts other than the boycott of Israel—Did you have operations in any other country which you know or have 
+reason to know requires participation in or cooperation with an international boycott other than the boycott of Israel? 
+If “Yes,” complete the following table. If more space is needed, attach additional sheets using the exact format and check 
+this box 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+Name of country   
+  
+(1) 
+Identifying number of   
+person having operations   
+(2) 
+Principal business activity 
+Code  
+ (3) 
+Description  
+ (4) 
+IC-DISCs   
+only—Enter  
+product code  
+ (5) 
+a 
+b 
+c 
+d 
+e 
+f 
+g 
+h 
+Yes No 
+11 
+Were you requested to participate in or cooperate with an international boycott? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+If “Yes,” attach a copy (in English) of any and all such requests received during your tax year. If the request was in 
+a form other than a written request, attach a separate sheet explaining the nature and form of any and all such 
+requests. (See instructions.) 
+12 
+Did you participate in or cooperate with an international boycott? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach a copy (in English) of any and all boycott clauses agreed to, and attach a general statement of the agreement.  
+If the agreement was in a form other than a written agreement, attach a separate sheet explaining the nature and form of  any 
+and all such agreements. (See instructions.)
+Note:  If the answer to either question 11 or 12 is “Yes,” you must complete the rest of Form 5713. If you answered “Yes” to question  
+12, you must complete Schedules A and C or B and C (Form 5713). 
+Form  5713  (Rev. 12-2010) 
+Form 5713 (Rev. 12-2010) 
+Page  4 
+Part II 
+Requests for and Acts of Participation in or Cooperation With an International  
+Boycott 
+Requests Agreements 
+Yes No Yes No 
+13 a Did you receive requests to enter into, or did you enter into, any agreement (see instructions): 
+(1) 
+As a condition of doing business directly or indirectly within a country or with the government, a 
+company, or a national of a country to— 
+(a) 
+Refrain from doing business with or in a country which is the object of an international 
+boycott or with the government, companies, or nationals of that country? 
+(b) 
+Refrain from doing business with any U.S. person engaged in trade in a country which is  the
+object of an international boycott or with the government, companies, or nationals of  that 
+country? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(c) 
+Refrain from doing business with any company whose ownership or management is made up, in 
+whole or in part, of individuals of a particular nationality, race, or religion, or to remove (or refrain 
+from selecting) corporate directors who are individuals of a particular nationality, race, or religion? 
+(d) 
+Refrain from employing individuals of a particular nationality, race, or religion? 
+(2) As a condition of the sale of a product to the government, a company, or a national of a country,  
+to refrain from shipping or insuring products on a carrier owned, leased, or operated by a person  
+who does not participate in or cooperate with an international boycott? 
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+b Requests and agreements—if the answer to any part of 13a is “Yes,” complete the following table. If more space is 
+needed, attach additional sheets using the exact format and check this box .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶
+Name of country   
+  
+  
+(1) 
+Identifying number of  
+person receiving the  
+request or having the  
+agreement  
+ (2) 
+Principal business activity 
+Code  
+ (3) 
+Description 
+(4) 
+IC-DISCs  
+only—  
+Enter  
+product  
+code  (5) 
+Type of cooperation or participation 
+Number of requests 
+Number of agreements 
+Total 
+(6) 
+Code 
+(7) 
+Total  
+(8) 
+Code 
+(9) 
+a 
+b 
+c 
+d 
+e 
+f 
+g 
+h 
+i 
+j 
+k 
+l 
+m 
+n 
+o 
+p 
+Form  5713  (Rev. 12-2010) 

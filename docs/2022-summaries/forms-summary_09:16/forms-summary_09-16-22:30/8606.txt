@@ -1,0 +1,20 @@
+Form 8606 is a document provided by the Internal Revenue Service (IRS) for individuals who have made nondeductible contributions to traditional Individual Retirement Accounts (IRAs) or have converted traditional, SEP, or SIMPLE IRAs to Roth IRAs. The form is used to calculate the taxable and nontaxable portions of distributions from these accounts.
+
+The form is divided into three parts:
+
+Part I: Nondeductible Contributions to Traditional IRAs and Distributions from Traditional, SEP, and SIMPLE IRAs
+- This part is completed if the taxpayer made nondeductible contributions to a traditional IRA for the tax year, took distributions from traditional, SEP, or SIMPLE IRAs, or converted part of their traditional, SEP, or SIMPLE IRAs to Roth IRAs.
+- The taxpayer enters their nondeductible contributions to traditional IRAs, total basis in traditional IRAs, and calculates the total basis in traditional IRAs for the tax year.
+- The taxpayer also enters the value of their traditional, SEP, and SIMPLE IRAs as of December 31, 2022, and any distributions taken from these accounts.
+
+Part II: 2022 Conversions From Traditional, SEP, or SIMPLE IRAs to Roth IRAs
+- This part is completed if the taxpayer converted part or all of their traditional, SEP, or SIMPLE IRAs to Roth IRAs in the tax year.
+- The taxpayer enters the amount converted from traditional, SEP, and SIMPLE IRAs to Roth IRAs and calculates the taxable amount of the conversion.
+
+Part III: Distributions From Roth IRAs
+- This part is completed if the taxpayer took a distribution from a Roth IRA in the tax year.
+- The taxpayer enters their total nonqualified distributions from Roth IRAs and calculates the taxable amount of the distribution.
+
+The form also includes sections for the taxpayer's personal information, such as their name, social security number, and address. It also includes a signature section for the taxpayer and, if applicable, the paid preparer.
+
+Form 8606 is to be attached to the taxpayer's Form 1040, 1040-SR, or 1040-NR when filing their tax return.

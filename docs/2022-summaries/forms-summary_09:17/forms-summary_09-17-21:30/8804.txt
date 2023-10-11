@@ -1,0 +1,11 @@
+Form 8804 is an annual return for partnership withholding tax under Section 1446 of the Internal Revenue Code. This form is used by partnerships to report their tax liability and payments related to withholding taxes. The form includes several sections for providing information about the partnership, the withholding agent, the number of foreign partners, and the allocation of effectively connected taxable income (ECTI) to partners.
+
+Partnerships must calculate their ECTI allocable to foreign partners, corporate partners, non-corporate partners, and partners with specific types of gains. The form also includes sections for reporting reductions to ECTI for state and local taxes, certified foreign partner-level items, and various types of gains. The total ECTI is used to calculate the gross section 1446 tax liability.
+
+Partnerships must also report any payments of section 1446 tax made during the tax year, as well as any section 1446 tax paid or withheld by another partnership in which the partnership was a partner. Additionally, the form includes sections for reporting section 1445(a) or 1445(e)(1) tax withheld from or paid by the partnership for a disposition of a U.S. real property interest, section 1445(e) tax withheld for a disposition of a U.S. real property interest, and section 1446(f)(1) tax withheld for a disposition of an interest in a partnership engaged in the conduct of a U.S. trade or business.
+
+Partnerships must calculate their total payments and determine if they owe an estimated tax penalty. The balance due or overpayment is calculated, and any overpayment can be refunded or credited to the next year's Form 8804.
+
+The form must be signed by a partner or limited liability company member under penalties of perjury. There is also a section for the preparer of the form to provide their information.
+
+This summary provides a general overview of the information included in Form 8804, but it is important to refer to the instructions and consult with a tax professional for specific guidance and requirements.

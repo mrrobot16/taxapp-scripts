@@ -1,0 +1,15 @@
+Form W-8BEN is a document issued by the Internal Revenue Service (IRS) of the United States. It is used by individuals who are foreign residents and beneficial owners of income subject to U.S. tax withholding and reporting. This form is not to be sent to the IRS but should be provided to the withholding agent or payer.
+
+The form begins with instructions on when not to use Form W-8BEN, such as when the individual is not an individual or is a U.S. citizen or other U.S. person. It also provides alternative forms to use in those cases.
+
+The form is divided into three parts:
+
+1. Part I: Identification of Beneficial Owner - This section requires the individual to provide their name, country of citizenship, permanent residence address, mailing address (if different), U.S. taxpayer identification number (if required), foreign tax identifying number, reference number(s), and date of birth.
+
+2. Part II: Claim of Tax Treaty Benefits - This section is applicable for claiming tax treaty benefits for chapter 3 purposes only. The individual must certify that they are a resident of a specific country within the meaning of the income tax treaty between the U.S. and that country. They can also specify special rates and conditions for withholding on specific types of income.
+
+3. Part III: Certification - This section requires the individual to declare, under penalties of perjury, that the information provided is true, correct, and complete. They must confirm that they are the beneficial owner of the income, that the person named on line 1 is not a U.S. person, and that the form relates to specific types of income or proceeds. The individual must also authorize the form to be provided to any withholding agent and agree to submit a new form if any certification becomes incorrect.
+
+The form concludes with spaces for the signature, date, and printed name of the signer.
+
+The form includes a notice regarding the Paperwork Reduction Act, and it is identified as Form W-8BEN (Rev. 10-2021).

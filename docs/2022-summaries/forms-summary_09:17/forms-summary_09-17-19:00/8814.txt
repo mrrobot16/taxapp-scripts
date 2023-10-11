@@ -1,0 +1,27 @@
+Form 8814 is a document provided by the Internal Revenue Service (IRS) for parents to report their child's interest and dividends on their tax return. It is an attachment that should be included with the parent's Form 1040, 1040-SR, or 1040-NR. 
+
+The form begins with a caution that filing a separate tax return for the child may result in lower federal income tax on the child's income, as certain tax benefits cannot be taken by the parent. 
+
+The form is divided into two parts. 
+
+Part I requires the parent to enter the child's taxable interest, tax-exempt interest, ordinary dividends, qualified dividends, and capital gain distributions. The parent should refer to the child's Forms 1099-INT, 1099-OID, and other relevant documents for accurate amounts. 
+
+The parent then adds up the totals of lines 1a, 2a, and 3. If the total is $2,300 or less, they can skip lines 5 through 12 and go to line 13. If the total is $11,500 or more, they should not file this form, and the child must file their own return to report the income. 
+
+On line 5, the parent enters the base amount of $2,300. They subtract this amount from line 4 on line 6. 
+
+If lines 2b and 3 are zero or blank, the parent can skip lines 7 through 10, enter -0- on line 11, and go to line 12. Otherwise, they should proceed to line 7. 
+
+On lines 7 and 8, the parent divides line 2b and line 3 by line 4, respectively, and enters the results as decimals rounded to at least three places. 
+
+The parent then multiplies line 6 by line 7 on line 9 and line 6 by line 8 on line 10. They add lines 9 and 10 on line 11. 
+
+On line 12, the parent subtracts line 11 from line 6 and includes this amount in the total on Schedule 1 (Form 1040), line 8z. They should also enter Form 8814 and the amount in the space next to that line. 
+
+Part II of the form calculates the tax on the first $2,300 of the child's interest and dividends. The parent enters $1,150 on line 13 and subtracts line 13 from line 4 on line 14. If the result is zero or less, they enter -0-. 
+
+On line 15, the parent determines the tax amount based on whether the amount on line 14 is less than $1,150. If it is, they multiply line 14 by 10% (0.10) and enter the result. If it is not, they enter $115. 
+
+The form concludes with a note stating that if the parent checked the box on line C, they should refer to the instructions. Otherwise, they should include the amount from line 15 in the tax they enter on Form 1040, 1040-SR, or 1040-NR, line 16. They should also check box 1 on that line. 
+
+The form includes a Paperwork Reduction Act Notice and the form number is 8814 for the year 2022.

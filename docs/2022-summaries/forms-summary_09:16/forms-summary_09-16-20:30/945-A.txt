@@ -1,0 +1,7 @@
+Form 945-A is an annual record of federal tax liability form that is used by employers in the United States who are semiweekly schedule depositors or who have accumulated tax liability of $100,000 or more in any given month. This form is filed along with Form 945, 945-X, CT-1, CT-1 X, 944, or 944-X.
+
+The form consists of a table with columns for each month of the calendar year, from January to December. Each column has 31 rows representing the days of the month. The employer is required to enter their tax liability for each day of the month in the corresponding column. The total tax liability for each month is calculated by adding up the amounts entered for that month.
+
+At the end of the form, there is a line to enter the total tax liability for the year, which is the sum of the tax liabilities for each month. This total must match line 3 on Form 945, line 19 on Form CT-1, or line 9 on Form 944.
+
+The form also includes a reference to the IRS website for instructions and the latest information, as well as a notice regarding the Paperwork Reduction Act.

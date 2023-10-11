@@ -1,0 +1,15 @@
+Form 8957 is a document used for registration under the Foreign Account Tax Compliance Act (FATCA) by financial institutions. It is important for applicants to complete Part 1 of the form and sign it, as it will not be processed otherwise. The IRS recommends using the online version of the form for faster processing. The form should be mailed to the designated address in Austin, Texas.
+
+Part 1 of the form requires the financial institution to select its type and provide its legal name, country/jurisdiction of residence for tax purposes, tax ID, and FATCA classification in its country/jurisdiction of tax residence.
+
+Part 2 is for expanded affiliated groups and requires the lead financial institution to provide information about each member financial institution, including their legal name, country/jurisdiction of residence for tax purposes, and FATCA classification.
+
+The form also includes sections to indicate if the financial institution has a withholding agreement with the IRS as a qualified intermediary, withholding foreign partnership, or withholding foreign trust. It also asks if the financial institution maintains a branch outside of its country/jurisdiction of tax residence and if it is a tax resident of the United States or has a branch in the United States.
+
+The form requires the appointment of a FATCA Responsible Officer (RO) for the financial institution, including their business title, legal name, address, telephone number, fax number, and email address. The RO can also designate additional points of contact (POCs) for the financial institution.
+
+If the financial institution is the common parent entity of an expanded affiliated group, it must indicate this and provide the legal name of the common parent entity.
+
+The form concludes with a signature section where the applicant certifies the accuracy and completeness of the information provided.
+
+This summary provides an overview of the form and its sections, but it is important to refer to the instructions and the latest information on the IRS website for complete guidance on filling out Form 8957.

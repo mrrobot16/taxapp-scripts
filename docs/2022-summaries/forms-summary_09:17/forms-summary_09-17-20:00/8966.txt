@@ -1,0 +1,123 @@
+Form  8966
+2022
+FATCA Report
+Department of the Treasury  
+Internal Revenue Service 
+Go to www.irs.gov/Form8966 for instructions and the latest information.
+OMB No. 1545-2246
+If you are filing paper Forms 8966, enter the three-digit identifier number used to identify this Form 8966 filing 
+(see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Check if report is being corrected, amended, voided, or there are no accounts to report:
+Corrected report
+Amended report
+Voided report
+Check if no accounts to report (see instructions)
+Part I 
+Identification of Filer
+1a  Name of filer 
+1b Enter the filer category (see instructions)
+2    Number, street, and room or suite no. (if P.O. box, see instructions)
+3a  City or town 
+3b    State, province, or region
+3c   Country, including postal code 
+4   Global intermediary identification number (GIIN)
+.
+.
+.
+5   TIN
+6  Name of sponsored entity or intermediary, if applicable
+7   Number, street, and room or suite no. (if P.O. box, see instructions)
+8a  City or town
+8b   State, province, or region 
+8c   Country, including postal code 
+9   GIIN
+.
+.
+.
+10  TIN
+Part II 
+Account Holder or Payee Information
+1a Name of account holder or payee
+1b Indicate whether account holder or payee is an individual or entity
+Individual
+Entity
+2  Number, street, and room or suite no. (if P.O. box, see instructions)
+3a  City or town
+3b   State, province, or region
+3c   Country, including postal code 
+4  TIN
+5  If account holder or payee is an entity, check applicable box to specify the entity type:
+Owner-Documented FFI with specified U.S. Owner(s)
+Passive NFFE with substantial U.S. Owner(s)
+Non-Participating FFI
+Specified U.S. Person
+Part III 
+Owner Information (File a separate report for each U.S. Owner that is a specified U.S. Person.)
+1  Name of owner
+2  Number, street, and room or suite no. (if P.O. box, see instructions)
+3a  City or town
+3b   State, province, or region
+3c   Country, including postal code 
+4   TIN of owner
+Part IV 
+Financial Information
+1  Account number
+2   Currency code (see instructions)
+3a  Account balance
+3b  Check if account closed during the year (see instructions)
+4a  Interest
+4b  Dividends
+4c  Gross proceeds/Redemptions
+4d  Other
+For Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 55748F 
+Form 8966 (2022) 
+Form 8966 (2022)
+Page 2 
+Part V 
+Pooled Reporting Type
+1   Check applicable pooled reporting type (check only one):
+Recalcitrant account holders with U.S. Indicia
+Dormant accounts
+Recalcitrant account holders that are U.S. Persons
+Recalcitrant account holders without U.S. Indicia
+Non-Participating FFI
+Recalcitrant account holders that are passive NFFEs
+2   Number of accounts
+3   Aggregate payment amount
+4   Aggregate account balance
+5   Currency code
+Form 8966 (2022) 

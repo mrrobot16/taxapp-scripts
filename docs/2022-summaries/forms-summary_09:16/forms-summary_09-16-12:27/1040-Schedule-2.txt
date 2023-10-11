@@ -1,0 +1,9 @@
+Schedule 2 (Form 1040) is an additional tax form that taxpayers must attach to their Form 1040, 1040-SR, or 1040-NR. It is used to report and calculate various additional taxes that may be owed. 
+
+Part I of Schedule 2 includes the alternative minimum tax and excess advance premium tax credit repayment. Taxpayers must attach the corresponding forms (Form 6251 and Form 8962) to report these taxes.
+
+Part II of Schedule 2 includes other taxes such as self-employment tax, social security and Medicare tax on unreported tip income, uncollected social security and Medicare tax on wages, additional tax on IRAs or other tax-favored accounts, household employment taxes, repayment of first-time homebuyer credit, additional Medicare tax, net investment income tax, and more. Taxpayers must attach the necessary forms (Schedule SE, Form 4137, Form 8919, Form 5329, Schedule H, Form 5405, Form 8959, Form 8960, Form 8611, and others) to report and calculate these taxes.
+
+Part II also includes a section for other additional taxes, such as recapture of other credits, additional tax on HSA distributions, additional tax on Archer MSA distributions, recapture of a charitable contribution deduction, income from nonqualified deferred compensation plans, section 72(m)(5) excess benefits tax, golden parachute payments, tax on accumulation distribution of trusts, excise tax on insider stock compensation, look-back interest, tax on non-effectively connected income for nonresident aliens, and more. Taxpayers must list the type and amount of these taxes, and attach the necessary forms (Form 8889, Form 8853, Form 8621, and others) if required.
+
+The total additional taxes are calculated by adding up the amounts reported on each line, and the result is entered on Form 1040, 1040-SR, or 1040-NR, line 23 or 23b, depending on the form being used.

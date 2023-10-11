@@ -1,0 +1,13 @@
+Form 965-A is a document provided by the Internal Revenue Service (IRS) for taxpayers to report their net 965 tax liability and make an election to pay in installments. The form includes several parts where taxpayers provide information on their tax liability and payments made.
+
+Part I of the form requires taxpayers to report their net 965 tax liability for each taxable year, including the year of Section 965(a) inclusion, liability assumed, or liability triggering event. The form also calculates the net 965 tax liability eligible for installment payment election.
+
+Part II is used to record the amount of net 965 tax liability paid by the taxpayer for each year. It includes columns to indicate the year of Section 965(a) inclusion, liability assumed, or triggering event, and the amount paid for each year.
+
+Part III is specifically for S Corporation shareholders to report their net 965 tax liability related to 965 amounts allocated from an S Corporation. Shareholders also have the option to make a deferral election for their net 965 tax liability.
+
+Part IV is an annual report of deferred net 965 tax liability related to 965 amounts allocated from S Corporations. Taxpayers are required to provide information on the S Corporation name, tax identification number, beginning deferred net 965 tax liability, net 965 tax liability triggered, and any deferred net 965 tax liability transferred in or out.
+
+The form includes additional sections for privacy act and paperwork reduction act notices.
+
+Taxpayers are advised to refer to the instructions provided on the IRS website for detailed guidance on completing the form.

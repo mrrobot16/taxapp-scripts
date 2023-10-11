@@ -1,0 +1,11 @@
+Form 1120-S is the U.S. Income Tax Return for an S Corporation. This form is used by S corporations to report their income, deductions, and other information to the IRS. The form includes sections for the corporation's identifying information, such as its name, address, and employer identification number. It also includes sections for reporting the corporation's income, deductions, and tax payments.
+
+The income section of the form includes lines for reporting gross receipts or sales, returns and allowances, cost of goods sold, gross profit, net gain or loss from Form 4797, other income or loss, and total income or loss.
+
+The deductions section includes lines for reporting various expenses, such as compensation of officers, salaries and wages, repairs and maintenance, bad debts, rents, taxes and licenses, interest, depreciation, depletion, advertising, pension and profit-sharing plans, employee benefit programs, and other deductions.
+
+The tax and payments section includes lines for reporting the excess net passive income or LIFO recapture tax, tax from Schedule D, estimated tax payments, tax deposited with Form 7004, and any other taxes or credits.
+
+The form also includes schedules for reporting other information, such as the corporation's accounting method, business activity, shareholders' pro rata share items, balance sheets per books, and reconciliation of income per books with income per return.
+
+Overall, Form 1120-S is a comprehensive document that S corporations use to report their income and deductions to the IRS.

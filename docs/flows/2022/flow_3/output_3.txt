@@ -1,0 +1,9 @@
+Relevant Keywords
+
+[“limited liability partnership”,”partnership”,”partner”,”LLP”] → 1065, Schedule K-1
+[“married”, "individual"] → Form 1040
+["contractor", "part-time”]** → 1099-NEC, Form 1040 Schedule SE
+[“cryptocurrency”, “NFTs”, “trader”, “blockchain”, “crypto”, "property"] → Schedule D, Form 8949
+[“trader”, “trader status”] → Form 1040 Schedule C
+[“ponzi scheme”, “capital loss”, “bankruptcy”] → Form 4684
+[“Rome”, “Italy”, “foreign”, “abroad”] → Form 1116

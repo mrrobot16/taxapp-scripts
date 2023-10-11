@@ -1,0 +1,13 @@
+Schedule R (Form 1040) is a document that taxpayers can use to claim the Credit for the Elderly or the Disabled on their federal income tax return. The credit is available to individuals who were either age 65 or older by the end of the tax year or under age 65 and retired on permanent and total disability with taxable disability income. 
+
+The form is divided into three parts. 
+
+Part I requires taxpayers to check the box that corresponds to their filing status and age. There are different boxes for single filers, head of household filers, qualifying surviving spouses, and married couples filing jointly or separately. 
+
+Part II is only completed if the taxpayer checked a specific box in Part I that indicates they retired on permanent and total disability. This section requires the taxpayer to provide information about their disability and whether they have previously submitted a physician's statement. 
+
+Part III is where the taxpayer calculates their credit amount. The form provides specific instructions and tables for different scenarios, depending on the boxes checked in Part I. The taxpayer must enter their taxable disability income, pensions, annuities, and other nontaxable income. They then calculate their credit based on these amounts and their filing status. 
+
+Once the credit amount is determined, it is entered on Schedule 3 (Form 1040), line 6d, and also included in the overall calculation of the taxpayer's tax liability. 
+
+The form includes additional instructions and information about eligibility requirements, documentation needed, and where to find the most up-to-date instructions.

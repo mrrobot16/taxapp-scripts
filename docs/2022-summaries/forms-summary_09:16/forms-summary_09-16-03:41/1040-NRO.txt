@@ -1,0 +1,33 @@
+Schedule OI (Form 1040-NR) is a document provided by the Internal Revenue Service (IRS) for taxpayers to provide additional information when filing Form 1040-NR. The form includes several questions that taxpayers must answer. 
+
+The questions on Schedule OI include:
+
+A. The taxpayer is asked to provide the country or countries of which they were a citizen or national during the tax year.
+
+B. The taxpayer is asked to indicate the country in which they claimed residence for tax purposes during the tax year.
+
+C. The taxpayer is asked if they have ever applied to be a green card holder (lawful permanent resident) of the United States.
+
+D. The taxpayer is asked if they have ever been a U.S. citizen or a green card holder (lawful permanent resident) of the United States.
+
+E. If the taxpayer had a visa on the last day of the tax year, they are asked to enter their visa type. If they did not have a visa, they are asked to enter their U.S. immigration status on the last day of the tax year.
+
+F. The taxpayer is asked if they have ever changed their visa type (nonimmigrant status) or U.S. immigration status.
+
+G. The taxpayer is asked to list all dates they entered and left the United States during the tax year.
+
+H. The taxpayer is asked to provide the number of days they were present in the United States during each of the years 2020, 2021, and 2022.
+
+I. The taxpayer is asked if they filed a U.S. income tax return for any prior year and, if so, to provide the latest year and form number filed.
+
+J. The taxpayer is asked if they are filing a return for a trust and, if so, if the trust had a U.S. or foreign owner under the grantor trust rules, made a distribution or loan to a U.S. person, or received a contribution from a U.S. person.
+
+K. The taxpayer is asked if they received total compensation of $250,000 or more during the tax year and, if so, if they used an alternative method to determine the source of this compensation.
+
+L. The taxpayer is asked to provide information on income exempt from tax under a U.S. income tax treaty with a foreign country.
+
+M. The taxpayer is asked to check a box if they are making an election to treat income from real property located in the United States as effectively connected with a U.S. trade or business under section 871(d) of the tax code.
+
+The form also includes instructions and a notice regarding the Paperwork Reduction Act.
+
+This summary provides an overview of the information requested on Schedule OI (Form 1040-NR). Taxpayers should refer to the official instructions and consult with a tax professional for guidance on completing the form accurately.

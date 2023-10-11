@@ -1,0 +1,13 @@
+Form 8379 is an Internal Revenue Service (IRS) document titled "Injured Spouse Allocation." The form is used to allocate a joint overpayment on a tax return to the injured spouse when the IRS uses the overpayment to pay the legally enforceable past-due debts of the other spouse. 
+
+The form consists of several parts. 
+
+Part I determines whether the filer should file the form. It asks if a joint return was filed, if the IRS used the joint overpayment to pay past-due debts, and if the filer is legally obligated to pay the past-due amount. If the filer is not an injured spouse, they are instructed not to file the form. 
+
+Part II collects information about the joint return for which the form is filed, including the names and social security numbers of both spouses, and whether the injured spouse wants the refund issued in both names or separately. 
+
+Part III is for the allocation of items on the joint return between the spouses, such as income, adjustments to income, deductions, credits, taxes withheld, and payments. 
+
+Part IV is for the signature of the injured spouse, and if the form is filed separately from the tax return, it includes a declaration of preparer and their information. 
+
+The form also includes instructions and a separate section for a foreign address if applicable.

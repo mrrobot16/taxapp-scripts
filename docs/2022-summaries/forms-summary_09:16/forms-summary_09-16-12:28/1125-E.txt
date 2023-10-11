@@ -1,0 +1,7 @@
+Form 1125-E is a document provided by the Internal Revenue Service (IRS) that must be attached to certain tax forms (1120, 1120-C, 1120-F, 1120-REIT, 1120-RIC, or 1120S) if the total receipts of the business are $500,000 or more. The purpose of this form is to report the compensation of officers of the business. 
+
+The form requires the name, employer identification number, and social security number of the officer. It also asks for the percentage of time the officer devotes to the business and the percentage of stock they own. Finally, the form requires the amount of compensation received by each officer.
+
+The form provides space for multiple officers, with columns for their names, social security numbers, time devoted to the business, percentage of stock owned, and amount of compensation. The total compensation of all officers is calculated and reported on line 2. Any compensation already claimed on Form 1125-A or elsewhere on the tax return is subtracted from the total compensation to arrive at the final compensation amount to be reported on Form 1120 or the appropriate line of the tax return.
+
+The form includes an OMB number for record-keeping purposes and a reference to the IRS website for additional information and instructions. It also includes a notice about the Paperwork Reduction Act.

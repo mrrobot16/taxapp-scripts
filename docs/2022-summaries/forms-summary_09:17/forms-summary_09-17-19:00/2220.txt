@@ -1,0 +1,13 @@
+Form 2220 is a document provided by the Internal Revenue Service (IRS) for corporations to calculate and report any underpayment of estimated tax. The form is to be attached to the corporation's tax return. In most cases, the IRS will calculate and bill any penalty owed for underpayment, so corporations are not required to file Form 2220. However, corporations can still use the form to calculate the penalty themselves if desired.
+
+The form is divided into several parts. Part I requires the corporation to determine the required annual payment by calculating the total tax, personal holding company tax, look-back interest, and credits for federal tax paid on fuels. The result is subtracted from the total tax to determine if the corporation owes a penalty.
+
+Part II provides checkboxes for corporations to indicate the reasons for filing Form 2220, even if no penalty is owed. These reasons include using the adjusted seasonal installment method, annualized income installment method, or being a large corporation figuring its first required installment based on the prior year's tax.
+
+Part III helps corporations figure out the underpayment by providing installment due dates and required installments based on either the adjusted seasonal installment method or annualized income installment method.
+
+Part IV is used to calculate the penalty for underpayment based on the due dates and amounts of the installments. The form provides a table to determine the number of days between the due date and the date of payment, and the corresponding penalty interest rate. The penalty is calculated for each installment period and added up to determine the total penalty.
+
+The form also includes Schedule A, which provides instructions for using the adjusted seasonal installment method and annualized income installment method.
+
+Overall, Form 2220 is used by corporations to calculate and report any underpayment of estimated tax and the corresponding penalty, if applicable.

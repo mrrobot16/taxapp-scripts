@@ -1,0 +1,13 @@
+Form 8904 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Credit for Oil and Gas Production From Marginal Wells. This form is to be attached to the taxpayer's tax return.
+
+The form consists of several lines for the taxpayer to enter their qualified natural gas production and the credit amount for that production. Line 1 is for the taxpayer to enter the qualified natural gas production in thousands of cubic feet. Line 2 is for the taxpayer to enter the credit amount, which is set at $0.51 for tax years beginning in 2017.
+
+Line 3 instructs the taxpayer to multiply the amount entered on line 1 by the amount entered on line 2 to calculate the credit amount.
+
+Lines 4, 5, and 6 are reserved for future use and do not require any input from the taxpayer.
+
+Line 7 is specifically for partnerships and S corporations to report the credit for oil and gas production from marginal wells. The instructions provide further details on how partnerships and S corporations should calculate and report this credit.
+
+Line 8 instructs the taxpayer to add the amounts from lines 3 and 7 to calculate the current year credit. Partnerships and S corporations should report this amount on Schedule K, while all other taxpayers should report it on the appropriate line of Form 3800.
+
+The form also includes a section for the taxpayer's name and identifying number, as well as a notice regarding the Paperwork Reduction Act.

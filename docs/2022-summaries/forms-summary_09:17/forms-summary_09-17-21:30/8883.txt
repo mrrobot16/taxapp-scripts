@@ -1,0 +1,19 @@
+Form 8883 is an Asset Allocation Statement that must be attached to an individual or business income tax return in the United States. It is used when a transaction has occurred under Section 338 of the Internal Revenue Code. 
+
+The form is divided into six parts:
+
+Part I: Filers Identifying Information - This section requires the filer's name, identifying number, and whether a valid and timely Form 8023 was filed.
+
+Part II: Other Party's Identifying Information - This section requires the name, identifying number, and address of the other party involved in the transaction.
+
+Part III: Target Corporation's Identifying Information - This section requires the name, address, and employer identification number of the target corporation.
+
+Part IV: General Information - This section includes information about the acquisition date, percentage of target corporation stock purchased, stock price, acquisition costs, and target liabilities.
+
+Part V: Original Statement of Assets Transferred - This section requires the fair market value and allocation of assets transferred in the transaction.
+
+Part VI: Supplemental Statement of Assets Transferred - This section is used if there is an increase or decrease in the allocation of assets transferred. It requires the tax year, tax return form number, previously reported allocation, and the redetermined allocation.
+
+The form also includes questions regarding the filer's affiliation with an affiliated group of corporations, the target corporation's affiliation with an affiliated group, and whether the target corporation or any target affiliate is a controlled foreign corporation, a foreign corporation with income effectively connected with the US, a qualifying foreign target, a corporation electing under certain sections, a domestic international sales corporation, or a passive foreign investment company.
+
+The purpose of Form 8883 is to provide detailed information about the asset allocation in a transaction under Section 338 for tax reporting purposes.

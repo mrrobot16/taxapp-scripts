@@ -1,0 +1,946 @@
+Form   1042-S
+Department of the Treasury 
+Internal Revenue Service
+Foreign Person’s U.S. Source Income Subject to Withholding
+▶ Go to www.irs.gov/Form1042S for instructions and the latest information. 2021
+UNIQUE FORM IDENTIFIER
+AMENDED
+AMENDMENT NO.
+OMB No. 1545-0096
+Copy A for  
+Internal Revenue Service
+1 Income 
+code
+2  Gross income 3   Chapter indicator.  Enter “3” or “4”
+3a Exemption code
+3b Tax rate
+.
+4a Exemption code
+4b Tax rate
+.
+5  Withholding allowance
+6  Net income
+7a  Federal tax withheld
+7b  Check if federal tax withheld was not deposited with the IRS because 
+ escrow procedures were applied (see instructions) .
+.
+.
+.
+.
+.
+7c  Check if withholding occurred in subsequent year with respect to a 
+ partnership interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8  Tax withheld by other agents 
+9  Overwithheld tax repaid to recipient pursuant to adjustment procedures (see instructions)
+(                                                                                                    )
+10  Total withholding credit (combine boxes 7a, 8, and 9)
+11  Tax paid by withholding agent (amounts not withheld) (see instructions)
+12a  Withholding agent’s EIN
+12b  Ch. 3 status code
+12c  Ch. 4 status code
+12d  Withholding agent’s name
+12e  Withholding agent’s Global Intermediary Identification Number (GIIN)
+12f  Country code
+12g  Foreign tax identification number, if any
+12h  Address (number and street)
+12i  City or town, state or province, country, ZIP or foreign postal code
+13a  Recipient’s name
+13b  Recipient’s country code
+13c  Address (number and street)
+13d  City or town, state or province, country, ZIP or foreign postal code
+13e  Recipient’s U.S. TIN, if any
+13f  Ch. 3 status code
+13g Ch. 4 status code
+13h  Recipient’s GIIN 
+13i  Recipient’s foreign tax identification 
+number, if any
+13j  LOB code 
+13k  Recipient’s account number
+13l  Recipient’s date of birth (YYYYMMDD)
+14a  Primary Withholding Agent’s Name (if applicable)
+14b  Primary Withholding Agent’s EIN
+15  Check if pro-rata basis reporting 
+15a  Intermediary or flow-through entity’s EIN, if any
+15b Ch. 3 status code 15c Ch. 4 status code
+15d  Intermediary or flow-through entity’s name
+15e  Intermediary or flow-through entity’s GIIN
+15f  Country code
+15g  Foreign tax identification number, if any
+15h  Address (number and street)
+15i  City or town, state or province, country, ZIP or foreign postal code
+16a  Payer’s name 
+16b  Payer’s TIN
+16c  Payer’s GIIN
+16d Ch. 3 status code
+16e Ch. 4 status code
+17a  State income tax withheld
+17b  Payer’s state tax no.
+17c  Name of state
+For Privacy Act and Paperwork Reduction Act Notice, see instructions.
+Cat. No. 11386R
+Form 1042-S (2021)
+Form   1042-S
+Department of the Treasury 
+Internal Revenue Service
+Foreign Person’s U.S. Source Income Subject to Withholding
+▶ Go to www.irs.gov/Form1042S for instructions and the latest information. 2021
+UNIQUE FORM IDENTIFIER
+AMENDED
+AMENDMENT NO.
+OMB No. 1545-0096
+Copy B   
+for Recipient
+1 Income 
+code
+2  Gross income 3   Chapter indicator.  Enter “3” or “4”
+3a Exemption code
+3b Tax rate
+.
+4a Exemption code
+4b Tax rate
+.
+5  Withholding allowance
+6  Net income
+7a  Federal tax withheld
+7b  Check if federal tax withheld was not deposited with the IRS because 
+ escrow procedures were applied (see instructions) .
+.
+.
+.
+.
+.
+7c  Check if withholding occurred in subsequent year with respect to a 
+ partnership interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8  Tax withheld by other agents 
+9  Overwithheld tax repaid to recipient pursuant to adjustment procedures (see instructions)
+(                                                                                                    )
+10  Total withholding credit (combine boxes 7a, 8, and 9)
+11  Tax paid by withholding agent (amounts not withheld) (see instructions)
+12a  Withholding agent’s EIN
+12b  Ch. 3 status code
+12c  Ch. 4 status code
+12d  Withholding agent’s name
+12e  Withholding agent’s Global Intermediary Identification Number (GIIN)
+12f  Country code
+12g  Foreign tax identification number, if any
+12h  Address (number and street)
+12i  City or town, state or province, country, ZIP or foreign postal code
+13a  Recipient’s name
+13b  Recipient’s country code
+13c  Address (number and street)
+13d  City or town, state or province, country, ZIP or foreign postal code
+13e  Recipient’s U.S. TIN, if any
+13f  Ch. 3 status code
+13g Ch. 4 status code
+13h  Recipient’s GIIN 
+13i  Recipient’s foreign tax identification 
+number, if any
+13j  LOB code 
+13k  Recipient’s account number
+13l  Recipient’s date of birth (YYYYMMDD)
+14a  Primary Withholding Agent’s Name (if applicable)
+14b  Primary Withholding Agent’s EIN
+15  Check if pro-rata basis reporting 
+15a  Intermediary or flow-through entity’s EIN, if any
+15b Ch. 3 status code 15c Ch. 4 status code
+15d  Intermediary or flow-through entity’s name
+15e  Intermediary or flow-through entity’s GIIN
+15f  Country code
+15g  Foreign tax identification number, if any
+15h  Address (number and street)
+15i  City or town, state or province, country, ZIP or foreign postal code
+16a  Payer’s name 
+16b  Payer’s TIN
+16c  Payer’s GIIN
+16d Ch. 3 status code
+16e Ch. 4 status code
+17a  State income tax withheld
+17b  Payer’s state tax no.
+17c  Name of state
+(keep for your records)
+Form 1042-S (2021)
+U.S. Income Tax Filing Requirements
+Generally, every nonresident alien individual, nonresident alien 
+fiduciary, and foreign corporation with U.S. income, including income 
+that is effectively connected with the conduct of a trade or business in 
+the United States, must file a U.S. income tax return. However, no 
+return is required to be filed by a nonresident alien individual, 
+nonresident alien fiduciary, or foreign corporation if such person was 
+not engaged in a trade or business in the United States at any time 
+during the tax year and if the tax liability of such person was fully 
+satisfied by the withholding of U.S. tax at the source. Corporations file 
+Form 1120-F; all others file Form 1040-NR. You may get the return 
+forms and instructions at IRS.gov, at any U.S. Embassy or consulate, 
+or by writing to: Internal Revenue Service, 1201 N. Mitsubishi 
+Motorway, Bloomington, IL 61705-6613.
+En règle générale, tout étranger non-résident, tout organisme 
+fidéicommissaire étranger non-résident et toute société étrangère 
+percevant un revenu aux Etats-Unis, y compris tout revenu dérivé, en 
+fait, du fonctionnement d’un commerce ou d’une affaire aux Etats-
+Unis, doit produire une déclaration d’impôt sur le revenu auprès des 
+services fiscaux des Etats-Unis. Cependant aucune déclaration 
+d’impôt sur le revenu n’est exigée d’un étranger non-résident, d’un 
+organisme fidéicommissaire étranger non-résident, ou d’une société 
+étrangère s’ils n’ont pris part à aucun commerce ou affaire aux Etats-
+Unis à aucun moment pendant l’année fiscale et si les impôts dont ils 
+sont redevables, ont été entièrement acquittés par une retenue à la 
+source sur leur salaire. Les sociétés doivent faire leur déclaration 
+d’impôt en remplissant le formulaire 1120-F; tous les autres 
+redevables doivent remplir le formulaire 1040-NR. On peut se procurer 
+les formulaires de déclarations d’impôts et les instructions y afférentes 
+à IRS.gov et dans toutes les ambassades et tous les consulats des 
+Etats-Unis. L’on peut également s’adresser pour tout renseignement 
+à: Internal Revenue Service, 1201 N. Mitsubishi Motorway, 
+Bloomington, IL 61705-6613.
+Por regla general, todo extranjero no residente, todo organismo 
+fideicomisario extranjero no residente y toda sociedad anónima 
+extranjera que reciba ingresos en los Estados Unidos, incluyendo 
+ingresos relacionados con la conducción de un negocio o comercio 
+dentro de los Estados Unidos, deberá presentar una declaración 
+estadounidense de impuestos sobre el ingreso. Sin embargo, no se 
+requiere declaración alguna a un individuo extranjero, una sociedad 
+anónima extranjera u organismo fideicomisario extranjero no 
+residente, si tal persona no ha efectuado comercio o negocio en los 
+Estados Unidos durante el año fiscal y si la responsabilidad con los 
+impuestos de tal persona ha sido satisfecha plenamente mediante 
+retención del impuesto de los Estados Unidos en la fuente. Las 
+sociedades anónimas envían el Formulario 1120-F; todos los demás 
+contribuyentes envían el Formulario 1040-NR. Se podrá obtener 
+formularios e instrucciones en IRS.gov y en cualquier Embajada o 
+Consulado de los Estados Unidos o escribiendo directamente a: 
+Internal Revenue Service, 1201 N. Mitsubishi Motorway, Bloomington, 
+IL 61705-6613.
+Im allgemeinen muss jede ausländische Einzelperson, jeder 
+ausländische Bevollmächtigte und jede ausländische Gesellschaft mit 
+Einkommen in den Vereinigten Staaten, einschliesslich des 
+Einkommens, welches direkt mit der Ausübung von Handel oder 
+Gewerbe innerhalb der Staaten verbunden ist, eine 
+Einkommensteuererklärung der Vereinigten Staaten abgeben. Eine 
+Erklärung, muss jedoch nicht von Ausländern, ausländischen 
+Bevollmächtigten oder ausländischen Gesellschaften in den 
+Vereinigten Staaten eingereicht werden, falls eine solche Person 
+während des Steuerjahres kein Gewerbe oder Handel in den 
+Vereinigten Staaten ausgeübt hat und die Steuerschuld durch 
+Einbehaltung der Steuern der Vereinigten Staaten durch die 
+Einkommensquelle abgegolten ist. Gesellschaften reichen den 
+Vordruck 1120-F ein; alle anderen reichen das Formblatt 1040-NR ein. 
+Einkommensteuererklärungen und Instruktionen können unter IRS.gov 
+und bei den Botschaften und Konsulaten der Vereinigten Staaten 
+eingeholt werden. Um weitere Informationen wende man sich bitte an: 
+Internal Revenue Service, 1201 N. Mitsubishi Motorway,  
+Bloomington, IL 61705-6613.
+Explanation of Codes
+Box 1. Income Code.
+Code
+Types of Income
+Interest
+01
+Interest paid by U.S. obligors—general
+02
+Interest paid on real property mortgages
+03
+Interest paid to controlling foreign corporations
+04
+Interest paid by foreign corporations
+05
+Interest on tax-free covenant bonds
+22 
+Interest paid on deposit with a foreign branch of a domestic 
+corporation or partnership 
+29
+Deposit interest
+30
+Original issue discount (OID)
+31
+Short-term OID
+33
+Substitute payment—interest
+51 
+Interest paid on certain actively traded or publicly offered 
+securities1
+54 
+Substitute payments—interest from certain actively traded 
+or publicly offered securities1
+Dividend
+06
+Dividends paid by U.S. corporations—general
+07
+Dividends qualifying for direct dividend rate
+08
+Dividends paid by foreign corporations
+Dividend
+34
+Substitute payment—dividends
+40 
+Other dividend equivalents under IRC section 871(m) 
+(formerly 871(l))
+52 
+Dividends paid on certain actively traded or publicly offered 
+securities1
+53 
+Substitute payments-dividends from certain actively traded or 
+publicly offered securities1
+Other
+09
+Capital gains
+10
+Industrial royalties
+11
+Motion picture or television copyright royalties
+12 
+Other royalties (for example, copyright, software, 
+broadcasting, endorsement payments)
+13
+Royalties paid on certain publicly offered securities1
+14
+Real property income and natural resources royalties
+15
+Pensions, annuities, alimony, and/or insurance premiums
+16
+Scholarship or fellowship grants
+17
+Compensation for independent personal services2
+18
+Compensation for dependent personal services2
+19
+Compensation for teaching2
+See back of Copy C for additional codes
+1 This code should only be used if the income paid is described in Regulations section 1.1441-6(c)(2) and the withholding agent has reduced the rate of withholding under an 
+income tax treaty without the recipient providing a U.S. or foreign TIN.
+2 If compensation that otherwise would be covered under Income Codes 17 through 20 is directly attributable to the recipient’s occupation as an artist or athlete, use 
+Income Code 42 or 43 instead.
+Form   1042-S
+Department of the Treasury 
+Internal Revenue Service
+Foreign Person’s U.S. Source Income Subject to Withholding
+▶ Go to www.irs.gov/Form1042S for instructions and the latest information. 2021
+UNIQUE FORM IDENTIFIER
+AMENDED
+AMENDMENT NO.
+OMB No. 1545-0096
+Copy C for Recipient 
+Attach to any Federal tax return you file
+1 Income 
+code
+2  Gross income 3   Chapter indicator.  Enter “3” or “4”
+3a Exemption code
+3b Tax rate
+.
+4a Exemption code
+4b Tax rate
+.
+5  Withholding allowance
+6  Net income
+7a  Federal tax withheld
+7b  Check if federal tax withheld was not deposited with the IRS because 
+ escrow procedures were applied (see instructions) .
+.
+.
+.
+.
+.
+7c  Check if withholding occurred in subsequent year with respect to a 
+ partnership interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8  Tax withheld by other agents 
+9  Overwithheld tax repaid to recipient pursuant to adjustment procedures (see instructions)
+(                                                                                                    )
+10  Total withholding credit (combine boxes 7a, 8, and 9)
+11  Tax paid by withholding agent (amounts not withheld) (see instructions)
+12a  Withholding agent’s EIN
+12b  Ch. 3 status code
+12c  Ch. 4 status code
+12d  Withholding agent’s name
+12e  Withholding agent’s Global Intermediary Identification Number (GIIN)
+12f  Country code
+12g  Foreign tax identification number, if any
+12h  Address (number and street)
+12i  City or town, state or province, country, ZIP or foreign postal code
+13a  Recipient’s name
+13b  Recipient’s country code
+13c  Address (number and street)
+13d  City or town, state or province, country, ZIP or foreign postal code
+13e  Recipient’s U.S. TIN, if any
+13f  Ch. 3 status code
+13g Ch. 4 status code
+13h  Recipient’s GIIN 
+13i  Recipient’s foreign tax identification 
+number, if any
+13j  LOB code 
+13k  Recipient’s account number
+13l  Recipient’s date of birth (YYYYMMDD)
+14a  Primary Withholding Agent’s Name (if applicable)
+14b  Primary Withholding Agent’s EIN
+15  Check if pro-rata basis reporting 
+15a  Intermediary or flow-through entity’s EIN, if any
+15b Ch. 3 status code 15c Ch. 4 status code
+15d  Intermediary or flow-through entity’s name
+15e  Intermediary or flow-through entity’s GIIN
+15f  Country code
+15g  Foreign tax identification number, if any
+15h  Address (number and street)
+15i  City or town, state or province, country, ZIP or foreign postal code
+16a  Payer’s name 
+16b  Payer’s TIN
+16c  Payer’s GIIN
+16d Ch. 3 status code
+16e Ch. 4 status code
+17a  State income tax withheld
+17b  Payer’s state tax no.
+17c  Name of state
+Form 1042-S (2021)
+Explanation of Codes (continued)
+Other
+20
+Compensation during studying and training2
+23
+Other income
+24 
+Qualified investment entity (QIE) distributions of capital 
+gains
+25
+Trust distributions subject to IRC section 1445
+26 
+Unsevered growing crops and timber distributions by a trust 
+subject to IRC section 1445
+27 
+Publicly traded partnership distributions subject to IRC 
+section 1446
+28
+Gambling winnings3
+32
+Notional principal contract income4
+35
+Substitute payment—other
+36
+Capital gains distributions
+37
+Return of capital
+38 
+Eligible deferred compensation items subject to IRC section 
+877A(d)(1)
+39 
+Distributions from a nongrantor trust subject to IRC section 
+877A(f)(1)
+41
+Guarantee of indebtedness
+42 
+Earnings as an artist or athlete—no central withholding 
+agreement5
+43 
+Earnings as an artist or athlete—central withholding 
+agreement5
+44
+Specified federal procurement payments
+50 
+Income previously reported under escrow procedure6
+55 
+Taxable death benefits on life insurance contracts
+Boxes 3a and 4a. Exemption Code (applies if the tax rate entered 
+in box 3b or 4b is 00.00).
+Code
+Authority for Exemption 
+Chapter 3
+01
+Effectively connected income
+02
+Exempt under IRC7
+03
+Income is not from U.S. sources
+04
+Exempt under tax treaty
+05
+Portfolio interest exempt under IRC
+06
+QI that assumes primary withholding responsibility
+07
+WFP or WFT
+08
+U.S. branch treated as U.S. Person
+09
+Territory FI treated as U.S. Person
+10
+QI represents that income is exempt
+11
+QSL that assumes primary withholding responsibility
+12
+Payee subjected to chapter 4 withholding
+22
+QDD that assumes primary withholding responsibility
+23
+Exempt under section 897(l)
+24
+Chapter 4
+13
+Grandfathered payment
+14
+Effectively connected income
+15
+Payee not subject to chapter 4 withholding
+16
+Excluded nonfinancial payment
+17 
+Foreign Entity that assumes primary withholding 
+responsibility
+18 
+U.S. Payees—of participating FFI or registered deemed-
+compliant FFI
+19 
+Exempt from withholding under IGA8
+20 
+Dormant account9
+21 
+Other—payment not subject to chapter 4 withholding
+Boxes 12b, 12c, 13f, 13g, 15b, 15c, 16d, and 16e.  Withholding 
+Agent, Recipient, Intermediary, and Payer Chapter 3 and Chapter 
+4 Status Codes.
+Type of Recipient, Withholding Agent, Payer, or Intermediary
+Code
+Chapter 3  Status Codes
+03
+Territory FI—treated as U.S. Person
+04
+Territory FI—not treated as U.S. Person
+05
+U.S. branch—treated as U.S. Person
+06
+U.S. branch—not treated as U.S. Person
+07
+U.S. branch—ECI presumption applied
+08
+Partnership other than Withholding Foreign Partnership
+09
+Withholding Foreign Partnership
+See back of Copy D for additional codes
+2 If compensation that otherwise would be covered under Income Codes 17 through 20 is directly attributable to the recipient’s occupation as an artist or athlete, use 
+Income Code 42 or 43 instead.
+3 Subject to 30% withholding rate unless the recipient is from one of the treaty countries listed under Gambling winnings (Income Code 28) in Pub. 515.
+4 Use appropriate Interest Income Code for embedded interest in a notional principal contract.
+5 Income Code 43 should only be used if Letter 4492, Venue Notification, has been issued by the Internal Revenue Service (otherwise, use Income Code 42 for earnings 
+as an artist or athlete). If Income Code 42 or 43 is used, Recipient Code 22 (artist or athlete) should be used instead of Recipient Code 16 (individual), 15 (corporation), 
+or 08 (partnership other than withholding foreign partnership).
+6 Use only to report gross income the tax for which is being deposited in the current year because such tax was previously escrowed for chapters 3 and 4 and the 
+withholding agent previously reported the gross income in a prior year and checked the box to report the tax as not deposited under the escrow procedure. See the 
+instructions to this form for further explanation.
+7 This code should only be used if no other specific chapter 3 exemption code applies. 
+8 Use only to report a U.S. reportable account or nonconsenting U.S. account that is receiving a payment subject to chapter 3 withholding. 
+9 Use only if applying the escrow procedure for dormant accounts under Regulations section 1.1471-4(b)(6). If tax was withheld and deposited under chapter 3, do not 
+check box 7b (“tax not deposited with IRS pursuant to escrow procedure”). You must instead enter “3” in box 3 and complete box 3b.
+Exempt under section 892
+Form   1042-S
+Department of the Treasury 
+Internal Revenue Service
+Foreign Person’s U.S. Source Income Subject to Withholding
+▶ Go to www.irs.gov/Form1042S for instructions and the latest information. 2021
+UNIQUE FORM IDENTIFIER
+AMENDED
+AMENDMENT NO.
+OMB No. 1545-0096
+Copy D for Recipient 
+Attach to any state tax return you file
+1 Income 
+code
+2  Gross income 3   Chapter indicator.  Enter “3” or “4”
+3a Exemption code
+3b Tax rate
+.
+4a Exemption code
+4b Tax rate
+.
+5  Withholding allowance
+6  Net income
+7a  Federal tax withheld
+7b  Check if federal tax withheld was not deposited with the IRS because 
+ escrow procedures were applied (see instructions) .
+.
+.
+.
+.
+.
+7c  Check if withholding occurred in subsequent year with respect to a 
+ partnership interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8  Tax withheld by other agents 
+9  Overwithheld tax repaid to recipient pursuant to adjustment procedures (see instructions)
+(                                                                                                    )
+10  Total withholding credit (combine boxes 7a, 8, and 9)
+11  Tax paid by withholding agent (amounts not withheld) (see instructions)
+12a  Withholding agent’s EIN
+12b  Ch. 3 status code
+12c  Ch. 4 status code
+12d  Withholding agent’s name
+12e  Withholding agent’s Global Intermediary Identification Number (GIIN)
+12f  Country code
+12g  Foreign tax identification number, if any
+12h  Address (number and street)
+12i  City or town, state or province, country, ZIP or foreign postal code
+13a  Recipient’s name
+13b  Recipient’s country code
+13c  Address (number and street)
+13d  City or town, state or province, country, ZIP or foreign postal code
+13e  Recipient’s U.S. TIN, if any
+13f  Ch. 3 status code
+13g Ch. 4 status code
+13h  Recipient’s GIIN 
+13i  Recipient’s foreign tax identification 
+number, if any
+13j  LOB code 
+13k  Recipient’s account number
+13l  Recipient’s date of birth (YYYYMMDD)
+14a  Primary Withholding Agent’s Name (if applicable)
+14b  Primary Withholding Agent’s EIN
+15  Check if pro-rata basis reporting 
+15a  Intermediary or flow-through entity’s EIN, if any
+15b Ch. 3 status code 15c Ch. 4 status code
+15d  Intermediary or flow-through entity’s name
+15e  Intermediary or flow-through entity’s GIIN
+15f  Country code
+15g  Foreign tax identification number, if any
+15h  Address (number and street)
+15i  City or town, state or province, country, ZIP or foreign postal code
+16a  Payer’s name 
+16b  Payer’s TIN
+16c  Payer’s GIIN
+16d Ch. 3 status code
+16e Ch. 4 status code
+17a  State income tax withheld
+17b  Payer’s state tax no.
+17c  Name of state
+Form 1042-S (2021)
+Explanation of Codes (continued)
+10
+Trust other than Withholding Foreign Trust
+11
+Withholding Foreign Trust
+12
+Qualified Intermediary
+13
+Qualified Securities Lender—Qualified Intermediary
+14
+Qualified Securities Lender—Other
+15
+Corporation
+16
+Individual
+17
+Estate
+18
+Private Foundation
+19
+International Organization
+20
+Tax Exempt Organization (Section 501(c) entities)
+21
+Unknown Recipient
+22
+Artist or Athlete
+23
+Pension
+24
+Foreign Central Bank of Issue
+25
+Nonqualified Intermediary
+26
+Hybrid entity making Treaty Claim
+35
+Qualified Derivatives Dealer
+36
+Foreign Government—Integral Part
+37
+Foreign Government—Controlled Entity
+ Pooled Reporting Codes10
+27
+Withholding Rate Pool—General
+28
+Withholding Rate Pool—Exempt Organization 
+29
+PAI Withholding Rate Pool—General
+30
+PAI Withholding Rate Pool—Exempt Organization
+31
+Agency Withholding Rate Pool—General
+32
+Agency Withholding Rate Pool—Exempt Organization
+Chapter 4 Status Codes
+01
+U.S. Withholding Agent—FI
+02
+U.S. Withholding Agent—Other
+03
+Territory FI—not treated as U.S. Person
+04
+Territory FI—treated as U.S. Person
+05
+Participating  FFI—Other
+06
+Participating  FFI—Reporting Model 2 FFI
+07
+Registered Deemed-Compliant FFI—Reporting Model 1 FFI
+08
+Registered Deemed-Compliant FFI—Sponsored Entity
+09
+Registered Deemed-Compliant FFI—Other
+10
+Certified Deemed-Compliant FFI—Other
+11 
+Certified Deemed-Compliant FFI—FFI with Low Value 
+Accounts
+12 
+Certified Deemed-Compliant FFI—Nonregistering Local 
+Bank
+13
+Certified Deemed-Compliant FFI—Sponsored Entity
+14 
+Certified Deemed-Compliant FFI—Investment Entity that 
+does not maintain financial accounts
+15
+Nonparticipating FFI
+16
+Owner-Documented FFI
+17
+U.S. Branch—treated as U.S. person
+18 
+U.S. Branch—not treated as U.S. person (reporting under 
+section 1471)
+19
+Passive NFFE identifying Substantial U.S. Owners
+20
+Passive NFFE with no Substantial U.S. Owners
+21
+Publicly Traded NFFE or Affiliate of Publicly Traded NFFE
+22
+Active NFFE
+23
+Individual
+24
+Section 501(c) Entities
+25
+Excepted Territory NFFE
+26
+Excepted NFFE—Other
+27
+Exempt Beneficial Owner
+28
+Entity Wholly Owned by Exempt Beneficial Owners
+29
+Unknown Recipient
+30
+Recalcitrant Account Holder
+31
+Nonreporting IGA FFI
+32
+Direct reporting NFFE
+33
+U.S. reportable account
+34
+Nonconsenting U.S. account
+35
+Sponsored direct reporting NFFE
+36
+Excepted Inter-affiliate FFI
+37
+Undocumented Preexisting Obligation
+38
+U.S. Branch—ECI presumption applied
+39
+Account Holder of Excluded Financial Account11
+40
+Passive NFFE reported by FFI12
+41
+NFFE subject to 1472 withholding
+50
+U.S. Withholding Agent—Foreign branch of FI
+ Pooled Reporting Codes
+42
+Recalcitrant Pool—No U.S. Indicia
+43
+Recalcitrant Pool—U.S. Indicia
+44
+Recalcitrant Pool—Dormant Account
+45
+Recalcitrant Pool—U.S. Persons
+46
+Recalcitrant Pool—Passive NFFEs
+47
+Nonparticipating FFI Pool
+48
+U.S. Payees Pool
+49
+QI-Recalcitrant Pool—GeneraI13
+Box 13j. LOB Code (enter the code that best describes the 
+applicable limitation on benefits (LOB) category that qualifies the 
+taxpayer for the requested treaty benefits).
+LOB Code
+LOB Treaty Category
+02 
+Government – contracting state/political subdivision/local 
+authority
+03
+Tax exempt pension trust/Pension fund
+04
+Tax exempt/Charitable organization
+05
+Publicly traded corporation
+06
+Subsidiary of publicly traded corporation
+07
+Company that meets the ownership and base erosion test
+08
+Company that meets the derivative benefits test
+09 
+Company with an item of income that meets the active trade 
+or business test
+10
+Discretionary determination
+11
+Other
+10 Codes 27 through 32 should only be used by a QI, QSL, WP, or WT.  A QI acting as a QDD may use code 27 or 28.
+11 This code should only be used if income is paid to an account that is excluded from the definition of financial account under Regulations section 1.1471-5(b)(2) or 
+under Annex II of the applicable Model 1 IGA or Model 2 IGA.
+12 This code should only be used when the withholding agent has received a certification on the FFI withholding statement of a participating FFI or registered deemed-
+compliant FFI that maintains the account that the FFI has reported the account held by the passive NFFE as a U.S. account (or U.S. reportable account) under its 
+FATCA requirements. The withholding agent must report the name and GIIN of such FFI in boxes 15d and 15e.
+13 This code should only be used by a withholding agent that is reporting a payment (or portion of a payment) made to a QI with respect to the QI’s recalcitrant account holders.
+Form   1042-S
+Department of the Treasury 
+Internal Revenue Service
+Foreign Person’s U.S. Source Income Subject to Withholding
+▶ Go to www.irs.gov/Form1042S for instructions and the latest information. 2021
+UNIQUE FORM IDENTIFIER
+AMENDED
+AMENDMENT NO.
+OMB No. 1545-0096
+Copy E 
+for Withholding Agent
+1 Income 
+code
+2  Gross income 3   Chapter indicator.  Enter “3” or “4”
+3a Exemption code
+3b Tax rate
+.
+4a Exemption code
+4b Tax rate
+.
+5  Withholding allowance
+6  Net income
+7a  Federal tax withheld
+7b  Check if federal tax withheld was not deposited with the IRS because 
+ escrow procedures were applied (see instructions) .
+.
+.
+.
+.
+.
+7c  Check if withholding occurred in subsequent year with respect to a 
+ partnership interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8  Tax withheld by other agents 
+9  Overwithheld tax repaid to recipient pursuant to adjustment procedures (see instructions)
+(                                                                                                    )
+10  Total withholding credit (combine boxes 7a, 8, and 9)
+11  Tax paid by withholding agent (amounts not withheld) (see instructions)
+12a  Withholding agent’s EIN
+12b  Ch. 3 status code
+12c  Ch. 4 status code
+12d  Withholding agent’s name
+12e  Withholding agent’s Global Intermediary Identification Number (GIIN)
+12f  Country code
+12g  Foreign tax identification number, if any
+12h  Address (number and street)
+12i  City or town, state or province, country, ZIP or foreign postal code
+13a  Recipient’s name
+13b  Recipient’s country code
+13c  Address (number and street)
+13d  City or town, state or province, country, ZIP or foreign postal code
+13e  Recipient’s U.S. TIN, if any
+13f  Ch. 3 status code
+13g Ch. 4 status code
+13h  Recipient’s GIIN 
+13i  Recipient’s foreign tax identification 
+number, if any
+13j  LOB code 
+13k  Recipient’s account number
+13l  Recipient’s date of birth (YYYYMMDD)
+14a  Primary Withholding Agent’s Name (if applicable)
+14b  Primary Withholding Agent’s EIN
+15  Check if pro-rata basis reporting 
+15a  Intermediary or flow-through entity’s EIN, if any
+15b Ch. 3 status code 15c Ch. 4 status code
+15d  Intermediary or flow-through entity’s name
+15e  Intermediary or flow-through entity’s GIIN
+15f  Country code
+15g  Foreign tax identification number, if any
+15h  Address (number and street)
+15i  City or town, state or province, country, ZIP or foreign postal code
+16a  Payer’s name 
+16b  Payer’s TIN
+16c  Payer’s GIIN
+16d Ch. 3 status code
+16e Ch. 4 status code
+17a  State income tax withheld
+17b  Payer’s state tax no.
+17c  Name of state
+For Privacy Act and Paperwork Reduction Act Notice, see instructions.
+Form 1042-S (2021)

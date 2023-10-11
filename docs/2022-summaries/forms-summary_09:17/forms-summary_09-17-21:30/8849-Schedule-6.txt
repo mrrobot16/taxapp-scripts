@@ -1,0 +1,9 @@
+Schedule 6 (Form 8849) is a document provided by the Internal Revenue Service (IRS) that should be attached to Form 8849. It is used to report other claims for refunds or credits. The form requires the taxpayer to provide their name, Employer Identification Number (EIN) or Social Security Number (SSN), and the total refund amount. The taxpayer must also provide the earliest and latest dates of the events included in the claim.
+
+The form includes five lines for the taxpayer to enter the tax amount and a CRN (Claim Reference Number) for each claim. The taxpayer is also given space to provide an explanation for each tax claimed.
+
+If the taxpayer is making a claim under section 6416(b)(2) relating to certain uses and resales of certain articles subject to manufacturers or retailers taxes, they must certify that they sold the article at a tax-excluded price, repaid the tax amount to the ultimate vendor, or have obtained written consent from the ultimate vendor to make the claim. The taxpayer must also have the required supporting evidence for such claims.
+
+The form includes a notice for Privacy Act and Paperwork Reduction Act, and directs taxpayers to refer to the Form 8849 instructions for more information.
+
+This summary provides a brief overview of the Schedule 6 (Form 8849) document. For detailed instructions and further information, taxpayers are advised to visit the IRS website at www.irs.gov/form8849.

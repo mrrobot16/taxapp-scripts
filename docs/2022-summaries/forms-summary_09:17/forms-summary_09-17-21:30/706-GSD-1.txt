@@ -1,0 +1,5 @@
+This document is a notification form for a distribution from a generation-skipping trust. It is used by a trustee to report the distribution to the distributee and to the Internal Revenue Service (IRS). The skip person distributee must file Form 706-GS(D), Generation-Skipping Transfer Tax Return for Distributions, to report the distribution.
+
+The form includes general information about the trust and the distributee, as well as details about the distribution such as the date, description of property, value, and inclusion ratio. The form also includes sections for the trustee to provide information about the trust, such as whether any property has been contributed to the trust since the last filing and whether any exemption has been allocated to the trust.
+
+The form includes instructions for both the trustee and the distributee, including how to complete the form and what to do if there are errors. The distributee is instructed to attach a copy of each Form 706-GS(D-1) received during the year to their Form 706-GS(D) and to keep a copy for their records. If there are errors on the form, the distributee should notify the trustee and ask for a corrected form.

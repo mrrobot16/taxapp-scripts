@@ -1,0 +1,22 @@
+Form 8933 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Carbon Oxide Sequestration Credit. This form is used to report information about the capture, disposal, and utilization of qualified carbon oxide, as well as facilities that qualify for the credit.
+
+The form is divided into several parts:
+
+Part I: Information About You
+This section requires the taxpayer to provide their name, identifying number, and check the applicable box(es) that describe their activities related to carbon oxide capture and utilization.
+
+Part II: Facilities at Which Qualified Carbon Oxide Qualifies for a Credit
+This section is divided into three subsections (1, 2, and 3) that pertain to qualified carbon oxide captured using carbon capture equipment placed in service before February 9, 2018. The taxpayer must report the metric tons captured and disposed of or utilized, as well as the applicable credit rate and the resulting credit amount.
+
+Part III: Qualified Facilities Under Section 45Q(a)(3) or (4) for Which No Election Was Made
+This section is divided into two subsections (4 and 5) that pertain to qualified carbon oxide captured using carbon capture equipment placed in service on or after February 9, 2018. The taxpayer must report the metric tons captured and disposed of, the applicable dollar amount, and the resulting credit amount.
+
+Part IV: Qualified Direct Air Capture Facilities Under Section 45Q(d) Placed in Service After 2022
+This section is divided into three subsections (7, 8, and 9) that pertain to qualified carbon oxide captured using carbon capture equipment placed in service at a qualified direct air capture facility after 2022. The taxpayer must report the metric tons captured and disposed of or utilized, the applicable dollar amount, and the resulting credit amount.
+
+Part V: Other Information
+This section includes checkboxes for various elections under different sections of the tax code, as well as a section to report carbon oxide sequestration credits that another taxpayer elected to allow the taxpayer to claim. The taxpayer must provide information about the electing taxpayer, metric tons elected, credit rates, and the resulting credit amount. There is also a section to report carbon oxide sequestration credits from partnerships and S corporations.
+
+The form concludes with sections to calculate the total credit amount, report any recaptured credits, and provide any additional information.
+
+Taxpayers must attach this form to their tax return and refer to the instructions on the IRS website for more information and guidance.

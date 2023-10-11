@@ -1,0 +1,9 @@
+Form 1118 is a document used by corporations to calculate their foreign tax credit. The form is attached to the corporation's tax return and is used to report income, deductions, and taxes paid or accrued in foreign countries.
+
+The form consists of several schedules, including Schedule A, which reports the corporation's gross income or loss from sources outside the United States. Schedule B is used to report the foreign taxes paid or accrued by the corporation, while Schedule C is used to report the tax deemed paid with respect to section 951(a)(1) inclusions by a domestic corporation.
+
+Schedule D is used to report the tax deemed paid with respect to section 951A income, and Schedule E is used to report the tax deemed paid with respect to previously taxed earnings and profits (PTEP). Schedule F is reserved for future use.
+
+Schedule G is used to report reductions of taxes paid, accrued, or deemed paid, while Schedule H is used to apportion certain deductions. Schedule I is used to report high-taxed income, Schedule J is used to report the limitation on the foreign tax credit, and Schedule K is used to report the corporation's overall foreign loss and separate limitation loss.
+
+The form also includes instructions and information on how to complete each schedule. It is important for corporations to accurately complete Form 1118 in order to claim the appropriate foreign tax credit on their tax return.

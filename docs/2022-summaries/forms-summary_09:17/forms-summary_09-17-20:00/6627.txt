@@ -1,0 +1,436 @@
+Form  6627
+(Rev. January 2023) 
+Department of the Treasury  
+Internal Revenue Service 
+Environmental Taxes 
+Attach to Form 720.
+Go to www.irs.gov/Form6627 for instructions and the latest information.
+OMB No. 1545-0023
+Name (as shown on Form 720) 
+Quarter ending 
+Employer identification number (EIN) 
+Part I 
+Tax on Petroleum
+(a) 
+Barrels
+(b) 
+Rate
+(c) 
+Tax
+1
+Crude oil received at a U.S. refinery .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+2
+Crude oil taxed before receipt at refinery 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Taxable crude oil. Subtract line 2 from line 1. Enter the result on both 
+lines 3(a) and 3(b), column (a). Enter in column (c) the amount of tax by 
+multiplying column (a) by column (b) for both lines.                                 (a)
+$ .164 bbl $
+(b)
+$ .09 bbl
+$
+4
+Crude oil used in the U.S. before the tax was imposed. Multiply column 
+(a) by column (b) and enter the amount of tax in column (c). Enter on both 
+lines 4(a) and 4(b), column (a). Enter in column (c) the amount of tax by 
+multiplying column (a) by column (b) for both lines.                                 (a)
+$ .164 bbl $
+(b)
+$ .09 bbl
+$
+5 Total domestic petroleum superfund tax (add lines 3(a) and 4(a), column 
+(c)). Enter here and on Form 720 on the line for IRS No. 53  
+.
+.
+.
+.
+ 
+$
+6
+Total domestic petroleum oil spill tax. Add lines 3(b) and 4(b), column (c). 
+Enter the total here and on Form 720 on the line for IRS No. 18 .
+.
+.
+ 
+$
+7
+Imported petroleum products superfund tax. Enter the number of barrels 
+imported in column (a). (Must agree with line 8, column (a).) Enter in 
+column (c) the amount of tax by multiplying column (a) by column (b), and 
+also enter it on Form 720 on the line for IRS No. 16 .
+.
+.
+.
+.
+.
+.
+ 
+$ .164 bbl $
+8
+Imported petroleum products oil spill tax. Enter the number of barrels 
+imported in column (a). (Must agree with line 7, column (a).) Multiply 
+column (a) by column (b) and enter the amount of tax in column (c). Also 
+enter the amount on Form 720 on the line for IRS No. 21 .
+.
+.
+.
+.
+ 
+$ .09 bbl
+$
+Part II 
+Tax on Chemicals (Other Than Ozone-Depleting Chemicals (ODCs)), IRS No. 54
+Chemical 
+(general formula  
+or symbol)
+(a) Tons
+(b) Rate
+(c) Tax 
+(multiply column (a) 
+by column (b))
+1 Acetylene (C2H2)  
+$9.74
+2 Ammonia (NH3) .
+5.28
+3 Antimony (Sb) 
+.
+8.90
+4 Antimony trioxide 
+(Sb2O3) 
+.
+.
+.
+7.50
+5 Arsenic (As) .
+.
+8.90
+6 Arsenic trioxide 
+(As2O3) .
+.
+.
+.
+6.82
+7 Barium sulfide (BaS) 
+4.60
+8 Benzene (C6H6) .
+9.74
+9 Bromine (Br) .
+.
+8.90
+10 Butadiene (C4H6)  
+9.74
+11 Butane (C4H10) .
+9.74
+12 Butylene (C4H8) .
+9.74
+13 Cadmium (Cd) .
+8.90
+14 Chlorine (Cl) .
+.
+5.40
+15 Chromite (FeCr2O4)  
+3.04
+16 Chromium (Cr) .
+8.90
+17 Cobalt (Co) 
+.
+.
+8.90
+18 Cupric oxide (CuO)  
+7.18
+19 Cupric sulfate (CuSO4) 
+3.74
+20 Cuprous oxide (Cu2O) 
+7.94
+21 Ethylene (C2H4) .
+9.74
+22 Hydrochloric acid (HCI) 
+0.58
+23 Hydrogen fluoride (HF) 
+8.46
+Chemical 
+(general formula  
+or symbol)
+(a) Tons
+(b) Rate
+(c) Tax 
+(multiply column (a) 
+by column (b))
+24 Lead oxide (PbO)  
+$8.28
+25 Mercury (Hg) .
+.
+8.90
+26 Methane (CH4) 
+.
+6.88
+27 Naphthalene (C10H8) 
+9.74
+28 Nickel (Ni) .
+.
+.
+8.90
+29 Nitric acid (HNO3)  
+0.48
+30 Phosphorus (P) .
+8.90
+31 Potassium 
+dichromate (K2Cr2O7)
+3.38
+32 Potassium 
+hydroxide (KOH) .
+0.44
+33 Propylene (C3H6) .
+9.74
+34 Sodium dichromate 
+(NaCr2O7) .
+.
+.
+3.74
+35 Sodium hydroxide 
+(NaOH) .
+.
+.
+.
+0.56
+36 Stannic chloride 
+(SnCl4) .
+.
+.
+.
+4.24
+37 Stannous chloride 
+(SnCl2) .
+.
+.
+.
+5.70
+38 Sulfuric acid (H2SO4) 
+0.52
+39 Toluene (C7H8) 
+.
+9.74
+40 Xylene (C8H10) 
+.
+9.74
+41 Zinc chloride (ZnCl2) 
+4.44
+42 Zinc sulfate (ZnSO4) 
+3.80
+43
+Total Chemical Tax (add lines 1–42, column (c)). Enter here and on Form 720 on the line for IRS No. 54 
+$
+For Privacy Act and Paperwork Reduction Act Notice, see the Instructions for Form 720. 
+Cat. No. 43490I 
+Form 6627 (Rev. 1-2023) 
+Form 6627 (Rev. 1-2023) 
+Page 2
+Part III
+Tax on Imported Chemical Substances, IRS No. 17
+(a) Imported chemical 
+substance
+(b) Tons 
+(c) Taxable chemical  
+used in manufacture  
+of substance 
+(d) Conversion factor or 
+entry value
+(e) Rate
+(f) Tax  
+(see instructions) 
+1
+2
+3
+4 
+Total imported chemical substances tax. Add all amounts in column (f). Include amounts from any
+additional sheets. Enter here and on Form 720 on the line for IRS No. 17 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ $ 
+Part IV
+Tax on Ozone-Depleting Chemicals (ODCs), IRS No. 98 
+Elections. If you elect to report the tax on post-1989 ODCs at the time you sell or use a mixture containing such chemicals 
+instead of when you make the mixture, check this box (the 1990 election) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+If you elect to report the tax on post-1990 ODCs at the time you sell or use a mixture containing such chemicals instead of when 
+you make the mixture, check this box (the 1991 election)  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(a) ODC
+(b) Number  
+of pounds 
+(c) Tax per pound 
+(see Part IV instructions) 
+(d) Tax  
+(multiply column (b) 
+by column (c)) 
+1
+2
+3
+4 
+Total ozone-depleting chemicals tax. Add all amounts in column (d). Include amounts from any
+additional sheets. Enter the total here and on Form 720 on the line for IRS No. 98 .
+.
+.
+.
+.
+.
+.
+$ 
+Part V
+ODC Tax on Imported Products, IRS No. 19 
+Election. If you elect to report the tax on imported products at the time you import the products instead of when you sell or use 
+the products, check this box .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(a) Imported product and  
+the applicable ODC 
+(b) Number  
+of products 
+(c) ODC weight  
+of product 
+(d) Tax  
+per pound 
+(e) Entry value 
+(f) Tax 
+(see Part V instructions)
+1
+2
+3
+4 
+Total ODC tax on imported products. Add all amounts in column (f). Include amounts from any
+additional sheets. Enter the total here and on Form 720 on the line for IRS No. 19 .
+.
+.
+.
+.
+.
+.
+$ 
+Part VI
+Tax on Floor Stocks of ODCs, IRS No. 20 
+(a) ODC 
+(b) Number  
+of pounds 
+(c) Tax per pound 
+(see Part VI instructions) 
+(d) Tax  
+(multiply column (b) 
+by column (c)) 
+1
+2
+3
+4 
+Total floor stocks tax. Add all amounts in column (d). Include amounts from any additional sheets. 
+Enter the total here and on Form 720 on the line for IRS No. 20 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ $ 
+Form 6627 (Rev. 1-2023) 

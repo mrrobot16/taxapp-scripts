@@ -1,0 +1,7 @@
+Form 8886-T is a disclosure form required by the Internal Revenue Service (IRS) for tax-exempt entities to report prohibited tax shelter transactions. The form includes fields for the tax-exempt entity's name, employer identification number, and address. The entity must indicate its type from a list of options, such as a 501(c) organization, state or political subdivision, Indian tribal government, etc.
+
+The form also requires the entity to identify the type of prohibited tax shelter transaction by checking the applicable box(es) from a list of options. If the transaction is a listed transaction or substantially similar to a listed transaction, the entity must provide details about the listed transactions.
+
+Additionally, the form asks for the identity of other parties involved in the transaction, whether taxable or tax-exempt, if known. The entity must sign the form under penalty of perjury, declaring that the information provided is true, correct, and complete.
+
+The form includes a notice regarding the Paperwork Reduction Act and directs users to visit the IRS website for instructions and the latest information.

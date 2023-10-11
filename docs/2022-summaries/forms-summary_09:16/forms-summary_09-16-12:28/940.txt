@@ -1,0 +1,21 @@
+Form 940 is the Employers Annual Federal Unemployment (FUTA) Tax Return for the year 2022. The form is used by employers in the United States to report their FUTA tax liability and make payments to the Internal Revenue Service (IRS). 
+
+The form requires employers to provide their employer identification number (EIN), name, trade name (if any), address, and other identifying information. Employers must also indicate the type of return they are filing, such as an amended return, successor employer, or final return due to business closure or cessation of wage payments.
+
+The form is divided into several parts. Part 1 asks employers to provide information about their return, including whether they paid state unemployment tax in one or more states. If employers paid state unemployment tax in more than one state, they must complete Schedule A (Form 940).
+
+Part 2 is used to determine the FUTA tax before adjustments. Employers must report the total payments made to all employees, payments exempt from FUTA tax, and any payments made to individual employees in excess of $7,000. The subtotal of exempt payments and excess payments is then used to calculate the total taxable FUTA wages and the FUTA tax before adjustments.
+
+Part 3 is used to determine adjustments to the FUTA tax. Employers may be eligible for adjustments if all of their taxable FUTA wages were excluded from state unemployment tax or if they paid state unemployment tax late. The form provides instructions for calculating these adjustments.
+
+Part 4 is used to determine the final FUTA tax liability and any balance due or overpayment. Employers must add up the FUTA tax before adjustments, adjustments, and any credit reduction to calculate the total FUTA tax liability. If the FUTA tax deposited for the year is less than the total liability, employers must pay the balance due. If the deposited amount is more than the total liability, employers may request a refund.
+
+Part 5 is optional and is used to report FUTA tax liability by quarter if the total liability is more than $500. If the liability is $500 or less, employers can skip this part and proceed to Part 6.
+
+Part 6 asks employers if they want to authorize a third-party designee to discuss their return with the IRS. Employers can provide the name and phone number of the designee and select a personal identification number (PIN) to use when speaking with the IRS.
+
+Part 7 is for the employer's signature, declaring that the return is true, correct, and complete. If a paid preparer assisted with the return, they must also sign and provide their information.
+
+The form includes additional information about making payments with Form 940, completing Form 940-V (Payment Voucher), and the privacy and paperwork reduction requirements.
+
+Overall, Form 940 is a comprehensive tax return form used by employers to report their FUTA tax liability and make payments to the IRS.

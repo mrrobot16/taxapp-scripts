@@ -1,0 +1,17 @@
+Form 965-C is a document used by taxpayers in the United States to report the transfer of tax liabilities under Section 965(h) of the Internal Revenue Code. The form is divided into six parts.
+
+Part I requires the transferor to provide their information, including their name, taxpayer identification number, and address.
+
+Part II asks for the transferee's information, including their name, taxpayer identification number, and address.
+
+Part III requires the taxpayer to select the acceleration event that led to the transfer agreement. The form provides options such as a liquidation, sale, exchange, or other disposition of assets, or becoming a member of a consolidated group.
+
+Part IV asks for the amount of the transferor's section 965(h) net tax liability remaining unpaid and the date on which the next installment payment is due.
+
+Part V assesses the transferee's ability to pay the remaining liability, including whether they are able to make the required payments and if their leverage ratio exceeds 3:1.
+
+Part VI outlines the terms of the agreement, including the transferee's assumption of the transferor's liability, compliance with relevant regulations, joint and several liability for the transferor and any successor, and the Commissioner's ability to request additional information.
+
+The form requires signatures from both the transferor and the transferee, certifying the accuracy and completeness of the information provided.
+
+Form 965-C is used to facilitate the transfer of tax liabilities and ensure compliance with Section 965(h) of the Internal Revenue Code.

@@ -1,0 +1,11 @@
+Form 8821 is a Tax Information Authorization form issued by the Internal Revenue Service (IRS) of the Department of the Treasury in the United States. This form allows taxpayers to authorize designated individuals or organizations to access their tax information. 
+
+The form requires the taxpayer's name, address, and identification number(s). It also provides space to list the name and address of up to two designees who will be authorized to access the taxpayer's tax information. If more than two designees are needed, an additional list can be attached to the form. The taxpayer can also indicate if they want copies of notices and communications to be sent to the designees.
+
+The form includes a section to specify the type of tax information, tax form number, year(s) or period(s), and specific tax matters that the designees are authorized to access. There is also an option to authorize access to IRS records through an Intermediate Service Provider.
+
+If the tax information authorization is for a specific use not recorded on the Centralized Authorization File (CAF), the taxpayer can indicate it on the form. Otherwise, if the box is not checked, the IRS will automatically revoke all prior tax information authorizations on file unless the taxpayer checks the box on line 5 and attaches a copy of the tax information authorization(s) they want to retain.
+
+The form must be completed, signed, and dated by the taxpayer. If the form is not completed, signed, and dated, it will be returned. The taxpayer should not sign the form if it is blank or incomplete.
+
+The form also provides information regarding the Privacy Act and Paperwork Reduction Act Notice. For detailed instructions and the latest information regarding Form 8821, taxpayers can visit the IRS website at www.irs.gov/Form8821.

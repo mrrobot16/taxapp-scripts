@@ -1,0 +1,17 @@
+Form 1098-Q is an information return form used by issuers of qualifying longevity annuity contracts (QLACs) to report the status of the contract to the Internal Revenue Service (IRS). The form is divided into three copies: Copy A is filed with Form 1096 at the IRS, Copy B is provided to the participant, and Copy C is retained by the issuer.
+
+The form requires the issuer to provide their name, address, and contact information, as well as the participant's name, address, and account number. The form also asks for the plan number, name, and employer identification number (EIN) of the plan sponsor.
+
+The form includes several boxes for reporting information about the annuity contract. Box 1a asks for the annuity amount on the start date, while Box 1b asks for the annuity start date. Box 2 is checked if the start date may be accelerated.
+
+Box 3 is used to report the total premiums paid for the contract. Starting in 2020, the cumulative total premiums paid for all QLACs cannot exceed $135,000. Additionally, there are limits on the amount of QLACs that can be purchased under an IRA or employer's plan.
+
+Box 4 shows the fair market value (FMV) of the QLAC as of December 31 of the reporting year.
+
+Boxes 5a-5l are used to report the amount of each premium paid for the contract and the date of each payment.
+
+The form includes instructions for participants, explaining the purpose of the form and providing contact information for the issuer. It also provides information about the account number, taxpayer identification number (TIN), plan number and name, and the meaning of each box on the form.
+
+The instructions for issuers direct them to use the current General Instructions for Certain Information Returns and the current Instructions for Form 1098-Q to complete the form. It also provides information on filing and furnishing the form, including electronic filing options and contact information for assistance.
+
+Overall, Form 1098-Q is used to report information about qualifying longevity annuity contracts to the IRS and provide participants with information about their contracts.

@@ -1,0 +1,9 @@
+Form 8872 is a document used by political organizations to report their contributions and expenditures to the Internal Revenue Service (IRS). The form includes information about the organization, such as its name, mailing address, and employer identification number. It also requires the organization to provide the email address, date of formation, and contact information of the custodian of records.
+
+The form asks the organization to select the type of report being filed, such as an initial report, change of address, amended report, or final report. It also includes options for different reporting periods, including quarterly reports, year-end reports, mid-year reports, monthly reports, pre-election reports, and post-general election reports.
+
+The organization must provide the total amount of reported contributions and expenditures, which are calculated from the attached Schedule A and Schedule B, respectively. Schedule A is used to list itemized contributions, including the contributor's name, mailing address, employer, occupation, and the amount and date of the contribution. Schedule B is used to list itemized expenditures, including the recipient's name, mailing address, employer, occupation, amount, date, and purpose of the expenditure.
+
+The form concludes with a declaration that the information provided is true, correct, and complete, signed by an authorized official of the organization. The form also includes a notice about the Paperwork Reduction Act.
+
+Both Form 8872 and its attached schedules are open to public inspection. The form includes instructions for more information and prohibits the inclusion of social security numbers on the form or any attachments to protect privacy.

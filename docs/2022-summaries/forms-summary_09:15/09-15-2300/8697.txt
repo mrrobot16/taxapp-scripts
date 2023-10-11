@@ -1,0 +1,9 @@
+Form 8697 is a document provided by the Internal Revenue Service (IRS) that is used to calculate interest on completed long-term contracts. The form is divided into two parts: Part I, which uses the regular method, and Part II, which uses the simplified marginal impact method. 
+
+In Part I, the taxpayer is required to provide information such as their identifying number, type of taxpayer (corporation, individual, estate or trust, S corporation, partnership), and the name and employer identification number of any pass-through entity they have an interest in that holds long-term contracts. The taxpayer must also provide details on their taxable income or loss for prior years, adjustments to income, adjusted taxable income for look-back purposes, income tax liability, and any increase or decrease in tax for prior years on which interest is due or to be refunded.
+
+Part II of the form follows a similar format, but is specific to the simplified marginal impact method. The taxpayer must provide the dates of each prior year to which the interest computation relates, adjustments to regular taxable income, increase or decrease in regular tax for prior years, adjustments to alternative minimum taxable income, increase or decrease in alternative minimum tax for prior years, and the overpayment ceiling.
+
+The form concludes with a signature section for the taxpayer and, if applicable, their spouse. There is also a section for the preparer of the form to provide their information.
+
+Overall, Form 8697 is a detailed form that taxpayers can use to calculate interest on completed long-term contracts using either the regular method or the simplified marginal impact method.

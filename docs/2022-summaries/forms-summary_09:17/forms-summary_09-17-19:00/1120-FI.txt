@@ -1,0 +1,16 @@
+Schedule I (Form 1120-F) is a document used by corporations to allocate interest expense under Regulations Section 1.882-5 for the tax year 2022. The form is attached to Form 1120-F and can be found on the IRS website.
+
+The schedule is divided into three steps:
+
+Step 1: Average U.S. Assets for the Tax Year
+This step involves determining the value of the corporation's U.S. assets using the adjusted basis method described in Regulations Section 1.882-5(b). It includes calculations for total assets per books, total interbranch assets, total non-ECI assets, adjustments for amounts from partnerships and certain disregarded entities, adjustments for assets that give rise to direct interest expense allocations, and other adjustments to average assets.
+
+Step 2: U.S.-Connected Liabilities for the Tax Year
+This step involves determining the U.S.-connected liabilities using either the actual ratio method or the fixed ratio method. The actual ratio method requires calculations for average worldwide liabilities and average worldwide assets, and then dividing the two to determine the ratio. The fixed ratio method involves entering a fixed ratio of either 95% or 50% depending on whether the corporation is a foreign bank or insurance company. The resulting ratio is then entered on line 6e.
+
+Step 3: Interest Expense Paid or Accrued on Average U.S. Booked Liabilities
+This step involves determining the interest expense paid or accrued on average U.S. booked liabilities using either the adjusted U.S. booked liabilities method or the separate currency pools method. The adjusted U.S. booked liabilities method requires calculations for total average amount of U.S. booked liabilities and total interest paid or accrued during the tax year on that amount. The separate currency pools method involves calculations for U.S. assets, U.S.-connected liabilities, interest expense on foreign corporations' worldwide liabilities denominated in foreign currencies, borrowing rate, and interest expense allocation by separate currency pool.
+
+The summary section of the schedule includes calculations for interest expense allocable to ECI under the adjusted U.S. booked liabilities method and the separate currency pools method, as well as the corporation's interest expense directly allocable under Regulations Section 1.882-5(a)(1)(ii). It also includes adjustments for permanently disallowed deductions, deferred deductions, disallowed business interest expense, required capitalization, and interest expense deferred in previous years.
+
+The total interest expense deduction under Regulations Section 1.882-5 is calculated by combining the interest expense allocable to ECI and the adjustments, and this amount is entered on Form 1120-F, Section II, line 18.

@@ -1,0 +1,1128 @@
+Form    1041-N
+(Rev. December 2019)
+Department of the Treasury  
+Internal Revenue Service 
+U.S. Income Tax Return for Electing 
+Alaska Native Settlement Trusts
+▶ Go to www.irs.gov/Form1041N for instructions and the latest information.
+OMB No. 1545-1776
+For calendar year 
+or short year beginning 
+, 20 
+, and ending 
+, 20 
+. 
+Part I 
+General Information 
+1      Name of trust 
+2    Employer identification number 
+3a    Name and title of trustee 
+3b    Number, street, and room or suite no. (If a P.O. box, see the instructions.) 
+3c    City or town, state, and ZIP code
+4    Name of sponsoring Alaska Native Corporation 
+5    Was Form 1041 filed in the prior year? 
+Yes
+No
+6  Check applicable boxes: 
+Amended return
+Final return
+Change in fiduciary’s name
+Change in fiduciary’s address
+Part II 
+Tax Computation 
+Income 
+1a Interest income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a 
+b Tax-exempt interest. Don’t include on line 1a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b 
+2 a Total ordinary dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+b Qualified dividends (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b 
+3 
+Capital gain or (loss) (Schedule D) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Other income. List type and amount ▶
+4 
+5 
+Total income. Combine lines 1a, 2a, 3, and 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+5 
+Deductions 
+6 
+Taxes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Trustee fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Attorney, accountant, and return preparer fees 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Other deductions (attach schedule) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Exemption (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Total deductions. Add lines 6 through 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+12 
+Tax and Payments 
+13 
+Taxable income. Subtract line 12 from line 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+13 
+14 
+Tax. If line 13 is a (loss), enter -0-. Otherwise, see the instructions and check the applicable 
+box: 
+Multiply line 13 by 10% (0.10) or 
+Schedule D .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+  ▶
+14 
+15 
+Credits (see instructions). Specify ▶
+15 
+16 
+Subtract line 15 from line 14 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Total tax. Add line 16 and line 17. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Current year net 965 tax liability paid from Form 965-A, Part II, column (k) (see instructions) 
+.
+.
+19
+20
+Payments. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+20
+21 
+Tax due. If line 20 is smaller than the total of lines 18 and 19, enter amount owed 
+.
+.
+.
+.
+.
+21
+22 
+Overpayment. If line 20 is larger than the total of lines 18 and 19, enter amount overpaid .
+.
+.
+22
+23
+Amount of line 22 to be:  a  Credited to next year’s estimated tax ▶
+b  Refunded ▶
+23
+Part III 
+Other Information 
+1 
+During the tax year, did the trust receive property or an assignment of income from an Alaska Native Corporation? 
+If “Yes,” see the instructions for the required attachments .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes No 
+2 
+During the year, did the trust receive a distribution from, or was it the grantor of, or the transferor to, a foreign trust? 
+3 
+ 
+At any time during the calendar year, did the trust have an interest in or a signature or other authority over a 
+financial account in a foreign country (such as a bank account, securities account, or other financial account)? See 
+the instructions for exceptions and filing requirements for FinCEN Form 114 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter the name of the foreign country ▶
+4
+Was the trust a specified domestic entity required to file Form 8938 for the tax year? See Instructions for Form 8938    .
+5
+To make a section 643(e)(3) election, complete Schedule D and check here. See instructions .
+.
+.
+.
+.  ▶
+Sign  
+Here 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge 
+and belief, it is true, correct, and complete. Declaration of preparer (other than trustee) is based on all information of which preparer has any knowledge. 
+Also, under section 646(c)(2) of the Internal Revenue Code, if this is the initial Form 1041-N filed for the above-named Alaska Native Settlement Trust, 
+signing and filing this return will serve as the statement by the trustee electing to treat such trust as an Electing Alaska Native Settlement Trust. 
+▲
+Signature of trustee or officer representing trustee 
+▲
+Date 
+May the IRS discuss this return  
+with the preparer shown below?    
+See instr.
+Yes
+No
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+ Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name      ▶
+Firm’s address  ▶
+Firm’s EIN  ▶
+Phone no.
+For Paperwork Reduction Act Notice, see the Instructions for Form 1041-N. 
+Cat. No. 32234Q
+Form 1041-N (Rev. 12-2019) 
+Form 1041-N (Rev. 12-2019) 
+Page  2 
+Schedule D 
+Capital Gains and Losses 
+Part I—Short-Term Capital Gains and Losses—Assets Held One Year or Less 
+(a) Description of property  
+(Example, 100 shares 7%  
+preferred of “Z” Co.) 
+(b) Date  
+acquired  
+(mo., day, yr.) 
+(c) Date sold  
+(mo., day, yr.) 
+(d) Sales price   
+(e) Cost or other basis  
+(see instructions)   
+(f) Gain or (loss) 
+for the entire year 
+(col. (d) less col. (e))   
+1 
+2 
+Short-term capital gain or (loss) from other forms or schedules .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Short-term capital loss carryover .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 (                          )
+4 
+Net short-term capital gain or (loss). Combine lines 1 through 3 in column (f) .
+.
+.
+.
+.
+.
+.
+.
+4 
+Part II—Long-Term Capital Gains and Losses—Assets Held More Than One Year 
+(a) Description of property 
+(Example, 100 shares 7%  
+preferred of “Z” Co.) 
+(b) Date  
+acquired  
+(mo., day, yr.) 
+(c) Date sold  
+(mo., day, yr.) 
+(d) Sales price   
+(e) Cost or other basis  
+(see instructions)   
+(f) Gain or (loss) 
+for the entire year 
+(col. (d) less col. (e))   
+5 
+6 
+Long-term capital gain or (loss) from other forms or schedules 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Capital gain distributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Enter gain, if applicable, from Form 4797 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Long-term capital loss carryover .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 (                          )
+10 
+Net long-term capital gain or (loss). Combine lines 5 through 9 in column (f) .
+.
+.
+.
+.
+.
+.
+.
+10 
+Form 1041-N (Rev. 12-2019) 
+Form 1041-N (Rev. 12-2019) 
+Page  3 
+Part III—Summary of Parts I and II 
+11 
+Combine lines 4 and 10 and enter the result. If a loss, go to line 12. If a gain, also enter the gain
+on page 1, line 3, and complete page 1 through line 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+Next: Skip line 12 (below) and complete Part IV (below) if line 13 on page 1 is greater than zero and: a)
+line 2b on page 1 is greater than zero; or b) Schedule D, lines 10 and 11, are both greater than zero. 
+12 
+If line 11 is a loss, enter here and on page 1, line 3, the smaller of the loss on line 11 or ($3,000). 
+Then complete page 1 through line 13 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 (                          )
+Next: If the loss on line 11 is more than ($3,000), or if page 1, line 13, is less than zero, skip Part IV below 
+and complete the Capital Loss Carryover Worksheet in the instructions before completing the rest of Form
+1041-N. Otherwise, skip Part IV below and complete the rest of Form 1041-N. 
+Part IV—Tax Computation Using Maximum Capital Gains Rates 
+13 
+Enter the taxable income from page 1, line 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Enter the qualified dividends from page 1, line 2b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Enter the amount from Form 4952, line 4g .
+.
+.
+.
+15 
+16 
+Enter the amount from Form 4952, line 4e .
+.
+.
+.
+16 
+17 
+Subtract line 16 from line 15. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Subtract line 17 from line 14. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Enter the smaller of line 10 or line 11 
+.
+.
+.
+.
+.
+19 
+20 
+Enter the smaller of line 15 or line 16 
+.
+.
+.
+.
+.
+20 
+21 
+Subtract line 20 from line 19. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+22 
+Add lines 18 and 21 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+23 
+Add line 18 from the Unrecaptured Section 1250 Gain 
+Worksheet and line 7 from the 28% Rate Gain 
+Worksheet and enter the amount here 
+.
+.
+.
+.
+.
+23 
+24 
+Enter the smaller of line 21 or line 23 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+25 
+Subtract line 24 from line 22 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25 
+26 
+Enter the smaller of line 13 or line 25 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26 
+27 
+Subtract line 26 from line 13 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27 
+28 
+Multiply line 27 by 10% (0.10). Enter here and on page 1, line 14. Also check the Schedule D box on
+that line 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28 
+Form 1041-N (Rev. 12-2019) 
+Form 1041-N (Rev. 12-2019) 
+Page  4 
+Schedule K 
+Distributions to Beneficiaries 
+Page 
+of 
+(a)  Beneficiary’s name, street address, city, state, and ZIP code 
+(b)  Beneficiary’s SSN 
+(c)  Tier I distributions 
+(d)  Tier II distributions 
+(e)  Tier III distributions 
+(f)  Tier IV distributions 
+(g)  Total distributions   
+(Add amounts in (c) through (f)) 
+(a)  Beneficiary’s name, street address, city, state, and ZIP code 
+(b)  Beneficiary’s SSN 
+(c)  Tier I distributions 
+(d)  Tier II distributions 
+(e)  Tier III distributions 
+(f)  Tier IV distributions 
+(g)  Total distributions   
+(Add amounts in (c) through (f)) 
+(a)  Beneficiary’s name, street address, city, state, and ZIP code 
+(b)  Beneficiary’s SSN 
+(c)  Tier I distributions 
+(d)  Tier II distributions 
+(e)  Tier III distributions 
+(f)  Tier IV distributions 
+(g)  Total distributions   
+(Add amounts in (c) through (f)) 
+(a)  Beneficiary’s name, street address, city, state, and ZIP code 
+(b)  Beneficiary’s SSN 
+(c)  Tier I distributions 
+(d)  Tier II distributions 
+(e)  Tier III distributions 
+(f)  Tier IV distributions 
+(g)  Total distributions   
+(Add amounts in (c) through (f)) 
+(a)  Beneficiary’s name, street address, city, state, and ZIP code 
+(b)  Beneficiary’s SSN 
+(c)  Tier I distributions 
+(d)  Tier II distributions 
+(e)  Tier III distributions 
+(f)  Tier IV distributions 
+(g)  Total distributions   
+(Add amounts in (c) through (f)) 
+(a)  Beneficiary’s name, street address, city, state, and ZIP code 
+(b)  Beneficiary’s SSN 
+(c)  Tier I distributions 
+(d)  Tier II distributions 
+(e)  Tier III distributions 
+(f)  Tier IV distributions 
+(g)  Total distributions   
+(Add amounts in (c) through (f)) 
+Form 1041-N (Rev. 12-2019) 

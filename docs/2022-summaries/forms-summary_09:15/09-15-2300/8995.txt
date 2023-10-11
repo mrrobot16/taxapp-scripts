@@ -1,0 +1,13 @@
+Form 8995 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Qualified Business Income Deduction. This deduction can only be claimed if the taxpayer has qualified business income from a qualified trade or business, real estate investment trust dividends, publicly traded partnership income, or a domestic production activities deduction passed through from an agricultural or horticultural cooperative.
+
+The form is to be attached to the taxpayer's tax return and can be found on the IRS website along with instructions and the latest information.
+
+The form is used by taxpayers whose taxable income, before the qualified business income deduction, is at or below $170,050 ($340,100 if married filing jointly), and who are not patrons of an agricultural or horticultural cooperative.
+
+The form consists of various lines for taxpayers to enter information related to their qualified business income, net (loss) carryforward from the prior year, total qualified business income, qualified business income component, qualified REIT dividends and publicly traded partnership (PTP) income or (loss), qualified REIT dividends and qualified PTP (loss) carryforward from the prior year, total qualified REIT dividends and PTP income, REIT and PTP component, qualified business income deduction before the income limitation, taxable income before qualified business income deduction, net capital gain, subtracting net capital gain from taxable income, income limitation, and the final qualified business income deduction amount.
+
+The form also includes sections for taxpayers to enter their trade, business, or aggregation name, taxpayer identification number, and name(s) shown on the return.
+
+Additionally, the form provides space for taxpayers to indicate any carryforwards of qualified business (loss) and qualified REIT dividends and PTP (loss) from previous years.
+
+Overall, Form 8995 is a simplified computation form that allows eligible taxpayers to claim the Qualified Business Income Deduction.

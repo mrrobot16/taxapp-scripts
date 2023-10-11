@@ -1,0 +1,11 @@
+Form 8804-W is a worksheet provided by the IRS for partnerships to calculate their installment payments of Section 1446 tax. This tax is applicable to partnerships with foreign partners who have effectively connected taxable income (ECTI) in the United States. The form includes three parts: Part I for determining installment payments, Part II for the adjusted seasonal installment method, and Part III for the annualized income installment method. 
+
+In Part I, the worksheet calculates the allocable share of ECTI for all foreign partners, taking into account reductions for state and local taxes and certified foreign partner-level items. Different rates are applied to different types of income, such as 28% rate gain, unrecaptured section 1250 gain, and adjusted net capital gain. The total tax amount is then multiplied by the applicable rate to determine the installment payments.
+
+Part II is used if the base period percentage for any 6 consecutive months is at least 70%. It involves dividing the ECTI allocable to all foreign partners for specific periods and calculating the annualization amounts. The annualized allocable share of ECTI is then determined, taking into account reductions for state and local taxes and certified foreign partner-level items. The tax on these amounts is calculated and multiplied by the applicable percentage to determine the required installments.
+
+Part III is used for the annualized income installment method. It involves dividing the ECTI allocable to all foreign partners for each annualization period and calculating the annualization amounts. The annualized allocable share of ECTI is determined, taking into account reductions for state and local taxes and certified foreign partner-level items. The tax on these amounts is calculated and multiplied by the applicable percentage to determine the required installments.
+
+The form provides columns for each installment due date, and the required installments are calculated based on the smaller of the amounts calculated in Part II or Part III. The form also includes additional instructions and cautions regarding penalties and safe harbor provisions.
+
+It's important to note that Form 8804-W is a worksheet for the partnership's records and should not be filed with the IRS.

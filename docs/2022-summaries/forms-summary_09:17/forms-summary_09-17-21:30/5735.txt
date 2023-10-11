@@ -1,0 +1,7 @@
+Form 5735 is a document provided by the Internal Revenue Service (IRS) for corporations to claim the American Samoa Economic Development Credit. This credit is available to corporations that meet the qualified production activities income requirement. 
+
+The form requires the corporation to enter various percentages of qualified compensation and depreciation deductions for short-life, medium-life, and long-life qualified tangible property. These percentages are used to calculate the tentative credit. 
+
+The form also requires the corporation to enter the total U.S. income tax against which the credit is allowed. The American Samoa economic development credit is then calculated as the smaller of the tentative credit or the total U.S. income tax. This credit amount is to be entered on Form 1120, Schedule J, line 5b, or the corresponding line of other tax returns. 
+
+The form must be attached to the corporation's tax return for the applicable tax year. The form includes an OMB number for tracking purposes and a notice about the Paperwork Reduction Act.

@@ -1,0 +1,13 @@
+Schedule D (Form 1040) is a form used by taxpayers to report capital gains and losses on their federal income tax return. The form is attached to Form 1040, 1040-SR, or 1040-NR and requires taxpayers to provide information about their short-term and long-term capital gains and losses.
+
+The form begins with instructions on how to complete the form and directs taxpayers to visit the IRS website for additional information. It also mentions the use of Form 8949 to list transactions for certain lines on Schedule D.
+
+Part I of the form is for reporting short-term capital gains and losses, generally assets held for one year or less. The form provides lines for taxpayers to enter the proceeds (sales price), cost (or other basis), adjustments to gain or loss from Form 8949, and the resulting gain or loss. It also includes lines for reporting totals for various types of transactions.
+
+Part II of the form is for reporting long-term capital gains and losses, generally assets held for more than one year. It follows a similar format to Part I, with lines for entering proceeds, cost, adjustments from Form 8949, and the resulting gain or loss. Again, there are lines for reporting totals for different types of transactions.
+
+Part III is a summary section where taxpayers combine the short-term and long-term gains or losses and enter the result on line 16. Depending on the outcome, taxpayers may be directed to complete additional worksheets or proceed to other sections of their tax return.
+
+The form concludes with a question about whether the taxpayer has qualified dividends, which may require the completion of additional worksheets or the rest of the tax return.
+
+Overall, Schedule D is a detailed form that helps taxpayers report and calculate their capital gains and losses for tax purposes.

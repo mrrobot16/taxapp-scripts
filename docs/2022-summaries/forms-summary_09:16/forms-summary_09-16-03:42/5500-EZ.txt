@@ -1,0 +1,13 @@
+Form 5500-EZ is an annual return form that must be filed by a one-participant retirement plan or a foreign plan under section 6058(a) of the Internal Revenue Code. The form requires the completion of various identification and financial information. 
+
+In Part I, the filer must provide information regarding the annual return identification, including the plan year, whether it's the first, amended, final, or a short plan year return, and if there are any filing extensions or if it's a foreign plan. 
+
+Part II requires the basic plan information, such as the plan name, plan number, effective date, employer's name and identification number, employer's telephone number, business code, plan administrator's name and identification number, and contact information. If there have been any changes in the employer's name, employer's identification number, or plan name since the last return, the previous information must also be provided. 
+
+Part III focuses on the financial information of the plan, including the total plan assets, total plan liabilities, and net plan assets at the beginning and end of the year. 
+
+Part IV requires the entry of applicable two-character feature codes from the List of Plan Characteristics Codes provided in the instructions. 
+
+Part V consists of compliance and funding questions related to participant loans, minimum funding requirements for defined benefit plans, and minimum funding requirements for defined contribution plans. 
+
+The form must be signed by the employer or plan administrator, and they must declare under penalties of perjury that the information provided is true, correct, and complete.

@@ -1,0 +1,13 @@
+Form 8869 is a document provided by the Internal Revenue Service (IRS) for the purpose of making a Qualified Subchapter S Subsidiary Election. This election is made under section 1361(b)(3) of the Internal Revenue Code. 
+
+The form is divided into two parts. 
+
+Part I is for the parent S Corporation making the election. It requires the parent's name, address, employer identification number (EIN), tax year ending, service center where the last return was filed, and contact information of an officer or legal representative that the IRS may contact for more information. 
+
+Part II is for the subsidiary corporation for which the election is being made. It requires the subsidiary's name, address, EIN (if any), date of incorporation, state of incorporation, and the date the election is to take effect. 
+
+The form also includes questions regarding whether the subsidiary previously filed a federal income tax return, the service center where the last return was filed, the tax year ending date of the last return, and the type of return filed. It also asks whether the election is being made in combination with a section 368(a)(1)(F) reorganization and if the subsidiary's last return was filed as part of a consolidated return. 
+
+The form concludes with a declaration that the information provided is true, correct, and complete, and requires the signature, title, and date of an officer of the parent corporation. 
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8869.

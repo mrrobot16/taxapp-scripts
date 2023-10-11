@@ -1,0 +1,9 @@
+Form 8863 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim education credits, specifically the American Opportunity Credit and the Lifetime Learning Credit. The form is to be attached to Form 1040 or 1040-SR when filing taxes. 
+
+The form is divided into three parts. Part I is for claiming the refundable American Opportunity Credit. It involves calculations based on the taxpayer's income, specifically their filing status and adjusted gross income. The result is multiplied by 40% to determine the refundable credit amount.
+
+Part II is for claiming the nonrefundable education credits. Similar calculations are performed based on the taxpayer's income and filing status to determine the nonrefundable credit amount.
+
+Part III is for providing information about the student and educational institutions attended. This includes the student's name, social security number, and details about the educational institutions, such as their name, address, and whether the student received Form 1098-T from the institution.
+
+The form also includes instructions and references to other publications for further guidance.

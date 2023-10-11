@@ -1,0 +1,598 @@
+Form   SS-8
+(Rev. May 2014)
+Department of the Treasury 
+Internal Revenue Service
+Determination of Worker Status for Purposes 
+ of Federal Employment Taxes and  
+Income Tax Withholding
+OMB. No. 1545-0004
+For IRS Use Only: 
+Case Number:  
+Earliest Receipt Date:
+▶ Information about Form SS-8 and its separate instructions is at www.irs.gov/formss8. 
+Name of firm (or person) for whom the worker performed services
+Firm’s mailing address (include street address, apt. or suite no., city, state, and ZIP code)
+Trade name
+Firm's email address
+Firm's fax number
+Firm's website
+Firm's telephone number (include area code)
+Firm’s employer identification number
+Worker’s name
+Worker’s mailing address (include street address, apt. or suite no., city, state, and ZIP code)
+Worker's daytime telephone number
+Worker's email address
+Worker's alternate telephone number
+Worker's fax number
+Worker’s social security number
+Worker’s employer identification number (if any)
+Note. If the worker is paid for these services by a firm other than the one listed on this form, enter the name, address, and employer identification 
+number of the payer. ▶
+Disclosure of Information
+The information provided on Form SS-8 may be disclosed to the firm, worker, or payer named above to assist the IRS in the determination process. 
+For example, if you are a worker, we may disclose the information you provide on Form SS-8 to the firm or payer named above. The information can 
+only be disclosed to assist with the determination process. If you provide incomplete information, we may not be able to process your request. See 
+Privacy Act and Paperwork Reduction Act Notice in the separate instructions for more information. If you do not want this information disclosed to 
+other parties, do not file Form SS-8.
+Parts I–V. All filers of Form SS-8 must complete all questions in Parts I–IV. Part V must be completed if the worker provides a service directly to 
+customers or is a salesperson. If you cannot answer a question, enter “Unknown” or “Does not apply.” If you need more space for a question, attach 
+another sheet with the part and question number clearly identified. Write your firm's name (or worker's name) and employer identification number (or 
+social security number) at the top of each additional sheet attached to this form.
+Part I
+General Information
+1
+This form is being completed by:
+Firm
+Worker; for services performed
+(beginning date)
+to
+(ending date)
+.
+2
+Explain your reason(s) for filing this form (for example, you received a bill from the IRS, you believe you erroneously received a Form 1099 or 
+Form W-2, you are unable to get workers' compensation benefits, or you were audited or are being audited by the IRS).
+3
+Total number of workers who performed or are performing the same or similar services:
+.
+4
+How did the worker obtain the job?
+Application
+Bid
+Employment Agency
+Other (specify)
+5 
+  
+ 
+Attach copies of all supporting documentation (for example, contracts, invoices, memos, Forms W-2 or Forms 1099-MISC issued or received, IRS 
+closing agreements or IRS rulings). In addition, please inform us of any current or past litigation concerning the worker’s status. If no income reporting forms 
+(Form 1099-MISC or W-2) were furnished to the worker, enter the amount of income earned for the year(s) at issue
+$
+.
+If both Form W-2 and Form 1099-MISC were issued or received, explain why.
+6
+Describe the firm’s business.
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 16106T
+Form SS-8 (Rev. 5-2014)
+Form SS-8 (Rev. 5-2014)
+Page 2
+Part I
+General Information (continued)
+7
+If the worker received pay from more than one entity because of an event such as the sale, merger, acquisition, or reorganization of the firm for 
+whom the services are performed, provide the following: Name of the firm's previous owner:
+Previous owner's taxpayer identification number:
+Change was a:
+Sale
+Merger
+Acquisition
+Reorganization
+Other (specify)
+Description of above change:
+Date of change (MM/DD/YY):
+8
+Describe the work done by the worker and provide the worker’s job title.
+9
+Explain why you believe the worker is an employee or an independent contractor.
+10
+Did the worker perform services for the firm in any capacity before providing the services that are the subject of this determination request?
+Yes
+No
+N/A
+If “Yes,” what were the dates of the prior service?
+If “Yes,” explain the differences, if any, between the current and prior service.
+11
+If the work is done under a written agreement between the firm and the worker, attach a copy (preferably signed by both parties). Describe the 
+terms and conditions of the work arrangement.
+Part II
+Behavioral Control (Provide names and titles of specific individuals, if applicable.)
+1
+What specific training and/or instruction is the worker given by the firm?
+2
+How does the worker receive work assignments?
+3
+Who determines the methods by which the assignments are performed?
+4
+Who is the worker required to contact if problems or complaints arise and who is responsible for their resolution?
+5
+What types of reports are required from the worker? Attach examples.
+6
+Describe the worker’s daily routine such as his or her schedule or hours.
+7
+At what location(s) does the worker perform services (for example, firm’s premises, own shop or office, home, customer’s location)? Indicate 
+the appropriate percentage of time the worker spends in each location, if more than one.
+8
+Describe any meetings the worker is required to attend and any penalties for not attending (for example, sales meetings, monthly meetings, 
+staff meetings).
+9
+Is the worker required to provide the services personally? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+10
+If substitutes or helpers are needed, who hires them?
+11
+If the worker hires the substitutes or helpers, is approval required? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” by whom?
+12
+Who pays the substitutes or helpers?
+13
+Is the worker reimbursed if the worker pays the substitutes or helpers? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” by whom?
+Form SS-8 (Rev. 5-2014)
+Form SS-8 (Rev. 5-2014)
+Page 3
+Part III
+Financial Control (Provide names and titles of specific individuals, if applicable.)
+1
+List the supplies, equipment, materials, and property provided by each party:
+The firm:
+The worker:
+Other party:
+2
+Does the worker lease equipment, space, or a facility? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” what are the terms of the lease? (Attach a copy or explanatory statement.)
+3
+What expenses are incurred by the worker in the performance of services for the firm?
+4
+Specify which, if any, expenses are reimbursed by:
+The firm:
+Other party:
+5
+Type of pay the worker receives:
+Salary
+Commission
+Hourly Wage
+Piece Work
+Lump Sum
+Other (specify)
+If type of pay is commission, and the firm guarantees a minimum amount of pay, specify amount.
+$
+6
+Is the worker allowed a drawing account for advances? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” how often?
+Specify any restrictions.
+7
+Whom does the customer pay? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Firm
+Worker
+If worker, does the worker pay the total amount to the firm?
+Yes
+No
+If “No,” explain.
+8
+Does the firm carry workers' compensation insurance on the worker? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+9 
+ 
+What economic loss or financial risk, if any, can the worker incur beyond the normal loss of salary (for example, loss or damage of equipment, 
+material)?
+10
+Does the worker establish the level of payment for the services provided or the products sold? .
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “No,” who does?
+Part IV
+Relationship of the Worker and Firm
+1
+Please check the benefits available to the worker:
+Paid vacations
+Sick pay
+Paid holidays
+Personal days
+Pensions
+Insurance benefits
+Bonuses
+Other (specify)
+2
+Can the relationship be terminated by either party without incurring liability or penalty? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “No,” explain your answer.
+3
+Did the worker perform similar services for others during the time period entered in Part I, line 1? 
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” is the worker required to get approval from the firm? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+4
+Describe any agreements prohibiting competition between the worker and the firm while the worker is performing services or during any later 
+period. Attach any available documentation.
+5
+Is the worker a member of a union? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+6
+What type of advertising, if any, does the worker do (for example, a business listing in a directory or business cards)? Provide copies, if 
+applicable.
+7
+If the worker assembles or processes a product at home, who provides the materials and instructions or pattern?
+8
+What does the worker do with the finished product (for example, return it to the firm, provide it to another party, or sell it)?
+9
+How does the firm represent the worker to its customers (for example, employee, partner, representative, or contractor), and under whose 
+business name does the worker perform these services?
+10
+If the worker no longer performs services for the firm, how did the relationship end (for example, worker quit or was fired, job completed, 
+contract ended, firm or worker went out of business)?
+Form SS-8 (Rev. 5-2014)
+Form SS-8 (Rev. 5-2014)
+Page 4
+Part V
+For Service Providers or Salespersons. Complete this part if the worker provided a service directly to 
+customers or is a salesperson.
+1
+What are the worker’s responsibilities in soliciting new customers?
+2
+Who provides the worker with leads to prospective customers?
+3
+Describe any reporting requirements pertaining to the leads.
+4
+What terms and conditions of sale, if any, are required by the firm?
+5
+Are orders submitted to and subject to approval by the firm? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+6
+Who determines the worker’s territory?
+7
+Did the worker pay for the privilege of serving customers on the route or in the territory? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” whom did the worker pay?
+If “Yes,” how much did the worker pay? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. $
+8
+Where does the worker sell the product (for example, in a home, retail establishment)?
+9
+List the product and/or services distributed by the worker (for example, meat, vegetables, fruit, bakery products, beverages, or laundry or dry 
+cleaning services). If more than one type of product and/or service is distributed, specify the principal one.
+10
+Does the worker sell life insurance full time? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+11
+Does the worker sell other types of insurance for the firm? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” enter the percentage of the worker’s total working time spent in selling other types of insurance .
+.
+.
+.
+.
+%
+12
+If the worker solicits orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, or other similar 
+establishments, enter the percentage of the worker’s time spent in the solicitation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+%
+Is the merchandise purchased by the customers for resale or use in their business operations? .
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+13
+Describe the merchandise and state whether it is equipment installed on the customers’ premises.
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this request, including accompanying documents, and to the best of my knowledge and belief, the 
+facts presented are true, correct, and complete.
+▲
+Type or print name below signature.
+Title  ▶
+Date  ▶
+Form SS-8 (Rev. 5-2014)

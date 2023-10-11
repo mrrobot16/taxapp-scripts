@@ -1,0 +1,27 @@
+Form 990 is a return filed by tax-exempt organizations in the United States to report their financial information and activities to the Internal Revenue Service (IRS). The form consists of several sections, including:
+
+1. Identification: The organization provides its name, address, employer identification number, and contact information.
+
+2. Summary: The organization describes its mission or significant activities, provides information about its governance structure, and reports the number of voting members, independent voting members, employees, and volunteers.
+
+3. Statement of Program Service Accomplishments: The organization provides a brief description of its mission and lists its program service accomplishments.
+
+4. Checklist of Required Schedules: The organization indicates whether it is required to complete various schedules, such as Schedule A for tax-exempt status and Schedule B for contributors.
+
+5. Statements Regarding Other IRS Filings and Tax Compliance: The organization provides information about other IRS filings and compliance with tax regulations.
+
+6. Governance, Management, and Disclosure: The organization discloses information about its governing body, policies, and disclosure practices.
+
+7. Compensation of Officers, Directors, Trustees, Key Employees, Highest Compensated Employees, and Independent Contractors: The organization reports the compensation of its officers, directors, key employees, and independent contractors.
+
+8. Statement of Revenue: The organization reports its revenue from contributions, program services, investments, and other sources.
+
+9. Statement of Functional Expenses: The organization reports its expenses by category, such as grants, compensation, and fundraising.
+
+10. Balance Sheet: The organization reports its assets, liabilities, and net assets or fund balances.
+
+11. Reconciliation of Net Assets: The organization reconciles its net assets or fund balances from the beginning to the end of the year, including changes in revenue, expenses, and other factors.
+
+12. Financial Statements and Reporting: The organization provides information about its accounting method, financial statement preparation, and audits.
+
+Form 990 is an important document for tax-exempt organizations to fulfill their reporting obligations and maintain transparency with the IRS and the public. It helps the IRS ensure compliance with tax laws and allows the public to evaluate the organization's financial health and activities.

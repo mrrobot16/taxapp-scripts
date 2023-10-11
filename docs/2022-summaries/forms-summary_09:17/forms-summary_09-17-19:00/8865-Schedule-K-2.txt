@@ -1,0 +1,19 @@
+The document is a Schedule K-2 (Form 8865) for the year 2022, which is used to report the Partners Distributive Share Items for international partnerships. The form consists of several parts, and the partnership must check the applicable parts and complete and attach them to Form 8865.
+
+Part I: Partnerships Other Current Year International Information - This part includes checkboxes for additional specified attachments related to various items such as gain on personal property sale, foreign oil and gas taxes, splitter arrangements, foreign tax translation, high-taxed income, Section 267A disallowed deduction, Form 8858 information, Form 5471 information, partner loan transactions, dual consolidated loss, and other international items.
+
+Part II: Foreign Tax Credit Limitation - This part is used to report the gross income of the partnership from various sources, such as sales, gross income from the performance of services, rental real estate income, other rental income, guaranteed payments, interest income, dividends, royalties, capital gains, and other income. The income is categorized based on its source and whether it is U.S. source or foreign source.
+
+Part III: Other Information for Preparation of Form 1116 or 1118 - This part includes information related to the apportionment factors for research and experimental (R&E) expenses and interest expenses, which are used in the calculation of foreign tax credits.
+
+Part IV: Information on Partners Section 250 Deduction With Respect to Foreign-Derived Intangible Income (FDII) - This part includes information on the partners' share of the partnership's gross receipts, cost of goods sold, deductions, and other items related to the calculation of the FDII deduction.
+
+Part V: Distributions From Foreign Corporations to Partnership - This part is used to report distributions from foreign corporations to the partnership, including the name of the distributing foreign corporation, date of distribution, functional currency, amount of distribution, and amount of earnings and profits distribution.
+
+Part VI: Information on Partners Section 951(a)(1) and Section 951A Inclusions - This part includes information on the partners' share of inclusions from controlled foreign corporations (CFCs) and global intangible low-taxed income (GILTI).
+
+Part VII: Information To Complete Form 8621 - This part includes information related to passive foreign investment companies (PFICs), qualified electing funds (QEFs), and qualifying insurance corporations (QICs), including their names, EINs, addresses, dates of tax year, annual information, elections, and other details.
+
+Part VIII: Partners Information for Base Erosion and Anti-Abuse Tax (Section 59A) - This part includes information on the partnership's gross receipts, base erosion payments, base erosion tax benefits, and other related items for the calculation of the base erosion and anti-abuse tax.
+
+Overall, the Schedule K-2 (Form 8865) is a comprehensive form that allows partnerships to report various international tax items and provide necessary information for the calculation of taxes and credits.

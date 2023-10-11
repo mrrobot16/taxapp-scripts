@@ -1,0 +1,13 @@
+Form 6478 is a document issued by the Department of the Treasury, Internal Revenue Service (IRS) for claiming the Biofuel Producer Credit on a tax return. The form is to be attached to the tax return and can be found on the IRS website along with instructions. The form requires the taxpayer to provide their name, identifying number, and details of the type of fuel produced or used, along with the number of gallons sold or used and the applicable rate. 
+
+Line 1 is for reporting qualified second-generation biofuel production, with the corresponding amount calculated by multiplying the number of gallons by the rate. Line 2 instructs the taxpayer to enter the amount from line 1 in their income for the tax year and also requires them to provide their IRS registration number. 
+
+Line 3 is for reporting the biofuel producer credit received from partnerships, S corporations, cooperatives, estates, and trusts. 
+
+Line 4 instructs the taxpayer to add the amounts from lines 2 and 3. Partnerships and S corporations are instructed to report this amount on Schedule K, while all others are instructed to report it on the appropriate line of Form 3800. 
+
+Line 5 is for reporting the amount allocated to patrons of the cooperative or beneficiaries of the estate or trust. 
+
+Line 6 instructs cooperatives, estates, and trusts to subtract the amount from line 5 from the amount on line 4 and report this result on the appropriate line of Form 3800. 
+
+The form also includes a Paperwork Reduction Act Notice.

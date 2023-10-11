@@ -1,0 +1,7 @@
+Form W-8EXP is a certificate issued by the Internal Revenue Service (IRS) for foreign governments, international organizations, foreign tax-exempt organizations, foreign private foundations, and governments of U.S. possessions. The form is used for United States tax withholding and reporting purposes. It is not to be sent to the IRS but should be given to the withholding agent or payer.
+
+The form includes several sections. Part I requires the identification of the beneficial owner, including their name, country of incorporation or organization, and type of entity. Part II is the qualification statement for Chapter 3 status, where the entity certifies its status as a foreign government, international organization, or foreign central bank of issue. Part III is the qualification statement for Chapter 4 status, which is required if applicable.
+
+Part IV is the certification section, where the authorized official of the organization signs and declares the information provided on the form to be true, correct, and complete. The official also authorizes the form to be provided to any withholding agent that has control, receipt, or custody of the payments to which the form relates.
+
+The form includes various checkboxes and spaces for additional information depending on the specific status of the organization. The latest version of the form and instructions can be found on the IRS website.

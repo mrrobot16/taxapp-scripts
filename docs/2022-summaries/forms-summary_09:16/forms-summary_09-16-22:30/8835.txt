@@ -1,0 +1,7 @@
+Form 8835 is a document that taxpayers must attach to their tax return to claim the Renewable Electricity Production Credit. The form provides spaces for taxpayers to input information regarding the electricity produced at qualified facilities using various renewable energy sources such as wind, closed-loop biomass, geothermal, solar, open-loop biomass, landfill gas, trash, hydropower, and marine and hydrokinetic renewables.
+
+Taxpayers are required to enter the kilowatt-hours produced and sold, the rate for each energy source, and calculate the total for each energy source by adding the respective columns. The form also includes spaces for phaseout adjustment, credit before reduction, specified adjustments, special adjustments, reduction for government grants, and other credits.
+
+Additionally, the form provides instructions on how to calculate the credit for wind facilities based on the year the construction began, and it includes sections for partnerships, S corporations, cooperatives, estates, and trusts to report their respective credit amounts.
+
+Taxpayers are instructed to visit the IRS website for the latest information and instructions on completing Form 8835.

@@ -1,0 +1,9 @@
+Form 8615 is a tax form issued by the Internal Revenue Service (IRS) for certain children who have unearned income. It is to be attached to the child's Form 1040 or 1040-NR. The form consists of three parts.
+
+Part I of the form is used to calculate the child's net unearned income. The child's unearned income is entered on line 1, and if the child did not itemize deductions, a standard deduction of $2,300 is entered on line 2. Line 3 is calculated by subtracting line 2 from line 1, and if the result is zero or less, the form is not completed further.
+
+Part II of the form is used to calculate the tentative tax based on the tax rate of the parent. The parent's taxable income is entered on line 6, and the total of line 5 from all other children of the same parent is entered on line 7. Line 8 is calculated by adding lines 5, 6, and 7. The tax on the amount on line 8 is entered on line 9, and the parent's tax from Form 1040 or 1040-NR is entered on line 10. Line 11 is calculated by subtracting line 10 from line 9.
+
+Part III of the form is used to calculate the child's tax. Line 14 is calculated by subtracting line 5 from line 4. The tax on the amount on line 14 based on the child's filing status is entered on line 15. Line 16 is calculated by adding lines 13 and 15. The tax on the amount on line 4 based on the child's filing status is entered on line 17. Line 18 is calculated by entering the larger of line 16 or line 17 and is transferred to the child's Form 1040 or 1040-NR, line 16.
+
+The form includes instructions and a link to the IRS website for more information.

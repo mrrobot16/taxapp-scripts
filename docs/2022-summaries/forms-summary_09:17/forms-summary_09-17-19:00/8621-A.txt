@@ -1,0 +1,7 @@
+Form 8621-A is a document provided by the Internal Revenue Service (IRS) for shareholders who need to make certain late elections to end treatment as a Passive Foreign Investment Company (PFIC). The form is used to request consent to make late deemed dividend or sale elections with respect to a former PFIC or a Section 1297(e) PFIC. 
+
+The form includes several parts where the shareholder provides information related to the specific election being made. This includes details such as the termination date or CFC qualification date for the PFIC, the shareholder's holding period, and the calculation of post-1986 earnings and profits. 
+
+The form also includes a section for the computation of tax and interest due, including the determination of excess distribution, income tax liability, and foreign tax credit. The form provides a balance sheet for the election year if a deemed sale election is being made. 
+
+The form concludes with a closing agreement between the shareholder and the Commissioner of Internal Revenue, which confirms the granting of consent for the election and the resolution of specific matters related to the PFIC status. The closing agreement is final and conclusive, subject to reopening in cases of fraud, malfeasance, or misrepresentation of material fact.

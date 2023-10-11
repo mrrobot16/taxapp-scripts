@@ -1,0 +1,11 @@
+The Schedule NEC (Form 1040-NR) is a tax form used by non-resident aliens in the United States to report income that is not effectively connected with a U.S. trade or business. This form is attached to Form 1040-NR and is used to calculate the tax owed on this type of income.
+
+The form provides various categories of income, such as dividends, interest, royalties, pensions, annuities, social security benefits, capital gains, and gambling winnings. The taxpayer must enter the amount of income under the appropriate rate of tax for each category.
+
+The form also includes a section for reporting capital gains and losses from property sales or exchanges that are from sources within the United States and not effectively connected with a U.S. business. However, gains or losses on disposing of a U.S. real property interest should be reported on Schedule D (Form 1040).
+
+The taxpayer must calculate the tax on income not effectively connected with a U.S. trade or business by multiplying the total income in each column by the rate of tax at the top of each column. The sum of these calculations is entered on line 15 and reported on Form 1040-NR, line 23a.
+
+Additionally, the form includes a section for reporting the details of property sales or exchanges, including the kind of property, date acquired and sold, sales price, cost or other basis, and any resulting gains or losses. The net gain from these transactions is entered on line 18 and reported on line 9 above.
+
+Overall, the Schedule NEC (Form 1040-NR) is a crucial document for non-resident aliens to accurately report and calculate the tax on income not effectively connected with a U.S. trade or business.

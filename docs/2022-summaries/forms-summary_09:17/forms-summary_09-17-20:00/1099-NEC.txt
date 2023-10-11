@@ -1,0 +1,307 @@
+Attention: 
+Copy A of this form is provided for informational purposes only. Copy A appears in red, 
+similar to the official IRS form. The official printed version of Copy A of this IRS form is 
+scannable, but the online version of it, printed from this website, is not. Do not print and file 
+copy A downloaded from this website; a penalty may be imposed for filing with the IRS 
+information return forms that can’t be scanned. See part O in the current General 
+Instructions for Certain Information Returns, available at www.irs.gov/form1099, for more 
+information about penalties.
+Please note that Copy B and other copies of this form, which appear in black, may be 
+downloaded and printed and used to satisfy the requirement to provide the information to 
+the recipient.
+To order official IRS information returns, which include a scannable Copy A for filing with 
+the IRS and all other applicable copies of the form, visit www.IRS.gov/orderforms. Click on 
+Employer and Information Returns, and we’ll mail you the forms you request and their 
+instructions, as well as any publications you may order.
+Information returns may also be filed electronically using the IRS Filing Information Returns 
+Electronically (FIRE) system (visit www.IRS.gov/FIRE) or the IRS Affordable Care Act 
+Information Returns (AIR) program (visit www.IRS.gov/AIR).
+See IRS Publications 1141, 1167, and 1179 for more information about printing these tax 
+forms.
+     
+Form 1099-NEC
+(Rev. January 2022)
+Cat. No. 72590N
+Nonemployee 
+Compensation
+Copy A
+For Internal Revenue 
+Service Center
+Department of the Treasury - Internal Revenue Service
+File with Form 1096.
+OMB No. 1545-0116
+For Privacy Act and 
+Paperwork Reduction Act 
+Notice, see the current 
+General Instructions for 
+Certain Information 
+Returns.
+7171
+For calendar year
+20
+VOID
+CORRECTED
+PAYER’S name, street address, city or town, state or province, country, ZIP 
+or foreign postal code, and telephone no.
+PAYER’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+2nd TIN not.
+1 Nonemployee compensation
+$
+2 Payer made direct sales totaling $5,000 or more of 
+consumer products to recipient for resale
+3
+4 Federal income tax withheld
+$
+5 State tax withheld
+$
+$
+6 State/Payer’s state no.
+7 State income
+$
+$
+Form 1099-NEC (Rev. 1-2022)
+www.irs.gov/Form1099NEC
+Do Not Cut or Separate Forms on This Page — Do Not Cut or Separate Forms on This Page
+     
+Form 1099-NEC
+(Rev. January 2022)
+Nonemployee 
+Compensation
+Copy 1
+For State Tax 
+Department
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-0116
+For calendar year
+20
+VOID
+CORRECTED
+PAYER’S name, street address, city or town, state or province, country, ZIP 
+or foreign postal code, and telephone no.
+PAYER’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Nonemployee compensation
+$
+2 Payer made direct sales totaling $5,000 or more of 
+consumer products to recipient for resale
+3
+4 Federal income tax withheld
+$
+5 State tax withheld
+$
+$
+6 State/Payer’s state no.
+7 State income
+$
+$
+Form 1099-NEC (Rev. 1-2022)
+www.irs.gov/Form1099NEC
+     
+Form 1099-NEC
+(Rev. January 2022)
+Nonemployee 
+Compensation
+Copy B
+For Recipient
+Department of the Treasury - Internal Revenue Service
+This is important tax 
+information and is being 
+furnished to the IRS. If you are 
+required to file a return, a 
+negligence penalty or other 
+sanction may be imposed on 
+you if this income is taxable 
+and the IRS determines that it 
+has not been reported.
+OMB No. 1545-0116
+For calendar year
+20
+CORRECTED (if checked)
+PAYER’S name, street address, city or town, state or province, country, ZIP 
+or foreign postal code, and telephone no.
+PAYER’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Nonemployee compensation
+$
+2 Payer made direct sales totaling $5,000 or more of 
+consumer products to recipient for resale
+3
+4 Federal income tax withheld
+$
+5 State tax withheld
+$
+$
+6 State/Payer’s state no.
+7 State income
+$
+$
+Form 1099-NEC (Rev. 1-2022)
+(keep for your records)
+www.irs.gov/Form1099NEC
+Instructions for Recipient
+You received this form instead of Form W-2 because the payer did not 
+consider you an employee and did not withhold income tax or social 
+security and Medicare tax.
+If you believe you are an employee and cannot get the payer to correct 
+this form, report the amount shown in box 1 on the line for “Wages, 
+salaries, tips, etc.” of Form 1040, 1040-SR, or 1040-NR. You must also 
+complete Form 8919 and attach it to your return. For more information, see 
+Pub. 1779, Independent Contractor or Employee.
+If you are not an employee but the amount in box 1 is not self-
+employment (SE) income (for example, it is income from a sporadic activity 
+or a hobby), report the amount shown in box 1 on the “Other income” line 
+(on Schedule 1 (Form 1040)).
+Recipient’s taxpayer identification number (TIN). For your protection, this 
+form may show only the last four digits of your TIN (social security number 
+(SSN), individual taxpayer identification number (ITIN), adoption taxpayer 
+identification number (ATIN), or employer identification number (EIN)). 
+However, the issuer has reported your complete TIN to the IRS.
+Account number. May show an account or other unique number the payer 
+assigned to distinguish your account.
+Box 1. Shows nonemployee compensation. If the amount in this box is SE 
+income, report it on Schedule C or F (Form 1040) if a sole proprietor, or on 
+Form 1065 and Schedule K-1 (Form 1065) if a partnership, and the 
+recipient/partner completes Schedule SE (Form 1040).
+Note: If you are receiving payments on which no income, social security, 
+and Medicare taxes are withheld, you should make estimated tax 
+payments. See Form 1040-ES (or Form 1040-ES (NR)). Individuals must 
+report these amounts as explained in these box 1 instructions. 
+Corporations, fiduciaries, and partnerships must report these amounts on 
+the appropriate line of their tax returns.
+Box 2. If checked, consumer products totaling $5,000 or more were sold 
+to you for resale, on a buy-sell, a deposit-commission, or other basis. 
+Generally, report any income from your sale of these products on 
+Schedule C (Form 1040).
+Box 3. Reserved for future use.
+Box 4. Shows backup withholding. A payer must backup withhold on 
+certain payments if you did not give your TIN to the payer. See Form W-9, 
+Request for Taxpayer Identification Number and Certification, for 
+information on backup withholding. Include this amount on your income 
+tax return as tax withheld.
+Boxes 5–7. State income tax withheld reporting boxes.
+Future developments. For the latest information about developments 
+related to Form 1099-NEC and its instructions, such as legislation enacted 
+after they were published, go to www.irs.gov/Form1099NEC.
+Free File Program. Go to www.irs.gov/FreeFile to see if you qualify for 
+no-cost online federal tax preparation, e-filing, and direct deposit or 
+payment options.
+     
+Form 1099-NEC
+(Rev. January 2022)
+Nonemployee 
+Compensation
+Copy 2
+To be filed with 
+recipient’s state 
+income tax 
+return, when 
+required.
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-0116
+For calendar year
+20
+VOID
+CORRECTED
+PAYER’S name, street address, city or town, state or province, country, ZIP 
+or foreign postal code, and telephone no.
+PAYER’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Nonemployee compensation
+$
+2 Payer made direct sales totaling $5,000 or more of 
+consumer products to recipient for resale
+3
+4 Federal income tax withheld
+$
+5 State tax withheld
+$
+$
+6 State/Payer’s state no.
+7 State income
+$
+$
+Form 1099-NEC (Rev. 1-2022)
+www.irs.gov/Form1099NEC
+     
+Form 1099-NEC
+(Rev. January 2022)
+Nonemployee 
+Compensation
+Copy C
+For Payer
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-0116
+For calendar year
+20
+VOID
+CORRECTED
+For Privacy Act and 
+Paperwork Reduction 
+Act Notice, see the 
+current General 
+Instructions for Certain 
+Information Returns.
+PAYER’S name, street address, city or town, state or province, country, ZIP 
+or foreign postal code, and telephone no.
+PAYER’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+2nd TIN not.
+1 Nonemployee compensation
+$
+2 Payer made direct sales totaling $5,000 or more of 
+consumer products to recipient for resale
+3
+4 Federal income tax withheld
+$
+5 State tax withheld
+$
+$
+6 State/Payer’s state no.
+7 State income
+$
+$
+Form 1099-NEC (Rev. 1-2022)
+www.irs.gov/Form1099NEC
+Instructions for Payer
+To complete Form 1099-NEC, use:
+• The current General Instructions for Certain 
+Information Returns, and 
+• The current Instructions for Forms 1099-MISC and 
+1099-NEC.
+To order these instructions and additional forms, go 
+to www.irs.gov/EmployerForms.
+Caution: Because paper forms are scanned during  
+processing, you cannot file certain Forms 1096, 1097, 
+1098, 1099, 3921, or 5498 that you print from the IRS 
+website. 
+Filing and furnishing. For filing and furnishing 
+instructions, including due dates, and to request filing or 
+furnishing extensions, see the current General 
+Instructions for Certain Information Returns.
+Need help? If you have questions about reporting on  
+Form 1099-NEC, call the information reporting customer 
+service site toll free at 866-455-7438 or 304-263-8700 
+(not toll free). Persons with a hearing or speech 
+disability with access to TTY/TDD equipment can call 
+304-579-4827 (not toll free).

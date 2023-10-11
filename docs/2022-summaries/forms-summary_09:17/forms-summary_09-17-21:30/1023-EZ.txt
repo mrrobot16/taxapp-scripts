@@ -1,0 +1,13 @@
+Form 1023-EZ is a streamlined application for recognition of exemption under Section 501(c)(3) of the Internal Revenue Code. It is used by organizations seeking tax-exempt status in the United States. The form collects information about the applicant organization, including its name, address, and contact information. It also requires information about the organization's officers, directors, and trustees.
+
+The form asks for details about the organizational structure, including the type of organization (corporation, unincorporated association, or trust) and the date and state of incorporation or formation. It also requires the applicant to attest that the organizing document of the organization meets certain requirements of Section 501(c)(3), such as limiting the purposes of the organization to exempt purposes and providing for the use of assets exclusively for exempt purposes upon dissolution.
+
+The form also asks the applicant to provide information about the specific activities of the organization, including its NTEE code, which describes its activities, and the purposes for which the organization is organized and operated. The applicant must also attest that it will comply with certain restrictions and prohibitions, such as refraining from supporting or opposing political candidates and ensuring that its net earnings do not benefit private individuals.
+
+Additionally, the form includes a section for classifying the organization as either a private foundation or a public charity. The applicant must choose the appropriate classification and provide any necessary provisions in the organizing document to avoid liability for private foundation excise taxes.
+
+Finally, the form includes a section for organizations seeking reinstatement of exemption after being automatically revoked for failure to file required annual returns or notices. The applicant must choose the appropriate reinstatement option and provide any required information.
+
+The form must be signed by an authorized official of the organization, who declares under penalties of perjury that the information provided is true, correct, and complete.
+
+Form 1023-EZ is filed electronically only on Pay.gov, and applicants must complete the Form 1023-EZ Eligibility Worksheet in the instructions to determine if they are eligible to file the form.

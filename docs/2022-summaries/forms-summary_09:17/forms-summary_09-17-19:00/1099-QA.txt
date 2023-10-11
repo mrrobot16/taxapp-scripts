@@ -1,0 +1,11 @@
+Form 1099-QA is a tax form used to report distributions from Achieving a Better Life Experience (ABLE) accounts. The form is divided into three copies: Copy A is filed with the Internal Revenue Service (IRS), Copy B is provided to the recipient, and Copy C is retained by the payer.
+
+The form requires the payer to provide their name, address, and telephone number, as well as their taxpayer identification number (TIN). The recipient's name, address, and TIN are also required, along with an account number to distinguish the recipient's account.
+
+The form includes several boxes for reporting information about the distributions. Box 1 shows the gross distribution paid to the recipient from the ABLE account in the calendar year being reported. Box 2 shows the earnings portion of the gross distribution, while Box 3 shows the recipient's basis in the distribution.
+
+Box 4 is checked if a program-to-program transfer was made from the ABLE account to another ABLE account. Box 5 is checked if the ABLE account was terminated in the calendar year. Box 6 is checked if the recipient is not the designated beneficiary of the ABLE account.
+
+The form also provides instructions for the recipient, including information about their taxpayer identification number, the account number assigned by the payer, and how to report the distribution on their tax return. The instructions also mention potential additional taxes and penalties for the recipient or the designated beneficiary, and provide information about future developments and the Free File Program.
+
+For the payer, the instructions recommend using the current General Instructions for Certain Information Returns and the current Instructions for Form 1099-QA to complete the form. The instructions also provide guidance on filing and furnishing the form, including due dates and extensions. Assistance with reporting on Form 1099-QA can be obtained by contacting the Technical Services Operation (TSO) toll-free or through relay services for deaf or hard of hearing customers.

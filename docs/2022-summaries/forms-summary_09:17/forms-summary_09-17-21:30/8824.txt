@@ -1,0 +1,11 @@
+Form 8824 is used by taxpayers to report like-kind exchanges and section 1043 conflict-of-interest sales to the Internal Revenue Service (IRS). The form is attached to the taxpayer's tax return.
+
+Part I of the form requires the taxpayer to provide information about the like-kind exchange, including a description of the property given up and the property received. The taxpayer must also provide the dates of acquisition and transfer of the property.
+
+Part II is completed if the exchange was made with a related party. The taxpayer must provide the name, relationship, identifying number, and address of the related party. They must also indicate if the related party sold or disposed of any part of the like-kind property received.
+
+Part III is used to report the realized gain or loss, recognized gain, and basis of the like-kind property received. The taxpayer must provide the fair market value and adjusted basis of any other property given up, as well as any gain or loss recognized on that property. They must also report the cash received, fair market value of other property received, net liabilities assumed by the other party, and any exchange expenses incurred. The form calculates the realized gain or loss, the deferred gain or loss, and the basis of the like-kind property received.
+
+Part IV is only used by certain government officials to report nonrecognition of gain under section 1043 on the sale of property to comply with conflict-of-interest requirements. This part requires the taxpayer to provide the number from their certificate of divestiture, a description of the divested property, a description of the replacement property, the date the divested property was sold, the sales price and basis of the divested property, the cost of the replacement property, and calculates the realized gain, deferred gain, and basis of the replacement property.
+
+The form includes instructions for each part and provides additional information and exceptions related to the reporting of like-kind exchanges and section 1043 conflict-of-interest sales.

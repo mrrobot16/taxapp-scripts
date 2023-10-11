@@ -1,0 +1,2559 @@
+Form  8865
+Department of the Treasury 
+Internal Revenue Service
+Return of U.S. Persons With Respect to 
+Certain Foreign Partnerships
+Attach to your tax return. 
+Go to www.irs.gov/Form8865 for instructions and the latest information.
+Information furnished for the foreign partnership’s tax year
+beginning
+, 2022, and ending
+, 20
+OMB No. 1545-1668
+2022
+Attachment 
+Sequence No.  865
+Name of person filing this return
+Filer’s identification number
+Filer’s address (if you aren’t filing this form with your tax return)
+A Category of filer (see Categories of Filers in the instructions and check applicable box(es)):
+1 
+2 
+3 
+4 
+B Filer’s tax year beginning
+, 20
+, and ending 
+, 20
+C
+Filer’s share of liabilities: Nonrecourse $
+Qualified nonrecourse financing $
+Other $
+D
+If filer is a member of a consolidated group but not the parent, enter the following information about the parent:
+Name
+EIN
+Address
+  E       Check if any excepted specified foreign financial assets are reported on this form. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+F
+Information about certain other partners (see instructions)
+(1) Name
+(2) Address
+(3) Identification number
+(4) Check applicable box(es)
+     
+      
+      
+Category 1
+Category 2
+Constructive owner
+G1
+Name and address of foreign partnership
+2(a) EIN (if any)
+2(b) Reference ID number (see instructions)
+3 Country under whose laws organized
+4
+Date of 
+organization
+5  Principal place of 
+business
+6  Principal business  
+activity code number
+7  Principal business 
+activity
+8a Functional currency
+8b Exchange rate 
+(see instructions)
+H
+Provide the following information for the foreign partnership’s tax year:
+1
+Name, address, and identification number of agent (if any) in the 
+United States
+2  Check if the foreign partnership must file:
+Form 1042
+Form 8804
+Form 1065
+Service Center where Form 1065 is filed:
+3
+Name and address of foreign partnership’s agent in country of 
+organization, if any
+4  Name and address of person(s) with custody of the books and records of the 
+foreign partnership, and the location of such books and records, if different
+5 
+During the tax year, did the foreign partnership pay or accrue any interest or royalty for which the deduction is not 
+allowed under section 267A? See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+If “Yes,” enter the total amount of the disallowed deductions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  $
+6
+Is the partnership a section 721(c) partnership, as defined in Regulations section 1.721(c)-1(b)(14)? .
+.
+.
+.
+.
+.
+.  
+Yes
+No
+7
+Were any special allocations made by the foreign partnership? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+8 
+Enter the number of Forms 8858, Information Return of U.S. Persons With Respect to Foreign Disregarded Entities 
+(FDEs) and Foreign Branches (FBs), attached to this return. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+9
+How is this partnership classified under the law of the country in which it’s organized? 
+.
+.
+10 
+ 
+a 
+ 
+Does the filer have an interest in the foreign partnership, or an interest indirectly through the foreign partnership, that’s a 
+separate unit under Regulations section 1.1503(d)-1(b)(4) or part of a combined separate unit under Regulations section 
+1.1503(d)-1(b)(4)(ii)? If “No,” skip question 10b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+b 
+If “Yes,” does the separate unit or combined separate unit have a dual consolidated loss, as defined in Regulations 
+section 1.1503(d)-1(b)(5)(ii)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+11
+Does this partnership meet both of the following requirements?
+1. The partnership’s total receipts for the tax year were less than $250,000.
+2. The value of the partnership’s total assets at the end of the tax year was less than $1 million.
+If “Yes,” don’t complete Schedules L, M-1, and M-2.
+} .
+.
+.
+.
+.
+.
+.  
+Yes
+No
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 25852A
+Form 8865 (2022)
+Form 8865 (2022)
+Page 2 
+12 a 
+Is the filer of this Form 8865 claiming a foreign-derived intangible income (FDII) deduction (under section 250) with 
+respect to any transaction with the foreign partnership? If “Yes,” complete lines 12b, 12c, and 12d. See instructions .
+.
+Yes
+No
+b 
+Enter the amount of gross receipts derived from all sales of general property to the foreign partnership that the filer 
+included in its computation of foreign-derived deduction eligible income (FDDEI) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c 
+Enter the amount of gross receipts derived from all sales of intangible property to the foreign partnership that the filer 
+included in its computation of FDDEI .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+d 
+Enter the amount of gross receipts derived from all services provided to the foreign partnership that the filer included in 
+its computation of FDDEI .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+Enter the number of foreign partners subject to section 864(c)(8) as a result of transferring all or a portion of an interest in 
+the partnership or of receiving a distribution from the partnership .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+14
+At any time during the tax year were any transfers between the partnership and its partners subject to the disclosure 
+requirements of Regulations section 1.707-8?.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Sign Here Only 
+if You’re Filing 
+This Form 
+Separately and 
+Not With Your 
+Tax Return.
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge 
+and belief, it is true, correct, and complete. Declaration of preparer (other than general partner or limited liability company member) is based on all 
+information of which preparer has any knowledge.
+Signature of general partner or limited liability company member
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if  
+self-employed 
+PTIN
+Firm’s name  
+Firm’s address 
+Firm’s EIN 
+Phone no. 
+Schedule A
+Constructive Ownership of Partnership Interest. Check the boxes that apply to the filer. If you check 
+box b, enter the name, address, and U.S. taxpayer identification number (if any) of the person(s) whose 
+interest you constructively own. See instructions.
+a
+Owns a direct interest
+b
+Owns a constructive interest
+Name
+Address
+Identification number (if any)
+Check if 
+foreign 
+person
+Check if 
+direct 
+partner
+Schedule A-1
+Certain Partners of Foreign Partnership (see instructions)
+Name
+Address
+Identification number (if any)
+Check if 
+foreign 
+person
+Schedule A-2
+Foreign Partners of Section 721(c) Partnership (see instructions)
+Name of foreign 
+partner
+Address
+Country of 
+organization 
+ (if any)
+U.S. taxpayer 
+identification number 
+(if any)
+Check if related to 
+U.S. transferor 
+Percentage interest
+     
+     
+     
+     
+     
+Capital
+Profits
+%
+%
+%
+%
+Does the partnership have any other foreign person as a direct partner? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Schedule A-3
+Affiliation Schedule.  List all partnerships (foreign or domestic) in which the foreign partnership owns a 
+direct interest or indirectly owns a 10% interest.
+Name
+Address
+EIN 
+(if any)
+Total ordinary 
+income or loss
+Check if 
+foreign 
+partnership
+Form 8865 (2022)
+Form 8865 (2022)
+Page 3 
+Schedule B
+Income Statement—Trade or Business Income
+Caution: Include only trade or business income and expenses on lines 1a through 22 below. See the instructions for more information.
+Income
+1 a
+Gross receipts or sales .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a 
+b Less returns and allowances .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+1c 
+2 
+Cost of goods sold 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Gross profit. Subtract line 2 from line 1c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Ordinary income (loss) from other partnerships, estates, and trusts (attach statement) 
+.
+.
+.
+.
+4 
+5 
+Net farm profit (loss) (attach Schedule F (Form 1040)) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Net gain (loss) from Form 4797, Part II, line 17 (attach Form 4797) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Other income (loss) (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Total income (loss). Combine lines 3 through 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Deductions (see instructions for limitations) 
+9 
+Salaries and wages (other than to partners) (less employment credits) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Guaranteed payments to partners 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Repairs and maintenance .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+12 
+Bad debts .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Rent .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Taxes and licenses 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Interest (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16a
+Depreciation (if required, attach Form 4562) 
+.
+.
+.
+.
+.
+.
+.
+.
+16a
+b Less depreciation reported elsewhere on return 
+.
+.
+.
+.
+.
+.
+.
+16b
+16c
+17 
+Depletion (Don’t deduct oil and gas depletion.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Retirement plans, etc. 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Employee benefit programs 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+Other deductions (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+21 
+Total deductions. Add the amounts shown in the far right column for lines 9 through 20 
+.
+.
+.
+21 
+22 
+Ordinary business income (loss) from trade or business activities. Subtract line 21 from line 8 
+.
+22 
+Tax and Payment
+23
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+25
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+26
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26
+27
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27
+28
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28
+29
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29
+30
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+30
+Schedule K
+Partners’ Distributive Share Items
+Total amount
+Income (Loss)
+1
+Ordinary business income (loss) (Schedule B, line 22) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Net rental real estate income (loss) (attach Form 8825) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3a
+Other gross rental income (loss) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b
+Expenses from other rental activities (attach statement) 
+.
+.
+.
+.
+3b
+c
+Other net rental income (loss). Subtract line 3b from line 3a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c
+4
+Guaranteed payments: a Services
+4a
+b Capital
+4b
+c
+Total. Add line 4a and line 4b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4c 
+5
+Interest income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Dividends and dividend equivalents:
+a Ordinary dividends 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6a
+b Qualified dividends 
+.
+.
+6b
+c
+Dividend equivalents .
+.
+6c
+7
+Royalties .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Net short-term capital gain (loss) (attach Schedule D (Form 1065)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9a
+Net long-term capital gain (loss) (attach Schedule D (Form 1065)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a
+b
+Collectibles (28%) gain (loss) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9b
+c
+Unrecaptured section 1250 gain (attach statement) 
+.
+.
+.
+.
+.
+9c
+10
+Net section 1231 gain (loss) (attach Form 4797) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Other income (loss) (see instructions) (1)  Type 
+(2)  Amount 
+11(2)
+Deductions
+12
+Section 179 deduction (attach Form 4562) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13a
+Contributions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13a
+b
+Investment interest expense .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13b
+c
+Section 59(e)(2) expenditures: 
+(1)  Type 
+(2)  Amount  
+13c(2)
+d
+Other deductions (see instructions) (1)  Type 
+(2)  Amount 
+13d(2)
+Form 8865 (2022)
+Form 8865 (2022)
+Page 4 
+Schedule K
+Partners’ Distributive Share Items (continued)
+Total amount
+Self- 
+Employ- 
+ment
+14a
+Net earnings (loss) from self-employment .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14a
+b
+Gross farming or fishing income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14b
+c
+Gross nonfarm income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14c
+Credits
+15a
+Low-income housing credit (section 42(j)(5)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15a
+b
+Low-income housing credit (other) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15b
+c
+Qualified rehabilitation expenditures (rental real estate) (attach Form 3468) 
+.
+.
+.
+.
+.
+.
+.
+15c
+d
+Other rental real estate credits (see instructions)
+Type 
+15d
+e
+Other rental credits (see instructions)
+Type 
+15e
+f
+Other credits (see instructions)
+Type 
+15f
+International
+16
+Attach Schedule K-2 (Form 8865), Partners’ Distributive Share Items—International, and 
+check this box to indicate that you are reporting items of international tax relevance
+.
+.
+.
+Alternative 
+Minimum Tax 
+(AMT) Items
+17a
+Post-1986 depreciation adjustment 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17a
+b
+Adjusted gain or loss .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17b
+c
+Depletion (other than oil and gas) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17c
+d
+Oil, gas, and geothermal properties—gross income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17d
+e
+Oil, gas, and geothermal properties—deductions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 17e
+f
+Other AMT items (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17f
+Other Information
+18a
+Tax-exempt interest income .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18a
+b
+Other tax-exempt income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18b
+c
+Nondeductible expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18c
+19a
+Distributions of cash and marketable securities .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19a
+b
+Distributions of other property .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19b
+20a
+Investment income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20a
+b
+Investment expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20b
+c
+Other items and amounts (attach statement) 
+21
+Total foreign taxes paid or accrued .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+Schedule L
+Balance Sheets per Books. (Not required if Item H11, page 1, is answered “Yes.”)
+Beginning of tax year
+End of tax year
+Assets
+(a) 
+(b) 
+(c) 
+(d) 
+1 
+Cash 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+Trade notes and accounts receivable 
+.
+.
+.
+b 
+Less allowance for bad debts .
+.
+.
+.
+.
+.
+3 
+Inventories 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+U.S. Government obligations .
+.
+.
+.
+.
+.
+5 
+Tax-exempt securities .
+.
+.
+.
+.
+.
+.
+.
+6 
+Other current assets (attach statement) .
+.
+.
+7a Loans to partners (or persons related to partners)
+b 
+Mortgage and real estate loans 
+.
+.
+.
+.
+.
+8 
+Other investments (attach statement) 
+.
+.
+.
+9a
+Buildings and other depreciable assets .
+.
+.
+b 
+Less accumulated depreciation .
+.
+.
+.
+.
+10a
+Depletable assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b 
+Less accumulated depletion .
+.
+.
+.
+.
+.
+11 
+Land (net of any amortization) .
+.
+.
+.
+.
+.
+12a
+Intangible assets (amortizable only) .
+.
+.
+.
+b 
+Less accumulated amortization .
+.
+.
+.
+.
+Form 8865 (2022)
+Form 8865 (2022)
+Page 5 
+Schedule L
+Balance Sheets per Books. (Not required if Item H11, page 1, is answered “Yes.”) (continued)
+Beginning of tax year
+End of tax year
+(a) 
+(b) 
+(c) 
+(d) 
+13 
+Other assets (attach statement) 
+.
+.
+.
+.
+14 
+Total assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Liabilities and Capital
+15 
+Accounts payable .
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+Mortgages, notes, bonds payable in less than 1 year
+17 
+Other current liabilities (attach statement) 
+.
+18 
+All nonrecourse loans .
+.
+.
+.
+.
+.
+.
+.
+19a
+Loans from partners (or persons related to partners)
+b
+Mortgages, notes, bonds payable in 1 year or more
+20 
+Other liabilities (attach statement) .
+.
+.
+.
+21 
+Partners’ capital accounts 
+.
+.
+.
+.
+.
+.
+22 
+Total liabilities and capital 
+.
+.
+.
+.
+.
+.
+Schedule M
+Balance Sheets for Interest Allocation
+(a) 
+Beginning of 
+tax year
+(b) 
+End of 
+tax year
+1
+Total U.S. assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 2
+Total foreign assets:
+a
+Passive category 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+General category 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Other (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule M-1
+Reconciliation of Income (Loss) per Books With Income (Loss) per Return. (Not required if Item 
+H11, page 1, is answered “Yes.”)
+1
+Net income (loss) per books .
+ 
+2 
+ 
+ 
+Income included on Schedule K,
+lines 1, 2, 3c, 5, 6a, 7, 8, 9a, 10, 
+and 11, not recorded on books 
+this tax year (itemize):
+$ 
+3 
+Guaranteed 
+payments 
+(other 
+than health insurance) .
+.
+.
+4 
+ 
+ 
+Expenses recorded on books 
+this tax year not included on 
+Schedule K, lines 1 through 
+13d,  and 21 (itemize):
+a
+Depreciation $
+b
+Travel and entertainment $
+5
+Add lines 1 through 4 .
+.
+.
+6 
+ 
+Income recorded on books this tax 
+year not included on Schedule K, 
+lines 1 through 11 (itemize):
+a
+Tax-exempt interest $
+7 
+ 
+ 
+Deductions included on Schedule 
+K, lines 1 through 13d, and 21, not 
+charged against book income this 
+tax year (itemize): 
+a
+Depreciation $
+8
+Add lines 6 and 7 .
+.
+.
+.
+.
+9 
+Income (loss). Subtract line 8 
+from line 5 
+.
+.
+.
+.
+.
+.
+.
+Schedule M-2
+Analysis of Partners’ Capital Accounts. (Not required if Item H11, page 1, is answered “Yes.”)
+1
+Balance at beginning of tax year 
+2
+Capital contributed:
+a Cash .
+.
+.
+b Property .
+.
+3
+Net income (loss) per books .
+4
+Other increases (itemize): $ 
+5
+Add lines 1 through 4 .
+.
+.
+6
+Distributions:  a Cash 
+.
+.
+.
+b Property 
+.
+.
+7
+Other decreases (itemize): $
+8
+Add lines 6 and 7 .
+.
+.
+.
+.
+9 
+Balance at end of tax year. 
+Subtract line 8 from line 5 .
+.
+Form 8865 (2022)
+Form 8865 (2022)
+Page 6 
+Schedule N
+Transactions Between Controlled Foreign Partnership and Partners or Other Related Entities
+Important: Complete a separate Form 8865 and Schedule N for each controlled foreign partnership. Enter the totals for each type of 
+transaction that occurred between the foreign partnership and the persons listed in columns (a) through (d).
+Transactions 
+of 
+foreign partnership
+(a) U.S. person 
+filing this return
+(b) Any domestic 
+corporation or partnership 
+controlling or controlled 
+by the U.S. person filing 
+this return
+(c) Any other foreign 
+corporation or partnership 
+controlling or controlled  
+by the U.S. person filing 
+this return
+(d) Any U.S. person with a 
+10% or more direct interest 
+in the controlled foreign 
+partnership (other than the 
+U.S. person filing this return)
+1
+Sales of inventory .
+.
+.
+.
+2 
+Sales of property rights (patents, 
+trademarks, etc.) .
+.
+.
+.
+.
+3 
+ 
+ 
+Compensation received for 
+technical, 
+managerial, 
+engineering, construction, or 
+like services .
+.
+.
+.
+.
+.
+.
+4
+Commissions received 
+.
+.
+5 
+Rents, royalties, and license 
+fees received 
+.
+.
+.
+.
+.
+6
+Distributions received .
+.
+.
+7
+Interest received 
+.
+.
+.
+.
+8
+Other .
+.
+.
+.
+.
+.
+.
+.
+9
+Add lines 1 through 8 .
+.
+.
+10
+Purchases of inventory 
+.
+.
+11 
+Purchases of tangible property 
+other than inventory 
+.
+.
+.
+12 
+Purchases of property rights 
+(patents, trademarks, etc.) 
+.
+13 
+ 
+ 
+Compensation 
+paid 
+for 
+technical, 
+managerial, 
+engineering, construction, or 
+like services .
+.
+.
+.
+.
+.
+14
+Commissions paid .
+.
+.
+.
+15 
+Rents, royalties, and license 
+fees paid .
+.
+.
+.
+.
+.
+.
+16
+Distributions paid .
+.
+.
+.
+17
+Interest paid .
+.
+.
+.
+.
+.
+18
+Other .
+.
+.
+.
+.
+.
+.
+.
+19
+Add lines 10 through 18 .
+.
+20 
+ 
+ 
+Amounts borrowed (enter the 
+maximum 
+loan 
+balance 
+during the tax year). See 
+instructions .
+.
+.
+.
+.
+.
+21 
+ 
+ 
+Amounts loaned (enter the 
+maximum 
+loan 
+balance 
+during the tax year). See 
+instructions .
+.
+.
+.
+.
+.
+Form 8865 (2022)

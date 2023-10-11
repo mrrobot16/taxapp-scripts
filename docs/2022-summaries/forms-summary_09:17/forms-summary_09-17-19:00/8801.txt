@@ -1,0 +1,21 @@
+Form 8801 is a document provided by the Internal Revenue Service (IRS) for individuals, estates, and trusts to claim the Credit for Prior Year Minimum Tax. This form is used to calculate and determine the credit amount that can be carried forward to future tax years.
+
+The form is divided into three parts:
+
+Part I: Net Minimum Tax on Exclusion Items
+- This section requires the taxpayer to combine certain lines from their 2021 Form 6251 and enter adjustments and preferences treated as exclusion items.
+- It also includes calculations for the minimum tax credit net operating loss deduction.
+- The taxpayer must subtract line 6 from line 4 to determine the net minimum tax on exclusion items.
+
+Part II: Minimum Tax Credit and Carryforward to 2023
+- This section involves entering amounts from the taxpayer's 2021 Form 6251 or 2021 Form 1041, Schedule I.
+- The taxpayer must subtract line 17 from line 16 to determine the credit carryforward to 2023.
+
+Part III: Tax Computation Using Maximum Capital Gains Rates
+- This section is completed if required by line 11 or the Foreign Earned Income Tax Worksheet.
+- It involves calculations related to qualified dividends, capital gains, and the maximum capital gains tax rate.
+- The taxpayer must enter various amounts and perform calculations to determine the final credit amount.
+
+The form concludes with instructions for entering the credit amount on line 11 and provides additional information for specific situations.
+
+It's important to note that this summary provides a general overview of the form and its sections. Taxpayers should refer to the official instructions provided by the IRS for detailed guidance on completing Form 8801.

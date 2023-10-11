@@ -1,0 +1,13 @@
+Schedule M-3 is a form that is attached to Form 1120-L, which is used by U.S. life insurance companies with total assets of $10 million or more. The form is used to reconcile the net income (loss) of the company with its taxable income per the tax return. 
+
+The form is divided into three parts. 
+
+Part I requires the company to provide financial information and reconcile its net income (loss) based on its income statement. The company must indicate whether it filed SEC Form 10-K for the income statement period and whether it prepared a certified audited non-tax-basis income statement or a non-tax-basis income statement. The company must also provide information on its income statement period, restatements of its income statement, and whether its common stock is publicly traded. The form also requires the company to provide its worldwide consolidated net income (loss) and any adjustments related to foreign entities and nonincludible U.S. entities.
+
+Part II is used to reconcile the net income (loss) per the income statement of includible corporations with the taxable income per the tax return. The form provides a list of income (loss) items and requires the company to indicate the temporary and permanent differences between the income statement and the tax return. The company must provide information on income (loss) from equity method foreign corporations, subpart F, QEF, and similar income inclusions, U.S. dividends not eliminated in tax consolidation, and income (loss) from U.S. partnerships and foreign partnerships, among other items.
+
+Part III is used to reconcile the expense/deduction items per the income statement with the deduction per the tax return. The form provides a list of expense/deduction items and requires the company to indicate the temporary and permanent differences between the income statement and the tax return. The company must provide information on U.S. current income tax expense, state and local current income tax expense, equity-based compensation, meals and entertainment expenses, and research and development costs, among other items.
+
+The form also includes sections for the company to enter the total amount of assets and liabilities of included and removed entities, as well as a section for consolidated groups to provide additional reconciliation totals.
+
+Overall, Schedule M-3 is a detailed form that helps U.S. life insurance companies reconcile their net income (loss) with their taxable income for tax purposes.

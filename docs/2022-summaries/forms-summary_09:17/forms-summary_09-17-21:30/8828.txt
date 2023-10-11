@@ -1,0 +1,9 @@
+Form 8828 is used to determine the recapture tax owed on the sale or disposition of a home that had a federally subsidized loan. The form requires the taxpayer to provide information about the property, including the address and type of federal subsidy received. The form also asks for details about the original loan, such as the name and address of the lending institution and the date of closing.
+
+Part II of the form is used to calculate the recapture tax. The taxpayer must provide the sales price of the home, as well as any expenses of sale. The adjusted basis of the home is also required. The form then calculates the gain or loss from the sale or disposition and multiplies it by 50% to determine the recapture amount. 
+
+The taxpayer's modified adjusted gross income and adjusted qualifying income are also taken into account to determine the recapture tax. If the income percentage is $5,000 or more, the taxpayer enters 100%. Otherwise, the amount on line 17 is divided by $5,000 and rounded to the nearest whole percentage. The federally subsidized amount and holding period percentage are then multiplied together to calculate the recapture amount.
+
+The tax owed is the smaller of line 14 or line 22, and this amount should be included on the line for total tax on Form 1040.
+
+This form should be attached to Form 1040 and is subject to the Paperwork Reduction Act.

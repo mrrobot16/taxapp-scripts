@@ -1,0 +1,13 @@
+Form 8915-D is a document provided by the Internal Revenue Service (IRS) for individuals who have made qualified 2019 disaster retirement plan distributions and repayments. The form is used to calculate the amount subject to tax in 2022 for these distributions. 
+
+The form consists of two parts: Part I is for qualified 2019 disaster distributions from retirement plans other than IRAs, and Part II is for qualified 2019 disaster distributions from traditional, SEP, SIMPLE, and Roth IRAs.
+
+In each part, the form requires the individual to enter the amounts from their previous year's Form 8915-D, lines 11 and 19 (Part I) or lines 26 and 35 (Part II), if applicable. The form also includes lines for calculating excess repayments from the previous year, any repayments made before filing the 2022 tax return, and the total amount subject to tax in 2022.
+
+The form must be attached to the individual's 2022 Form 1040, 1040-SR, or 1040-NR, and it is important to follow the instructions provided by the IRS for accurate completion.
+
+For coronavirus-related distributions, individuals should refer to Form 8915-F instead of Form 8915-D.
+
+The form includes sections for the individual's personal information, such as name, social security number, and address. There is also a declaration section to be signed by the individual, confirming the accuracy of the information provided on the form.
+
+For more detailed instructions and the latest information, individuals are directed to visit the IRS website at www.irs.gov/Form8915D.

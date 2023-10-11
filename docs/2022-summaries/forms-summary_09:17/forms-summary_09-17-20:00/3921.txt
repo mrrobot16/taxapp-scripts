@@ -1,0 +1,263 @@
+Attention: 
+Copy A of this form is provided for informational purposes only. Copy A appears in red, 
+similar to the official IRS form. The official printed version of Copy A of this IRS form is 
+scannable, but the online version of it, printed from this website, is not. Do not print and file 
+copy A downloaded from this website; a penalty may be imposed for filing with the IRS 
+information return forms that can’t be scanned. See part O in the current General 
+Instructions for Certain Information Returns, available at www.irs.gov/form1099, for more 
+information about penalties.
+Please note that Copy B and other copies of this form, which appear in black, may be 
+downloaded and printed and used to satisfy the requirement to provide the information to 
+the recipient.
+To order official IRS information returns, which include a scannable Copy A for filing with 
+the IRS and all other applicable copies of the form, visit www.IRS.gov/orderforms. Click on 
+Employer and Information Returns, and we’ll mail you the forms you request and their 
+instructions, as well as any publications you may order.
+Information returns may also be filed electronically using the IRS Filing Information Returns 
+Electronically (FIRE) system (visit www.IRS.gov/FIRE) or the IRS Affordable Care Act 
+Information Returns (AIR) program (visit www.IRS.gov/AIR).
+See IRS Publications 1141, 1167, and 1179 for more information about printing these tax 
+forms.
+      
+Form 3921
+(Rev. October 2017)
+Cat. No. 41179O
+Exercise of an 
+Incentive Stock 
+Option Under 
+Section 422(b)
+Copy A
+For 
+Internal Revenue 
+Service Center
+Department of the Treasury - Internal Revenue Service
+File with Form 1096.
+OMB No. 1545-2129
+For Privacy Act and 
+Paperwork 
+Reduction Act 
+Notice, see the 
+current version of 
+the General 
+Instructions for 
+Certain Information 
+Returns.
+2525
+VOID
+CORRECTED
+TRANSFEROR’S name, street address, city or town, state or province, 
+country, and ZIP or foreign postal code
+TRANSFEROR’S TIN
+EMPLOYEE’S TIN
+EMPLOYEE’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Date option granted
+2 Date option exercised
+3 Exercise price per share
+$
+4 Fair market value per share 
+on exercise date
+$
+5 No. of shares transferred
+6 If other than TRANSFEROR, name, address, and TIN of 
+corporation whose stock is being transferred
+Form 3921 (Rev. October 2017)
+www.irs.gov/Form3921
+Do Not Cut or Separate Forms on This Page — Do Not Cut or Separate Forms on This Page
+      
+Form 3921
+(Rev. October 2017)
+Exercise of an 
+Incentive Stock 
+Option Under 
+Section 422(b)
+Copy B
+For Employee
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-2129
+This is important tax 
+information and is 
+being furnished to the 
+IRS. If you are required 
+to file a return, a 
+negligence penalty or 
+other sanction may be 
+imposed on you if this 
+item is required to be 
+reported and the IRS 
+determines that it has 
+not been reported. 
+CORRECTED (if checked)
+TRANSFEROR’S name, street address, city or town, state or province, 
+country, and ZIP or foreign postal code
+TRANSFEROR’S TIN
+EMPLOYEE’S TIN
+EMPLOYEE’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Date option granted
+2 Date option exercised
+3 Exercise price per share
+$
+4 Fair market value per share 
+on exercise date
+$
+5 No. of shares transferred
+6 If other than TRANSFEROR, name, address, and TIN of 
+corporation whose stock is being transferred
+Form 3921 (Rev. October 2017)
+(keep for your records)
+www.irs.gov/Form3921
+Instructions for Employee
+You have received this form because your employer (or transfer 
+agent) transferred your employer’s stock to you pursuant to your 
+exercise of an incentive stock option (ISO). You must recognize 
+(report) gain or loss on your tax return for the year in which you 
+sell or otherwise dispose of the stock. Keep this form and use it to 
+figure the gain or loss. For more information, see Pub. 525, 
+Taxable and Nontaxable Income.
+When you exercise an ISO, you may have to include in 
+alternative minimum taxable income a portion of the fair market 
+value of the stock acquired through the exercise of the option. For 
+more information, see Form 6251, Alternative Minimum             
+Tax—Individuals, and its instructions.
+Employee’s taxpayer identification number (TIN). For your 
+protection, this form may show only the last four digits of your 
+social security number (SSN), individual taxpayer identification 
+number (ITIN), or adoption taxpayer identification number (ATIN). 
+However, the employer has reported your complete TIN to the 
+IRS.
+Account number. May show an account or other unique number 
+your employer or transfer agent assigned to distinguish your 
+account.
+Box 1. Shows the date the option to purchase the stock was 
+granted to you.
+Box 2. Shows the date you exercised the option to purchase the 
+stock.
+Box 3. Shows the exercise price per share of stock.
+Box 4. Shows the fair market value (FMV) of a share of stock on 
+the date the option was exercised.
+Box 5. Shows the number of shares of stock transferred to you 
+pursuant to the exercise of the option.
+Box 6. Shows the name, address, and TIN of the corporation 
+whose stock is being transferred (if other than the corporation 
+shown in TRANSFEROR boxes in the upper left corner of the 
+form).
+Future developments. For the latest information about 
+developments related to Form 3921 and its instructions, such as 
+legislation enacted after they were published, go to    
+www.irs.gov/Form3921.
+      
+Form 3921
+(Rev. October 2017)
+Exercise of an 
+Incentive Stock 
+Option Under 
+Section 422(b)
+Copy C
+For Corporation
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-2129
+This copy should 
+be retained by the 
+corporation whose 
+stock has been 
+transferred under 
+Section 422(b). 
+CORRECTED (if checked)
+TRANSFEROR’S name, street address, city or town, state or province, 
+country, and ZIP or foreign postal code
+TRANSFEROR’S TIN
+EMPLOYEE’S TIN
+EMPLOYEE’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Date option granted
+2 Date option exercised
+3 Exercise price per share
+$
+4 Fair market value per share 
+on exercise date
+$
+5 No. of shares transferred
+6 If other than TRANSFEROR, name, address, and TIN of 
+corporation whose stock is being transferred
+Form 3921 (Rev. October 2017)
+(keep for your records)
+www.irs.gov/Form3921
+      
+Form 3921
+(Rev. October 2017)
+Exercise of an 
+Incentive Stock 
+Option Under 
+Section 422(b)
+Copy D
+For Transferor
+Department of the Treasury - Internal Revenue Service
+OMB No. 1545-2129
+For Privacy Act and 
+Paperwork 
+Reduction Act 
+Notice, see the 
+current version of 
+the General 
+Instructions for 
+Certain Information 
+Returns.
+VOID
+CORRECTED 
+TRANSFEROR’S name, street address, city or town, state or province, 
+country, and ZIP or foreign postal code
+TRANSFEROR’S TIN
+EMPLOYEE’S TIN
+EMPLOYEE’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+Account number (see instructions)
+1 Date option granted
+2 Date option exercised
+3 Exercise price per share
+$
+4 Fair market value per share 
+on exercise date
+$
+5 No. of shares transferred
+6 If other than TRANSFEROR, name, address, and TIN of 
+corporation whose stock is being transferred
+Form 3921 (Rev. October 2017)
+www.irs.gov/Form3921
+Instructions for Transferor
+To complete Form 3921, use:
+• the current General Instructions for Certain 
+Information Returns, and
+• the current Instructions for Forms 3921 and 3922.
+To order these instructions and additional forms, go 
+to www.irs.gov/Form3921.
+Caution: Because paper forms are scanned during 
+processing, you cannot file Forms 1096, 1097, 1098, 
+1099, 3921, 3922, or 5498 that you print from the IRS 
+website.
+Due dates. Furnish Copy B of this form to the employee 
+by January 31 of the year following the year of exercise 
+of the ISO.
+Furnish Copy C of this form to the corporation whose 
+stock is being transferred by January 31 of the year 
+following the year of exercise of the ISO.
+File Copy A of this form with the IRS by February 28 
+of the year following the year of exercise of the ISO. If 
+you file electronically, the due date is March 31 of the 
+year following the year of exercise of the ISO. To file 
+electronically, you must have software that generates a 
+file according to the specifications in Pub. 1220. The 
+IRS does not provide a fill-in form option for Copy A.
+Need help? If you have questions about reporting on 
+Form 3921, call the information reporting customer 
+service site toll free at 866-455-7438 or 304-263-8700 
+(not toll free). Persons with a hearing or speech 
+disability with access to TTY/TDD equipment can call 
+304-579-4827 (not toll free).

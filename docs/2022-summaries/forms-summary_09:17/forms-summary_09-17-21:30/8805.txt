@@ -1,0 +1,18 @@
+Form 8805 is a document used by foreign partners in a partnership to report information related to Section 1446 withholding tax. The form is divided into four copies: Copy A is for the Internal Revenue Service (IRS), Copy B is for the partner's records, Copy C is to be attached to the partner's federal tax return, and Copy D is for the withholding agent.
+
+The form requires the following information to be provided:
+- Foreign partner's name, U.S. identifying number, and address
+- Account number assigned by the partnership (if any)
+- Type of partner and country code of partner
+- Name of the partnership, U.S. Employer Identification Number (EIN), and address
+- Withholding agent's name and U.S. EIN
+- Checkboxes to indicate if the partnership owns an interest in other partnerships or if any of the partnerships' effectively connected taxable income (ECTI) is exempt from U.S. tax for the partner
+- Partnerships' ECTI allocable to the partner for the tax year
+- Total tax credit allowed to the partner under Section 1446
+- Beneficiary information, including name, U.S. identifying number, and address
+- Amount of ECTI to be included in the beneficiary's gross income
+- Amount of tax credit that the beneficiary is entitled to claim on its return
+
+The form provides instructions and directs users to the IRS website for additional information. It also includes a Paperwork Reduction Act Notice.
+
+Overall, Form 8805 is used to report information related to Section 1446 withholding tax for foreign partners in a partnership.

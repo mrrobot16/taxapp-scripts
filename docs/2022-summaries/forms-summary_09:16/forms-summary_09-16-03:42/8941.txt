@@ -1,0 +1,51 @@
+Form 8941 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Credit for Small Employer Health Insurance Premiums. This form should be attached to the taxpayer's tax return.
+
+The form begins by asking whether the taxpayer paid premiums for employee health insurance coverage through a Small Business Health Options Program (SHOP) Marketplace, or if they qualify for an exception. If the taxpayer did not pay premiums or qualifies for an exception, they are instructed to not file Form 8941.
+
+Next, the form asks for the employer identification number (EIN) used to report employment taxes if it is different from the identifying number listed above.
+
+The form then asks whether a tax return filed for a tax year between 2013 and 2021 included a Form 8941 with line A checked "Yes" and line 12 showing a positive amount. If so, the taxpayer is instructed to not file Form 8941 and refer to the instructions for exceptions that may apply.
+
+The taxpayer is then directed to complete Worksheets 1 through 7 as needed. These worksheets help determine the number of employees, full-time equivalent employees (FTEs), average annual wages, and premiums paid for health insurance coverage.
+
+Line 1 asks for the number of individuals employed during the tax year who are considered employees for the purposes of the credit.
+
+Line 2 asks for the number of FTEs for the tax year.
+
+Line 3 requires the taxpayer to enter the average annual wages paid for the tax year, which must be a multiple of $1,000.
+
+Line 4 asks for the premiums paid during the tax year for employees included on line 1 for health insurance coverage under a qualifying arrangement.
+
+Line 5 asks for the premiums that would have been entered on line 4 if the total premium for each employee equaled the average premium for the small group market in which the employee enrolls in health insurance coverage.
+
+Line 6 requires the taxpayer to enter the smaller of line 4 or line 5.
+
+Line 7 instructs the taxpayer to multiply line 6 by the applicable percentage, which is 35% (0.35) for tax-exempt small employers and 50% (0.50) for all other small employers.
+
+Line 8 asks for the amount from line 7 if line 2 is 10 or less. Otherwise, the taxpayer is instructed to enter the amount from Worksheet 5, line 6.
+
+Line 9 requires the taxpayer to enter the amount from line 8 if line 3 is $28,000 or less. Otherwise, the taxpayer should enter the amount from Worksheet 6, line 7.
+
+Line 10 asks for the total amount of any state premium subsidies paid and any state tax credits available to the taxpayer for premiums included on line 4.
+
+Line 11 instructs the taxpayer to subtract line 10 from line 4. If the result is zero or less, the taxpayer should enter -0-.
+
+Line 12 requires the taxpayer to enter the smaller of line 9 or line 11.
+
+If line 12 is zero, the taxpayer is instructed to skip lines 13 and 14 and go to line 15. Otherwise, they should enter the number of employees included on line 1 for whom they paid premiums for health insurance coverage under a qualifying arrangement.
+
+Line 14 asks for the number of FTEs that would have been entered on line 2 if only the employees included on line 13 were considered.
+
+Line 15 is for the credit for small employer health insurance premiums from partnerships, S corporations, cooperatives, estates, and trusts.
+
+Line 16 instructs the taxpayer to add lines 12 and 15. Depending on the taxpayer's entity type, they may need to report this amount on Schedule K or Form 3800.
+
+Line 17 is for the amount allocated to patrons of the cooperative or beneficiaries of the estate or trust.
+
+Line 18 instructs cooperatives, estates, and trusts to subtract line 17 from line 16 and report the result on Form 3800.
+
+Line 19 asks for the amount paid in 2022 for taxes considered payroll taxes for the purposes of this credit.
+
+Line 20 is for tax-exempt small employers to enter the smaller of line 16 or line 19 and report it on Form 990-T.
+
+Overall, Form 8941 is used to determine and claim the Credit for Small Employer Health Insurance Premiums, with various calculations and worksheets to assist taxpayers in calculating the credit amount.

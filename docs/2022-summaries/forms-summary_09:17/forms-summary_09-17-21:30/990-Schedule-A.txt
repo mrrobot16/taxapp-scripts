@@ -1,0 +1,15 @@
+Schedule A (Form 990) is a document used by section 501(c)(3) organizations or section 4947(a)(1) nonexempt charitable trusts to report their public charity status and public support. It is attached to Form 990 or Form 990-EZ and is open to public inspection.
+
+Part I of the form requires the organization to indicate the reason for its public charity status by checking one of the boxes provided. The options include being a church, school, hospital, government entity, or supporting organization. Additional information is required for certain options.
+
+Part II is completed if the organization is a college or university or receives substantial support from a governmental unit or the general public. It requires the organization to report its public support for the past five years, including gifts, grants, contributions, tax revenues, and services or facilities received.
+
+Part III is completed if the organization receives more than 33 1/3% of its support from contributions, membership fees, and gross receipts from exempt activities. It requires the organization to report its public support and total support for the past five years.
+
+Part IV is completed if the organization is a supporting organization. It requires the organization to provide information about its supported organizations, including their names, EINs, types of organizations, and monetary support provided.
+
+Part V is completed if the organization is a Type III non-functionally integrated supporting organization. It requires the organization to calculate its adjusted net income, minimum asset amount, distributable amount, and distributions made to supported organizations.
+
+Part VI is a section for providing supplemental information and explanations for various sections of the form.
+
+Overall, Schedule A (Form 990) is used to gather information about an organization's public charity status, public support, and relationships with supported organizations.

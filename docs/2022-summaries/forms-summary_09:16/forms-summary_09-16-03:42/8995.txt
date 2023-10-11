@@ -1,0 +1,13 @@
+Form 8995 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Qualified Business Income Deduction. This deduction can be claimed if the taxpayer has qualified business income from a qualified trade or business, real estate investment trust dividends, publicly traded partnership income, or a domestic production activities deduction passed through from an agricultural or horticultural cooperative.
+
+The form is to be attached to the taxpayer's tax return and is applicable if the taxpayer's taxable income, before the qualified business income deduction, is at or below $170,050 ($340,100 if married filing jointly), and they are not a patron of an agricultural or horticultural cooperative.
+
+The form includes various sections to calculate the qualified business income deduction. These sections include providing information about the trade, business, or aggregation name, taxpayer identification number, and the qualified business income or loss. The total qualified business income or loss is then calculated by combining the amounts from the previous section.
+
+The form also includes sections for qualified business net loss carryforward from the prior year, total qualified business income, qualified business income component, qualified REIT dividends and publicly traded partnership income or loss, qualified REIT dividends and qualified PTP loss carryforward from the prior year, total qualified REIT dividends and PTP income, REIT and PTP component, qualified business income deduction before the income limitation, taxable income before the qualified business income deduction, net capital gain, and income limitation.
+
+The final section of the form calculates the qualified business income deduction by entering the smaller amount between the qualified business income deduction before the income limitation and the income limitation multiplied by 20%. This amount is then entered on the applicable line of the taxpayer's return.
+
+The form also includes sections for total qualified business loss carryforward and total qualified REIT dividends and PTP loss carryforward if applicable.
+
+Taxpayers are advised to refer to the instructions provided on the IRS website for further guidance and the most up-to-date information.

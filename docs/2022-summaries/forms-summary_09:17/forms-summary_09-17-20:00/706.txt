@@ -1,0 +1,4354 @@
+Form 706
+(Rev. August 2019)
+Department of the Treasury 
+Internal Revenue Service
+United States Estate (and Generation-Skipping Transfer) 
+Tax Return
+▶ Estate of a citizen or resident of the United States (see instructions). To be filed for  
+decedents dying after December 31, 2018. 
+▶ Go to www.irs.gov/Form706 for instructions and the latest information.
+OMB No. 1545-0015
+Part 1—Decedent and Executor
+1a
+Decedent’s first name and middle initial (and maiden name, if any)
+1b Decedent’s last name
+2 Decedent’s social security no.
+3a
+City, town, or post office; county; state or province; country; and ZIP 
+or foreign postal code
+3b Year domicile established
+4 Date of birth
+5 Date of death
+6a
+Name of executor (see instructions)
+6b Executor’s address (number and street including apartment or suite no.; city, town, 
+or post office; state or province; country; and ZIP or foreign postal code) and 
+phone no.
+Phone no.
+6c
+Executor’s social security number (see instructions)
+6d      If there are multiple executors, check here
+and attach a list showing the names, addresses, telephone numbers, and SSNs of the additional executors. 
+7a
+Name and location of court where will was probated or estate administered
+7b Case number
+8
+If decedent died testate, check here ▶
+and attach a certified copy of the will.
+9 If you extended the time to file this Form 706, check here ▶
+10
+If Schedule R-1 is attached, check here ▶
+11
+If you are estimating the value of assets included in the gross estate on line 1 pursuant to the special rule of Reg. section 20.2010-2(a)(7)(ii), check here ▶
+Part 2—Tax Computation
+1
+Total gross estate less exclusion (from Part 5—Recapitulation, item 13) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+1
+2
+Tentative total allowable deductions (from Part 5—Recapitulation, item 24) .
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3a
+Tentative taxable estate (subtract line 2 from line 1) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b
+State death tax deduction .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+c
+Taxable estate (subtract line 3b from line 3a) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c
+4
+Adjusted taxable gifts (see instructions)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Add lines 3c and 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Tentative tax on the amount on line 5 from Table A in the instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Total gift tax paid or payable (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Gross estate tax (subtract line 7 from line 6) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9a
+Basic exclusion amount .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a
+b 
+ 
+Deceased spousal unused exclusion (DSUE) amount from predeceased spouse(s), 
+if any (from Section D, Part 6—Portability of Deceased Spousal Unused Exclusion) 
+9b
+c
+Restored exclusion amount (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+9c
+d
+Applicable exclusion amount (add lines 9a, 9b, and 9c) 
+.
+.
+.
+.
+.
+9d
+e 
+ 
+Applicable credit amount (tentative tax on the amount in line 9d from 
+Table A in the instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9e
+10 
+Adjustment to applicable credit amount (May not exceed $6,000. See 
+instructions.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Allowable applicable credit amount (subtract line 10 from line 9e) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Subtract line 11 from line 8 (but do not enter less than zero) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Credit for foreign death taxes (from Schedule P). (Attach Form(s) 706-CE.)
+13
+14
+Credit for tax on prior transfers (from Schedule Q) .
+.
+.
+.
+.
+.
+.
+14
+15
+Total credits (add lines 13 and 14) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Net estate tax (subtract line 15 from line 12) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+Generation-skipping transfer (GST) taxes payable (from Schedule R, Part 2, line 10) .
+.
+.
+.
+.
+.
+17
+18
+Total transfer taxes (add lines 16 and 17) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+Prior payments (explain in an attached statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Balance due (or overpayment) (subtract line 19 from line 18) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and 
+belief, it is true, correct, and complete. Declaration of preparer (other than the executor) is based on all information of which preparer has any knowledge.
+Sign  
+Here
+▲
+Signature of executor
+▲
+Date
+▲
+Signature of executor
+▲
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if  
+self-employed 
+PTIN
+Firm’s name     ▶
+Firm’s address  ▶
+Firm’s EIN ▶
+Phone no. 
+For Privacy Act and Paperwork Reduction Act Notice, see instructions.
+Cat. No. 20548R
+Form 706 (Rev. 8-2019)
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+Part 3—Elections by the Executor
+Note: For information on electing portability of the decedent’s DSUE amount, including how to opt out of the election, see Part 6— 
+Portability of Deceased Spousal Unused Exclusion. 
+Note: Some of the following elections may require the posting of bonds or liens. 
+Yes
+No
+Please check “Yes” or “No” for each question. See instructions.
+1
+Do you elect alternate valuation? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Do you elect special-use valuation? If “Yes,” you must complete and attach Schedule A-1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3 
+ 
+ 
+Do you elect to pay the taxes in installments as described in section 6166? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+If “Yes,” you must attach the additional information described in the instructions.  
+Note: By electing section 6166 installment payments, you may be required to provide security for estate tax deferred 
+under section 6166 and interest in the form of a surety bond or a section 6324A lien.
+3
+4
+Do you elect to postpone the part of the taxes due to a reversionary or remainder interest as described in section 6163? 
+.
+4
+Part 4—General Information
+Note: Please attach the necessary supplemental documents. You must attach the death certificate. See instructions.
+Authorization to receive confidential tax information under Reg. section 601.504(b)(2)(i); to act as the estate’s representative before the IRS; and to 
+make written or oral presentations on behalf of the estate:
+Name of representative (print or type)
+State
+Address (number, street, and room or suite no., city, state, and ZIP code)
+I declare that I am the
+ attorney/
+ certified public accountant/
+enrolled agent  (check the applicable box) for the executor. I am not under
+suspension or disbarment from practice before the Internal Revenue Service and am qualified to practice in the state shown above.
+Signature
+CAF number
+Date
+Telephone number
+1
+Death certificate number and issuing authority (attach a copy of the death certificate to this return).
+2
+Decedent’s business or occupation. If retired, check here ▶
+and state decedent’s former business or occupation.
+3a
+Marital status of the decedent at time of death:
+Married
+Widow/widower
+Single
+Legally separated
+Divorced
+3 
+ 
+b 
+ 
+For all prior marriages, list the name and SSN of the former spouse, the date the marriage ended, and whether the marriage ended by 
+annulment, divorce, or death. Attach additional statements of the same size if necessary. 
+4a
+Surviving spouse’s name
+4b  Social security number
+4c  Amount received (see instructions)
+5 
+ 
+Individuals (other than the surviving spouse), trusts, or other estates who receive benefits from the estate (do not include charitable 
+beneficiaries shown in Schedule O) (see instructions).
+Name of individual, trust, or estate receiving $5,000 or more
+Identifying number
+Relationship to decedent
+Amount (see instructions)
+All unascertainable beneficiaries and those who receive less than $5,000 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+Total .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If you answer “Yes” to any of the following questions, you must attach additional information as described. 
+Yes
+No
+6 
+Is the estate filing a protective claim for refund? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+If “Yes,” complete and attach two copies of Schedule PC for each claim.
+7 
+Does the gross estate contain any section 2044 property (qualified terminable interest property (QTIP) from a prior gift or estate)? 
+See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 a 
+Have federal gift tax returns ever been filed? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.   
+If “Yes,” attach copies of the returns, if available, and furnish the following information.
+b 
+Period(s) covered
+c  Internal Revenue office(s) where filed
+9a
+Was there any insurance on the decedent’s life that is not included on the return as part of the gross estate? .
+.
+.
+.
+.
+.
+b
+Did the decedent own any insurance on the life of another that is not included in the gross estate? .
+.
+.
+.
+.
+.
+.
+.
+.
+Page 2
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+Part 4—General Information (continued)
+If you answer “Yes” to any of the following questions, you must attach additional information as described.
+Yes
+No
+10 
+ 
+Did the decedent at the time of death own any property as a joint tenant with right of survivorship in which (a) one or more of the 
+other joint tenants was someone other than the decedent’s spouse, and (b) less than the full value of the property is included on 
+the return as part of the gross estate? If “Yes,” you must complete and attach Schedule E 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 a 
+Did the decedent, at the time of death, own any interest in a partnership (for example, a family limited partnership), an 
+unincorporated business, or a limited liability company; or own any stock in an inactive or closely held corporation? .
+.
+.
+.
+b 
+If “Yes,” was the value of any interest owned (from above) discounted on this estate tax return? If “Yes,” see the instructions on 
+reporting the total accumulated or effective discounts taken on Schedule F or G 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+Did the decedent make any transfer described in sections 2035, 2036, 2037, or 2038? See instructions. If “Yes,” you must 
+complete and attach Schedule G
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13a
+Were there in existence at the time of the decedent’s death any trusts created by the decedent during his or her lifetime? .
+.
+b 
+Were there in existence at the time of the decedent’s death any trusts not created by the decedent under which the decedent 
+possessed any power, beneficial interest, or trusteeship? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c 
+Was the decedent receiving income from a trust created after October 22, 1986, by a parent or grandparent? .
+.
+.
+.
+.
+.
+If “Yes,” was there a GST taxable termination (under section 2612) on the death of the decedent? .
+.
+.
+.
+.
+.
+.
+.
+.
+d 
+If there was a GST taxable termination (under section 2612), attach a statement to explain. Provide a copy of the trust or will 
+creating the trust, and give the name, address, and phone number of the current trustee(s).
+e 
+ 
+Did the decedent at any time during his or her lifetime transfer or sell an interest in a partnership, limited liability company, or 
+closely held corporation to a trust described in line 13a or 13b? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” provide the EIN for this transferred/sold item. ▶
+14
+Did the decedent ever possess, exercise, or release any general power of appointment? If “Yes,” you must complete and attach Schedule H
+15 
+Did the decedent have an interest in or a signature or other authority over a financial account in a foreign country, such as a bank 
+account, securities account, or other financial account? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+Was the decedent, immediately before death, receiving an annuity described in the “General” paragraph of the instructions for 
+Schedule I or a private annuity? If “Yes,” you must complete and attach Schedule I 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+Was the decedent ever the beneficiary of a trust for which a deduction was claimed by the estate of a predeceased spouse 
+under section 2056(b)(7) and which is not reported on this return? If “Yes,” attach an explanation 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part 5—Recapitulation. Note: If estimating the value of one or more assets pursuant to the special rule of Reg. section 20.2010-2(a)(7)(ii), enter 
+on both lines 10 and 23 the amount noted in the instructions for the corresponding range of values. See instructions for details.
+Item no.
+Gross estate
+Alternate value
+Value at date of death
+1
+Schedule A—Real Estate 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Schedule B—Stocks and Bonds .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Schedule C—Mortgages, Notes, and Cash .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Schedule D—Insurance on the Decedent’s Life (attach Form(s) 712) .
+.
+.
+.
+4
+5
+Schedule E—Jointly Owned Property (attach Form(s) 712 for life insurance) 
+.
+5
+6
+Schedule F—Other Miscellaneous Property (attach Form(s) 712 for life insurance) 
+6
+7
+Schedule G—Transfers During Decedent’s Life (att. Form(s) 712 for life insurance)
+7
+8
+Schedule H—Powers of Appointment 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Schedule I—Annuities
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Estimated value of assets subject to the special rule of Reg. section 20.2010-2(a)(7)(ii)
+10
+11
+Total gross estate (add items 1 through 10) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Schedule U—Qualified Conservation Easement Exclusion 
+.
+.
+.
+.
+.
+.
+12
+13 
+ 
+Total gross estate less exclusion (subtract item 12 from item 11). Enter here and 
+on line 1 of Part 2—Tax Computation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+Item no.
+Deductions
+Amount
+14
+Schedule J—Funeral Expenses and Expenses Incurred in Administering Property Subject to Claims 
+.
+.
+14
+15
+Schedule K—Debts of the Decedent .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Schedule K—Mortgages and Liens 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+Total of items 14 through 16 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18
+Allowable amount of deductions from item 17 (see the instructions for item 18 of the Recapitulation) .
+.
+18
+19
+Schedule L—Net Losses During Administration .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Schedule L—Expenses Incurred in Administering Property Not Subject to Claims .
+.
+.
+.
+.
+.
+.
+.
+20
+21
+Schedule M—Bequests, etc., to Surviving Spouse .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22
+Schedule O—Charitable, Public, and Similar Gifts and Bequests .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+23
+Estimated value of deductible assets subject to the special rule of Reg. section 20.2010-2(a)(7)(ii) .
+.
+.
+23
+24
+Tentative total allowable deductions (add items 18 through 23). Enter here and on line 2 of the Tax Computation
+24
+Page 3
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+Part 6—Portability of Deceased Spousal Unused Exclusion (DSUE)
+Portability Election
+A decedent with a surviving spouse elects portability of the DSUE amount, if any, by completing and timely filing this return. No further action is 
+required to elect portability of the DSUE amount to allow the surviving spouse to use the decedent’s DSUE amount.
+Section A. Opting Out of Portability
+The estate of a decedent with a surviving spouse may opt out of electing portability of the DSUE amount. Check here and do not complete Sections B 
+and C of Part 6 only if the estate opts NOT to elect portability of the DSUE amount.
+Section B. Qualified Domestic Trust (QDOT)
+Yes
+No
+Are any assets of the estate being transferred to a QDOT?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” the DSUE amount portable to a surviving spouse (calculated in Section C, below) is preliminary and shall be redetermined at the time of the 
+final distribution or other taxable event imposing estate tax under section 2056A. See instructions for more details.
+Section C. DSUE Amount Portable to the Surviving Spouse (To be completed by the estate of a decedent making a portability election.)
+Complete the following calculation to determine the DSUE amount that can be transferred to the surviving spouse.
+1
+Enter the amount from line 9d, Part 2—Tax Computation 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Reserved
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Enter the value of the cumulative lifetime gifts on which tax was paid or payable. See instructions 
+.
+.
+.
+3
+4
+Add lines 1 and 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Enter amount from line 10, Part 2—Tax Computation
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Divide amount on line 5 by 40% (0.40) (do not enter less than zero)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Subtract line 6 from line 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Enter the amount from line 5, Part 2—Tax Computation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Subtract line 8 from line 7 (do not enter less than zero) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+DSUE amount portable to surviving spouse (Enter lesser of line 9 or line 9a, Part 2—Tax Computation) .
+.
+10
+Section D. DSUE Amount Received From Predeceased Spouse(s) (To be completed by the estate of a deceased surviving spouse 
+with DSUE amount from predeceased spouse(s))
+Provide the following information to determine the DSUE amount received from deceased spouses.
+Part 1 — DSUE RECEIVED FROM LAST DECEASED SPOUSE
+A 
+Name of Deceased Spouse 
+(dates of death after 
+December 31, 2010, only)
+B 
+Date of Death 
+(enter as mm/dd/yy)
+C 
+Portability 
+Election 
+Made?
+Yes
+No
+D 
+If  “Yes,” DSUE 
+Amount Received 
+From Spouse
+E 
+DSUE Amount  
+Applied by 
+Decedent to 
+Lifetime Gifts
+F 
+Year of Form 709 
+Reporting Use of DSUE 
+Amount Listed in col. E
+G 
+Remaining DSUE 
+Amount, if any 
+(subtract col. E 
+from col. D)
+     
+     
+     
+     
+     
+     
+     
+     
+Part 2 — DSUE RECEIVED FROM OTHER PREDECEASED SPOUSE(S) AND USED BY DECEDENT
+     
+     
+     
+     
+     
+     
+     
+     
+Total (for all DSUE amounts from predeceased spouse(s) applied) 
+.
+.
+Add the amount from Part 1, column D, and the total from Part 2, column E. Enter the result on line 9b, Part 2—Tax 
+Computation 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+Page 4
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE A—Real Estate
+• For jointly owned property that must be disclosed on Schedule E, see instructions.
+• Real estate that is part of a sole proprietorship should be shown on Schedule F.
+• Real estate that is included in the gross estate under sections 2035, 2036, 2037, or 2038 should be shown on Schedule G.
+• Real estate that is included in the gross estate under section 2041 should be shown on Schedule H.
+• If you elect section 2032A valuation, you must complete Schedule A and Schedule A-1.
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and Form 
+706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to report the 
+value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If you are not 
+required to report the value of an asset, identify the property but make no entries in the last three columns.
+Item 
+number
+Description
+Alternate  
+valuation date
+Alternate value
+Value at date of death
+1
+Total from continuation schedules or additional statements attached to this schedule .
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 1.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule A—Page 5
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE A-1—Section 2032A Valuation
+Part 1. Type of Election (Before making an election, see the checklist in the instructions):
+Protective election (Reg. section 20.2032A-8(b)). Complete Part 2, line 1, and column A of lines 3 and 4. See instructions.
+Regular election. Complete all of Part 2 (including line 11, if applicable) and Part 3. See instructions.
+Before completing Schedule A-1, see the instructions for the information and documents that must be included to make a valid 
+election.
+The election is not valid unless the agreement (that is, Part 3. Agreement to Special Valuation Under Section 2032A):
+• Is signed by each qualified heir with an interest in the specially valued property, and
+• Is attached to this return when it is filed.
+Part 2. Notice of Election (Reg. section 20.2032A-8(a)(3))
+Note: All real property entered on lines 2 and 3 must also be entered on Schedules A, E, F, G, or H, as applicable.
+1
+Qualified use—check one ▶
+Farm used for farming, or
+Trade or business other than farming
+2
+Real property used in a qualified use, passing to qualified heirs, and to be specially valued on this Form 706.
+A  
+Schedule and item number  
+from Form 706
+B  
+Full value  
+(without section 2032A(b)(3)(B) 
+adjustment)
+C  
+Adjusted value 
+(with section 2032A(b)(3)(B) 
+adjustment)
+D  
+Value based on qualified use  
+(without section 2032A(b)(3)(B) 
+adjustment)
+Totals .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Attach a legal description of all property listed on line 2.
+Attach copies of appraisals showing the column B values for all property listed on line 2.
+3
+Real property used in a qualified use, passing to qualified heirs, but not specially valued on this Form 706.
+A  
+Schedule and item number  
+from Form 706
+B  
+Full value  
+(without section 2032A(b)(3)(B) 
+adjustment)
+C  
+Adjusted value 
+(with section 2032A(b)(3)(B) 
+adjustment)
+D  
+Value based on qualified use 
+(without section 2032A(b)(3)(B) 
+adjustment)
+Totals .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If you checked “Regular election,” you must attach copies of appraisals showing the column B values for all property listed on line 3. 
+(continued on next page)
+Schedule A-1—Page 6
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+4
+Personal property used in a qualified use and passing to qualified heirs.
+A  
+Schedule and item  
+number from Form 706
+B  
+Adjusted value (with section 
+2032A(b)(3)(B) adjustment)
+Subtotal 
+.
+.
+.
+.
+.
+.
+.
+A (continued)  
+Schedule and item  
+number from Form 706
+B (continued)  
+Adjusted value (with section 
+2032A(b)(3)(B) adjustment)
+“Subtotal” from col. B, below left
+Total adjusted value .
+.
+.
+5
+Enter the value of the total gross estate as adjusted under section 2032A(b)(3)(A). ▶
+6
+Attach a description of the method used to determine the special value based on qualified use.
+Yes
+No
+7 
+Did the decedent and/or a member of his or her family own all property listed on line 2 for at least 5 of the 8 years 
+immediately preceding the date of the decedent’s death? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Were there any periods during the 8-year period preceding the date of the decedent’s death during which the
+decedent or a member of his or her family:
+a
+Did not own the property listed on line 2? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Did not use the property listed on line 2 in a qualified use? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Did not materially participate in the operation of the farm or other business within the meaning of section 2032A(e)(6)? 
+If you answered “Yes” to any of the above, attach a statement listing the periods. If applicable, describe whether 
+the exceptions of sections 2032A(b)(4) or (5) are met.
+9 
+Attach affidavits describing the activities constituting material participation and the identity and relationship to the 
+decedent of the material participants.
+10 
+ 
+Persons holding interests. Enter the requested information for each party who received any interest in the specially valued 
+property. (Each of the qualified heirs receiving an interest in the property must sign the agreement, to be found on Part 
+3 of this Schedule A-1, and the agreement must be filed with this return.)
+Name
+Address
+A
+B
+C
+D
+E
+F
+G
+H
+Identifying number
+Relationship to decedent
+Fair market value
+Special-use value
+A
+B
+C
+D
+E
+F
+G
+H
+You must attach a computation of the GST tax savings attributable to direct skips for each person listed above who is a skip person. See instructions.
+11
+Woodlands election. Check here  ▶
+if you wish to make a Woodlands election as described in section 2032A(e)(13). Enter 
+the schedule and item numbers from Form 706 of the property for which you are making this election ▶
+Attach a statement explaining why you are entitled to make this election. The IRS may issue regulations that require more 
+information to substantiate this election. You will be notified by the IRS if you must supply further information.
+Schedule A-1—Page 7
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+Part 3. Agreement to Special Valuation Under Section 2032A
+There cannot be a valid election unless:
+• The agreement is executed by each one of the qualified heirs, and
+• The agreement is included with the estate tax return when the estate tax return is filed.
+We (list all qualified heirs) 
+,
+being all the qualified heirs and (list all other persons having an interest in the property required to sign this agreement)
+,
+being all other parties having interests in the property, which is qualified real property and which is valued under section 2032A, do
+hereby approve of the election made by
+,
+Executor/Administrator of the estate of
+,
+pursuant to section 2032A to value said property on the basis of the qualified use to which the property is devoted and do hereby 
+enter into this agreement pursuant to section 2032A(d).
+The undersigned agree and consent to the application of subsection (c) of section 2032A with respect to all the property described on 
+Form 706, Schedule A-1, Part 2, line 2, attached to this agreement. More specifically, the undersigned heirs expressly agree and 
+consent to personal liability under subsection (c) of 2032A for the additional estate and GST taxes imposed by that subsection with 
+respect to their respective interests in the above-described property in the event of certain early dispositions of the property or early 
+cessation of the qualified use of the property. It is understood that if a qualified heir disposes of any interest in qualified real property 
+to any member of his or her family, such member may thereafter be treated as the qualified heir with respect to such interest upon 
+filing a Form 706-A, United States Additional Estate Tax Return, and a new agreement.
+The undersigned interested parties who are not qualified heirs consent to the collection of any additional estate and GST taxes 
+imposed under section 2032A(c) from the specially valued property.
+If there is a disposition of any interest which passes, or has passed to him or her, or if there is a cessation of the qualified use of any 
+specially valued property which passes or passed to him or her, each of the undersigned heirs agrees to file a Form 706-A, and pay 
+any additional estate and GST taxes due within 6 months of the disposition or cessation.
+It is understood by all interested parties that this agreement is a condition precedent to the election of special-use valuation under 
+section 2032A and must be executed by every interested party even though that person may not have received the estate (or GST) tax 
+benefits or be in possession of such property.
+Each of the undersigned understands that by making this election, a lien will be created and recorded pursuant to section 6324B on 
+the property referred to in this agreement for the adjusted tax differences with respect to the estate as defined in section 2032A(c)(2)
+(C).
+As the interested parties, the undersigned designate the following individual as their agent for all dealings with the Internal Revenue 
+Service concerning the continued qualification of the specially valued property under section 2032A and on all issues regarding the 
+special lien under section 6324B. The agent is authorized to act for the parties with respect to all dealings with the Internal Revenue 
+Service on matters affecting the qualified real property described earlier. This includes the authorization:
+• To receive confidential information on all matters relating to continued qualification under section 2032A of the specially valued real 
+property and on all matters relating to the special lien arising under section 6324B;
+• To furnish the Internal Revenue Service with any requested information concerning the property;
+• To notify the Internal Revenue Service of any disposition or cessation of qualified use of any part of the property;
+• To receive, but not to endorse and collect, checks in payment of any refund of Internal Revenue taxes, penalties, or interest;
+• To execute waivers (including offers of waivers) of restrictions on assessment or collection of deficiencies in tax and waivers of 
+notice of disallowance of a claim for credit or refund; and
+• To execute closing agreements under section 7121.
+(continued on next page)
+Schedule A-1—Page 8
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+Part 3. Agreement to Special Valuation Under Section 2032A (continued)
+• Other acts (specify) ▶
+By signing this agreement, the agent agrees to provide the Internal Revenue Service with any requested information concerning this property 
+and to notify the Internal Revenue Service of any disposition or cessation of the qualified use of any part of this property.
+Name of Agent
+Signature
+Address
+The property to which this agreement relates is listed in Form 706, United States Estate (and Generation-Skipping Transfer) Tax Return, and in 
+the Notice of Election, along with its fair market value according to section 2031 and its special-use value according to section 2032A. The 
+name, address, social security number, and interest (including the value) of each of the undersigned in this property are as set forth in the 
+attached Notice of Election.
+IN WITNESS WHEREOF, the undersigned have hereunto set their hands at
+,
+this
+day of
+.
+SIGNATURES OF EACH OF THE QUALIFIED HEIRS:
+Signature of qualified heir
+Signature of qualified heir
+Signature of qualified heir
+Signature of qualified heir
+Signature of qualified heir
+Signature of qualified heir
+Signature of qualified heir
+Signature of qualified heir
+Signature of qualified heir
+Signature of qualified heir
+Signature of qualified heir
+Signature of qualified heir
+Signatures of other interested parties
+Signatures of other interested parties
+Schedule A-1—Page 9
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE B—Stocks and Bonds
+(For jointly owned property that must be disclosed on Schedule E, see instructions.)
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and Form 
+706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to report the 
+value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If you are not 
+required to report the value of an asset, identify the property but make no entries in the last four columns.
+Item 
+number
+Description, including face amount of bonds or number of shares 
+and par value for identification. Give CUSIP number. 
+If trust, partnership, or closely held entity, give EIN.
+Unit value
+Alternate  
+valuation date
+Alternate value
+Value at 
+date of death
+    
+    
+CUSIP number or EIN,  
+where applicable
+    
+    
+    
+    
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 2.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule B—Page 10
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE C—Mortgages, Notes, and Cash
+(For jointly owned property that must be disclosed on Schedule E, see instructions.)
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and Form 
+706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to report the 
+value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If you are not 
+required to report the value of an asset, identify the property but make no entries in the last three columns.
+Item 
+number
+Description
+Alternate  
+valuation date
+Alternate value
+Value at 
+date of death
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 3.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule C—Page 11
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE D—Insurance on the Decedent’s Life
+You must list all policies on the life of the decedent and attach a Form 712 for each policy.
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and Form 
+706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to report the 
+value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If you are not 
+required to report the value of an asset, identify the property but make no entries in the last three columns.
+Item 
+number
+Description
+Alternate  
+valuation date
+Alternate value
+Value at 
+date of death
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 4.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule D—Page 12
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE E—Jointly Owned Property  
+(If you elect section 2032A valuation, you must complete Schedule E and Schedule A-1.)
+PART 1. Qualified Joint Interests—Interests Held by the Decedent and His or Her Spouse as the Only Joint 
+Tenants (Section 2040(b)(2))
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and Form 
+706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to report the 
+value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If you are not 
+required to report the value of an asset, identify the property but make no entries in the last three columns.
+Item 
+number
+Description. For securities, give CUSIP number. If trust, partnership, or closely held entity, 
+give EIN.
+Alternate valuation 
+date
+Alternate value
+Value at 
+date of death
+     
+     
+CUSIP number or  
+EIN, where  
+applicable
+     
+     
+     
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+.
+.
+.
+1a
+Totals .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b
+Amounts included in gross estate (one-half of line 1a) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+PART 2. All Other Joint Interests
+2a 
+State the name and address of each surviving co-tenant. If there are more than three surviving co-tenants, list the additional co-tenants on an 
+attached statement.
+Name
+Address (number and street, city, state, and ZIP code)
+A.
+B.
+C.
+Item 
+number
+Enter  
+letter for 
+co-tenant
+Description (including alternate valuation date, if any). For securities, give CUSIP 
+number. If trust, partnership, or closely held entity, give EIN
+Percentage includible
+Includible alternate 
+value
+Includible value at 
+date of death
+     
+   
+   
+CUSIP number or 
+EIN, where 
+applicable
+   
+   
+   
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+.
+.
+.
+b 
+Total other joint interests 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+3 
+Total includible joint interests (add lines 1b and 2b). Also enter on Part 5—Recapitulation, page 
+3, at item 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule E—Page 13
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE F—Other Miscellaneous Property Not Reportable Under Any Other Schedule  
+(For jointly owned property that must be disclosed on Schedule E, see instructions.)  
+(If you elect section 2032A valuation, you must complete Schedule F and Schedule A-1.)
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and Form 
+706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to report the 
+value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If you are not 
+required to report the value of an asset, identify the property but make no entries in the last three columns.
+1 Did the decedent own any works of art, items, or any collections whose artistic or collectible value at date of death
+exceeded $3,000? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” submit full details on this schedule and attach appraisals.
+2 Has the decedent’s estate, spouse, or any other person received (or will receive) any bonus or award as a result of
+the decedent’s employment or death? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” submit full details on this schedule.
+3 Did the decedent at the time of death have, or have access to, a safe deposit box? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If ‘‘Yes,’’ state location, and if held jointly by decedent and another, state name and relationship of joint depositor.
+If any of the contents of the safe deposit box are omitted from the schedules in this return, explain fully why omitted.
+Item 
+number
+Description. For securities, give CUSIP number. If trust, partnership, or closely held entity, 
+give EIN
+Alternate valuation 
+date
+Alternate value
+Value at 
+date of death
+     
+     
+CUSIP number or  
+EIN, where  
+applicable
+     
+     
+     
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 6.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule F—Page 14
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE G—Transfers During Decedent’s Life
+(If you elect section 2032A valuation, you must complete Schedule G and Schedule A-1.)
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and Form 
+706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to report the 
+value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If you are not 
+required to report the value of an asset, identify the property but make no entries in the last three columns.
+Item 
+number
+Description. For securities, give CUSIP number. If trust,  
+partnership, or closely held entity, give EIN
+Alternate  
+valuation date
+Alternate value
+Value at 
+date of death
+A. 
+ 
+Gift tax paid or payable by the decedent or the estate for all gifts 
+made by the decedent or his or her spouse within 3 years before the
+decedent’s death (section 2035(b)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+X   X   X   X   X
+B.
+Transfers includible under sections 2035(a), 2036, 2037, or 2038:
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 7.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+SCHEDULE H—Powers of Appointment  
+(Include “5 and 5 lapsing” powers (section 2041(b)(2)) held by the decedent.)  
+(If you elect section 2032A valuation, you must complete Schedule H and Schedule A-1.)
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and Form 
+706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to report the 
+value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If you are not 
+required to report the value of an asset, identify the property but make no entries in the last three columns.
+Item 
+number
+Description
+Alternate valuation 
+date
+Alternate value
+Value at 
+date of death
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 8.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedules G and H—Page 15
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE I—Annuities
+Note: Generally, no exclusion is allowed for the estates of decedents dying after December 31, 1984. See instructions.
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and 
+Form 706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to 
+report the value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If 
+you are not required to report the value of an asset, identify the property but make no entries in the last three columns.
+A 
+Are you excluding from the decedent’s gross estate the value of a lump-sum distribution described in section 2039(f)(2) 
+(as in effect before its repeal by the Deficit Reduction Act of 1984)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” you must attach the information required by the instructions.
+Item 
+number
+Description.  
+Show the entire value of the annuity before any exclusions
+Alternate valuation 
+date
+Includible alternate 
+value
+Includible value at 
+date of death
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 9.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule I—Page 16
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE J—Funeral Expenses and Expenses Incurred in Administering Property Subject to Claims 
+▶ Use Schedule PC to make a protective claim for refund due to an expense not currently deductible. 
+For such a claim, report the expense on Schedule J but without a value in the last column.
+Note: Do not list expenses of administering property not subject to claims on this schedule. To report those expenses, see instructions.
+If executors’ commissions, attorney fees, etc., are claimed and allowed as a deduction for estate tax purposes, they are not 
+allowable as a deduction in computing the taxable income of the estate for federal income tax purposes. They are allowable as an 
+income tax deduction on Form 1041, U.S. Income Tax Return for Estates and Trusts, if a waiver is filed to forgo the deduction on 
+Form 706. See the Instructions for Form 1041.
+Are you aware of any actual or potential reimbursement to the estate for any expense claimed as a deduction on this
+schedule? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” attach a statement describing the expense(s) subject to potential reimbursement. See instructions.
+Item 
+number
+Description
+Expense amount
+Total amount
+A. Funeral expenses:
+1
+Total funeral expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+B. Administration expenses:
+1  Executors’ commissions—amount estimated/agreed upon/paid. (Strike out the words that do not 
+apply.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2  Attorney fees—amount estimated/agreed upon/paid. (Strike out the words that do not apply.) .
+.
+.
+3  Accountant fees—amount estimated/agreed upon/paid. (Strike out the words that do not apply.) .
+.
+     
+4  Miscellaneous expenses:
+Expense amount
+     
+Total miscellaneous expenses from continuation schedules (or additional statements) 
+attached to this schedule .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Total miscellaneous expenses 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 14.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule J—Page 17
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE K—Debts of the Decedent, and Mortgages and Liens 
+▶ Use Schedule PC to make a protective claim for refund due to a claim not currently deductible. 
+For such a claim, report the expense on Schedule K but without a value in the last column.
+Yes
+No
+Are you aware of any actual or potential reimbursement to the estate for any debt of the decedent, mortgage, or lien
+claimed as a deduction on this schedule? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach a statement describing the items subject to potential reimbursement. See instructions.
+Are any of the items on this schedule deductible under Reg. section 20.2053-4(b) and Reg. section 20.2053-4(c)? 
+.
+.
+If “Yes,” attach a statement indicating the applicable provision and documenting the value of the claim.
+Item 
+number
+Debts of the Decedent—Creditor and nature of debt, and  
+allowable death taxes
+Amount 
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+.
+.
+.
+.
+.
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 15.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Item 
+number
+Mortgages and Liens—Description
+Amount
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+.
+.
+.
+.
+.
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 16.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule K—Page 18
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE L—Net Losses During Administration and 
+Expenses Incurred in Administering Property Not Subject to Claims 
+▶ Use Schedule PC to make a protective claim for refund due to an expense not currently deductible. 
+For such expenses, report the expense on Schedule L but without a value in the last column.  
+Item 
+number
+Net losses during administration 
+(Note: Do not deduct losses claimed on a federal income tax return.)
+Amount
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+.
+.
+.
+.
+.
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 19.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Item 
+number
+Expenses incurred in administering property not subject to claims.  
+(Indicate whether estimated, agreed upon, or paid.)
+Amount
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+.
+.
+.
+.
+.
+TOTAL (Also enter on Part 5—Recapitulation, page 3, at item 20.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule L—Page 19
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE M—Bequests, etc., to Surviving Spouse
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and Form 
+706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to report the 
+value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If you are not 
+required to report the value of an asset, identify the property but make no entry in the last column.
+Yes
+No
+1
+Did any property pass to the surviving spouse as a result of a qualified disclaimer? 
+.
+.
+.
+.
+.
+.
+.
+.
+1
+If ‘‘Yes,’’ attach a copy of the written disclaimer required by section 2518(b).
+2a
+In what country was the surviving spouse born?
+b
+What is the surviving spouse’s date of birth?
+c
+Is the surviving spouse a U.S. citizen? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+d
+If the surviving spouse is a naturalized citizen, when and where did the surviving spouse acquire citizenship?
+e
+If the surviving spouse is not a U.S. citizen, of what country is the surviving spouse a citizen?
+3 
+ 
+Election Out of QTIP Treatment of Annuities. Do you elect under section 2056(b)(7)(C)(ii) not to treat as 
+qualified terminable interest property any joint and survivor annuities that are included in the gross estate and 
+would otherwise be treated as qualified terminable interest property under section 2056(b)(7)(C)? See instructions
+3
+Item 
+number
+Description of property interests passing to surviving spouse.  
+For securities, give CUSIP number. If trust, partnership, or closely held entity, give EIN
+Amount
+ QTIP property:  
+A1
+ All other property:  
+B1
+Total from continuation schedules (or additional statements) attached to this schedule .
+.
+.
+.
+.
+.
+.
+4
+Total amount of property interests listed on Schedule M .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5a
+Federal estate taxes payable out of property interests listed on Schedule M .
+5a
+b
+Other death taxes payable out of property interests listed on Schedule M .
+.
+5b
+c
+Federal and state GST taxes payable out of property interests listed on Schedule M
+5c
+d
+Add items 5a, 5b, and 5c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5d
+6 
+Net amount of property interests listed on Schedule M (subtract item 5d from item 4). Also enter on
+Part 5—Recapitulation, page 3, at item 21 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule M—Page 20
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE O—Charitable, Public, and Similar Gifts and Bequests
+Note: If the value of the gross estate, together with the amount of adjusted taxable gifts, is less than the basic exclusion amount and Form 
+706 is being filed solely to elect portability of the DSUE amount, consideration should be given as to whether you are required to report the 
+value of assets eligible for the marital or charitable deduction on this schedule. See the instructions for more information. If you are not 
+required to report the value of an asset, identify the property but make no entry in the last column.
+Yes
+No
+1 a If the transfer was made by will, has any action been instituted to contest or have interpreted any of its provisions
+affecting the charitable deductions claimed in this schedule? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If ‘‘Yes,’’ full details must be submitted with this schedule.
+b
+According to the information and belief of the person or persons filing this return, is any such action planned? 
+.
+If ‘‘Yes,’’ full details must be submitted with this schedule.
+2
+Did any property pass to charity as the result of a qualified disclaimer? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If ‘‘Yes,’’ attach a copy of the written disclaimer required by section 2518(b).
+Item 
+number
+Name and address of beneficiary
+Character of institution
+Amount
+1
+Total from continuation schedules (or additional statements) attached to this schedule .
+.
+.
+.
+.
+.
+.
+3
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4a
+Federal estate tax payable out of property interests listed above .
+.
+.
+.
+.
+4a
+b
+Other death taxes payable out of property interests listed above .
+.
+.
+.
+.
+4b
+c
+Federal and state GST taxes payable out of property interests listed above .
+4c
+d
+Add items 4a, 4b, and 4c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4d
+5 
+ 
+Net value of property interests listed above (subtract item 4d from item 3). Also enter on Part 5—
+Recapitulation, page 3, at item 22 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+(If more space is needed, attach the continuation schedule from the end of this package or additional statements of the same size.)
+Schedule O—Page 21
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE P—Credit for Foreign Death Taxes
+List all foreign countries to which death taxes have been paid and for which a credit is claimed on this return.
+If a credit is claimed for death taxes paid to more than one foreign country, compute the credit for taxes paid to one country on 
+this sheet and attach a separate copy of Schedule P for each of the other countries.
+The credit computed on this sheet is for the
+(Name of death tax or taxes)
+imposed in
+(Name of country)
+Credit is computed under the
+(Insert title of treaty or statute)
+Citizenship (nationality) of decedent at time of death
+(All amounts and values must be entered in U.S. money.)
+1 Total of estate, inheritance, legacy, and succession taxes imposed in the country named above attributable to 
+property situated in that country, subjected to these taxes, and included in the gross estate (as defined by statute) .
+1
+2
+Value of the gross estate (adjusted, if necessary, according to the instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3 Value of property situated in that country, subjected to death taxes imposed in that country, and included in the 
+gross estate (adjusted, if necessary, according to the instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Tax imposed by section 2001 reduced by the total credits claimed under sections 2010 and 2012 (see instructions)  
+4
+5 Amount of federal estate tax attributable to property specified at item 3. (Divide item 3 by item 2 and multiply the 
+result by item 4.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Credit for death taxes imposed in the country named above (the smaller of item 1 or item 5). Also enter on line 13 of 
+Part 2—Tax Computation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+6
+SCHEDULE Q—Credit for Tax on Prior Transfers
+Part 1. Transferor Information
+Name of transferor
+Social security number
+IRS office where estate  
+tax return was filed
+Date of death
+A
+B
+C
+Check here ▶
+if section 2013(f) (special valuation of farm, etc., real property) adjustments to the computation of the credit were made. See instructions.
+Part 2. Computation of Credit (see instructions)
+Item
+Transferor
+Total  
+A, B, and C
+     
+A
+B
+C
+     
+1 Transferee’s tax as apportioned (from worksheet, 
+(line 7 ÷  line 8) × line 35 for each column) 
+.
+.
+.
+2 Transferor’s tax (from each column of worksheet, 
+line 20) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+ 
+Maximum amount before percentage requirement 
+(for each column, enter amount from line 1 or line 2, 
+whichever is smaller) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Percentage allowed (each column) (see instructions)
+%
+%
+%
+5
+Credit allowable (line 3 × line 4 for each column) 
+.
+6 
+ 
+TOTAL credit allowable (add columns A, B, and C of 
+line 5). Enter here and on line 14 of Part 2—Tax 
+Computation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedules P and Q—Page 22
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE R—Generation-Skipping Transfer Tax
+Note: To avoid application of the deemed allocation rules, Form 706 and Schedule R should be filed to allocate the GST exemption to 
+trusts that may later have taxable terminations or distributions under section 2612 even if the form is not required to be filed to report 
+estate or GST tax.
+The GST tax is imposed on taxable transfers of interests in property located outside the United States as well as property located 
+inside the United States. See instructions.
+Part 1. GST Exemption Reconciliation (Section 2631) and Special QTIP Election (Section 2652(a)(3)) 
+You no longer need to check a box to make a section 2652(a)(3) (special QTIP) election. If you list 
+qualifying property in Part 1, line 9, below, you will be considered to have made this election. See 
+instructions for details.
+1
+Maximum allowable GST exemption .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Total GST exemption allocated by the decedent against decedent’s lifetime transfers .
+.
+.
+.
+.
+2
+3 
+Total GST exemption allocated by the executor, using Form 709, against decedent’s lifetime
+transfers .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+GST exemption allocated on line 6 of Schedule R, Part 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+GST exemption allocated on line 6 of Schedule R, Part 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Total GST exemption allocated on line 4 of Schedule(s) R-1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Total GST exemption allocated to inter vivos transfers and direct skips (add lines 2–6) 
+.
+.
+.
+.
+7
+8 
+GST exemption available to allocate to trusts and section 2032A interests (subtract line 7 from
+line 1) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Allocation of GST exemption to trusts (as defined for GST tax purposes):
+A 
+Name of trust
+B  
+Trust’s  
+EIN (if any)
+C 
+GST exemption allocated 
+on lines 2–6 above 
+(see instructions)
+D 
+Additional GST  
+exemption allocated  
+(see instructions)
+E  
+Trust’s inclusion 
+ratio (optional) 
+(see instructions)
+9D
+Total. May not exceed line 8 above .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9D
+10 
+GST exemption available to allocate to section 2032A interests received by individual beneficiaries 
+(subtract line 9D from line 8). You must attach special-use allocation statement. See instructions .
+10
+Schedule R—Page 23
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+Part 2.  Direct Skips Where the Property Interests Transferred Bear the GST Tax on the 
+Direct Skips
+Name of skip person
+Description of property interest transferred
+Estate tax value
+1 Total estate tax values of all property interests listed above .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2 Estate taxes, state death taxes, and other charges borne by the property interests listed above .
+.
+2
+3 GST taxes borne by the property interests listed above but imposed on direct skips other than those 
+shown on this Part 2 (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4 Total fixed taxes and other charges (add lines 2 and 3) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5 Total tentative maximum direct skips (subtract line 4 from line 1) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6 GST exemption allocated .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7 Subtract line 6 from line 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8 GST tax due (divide line 7 by 3.5) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9 Enter the amount from line 8 of Schedule R, Part 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10 Total GST taxes payable by the estate (add lines 8 and 9). Enter here and on line 17 of Part 2—
+Tax Computation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+Schedule R—Page 24
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+Part 3.  Direct Skips Where the Property Interests Transferred Do Not Bear the GST Tax on the 
+Direct Skips
+Name of skip person
+Description of property interest transferred
+Estate tax value
+1 Total estate tax values of all property interests listed above .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2 Estate taxes, state death taxes, and other charges borne by the property interests listed above .
+.
+2
+3 GST taxes borne by the property interests listed above but imposed on direct skips other than those 
+shown on this Part 3 (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4 Total fixed taxes and other charges (add lines 2 and 3) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5 Total tentative maximum direct skips (subtract line 4 from line 1) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6 GST exemption allocated .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7 Subtract line 6 from line 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8 GST tax due (multiply line 7 by 0.40). Enter here and on Schedule R, Part 2, line 9 
+.
+.
+.
+.
+.
+.
+8
+Schedule R—Page 25
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+SCHEDULE U—Qualified Conservation Easement Exclusion
+Part 1. Election
+Note: The executor is deemed to have made the election under section 2031(c)(6) if he or she files Schedule U and excludes any 
+qualifying conservation easements from the gross estate.
+Part 2. General Qualifications
+1
+Describe the land subject to the qualified conservation easement. See instructions
+2 
+Did the decedent or a member of the decedent’s family own the land described above during the 3-year 
+period ending on the date of the decedent’s death? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+3
+Describe the conservation easement with regard to which the exclusion is being claimed. See instructions.
+Part 3. Computation of Exclusion
+4
+Estate tax value of the land subject to the qualified conservation easement (see instructions) .
+4
+5 
+Date of death value of any easements granted prior to decedent’s 
+death and included on line 10 below (see instructions) .
+.
+.
+.
+5
+6
+Add lines 4 and 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Value of retained development rights on the land (see instructions)
+7
+8
+Subtract line 7 from line 6 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Multiply line 8 by 30% (0.30) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10 
+Value of qualified conservation easement for which the exclusion is 
+being claimed (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+Note: If line 10 is less than line 9, continue with line 11. If line 10 is 
+equal to or more than line 9, skip lines 11 through 13, enter “0.40”
+on line 14, and complete the schedule.
+11 
+Divide line 10 by line 8. Figure to 3 decimal places (for example,
+“0.123”) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Note: If line 11 is equal to or less than 0.100, stop here; the estate 
+does not qualify for the conservation easement exclusion.
+12 
+ 
+Subtract line 11 from 0.300. Enter the answer in hundredths by 
+rounding any thousandths up to the next higher hundredth (that is, 
+0.030 = 0.03, but 0.031 = 0.04) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Multiply line 12 by 2.0 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Subtract line 13 from 0.40 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15 
+Deduction under section 2055(f) for the conservation easement (see 
+instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Amount of indebtedness on the land (see instructions) .
+.
+.
+.
+16
+17
+Total reductions in value (add lines 7, 15, and 16) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18
+Net value of land (subtract line 17 from line 4) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+Multiply line 18 by line 14 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20 
+Enter the smaller of line 19 or the exclusion limitation. See instructions. Also enter this amount 
+on item 12, Part 5—Recapitulation, page 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+Schedule U—Page 26
+Schedule   PC 
+(Rev. August 2019) 
+Department of the Treasury  
+Internal Revenue Service 
+Protective Claim for Refund 
+▶ To be used for decedents dying after December 31, 2011. File 2 copies of this schedule with 
+Form 706 for each pending claim or expense under section 2053.
+OMB No. 1545-0015
+• Timely filing a protective claim for refund preserves the estate’s right to claim a refund based on the amount of an unresolved claim 
+or expense that may not become deductible under section 2053 until after the limitation period ends.
+• Schedule PC can be used to file a protective claim for refund and, once the claim or expense becomes deductible, Schedule PC can 
+be used to notify the IRS that a refund is being claimed.
+• Schedule PC can be used by the estate of a decedent dying after 2011.
+• Schedule PC must be filed with Form 706 and cannot be filed separately. (To file a protective claim for refund or notify the IRS that a 
+refund is being claimed in a form separate from the Form 706, instead use Form 843, Claim for Refund and Request for Abatement.)
+• Each separate claim or expense requires a separate Schedule PC (or Form 843, if not filed with Form 706).
+• Schedule PC must be filed in duplicate (two copies) for each separate claim or expense.
+Part 1. General Information
+1.   Name of decedent
+2.   Decedent’s social security no.
+3.   Name of fiduciary
+4.   Date of death 
+5a. Address (number, street, and room or suite no.)
+5b. Room or suite no.
+5c. City or town, state, and ZIP or postal code
+6.   Daytime telephone number 
+7. Number of Claims. Enter number of Schedules PC being filed with Form 706. 
+If the number is greater than one OR if another Schedule PC or Form 843 was previously filed by or on behalf of the estate, complete 
+Part 3 of this Schedule PC.
+8. Fiduciary
+Check here if this Schedule PC is being filed with the original Form 706 or is being filed by the same fiduciary who 
+filed the original Form 706 for decedent’s estate. If a different fiduciary is filing this Schedule PC, see instructions for 
+establishing the legal authority to pursue the claim for refund on behalf of the estate.
+Part 2. Claim Information
+Check the box that applies to this claim for refund.
+a.
+Protective claim for refund made for unresolved claim or expense.
+Amount in contest: 
+b. 
+ 
+Partial refund claimed: partial resolution and/or satisfaction of claim or expense for which a protective claim for refund has
+been filed previously.
+Date protective claim for refund filed for this claim or expense: 
+Amount of claim or expense partially resolved and/or satisfied and presently claimed as a deduction under section 2053 (do 
+not include amounts previously deducted): 
+c. 
+ 
+Full and final refund claimed for this claim or expense: resolution and/or satisfaction of claim or expense for which a protective 
+claim for refund has been filed previously.
+Date protective claim for refund filed for this claim or expense: 
+Amount of claim or expense finally resolved and/or satisfied and presently claimed as a deduction under section 2053 (do not 
+include amounts previously deducted): 
+Schedule PC—Page 27
+Form 706 (Rev. 8-2019)
+Estate of:
+Decedent’s social security number
+A 
+Form 706 
+Schedule 
+and Item 
+number
+B 
+Identification of the claim 
+• Name or names of the claimant(s) 
+• Basis of the claim or other description of the pending claim or 
+expense 
+• Reasons and contingencies delaying resolution 
+• Status of contested matters 
+• Attach copies of relevant pleadings or other documents 
+C 
+Amount, if any, 
+deducted under 
+Treas. Reg. sections 
+20.2053-1(d)(4) or 
+20.2053-4(b) or (c) 
+for the identified 
+claim or expense 
+D 
+Amount presently 
+claimed as a 
+deduction under 
+section 2053 for the 
+identified claim
+E 
+Ancillary expenses 
+estimated/ 
+agreed upon/paid 
+(Please indicate)
+F 
+Amount of tax 
+to be refunded
+Part 3. Other Schedules PC and Forms 843 Filed by Estate
+If a Schedule PC or Form 843 was previously filed by the estate, complete Part 3 to identify each claim for refund reported.
+A 
+Date of death
+B 
+Internal Revenue office where filed
+C 
+Date filed
+D 
+Indicate whether  
+(1) Protective Claim 
+for Refund,  
+(2) Partial Claim 
+for Refund, or 
+(3) Full and Final Claim 
+for Refund
+E 
+Amount in Contest  
+1
+To inquire about the receipt and/or processing of the protective claim for refund, please call 866-699-4083.
+Schedule PC—Page 28
+Form 706 (Rev. 8-2019)
+(Make copies of this schedule before completing it if you will need more than one schedule.)
+Estate of:
+Decedent’s social security number
+CONTINUATION SCHEDULE
+Continuation of Schedule
+(Enter letter of schedule you are continuing.)
+Item 
+number
+Description.  
+For securities, give CUSIP number.  
+If trust, partnership, or closely held entity, give EIN.
+Unit value  
+(Sch. B, E, or  
+G only)
+Alternate 
+valuation date
+Alternate value
+Value at date of  
+death or amount 
+deductible
+TOTAL (Carry forward to main schedule.) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Continuation Schedule—Page 29

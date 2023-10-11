@@ -1,0 +1,17 @@
+Schedule A (Form 1040-NR) is a document used for itemized deductions on the U.S. tax return for nonresident aliens. The form is attached to Form 1040-NR and provides instructions and information on various deductions.
+
+The form begins with a cautionary note regarding claiming a net qualified disaster loss on Form 4684. It also includes the website for accessing the latest instructions and information.
+
+The form requires the taxpayer to enter their name and identifying number. It then provides sections for reporting taxes paid, gifts to U.S. charities, casualty and theft losses, and other itemized deductions.
+
+For taxes paid, the taxpayer is instructed to enter the amount of state and local income taxes paid and to enter the smaller of that amount or $10,000 ($5,000 if married filing separately).
+
+For gifts to U.S. charities, the taxpayer must report gifts made by cash or check, with additional instructions for gifts of $250 or more. If gifts were made by means other than cash or check, the taxpayer must provide details and attach Form 8283 if the total exceeds $500.
+
+The form also includes a section for reporting any carryover from the prior year, as well as a section for reporting casualty and theft losses from a federally declared disaster (excluding net qualified disaster losses). The taxpayer must attach Form 4684 and enter the amount from line 18 of that form.
+
+Lastly, the form provides a space to report other itemized deductions from a list provided in the instructions. The taxpayer must list the type and amount of each deduction.
+
+The form concludes with a total of all itemized deductions, which is to be entered on Form 1040-NR, line 12.
+
+The document includes a notice regarding the Paperwork Reduction Act, and its catalog number is 72749E.

@@ -1,0 +1,17 @@
+Form 8038-G is an information return for tax-exempt governmental bonds. It is used by issuers to report details about the bond issue to the Internal Revenue Service (IRS). The form is divided into several parts.
+
+Part I requires the issuer to provide their name, employer identification number (EIN), and contact information. They also need to indicate if the return is an amended return.
+
+Part II is used to specify the type of issue and enter the issue price. The form provides several categories such as education, health and hospital, transportation, public safety, environment, housing, utilities, and others.
+
+Part III requires a description of the bonds, including the final maturity date, issue price, stated redemption price at maturity, weighted average maturity, and yield.
+
+Part IV is used to report the uses of proceeds of the bond issue, including accrued interest, bond issuance costs, credit enhancement, and allocation to reserve or replacement funds. It also includes sections for refunding prior tax-exempt and taxable bonds.
+
+Part V is only completed for refunding bonds and requires information about the remaining weighted average maturity of the bonds to be refunded and the dates they were issued.
+
+Part VI includes miscellaneous information such as the amount of state volume cap allocated to the issue, details about a guaranteed investment contract (GIC), pooled financings, loans made from the proceeds of another tax-exempt issue, small issuer exception, penalty in lieu of arbitrage rebate, hedge identification, superintegration of the hedge, written procedures for remediation of nonqualified bonds, monitoring of section 148 requirements, and reimbursement of expenditures.
+
+The form concludes with a signature and consent section where the issuer's authorized representative declares the accuracy of the return and provides consent for the IRS to disclose the issuer's return information.
+
+The form also includes instructions and a separate section for the preparer if applicable.

@@ -1,0 +1,13 @@
+Form 1023-EZ is a simplified application for organizations seeking recognition of exemption under Section 501(c)(3) of the Internal Revenue Code. The form is filed electronically on Pay.gov and is used to determine if an organization is eligible for tax-exempt status. The form requires information about the organization's identification, such as its name, address, and employer identification number. It also asks for the names and addresses of the organization's officers, directors, and trustees.
+
+The form also requires information about the organization's organizational structure, including whether it is a corporation, unincorporated association, or trust. It asks for the date of incorporation or formation and the state of incorporation or formation. The form also requires the organization's organizing document to contain certain provisions required by Section 501(c)(3), such as limiting its purposes to exempt purposes and providing for the use of assets exclusively for exempt purposes upon dissolution.
+
+The form asks for information about the organization's specific activities, including the NTEE code that best describes its activities and whether it is organized and operated exclusively for certain exempt purposes. It also requires the organization to attest that it will comply with certain requirements, such as refraining from supporting or opposing political candidates, ensuring that its net earnings do not benefit private individuals, and not conducting activities that violate certain prohibitions and restrictions.
+
+The form includes a section for the organization to classify itself as either a public charity or a private foundation. It requires the organization to attest that it meets certain criteria for public charity status or, if not, to indicate that it is a private foundation and has the required provisions in its organizing document to avoid liability for private foundation excise taxes.
+
+Finally, the form includes a section for organizations seeking reinstatement of exemption after being automatically revoked for failure to file required annual returns or notices. The organization can indicate whether it is seeking retroactive reinstatement or reinstatement effective the date of the application.
+
+The form must be signed by an authorized official of the organization, who declares under the penalties of perjury that the information provided is true, correct, and complete.
+
+Note: This summary is based on the June 2014 version of Form 1023-EZ. For the most up-to-date information, please refer to the form and its instructions on the IRS website.

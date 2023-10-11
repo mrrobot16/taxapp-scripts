@@ -1,0 +1,9 @@
+Form 5498-ESA is a document used to report contributions and rollover contributions made to a Coverdell Education Savings Account (ESA). The form includes information such as the name, address, and taxpayer identification number (TIN) of the trustee or issuer, as well as the beneficiary's TIN, name, and address. It also includes an account number to distinguish the beneficiary's account.
+
+The form has three copies: Copy A is filed with the Internal Revenue Service (IRS) along with Form 1096, Copy B is furnished to the beneficiary, and Copy C is retained by the trustee or issuer for their records.
+
+The form provides instructions to the beneficiary, including the reporting of contributions and rollovers made on their behalf. It also mentions the importance of tracking the beneficiary's ESA basis and the potential penalty for exceeding the contribution limit.
+
+The trustee or issuer is provided with instructions on how to complete the form, including references to the General Instructions for Certain Information Returns and the Instructions for Form 5498-ESA. Contact information for the IRS Technical Services Operation is also provided for assistance with reporting.
+
+For more detailed information and the latest updates, individuals are directed to visit the IRS website.

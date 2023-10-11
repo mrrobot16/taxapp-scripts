@@ -1,0 +1,12 @@
+Schedule D (Form 1120-S) is a document used for reporting capital gains and losses and built-in gains for corporations. It is attached to Form 1120-S and provides instructions for completing the form. The document is divided into three parts.
+
+Part I: Short-Term Capital Gains and Losses
+This section is for reporting assets held for one year or less. It provides lines to enter the proceeds (sales price), cost (or other basis), adjustments to gain or loss from Form 8949, and the resulting gain or loss. There are also lines for reporting totals for short-term transactions reported on Form 1099-B and Form 8949.
+
+Part II: Long-Term Capital Gains and Losses
+This section is for reporting assets held for more than one year. It follows a similar format to Part I, with lines for entering proceeds, cost, adjustments, and the resulting gain or loss. There are also lines for reporting totals for long-term transactions reported on Form 1099-B and Form 8949.
+
+Part III: Built-in Gains Tax
+This section is for reporting the built-in gains tax. It includes lines for calculating the excess of recognized built-in gains over recognized built-in losses, taxable income, net recognized built-in gain, section 1374(b)(2) deduction, and the resulting tax.
+
+The document includes additional instructions and information on how to complete each section.

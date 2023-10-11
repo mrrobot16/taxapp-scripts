@@ -1,0 +1,13 @@
+This document provides information and instructions regarding Form 1099-LS, which is used to report a reportable life insurance sale to the Internal Revenue Service (IRS). 
+
+The document explains that Copy A of the form is only for informational purposes and is not scannable if printed from the website. It advises against printing and filing Copy A downloaded from the website, as there may be penalties for filing non-scannable information return forms. However, Copy B and other copies of the form can be downloaded, printed, and used to provide the information to the payment recipient.
+
+To order official IRS information returns, including a scannable Copy A, users are directed to visit the IRS website and order the necessary forms and instructions.
+
+The document also mentions that information returns can be filed electronically using the IRS Filing Information Returns Electronically (FIRE) system or the IRS Affordable Care Act Information Returns (AIR) program.
+
+The form itself includes fields for the acquirer's information, payment recipient's information, policy number, amount paid to the payment recipient, and date of sale. There are separate copies of the form for the internal revenue service center, payment recipient, issuer, and acquirer.
+
+Instructions for the payment recipient, issuer, and acquirer are provided, including explanations of the various fields on the form.
+
+The document concludes with information on how to obtain the general instructions and specific instructions for Form 1099-LS, as well as filing and furnishing instructions and contact information for further assistance.

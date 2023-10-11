@@ -1,0 +1,13 @@
+Form 1098-Q is a document used to report information about a Qualifying Longevity Annuity Contract (QLAC) to the Internal Revenue Service (IRS). It is divided into three copies: Copy A is filed with Form 1096, Copy B is for the participant, and Copy C is for the issuer.
+
+The form includes sections for the issuer's name, address, and contact information, as well as the participant's name, address, and account number. It also requires the plan number, name, and Employer Identification Number (EIN) of the plan sponsor.
+
+The form includes boxes to report the annuity amount on the start date, the start date itself, and whether the start date may be accelerated. It also requires the total premiums paid for the contract and the fair market value (FMV) of the QLAC as of December 31 of the reporting year.
+
+Additionally, the form includes boxes to report the amount of premiums paid for the contract each month, along with the corresponding dates of payment.
+
+The instructions for participants explain that the form is provided by the issuer to report the status of the QLAC to the IRS. It states that the value of the QLAC is not included when calculating the required minimum distribution (RMD) from the participant's plan or Individual Retirement Account (IRA). The form is provided annually until the participant reaches age 85 or dies, and if the sole beneficiary is the surviving spouse, the statement will be provided to them until distributions commence or until they die.
+
+The instructions for issuers provide guidance on how to complete the form, including references to the current General Instructions for Certain Information Returns and the current Instructions for Form 1098-Q. It also provides information on filing and furnishing instructions, including due dates and electronic filing options.
+
+Overall, Form 1098-Q is used to report information about a Qualifying Longevity Annuity Contract to the IRS, providing details about the contract, premiums paid, and the fair market value of the contract.

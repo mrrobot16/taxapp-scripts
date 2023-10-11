@@ -1,0 +1,19 @@
+Schedule O (Form 5471) is a document used by the Internal Revenue Service (IRS) to gather information about the organization or reorganization of a foreign corporation, as well as acquisitions and dispositions of its stock. The form is to be completed by U.S. officers, directors, and shareholders.
+
+The form is divided into several parts. Part I is to be completed by U.S. officers and directors and includes information about the shareholder for whom acquisition information is being reported.
+
+Part II is to be completed by U.S. shareholders and includes general shareholder information, such as their name, address, and identifying number. It also asks for information about the shareholder's latest U.S. income tax return, including the type of return, date filed, and IRS center where filed. Additionally, shareholders are asked to provide information about any previous information returns filed for the foreign corporation.
+
+Section B is for U.S. persons who are officers or directors of the foreign corporation. It asks for their name, address, and social security number, and also asks them to indicate whether they are an officer or director.
+
+Section C is for reporting the acquisition of stock. Shareholders are asked to provide the name of the shareholder filing the schedule, the class of stock acquired, the date of acquisition, the method of acquisition, and the number of shares acquired. They are also asked to provide information about the amount paid or value given for the stock and the name and address of the person from whom the shares were acquired.
+
+Section D is for reporting the disposition of stock. Shareholders are asked to provide the name of the shareholder disposing of the stock, the class of stock, the date of disposition, the method of disposition, the number of shares disposed of, the amount received, and the name and address of the person to whom the disposition was made.
+
+Section E is for reporting the organization or reorganization of the foreign corporation. Shareholders are asked to provide the name and address of the transferor, the identifying number (if any), the date of transfer, and information about the assets transferred to the foreign corporation.
+
+Section F is for providing additional information, such as whether the foreign corporation or a predecessor U.S. corporation filed a U.S. income tax return in the last 3 years, the date of any reorganization of the foreign corporation, and a chart showing the chain of ownership if the foreign corporation is a member of a group.
+
+The form also includes a Paperwork Reduction Act Notice and a space for the taxpayer to sign and date the form.
+
+This summary provides a brief overview of the information requested on Schedule O (Form 5471). For more detailed instructions, taxpayers are directed to visit the IRS website at www.irs.gov/form5471.

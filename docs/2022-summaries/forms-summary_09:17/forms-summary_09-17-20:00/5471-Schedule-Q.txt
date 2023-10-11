@@ -1,0 +1,394 @@
+SCHEDULE Q 
+(Form 5471)
+(Rev. December 2022)
+CFC Income by CFC Income Groups
+Department of the Treasury 
+Internal Revenue Service
+Attach to Form 5471. 
+Go to www.irs.gov/Form5471 for instructions and the latest information.
+OMB No. 1545-0123
+Name of person filing Form 5471
+Identifying number
+Name of foreign corporation
+EIN (if any)
+Reference ID number (see instructions)
+Complete a separate Schedule Q with respect to each applicable category of income (see instructions).
+A
+Enter separate category code with respect to which this Schedule Q is being completed (see instructions for codes) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+B
+If category code “PAS” is entered on line A, enter the applicable grouping code (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+C
+If code “901j” is entered on line A, enter the country code for the sanctioned country (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Complete a separate Schedule Q for U.S. source income and foreign source income (see instructions for an exception).
+D
+Indicate whether this Schedule Q is being completed for: 
+U.S. source income or
+Foreign source income
+Complete a separate Schedule Q for FOGEI or FORI income.
+E
+If this Schedule Q is being completed for FOGEI or FORI income, check this box 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Enter amounts in functional currency 
+of the foreign corporation (unless 
+otherwise noted).
+(i) 
+Country 
+Code
+(ii) 
+Gross Income 
+(iii) 
+Definitely Related 
+Expenses
+(iv) 
+Related Person 
+Interest Expense
+(v) 
+Other Interest 
+Expense
+(vi) 
+Research & Experimental 
+Expenses
+(vii) 
+Other Expenses 
+(attach schedule)
+1
+Subpart F Income Groups
+a Dividends, 
+Interest, 
+Rents, 
+Royalties, & Annuities (Total) 
+.
+(1) Unit name:
+(2) Unit name:
+b Net Gain From Certain Property 
+Transactions (Total) 
+.
+.
+.
+.
+(1) Unit name:
+(2) Unit name:
+c Net 
+Gain 
+From 
+Commodities 
+Transactions (Total) 
+.
+.
+.
+.
+(1) Unit name:
+(2) Unit name:
+d
+Net Foreign Currency Gain (Total) 
+(1) Unit name:
+(2) Unit name:
+e
+Income Equivalent to Interest (Total)
+(1) Unit name:
+(2) Unit name:
+f
+Other .
+.
+.
+.
+.
+.
+.
+.
+.
+(1) Unit name:
+(2) Unit name:
+g Foreign Base Company Sales 
+Income (Total) 
+.
+.
+.
+.
+.
+.
+(1) Unit name:
+(2) Unit name:
+Important: See Computer-Generated Schedule Q in instructions.
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 73414U
+Schedule Q (Form 5471) (Rev. 12-2022)
+Schedule Q (Form 5471) (Rev. 12-2022)
+Page 2
+(viii) 
+Current Year Tax on 
+Reattributed Income 
+From Disregarded 
+Payments
+(ix) 
+Current Year Tax on 
+All Other Disregarded 
+Payments
+(x) 
+Other Current 
+Year Taxes
+(xi) 
+Net Income 
+(column (ii) less 
+columns (iii) through (x))
+(xii) 
+Foreign Taxes for 
+Which Credit Allowed 
+(U.S. Dollars)
+(xiii) 
+Average Asset Value
+(xiv) 
+High 
+Tax 
+Election
+(xv) 
+Loss Allocation
+(xvi) 
+Net Income After 
+Loss Allocation 
+(column (xi) minus 
+column (xv))
+1
+a
+(1)
+(2)
+b
+(1)
+(2)
+c
+(1)
+(2)
+d
+(1)
+(2)
+e
+(1)
+(2)
+f
+(1)
+(2)
+g
+(1)
+(2)
+Important: See Computer-Generated Schedule Q in instructions.
+Schedule Q (Form 5471) (Rev. 12-2022)
+Schedule Q (Form 5471) (Rev. 12-2022)
+Page 3
+Enter amounts in functional currency 
+of the foreign corporation (unless 
+otherwise noted).
+(i) 
+Country 
+Code
+(ii)  
+Gross Income 
+(iii) 
+Definitely Related 
+Expenses
+(iv) 
+Related Person 
+Interest Expense
+(v) 
+Other Interest 
+Expense
+(vi) 
+Research & Experimental  
+Expenses
+(vii) 
+Other Expenses 
+(attach schedule)
+1
+Subpart F Income Groups
+h Foreign Base Company Services 
+Income (Total) 
+.
+.
+.
+.
+.
+.
+(1) Unit name:
+(2) Unit name:
+i 
+Full 
+Inclusion 
+Foreign 
+Base 
+Company Income (Total) .
+.
+.
+(1) Unit name:
+(2) Unit name:
+j
+Insurance Income (Total) .
+.
+.
+(1) Unit name:
+(2) Unit name:
+k
+International Boycott Income 
+.
+l 
+Bribes, Kickbacks, and Other 
+Payments .
+.
+.
+.
+.
+.
+.
+.
+m Section 901(j) income .
+.
+.
+.
+2
+Recaptured Subpart F Income .
+3
+Tested Income Group (Total) 
+.
+(1) Unit name:
+(2) Unit name:
+4
+Residual Income Group (Total) .
+(1) Unit name:
+(2) Unit name:
+5
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Important: See Computer-Generated Schedule Q in instructions.
+Schedule Q (Form 5471) (Rev. 12-2022)
+Schedule Q (Form 5471) (Rev. 12-2022)
+Page 4
+(viii) 
+Current Year Tax on 
+Reattributed Income 
+From Disregarded 
+Payments
+(ix) 
+Current Year Tax on 
+All Other Disregarded 
+Payments
+(x) 
+Other Current 
+Year Taxes
+(xi) 
+Net Income 
+(column (ii) less 
+columns (iii) through (x))
+(xii) 
+Foreign Taxes for 
+Which Credit Allowed 
+(U.S. Dollars)
+(xiii) 
+Average Asset Value
+(xiv) 
+High 
+Tax 
+Election
+(xv) 
+Loss Allocation
+(xvi) 
+Net Income After 
+Loss Allocation 
+(column (xi) minus 
+column (xv))
+1
+h
+(1)
+(2)
+i
+(1)
+(2)
+j
+(1)
+(2)
+k
+l
+m
+2
+3
+(1)
+(2)
+4
+(1)
+(2)
+5
+Important: See Computer-Generated Schedule Q in instructions.
+Schedule Q (Form 5471) (Rev. 12-2022)

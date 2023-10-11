@@ -1,0 +1,15 @@
+Form 8283 is a document provided by the Internal Revenue Service (IRS) for individuals who have made noncash charitable contributions and are claiming a deduction of over $500 for all contributed property. The form is to be attached to the taxpayer's tax return.
+
+The form is divided into several sections. Section A is for donated property of $5,000 or less and publicly traded securities. It requires the taxpayer to provide information about the donee organization, description and condition of the donated property, dates of contribution and acquisition, donors cost or adjusted basis, fair market value, and the method used to determine the fair market value.
+
+Section B is for donated property over $5,000, excluding publicly traded securities, vehicles, intellectual property, or inventory. This section requires the taxpayer to provide information about the type of property donated, description of the donated property, appraised fair market value, date acquired by the donor, how it was acquired, donors cost or adjusted basis, amount received for bargain sales, amount claimed as a deduction, and date of contribution.
+
+Part II of Section B is for partial interests and restricted use property, where the taxpayer must provide information if they gave less than an entire interest in a property or if conditions were placed on the contribution.
+
+Part III requires the taxpayer to list any items included in Section B, Part I that have an appraised value of $500 or less.
+
+Part IV is a declaration of the appraiser, stating that they are qualified to make appraisals and that the appraisal fees were not based on a percentage of the appraised property value.
+
+Part V is the donee acknowledgment, where the charitable organization acknowledges receipt of the donated property and affirms their intention to file Form 8282 if they dispose of the property within 3 years.
+
+Overall, Form 8283 is a detailed form that taxpayers must complete when claiming deductions for noncash charitable contributions over $500.

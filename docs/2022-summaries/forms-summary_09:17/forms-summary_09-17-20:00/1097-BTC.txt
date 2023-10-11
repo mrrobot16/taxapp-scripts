@@ -1,0 +1,325 @@
+     
+Form 1097-BTC
+(Rev. December 2019)
+Cat. No. 54293T
+Bond 
+Tax 
+Credit
+Department of the Treasury - Internal Revenue Service
+Copy A
+For 
+Internal Revenue 
+Service Center
+File with Form 1096.
+OMB No. 1545-2197
+For Privacy Act 
+and Paperwork 
+Reduction Act 
+Notice, see the 
+current General 
+Instructions for 
+Certain Information 
+Returns.
+For calendar year
+20
+5050
+VOID
+CORRECTED
+FORM 1097-BTC ISSUER’S name, street address, city or town, state or 
+province, country, ZIP or foreign postal code, and telephone no.
+FORM 1097-BTC ISSUER’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+ Form 1097-BTC issuer is (check one):
+Issuer of bond or its agent filing current year 
+Form 1097-BTC for credit being reported
+An entity or a person that received or should have received 
+a current year Form 1097-BTC and is distributing part or all 
+of that credit to others
+1    Total 
+$
+2a  Code
+2b  Unique identifier
+3    Bond type
+4
+5a  January 
+$ 
+5b  February
+$ 
+5c  March
+$ 
+5d  April
+$ 
+5e  May
+$ 
+5f   June
+$ 
+5g  July 
+$ 
+5h  August
+$ 
+5i   September
+$ 
+5j   October
+$ 
+5k  November
+$ 
+5l   December
+$ 
+6    Comments
+Form 1097-BTC (Rev. 12-2019)
+www.irs.gov/Form1097BTC
+Do Not Cut or Separate Forms on This Page — Do Not Cut or Separate Forms on This Page
+     
+Form 1097-BTC
+(Rev. December 2019)
+Bond 
+Tax 
+Credit
+Department of the Treasury - Internal Revenue Service
+Copy B
+For Recipient
+This is important tax 
+information and is 
+being furnished to the 
+IRS. If you are required 
+to file a return, a 
+negligence penalty or 
+other sanction may be 
+imposed on you if an 
+amount of tax credit 
+exceeding the amount 
+reported on this form is 
+claimed on your 
+income tax return. 
+OMB No. 1545-2197
+For calendar year
+20
+CORRECTED (if checked)
+FORM 1097-BTC ISSUER’S name, street address, city or town, state or 
+province, country, ZIP or foreign postal code, and telephone no.
+FORM 1097-BTC ISSUER’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+ Form 1097-BTC issuer is: 
+Issuer of bond or its agent filing current year 
+Form 1097-BTC for credit being reported
+An entity or a person that received or should have received 
+a current year Form 1097-BTC and is distributing part or all 
+of that credit to others
+1    Total 
+$
+2a  Code
+2b  Unique identifier
+3    Bond type
+4
+5a  January 
+$ 
+5b  February
+$ 
+5c  March
+$ 
+5d  April
+$ 
+5e  May
+$ 
+5f   June
+$ 
+5g  July 
+$ 
+5h  August
+$ 
+5i   September
+$ 
+5j   October
+$ 
+5k  November
+$ 
+5l   December
+$ 
+6    Comments
+Form 1097-BTC (Rev. 12-2019)
+(keep for your records)
+www.irs.gov/Form1097BTC
+Instructions for Recipient
+Issuers of certain tax credit bonds or their agents, and recipients of 
+Form 1097-BTC from the bond issuer or agent who are further 
+distributing the credit, such as brokers, nominees, mutual funds, or 
+partnerships, must report to you on at least a quarterly basis and file 
+with the IRS annually on a separate Form 1097-BTC the amount of tax 
+credit you are allowed for each month of the calendar year. 
+Recipient’s taxpayer identification number (TIN). For your 
+protection, this form may show only the last four digits of your TIN 
+(social security number (SSN), individual taxpayer identification 
+number (ITIN), adoption taxpayer identification number (ATIN), or 
+employer identification number (EIN)). However, the issuer has 
+reported your complete TIN to the IRS.
+▲
+!
+CAUTION
+You will not receive a separate 4th quarter report. The 
+credits for the 4th quarter will be reported together with the 
+annual aggregate total amount of allowable credits 
+furnished to you on or before the 15th day of the 2nd 
+calendar month after the close of the calendar year.
+Note: The first 3 quarters reported on the annual report are duplicative 
+amounts previously reported. You are allowed to take the credit 
+amount from each quarter only once.
+The checkbox shows if the filer is the issuer of the bond or its agent, 
+or is an entity or a person that received or should have received this 
+form and is making a further distribution of the credit.
+Box 1. Shows the aggregate total of credits allowed for the calendar 
+year. 
+Box 2a. Indicates if the unique identification number is your account 
+number, the CUSIP number of the bond, or another identifier. For 
+filings of Form 1097-BTC by the issuer of the bond or its agent (as 
+indicated by the first checkbox being checked), the first nine 
+characters of the unique identifier in box 2b must be the CUSIP 
+number, if available. For further identification, if necessary or desired 
+by the issuer, the CUSIP number can be followed by an optional 
+hyphen and then an account number or other unique identifying 
+number.
+If no CUSIP number is available, the account number, or other 
+unique identifying number by which the bond transaction is tracked by 
+the issuer, is shown in box 2b.
+C—CUSIP number
+A—Account number
+O—Any other identifier 
+Box 2b. Shows the unique identifier assigned by the Form 1097-BTC 
+issuer, limited to 39 alphanumeric characters. 
+Box 3. Shows the codes for tax credit bonds that are reported on 
+separate Forms 1097-BTC:
+101—Clean renewable energy bond
+199—Other
+Boxes 5a–5l. These boxes show the amount of the credit you are 
+allowed for the month during the calendar year.
+You may be entitled to claim a credit against your income tax 
+liabilities, subject to certain limitations under section 54A(c).
+Additionally, clean renewable energy bond credits received from a 
+pass-through entity are limited to the income received from the pass-
+through entity. New clean renewable energy bond and qualified 
+energy conservation bond credits are limited to 70% of the credit 
+amounts determined under section 54A(b); the credit reported on 
+Form 1097-BTC is the credit amount after the 70% limit has been 
+applied. For more information, see Form 8912.
+Box 6. May show any additional information provided by the form 
+issuer. 
+Future developments. For the latest information about  
+developments related to Form 1097-BTC and its instructions, such as 
+legislation enacted after they were published, go to 
+www.irs.gov/Form1097BTC.
+     
+Form 1097-BTC
+(Rev. December 2019)
+Bond 
+Tax 
+Credit
+Department of the Treasury - Internal Revenue Service
+Copy C
+For Payer
+OMB No. 1545-2197
+For Privacy Act 
+and Paperwork 
+Reduction Act 
+Notice, see the 
+current General 
+Instructions for 
+Certain Information 
+Returns.
+For calendar year
+20
+VOID
+CORRECTED
+FORM 1097-BTC ISSUER’S name, street address, city or town, state or 
+province, country, ZIP or foreign postal code, and telephone no.
+FORM 1097-BTC ISSUER’S TIN
+RECIPIENT’S TIN
+RECIPIENT’S name
+Street address (including apt. no.)
+City or town, state or province, country, and ZIP or foreign postal code
+ Form 1097-BTC issuer is (check one):
+Issuer of bond or its agent filing current year 
+Form 1097-BTC for credit being reported
+An entity or a person that received or should have received 
+a current year Form 1097-BTC and is distributing part or all 
+of that credit to others
+1    Total 
+$
+2a  Code
+2b  Unique identifier
+3    Bond type
+4
+5a  January 
+$ 
+5b  February
+$ 
+5c  March
+$ 
+5d  April
+$ 
+5e  May
+$ 
+5f   June
+$ 
+5g  July 
+$ 
+5h  August
+$ 
+5i   September
+$ 
+5j   October
+$ 
+5k  November
+$ 
+5l   December
+$ 
+6    Comments
+Form 1097-BTC (Rev. 12-2019)
+www.irs.gov/Form1097BTC
+Instructions for Payer
+To complete Form 1097-BTC, use: 
+• The current General Instructions for Certain Information 
+Returns, and
+• The current Instructions for Form 1097-BTC.
+To order these instructions and additional forms, go to 
+www.irs.gov/Form1097BTC.
+Filing and furnishing. Furnish the information shown on 
+Copy B of this form to the recipient on or before the 15th 
+day of the 2nd calendar month after the close of the 
+calendar quarter in which the credit is allowed. 
+For the first 3 quarters, report to the recipient only the 
+amounts for the months of the applicable quarter. Box 1 
+should not be completed and box 6 is optional.
+You are not required to furnish a separate report solely 
+for the 4th quarter because the 4th quarter amounts are 
+reported with the annual filing. For the annual filing, report 
+the credits for each month in boxes 5a–5l, report the total 
+of those amounts in box 1, and complete the rest of the 
+form as applicable. If any amounts previously furnished for 
+the first 3 quarters need to be corrected, report the correct 
+amounts for the annual reporting and explain the correction 
+to the recipient; no explanation is required for the IRS filing. 
+ For the report furnished to the recipient (quarterly or 
+annual), you may use Copy B or your own substitute 
+statement reporting all the same applicable information 
+(the reporting for the first 3 quarters may be furnished 
+electronically). 
+The IRS encourages Form 1097-BTC issuers to provide 
+the credit information to the recipient monthly, if 
+applicable, and as soon after the end of the month in which 
+a credit arises as possible.
+For filing and furnishing instructions, and to request filing 
+or furnishing extensions, see the current General  
+Instructions for Certain Information Returns. To file 
+electronically, you must have software that generates a file 
+according to the specifications in Pub. 1220.
+Need help? If you have questions about reporting on Form 
+1097-BTC, call the information reporting customer service 
+site toll free at 866-455-7438 or 304-263-8700 (not toll 
+free). Persons with a hearing or speech disability with 
+access to TTY/TDD equipment can call 304-579-4827 (not 
+toll free). 

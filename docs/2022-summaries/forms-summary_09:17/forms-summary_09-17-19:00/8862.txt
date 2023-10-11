@@ -1,0 +1,17 @@
+Form 8862 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim certain tax credits after they have been disallowed or reduced for reasons other than math or clerical errors. The credits that can be claimed using this form include the Earned Income Credit (EIC), Child Tax Credit (CTC), Refundable Child Tax Credit (RCTC), Additional Child Tax Credit (ACTC), Credit for Other Dependents (ODC), and American Opportunity Tax Credit (AOTC).
+
+The form consists of several parts that need to be completed based on the specific credit being claimed. Part I requires the taxpayer to enter the tax year for which they are filing the form. Part II pertains to the Earned Income Credit and includes questions about the reporting of earned income and whether the taxpayer or their spouse can be claimed as a qualifying child by another taxpayer.
+
+Section A of Part II is for filers with a qualifying child or children and requires information about the children, such as their names, the number of days they lived with the taxpayer in the United States, and their dates of birth and death if applicable.
+
+Section B of Part II is for filers without a qualifying child or children and asks about the number of days the taxpayer's main home and their spouse's main home were in the United States during the tax year.
+
+Part III is for claiming the Child Tax Credit, Additional Child Tax Credit, or Credit for Other Dependents. It requires the taxpayer to list the names of the children or dependents for whom they are claiming the credit and answer questions about their eligibility and residency.
+
+Part IV is for claiming the American Opportunity Tax Credit and asks questions about the students for whom the credit is being claimed, including their eligibility and whether the Hope Scholarship Credit or AOTC has been claimed for them in previous years.
+
+Part V is for situations where a child can be claimed as a qualifying child by more than one person. It requires the taxpayer to provide information about the child's living arrangements and any other individuals who lived with the child for more than half of the year.
+
+The form concludes with a note that the IRS may request additional information to verify the taxpayer's eligibility for the claimed credits.
+
+Taxpayers need to complete Form 8862 and attach it to their tax return if they meet the requirements outlined in the form and want to claim the credits that were previously disallowed or reduced. The latest version of the form and instructions can be found on the IRS website.

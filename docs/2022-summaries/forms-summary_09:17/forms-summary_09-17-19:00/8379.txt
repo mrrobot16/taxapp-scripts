@@ -1,0 +1,13 @@
+Form 8379 is the Injured Spouse Allocation form provided by the Internal Revenue Service (IRS) in the United States. This form is used by taxpayers who are married and filing a joint tax return, but want to protect their portion of the refund from being applied to their spouse's past-due debts. 
+
+The form begins with Part I, which asks the taxpayer to determine if they should file the form. They must confirm that they filed a joint return and that the IRS used the joint overpayment to pay their spouse's past-due debts. If they are legally obligated to pay the past-due amount, they cannot file this form. If they were a resident of a community property state, they need to provide the name(s) of the state(s) and indicate if their marriage was recognized under the laws of the community property state(s). The form then asks if the taxpayer made and reported payments or had earned income, such as wages or self-employment income, and if they claimed certain tax credits. If they claimed a refundable tax credit, they proceed to Part II.
+
+In Part II, the taxpayer provides information about the joint return for which they are filing the form. They enter the names and social security numbers of both spouses as shown on the tax return. They can indicate if they want the refund issued in both names or if separate refunds should be issued. They also have the option to provide a different mailing address for the injured spouse refund.
+
+Part III of the form deals with the allocation of items on the joint return between the spouses. This includes income, adjustments to income, deductions, credits, taxes, and payments. The taxpayer must allocate these items between themselves and their spouse.
+
+Part IV is for the taxpayer's signature if they are filing Form 8379 separately from their tax return. They must declare under penalties of perjury that the form is true, correct, and complete.
+
+The form concludes with a section for paid preparers to provide their information if applicable.
+
+Taxpayers can refer to the separate instructions for Form 8379 for more detailed guidance on completing the form.

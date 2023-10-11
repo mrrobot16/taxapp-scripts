@@ -1,0 +1,2832 @@
+Form  1120-L
+Department of the Treasury  
+Internal Revenue Service
+U.S. Life Insurance Company Income Tax Return
+For calendar year 2022 or tax year beginning
+, 2022, ending
+, 20
+Go to www.irs.gov/Form1120L for instructions and the latest information.
+OMB No. 1545-0123
+2022
+Please 
+print  
+or  
+type
+Name
+Number, street, and room or suite no. If a P.O. box, see instructions.
+City or town, state or province, country, and ZIP or foreign postal code
+A  Check if:
+1  Consolidated return 
+(attach Form 851) 
+2  Life-nonlife 
+consolidated return 
+3  Schedule M-3 (Form 
+1120-L) attached 
+B   Employer identification number
+C   Date incorporated
+D   Check applicable box if an 
+election has been made under 
+section(s):
+953(c)(3)(C)
+953(d)
+E  Check if:
+(1)
+Final return
+(2)
+Name change
+(3)
+Address change
+(4)
+Amended return
+Income (line 6 is reserved)
+1
+Gross premiums, etc., less return premiums, etc. Enter balance .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Net decrease, if any, in reserves (Schedule F, line 12) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3a
+Decrease in reserves under section 807(f) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b
+Income from Reserve Transition Relief (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3b
+4
+Investment income (Schedule B, line 6) (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Capital gain net income (Schedule D (Form 1120)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+7
+Other income (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Life insurance company gross income. Add lines 1 through 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+Deductions (See instructions for limitations on deductions.) 
+9
+Death benefits, etc. .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Net increase, if any, in reserves (Schedule F, line 12) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11a
+Increase in reserves under section 807(f) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11a
+b
+Deduction from Reserve Transition Relief (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11b
+12
+Deductible policyholder dividends under section 808 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Assumption by another person of liabilities under insurance, etc., contracts 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Dividends reimbursable by taxpayer .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15a
+Interest 
+b Less tax-exempt interest expense 
+c Balance 
+15c
+16
+Deductible policy acquisition expenses (Schedule G, line 20) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18
+Other deductions (see instructions) (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+Add lines 9 through 18 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Subtotal. Subtract line 19 from line 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21a
+Dividends-received and other special deductions (Schedule A, line 22) .
+.
+.
+.
+21a
+Plus: b. Net operating loss deduction (see instructions) (attach statement) .
+.
+.
+21b
+21c
+22
+Gain or (loss) from operations. Subtract line 21c from line 20 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+23
+Life insurance company taxable income (LICTI). Enter line 22 here 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24
+Phased inclusion of balance of policyholders surplus account (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+Tax, Refundable Credits, and Payments
+25
+Taxable income. Add lines 23 and 24 (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+26
+Total tax (Schedule K, line 10) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26 
+27
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27
+28a
+2021 overpayment credited to 2022 
+.
+.
+.
+.
+.
+.
+28a
+Line 28b is 
+reserved. 
+c
+2022 estimated tax payments .
+.
+.
+.
+.
+.
+.
+.
+28c
+d
+Less 2022 refund applied for on Form 4466 .
+.
+.
+.
+28d (                              ) 28e
+f
+Tax deposited with Form 7004 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28f
+g
+Credits:   (1) Form 2439
+(2) Form 4136
+28g
+h
+U.S. income tax paid or withheld at source (attach Form 1042-S) .
+.
+.
+.
+.
+.
+28h
+i
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28i
+j
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+28j
+28k
+29
+Estimated tax penalty. Check if Form 2220 is attached .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+29
+30
+Amount owed. If line 28k is smaller than the total of lines 26 and 29, enter amount owed 
+.
+.
+.
+.
+.
+.
+30
+31
+Overpayment. If line 28k is larger than the total of lines 26 and 29, enter amount overpaid .
+.
+.
+.
+.
+.
+31
+32
+Enter amount from line 31:  Credited to 2023 estimated tax .
+.
+Refunded 
+.
+.
+32
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true, 
+correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature of officer
+Date
+Title
+May the IRS discuss this return 
+with the preparer shown below? 
+See instructions.
+Yes
+No 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check        if 
+self-employed
+PTIN
+Firm’s name     
+Firm’s address
+Firm’s EIN  
+Phone no.
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11480E
+Form 1120-L (2022) 
+Form 1120-L (2022)
+Page 2 
+Schedule A
+Dividends, Inclusions, Dividends-Received Deduction, and Other Special Deductions (see instructions)
+Dividends subject to proration
+(a) Dividends and 
+inclusions
+(b) %
+(c) Deductions  
+((a) times (b))
+1
+Dividends from less-than-20%-owned domestic corporations (other than 
+debt-financed stock) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+50
+2
+Dividends from 20%-or-more-owned domestic corporations (other than 
+debt-financed stock) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+65
+3
+Dividends on certain debt-financed stock of domestic and foreign 
+corporations 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+see instructions
+4
+Dividends on certain preferred stock of less-than-20%-owned public utilities 
+4
+23.3
+5
+Dividends on certain preferred stock of 20%-or-more-owned public utilities .
+5
+26.7
+6
+Dividends from less-than-20%-owned foreign corporations and certain 
+foreign sales corporations (FSCs) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+50
+7
+Dividends from 20%-or-more-owned foreign corporations and certain FSCs 
+7
+65
+8
+Dividends from wholly owned foreign subsidiaries and certain FSCs .
+.
+.
+8
+100
+9
+Dividends from certain affiliated companies 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+100
+10
+Gross dividends-received deduction. Add lines 1 through 9 
+.
+.
+.
+.
+.
+10
+11
+Company share percentage .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+0.7
+12
+Prorated amount. Line 10 times line 11 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+Dividends not subject to proration
+     
+     
+     
+13
+Affiliated company dividends 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+see instructions
+14
+Foreign-source portion of dividends received from a specified 10%-owned 
+foreign corporation (excluding hybrid dividends) (see instructions) 
+.
+.
+.
+14
+100
+15
+Dividends from foreign corporations not included on line 3, 6, 7, 8, or 14 
+(including hybrid dividends) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16 
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+17a
+Subpart F inclusions derived from the sale by a controlled foreign 
+corporation (CFC) of the stock of a lower-tier foreign corporation treated as 
+a dividend (attach Form(s) 5471) (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+17a
+100
+b
+Subpart F inclusions derived from hybrid dividends of tiered corporations 
+(attach Form(s) 5471) (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17b
+c
+Other inclusions from CFCs under subpart F not included on line 17a, 17b, 
+or 18 (attach Form(s) 5471) (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17c
+18
+Global intangible low-taxed income (GILTI) (attach Form(s) 5471 and 8992) .
+18
+19
+Other corporate dividends 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Total dividends and inclusions. Add lines 1 through 19, column (a). Enter 
+here and on Schedule B, line 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+21
+Section 250 deduction (attach Form 8993) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+22
+Total deductions. Add lines 12, 13, 14, 17a, and 21, column (c). Enter here 
+and on page 1, line 21a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+Schedule B
+Investment Income (see instructions)
+1
+Interest (excluding tax-exempt interest) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Total dividends and inclusions (Schedule A, line 20, column (a)) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Rents 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Royalties 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Leases, terminations, etc. 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Investment income. Add lines 1 through 5. Enter here and on page 1, line 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Form 1120-L (2022)
+Form 1120-L (2022)
+Page 3 
+Schedule F
+Increase (Decrease) in Reserves (section 807) (see instructions)
+(a)  Beginning 
+of tax year  
+(b) End of tax year  
+1
+Life insurance reserves 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Unearned premiums and unpaid losses 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Supplementary contracts 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Dividend accumulations and other amounts .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Advance premiums 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Special contingency reserves 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Add lines 1 through 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Increase (decrease) in reserves under section 807. Subtract line 7, column (a), from line 7, column (b) .
+.
+.
+.
+8
+9a
+Tax-exempt interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a
+b
+Increase in policy cash value of section 264(f) policies as defined in section 805(a)(4)(F) 
+9b
+c
+Add lines 9a and 9b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9c
+10
+Policyholders’ share percentage .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+30%
+11
+Policyholders’ share of tax-exempt interest and the increase in policy cash value of section 264(f) policies as 
+defined in section 805(a)(4)(F). Multiply line 9c by line 10 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Net increase (decrease) in reserves. Subtract line 11 from line 8. If an increase, enter here and on page 1, 
+line 10. If a decrease, enter here and on page 1, line 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+Schedule G
+Policy Acquisition Expenses (section 848) (see instructions)
+(a) Annuity
+(b) Group life 
+insurance
+(c) Other
+1
+Gross premiums and other consideration .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Return premiums and premiums and other consideration incurred for 
+reinsurance 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Net premiums. Subtract line 2 from line 1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Net premium percentage (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Multiply line 3 by line 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Combine line 5, columns (a), (b), and (c), and enter here. If zero or less, enter -0- on lines 7 and 8 
+.
+.
+.
+.
+.
+6
+7
+Unused balance of negative capitalization amount from prior years 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+( 
+)
+8
+Combine lines 6 and 7. If zero or less, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+General deductions (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Enter the lesser of line 8 or line 9 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Deductible general deductions. Subtract line 10 from line 9. Enter here and include on page 1, line 18 .
+.
+.
+.
+11
+12
+If the amount on line 6 is negative, enter it as a positive amount. If the amount on line 6 is positive, enter -0- .
+.
+12
+13
+Unamortized specified policy acquisition expenses from prior years .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Deductible negative capitalization amount. Enter the lesser of line 12 or line 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15a
+Tentative 60-month specified policy acquisition expenses. Enter amount from line 10, 
+but not more than $5 million .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15a
+b
+Limitation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15b
+$10,000,000
+16
+Phase-out amount. Subtract line 15b from line 10. If zero or less, enter -0- .
+.
+.
+.
+16
+17a
+Current year 60-month specified policy acquisition expenses. Subtract line 16 from line 
+15a. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17a
+b
+Enter 10% (0.10) of line 17a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17b
+18a
+Current year 180-month specified policy acquisition expenses. Subtract line 17a from 
+line 10 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18a
+b
+Enter 3.34% (0.0334) of line 18a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18b
+19
+Enter the applicable amount of amortization from specified policy acquisition expenses capitalized in prior years 
+and deductible this year. Attach statement 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19
+20
+Deductible policy acquisition expenses. Add lines 14, 17b, 18b, and 19. Enter here and on page 1, line 16 .
+.
+20
+Form 1120-L (2022)
+Form 1120-L (2022)
+Page 4 
+Schedule K
+Tax Computation (see instructions)
+1 
+Check if the corporation is a member of a controlled group (attach Schedule O (Form 1120)) .
+.
+.
+.
+.
+.
+2 
+Income tax .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Base erosion minimum tax amount (attach Form 8991) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+3 
+4 
+Add lines 2 and 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 a
+Foreign tax credit (attach Form 1118) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a 
+b 
+Credit from Form 8834 (attach Form 8834) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5b 
+c 
+General business credit (attach Form 3800) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c 
+d 
+Credit for prior year minimum tax (attach Form 8827) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5d 
+e 
+Bond credits from Form 8912 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5e 
+6 
+Total credits. Add lines 5a through 5e 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Subtract line 6 from line 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Foreign corporations—tax on income not effectively connected with U.S. business 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Other taxes. Check if from:
+Form 4255
+Form 8611
+Other (attach statement) .
+.
+.
+.
+.
+.
+9 
+10 
+Total tax. Add lines 7 through 9. Enter here and on page 1, line 26 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+Schedule L
+Part I—Total Assets (see instructions)
+(a) Beginning 
+of tax year
+(b) End of tax year
+1
+Real property .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Stocks .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Proportionate share of partnership and trust assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Other assets (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Total assets. Add lines 1 through 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Part II—Total Assets and Total Insurance Liabilities (section 842(b)(2)(B)(i)) (see instructions) 
+Note: The information provided in Part II should conform with the “Assets” and “Liabilities, Surplus, and Other Funds” sections of 
+the NAIC Annual Statement.
+(a) Beginning 
+of tax year
+(b) End of tax year
+1
+Subtotals for assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Total assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Reserve for life policies and contracts .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Reserve for accident and health policies .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Liability for deposit-type contracts .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Life policy and contract claims .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Accident and health policy and contract claims .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Policyholder’s dividend and coupon accumulations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Premiums and annuity considerations received in advance less discount 
+.
+.
+.
+.
+.
+.
+9
+10
+Surrender values on canceled policies .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Part of other amounts payable on reinsurance assumed 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Part of aggregate write-ins for liabilities. (Only include items or amounts includible in “total 
+insurance liabilities on U.S. business” as defined in section 842(b)(2)(B)(i)) 
+.
+.
+.
+.
+.
+.
+12
+13
+Separate accounts statement 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Total insurance liabilities. Add lines 3 through 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+Form 1120-L (2022)
+Form 1120-L (2022)
+Page 5 
+Schedule M
+Other Information (see instructions)
+Yes
+No
+1
+Check accounting method:
+a
+Accrual
+b
+Other (specify) 
+2
+Check if the corporation is a:
+a
+Legal reserve company—if checked
+Kind of company:
+(1)
+Stock
+(2)
+Mutual
+Principal business:
+(1)
+Life insurance
+(2)
+Health and accident insurance
+b
+Fraternal or assessment association
+c
+Burial or other insurance company
+3
+Enter the percentage that the total of the 
+corporation’s life insurance reserves (section 816(b)) 
+plus unearned premiums and unpaid losses 
+(whether or not ascertained) on noncancelable life, 
+health, or accident policies not included in life 
+insurance reserves bears to the corporation’s total 
+reserves (section 816(c)) .
+.
+.
+%.
+Attach a statement showing the computation.
+4
+Does the corporation have any variable annuity 
+contracts outstanding? .
+.
+.
+.
+.
+.
+.
+.
+5
+At the end of the tax year, did the corporation own, 
+directly or indirectly, 50% or more of the voting 
+stock of a domestic corporation? (For rules of 
+attribution, see section 267(c).) .
+.
+.
+.
+.
+.
+If “Yes,” attach a statement showing (a) name and 
+employer identification number (EIN), (b) percentage 
+owned, and (c) taxable income or (loss) before NOL 
+and special deductions of such corporation for the 
+tax year ending with or within your tax year.
+6 
+Is the corporation a subsidiary in an affiliated group 
+or a parent-subsidiary controlled group? .
+.
+.
+If “Yes,” enter name and EIN of the parent 
+corporation. 
+7 
+ 
+ 
+ 
+At the end of the tax year, did any individual, 
+partnership, corporation, estate, or trust own, directly 
+or indirectly, 50% or more of the corporation’s voting 
+stock? (For rules of attribution, see section 267(c).)  
+If “Yes,”  complete a and b below.
+a
+Attach a statement showing name and identifying 
+number. (Do not include any information already 
+entered on line 6 above.)
+b
+Enter percentage owned.
+8
+At any time during the year, did one foreign person 
+own, directly or indirectly, at least 25% of (a) the 
+total voting power of all classes of stock of the 
+corporation entitled to vote, or (b) the total value of 
+all classes of stock of the corporation? 
+.
+.
+.
+If “Yes,” enter: 
+a Percentage owned and
+b Owner’s country.
+Yes
+No
+8c
+The corporation may have to file Form 5472, 
+Information Return of a 25% Foreign-Owned U.S. 
+Corporation or a Foreign Corporation Engaged in a 
+U.S. Trade or Business. Enter number of Forms 
+5472 attached.
+9
+Does the corporation discount any of the loss 
+reserves shown on its annual statement? .
+.
+.
+10 a 
+Enter the total unpaid losses shown on the 
+corporation’s annual statement:
+(1) For the current year: 
+$
+(2) For the previous year: 
+$
+b 
+Enter the total unpaid loss adjustment expenses 
+shown on the corporation’s annual statement:
+(1) For the current year:
+$
+(2) For the previous year:
+$
+11 
+ 
+Enter the available net operating loss carryover from 
+prior tax years.  (Do not reduce it by any deduction 
+on page 1, line 21b.) 
+.
+.
+ $
+12a
+Enter the corporation’s state of domicile. 
+b 
+Was the annual statement used to prepare the tax 
+return filed with the state of domicile? .
+.
+.
+.
+If “No,” complete c below.
+c 
+Enter the state where the annual statement used to
+prepare the tax return was filed. 
+13 
+ 
+Is the corporation required to file Schedule UTP 
+(Form 1120), Uncertain Tax Position Statement? 
+See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+If “Yes,” complete and attach Schedule UTP.
+14 
+ 
+Does the corporation have gross receipts of at least 
+$500 million in any of the 3 preceding tax years? 
+(See section 59A(e)(2) and (3).) 
+.
+.
+.
+.
+.
+.
+ 
+If “Yes,” complete and attach Form 8991. 
+15 
+ 
+ 
+During the tax year, did the corporation pay or 
+accrue any interest or royalty for which the 
+deduction is not allowed under section 267A? See 
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+If “Yes,” enter the total amount of the disallowed 
+deductions .
+.
+.
+.
+.
+$
+16 
+ 
+ 
+Did the corporation have an election under section 
+163(j) for any real property trade or business or any 
+farming business in effect during the tax year? See 
+instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+17 
+ 
+ 
+Is the corporation required to file Form 8990, 
+Limitation on Business Interest Expense Under 
+Section 163(j), to calculate the amount of deductible 
+business interest? See instructions .
+.
+.
+.
+.  
+Form 1120-L (2022)

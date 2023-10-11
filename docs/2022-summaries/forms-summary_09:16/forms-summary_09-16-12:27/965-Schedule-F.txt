@@ -1,0 +1,9 @@
+Schedule F (Form 965) is a document provided by the Internal Revenue Service (IRS) for foreign corporations with a section 965(a) inclusion during their 2020 tax year. The form is used to report foreign taxes deemed paid by a domestic corporation. It must be attached to Form 965 and can be found on the IRS website.
+
+The form requires the filer to provide their name and identifying number. They also need to enter a separate category code and, if applicable, a country code for sanctioned countries. The form also asks for information about the Deferred Foreign Income Corporation (DFIC), including its EIN or reference ID number, U.S. tax year end, and country of incorporation.
+
+There are several columns on the form that require specific information. These include the section 965(a) inclusion in U.S. dollars and functional currency, post-1986 undistributed earnings in functional currency, and the calculation of the divide column, capped at 100%. The form also asks for opening balances in post-1986 foreign income taxes, foreign taxes paid for the indicated tax year, foreign taxes deemed paid for the indicated tax year, and the calculation of post-1986 foreign income taxes and taxes deemed paid.
+
+The form provides space for additional schedules if needed.
+
+Overall, Schedule F (Form 965) is a document used to report foreign taxes deemed paid by a domestic corporation with a section 965(a) inclusion during the 2020 tax year.

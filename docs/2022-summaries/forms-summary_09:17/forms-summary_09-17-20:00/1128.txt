@@ -1,0 +1,872 @@
+Note: Form 1128 begins on the next page.
+The “Where to File” mailing address for a ruling request for exempt organizations 
+has changed.
+The filing address included in the instructions for Part III of Form 1128 (Rev. October 
+2014) for exempt organizations requesting a ruling has changed.
+The new address is:
+Internal Revenue Service 
+1973 N Rulon White Blvd M/S 6273 
+Ogden, Utah 84201
+The new filing address is effective immediately.
+Form  1128 
+(Rev. October 2014) 
+Department of the Treasury  
+Internal Revenue Service 
+Application To Adopt, Change, or Retain a Tax Year 
+ ▶ Information about Form 1128 and its separate instructions is available at www.irs.gov/form1128.
+OMB No. 1545-0134 
+Attachment 
+Sequence No.  148
+Part I 
+General Information 
+Important:  All filers must complete Part I and sign below. See instructions. 
+Type or Print 
+Name of filer (if a joint return is filed, also enter spouse’s name) (see instructions) 
+Filer’s identifying number 
+Number, street, and room or suite no. (if a P.O. box, see instructions) 
+Service Center where income tax return will be filed 
+City or town, state, and ZIP code 
+Filer’s area code and telephone number/Fax number 
+ (          )
+     (          )
+/ 
+Name of applicant, if different than the filer (see instructions) 
+Applicant’s identifying number  (see instructions) 
+Name of person to contact (if not the applicant or filer, attach a power of attorney) 
+Contact person’s area code and telephone number/Fax number 
+ (          )
+     (          )
+/ 
+1 
+Check the appropriate box(es) to indicate the type of applicant (see instructions). 
+Individual 
+Partnership 
+Estate 
+Domestic corporation 
+S corporation 
+Personal service  
+corporation (PSC) 
+Cooperative (sec. 1381(a)) 
+Controlled foreign corporation (CFC) (sec. 957) 
+Foreign sales corporation (FSC) or Interest-charge 
+domestic international sales corporation (IC-DISC) 
+Specified foreign corporation (SFC) (sec. 898) 
+10/50 corporation (sec. 904(d)(2)(E)) 
+Trust 
+Passive foreign investment company (PFIC) 
+(sec. 1297) 
+Other foreign corporation 
+Tax-exempt organization 
+Homeowners Association (sec. 528) 
+Other 
+(Specify entity and applicable Code section) 
+2 a
+Approval is requested to (check one) (see instructions): 
+Adopt a tax year ending ▶
+(Partnerships and PSCs: Go to Part III after completing Part I.) 
+Change to a tax year ending ▶
+Retain a tax year ending ▶
+b If changing a tax year, indicate the date the present tax year ends (see instructions). ▶
+c If adopting or changing a tax year, the first return or short period return will be filed for the tax year 
+beginning ▶
+, 20 
+, and ending ▶
+, 20 
+3 
+Is the applicant’s present tax year, as stated on line 2b above, also its current financial reporting year? ▶
+Yes
+No
+If “No,” attach an explanation. 
+4 
+Indicate the applicant’s present overall method of accounting. 
+Cash receipts and disbursements method 
+Accrual method 
+Other method (specify) ▶
+5 
+State the nature of the applicant’s business or principal source of income. 
+Signature—All Filers (See Who Must Sign in the instructions.) 
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this application, including accompanying schedules and statements, and to the best of my knowledge 
+and belief, it is true, correct,  and complete. Declaration of preparer (other than filer) is based on all information of which preparer has any knowledge.
+▲
+Signature of filer
+Date
+▲
+Type or print name and title
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name      ▶
+Firm’s address  ▶
+Firm’s EIN  ▶
+Phone no.
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions. 
+Cat. No. 21115C 
+Form  1128  (Rev. 10-2014) 
+Form 1128 (Rev. 10-2014) 
+Page  2 
+Part II 
+Automatic Approval Request  (see instructions) 
+• Identify the revenue procedure under which this automatic approval request is filed ▶
+Section A—Corporations (Other Than S Corporations or Personal Service Corporations) (Rev. Proc. 2006-45, or its successor) 
+Yes No 
+1 
+Is the applicant a corporation (including a homeowners association (section 528)) that is requesting a change in 
+tax year and is allowed to use the automatic approval rules under section 4 of Rev. Proc. 2006-45 (or its 
+successor)? (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+2 
+Does the corporation intend to elect to be an S corporation for the tax year immediately following the short period?
+If “Yes” and the corporation is electing to change to a permitted tax year, file Form 1128 as an attachment to Form 
+2553. 
+3 
+Is the applicant a corporation requesting a concurrent change for a CFC, FSC or IC-DISC? (see instructions) .
+ ▶
+Section B—Partnerships, S Corporations, Personal Service Corporations (PSCs), and Trusts (Rev. Proc. 2006-46, or 
+its successor) 
+4 
+Is the applicant a partnership, S corporation, PSC, or trust that is requesting a tax year and is allowed to use the 
+automatic approval rules under section 4 of Rev. Proc. 2006-46 (or its successor)? (see instructions) 
+.
+.
+.
+.
+ ▶
+5 
+Is the partnership, S corporation, PSC, or trust requesting to change to its required tax year or a partnership, S 
+corporation, or PSC that wants to change to a 52-53 week tax year ending with reference to such tax year? .
+ ▶
+6 
+Is the partnership, S corporation, or PSC (other than a member of a tiered structure) requesting a tax year that 
+coincides with its natural business year described in section 4.01(2) of Rev. Proc. 2006-46 (or its successor)? 
+Attach a statement showing gross receipts for the most recent 47 months. (See instructions for information 
+required to be submitted) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+7 
+Is the S corporation requesting an ownership tax year? (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+8 
+Is the applicant a partnership requesting a concurrent change pursuant to section 6.09 of Rev. Proc. 2006-45 
+(or its successor) or section 5.04(8) of Rev. Proc. 2002-39 (or its successor)? (see instructions) 
+.
+.
+.
+.
+.
+ ▶
+Section C—Individuals (Rev. Proc. 2003-62, or its successor) (see instructions)
+9 
+Is the applicant an individual requesting a change from a fiscal year to a calendar year? .
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Section D—Tax-Exempt Organizations (Rev. Proc. 76-10 or 85-58) (see instructions) 
+10 
+Is the applicant a tax-exempt organization requesting a change? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part III 
+Ruling Request  (All applicants requesting a ruling must complete Section A and any other section that  
+applies to the entity. See instructions.) (Rev. Proc. 2002-39, or its successor) 
+Section A—General Information 
+Yes No 
+1 
+Is the applicant a partnership, S corporation, personal service corporation, or trust that is under examination by 
+the IRS, before an appeals office, or a Federal court? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes,” see the instructions for information that must be included on an attached explanation. 
+2 
+Has the applicant changed its annual accounting period at any time within the most recent 48-month period  
+ending with the last month of the requested tax year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes” and a letter ruling was issued granting approval to make the change, attach a copy of the letter ruling, or if
+not available, an explanation including the date approval was granted. If a letter ruling was not issued, indicate 
+when and explain how the change was implemented. 
+3 
+Within the most recent 48-month period, has any accounting period application been withdrawn, not perfected, 
+denied, or not implemented? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes,” attach an explanation. 
+4 a
+Is the applicant requesting to establish a business purpose under section 5.02(1) of Rev. Proc. 2002-39 (or its 
+successor)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes,” attach an explanation of the legal basis supporting the requested tax year (see instructions). 
+b If your business purpose is based on one of the natural business year tests under section 5.03, check the 
+applicable box. 
+Annual business cycle test 
+Seasonal business test 
+25-percent gross receipts test 
+Attach a statement showing gross receipts from sales and services (and inventory cost if applicable) for the test 
+period. (see instructions) 
+5 
+Enter the taxable income or (loss) for the 3 tax years immediately preceding the year of change and for the short 
+period. If necessary, estimate the amount for the short period. 
+Short period 
+$ 
+First preceding year 
+$ 
+Second preceding year   $
+Third preceding year   $
+Note:  Individuals, enter adjusted gross income. Partnerships and S corporations, enter ordinary income. Section  
+501(c) organizations, enter unrelated business taxable income. Estates, enter adjusted total income. All other  
+applicants, enter taxable income before net operating loss deduction and special deductions. 
+Form  1128  (Rev. 10-2014) 
+Form 1128 (Rev. 10-2014) 
+Page  3 
+6 
+Corporations only, enter the losses or credits, if any, that were generated or that expired in the short period: 
+Yes No 
+Generated 
+Expiring 
+Net operating loss .
+.
+.
+.
+.
+.
+.
+.
+$ 
+$ 
+Capital loss .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$ 
+$ 
+Unused credits .
+.
+.
+.
+.
+.
+.
+.
+.
+$ 
+$ 
+7 
+Enter the amount of deferral, if any, resulting from the change (see section 5.05(1), (2), (3) and 6.01(7) of 
+Rev. Proc. 2002-39, or its successor) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+$ 
+8 a
+Is the applicant a U.S. shareholder in a CFC? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes,” attach a statement for each CFC providing the name, address, identifying number, tax year, the 
+percentage of total combined voting power of the applicant, and the amount of income included in the gross 
+income of the applicant under section 951 for the 3 tax years immediately before the short period and for the 
+short period. 
+b Will each CFC concurrently change its tax year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes” to line 8b, go to Part II, line 3. 
+If “No,” attach a statement explaining why the CFC will not be conforming to the tax year requested by the U.S. 
+shareholder. 
+9 a
+Is the applicant a U.S. shareholder in a PFIC as defined in section 1297? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes,” attach a statement providing the name, address, identifying number, and tax year of the PFIC, the 
+percentage of interest owned by the applicant, and the amount of distributions or ordinary earnings and net 
+capital gain from the PFIC included in the income of the applicant. 
+b Did the applicant elect under section 1295 to treat the PFIC as a qualified electing fund? 
+.
+.
+.
+.
+.
+.
+.
+ ▶
+10 a
+Is the applicant a member of a partnership, a beneficiary of a trust or estate, a shareholder of an S corporation,  a 
+shareholder of an IC-DISC, or a shareholder of an FSC? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes,” attach a statement providing the name, address, identifying number, type of entity (partnership, trust, 
+estate, S corporation, IC-DISC, or FSC), tax year, percentage of interest in capital and profits, or percentage of 
+interest of each IC-DISC or FSC and the amount of income received from each entity for the first preceding year 
+and for the short period. Indicate the percentage of gross income of the applicant represented by each amount. 
+b Will any partnership concurrently change its tax year to conform with the tax year requested? .
+.
+.
+.
+.
+.
+ ▶
+c If “Yes” to line 10b, has any Form 1128 been filed for such partnership? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+11 
+Does the applicant or any related entity currently have any accounting method, tax year, ruling, or technical 
+advice request pending with the IRS National Office? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes,” attach a statement explaining the type of request (method, tax year, etc.) and the specific issues involved 
+in each request. 
+12 
+Is Form 2848, Power of Attorney and Declaration of Representative, attached to this application? 
+.
+.
+.
+.
+ ▶
+13 
+Does the applicant request a conference of right (in person or by telephone) with the IRS National Office, if the 
+IRS proposes to disapprove the application? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+14 
+Enter amount of user fee attached to this application (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+$ 
+Section B—Corporations (other than S corporations and controlled foreign corporations) (see instructions) 
+15 
+Enter the date of incorporation. ▶
+Yes No 
+16 a
+Does the corporation intend to elect to be an S corporation for the tax year immediately following the short  
+period? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+b If “Yes,” will the corporation be going to a permitted S corporation tax year? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “No” to line 16b, attach an explanation. 
+17 
+Is the corporation a member of an affiliated group filing a consolidated return? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes,” attach a statement providing (a) the name, address, identifiying number used on the consolidated return, 
+tax year, and Service Center where the applicant files the return; (b) the name, address, and identifying number of
+each member of the affiliated group; (c) the taxable income (loss) of each member for the 3 years immediately 
+before the short period and for the short period; and (d) the name of the parent corporation. 
+18a
+Personal service corporations (PSCs): Attach a statement providing each shareholder’s name, type of entity  
+(individual, partnership, corporation, etc.), address, identifying number, tax year, percentage of ownership, and  
+amount of income received from the PSC for the first preceding year and the short period. 
+b If the PSC is using a tax year other than the required tax year, indicate how it obtained its tax year. 
+Grandfathered (attach copy of letter ruling) 
+Section 444 election  (date of election 
+) 
+Letter ruling  (date of letter ruling 
+(attach copy)) 
+Form  1128  (Rev. 10-2014) 
+Form 1128 (Rev. 10-2014) 
+Page  4 
+Section C—S Corporations  (see instructions) 
+19 
+Enter the date of the S corporation election. ▶
+Yes No 
+20 
+Is any shareholder applying for a corresponding change in tax year? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes,” each shareholder requesting a corresponding change in tax year must file a separate Form 1128 to get 
+advance approval to change its tax year. 
+21 
+If the corporation is using a tax year other than the required tax year, indicate how it obtained its tax year. 
+Grandfathered (attach copy of letter ruling) 
+Section 444 election  (date of election 
+) 
+Letter ruling  (date of letter ruling 
+(attach copy)) 
+22 
+Attach a statement providing each shareholder’s name, type of shareholder (individual, estate, qualified 
+subchapter S Trust, electing small business trust, other trust, or exempt organization), address, identifying 
+number, tax year, percentage of ownership, and the amount of income each shareholder received  from the S 
+corporation for the first preceding year and for the short period. 
+Section D—Partnerships  (see instructions) 
+23 
+Enter the date the partnership’s business began. ▶
+Yes No 
+24 
+Is any partner applying for a corresponding change in tax year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+25 
+ 
+ 
+Attach a statement providing each partner’s name, type of partner (individual, partnership, estate, trust,  
+corporation, S corporation, IC-DISC, etc.), address, identifying number, tax year, and the percentage of interest  in 
+capital and profits. 
+26 
+Is any partner a shareholder of a PSC as defined in Regulations section 1.441-3(c)? .
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If “Yes,” attach a statement providing the name, address, identifiying number, tax year, percentage of interest  in 
+capital and profits, and the amount of income received from each PSC for the first preceding year and for the  
+short period. 
+27 
+If the partnership is using a tax year other than the required tax year, indicate how it obtained its tax year. 
+Grandfathered (attach copy of letter ruling) 
+Section 444 election  (date of election 
+) 
+Letter ruling  (date of letter ruling 
+(attach copy)) 
+Section E—Controlled Foreign Corporations (CFC) 
+28 
+Attach a statement for each U.S. shareholder (as defined in section 951(b)) providing the name, address, 
+identifying  number, tax year, percentage of total value and percentage of total voting power, and the amount of
+income  included in gross income under section 951 for the 3 tax years immediately before the short period and 
+for the  short period. 
+Section F—Tax-Exempt Organizations 
+29 
+Type of organization: 
+Corporation 
+Trust 
+Other  (specify) ▶
+Yes No 
+30 
+Date of organization. ▶
+31 
+Code section under which the organization is exempt. ▶
+32 
+Is the organization required to file an annual return on Form 990, 1120-C, 990-PF, 990-T, 1120-H, or 1120-POL? ▶
+33 
+Enter the date the tax exemption was granted. ▶
+. Attach a copy of the letter ruling granting 
+exemption. If a copy of the letter ruling is not available, attach an explanation. 
+34 
+If the organization is a private foundation, is the foundation terminating its status under section 507? 
+.
+.
+.
+ ▶
+Section G—Estates 
+35 
+Enter the date the estate was created. ▶
+36 a Attach a statement providing the name, identifying number, address, and tax year of each beneficiary and each person who is 
+an interested party of any portion of the estate. 
+b Based on the adjusted total income of the estate entered in Part III, Section A, line 5, attach a statement showing the 
+distribution deduction and the taxable amounts distributed to each beneficiary for the 2 tax years immediately before the short 
+period and for the short period. 
+Section H—Passive Foreign Investment Companies 
+37 
+If the applicant is a passive foreign investment company, attach a statement providing each U.S. shareholder’s name, address, 
+identifying number, and percentage of interest owned. 
+Form  1128  (Rev. 10-2014) 

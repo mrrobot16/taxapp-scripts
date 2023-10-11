@@ -1,0 +1,15 @@
+Form 1116 is a document issued by the Internal Revenue Service (IRS) of the United States Department of the Treasury. It is used to claim the Foreign Tax Credit for individuals, estates, or trusts. The form is attached to Form 1040, 1040-SR, 1040-NR, 1041, or 990-T.
+
+The form provides various categories of income for which the Foreign Tax Credit can be claimed. These categories include Section 951A category income, foreign branch category income, passive category income, general category income, Section 901(j) income, certain income re-sourced by treaty, lump-sum distributions, and being a resident of a specific country.
+
+The form requires taxpayers to report their taxable income or loss from sources outside the United States for the chosen category of income. This includes reporting gross income, deductions and losses, pro rata share of other deductions, gross foreign source income, gross income from all sources, and calculating the net foreign source taxable income.
+
+Part II of the form is used to report the foreign taxes paid or accrued. Taxpayers must indicate whether the taxes were paid or accrued, provide the date of payment or accrual, and report the taxes in both foreign currency and U.S. dollars. The form also requires reporting taxes withheld at source on dividends, rents and royalties, interest, and other foreign taxes paid or accrued.
+
+Part III of the form is used to calculate the foreign tax credit. It involves determining the total foreign taxes paid or accrued, any carryover or carrybacks of foreign taxes, reductions in foreign taxes, and taxes reclassified under high tax kickout.
+
+Part IV is a summary of the credits from Part III for each category of income. The total foreign tax credit is calculated by subtracting the reduction of credit for international boycott operations from the smaller of the total credits or the total income.
+
+The final result, the foreign tax credit, is entered on Schedule 3 (Form 1040), line 1; Form 1041, Schedule G, line 2a; or Form 990-T, Part III, line 1a.
+
+Taxpayers are advised to refer to the instructions provided by the IRS for detailed guidance on completing Form 1116. The latest version of the form and instructions can be found on the IRS website.

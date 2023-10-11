@@ -1,0 +1,9 @@
+Form 8992 is a document provided by the Internal Revenue Service (IRS) for U.S. shareholders to calculate their Global Intangible Low-Taxed Income (GILTI). The form consists of two parts.
+
+Part I focuses on the net controlled foreign corporation (CFC) tested income. U.S. shareholders who are not part of a U.S. consolidated group should enter the total amount from Schedule A, line 1, column (e). On the other hand, U.S. shareholders who are part of a U.S. consolidated group should enter the amount from Schedule B, Part II, column (c), that pertains to them. The form also includes a section for net tested loss, where the same instructions apply.
+
+Part II involves the calculation of GILTI. U.S. shareholders should enter the net CFC tested income amount from Part I, line 3. Additionally, there are instructions for calculating the deemed tangible income return (DTIR) and the sum of pro rata share of tested interest expense and income. The form provides different instructions depending on whether the U.S. shareholder is part of a U.S. consolidated group or not.
+
+Finally, the form requires the subtraction of the specified interest expense from the net DTIR to calculate the GILTI. If the result is zero or less, the U.S. shareholder should enter -0-.
+
+This summary provides a brief overview of the content and purpose of Form 8992. For detailed instructions and the latest information, individuals should refer to the official instructions and visit the IRS website.

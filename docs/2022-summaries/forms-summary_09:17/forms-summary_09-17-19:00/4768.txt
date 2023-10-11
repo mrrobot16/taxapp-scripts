@@ -1,0 +1,13 @@
+Form 4768 is an application form used by individuals or entities to request an extension of time to file a U.S. Estate (and Generation-Skipping Transfer) Tax return, as well as an extension of time to pay the taxes. The form is divided into several parts.
+
+Part I requires the identification information of the decedent, including their name, date of death, and social security number. It also asks for the name and address of the executor, as well as their daytime telephone number. The domicile of the decedent is also required.
+
+Part II is for specifying the form for which the extension of time to file is being requested. The options include Form 706, Form 706-A, Form 706-NA, and Form 706-QDT. The applicant can choose between an automatic extension, an extension for cause, or an additional extension beyond the automatic 6-month extension.
+
+Part III is for requesting an extension of time to pay the estate or GST tax. The applicant must provide a written statement explaining why it is impossible or impractical to pay the full amount by the due date. Different checkboxes are provided for various situations, such as taxes due with the filing of the return, taxes due as a result of an amended or supplemental return, additional tax due from an examination, or a section 6166 installment payment.
+
+Part IV is for providing the estimated amount of estate and GST taxes due, as well as any cash shortage. The balance due is calculated by subtracting the cash shortage from the estimated taxes due.
+
+The form must be signed and verified by the executor or someone authorized by the executor. The person filing the application must declare, under penalties of perjury, that the information provided is true and correct. The completed form should be mailed to the designated Internal Revenue Service Center.
+
+The form includes instructions and can be found on the IRS website at www.irs.gov/Form4768.

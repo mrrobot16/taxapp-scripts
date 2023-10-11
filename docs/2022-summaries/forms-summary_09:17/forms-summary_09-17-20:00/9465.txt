@@ -1,0 +1,456 @@
+Form  9465
+(Rev. September 2020)
+Installment Agreement Request 
+Department of the Treasury  
+Internal Revenue Service 
+▶ Go to www.irs.gov/Form9465 for instructions and the latest information. 
+▶ If you are filing this form with your tax return, attach it to the front of the return.  
+▶ See separate instructions. 
+OMB No. 1545-0074
+Tip: If you owe $50,000 or less, you may be able to avoid filing Form 9465 and establish an installment agreement online, even if you 
+haven’t yet received a tax bill. Go to www.irs.gov/OPA to apply for an Online Payment Agreement. If you establish your installment 
+agreement using the Online Payment Agreement application, the user fee that you pay will be lower than it would be with Form 9465.
+Part I
+Installment Agreement Request
+This request is for Form(s) (for example, Form 1040 or Form 941) ▶
+Enter tax year(s) or period(s) involved (for example, 2018 and 2019, or January 1, 2019, to June 30, 2019) ▶
+1 a 
+Your first name and initial 
+Last name 
+Your social security number 
+If a joint return, spouse’s first name and initial Last name 
+Spouse’s social security number
+Current address (number and street). If you have a P.O. box and no home delivery, enter your box number. 
+Apt. number 
+City, town or post office, state, and ZIP code. If a foreign address, also complete the spaces below (see instructions).
+Foreign country name                                        
+Foreign province/state/county                               Foreign postal code  
+1 b If this address is new since you filed your last tax return, check here 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+2 
+Name of your business (must no longer be operating)
+Employer identification number (EIN)
+3
+Your home phone number 
+Best time for us to call 
+4 
+Your work phone number 
+Ext. 
+Best time for us to call 
+5 
+Enter the total amount you owe as shown on your tax return(s) (or notice(s)) .
+.
+.
+.
+.
+.
+.
+.
+5
+6 
+If you have any additional balances due that aren’t reported on line 5, enter the amount here (even if
+the amounts are included in an existing installment agreement)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7 
+Add lines 5 and 6 and enter the result 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Enter the amount of any payment you’re making with this request. See instructions 
+.
+.
+.
+.
+.
+8 
+9 
+Amount owed. Subtract line 8 from line 7 and enter the result 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Divide the amount on line 9 by 72.0 and enter the result 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11 
+ 
+ 
+ 
+a 
+ 
+ 
+ 
+Enter the amount you can pay each month. Make your payment as large as possible to limit interest 
+and penalty charges, as these charges will continue to accrue until you pay in full. If you have
+an existing installment agreement, this amount should represent your total proposed monthly
+payment amount for all your liabilities. If no payment amount is listed on line 11a, a payment will
+be determined for you by dividing the balance due on line 9 by 72 months .
+.
+.
+.
+.
+.
+.
+11a $
+b If the amount on line 11a is less than the amount on line 10 and you’re able to increase your payment 
+to an amount that is equal to or greater than the amount on line 10, enter your revised monthly payment
+11b $
+• If you can’t increase your payment on line 11b to more than or equal to the amount shown on line 10, check the box. Also, 
+complete and attach Form 433-F, Collection Information Statement .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+• If the amount on line 11a (or 11b, if applicable) is more than or equal to the amount on line 10 and the amount you owe is 
+over $25,000 but not more than $50,000, then you don’t have to complete Form 433-F. However, if you don’t complete Form 
+433-F, then you must complete either line 13 or 14.
+• If the amount on line 9 is greater than $50,000, complete and attach Form 433-F.
+12
+Enter the date you want to make your payment each month. Don’t enter a date later than the 28th 
+12
+13 
+If you want to make your payments by direct debit from your checking account, see the instructions and fill in lines 13a and 
+13b. This is the most convenient way to make your payments and it will ensure that they are made on time. 
+▶ a Routing number 
+▶ b Account number 
+I authorize the U.S. Treasury and its designated Financial Agent to initiate a monthly ACH debit (electronic withdrawal) entry to the financial institution account 
+indicated for payments of my federal taxes owed, and the financial institution to debit the entry to this account. This authorization is to remain in full force and 
+effect until I notify the U.S. Treasury Financial Agent to terminate the authorization. To revoke payment, I must contact the U.S. Treasury Financial Agent at 
+1-800-829-1040 no later than 14 business days prior to the payment (settlement) date. I also authorize the financial institutions involved in the processing of the 
+electronic payments of taxes to receive confidential information necessary to answer inquiries and resolve issues related to the payments. 
+c 
+ 
+Low-income taxpayers only. If you’re unable to make electronic payments through a debit instrument by providing your 
+banking information on lines 13a and 13b, check this box and your user fee will be reimbursed upon completion of your 
+installment agreement. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+If you want to make payments by payroll deduction, check this box and attach a completed Form 2159 .
+.
+.
+.
+.
+.
+.
+By signing and submitting this form, I authorize the IRS to contact third parties and to disclose my tax information to third parties in order to process this 
+request and administer the agreement over its duration. I also agree to the terms of this agreement, as provided in the instructions, if it’s approved by the IRS.
+Your signature 
+Date 
+Spouse’s signature. If a joint return, both must sign. 
+Date 
+For Privacy Act and Paperwork Reduction Act Notice, see instructions. 
+Cat. No. 14842Y 
+Form 9465 (Rev. 9-2020)
+Form 9465 (Rev. 9-2020) 
+Page  2 
+Part II
+Additional Information
+Complete this Part only if all three conditions below apply: 
+1. You defaulted on an installment agreement in the past 12 months;
+2. You owe more than $25,000 but not more than $50,000; and
+3. The amount on line 11a (or 11b, if applicable) is less than line 10.
+Note: If you owe more than $50,000, also complete and attach Form 433-F.
+15
+In which county is your primary residence?
+16a Marital status:
+Single. Skip question 16b and go to question 17. 
+Married. Go to question 16b.
+b Do you share household expenses with your spouse?
+Yes.
+No.
+17
+How many dependents will you be able to claim on this year’s tax return?.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+18
+How many people in your household are 65 or older? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+19
+How often are you paid?
+Once a week.
+Once every 2 weeks.
+Once a month.
+Twice a month.
+20
+What is your net income per pay period (take home pay)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20 $
+Note: Complete lines 21 and 22 only if you have a spouse and meet certain conditions (see instructions). If you don’t 
+have a spouse, go to line 23.
+21
+How often is your spouse paid?
+Once a week.
+Once every 2 weeks.
+Once a month.
+Twice a month.
+22
+What is your spouse’s net income per pay period (take home pay)? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 $
+23
+How many vehicles do you own? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23
+24
+How many car payments do you have each month? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24
+25a Do you have health insurance?
+Yes. Go to question 25b.
+No. Skip question 25b and go to question 26a.
+b Are your health insurance premiums deducted from your paycheck?
+Yes. Skip question 25c and go to question 26a.
+No. Go to question 25c.
+c
+How much are your monthly health insurance premiums? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25c $
+26a Do you make court-ordered payments?
+Yes. Go to question 26b.
+No. Go to question 27.
+b Are your court-ordered payments deducted from your paycheck?
+Yes. Go to question 27.
+No. Go to question 26c.
+c
+How much are your court-ordered payments each month? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+26c $
+27 
+Not including any court-ordered payments for child and dependent support, how much do you pay
+for child or dependent care each month? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27 $
+Form 9465 (Rev. 9-2020) 

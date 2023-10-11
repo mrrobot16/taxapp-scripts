@@ -1,0 +1,15 @@
+Schedule H is a form that hospitals in the United States must complete and attach to Form 990 if they answered "Yes" to a specific question on Form 990. The purpose of Schedule H is to gather information about the hospital's financial assistance policies, community benefits, bad debt, Medicare, collection practices, management companies and joint ventures, and facility information.
+
+Part I of Schedule H focuses on financial assistance and certain other community benefits. The hospital is asked whether it had a financial assistance policy during the tax year and whether it was a written policy. It also asks about the application of the financial assistance policy to different hospital facilities and the use of Federal Poverty Guidelines (FPG) in determining eligibility for free or discounted care.
+
+Part II covers community building activities conducted by the hospital during the tax year. The hospital is asked to provide information about the number of activities or programs, persons served, total community building expense, direct offsetting revenue, and net community building expense.
+
+Part III addresses bad debt, Medicare, and collection practices. The hospital is asked about reporting bad debt expense, estimated bad debt expense attributable to patients eligible under the financial assistance policy, and the amount of excise tax incurred for failure to conduct a community health needs assessment.
+
+Part IV focuses on management companies and joint ventures owned by officers, directors, trustees, key employees, and physicians of the hospital.
+
+Part V collects facility information, including the number of hospital facilities operated by the organization, their types, and various policies and practices related to financial assistance, billing, and collections.
+
+Part VI is a section for supplemental information, where the hospital can provide additional details about its needs assessment, patient education, community information, promotion of community health, affiliated health care system, state filing of community benefit report, and any other relevant information.
+
+Overall, Schedule H is a comprehensive form that helps the IRS gather information about hospitals' financial assistance policies, community benefits, and other related activities.

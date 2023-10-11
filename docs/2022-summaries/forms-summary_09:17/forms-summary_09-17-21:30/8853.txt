@@ -1,0 +1,11 @@
+Form 8853 is a document provided by the Internal Revenue Service (IRS) for individuals to report their contributions and deductions related to Archer Medical Savings Accounts (MSAs) and Long-Term Care (LTC) Insurance Contracts. The form is to be attached to Form 1040, 1040-SR, or 1040-NR when filing taxes.
+
+The form is divided into three sections: Section A for Archer MSAs, Section B for Medicare Advantage MSAs, and Section C for LTC Insurance Contracts. 
+
+In Section A, individuals report their employer contributions and personal contributions made to their Archer MSAs. They also calculate the deduction amount based on certain limitations and compensation received from the employer. Any additional tax owed is also determined.
+
+In Section B, individuals report their distributions received from Medicare Advantage MSAs and calculate the taxable amount based on qualified medical expenses. Any additional tax owed is also determined.
+
+In Section C, individuals report payments received on a per diem or periodic basis under a qualified LTC insurance contract. They calculate the taxable amount based on gross LTC payments, accelerated death benefits, and costs incurred for qualified LTC services. 
+
+The form includes instructions and references to other forms and schedules where the reported amounts should be included.

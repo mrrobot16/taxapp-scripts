@@ -1,0 +1,935 @@
+Form  8804
+(Rev. November 2022)
+Annual Return for Partnership Withholding Tax  
+(Section 1446)
+Department of the Treasury  
+Internal Revenue Service 
+Attach Form(s) 8804-C and 8805. 
+Go to www.irs.gov/Form8804 for instructions and the latest information.
+OMB No. 1545-0123
+For calendar year 20
+, or tax year beginning
+, 20
+, and ending
+, 20
+Check this box if the partnership keeps its records and books of account outside the United States and Puerto Rico .
+.
+.
+.
+.
+Part I
+Partnership
+1a    Name of partnership
+b   U.S. employer identification number (EIN)
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town, state or province, country, and ZIP or foreign postal code. If a foreign address, see instructions.
+For IRS Use Only
+CC
+FD
+RD
+FF
+CAF
+FP
+CR
+I
+EDC
+Part II
+Withholding Agent
+2a    Name of withholding agent. If partnership is also the withholding agent, enter “SAME” and don’t 
+complete lines 2b, 2c, and 2d.
+b   Withholding agent’s U.S. EIN
+c    Number, street, and room or suite no. If a P.O. box, see instructions.
+d    City or town, state or province, country, and ZIP or foreign postal code
+Part III
+Section 1446 Tax Liability and Payments
+3a
+Enter number of foreign partners .
+.
+.
+.
+.
+.
+.
+3a
+b
+Enter number of Forms 8805 attached to this Form 8804
+3b
+c
+Enter number of Forms 8804-C attached to Forms 8805
+3c
+4 
+Total effectively connected taxable income (ECTI) allocable to foreign partners. 
+See instructions.
+a
+Total ECTI allocable to corporate partners .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4a
+b Reduction to line 4a for state and local taxes under Regulations section
+1.1446-6(c)(1)(iii) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4b (                          )
+c Reduction to line 4a for certified foreign partner-level items submitted using 
+Form 8804-C 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4c (                          )
+d
+Combine lines 4a, 4b, and 4c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4d
+e Total ECTI allocable to non-corporate partners other than on lines 4i, 4m, and 
+4q .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4e
+f 
+Reduction to line 4e for state and local taxes under Regulations section
+1.1446-6(c)(1)(iii) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4f
+(                          )
+g Reduction to line 4e for certified foreign partner-level items submitted using 
+Form 8804-C 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4g (                          )
+h
+Combine lines 4e, 4f, and 4g 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4h
+i
+28% rate gain allocable to non-corporate partners 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4i
+j 
+Reduction to line 4i for state and local taxes under Regulations section
+1.1446-6(c)(1)(iii) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4j
+(                          )
+k Reduction to line 4i for certified foreign partner-level items submitted using 
+Form 8804-C 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4k (                          )
+l
+Combine lines 4i, 4j, and 4k .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4l
+m Unrecaptured section 1250 gain allocable to non-corporate partners .
+.
+.
+4m
+n Reduction to line 4m for state and local taxes under Regulations section
+1.1446-6(c)(1)(iii) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4n (                          )
+o Reduction to line 4m for certified foreign partner-level items submitted using 
+Form 8804-C 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4o (                          )
+p
+Combine lines 4m, 4n, and 4o .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4p
+For Paperwork Reduction Act Notice, see separate Instructions for Forms 8804, 8805, and 8813.
+Cat. No. 10077T
+Form 8804 (Rev. 11-2022)
+Form 8804 (Rev. 11-2022)
+Page 2 
+q Adjusted net capital gain (including qualified dividend income and  net section
+1231 gain) allocable to non-corporate partners 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4q
+r 
+Reduction to line 4q for state and local taxes under Regulations section
+1.1446-6(c)(1)(iii) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4r
+(                          )
+s Reduction to line 4q for certified foreign partner-level items submitted using 
+Form 8804-C 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4s (                          )
+t
+Combine lines 4q, 4r, and 4s 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4t
+5
+Gross section 1446 tax liability:
+a
+Multiply line 4d by 21% (0.21) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a
+b
+Multiply line 4h by 37% (0.37) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5b
+c
+Multiply line 4l by 28% (0.28) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c
+d
+Multiply line 4p by 25% (0.25) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5d
+e
+Multiply line 4t by 20% (0.20) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5e
+f
+Add lines 5a through 5e .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5f
+6 
+ 
+a 
+ 
+Payments of section 1446 tax made by the partnership identified on line 1a
+during its tax year (or with a request for an extension of time to file) and 
+amount credited from the previous tax year’s Form 8804 .
+.
+.
+.
+.
+.
+.
+6a
+b 
+ 
+Section 1446 tax paid or withheld by another partnership in which the
+partnership identified on line 1a was a partner during the tax year (enter only
+amounts reported on Form(s) 8805 and attach the Form(s) 8805 to Form 8804) 
+6b
+c 
+ 
+Section 1446 tax paid or withheld by another partnership in which the partnership 
+identified on line 1a was a partner during the tax year (enter only amounts 
+reported on Form(s) 1042-S and attach the Form(s) 1042-S to Form 8804) 
+.
+.
+6c
+d 
+ 
+ 
+Section 1445(a) or 1445(e)(1) tax withheld from or paid by the partnership 
+identified on line 1a during the tax year for a disposition of a U.S. real property 
+interest (enter only amounts reported on Form(s) 8288-A and attach the
+Form(s) 8288-A to Form 8804) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6d
+e 
+ 
+Section 1445(e) tax withheld from the partnership identified on line 1a during 
+the tax year for a disposition of a U.S. real property interest (enter only amounts 
+reported on Form(s) 1042-S and attach the Form(s) 1042-S to Form 8804) .
+.
+6e
+f 
+ 
+ 
+Section 1446(f)(1) tax withheld from the partnership identified on line 1a for a 
+disposition of an interest in a partnership engaged in the conduct of a U.S. 
+trade or business (enter only amounts reported on Form(s) 8288-A and attach
+the Form(s) 8288-A to Form 8804) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6f
+g 
+ 
+ 
+Section 1446(f)(1) tax withheld from the partnership identified on line 1a for a 
+disposition of an interest in a partnership engaged in the conduct of a U.S. 
+trade or business (enter only amounts reported on Form(s) 1042-S and attach
+the Form(s) 1042-S to Form 8804) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6g
+7
+Total payments. Add lines 6a through 6g .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Estimated tax penalty. Check if Schedule A (Form 8804) is attached. See instructions 
+.
+.
+.
+.
+8
+9
+Add lines 5f and 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10 
+ 
+Balance due. If line 7 is smaller than line 9, subtract line 7 from line 9. Attach a check or money order 
+for the full amount payable to “United States Treasury.” Write the partnership’s U.S. EIN, tax year, and 
+“Form 8804” on it .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Overpayment. If line 7 is more than line 9, subtract line 9 from line 7 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Amount of line 11 reported on Form(s) 8805 as allocated to partners 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+12
+13
+Net overpayment. Subtract line 12 from line 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Refund. Amount, if any, of line 13 you want to be refunded to you .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15 
+Amount of line 13 to be credited to next year’s Form 8804. Subtract line 14 
+from line 13 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and, to the best of my knowledge 
+and belief, it is true, correct, and complete. Declaration of preparer (other than a partner or limited liability company member) is based on all information of 
+which preparer has any knowledge.
+Signature of a partner or limited liability company member
+Title
+Date
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name
+Firm’s address
+Firm’s EIN
+Phone no. 
+Form 8804 (Rev. 11-2022)

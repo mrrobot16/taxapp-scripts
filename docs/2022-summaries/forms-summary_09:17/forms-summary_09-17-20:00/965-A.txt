@@ -1,0 +1,678 @@
+Form  965-A
+(Rev. January 2021)
+Individual Report of Net 965 Tax Liability
+Department of the Treasury 
+Internal Revenue Service
+▶ Go to www.irs.gov/Form965A for instructions and the latest information.
+OMB No. 1545-0074
+Attachment  
+Sequence No. 76A
+Check this box if this is an amended report 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+Name of taxpayer with a net 965 tax liability
+Identifying number
+Taxable year of reporting
+Part I
+Report of Net 965 Tax Liability and Election To Pay in Installments 
+(a) 
+Year of Section 965(a) 
+Inclusion, Liability Assumed, 
+or Liability Triggering Event 
+(see instructions)
+(b) 
+Taxpayer’s Net Tax Liability 
+with all 
+965 amounts 
+(see instructions)
+(c) 
+Taxpayer’s Net Tax Liability 
+without 
+965 amounts 
+(see instructions)
+(d) 
+Net 965 Tax Liability 
+(subtract column (c) from column (b))
+(e) 
+S Corporation Shareholder Total 
+Deferred Net 965 Tax Liability 
+(line total from Part III, column (g), 
+see instructions)
+1
+2017
+1
+2
+2018
+2
+3
+2019
+3
+4
+2020
+4
+5
+5
+6
+6
+7
+7
+8
+8
+(f) 
+Net 965 Tax Liability 
+eligible for installment payment election 
+(subtract column (e) from column (d), 
+see instructions)
+(g) 
+Installment 
+Election 
+Made
+(h) 
+Net 965 Tax Liability 
+to be paid in full for Year 1 
+(if column (g) is “No,” enter amount 
+from column (f))
+(i) 
+Net 965 Tax Liability 
+to be paid in installments 
+(if column (g) is “Yes,” enter amount 
+from column (f) and see instructions) 
+(j) 
+Net 965 Tax Liability 
+Transferred (Out), Transferred In, 
+or Subsequent Adjustments, if any 
+(see instructions)
+(k) 
+Tax Identification Number 
+of buyer/transferee or 
+seller/transferor
+   
+   
+Yes
+No
+   
+   
+   
+   
+   
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+Part II
+Record of Amount of Net 965 Tax Liability Paid by the Taxpayer (see instructions) 
+(a) 
+Year of Section 965(a) 
+Inclusion, Liability Assumed, 
+or Triggering Event
+(b) 
+Paid for Year 1
+(c) 
+Paid for Year 2
+(d) 
+Paid for Year 3
+(e) 
+Paid for Year 4
+(f) 
+Paid for Year 5
+1
+2017
+1
+2
+2018
+2
+3
+2019
+3
+4
+2020
+4
+5
+5
+6
+6
+7
+7
+8
+8
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 71277H
+Form 965-A (Rev. 1-2021)
+Form 965-A (Rev. 1-2021)
+Page 2
+Part II
+Record of Amount of Net 965 Tax Liability Paid by the Taxpayer (continued) 
+(g) 
+Paid for Year 6
+(h) 
+Paid for Year 7
+(i) 
+Paid for Year 8
+(j) 
+Net 965 Tax Liability Remaining Unpaid 
+(see instructions)
+(k) 
+Net 965 Tax Liability 
+Paid for the Reporting Year
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+Totals .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Part III
+S Corporation Shareholder: Report of Calculation of Net 965 Tax Liability Related to 965 Amounts Allocated From an S Corporation and 
+Election To Defer Such Net 965 Tax Liability
+Year 
+of 
+965(a) 
+Inclusion
+(a) 
+S Corporation Name
+(b) 
+S Corporation 
+Tax Identification 
+Number
+(c) 
+Taxpayer’s Net Tax Liability 
+with only 965 amounts 
+from this S Corporation 
+(see instructions)
+(d) 
+Taxpayer’s Net Tax Liability 
+without 965 amounts 
+(see instructions)
+(e) 
+Net 965 Tax Liability 
+related to 965 amounts from 
+this S Corporation (subtract 
+column (d) from column (c))
+(f) 
+Deferral 
+Election 
+Made
+(g) 
+Deferred Net 965 Tax Liability
+(if column (f) is “Yes,” enter 
+amount from column (e))
+1
+   
+   
+   
+   
+   
+   
+Yes
+No
+   
+     
+2017
+     
+     
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+2
+   
+   
+   
+   
+   
+   
+     
+     
+   
+     
+2018
+     
+     
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+3
+   
+   
+   
+   
+   
+   
+     
+     
+   
+     
+2019
+     
+     
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+4
+   
+   
+   
+   
+   
+   
+     
+     
+   
+     
+2020
+     
+     
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+Form 965-A (Rev. 1-2021)
+Form 965-A (Rev. 1-2021)
+Page 3
+Part IV
+Annual Report of Deferred Net 965 Tax Liability Related to 965 Amounts Allocated From S Corporations 
+(required every year until the liability is fully paid)
+(a) 
+Election or 
+Transfer Year
+(b) 
+S Corporation Name
+(c) 
+S Corporation 
+Tax Identification Number
+(d) 
+Beginning Deferred 
+Net 965 Tax Liability 
+(see instructions)
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+(                                                       )
+(                                                       )
+(                                                       )
+(                                                       )
+(                                                       )
+(                                                       )
+(                                                       )
+(                                                       )
+(                                                       )
+(                                                       )
+(e) 
+Reserved for Future Use
+(f) 
+Net 965 Tax Liability 
+Triggered 
+(see instructions)
+(g) 
+Deferred 965 Net Tax Liability 
+Transferred (Out) or 
+Transferred In by Agreement, if any 
+(see instructions)
+(h) 
+Tax Identification Number 
+of Transferee or Transferor
+(i) 
+Deferred Net Tax Liability  
+at the end of this Reporting Year 
+(add columns (d), (f), and (g)) 
+(see instructions)
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+Total .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+If more lines are needed for any Part on this form, attach additional sheets.
+Form 965-A (Rev. 1-2021)

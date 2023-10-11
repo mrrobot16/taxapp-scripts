@@ -1,0 +1,31 @@
+Schedule OI (Form 1040-NR) is a document that is attached to Form 1040-NR for individuals who are non-resident aliens in the United States. It is used to provide additional information to the Internal Revenue Service (IRS) regarding the taxpayer's citizenship, residency, immigration status, presence in the United States, filing history, and potential treaty benefits.
+
+The form consists of several questions that the taxpayer must answer. These include:
+
+A. The taxpayer must indicate the country or countries of which they were a citizen or national during the tax year.
+
+B. The taxpayer must indicate the country in which they claimed residence for tax purposes during the tax year.
+
+C. The taxpayer must indicate whether they have ever applied to be a green card holder (lawful permanent resident) of the United States.
+
+D. The taxpayer must indicate whether they have ever been a U.S. citizen or a green card holder (lawful permanent resident) of the United States. If yes, they are directed to refer to Publication 519 for expatriation rules.
+
+E. The taxpayer must indicate their visa type or U.S. immigration status on the last day of the tax year.
+
+F. The taxpayer must indicate whether they have ever changed their visa type or U.S. immigration status. If yes, they must provide the date and nature of the change.
+
+G. The taxpayer must list all dates they entered and left the United States during the tax year.
+
+H. The taxpayer must provide the number of days they were present in the United States during specific years.
+
+I. The taxpayer must indicate whether they have filed a U.S. income tax return for any prior year and provide the latest year and form number filed.
+
+J. The taxpayer must indicate whether they are filing a return for a trust and whether the trust had a U.S. or foreign owner, made a distribution or loan to a U.S. person, or received a contribution from a U.S. person.
+
+K. The taxpayer must indicate whether they received total compensation of $250,000 or more during the tax year and whether they used an alternative method to determine the source of this compensation.
+
+L. If the taxpayer is claiming exemption from income tax under a U.S. income tax treaty with a foreign country, they must provide information on the country, tax treaty article, number of months claimed in prior tax years, and the amount of exempt income in the current tax year.
+
+M. The taxpayer must check the applicable box if they are making an election to treat income from real property located in the United States as effectively connected with a U.S. trade or business under section 871(d).
+
+The form also includes instructions and references to other publications for further information. It is important for the taxpayer to answer all questions accurately and attach any required forms or documentation.

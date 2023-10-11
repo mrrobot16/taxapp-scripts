@@ -1,0 +1,107 @@
+SCHEDULE H 
+(Form 8865)
+(November 2018) 
+Department of the Treasury 
+Internal Revenue Service
+Acceleration Events and Exceptions Reporting Relating  
+to Gain Deferral Method Under Section 721(c)
+▶ Attach to Form 8865. See the Instructions for Form 8865. 
+▶ Go to www.irs.gov/Form8865 for instructions and the latest information.
+OMB No. 1545-1668
+Name of person filing Form 8865
+Filer’s identifying number
+Name of partnership
+Successor 
+partnership
+EIN (if any)
+Reference ID number (see instructions)
+Name of U.S. transferor (see instructions)
+Successor 
+U.S. transferor
+Filing year: (see instructions)
+Tax year of gain deferral contribution
+Annual reporting
+Part I
+Acceleration Event (see instructions)
+(a) 
+Schedule G,  
+Part I, 
+line number
+(b) 
+Description of event 
+(c) 
+Date of event 
+(d) 
+Gain recognized 
+(e) 
+Partnership’s 
+adjustment to 
+section 721(c) 
+property tax basis 
+(f) 
+Partial 
+acceleration  
+event
+Part II
+Termination Event (see instructions)
+(a) 
+Schedule G,  
+Part I, 
+line number
+(b) 
+Description of event 
+(c) 
+Date of event 
+Part III
+Successor Event (see instructions)
+(a) 
+Schedule G,  
+Part I, 
+line number
+(b) 
+Description of event 
+(c) 
+Date of event 
+(d) 
+Name, address, and U.S. taxpayer identification number (U.S. TIN) (if any) 
+of successor partnership, lower-tier partnership, upper-tier partnership, 
+or U.S. corporation (as applicable)
+Part IV
+Taxable Disposition of a Portion of an Interest in Partnership Event (see instructions)
+(a) 
+Description of event 
+(b) 
+Date of event 
+(c) 
+Percentage  
+of partnership 
+interest disposed
+(d) 
+Percentage  
+of partnership  
+interest retained
+(e) 
+Aggregate remaining 
+built-in gain attributed to 
+partnership interest retained
+Part V
+Section 367 Transfer Event (see instructions)
+(a) 
+Schedule G,  
+Part I, 
+line number
+(b) 
+Description of event 
+(c) 
+Date of event 
+(d) 
+Gain recognized 
+(e) 
+Name, address, and U.S. TIN (if any)  
+of foreign transferee  
+corporation (as applicable)
+Part VI
+Supplemental Information (see instructions)
+For Paperwork Reduction Act Notice, see the Instructions for Form 8865.
+Cat. No. 26331C
+Schedule H (Form 8865) (11-2018)

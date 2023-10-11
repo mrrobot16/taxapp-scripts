@@ -1,0 +1,150 @@
+The form you are looking for begins on the next page of this file. Before viewing it, 
+please see the important update information below.
+New Mailing Address
+The mailing address for certain forms have change since the forms were last published. 
+The new mailing address are shown below. 
+Mailing Address for Forms 1023, 1024, 1024-A, 1028, 5300, 5307, 5310, 5310-A, 5316, 
+8717, 8718, 8940:
+Internal Revenue Service   
+TE/GE Stop 31A Team 105                              
+P.O. Box 12192       
+Covington, KY 41012–0192
+Deliveries by private delivery service (PDS) should be made to:
+Internal Revenue Service 
+7940 Kentucky Drive 
+TE/GE Stop 31A Team 105 
+Florence, KY 41042
+This update supplements these forms’ instructions. Filers should rely on this update for 
+the change described, which will be incorporated into the next revision of the form’s 
+instructions.
+This page intentionally left blank.
+Form 5310-A
+(Rev. November 2010)
+Department of the Treasury 
+Internal Revenue Service
+Notice of Plan Merger or Consolidation, Spinoff, or 
+Transfer of Plan Assets or Liabilities; Notice of 
+Qualified Separate Lines of Business 
+Under sections 6058(b) and 414(r) of the Internal Revenue Code.
+See Who Must File instructions before filing this form.
+OMB No. 1545-1225
+1
+Reason for filing (see specific instructions for code to enter):
+For Internal Use Only
+Part I
+All filers must complete lines 1 and 2.
+2a
+Name of plan sponsor (employer if single-employer plan)
+2b
+Address of plan sponsor (if a P.O. Box, see instructions)
+2c City
+2d State
+2e Zip Code
+2f
+Country
+2g
+Employer identification number (EIN)  
+2h Telephone number
+2i Fax number
+3a
+Person to contact if more information is needed. (See instructions.) 
+(If a Power of Attorney is attached, check box and do not complete this line.)
+Contact person’s name
+3b
+Contact person’s address
+3c City
+3d State
+3e Zip Code
+3f
+Telephone number
+3g Fax number
+If more space is needed for any item, attach additional sheets the same size as this form. Identify each additional sheet with the plan 
+sponsor’s name and EIN and identify each item.
+Under penalties of perjury, I declare that I have examined this notice, including accompanying statements and schedules, and to the 
+best of my knowledge and belief, it is true, correct, and complete.
+SIGN HERE ▶
+Date ▶
+Type or print name
+Type or print title
+For Privacy Act and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 12783Y
+Form 5310-A (Rev. 11-2010)
+Form 5310-A (Rev. 11-2010)
+Page 2 
+Part II
+Complete lines 4 through 6 if this is a notice of a plan merger or consolidation, spinoff, or transfer of 
+plan assets or liabilities to another plan.
+4a
+Name of plan (plan name may not exceed 70 characters including spaces):
+4b
+Enter 3-digit plan number:
+5a
+Is this a defined benefit plan? If “Yes,” enter “1.” If “No,” enter “2.”
+If you enter 1, attach an actuarial statement of valuation showing compliance with the requirements of section 401(a)(12) and 
+the regulations under section 414(I). See instructions.
+5b
+If this is a defined contribution plan, enter the appropriate code. See instructions.
+6
+Other plan(s) involved in the transaction. See instructions.
+a
+Enter the total number of plans involved in the transaction other than the plan listed on line 4a:
+Complete the following information for the other plan. If more than one other plan, see instructions for the required attachment(s).
+b
+If more than one other plan is involved in the transaction, enter the number of this statement (1 of 3, etc.):
+c
+Plan name
+d
+Name of employer
+e
+EIN
+f
+Plan number (3 digits):
+g
+Date of merger or consolidation, spinoff, or transfer of plan assets or liabilities:
+h
+Type of plan (see instructions for code to enter):
+Part III
+Complete lines 7 through 12 if you are filing a notice of qualified separate lines of business (QSLOB).
+7a
+Has the employer previously filed a notice of QSLOB? See instructions.
+If “Yes,” enter “1” and complete lines 7b and 7c. If “No,” enter “2” and skip lines 7b and 7c.
+b
+Enter the first day of the first testing year for which such notice applied:  ▶
+c
+Enter the filing date:  ▶
+Form 5310-A (Rev. 11-2010)
+Form 5310-A (Rev. 11-2010)
+Page 3 
+8
+First testing year for which this notice applies:  ▶
+9 
+ 
+Are you filing this form to give notice that you are revoking a previously filed notice and that you are no longer testing on a 
+QSLOB basis?
+If “Yes,” enter “1” and complete line 10 and skip lines 11 and 12. If “No,” enter “2” and complete lines 10-12.
+10 
+ 
+Check the box(es) for the appropriate code section(s) for which the employer is testing on a QSLOB basis (or for which the 
+employer tested, if the answer to line 9 is “Yes”).
+Section 410(b)
+Section 401(a)(26)
+Section 129(d)(8)
+11
+On an attached list, identify each QSLOB operated by the employer. See instructions. 
+12 
+ 
+Enter the following information relating to each plan maintained by the employer. If more than 1 plan, attach a 
+schedule for each plan showing the information requested on lines 12a through 12e. See instructions.
+a
+Name of plan:
+b
+Date of determination letter, if any: ▶
+c
+If this is a pre-approved plan, enter:
+(1) Date of the letter  ▶
+(2) Serial or advisory letter number, if any:  ▶
+d
+Date of the pending determination letter request, if any:  ▶
+e
+List each QSLOB that has employees benefiting under the plan: See instructions.
+Form 5310-A (Rev. 11-2010)

@@ -1,0 +1,15 @@
+Form 2848 is a document provided by the Internal Revenue Service (IRS) for taxpayers to appoint representatives as their attorneys-in-fact. The form must be completed separately for each taxpayer and will only be honored for representation before the IRS. 
+
+The form includes sections for taxpayer information, where the taxpayer must sign and date the form, and representative information, where representatives must also sign and date the form. The taxpayer can appoint multiple representatives, but the IRS will only send notices and communications to two representatives. 
+
+The form also includes sections for specifying the acts authorized by the representative(s), such as receiving and inspecting confidential tax information, signing agreements or consents, and performing other acts related to specific tax matters. The taxpayer must provide a description of the tax matter, the tax form number, and the relevant year(s) or period(s). 
+
+The form allows for additional acts to be authorized, such as accessing IRS records via an Intermediate Service Provider, authorizing disclosure to third parties, substituting or adding representatives, and signing a return. The taxpayer can also specify acts that are not authorized, such as endorsing or negotiating checks issued by the government for federal tax liabilities. 
+
+By filing this power of attorney, any previous power(s) of attorney on file with the IRS for the same matters and years or periods covered by the form will be automatically revoked, unless the taxpayer indicates otherwise. The taxpayer must attach a copy of any power of attorney they want to remain in effect. 
+
+The form concludes with a taxpayer declaration and signature section, where the taxpayer certifies their legal authority to execute the form on behalf of the taxpayer. If the tax matter concerns a joint return, each spouse must file a separate power of attorney. If the form is signed by someone other than the taxpayer, they must have the legal authority to do so. 
+
+The form also includes a declaration of representative section, where the representative declares their eligibility to practice before the IRS and their authorization to represent the taxpayer for the specified matter(s). The representative must sign and date the form. 
+
+It is important to complete, sign, and date the form, as the IRS will return the power of attorney if it is not completed correctly. Representatives must sign the form in the order listed in Part I, Line 2.

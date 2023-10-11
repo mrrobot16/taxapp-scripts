@@ -1,0 +1,13 @@
+Schedule M-3 (Form 1120) is a document provided by the Internal Revenue Service (IRS) that is used to reconcile the net income or loss reported on a corporation's income statement with the taxable income reported on its tax return. This form is specifically for corporations with total assets of $10 million or more.
+
+The form is divided into three parts. 
+
+Part I requires the corporation to provide financial information, including whether the corporation filed a SEC Form 10-K for its income statement period, whether a certified audited non-tax-basis income statement was prepared, and whether a non-tax-basis income statement was prepared. The corporation must also provide the income statement period and indicate if any restatements were made.
+
+Part II is the reconciliation of net income or loss per the income statement of includible corporations with taxable income per the tax return. This section includes various income and loss items that need to be reconciled, such as income from equity method foreign corporations, subpart F and similar income inclusions, U.S. dividends not eliminated in tax consolidation, and more.
+
+Part III is the reconciliation of expense and deduction items. This section includes various expense and deduction items that need to be reconciled, such as U.S. current income tax expense, state and local current income tax expense, foreign current income tax expense, interest expense, stock option expense, and more.
+
+The form includes instructions for each part and provides space for attaching statements and explanations for certain items.
+
+Overall, Schedule M-3 is a detailed form that helps corporations reconcile their financial statements with their tax returns for reporting purposes.

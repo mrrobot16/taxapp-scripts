@@ -1,0 +1,11 @@
+The document is Schedule E (Form 5471), which is used to report income, war profits, and excess profits taxes paid or accrued by a foreign corporation. The form is divided into several parts and sections, including Part I for taxes for which a foreign tax credit is allowed, Part II for elections, and Part III for taxes for which a foreign tax credit is disallowed.
+
+In Part I, the form requires the reporting of taxes paid or accrued directly by the foreign corporation, including the name of the payor entity, the country or U.S. possession to which the tax is paid, and the amount of tax paid or accrued in both the local currency and U.S. dollars.
+
+Part II asks whether an election has been made to translate taxes using the exchange rate on the date of payment.
+
+Part III is for reporting taxes for which a foreign tax credit is disallowed, including the name of the payor entity and the different sections of the tax code under which the credit is disallowed.
+
+The form also includes a separate section called Schedule E-1, which is used to report taxes paid, accrued, or deemed paid on earnings and profits (E&P) of the foreign corporation. The schedule includes different categories of taxes related to subpart F income, tested income, residual income, and suspended taxes.
+
+Overall, the form is used to provide detailed information about the foreign taxes paid or accrued by a foreign corporation and to calculate the foreign tax credit that may be claimed on the U.S. tax return.

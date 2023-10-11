@@ -1,0 +1,15 @@
+Schedule PH (Form 1120) is a form that is attached to a tax return and is used to calculate the U.S. Personal Holding Company (PHC) Tax. The form consists of several parts.
+
+Part I is used to calculate the Undistributed Personal Holding Company Income. It includes additions such as taxable income before deductions, contributions deducted, and excess expenses and depreciation. These additions are then totaled and deducted from deductions such as federal and foreign income taxes, contributions deductible, net operating loss, and dividends paid. The result is the Undistributed PHC Income.
+
+Part II is used to calculate the Personal Holding Company Income. It includes income from dividends, interest, royalties, annuities, rents, mineral, oil, and gas royalties, copyright royalties, produced film rents, compensation received for use of corporation property, and amounts received under personal service contracts and from estates and trusts. These incomes are then totaled to calculate the PHC income.
+
+Part III is used to calculate the tax on the Undistributed Personal Holding Company Income. The Undistributed PHC Income is multiplied by 20% to calculate the PHC tax.
+
+Part IV is used to determine the stock ownership requirement under section 542(a)(2). It requires the names and addresses of individuals who owned more than 50% of the outstanding stock of the corporation during the tax year.
+
+Part V is used to calculate the excess of expenses and depreciation over income from property not allowable under section 545(b)(6). It requires information on the property, including its description, date acquired, cost or other basis, depreciation deduction, repairs, insurance, and other expenses. The excess is then calculated and entered on Part I, line 3.
+
+Part VI is used to calculate the deduction for dividends paid under sections 561 and 562. It includes taxable dividends paid, consent dividends, taxable distributions, and dividend carryover from preceding tax years. The deduction for dividends paid is then calculated and entered on Part I, line 9.
+
+The form includes instructions and a link to additional information on the IRS website.

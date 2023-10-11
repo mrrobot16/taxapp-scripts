@@ -1,0 +1,11 @@
+Form 6765 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Credit for Increasing Research Activities. The form is divided into different sections, each requiring specific information related to research expenses and calculations.
+
+Section A is for taxpayers who are not electing the alternative simplified credit. It includes fields for reporting certain amounts paid or incurred to energy consortia, basic research payments to qualified organizations, qualified organization base period amount, wages for qualified services, cost of supplies, rental or lease costs of computers, and total qualified research expenses. The form also includes calculations to determine the credit amount based on fixed-base percentage and average annual gross receipts.
+
+Section B is for taxpayers who are electing the alternative simplified credit. It requires similar information as Section A but with different calculations.
+
+Section C is for reporting the current year credit, including any portion of the credit attributable to wages used to figure the credit in Section A or B.
+
+Section D is for qualified small businesses electing the payroll tax credit. It includes fields for indicating the election, entering the portion of the credit elected as a payroll tax credit, and reporting any general business credit carryforward from the current year.
+
+The form also provides instructions and references to additional resources on the IRS website for further guidance.

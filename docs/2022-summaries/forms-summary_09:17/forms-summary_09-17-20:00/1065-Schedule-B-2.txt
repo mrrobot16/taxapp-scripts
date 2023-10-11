@@ -1,0 +1,340 @@
+SCHEDULE B-2 
+(Form 1065)
+(December 2018)
+Department of the Treasury  
+Internal Revenue Service  
+Election Out of the Centralized  
+Partnership Audit Regime
+▶ Attach to Form 1065 or Form 1066. 
+▶ Go to www.irs.gov/Form1065 for instructions and the latest information.
+OMB No. 1545-0123
+Name of Partnership
+Employer Identification Number (EIN)
+Certain partnerships with 100 or fewer partners can elect out of the centralized partnership audit regime if each partner is an individual, 
+a C corporation, a foreign entity that would be treated as a C corporation were it domestic, an S corporation, or an estate of a deceased 
+partner. For purposes of determining whether the partnership has 100 or fewer partners, the partnership must include all shareholders of 
+any S corporation that is a partner. By completing Part I, you are making an affirmative statement that all of the partners in the 
+partnership are eligible partners under section 6221(b)(1)(C) and you have provided all of the information on this schedule. See the 
+instructions, including the instructions for the treatment of real estate mortgage investment conduits (REMICs), for more details.
+Part I
+List of  Eligible Partners  
+Use the following codes under Type of Eligible Partner: 
+I – Individual   C – Corporation   E – Estate of Deceased Partner   F – Eligible Foreign Entity   S – S corporation
+Name of Partner
+Taxpayer Identification Number (TIN)
+Type of Eligible 
+Partner (Code)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Continued on Part IV
+Part II
+List of S Corporation Shareholders (For each S corporation partner, complete a separate Part II and 
+separate Part V, if needed.) 
+Use the following codes under Type of Person: 
+I – Individual   E – Estate of Deceased Shareholder   T – Trust   O – Other
+Name of 
+S Corporation Partner ▶
+TIN of Partner ▶
+Name of Shareholder
+Shareholder TIN
+Type of Person 
+(Code)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Continued on Part V
+Part III
+Total Number of Schedules K-1 Required To Be Issued.  See instructions.
+1
+Total of Part I and all Parts IV Schedules K-1 required to be issued by the partnership 
+.
+.
+.
+.
+1
+2
+Total of Part II and all Parts V Schedules K-1 required to be issued by any S corporation partners .
+2
+3
+Total. Add line 1 and line 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Note: If line 3 is more than 100, the partnership cannot make the election under section 6221(b).
+For Paperwork Reduction Act Notice, see the Instructions for Form 1065.
+Cat. No. 69658K
+Schedule B-2 (Form 1065) (12-2018)
+Schedule B-2 (Form 1065) (12-2018)
+Page 2 
+Name of Partnership
+Employer Identification Number (EIN)
+Part IV
+Continuation of List of Eligible Partners  
+Use the following codes under Type of Eligible Partner: 
+I – Individual   C – Corporation    E – Estate of Deceased Partner   F – Eligible Foreign Entity   S – S corporation 
+Name of Partner
+TIN
+Type of Eligible 
+Partner (Code)
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+Schedule B-2 (Form 1065) (12-2018)
+Schedule B-2 (Form 1065) (12-2018)
+Page 3 
+Name of Partnership
+Employer Identification Number (EIN)
+Part IV
+Continuation of List of Eligible Partners  
+Use the following codes under Type of Eligible Partner: 
+I – Individual   C – Corporation    E – Estate of Deceased Partner   F – Eligible Foreign Entity   S – S corporation 
+Name of Partner
+TIN
+Type of Eligible 
+Partner (Code)
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+Schedule B-2 (Form 1065) (12-2018)
+Schedule B-2 (Form 1065) (12-2018)
+Page 4 
+Name of Partnership
+Employer Identification Number (EIN)
+Part V
+Continuation of List of S Corporation Shareholders (For each S corporation partner, complete a separate 
+Part II and separate Part V, if needed.) 
+Use the following codes under Type of Person: 
+I – Individual   E – Estate of Deceased Shareholder   T – Trust   O – Other
+Name of 
+S Corporation Partner ▶
+TIN of Partner ▶
+Name of Shareholder
+Shareholder TIN
+Type of Person 
+(Code)
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+Schedule B-2 (Form 1065) (12-2018)
+Schedule B-2 (Form 1065) (12-2018)
+Page 5 
+Name of Partnership
+Employer Identification Number (EIN)
+Part V
+Continuation of List of S Corporation Shareholders (For each S corporation partner, complete a separate 
+Part II and separate Part V, if needed.) 
+Use the following codes under Type of Person: 
+I – Individual   E – Estate of Deceased Shareholder   T – Trust   O – Other
+Name of 
+S Corporation Partner ▶
+TIN of Partner ▶
+Name of Shareholder
+Shareholder TIN
+Type of Person 
+(Code)
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+Schedule B-2 (Form 1065) (12-2018)

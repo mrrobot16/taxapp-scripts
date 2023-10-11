@@ -1,0 +1,11 @@
+The Schedule M-3 is a form that is used by foreign corporations with reportable assets of $10 million or more to reconcile their net income (loss) per their income statement with their taxable income per their tax return. The form consists of three parts.
+
+Part I requires the corporation to provide financial information and reconcile their net income (loss) by completing various lines. The specific instructions for completing each line depend on whether the corporation is a foreign bank and whether they have prepared certified audited income statements or not.
+
+Part II focuses on reconciling the income (loss) items between the income statement and the tax return. The form provides a list of income items and requires the corporation to report the amount per the income statement, any temporary differences, permanent differences, and other permanent differences for allocations to non-ECI (effectively connected income) and ECI. The corporation then calculates the income (loss) per the tax return.
+
+Part III is similar to Part II but focuses on reconciling the expense/deduction items between the income statement and the tax return. The corporation reports the amount per the income statement, any temporary differences, permanent differences, and other permanent differences for allocations to non-ECI and ECI. The corporation then calculates the deduction per the tax return.
+
+The form also includes instructions and spaces for attaching explanations and additional statements for certain lines.
+
+It's important to note that the information provided in this summary is a general overview and may not cover all the specific details and requirements of the Schedule M-3.

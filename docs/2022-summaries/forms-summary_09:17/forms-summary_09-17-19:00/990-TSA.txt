@@ -1,0 +1,29 @@
+Schedule A (Form 990-T) is a document used by tax-exempt organizations in the United States to report their unrelated business taxable income (UBTI) from an unrelated trade or business. The form is provided by the Department of the Treasury and the Internal Revenue Service (IRS).
+
+The form begins with basic information about the organization, including its name, employer identification number (EIN), and unrelated business activity code. It also includes a sequence number for reference.
+
+Part I of the form is used to report the organization's unrelated trade or business income. It includes sections for reporting gross receipts or sales, cost of goods sold, gross profit, capital gain net income, net gain or loss, capital loss deduction, income or loss from partnerships or S corporations, rent income, unrelated debt-financed income, interest, annuities, royalties, and rents from a controlled organization, investment income of specific section 501(c)(7), (9), or (17) organizations, exploited exempt activity income, advertising income, and other income.
+
+Part II of the form is used to report deductions that are not taken elsewhere on the form. This includes deductions for compensation of officers, directors, and trustees, salaries and wages, repairs and maintenance, bad debts, interest, taxes and licenses, depreciation, depletion, contributions to deferred compensation plans, employee benefit programs, excess exempt expenses, excess readership costs, and other deductions.
+
+Part III of the form is used to calculate the cost of goods sold for the organization's unrelated trade or business.
+
+Part IV is used to report rent income from real property and personal property leased with real property.
+
+Part V is used to report unrelated debt-financed income and related deductions.
+
+Part VI is used to report interest, annuities, royalties, and rents from controlled organizations.
+
+Part VII is used to report investment income of section 501(c)(7), (9), or (17) organizations.
+
+Part VIII is used to report exploited exempt activity income, other than advertising income.
+
+Part IX is used to report advertising income.
+
+Part X is used to report compensation of officers, directors, and trustees.
+
+Part XI is for supplemental information that may be required.
+
+The form concludes with a section for the organization to sign and date the document.
+
+It is important for tax-exempt organizations to accurately complete and file Schedule A (Form 990-T) to ensure compliance with IRS regulations and to accurately report their unrelated business taxable income.

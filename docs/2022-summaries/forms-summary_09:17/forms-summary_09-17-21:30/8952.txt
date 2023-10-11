@@ -1,0 +1,15 @@
+Form 8952 is an application for the Voluntary Classification Settlement Program (VCSP) offered by the Internal Revenue Service (IRS). The form is used by taxpayers who want to voluntarily reclassify certain workers as employees for federal employment tax purposes. 
+
+The form collects taxpayer information, including the taxpayer's name, employer identification number (EIN), address, and contact information. It also asks for information about the type of entity and whether the taxpayer is a member of an affiliated group. If applicable, information about the common parent of the affiliated group should be provided.
+
+Part II of the form asks for the contact person's information, including their name, address, and contact details. A completed Form 2848, Power of Attorney and Declaration of Representative, should be attached if applicable.
+
+Part III gathers general information about the workers to be reclassified, including the total number of workers and a description of the class or classes of workers. The beginning date of the employment tax period for which the reclassification should apply is also requested.
+
+Part IV of the form is used to calculate the payment using Section 3509(a) rates. It asks for the total compensation paid to the workers in the most recently completed calendar year, any compensation that exceeded the social security wage base, and calculates the payment amount based on these figures.
+
+Part V requires the taxpayer to make certain representations, including that they want to reclassify the workers as employees, have consistently treated the workers as nonemployees, have filed all required Forms 1099, and there is no dispute with the IRS regarding the classification of the workers. The taxpayer also needs to confirm that they are not under examination by the IRS or the Department of Labor regarding employment tax or classification issues.
+
+The form should be signed by the taxpayer under penalties of perjury, and if applicable, the paid preparer's information should be provided.
+
+It is important to note that payment should not be sent with Form 8952. The payment should be submitted later with the signed closing agreement.

@@ -1,0 +1,11 @@
+Form 8911 is a document issued by the Internal Revenue Service (IRS) in the United States. It is used to claim the Alternative Fuel Vehicle Refueling Property Credit. The form is divided into three parts.
+
+Part I requires the taxpayer to provide the total cost of qualified alternative fuel vehicle refueling property that was placed in service during the tax year.
+
+Part II calculates the credit for the business or investment use part of the refueling property. It includes determining the business/investment use part, any Section 179 expense deduction, and subtracting any amount attributable to property placed in service after 2022 as part of a project that did not meet project requirements. The result is multiplied by 6% and 30%, and the sum is entered on line 7.
+
+Part III calculates the credit for the personal use part of the refueling property. It subtracts the business/investment use part from the total cost of the refueling property and multiplies the result by 30%. The maximum personal use part of the credit is entered on line 13.
+
+The form also includes sections for determining the regular tax before credits, credits that reduce the regular tax, net regular tax, tentative minimum tax, and the personal use part of the credit. The final amount is reported on Schedule 3 (Form 1040) or the appropriate line of the taxpayer's return.
+
+Taxpayers should refer to the instructions provided on the IRS website for more detailed information on how to complete Form 8911.

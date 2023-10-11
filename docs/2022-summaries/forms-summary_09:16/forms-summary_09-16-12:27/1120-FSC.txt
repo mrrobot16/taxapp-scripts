@@ -1,0 +1,7 @@
+Form 1120-FSC is the U.S. Income Tax Return of a Foreign Sales Corporation. This form is used to report the income, deductions, and tax liability of a foreign sales corporation. The form requires information such as the FSC's name, address, and employer identification number, as well as details about its principal shareholder and any parent-subsidiary controlled group it may be a part of.
+
+The form also includes schedules for reporting the cost of goods sold related to foreign trading gross receipts, calculating taxable income or loss, determining exemption percentages for foreign trade income, allocating deductions to foreign trade income, and reconciling income per books with income per return.
+
+Additionally, the form includes schedules for reporting balance sheets per books, reconciling income per books with income per return, and analyzing unappropriated retained earnings per books.
+
+Overall, Form 1120-FSC is a comprehensive tax return form specifically designed for foreign sales corporations to accurately report their income and tax liability to the IRS.

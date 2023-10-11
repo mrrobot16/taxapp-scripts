@@ -1,0 +1,19 @@
+Form 8938 is a statement of specified foreign financial assets that must be attached to a taxpayer's tax return. The form is used to report information about foreign deposit and custodial accounts, as well as other foreign assets.
+
+The form begins with basic information such as the taxpayer's name, taxpayer identification number (TIN), and the type of filer (individual, partnership, corporation, or trust).
+
+Part I of the form requires the taxpayer to provide a summary of their foreign deposit and custodial accounts. This includes the number of accounts and the maximum value of those accounts.
+
+Part II requires the taxpayer to provide a summary of their other foreign assets. This includes the number of assets and the maximum value of those assets.
+
+Part III is used to report tax items attributable to the specified foreign financial assets. This includes interest, dividends, royalties, other income, gains or losses, deductions, and credits.
+
+Part IV allows the taxpayer to exclude certain specified foreign financial assets that have already been reported on other forms, such as Forms 3520, 3520-A, 5471, 8621, and 8865.
+
+Part V requires the taxpayer to provide detailed information for each foreign deposit and custodial account included in the summary provided in Part I. This includes the type of account, account number, whether the account was opened or closed during the tax year, and the maximum value of the account.
+
+Part VI requires the taxpayer to provide detailed information for each other foreign asset included in the summary provided in Part II. This includes a description of the asset, identifying number or designation, acquisition and disposition dates, whether the asset is jointly owned with a spouse, and the maximum value of the asset.
+
+The form also includes sections for reporting the use of foreign currency exchange rates, providing information about the financial institutions where the accounts are maintained, and reporting information about foreign entities or issuers/counterparties.
+
+It's important for taxpayers to review the instructions provided with the form for definitions and additional guidance on completing Form 8938.

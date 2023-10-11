@@ -1,0 +1,9 @@
+Form 8910 is a document provided by the Internal Revenue Service (IRS) to claim the Alternative Motor Vehicle Credit. This form should be attached to the taxpayer's tax return. The form consists of three parts.
+
+Part I is for calculating the tentative credit for each vehicle. The taxpayer should provide the year, make, and model of the vehicle, as well as the vehicle identification number and the date it was placed in service. The tentative credit amount should be entered based on the instructions provided.
+
+Part II is for claiming the credit for business or investment use of the vehicle. The taxpayer should enter the percentage of business or investment use and multiply it by the tentative credit amount calculated in Part I. The total credit amount for business or investment use should be added to any credit received from partnerships or S corporations.
+
+Part III is for claiming the credit for personal use of the vehicle. If Part II was skipped, the amount from line 4 in Part I should be entered. If Part II was completed, the amount from line 6 should be subtracted from the amount on line 4. The total credit amount for personal use should be calculated by adding the amounts from columns (a) and (b) on line 10. This amount should be entered on Schedule 3 (Form 1040), line 6e.
+
+It is important to refer to the instructions provided on the IRS website (www.irs.gov/Form8910) for detailed guidance and the latest information.

@@ -1,0 +1,7 @@
+Form 706-A is a tax form used to report dispositions or cessations of qualified use under section 2032A of the Internal Revenue Code. The form requires the general information of the qualified heir, including their name, address, and social security number. It also asks for information about the decedent, such as their name, social security number, and date of death.
+
+The form includes a tax computation section, where the value of all specially valued property is reported with and without a section 2032A election. The decedent's estate tax is calculated and the percentage of estate tax saved is determined. The form also calculates the value of specially valued property without a section 2032A election and determines the total estate tax recaptured on previous forms.
+
+Schedule A is used to list the disposition of specially valued property or cessation of qualified use in chronological order. Schedule B is used to report involuntary conversions or exchanges of property. Schedule C is used to report dispositions to family members of the qualified heir.
+
+The form must be signed by the executor of the estate and can be discussed with the preparer if authorized. The form also includes space for the preparer's information.

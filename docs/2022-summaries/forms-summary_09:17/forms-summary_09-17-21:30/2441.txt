@@ -1,0 +1,13 @@
+Form 2441 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Child and Dependent Care Expenses credit. It must be attached to Form 1040, 1040-SR, or 1040-NR. The form consists of three parts.
+
+Part I requires the taxpayer to provide information about the persons or organizations that provided care. If there are more than three care providers, additional instructions should be followed.
+
+Part II is where the taxpayer enters information about the qualifying person(s) for whom care expenses were incurred and paid in 2022. The taxpayer must provide the qualifying person's name, social security number, and indicate if the person was disabled and over the age of 12. The qualified expenses incurred for each person should also be entered.
+
+Part III is for reporting dependent care benefits received by the taxpayer in 2022. The total amount of dependent care benefits received, any carried over amounts from 2020 and/or 2021, and any forfeited or carried over amounts to 2023 should be entered.
+
+The form also includes calculations to determine the tax liability limit and the credit for child and dependent care expenses. Earned income for the taxpayer and their spouse, if applicable, should be entered. The smallest amount among the earned income, qualifying expenses, and spouse's earned income (if applicable) is then determined. The decimal amount corresponding to the tax liability is entered, and the credit is calculated.
+
+The form provides instructions and worksheets for further calculations and considerations, such as prepayment of care expenses and non-calendar plan years for dependent care plans.
+
+Overall, Form 2441 is used by taxpayers to claim the Child and Dependent Care Expenses credit, providing information about the care providers, qualifying persons, and dependent care benefits received.

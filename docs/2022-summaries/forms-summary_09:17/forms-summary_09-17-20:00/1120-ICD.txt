@@ -1,0 +1,3272 @@
+Form
+1120-IC-DISC
+(Rev. December 2021)
+Department of the Treasury 
+Internal Revenue Service 
+Interest Charge Domestic International 
+Sales Corporation Return
+(Please type or print.)
+▶ Go to www.irs.gov/Form1120ICDISC for instructions and the latest information.
+OMB No. 1545-0123
+For calendar year 20
+, or tax year beginning
+, 20
+, and ending
+, 20
+.
+Name
+Number, street, and room or suite no. (or P.O. box if mail is not delivered to street address)
+City or town, state, and ZIP code
+A  Date of IC-DISC election
+B  Business activity code no. 
+(see instructions)
+C  Employer identification number
+D  Date incorporated
+E  Total assets (see instructions)
+$ 
+F 
+Check applicable box(es):  (1)
+Initial return
+(2)
+Final return
+(3)
+Name change
+(4)
+Address change
+(5)
+Amended return
+G(1) 
+Did any corporation, individual, partnership, trust, or estate own, directly or indirectly, 50%-or-more of the IC-DISC’s 
+voting stock at the end of the IC-DISC’s tax year? See section 267(c) for rules of attribution
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” complete the following schedule. If a foreign owner, see instructions.
+Name
+Identifying  
+number
+Address
+Voting 
+stock 
+owned
+Total assets  
+(corporations only)
+Foreign 
+owner
+   
+   
+   
+   
+   
+Yes
+No
+%
+%
+(2) 
+Enter the following for any corporation listed in G(1) that will report the IC-DISC’s income:
+Tax year of first corporation
+IRS Service Center where return will be filed
+Tax year of second corporation
+IRS Service Center where return will be filed
+H(1) 
+Check the appropriate box(es) to indicate any intercompany pricing rules that were applied to 25%-or-more of gross income (line 1 
+below): 
+50-50 combined taxable income method
+4% gross receipts method
+Section 482 method (“arm’s-length pricing”)
+(2) 
+Check here         if the marginal costing rules under section 994(b)(2) were applied in figuring the combined taxable income for any 
+transactions.
+All Computations Must Reflect Intercompany Pricing Rules if Used (Section 994) 
+See separate Schedule P (Form 1120-IC-DISC).
+Taxable Income
+1 
+Gross income. Enter amount from Schedule B, line 4, column (e) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Cost of goods sold from Schedule A, line 8 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Total income. Subtract line 2 from line 1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Deductions. Enter amount from Schedule E, line 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Taxable income before net operating loss deduction and dividends-received deduction. Subtract line 4 
+from line 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 a 
+Net operating loss deduction (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+6a 
+b 
+Special deductions from Schedule C, line 21, column (c)
+.
+.
+.
+.
+.
+.
+6b
+c 
+Add lines 6a and 6b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6c 
+7 
+Taxable income. Subtract line 6c from line 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Refundable credit for federal tax paid on fuels (attach Form 4136) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is 
+true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+▲
+Signature of officer
+Date
+▲
+Title
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name      ▶
+Firm’s address  ▶
+Firm’s EIN  ▶
+Phone no.
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11473P
+Form 1120-IC-DISC (Rev. 12-2021)
+Form 1120-IC-DISC (Rev. 12-2021)
+Page 2
+Schedule A
+Cost of Goods Sold (see instructions)
+If the intercompany pricing rules of section 994 are used, reflect actual purchases from a related supplier at 
+the transfer price determined under such rules. See separate Schedule P (Form 1120-IC-DISC).
+1 
+Inventory at beginning of the year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Purchases .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Cost of labor .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Additional section 263A costs (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Other costs (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Total. Add lines 1 through 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Inventory at end of the year 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Cost of goods sold. Subtract line 7 from line 6. Enter here and on line 2, page 1 .
+.
+.
+.
+.
+.
+.
+.
+8 
+9a 
+Check all methods used for valuing closing inventory:  
+(i) 
+Cost 
+(ii) 
+Lower of cost or market
+(iii)
+Other (Specify method used and attach statement.)  ▶
+b 
+Check if there was a writedown of subnormal goods .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  ▶
+c 
+Check if the LIFO inventory method was adopted this tax year for any goods. If checked, attach Form 970 .
+.
+.
+.
+.
+.  ▶
+d 
+If the LIFO inventory method was used for this tax year, enter amount of closing inventory computed 
+under LIFO 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9d
+e 
+If property is produced or acquired for resale, do the rules of section 263A apply to the corporation? 
+.
+.
+.
+.
+Yes
+No
+f 
+Was there any change in determining quantities, cost, or valuations between the opening and closing inventory? If “Yes,” attach statement
+Yes
+No
+Schedule B
+Gross Income (see instructions)
+(a) Type of receipts
+Commission sales
+(d) Other 
+receipts
+(e) Total (add 
+columns (c) and (d))
+    
+(b) Gross receipts
+(c) Commission
+   
+   
+1
+Qualified export receipts from sale of export property— 
+a
+To unrelated purchasers:
+(i) Direct foreign sales .
+.
+.
+.
+.
+.
+.
+(ii) Foreign sales through a related foreign entity
+(iii) Persons in the United States (other than  
+an unrelated IC-DISC) 
+.
+.
+.
+.
+.
+.
+(iv)
+An unrelated IC-DISC 
+.
+.
+.
+.
+.
+.
+b
+To related purchasers:
+(i) Direct foreign sales .
+.
+.
+.
+.
+.
+.
+(ii) Persons in the United States 
+.
+.
+.
+.
+c
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Other qualified export receipts:
+a
+Leasing or renting of export property 
+.
+.
+.
+b 
+Services related and subsidiary to a qualified  
+export sale or lease .
+.
+.
+.
+.
+.
+.
+.
+.
+c
+Engineering and architectural services .
+.
+.
+d
+Export management services .
+.
+.
+.
+.
+.
+e
+Qualified dividends and inclusions (Schedule C, line 19a)  
+f
+Interest on producer’s loans .
+.
+.
+.
+.
+.
+g
+Other interest (attach statement) .
+.
+.
+.
+.
+h
+Capital gain net income. Attach Schedule D (Form 1120) 
+i
+Net gain or (loss) from Part II, Form 4797. Attach Form 4797
+j
+Other (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+k
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Nonqualified gross receipts:
+a
+Ultimate use in United States .
+.
+.
+.
+.
+.
+b
+Exports subsidized by the U.S. Government .
+c 
+Certain direct or indirect sales or leases for use 
+by the U.S. Government 
+.
+.
+.
+.
+.
+.
+.
+d
+Sales to other IC-DISCs in the same controlled group  
+e
+Nonqualified dividends and inclusions (Schedule C, line 20a)
+f
+Other (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+g
+Total 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Total. Add lines 1c, 2k, and 3g, column (e). Enter 
+here and on line 1, page 1 .
+.
+.
+.
+.
+.
+.
+Form 1120-IC-DISC (Rev. 12-2021)
+Form 1120-IC-DISC (Rev. 12-2021)
+Page 3 
+Schedule C
+Dividends, Inclusions, and Special Deductions (see instructions)
+(a) Dividends 
+and inclusions
+(b) %
+(c) Special deductions 
+(a) × (b)
+1 
+Dividends from less-than-20%-owned domestic corporations (other than debt-
+financed stock) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+50
+2  
+Dividends from 20%-or-more-owned domestic corporations (other than debt-
+financed stock) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+65
+3 
+Dividends on certain debt-financed stock of domestic and foreign corporations
+.
+see 
+instructions
+4 
+Dividends on certain preferred stock of less-than-20%-owned public utilities .
+.
+23.3
+5 
+Dividends on certain preferred stock of 20%-or-more-owned public utilities
+.
+.
+26.7
+6 
+Dividends from less-than-20%-owned foreign corporations 
+.
+.
+.
+.
+.
+.
+.
+50
+7 
+Dividends from 20%-or-more-owned foreign corporations .
+.
+.
+.
+.
+.
+.
+.
+65
+8 
+Dividends from wholly owned foreign subsidiaries 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+100
+9 
+Subtotal. Add lines 1 through 8. See instructions for limitation 
+.
+.
+.
+.
+.
+.
+see 
+instructions
+10 
+ 
+Foreign-source portion of dividends received from a specified 10%-owned foreign 
+corporation (excluding hybrid dividends) (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+100
+11 
+Dividends from foreign corporations not included on line 3, 6, 7, 8, or 10 (including 
+any hybrid dividends)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+ 
+ 
+a 
+ 
+ 
+Subpart F inclusions derived from the sale by a controlled foreign corporation (CFC) 
+of the stock of a lower-tier foreign corporation treated as a dividend (attach Form(s) 
+5471) (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+100
+b 
+ 
+Subpart F inclusions derived from hybrid dividends of tiered corporations (attach 
+Form(s) 5471) (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c 
+ 
+Other inclusions from CFCs under subpart F income not included on line 12a, 12b, 
+13, or 14 (attach Form(s) 5471) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+Global Intangible Low-Taxed Income (GILTI) (attach Form(s) 5471 and Form 8992)  
+14 
+Reserved for future use  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+IC-DISC and former DISC dividends not included on line 1, 2, or 3 
+.
+.
+.
+.
+.
+16
+Other dividends .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17
+Section 250 deduction (attach Form 8993) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18
+Total dividends and inclusions. Add lines 9 through 16, column (a) .
+.
+.
+.
+.
+19
+Qualified dividends. Enter here and on Schedule B, line 2e, column (d) .
+.
+.
+.
+20 
+Nonqualified dividends and inclusions. Subtract line 19 from line 18. Enter here and 
+on Schedule B, line 3e, column (d) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21
+Total special deductions. Add lines 9, 10, 12(a), 14, and 17, column (c). Enter here and on page 1, line 6b 
+.
+▶ 
+Schedule E
+Deductions (Before completing, see Limitations on Deductions in the instructions.)
+1 
+Export promotion expenses:
+a 
+Market studies 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1a
+b 
+Advertising 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1b
+c 
+Depreciation. Attach Form 4562 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1c
+d 
+Salaries and wages .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1d
+e 
+Rents 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1e
+f 
+Sales commissions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1f
+g 
+Warehousing .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1g
+h
+Freight (excluding insurance) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1h
+i 
+Compensation of officers .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1i
+j 
+Repairs and maintenance .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1j
+k 
+Pension, profit-sharing, etc., plans .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1k
+l 
+Employee benefit programs 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1l
+m Other (list):
+1m
+n 
+Total. Add lines 1a through 1m .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1n
+Form 1120-IC-DISC (Rev. 12-2021)
+Form 1120-IC-DISC (Rev. 12-2021)
+Page  4 
+Schedule E
+Deductions (Before completing, see Limitations on Deductions in the instructions.) (continued)
+2 
+Other expenses not deducted on line 1:
+a 
+Bad debts .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b 
+Taxes and licenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c 
+Interest (see instructions)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+d 
+Contributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2d
+e 
+Freight .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2e
+f 
+Freight insurance 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2f
+g 
+Other (list):
+2g
+h 
+Total. Add lines 2a through 2g 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2h
+3 
+Total deductions. Add lines 1n and 2h. Enter here and on line 4, page 1
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Schedule J
+Deemed and Actual Distributions and Deferred DISC Income for the Tax Year
+Part I—Deemed Distributions Under Section 995(b)(1) (see instructions)
+1 
+Gross interest derived during the tax year from producer’s loans (section 995(b)(1)(A)) .
+.
+.
+.
+.
+.
+1 
+2 
+Gain recognized on the sale or exchange of section 995(b)(1)(B) property (attach statement) 
+.
+.
+.
+.
+2 
+3 
+Gain recognized on the sale or exchange of section 995(b)(1)(C) property (attach statement) 
+.
+.
+.
+.
+3 
+4 
+50% (0.50) of taxable income attributable to military property (section 995(b)(1)(D)) (attach statement) 
+.
+4 
+5 
+Taxable income from line 7, Part II, below .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Taxable income of the IC-DISC (from line 7, page 1) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Add lines 1 through 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Subtract line 7 from line 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+If you have shareholders that are C corporations, enter one-seventeenth of line 8 (0.0588235 times line 8) 
+9 
+10 
+International boycott income (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Illegal bribes and other payments 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+Note: Separate computations for lines 12–23 are required for shareholders that are C corporations and 
+shareholders that are not C corporations. Complete lines 12, 14, 15, 17a, 18, 20, and 22 for 
+shareholders that are not C corporations. Complete lines 13, 14, 16, 17b, 19, 21, and 23 for 
+shareholders that are C corporations.
+12 
+Add lines 7, 10, and 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Add lines 7, 9, 10, and 11 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Earnings and profits for the tax year (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Enter the smaller of line 12 or 14 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Enter the smaller of line 13 or 14 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Foreign investment attributable to producer’s loans (attach statement):
+a 
+For shareholders other than C corporations 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17a
+b 
+For shareholders that are C corporations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17b
+18 
+Add lines 15 and 17a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Add lines 16 and 17b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+Enter percentage of stock owned by shareholders other than C corporations .
+.
+.
+.
+.
+.
+.
+.
+.
+20 
+% 
+21 
+Enter percentage of stock owned by shareholders that are C corporations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+% 
+22 
+Multiply line 18 by line 20. Allocate this amount to shareholders other than C corporations .
+.
+.
+.
+.
+22 
+23 
+Multiply line 19 by line 21. Allocate this amount to C corporation shareholders.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+24 
+Total deemed distributions under section 995(b)(1) for all shareholders. Add lines 22 and 23 .
+.
+.
+24 
+Part II—Section 995(b)(1)(E) Taxable Income (see instructions)
+1 
+Total qualified export receipts (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Statutory maximum .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+10,000,000
+3 
+Controlled group member’s portion of the statutory maximum 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Enter smaller of (a) 1 or (b) number of days in tax year divided by 365 (or 366). See instructions
+.
+.
+.
+4 
+5 
+Proration. Multiply line 2 or 3, whichever is applicable, by line 4 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Excess qualified export receipts. Subtract line 5 from line 1. (If line 5 exceeds line 1, enter -0- 
+here and on line 7 below.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Taxable income attributable to line 6 receipts. Enter here and on line 5 of Part I above .
+.
+.
+.
+.
+.
+7 
+Part III—Deemed Distributions Under Section 995(b)(2) (see instructions)
+1 
+Annual installment of distribution attributable to revocation of election in an earlier year .
+.
+.
+.
+.
+.
+1 
+2 
+Annual installment of distribution attributable to not qualifying as a DISC or IC-DISC in an earlier year 
+.
+2 
+3 
+Total deemed distributions under section 995(b)(2). Add lines 1 and 2 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Form 1120-IC-DISC (Rev. 12-2021)
+Form 1120-IC-DISC (Rev. 12-2021)
+Page 5
+Schedule J
+Deemed and Actual Distributions and Deferred DISC Income for the Tax Year (continued)
+Part IV—Actual Distributions (see instructions)
+1 
+Distributions to meet qualification requirements under section 992(c). Attach computation statement 
+.
+1 
+2 
+Other actual distributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Total. Add lines 1 and 2 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Amount on line 3 treated as distributed from:
+a 
+Previously taxed income 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4a 
+b 
+Accumulated IC-DISC income (including IC-DISC income of the current year)
+4b
+c 
+Other earnings and profits .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4c 
+d 
+Other 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4d
+Part V—Deferred DISC Income Under Section 995(f)(3) (see instructions)
+1 
+Accumulated IC-DISC income (for periods after 1984) at end of computation year 
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Distributions-in-excess-of-income for the tax year following the computation year to which line 1 applies 
+2 
+3 
+Deferred DISC income under section 995(f)(3). Subtract line 2 from line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+Schedule L
+Assets
+Liabilities and  
+Shareholders’ Equity
+ (                               )  (                               ) 
+ (                               )  (                               ) 
+ (                               )  (                               ) 
+Balance Sheets per Books
+(a) Beginning of tax year
+(b)  End of tax year
+1 
+Qualified export assets:
+a 
+Working capital (cash and necessary temporary investments) .
+.
+.
+.
+.
+.
+b  Funds awaiting investment (cash in U.S. banks in excess of working capital 
+needs) in other qualified export assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c 
+Export–Import Bank obligations 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+d 
+Trade receivables (accounts and notes receivable) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Less allowance for bad debts .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+e 
+Export property (net) (including inventory and qualified property held for lease)  
+f 
+Producer’s loans .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+g 
+Investment in related foreign export corporations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+h 
+Depreciable assets 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Less accumulated depreciation 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+i 
+Other (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+Nonqualified assets (net) (list):
+3 
+Total assets. Combine lines 1a through 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+Accounts payable 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+Other current liabilities (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Mortgages, notes, bonds payable in 1 year or more .
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+Other liabilities (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Capital stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+Additional paid-in capital 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+Other earnings and profits .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+Previously taxed income (section 996(f)(2)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+Accumulated pre-1985 DISC income (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+13 
+Accumulated IC-DISC income (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+Less cost of treasury stock .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+Total liabilities and shareholders’ equity .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Schedule M-1
+Reconciliation of Income per Books With Income per Return
+1 Net income (loss) per books .
+.
+.
+.
+2 Excess of capital losses over capital gains
+3 Taxable income not recorded on books 
+this year (itemize):
+4 Expenses recorded on books this year 
+and not deducted on this return (itemize):
+5 Add lines 1 through 4 .
+.
+.
+.
+.
+.
+6 Income recorded on books this year not 
+included on this return (itemize):
+7 Deductions on this return not charged
+against book income this year (itemize):
+8 Add lines 6 and 7 .
+.
+.
+.
+.
+.
+.
+.
+9 Income (line 5, page 1)—line 5 less line 8
+Schedule M-2
+Analysis of Other Earnings and Profits (Line 10, Schedule L)
+1 Balance at beginning of year 
+.
+.
+.
+2 Increases (itemize):
+3 Add lines 1 and 2 .
+.
+.
+.
+.
+.
+.
+4 Deficit in earnings and profits 
+.
+.
+.
+5 Distributions to qualify under section 992(c)
+6 Other decreases (itemize):
+7 Add lines 4 through 6 .
+.
+.
+.
+.
+.
+.
+8 Balance at end of year (line 3 less line 7)
+Form 1120-IC-DISC (Rev. 12-2021)
+Form 1120-IC-DISC (Rev. 12-2021)
+Page 6 
+Schedule M-3
+Analysis of Previously Taxed Income (Line 11, Schedule L)
+1 Balance at beginning of year 
+.
+.
+.
+2 Deemed distributions under section 995(b)
+3 Other increases (itemize):
+4 Add lines 1 through 3 .
+.
+.
+.
+.
+.
+5 Deficit in earnings and profits .
+.
+.
+.
+6 Distributions to qualify under section 992(c)
+7 Other decreases (itemize):
+8 Add lines 5 through 7 .
+.
+.
+.
+.
+.
+.
+9 Balance at end of year (line 4 less line 8)
+Schedule M-4
+Analysis of Accumulated IC-DISC Income (Line 13, Schedule L)
+1 Balance at beginning of year 
+.
+.
+.
+2 Increases (itemize):
+3 Add lines 1 and 2 .
+.
+.
+.
+.
+.
+.
+4 Deficit in earnings and profits 
+.
+.
+.
+5 Redemptions under section 996(d) .
+.
+6 Distributions to qualify under section 992(c)
+7 Distributions upon disqualification (sec. 995(b)(2))
+8 Other decreases (itemize):
+9 Add lines 4 through 8 .
+.
+.
+.
+.
+.
+.
+10 Balance at end of year (line 3 less line 9)
+Schedule N
+Export Gross Receipts of the IC-DISC and Related U.S. Persons (see instructions)
+1 
+See the instructions and enter the product code and percentage of total export gross receipts for (a) the largest and (b) 2nd largest 
+product or service sold or provided by the IC-DISC:
+(a) Code
+Percentage of total
+% 
+(b) Code
+Percentage of total
+% 
+2 
+Export gross receipts for the current tax year
+(a) Export gross receipts of the IC-DISC
+Export gross receipts of related U.S. persons
+   
+(b) Related IC-DISCs
+(c) All other related U.S. persons
+3 
+If item 2(b) or 2(c) is completed, complete the following (If more space is needed, attach a statement following the format below.):
+(a) IC-DISCs in Your Controlled Group
+Name
+Address
+Identifying number
+(b) All Other Related U.S. Persons in Your Controlled Group
+Name
+Address
+Identifying number
+Schedule O
+Other Information (see instructions)
+1
+See the instructions and enter the main:
+a
+Business activity ▶
+b  Product or service ▶
+2 a 
+Did 95% (0.95) or more of the IC-DISC’s gross receipts for the tax year consist of qualified export receipts (defined in 
+section 993(a))? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+b 
+Did the adjusted basis of the IC-DISC’s qualified export assets (as defined in section 993(b)) at the end of the tax year 
+equal or exceed 95% (0.95) of the sum of the adjusted basis of all the IC-DISC’s assets at the end of the tax year? .
+.
+c
+If a or b is “No,” did the IC-DISC make a pro rata distribution of property as defined in section 992(c)? .
+.
+.
+.
+.
+.
+3
+Did the IC-DISC have more than one class of stock at any time during the tax year? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 4 
+Was the par or stated value of the IC-DISC’s stock at least $2,500 on each day of the tax year (for a new corporation, this 
+means on the last day for making an election to be an IC-DISC and for each later day)? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Did the IC-DISC keep separate books and records? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+ 
+a 
+ 
+Does the IC-DISC or any member of the IC-DISC’s controlled group (as defined in section 993(a)(3)) have operations in or 
+related to any country (or with the government, a company, or a national of that country) associated with carrying out the 
+boycott of Israel that is on the list kept by the Secretary of the Treasury under section 999(a)(3)? .
+.
+.
+.
+.
+.
+.
+.
+b 
+ 
+Did the IC-DISC or any member of the controlled group of which the IC-DISC is a member have operations in 
+any unlisted country that the IC-DISC knows or has reason to know requires participation in or cooperation with 
+an international boycott against Israel? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c 
+ 
+Did the IC-DISC or any member of the controlled group of which the IC-DISC is a member have operations in 
+any country that the IC-DISC knows or has reason to know requires participation in or cooperation with an international 
+boycott other than the boycott of Israel? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If the answer to any of the questions in 6 is “Yes,” see instructions and Form 5713, International Boycott Report.
+Form 1120-IC-DISC (Rev. 12-2021)
+Form 1120-IC-DISC (Rev. 12-2021)
+Page 7 
+Schedule O
+Other Information (see instructions) (continued)
+Yes
+No
+7 
+Did the corporation have an election under section 163(j) for any real property trade or business or any farming business 
+in effect during the tax year? (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+8
+Does the corporation satisfy one or more of the following? See instructions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+a
+The corporation owns a pass-through entity with current, or prior-year carryover, excess business interest expense.
+b 
+The corporation’s aggregate average annual gross receipts (determined under section 448(c)) for the 3 tax years 
+preceding the current tax year are $26 million or more.
+c
+The corporation is a tax shelter (see instructions).
+d
+The corporation has interest expense from a trade or business other than (1) electing real property trades or businesses, 
+(2) electing farming businesses, or (3) certain utility businesses under section 163(j)(7).
+If the answer to any of the items in 8 is “Yes,” complete and attach Form 8990.
+9
+Enter the amount of tax-exempt interest income received or accrued during the tax year ▶
+$
+10
+At any time during the tax year, did one foreign person own, directly or indirectly, at least 25% of
+(a) the total voting power of all classes of stock of the corporation entitled to vote, or
+(b) the total value of all the classes of stock of the corporation?  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter:
+a
+Percentage owned ▶
+and
+b
+Owner’s country ▶
+c The corporation may have to file Form 5472, Information Return of a 25% Foreign-Owned U.S. Corporation or a 
+Foreign Corporation Engaged in a U.S. Trade or Business. Enter number of Forms 5472 attached  ▶
+Note: If the IC-DISC, at any time during the tax year, had assets or operated a business in a foreign country or U.S. possession, it may 
+be required to attach Schedule N (Form 1120), Foreign Operations of U.S. Corporations, to this return. See Schedule N for details.
+Form 1120-IC-DISC (Rev. 12-2021)

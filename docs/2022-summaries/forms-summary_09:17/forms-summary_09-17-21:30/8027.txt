@@ -1,0 +1,11 @@
+Form 8027 is the Employers Annual Information Return of Tip Income and Allocated Tips. It is a document that employers in the United States must fill out and submit to the Internal Revenue Service (IRS) to report tip income and allocated tips for their employees. The form includes various sections where employers must provide information such as the establishment's name, address, and employer identification number. Employers must also indicate the type of establishment they operate, such as whether they serve evening meals, other meals, or alcoholic beverages.
+
+The form requires employers to report the total charged tips for the calendar year, as well as the total charge receipts showing charged tips. Employers must also report the total amount of service charges of less than 10% that were paid as wages to employees. The form includes separate sections to report tips reported by indirectly tipped employees and directly tipped employees. Employers must also indicate whether the establishment accepts credit cards, debit cards, or other charges.
+
+The form also includes a section to report the gross receipts from food and beverages, which is multiplied by 8% (or a lower rate granted by the IRS) to determine the allocated tips. If employers have allocated tips using a period other than the calendar year, they must mark an X on the form and enter the amount of allocated tips from their records.
+
+Employers must allocate the excess amount of tips (if any) to tipped employees working in the establishment and indicate the method used for the allocation. The options include the hours-worked method, the gross receipts method, or a good-faith agreement. Employers must also enter the total number of directly tipped employees at the establishment during the year.
+
+The form must be signed by the employer, declaring that the information provided is true, correct, and complete. The form includes a Privacy Act and Paperwork Reduction Act Notice for reference.
+
+For detailed instructions and the latest information on filling out Form 8027, employers can visit the IRS website at www.irs.gov/Form8027.

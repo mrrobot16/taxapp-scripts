@@ -1,0 +1,9 @@
+Form 5471 is an information return that U.S. persons must file with the IRS if they have ownership or control over certain foreign corporations. The form collects information about the foreign corporation, its shareholders, and its financial activities.
+
+The form requires the filer to provide identifying information, such as their name, address, and identifying number. It also asks for the total percentage of voting stock owned by the filer at the end of the foreign corporation's annual accounting period.
+
+The form includes several schedules that must be completed. Schedule A asks for information about the foreign corporation, including its name, address, and country of incorporation. Schedule B requires the filer to list the shareholders of the foreign corporation and provide details about their stock holdings. Schedule C is an income statement that requires the filer to report the foreign corporation's income, deductions, and net income. Schedule F is a balance sheet that requires the filer to report the foreign corporation's assets and liabilities. Schedule G collects other information about the foreign corporation, such as its participation in certain transactions or ownership of certain entities. Schedule I summarizes the income of U.S. shareholders from the foreign corporation.
+
+The form also includes checkboxes for certain special situations, such as if the form is a final return for the foreign corporation or if the filer is reporting excepted specified foreign financial assets. There is also a checkbox if the form has been completed using Alternative Information under Rev. Proc. 2019-40.
+
+Overall, Form 5471 is a detailed information return that helps the IRS track and collect information about U.S. persons with ownership or control over certain foreign corporations.

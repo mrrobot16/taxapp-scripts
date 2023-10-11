@@ -1,0 +1,9 @@
+Form 965-B is a report form used by corporate entities and Real Estate Investment Trusts (REITs) to report their net tax liability and election to pay in installments for Section 965 of the Internal Revenue Code. The form consists of three parts.
+
+Part I of the form requires the taxpayer to provide information regarding their net tax liability with and without Section 965 amounts, and whether they have made an installment election. They also need to provide the net 965 tax liability to be paid in full in Year 1 and the net 965 tax liability to be paid in installments if an installment election has been made. Additionally, any net 965 tax liability transferred out, transferred in, or subsequent adjustments need to be reported.
+
+Part II is used to record the amount of net 965 tax liability paid by the taxpayer for each year. The taxpayer needs to provide the year of Section 965(a) inclusion or liability assumed and the amount paid for each year. There are additional spaces to record payments for up to eight years.
+
+Part III is specific to REITs that have elected to account for Section 965 amounts over time. The taxpayer needs to provide the tax year of Section 965(a) inclusion and Section 965(c) deduction, along with the amount elected to be accounted for over time. They also need to report the portion accounted for in each year for up to eight years and the amount remaining to be accounted for.
+
+The form includes instructions for filling out each part and additional sheets can be attached if more lines are needed. The form is filed with the Department of the Treasury, Internal Revenue Service.

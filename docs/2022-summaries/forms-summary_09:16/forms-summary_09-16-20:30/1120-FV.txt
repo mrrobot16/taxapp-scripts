@@ -1,0 +1,7 @@
+Schedule V (Form 1120-F) is a document provided by the Internal Revenue Service (IRS) that must be attached to Form 1120-F for corporations subject to a 4% rate of tax under section 887. This schedule requires the corporation to provide information regarding vessels or aircrafts, including their names or types, identification numbers, whether they were chartered in or out, names and employer identification numbers (EINs) or social security numbers (SSNs) of registered owners and operators, and U.S. source gross transportation income.
+
+If the corporation checked "Yes" on line 3 or line 4 for a chartered vessel or aircraft, additional information may be required in the form of a statement attached to Schedule V.
+
+The schedule also includes calculations for total U.S. source gross transportation income, any amount exempt by treaty (which requires attaching Form 8833), and the resulting amount to be entered on Form 1120-F, Section I, line 9, column (b).
+
+The form includes a reference to the Instructions for Form 1120-F for further guidance and the latest information. It also mentions the Paperwork Reduction Act Notice.

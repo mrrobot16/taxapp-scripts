@@ -1,0 +1,9 @@
+Form 8275 is a disclosure statement that taxpayers can attach to their tax return to provide additional information about items or positions taken on their return. It should not be used to disclose items or positions that are contrary to Treasury regulations; instead, Form 8275-R should be used for that purpose. 
+
+The form consists of several parts. Part I requires the taxpayer to provide general information, including the reference ID number and a detailed description of the items being disclosed. Part II allows for a more detailed explanation of the items being disclosed. 
+
+Part III is only applicable if the taxpayer is making adequate disclosure for a pass-through item. In this section, partners, shareholders, beneficiaries, or residual interest holders must provide information about the pass-through entity, such as its name, address, identifying number, tax year, and the IRS center where the entity filed its return. 
+
+Part IV is for providing additional explanations, if needed. 
+
+Taxpayers should attach Form 8275 to their tax return and can find more information about the form and its instructions on the IRS website.

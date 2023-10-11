@@ -1,0 +1,19 @@
+Schedule A is a form that must be completed by organizations that are classified as section 501(c)(3) or section 4947(a)(1) nonexempt charitable trusts. The form is used to determine the organization's public charity status and public support. It is to be attached to Form 990 or Form 990-EZ.
+
+The form is divided into several parts:
+
+Part I: Reason for Public Charity Status - The organization must indicate the reason why it is not a private foundation by checking the appropriate box.
+
+Part II: Support Schedule for Organizations Described in Sections 170(b)(1)(A)(iv) and 170(b)(1)(A)(vi) - This part is completed if the organization checked boxes 5, 7, or 8 in Part I, or if the organization failed to qualify under Part III. It includes a support schedule for the organization, including gifts, grants, contributions, and membership fees received, tax revenues levied for the organization's benefit, and the value of services or facilities provided by a governmental unit.
+
+Part III: Support Schedule for Organizations Described in Section 509(a)(2) - This part is completed if the organization checked box 10 in Part I, or if the organization failed to qualify under Part II. It includes a support schedule similar to Part II, but also includes gross receipts from admissions, merchandise sold or services performed, and gross receipts from activities that are not unrelated trade or business.
+
+Part IV: Supporting Organizations - This part is completed if the organization checked box 12 in Part I. It includes various sections depending on the type of supporting organization, including Type I, Type II, Type III functionally integrated, and Type III non-functionally integrated. The organization must provide information about its supported organizations and the relationship between the supporting organization and the supported organizations.
+
+Part V: Type III Non-Functionally Integrated 509(a)(3) Supporting Organizations - This part is completed if the organization checked box 12d in Part I. It includes sections for adjusted net income, minimum asset amount, distributable amount, distributions, and distribution allocations.
+
+Part VI: Supplemental Information - This part is used to provide explanations for various lines and sections throughout the form.
+
+The form also includes instructions and space for additional information if needed.
+
+Overall, Schedule A is a detailed form that helps determine the public charity status and public support of an organization. It requires the organization to provide information about its activities, support, and relationships with other organizations.

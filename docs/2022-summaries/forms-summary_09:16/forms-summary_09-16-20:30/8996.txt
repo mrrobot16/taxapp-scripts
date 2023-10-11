@@ -1,0 +1,21 @@
+Form 8996 is a document issued by the Internal Revenue Service (IRS) for taxpayers who are organized for the purpose of investing in qualified opportunity zone (QOZ) property. The form is used to calculate the investment standard and penalty for qualified opportunity funds (QOFs).
+
+Part I of the form requires general information and certification from the taxpayer. It asks about the type of taxpayer (corporation or partnership) and whether the taxpayer is organized for investing in QOZ property. If the taxpayer is not organized for this purpose, they are instructed not to file the form. If they are organized for this purpose, they proceed to line 3.
+
+Line 3 asks if this is the first period the taxpayer is a QOF. If it is, the taxpayer is required to provide the first month in which the fund chose to be a QOF. 
+
+Line 5 asks if any investor disposed of their equity interest in the fund. If yes, the taxpayer is required to attach a statement with the details of the disposal.
+
+Part II of the form involves the calculation of the investment standard. It includes lines 7 to 12, which require the taxpayer to enter the amount of QOZ property and total assets held by the taxpayer on specific dates.
+
+Part III determines the QOF average and penalty. Line 13 requires the taxpayer to add the amounts from lines 9 and 12. Line 14 instructs the taxpayer to divide line 13 by 2.0. If line 14 is equal to or more than 0.90, the taxpayer enters -0- on line 15 and files the form with their tax return. If line 14 is less than 0.90, the taxpayer has failed to maintain the investment standard and must complete Part IV to calculate the penalty.
+
+Part IV is used to calculate the penalty for failing to maintain the investment standard. It involves a series of calculations based on the total assets and QOZ property held by the taxpayer on specific dates. The result is entered on line 8 and then transferred to Part III, line 15.
+
+Part V and Part VI of the form are used to report QOZ business property directly owned or leased by the taxpayer and QOZ stock or partnership interests held by the taxpayer, respectively. The taxpayer must provide details such as the QOZ number, owned property value, leased property value, and investment value.
+
+The form also includes Part VII, which is a continuation of Part VI for reporting additional QOZ stock or partnership interests.
+
+The form concludes with a section for the taxpayer to indicate the type of accounting method used to value the property listed on the form and a space for any additional information.
+
+Taxpayers are instructed to attach Form 8996 to their tax return and can find instructions and the latest information on the IRS website.

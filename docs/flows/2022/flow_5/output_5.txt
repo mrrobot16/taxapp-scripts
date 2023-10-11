@@ -1,0 +1,8 @@
+Relevant Keywords
+
+[“married couple”, “filing jointly”, “single”, “married”] → Form 1040
+[“s corporation”, “member”, “incorporation”] → Form 1120S, Schedule K, Schedule K-1
+[“international”, “Colombia”, “Ecuador”, “Brazil”] → Form 1116, Form 2555
+[“self-employed”, “active trader”, “Robinhood”, “cryptocurrencies”, “property”, “digital assets”] → Form 1040, Schedule D, Form 8949, Form 1099
+[“understated taxes”, “innocent spouse”] → Form 8857
+[“property”, “rental property”, “tenants”, “Arkansas”] → Form 1040 Schedule E, Form 4562, Form AR1000NR

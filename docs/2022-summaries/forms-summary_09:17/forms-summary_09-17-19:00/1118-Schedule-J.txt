@@ -1,0 +1,19 @@
+Schedule J (Form 1118) is a document used by corporations to make adjustments to separate limitation income or losses for determining the numerators of limitation fractions, year-end recharacterization balances, and overall foreign and domestic loss account balances. 
+
+The form is divided into four parts:
+
+Part I: Adjustments to Separate Limitation Income or Losses
+This section requires the corporation to input various types of income or losses, including Section 951A income, foreign branch income, passive category income, general category income, and other income. The corporation must calculate the income or loss before adjustments and allocate separate limitation losses. The subtotal of lines 1 through 2e is then determined.
+
+Part II: Year-End Balances of Future Separate Limitation Income That Must Be Recharacterized
+This section focuses on year-end balances of future separate limitation income that must be recharacterized. The corporation must input the same types of income as in Part I and calculate the year-end balances for each category.
+
+Part III: Overall Foreign Loss Account Balances
+In this part, the corporation must complete the information for each separate limitation income category. This includes the beginning balance, current year additions, current year reductions (other than recapture), current year recapture (from Part I, line 7), and the ending balance.
+
+Part IV: Overall Domestic Loss Account Balances
+Similar to Part III, this part requires the corporation to input the beginning balance, current year additions, current year reductions (other than recapture), current year recapture (from Part I, line 10), and the ending balance for overall domestic loss account balances.
+
+The form provides spaces for the corporation to fill in the necessary information and calculations for each part. It is important for the corporation to refer to the instructions and any computer-generated schedule for additional guidance.
+
+Overall, Schedule J (Form 1118) is a tool used by corporations to adjust and calculate various income and loss categories for tax purposes.

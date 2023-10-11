@@ -1,0 +1,13 @@
+Schedule V (Form 1120-F) is a document provided by the Internal Revenue Service (IRS) for corporations to list their vessels or aircraft, operators, and owners. This form is to be attached to Form 1120-F, which is used for reporting income taxes for foreign corporations doing business in the United States.
+
+The form includes several lines for providing information about each vessel or aircraft, such as the name or type, ID number, whether it was chartered in or out, the name and identification number of the registered owner, the name and identification number of the operator, and the U.S. source gross transportation income.
+
+Line 9 of the form refers to the U.S. source gross transportation income and provides instructions for attaching a statement to Schedule V that describes the method used to determine this income.
+
+Line 10 requires the total U.S. source gross transportation income to be calculated by adding the amounts from line 9, columns A through D, and any amounts from attached continuation statements.
+
+Line 11 allows for the deduction of any income exempted by treaty, and Form 8833 needs to be attached to report this exemption.
+
+Finally, line 12 instructs the corporation to subtract the amount on line 11 from line 10 and enter the result on Form 1120-F, Section I, line 9, column (b).
+
+The form includes a reference to the Instructions for Form 1120-F for further guidance and the latest information.

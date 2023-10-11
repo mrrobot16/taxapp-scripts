@@ -1,0 +1,17 @@
+Form CT-1 X is a form used to correct errors made on Form CT-1, which is the Employers Annual Railroad Retirement Tax Return. This form is used by employers to adjust their railroad retirement tax return or claim a refund for overreported tax amounts. 
+
+The form consists of five pages and requires the employer to provide their employer identification number (EIN), RRB number, name, and address. The employer must indicate the calendar year they are correcting and the date they discovered the errors.
+
+Part 1 of the form requires the employer to select the process they are using to correct the errors. They can choose between the adjusted railroad retirement tax return process or the claim process for a refund or abatement. 
+
+Part 2 of the form requires the employer to complete certifications related to filing Forms W-2 and the repayment or reimbursement of overcollected taxes.
+
+Part 3 of the form is where the employer enters the corrections for the calendar year being corrected. They must enter the total corrected amount, the amount originally reported or previously corrected, and the difference for each tax category.
+
+Part 4 of the form is where the employer provides an explanation for their corrections.
+
+Part 5 of the form is where the employer signs the form and provides information about the preparer if applicable.
+
+The form also includes instructions on which process to use based on the type of errors being corrected and provides additional guidance on specific tax categories and credits.
+
+Overall, Form CT-1 X is a detailed form used by employers to correct errors on their railroad retirement tax return and claim refunds or make adjustments as necessary.

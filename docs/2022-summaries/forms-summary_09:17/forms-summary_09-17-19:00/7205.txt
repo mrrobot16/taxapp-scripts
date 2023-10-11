@@ -1,0 +1,15 @@
+Form 7205 is a document issued by the Department of the Treasury and the Internal Revenue Service (IRS) in the United States. It is used to claim the Energy Efficient Commercial Buildings Deduction and must be attached to the taxpayer's tax return.
+
+The form consists of four parts:
+
+Part I requires the taxpayer to provide information about the building and the energy efficient commercial building property (EECBP) being claimed. This includes the address of the building, the date the EECBP was placed in service, the EECBP system and computed energy savings percentage, whether the interim lighting rule was used, the potential amount per square foot based on energy savings and system, the building square footage, and the potential section 179D deduction amount.
+
+Part II is used to compute the Energy Efficient Commercial Buildings Deduction amount. It includes calculations involving the total per square foot amount claimed in prior years, the maximum amount allowed, and whether the amount in column 2(b) is greater than or equal to the amount in column 1(e). Depending on the calculations, the taxpayer may need to enter the cost of the energy efficient commercial building property placed in service during the tax year and the amount of the section 179D deduction allocated to the taxpayer as the designer.
+
+Part III is for certification information for each property listed in Part I. It requires the name of the qualified individual completing the certification, their employer, and their address.
+
+Part IV is for designer allocation information and is to be completed by the designer only. It includes the identified owner of the building, the name of the building owner's authorized representative completing the allocation, and their address.
+
+The form also provides a space for the total section 179D deduction, which should be added up and entered on the appropriate line of the taxpayer's tax return.
+
+Taxpayers can find instructions and the latest information regarding Form 7205 on the IRS website at www.irs.gov/Form7205.

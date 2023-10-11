@@ -1,0 +1,15 @@
+Relevant keywords are: 
+- **["employee", "employed", "employer"]** -> [W2](https://www.irs.gov/forms-pubs/about-form-w-2)
+- **["consulting", "consultant", "contract", "contractor"]** -> [[1099-NEC](https://www.irs.gov/forms-pubs/about-form-1099-nec), [Schedule C(1040)](https://www.irs.gov/pub/irs-pdf/f1040sc.pdf)]
+- **["single", "married", "household"]** -> [1040](https://www.irs.gov/forms-pubs/about-form-1040)
+- **["stock", "shares", "options", "company options", "company shares", "company stock"]**-> [Schedule D(1040)](https://www.irs.gov/forms-pubs/about-schedule-d-form-1040)
+- **["corporation", "c-corporation", "c corp"]** -> [1120](https://www.irs.gov/pub/irs-pdf/f1120.pdf)
+- **["s-corporation", "s corp", "s corporation"]** -> [1120S](https://www.irs.gov/pub/irs-pdf/f1120s.pdf)
+- **["interests", "interests", "saving accounts"]** -> [1099-INT](https://www.irs.gov/pub/irs-pdf/f1099int.pdf)
+- **["dividend", "dividends"]** -> [1099-DIV](https://www.irs.gov/pub/irs-pdf/f1099div.pdf)
+- **["properties", "rental", "rent", "rented", "royalties"]** -> [Schedule E(1040)](https://www.irs.gov/pub/irs-pdf/f1040se.pdf)
+- **["mortgage", "mortgages", "bank loan"]** -> [1098](https://www.irs.gov/pub/irs-pdf/f1098.pdf)
+- **["purchase properties", "purchase properties", "depreciation", "amortization"]** -> [4562](https://www.irs.gov/pub/irs-pdf/f4562.pdf)
+- **["property manager"]** -> [1099-MISC](https://www.irs.gov/pub/irs-pdf/f1099msc.pdf)
+- **["repairs", "natural disasters"]** -> [4684](https://www.irs.gov/pub/irs-pdf/f4684.pdf)
+- **[age >= 65]** -> [Schedule R](https://www.irs.gov/pub/irs-pdf/f1040sr.pdf)

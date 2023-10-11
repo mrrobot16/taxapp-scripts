@@ -1,0 +1,13 @@
+Form 843 is a document issued by the Internal Revenue Service (IRS) for taxpayers to claim a refund or request an abatement of certain taxes, fees, interest, penalties, or additions to tax. It should be used for refunds or abatements related to taxes other than income taxes or an employer's claim for FICA tax, RRTA tax, or income tax withholding, certain excise taxes, or interest, penalties, or additions to tax for specific reasons.
+
+The form requires the taxpayer to provide their personal information, including their name, social security number, address, and employer identification number (EIN). They must also indicate the period for which the claim or request is being made and the amount to be refunded or abated.
+
+The taxpayer needs to specify the type of tax or fee to be refunded or abated and the Internal Revenue Code section on which any penalty is based. They must also check the appropriate box to indicate the reason for the request, such as IRS errors or delays, erroneous written advice from the IRS, or reasonable cause.
+
+The form also asks for the date(s) of payment(s) and the type of fee or return to which the claim or request relates. The taxpayer must provide an explanation for why they believe the claim or request should be allowed and include the computation of the amount requested. Additional sheets can be attached if needed.
+
+If the claim or request is related to a joint return, both the taxpayer and their spouse must sign the form. Corporate claims must be signed by an authorized corporate officer, and their title must be shown. The form includes a declaration of preparer, if applicable.
+
+The form includes a section for paid preparers to fill out if they are assisting the taxpayer. This includes their name, signature, date, and optional information about their self-employment status, preparer tax identification number (PTIN), firm's name, EIN, address, and phone number.
+
+The form also includes information about the Privacy Act and Paperwork Reduction Act Notice, which can be found in separate instructions.

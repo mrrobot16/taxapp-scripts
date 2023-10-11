@@ -1,0 +1,790 @@
+Form  CT-1 X:
+(Rev. March 2023)
+Adjusted Employer’s Annual Railroad Retirement Tax Return or Claim for Refund
+Department of the Treasury — Internal Revenue Service
+OMB No. 1545-0001
+Employer identification number 
+(EIN)
+—
+RRB number
+Name (as shown on latest Form CT-1)
+Address
+Number
+Street
+Suite or room number
+City
+State
+ZIP code
+Foreign country name
+Foreign province/county
+Foreign postal code
+Return You're Correcting ...
+Enter the calendar year of the return 
+you're correcting:
+(YYYY)
+Enter the date you discovered errors:
+(MM / DD / YYYY)
+Read the separate instructions before completing this form. Use this form to correct errors made on Form  CT-1, Employer’s Annual 
+Railroad Retirement Tax Return. Use a separate Form CT-1 X for each year that needs correction. Type or print within the boxes. You 
+MUST complete all five pages. Don’t attach this form to Form CT-1 unless you’re reclassifying workers; see the instructions for line 42.
+Part 1:
+Select ONLY one process. See page 6 for additional guidance, including information on how to treat employment 
+tax credits and Tier 1 tax deferrals.
+1. Adjusted railroad retirement tax return. Check this box if you underreported tax amounts. Also check this box if you overreported tax 
+amounts and you would like to use the adjustment process to correct the errors. You must check this box if you’re correcting both 
+underreported and overreported tax amounts on this form. The amount shown on line 26, if less than zero, may only be applied as a credit to 
+your Form CT-1 for the tax period in which you’re filing this form.
+2. Claim. Check this box if you overreported tax amounts only and you would like to use the claim process to ask for a refund or abatement of 
+the amount shown on line 26. Don’t check this box if you're correcting ANY underreported tax amounts on this form.
+Part 2:
+Complete the certifications.
+3. I certify that I’ve filed or will file Forms W-2, Wage and Tax Statement, or Forms W-2c, Corrected Wage and Tax Statement, as required.
+Note: If you’re correcting underreported tax amounts only, go to Part 3 on page 2 and skip lines 4 and 5. If you’re correcting overreported tax 
+amounts, for purposes of the certifications on lines 4 and 5, Employee Railroad Retirement Tax Act (RRTA) taxes consist of Tier 1 Employee 
+tax, Tier 1 Employee  Medicare tax, and Tier 2  Employee tax. Employer RRTA taxes consist of Tier 1 Employer tax, Tier 1 Employer Medicare 
+tax, and Tier 2 Employer tax. Form CT-1 X can’t be used to correct overreported amounts of Tier 1 Employee Additional Medicare Tax unless 
+the amounts weren’t withheld from employee compensation.
+4. If you checked line 1 because you’re adjusting overreported amounts, check all that apply. You must check at least one box.
+I certify that:
+a. I repaid or reimbursed each affected employee for the overcollected RRTA taxes for prior years. I have a written statement from each 
+affected employee stating that they haven’t claimed (or the claim was rejected) and won’t claim a refund or credit for the overcollection.
+b. The adjustments are only for Employer RRTA taxes. I couldn’t find the affected employees or each affected employee didn’t give me a 
+written statement that they haven’t claimed (or the claim was rejected) and won’t claim a refund or credit for the overcollection.
+c. The adjustment is for RRTA taxes and/or Tier 1 Employee Additional Medicare Tax that I didn’t withhold from employee compensation.
+5. If you checked line 2 because you’re claiming a refund or abatement of overreported RRTA taxes, check all that apply.  
+You must check at least one box.
+I certify that:
+a. I repaid or reimbursed each affected employee for the overcollected Employee RRTA taxes for prior years. I have a written statement from 
+each affected employee stating that they haven’t claimed (or the claim was rejected) and won’t claim a refund or credit for the 
+overcollection.
+b. I have a written consent from each affected employee stating that I may file this claim for Employee RRTA taxes overcollected in prior years. 
+I also have a written statement from each affected employee stating that they haven’t claimed (or the claim was rejected) and won’t claim a 
+refund or credit for the overcollection.
+c. The claim is for Employer RRTA taxes only. I couldn’t find the affected employees; each affected employee didn’t give me a written consent 
+to file a claim for Employee RRTA taxes; or each affected employee didn’t give me a written statement that they haven’t claimed (or the 
+claim was rejected) and won’t claim a refund or credit for the overcollection.
+d. The claim is for RRTA taxes and/or Tier 1 Employee Additional Medicare Tax that I didn’t withhold from employee compensation.
+For Paperwork Reduction Act Notice, see the separate instructions.
+www.irs.gov/CT1X
+Cat. No. 20338T
+Form CT-1 X (Rev. 3-2023)
+Name
+Employer identification number (EIN)
+–
+Correcting Calendar Year  (YYYY)
+Part 3: 
+Enter the corrections for the calendar year you’re correcting. If any line doesn’t apply, leave it blank.
+Column 1
+Total corrected 
+amount (for ALL 
+employees)
+—
+Column 2
+Amount originally 
+reported or as 
+previously corrected 
+(for ALL employees)
+=
+Column 3
+Difference 
+(If this amount is a 
+negative number, 
+use a minus sign.)
+Column 4
+Tax correction
+6.
+Tier 1 Employer Tax— 
+Compensation   
+(Form CT-1, line 1)
+.
+—
+.
+=
+.
+× 0.062 =
+.
+7.
+Tier 1 Employer Medicare Tax— 
+Compensation   
+(Form CT-1, line 2)
+.
+—
+.
+=
+.
+× 0.0145 =
+.
+8.
+Tier 2 Employer Tax— 
+Compensation  
+(Form CT-1, line 3)
+.
+—
+.
+=
+.
+See 
+instructions
+.
+9.
+Tier 1 Employee Tax— 
+Compensation  
+(Form CT-1, line 4)
+.
+—
+.
+=
+.
+× 0.062 =
+.
+10.
+Tier 1 Employee Medicare Tax— 
+Compensation  
+(Form CT-1, line 5)
+.
+—
+.
+=
+.
+× 0.0145 =
+.
+11.
+Tier 1 Employee Additional 
+Medicare Tax—Compensation 
+(other than sick pay) (Form CT-1, 
+line 6)
+.
+—
+.
+=
+.
+× 0.009* =
+.
+*Certain compensation reported in Column 3 shouldn't be multiplied by 0.009. See instructions.
+12.
+Tier 2 Employee Tax— 
+Compensation (Form CT-1, line 7)
+.
+—
+.
+=
+.
+See 
+instructions
+.
+13. 
+Tier 1 Employer Tax—Sick Pay 
+(Form CT-1, line 8)
+.
+—
+.
+=
+.
+× 0.062 =
+.
+14.
+Tier 1 Employer Medicare Tax— 
+Sick Pay (Form CT-1, line 9)
+.
+—
+.
+=
+.
+× 0.0145 =
+.
+15.
+Tier 1 Employee Tax—Sick Pay 
+(Form CT-1, line 10)
+.
+—
+.
+=
+.
+× 0.062
+=
+.
+16.
+Tier 1 Employee Medicare Tax— 
+Sick Pay (Form CT-1, line 11)
+.
+—
+.
+=
+.
+× 0.0145 =
+.
+17.
+Tier 1 Employee Additional 
+Medicare Tax—Sick Pay (Form 
+CT-1, line 12)
+.
+—
+.
+=
+.
+× 0.009* =
+.
+*Certain compensation reported in Column 3 shouldn't be multiplied by 0.009. See instructions.
+18. 
+Tax Adjustments  (Form CT-1, line 
+14)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+19.
+Nonrefundable portion of credit for 
+qualified sick and family leave 
+compensation for leave taken before 
+April 1, 2021 (Form CT-1, line 16)
+.
+—
+.
+=
+.
+See 
+instructions
+.
+20a.
+Nonrefundable portion of 
+employee retention credit* (Form 
+CT-1, line 17a (line 17 for calendar 
+year 2020))
+.
+—
+.
+=
+.
+See 
+instructions
+.
+*Line 20a can only be used if correcting a 2020 or 2021 Form CT-1.
+20b.
+Nonrefundable portion of credit 
+for qualified sick and family leave 
+compensation for leave taken 
+after March 31, 2021, and before 
+October 1, 2021 (Form CT-1, line 
+17b)
+.
+—
+.
+=
+.
+See 
+instructions
+.
+20c.
+Nonrefundable portion of COBRA 
+premium assistance credit* (Form 
+CT-1, line 17c)
+.
+—
+.
+=
+.
+See 
+instructions
+.
+*Line 20c can only be used if correcting a 2021 or 2022 Form CT-1.
+20d.
+Number of individuals provided 
+COBRA premium assistance* 
+(Form CT-1, line 17d)
+—
+=
+*Line 20d can only be used if correcting a 2021 or 2022 Form CT-1.
+21.
+Subtotal. Combine the amounts on lines 6 through 20c of Column 4  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Page 2
+Form CT-1 X (Rev. 3-2023)
+Name
+Employer identification number (EIN)
+–
+Correcting Calendar Year  (YYYY)
+Part 3: 
+Enter the corrections for the calendar year you’re correcting. If any line doesn’t apply, leave it blank. (continued)
+Column 1
+Total corrected 
+amount (for ALL 
+employees)
+—
+Column 2
+Amount originally 
+reported or as 
+previously corrected 
+(for ALL employees)
+=
+Column 3
+Difference 
+(If this amount is a 
+negative number, 
+use a minus sign.)
+Column 4
+Tax correction
+22.
+Deferred amount of the Tier 1 
+Employer Tax* (Form CT-1, line 21)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+*Line 22 can only be used if correcting a 2020 Form CT-1.
+23.
+Deferred amount of the Tier 1 
+Employee Tax* (Form CT-1, line 22)
+.
+—
+.
+=
+.
+See 
+instructions
+.
+*Line 23 can only be used if correcting a 2020 Form CT-1.
+24.
+Refundable portion of credit for 
+qualified sick and family leave 
+compensation for leave taken 
+before April 1, 2021 (Form CT-1, 
+line 23)
+.
+—
+.
+=
+.
+See 
+instructions
+.
+25a. 
+Refundable portion of employee 
+retention credit*  (Form CT-1, line 
+24a (line 24 for calendar year 2020))
+.
+—
+.
+=
+.
+See  
+instructions
+.
+*Line 25a can only be used if correcting a 2020 or 2021 Form CT-1.
+25b. 
+Refundable portion of credit for 
+qualified sick and family leave 
+compensation for leave taken 
+after March 31, 2021, and before 
+October 1, 2021 (Form CT-1, line 
+24b)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+25c. 
+Refundable portion of COBRA 
+premium assistance credit* (Form 
+CT-1, line 24c)
+.
+—
+.
+=
+.
+See  
+instructions
+.
+*Line 25c can only be used if correcting a 2021 or 2022 Form CT-1.
+26.
+Total. Combine the amount on lines 21 through 25c of Column 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If line 26 is less than zero:
+• If you checked line 1, this is the amount you want applied as a credit to your Form CT-1 for the tax period in which you’re  
+filing this form.
+• If you checked line 2, this is the amount you want refunded or abated.
+If line 26 is more than zero, this is the amount you owe. Pay this amount by the time you file this return. For information on
+how to pay, see Amount you owe in the instructions for line 26.
+27.
+Qualified sick leave 
+compensation for leave taken 
+before April 1, 2021 (Form CT-1, 
+line 30)
+.
+—
+.
+=
+.
+28. 
+ 
+Qualified health plan expenses 
+allocable to qualified sick leave 
+compensation for leave taken 
+before April 1, 2021  (Form CT-1, 
+line 31)
+.
+—
+.
+=
+.
+29. 
+Qualified family leave 
+compensation for leave taken 
+before April 1, 2021 (Form CT-1, 
+line 32)
+.
+—
+.
+=
+.
+30.
+Qualified health plan expenses 
+allocable to qualified family leave 
+compensation for leave taken 
+before April 1, 2021 (Form CT-1, 
+line 33)
+.
+—
+.
+=
+.
+31. 
+Qualified compensation for the 
+employee retention credit* (Form 
+CT-1, line 34)
+.
+—
+.
+=
+.
+*Line 31 can only be used if correcting a 2020 or 2021 Form CT-1.
+32. 
+Qualified health plan expenses  
+for the employee retention credit* 
+(Form CT-1, line 35)
+.
+—
+.
+=
+.
+*Line 32 can only be used if correcting a 2020 or 2021 Form CT-1.
+Page 3
+Form CT-1 X (Rev. 3-2023)
+Name
+Employer identification number (EIN)
+–
+Correcting Calendar Year  (YYYY)
+Part 3: 
+Enter the corrections for the calendar year you’re correcting. If any line doesn’t apply, leave it blank. (continued)
+Caution: Lines 33-40 don’t apply to years beginning before January 1, 2021.
+Column 1
+Total corrected 
+amount (for ALL 
+employees)
+—
+Column 2
+Amount originally 
+reported or as 
+previously corrected 
+(for ALL employees)
+=
+Column 3
+Difference 
+(If this amount is a 
+negative number, 
+use a minus sign.)
+33. 
+Qualified sick leave compensation 
+for leave taken after March 31, 
+2021, and before October 1, 2021 
+(Form CT-1, line 36)
+.
+—
+.
+=
+.
+34. 
+ 
+Qualified health plan expenses 
+allocable to qualified sick leave 
+compensation for leave taken 
+after March 31, 2021, and before 
+October 1, 2021 (Form CT-1, line 
+37)
+.
+—
+.
+=
+.
+35. 
+ 
+Amounts under certain collectively 
+bargained agreements allocable to 
+qualified sick leave compensation 
+for leave taken after March 31, 
+2021, and before October 1, 2021 
+(Form CT-1, line 38)
+.
+—
+.
+=
+.
+36. 
+Qualified family leave 
+compensation for leave taken after 
+March 31, 2021, and before 
+October 1, 2021 (Form CT-1, line 39)
+.
+—
+.
+=
+.
+37. 
+ 
+Qualified health plan expenses 
+allocable to qualified family leave 
+compensation for leave taken after 
+March 31, 2021, and before 
+October 1, 2021 (Form CT-1, line 40)
+.
+—
+.
+=
+.
+38. 
+ 
+Amounts under certain collectively 
+bargained agreements allocable to 
+qualified family leave 
+compensation for leave taken after 
+March 31, 2021, and before 
+October 1, 2021 (Form CT-1, line 41)
+.
+—
+.
+=
+.
+39. 
+ 
+If you’re eligible for the employee 
+retention credit in the third 
+quarter of 2021 solely because 
+your business is a recovery 
+startup business, enter the total 
+of any amounts included on Form 
+CT-1, lines 17a and 24a (or, if 
+corrected, Form CT-1 X, lines 20a 
+and 25a), for the third quarter of 
+2021* (Form CT-1, line 42)
+.
+—
+.
+=
+.
+*Line 39 can only be used if correcting a 2021 Form CT-1.
+40. 
+ 
+If you’re eligible for the employee 
+retention credit in the fourth 
+quarter of 2021 solely because 
+your business is a recovery 
+startup business, enter the total 
+of any amounts included on Form 
+CT-1, lines 17a and 24a (or, if 
+corrected, Form CT-1 X, lines 20a 
+and 25a), for the fourth quarter of 
+2021* (Form CT-1, line 43)
+.
+—
+.
+=
+.
+*Line 40 can only be used if correcting a 2021 Form CT-1.
+Page 4
+Form CT-1 X (Rev. 3-2023)
+Name
+Employer identification number (EIN)
+–
+Correcting Calendar Year  (YYYY)
+Part 4: 
+Explain your corrections for the calendar year you’re correcting.
+41. 
+Check here if any corrections you entered on a line include both underreported and overreported amounts.  
+Explain both your underreported and overreported amounts on line 43.
+42.
+Check here if any corrections involve reclassified workers. Explain on line 43.
+43.
+You must give us a detailed explanation for how you determined your corrections.  See the instructions.
+Part 5:
+Sign here. You must complete all five pages of this form and sign it.
+Under penalties of perjury, I declare that I have filed an original Form CT-1 and that I have examined this adjusted return or claim, including any 
+accompanying schedules and statements, and to the best of my knowledge and belief, it is true, correct, and complete. Declaration of preparer (other than 
+taxpayer) is based on all information of which preparer has any knowledge.
+Sign your 
+name here
+Date
+/       /
+Print your 
+name here
+Print your 
+title here
+Best daytime phone
+Paid Preparer Use Only
+Check if you’re self-employed
+.
+.
+.
+.
+.
+.
+.
+. 
+Preparer’s name
+PTIN
+Preparer’s signature
+Date
+/       /
+Firm’s name (or yours if 
+self-employed)
+EIN
+Address
+Phone
+City
+State
+ZIP code
+Page 5
+Form CT-1 X (Rev. 3-2023)
+Form CT-1 X: Which process should you use?
+Type of errors 
+you’re 
+correcting
+Unless otherwise specified in the separate instructions, an underreported employment tax credit or Tier 1 tax 
+deferral should be treated like an overreported tax amount. An overreported employment tax credit or Tier 1 tax 
+deferral should be treated like an underreported tax amount. For more information, including which process to 
+select on lines 1 and 2, see Correcting an employment tax credit or Tier 1 tax deferral in the separate instructions.
+Underreported 
+tax amounts  
+ONLY
+Use the adjustment process to correct underreported tax amounts.
+• Check the box on line 1.
+• Pay the amount you owe from line 26 by the time you file Form CT-1 X.
+Overreported 
+tax amounts  
+ONLY
+The process you 
+use depends on 
+when you file 
+Form CT-1 X.
+If you’re filing Form CT-1 X 
+MORE THAN 90 days before 
+the period of limitations on 
+credit or refund for Form 
+CT-1 expires. . .
+Choose either the adjustment process or the claim 
+process to correct the overreported tax amounts.
+Choose the adjustment process if you want the 
+amount shown on line 26 credited to your Form 
+CT-1 for the period in which you file Form CT-1 X. 
+Check the box on line 1.
+OR
+Choose the claim process if you want the amount 
+shown on line 26 refunded to you or abated. Check 
+the box on line 2.
+If you’re filing Form CT-1 X 
+WITHIN 90 days of the 
+expiration of the period of 
+limitations on credit or refund 
+for Form CT-1. . .
+You must use the claim process to correct the 
+overreported tax amounts. Check the box on line 2.
+BOTH 
+underreported 
+and 
+overreported 
+tax amounts 
+The process you 
+use depends on 
+when you file 
+Form CT-1 X.
+If you’re filing Form CT-1 X 
+MORE THAN 90 days before 
+the period of limitations on 
+credit or refund for Form CT-1 
+expires. . .
+Choose either the adjustment process or both the 
+adjustment process and the claim process when 
+you correct both underreported and overreported 
+tax amounts.
+Choose the adjustment process if combining 
+your underreported tax amounts and overreported 
+tax amounts results in a balance due or creates a 
+credit that you want applied to Form CT-1.
+• File one Form CT-1 X, and 
+• Check the box on line 1 and follow the instructions 
+on line 26.
+OR
+Choose both the adjustment process and the claim 
+process if you want the overreported tax amount 
+refunded to you or abated.
+File two separate forms.
+1. For the adjustment process, file one Form  
+CT-1 X to correct the underreported tax amounts. 
+Check the box on line 1. Pay the amount you  
+owe from line 26 by the time you file Form CT-1 X.
+2. For the claim process, file a second Form  
+CT-1 X to correct the overreported tax amounts.  
+Check the box on line 2.
+If you’re filing Form CT-1 X 
+WITHIN 90 days of the 
+expiration of the period of 
+limitations on credit or refund 
+for Form CT-1. . .
+You must use both the adjustment process and 
+the claim process.
+File two separate forms.
+1. For the adjustment process, file one Form  
+CT-1 X to correct the underreported tax amounts. 
+Check the box on line 1. Pay the amount you owe 
+from line 26 by the time you file Form CT-1 X.
+2. For the claim process, file a second Form  
+CT-1 X to correct the overreported tax amounts.  
+Check the box on line 2.
+Page 6
+Form CT-1 X (Rev. 3-2023)

@@ -1,0 +1,814 @@
+Form 1120-SF
+(Rev. November 2018)
+Department of the Treasury  
+Internal Revenue Service
+U.S. Income Tax Return for Settlement Funds  
+(Under Section 468B)
+▶ Go to www.irs.gov/Form1120SF for instructions and the latest information.
+For calendar year 20
+OMB No. 1545-0123
+Please Type or Print
+Name of fund
+Employer identification number of fund (see instructions)
+Number, street, and room or suite no. (If a P.O. box, see instructions.)
+City or town, state or province, country, and ZIP or foreign postal code
+Name and address of administrator (see instructions for definition) 
+Check applicable boxes:
+(1)
+Final return
+(2)
+Name change
+(3)
+Address change
+(4)
+Amended return
+Part I
+Income and Deductions (see instructions) 
+Income
+1
+Taxable interest 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Dividends 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Capital gain net income (attach Schedule D (Form 1120)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Items of income or gain from a partnership interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Other income (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Gross income. Add lines 1 through 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Deductions
+7
+Trustee/administrator fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Taxes .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Accounting and legal services (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+10
+Notification of claimants and claim processing expenses .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11
+Other deductions (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+12
+Net operating loss deduction .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Total deductions. Add lines 7 through 12 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+Part II
+Tax Computation (see instructions) 
+14
+Modified gross income. Subtract line 13 from line 6 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Total tax. Multiply the amount on line 14 by 37% (0.37)  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+16
+Credits and payments:
+a Overpayment from prior year allowed as 
+a credit 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16a
+b
+Current year estimated tax payments 
+.
+16b
+c Refund 
+of 
+overpaid 
+estimated 
+tax 
+applied for on Form 4466 
+.
+.
+.
+.
+.
+16c
+d
+Subtract line 16c from the total of lines 16a and 16b 
+.
+.
+.
+.
+16d
+e
+Tax deposited with Form 7004 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16e
+f
+Total credits and payments (add lines 16d and 16e) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16f
+17
+Estimated tax penalty. See instructions. Check if Form 2220 is attached .
+.
+.
+.
+ ▶
+17
+18
+Tax due. If the total of lines 15 and 17 is more than line 16f, enter amount owed .
+.
+.
+18
+19
+Overpayment. If line 16f is more than the total of lines 15 and 17, enter amount overpaid 
+19
+20
+Enter amount of line 19 you want:  Credited to next year’s estimated tax ▶
+Refunded ▶ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true, 
+correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+▲
+Signature of fund administrator
+Date
+▲
+Title
+May the IRS discuss this return 
+with the preparer shown below? 
+See instructions.
+Yes
+No
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name     ▶
+Firm’s address ▶
+Firm’s EIN ▶
+Phone no. 
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 14989I
+Form 1120-SF (Rev. 11-2018) 
+Form 1120-SF (Rev. 11-2018)
+Page 2 
+Schedule L
+Balance Sheets
+(a) Beginning of year
+(b) End of year
+Assets
+     
+     
+1
+Cash 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+U.S. Government obligations 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+State and local government obligations .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Other investments (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Other assets (attach statement) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Total assets. Add lines 1 through 5 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+Liabilities and Fund Balance
+7
+Liabilities .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Fund balance 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8
+9
+Total. Add lines 7 and 8 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Additional Information
+Yes
+No
+1 a Enter the amount of cash and the fair market value of property, valued at the date of the transfer, 
+transferred to the fund during the tax year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+b For transfers of property included on line 1a, attach a copy of each qualified appraisal and the statements received
+from a transferor under Regulations sections 1.468B-3(b) and 1.468B-3(e). 
+c
+Were amounts transferred to the fund during the tax year by a person other than a transferor? .
+.
+.
+.
+.
+.
+▶
+2
+Enter the amount of tax-exempt interest received or accrued during the tax year 
+.
+.
+.
+.
+.
+$
+3a
+Were direct and indirect distributions made to claimants during the tax year?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+b
+If “Yes,” enter the amount of the total distributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+4 a Did the fund make any distributions (including deemed distributions) to a transferor or related party during the tax 
+year?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+▶
+b If “Yes,” enter the amount of the total distributions and attach a statement showing the name, 
+identifying number, and the amount of distributions to each transferor or related party 
+.
+.
+.
+$
+5a
+Check the type of liability (or liabilities) for which the fund was established.
+Tort
+Breach of Contract
+Violation of Law
+CERCLA
+Other
+b If “Other” is checked, enter the percent (by value) of the assets of the fund that are allocated to the 
+“Other” liability .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+. ▶
+%
+Attach a statement describing the type of liability (or liabilities).
+6 
+If the fund was established by a court order, enter the Court Order Number under which the fund 
+was established .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form 1120-SF (Rev. 11-2018) 

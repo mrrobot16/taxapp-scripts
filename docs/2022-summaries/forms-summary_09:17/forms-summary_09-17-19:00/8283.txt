@@ -1,0 +1,15 @@
+Form 8283 is a document provided by the Internal Revenue Service (IRS) for taxpayers to report noncash charitable contributions. Taxpayers must attach one or more Forms 8283 to their tax return if they claimed a total deduction of over $500 for all contributed property.
+
+The form is divided into several sections. In Section A, taxpayers list donated property of $5,000 or less and publicly traded securities. They provide information such as the name and address of the donee organization, description and condition of the donated property, date of contribution, date acquired by the donor, donor's cost or adjusted basis, and fair market value.
+
+In Section B, taxpayers report donated property over $5,000 (except publicly traded securities, vehicles, intellectual property, or inventory reportable in Section A). They indicate the type of property donated and provide details such as description, appraised fair market value, date acquired by the donor, how acquired by the donor, donor's cost or adjusted basis, amount received for bargain sales, amount claimed as a deduction, and date of contribution.
+
+Part II of Section B is for partial interests and restricted use property (other than qualified conservation contributions). Taxpayers complete this section if they gave less than an entire interest in a property or if conditions were placed on a contribution. They provide information about the property, the amount claimed as a deduction, the name and address of the organization to which the contribution was made in a prior year, the location of tangible property, and the name of any person in possession of the property.
+
+Part III is a taxpayer statement where taxpayers declare items with an appraised value of $500 or less included in Section B, Part I.
+
+Part IV is a declaration of the appraiser, stating their qualifications and affirming that the appraisal was not based on a percentage of the appraised property value.
+
+Part V is the donee acknowledgment, where the charitable organization acknowledges receipt of the donated property and affirms its status as a qualified organization. The organization also confirms its intention to file Form 8282 if it sells, exchanges, or disposes of the property within three years.
+
+This summary provides an overview of the information required on Form 8283. Taxpayers should refer to the instructions provided by the IRS for detailed guidance and the latest information.

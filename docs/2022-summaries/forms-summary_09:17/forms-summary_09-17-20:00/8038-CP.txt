@@ -1,0 +1,329 @@
+Form 8038-CP
+(Rev. January 2022)
+Return for Credit Payments 
+to Issuers of Qualified Bonds
+Department of the Treasury 
+Internal Revenue Service
+  ▶ Go to www.irs.gov/Form8038CP for instructions and the latest information.
+OMB No. 1545-0047
+Check if Amended Return (see instructions) ▶
+Part I
+Information on Entity That Is To Receive Payment
+1    Name of entity that is to receive payment of the credit
+2    Employer identification number (EIN)
+3    Number and street (or P.O. box no. if mail is not delivered to street address)
+Room/suite
+4    City, town, or post office; state; and ZIP code
+5    Name and title of designated contact person whom the IRS may contact for more information
+6    Telephone number of contact person shown on line 5
+Part II
+Reporting Authority
+7    Issuer’s name (if same as line 1, enter “SAME” and skip lines 8, 9, 11, 15, and 16)
+8    EIN
+9    Number and street (or P.O. box no. if mail is not delivered to street address)
+Room/suite
+10    Report number (see instructions)
+11    City, town, or post office; state; and ZIP code
+12    Date of issue (MM/DD/YYYY)
+13    Name of issue
+14    CUSIP number (see instructions)
+15    Name and title of officer or other person whom the IRS may contact for more information
+16     Telephone number of contact person shown on line 15
+17a
+Check applicable box (see instructions) ▶
+Variable rate bond
+Fixed rate bond
+b
+Enter the issue price ▶
+17b
+c
+Enter code number for type of bonds (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Part III
+Payment of Credit  (For specified tax credit bonds with multiple maturities, see instructions.)
+18
+Interest payment date to which this payment of credit relates (MM/DD/YYYY)
+19a
+Interest payable to bondholders on the interest payment date. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19a
+b
+For specified tax credit bonds only, enter the applicable credit rate determined under sec. 54A(b)(3)
+.
+%
+c
+For specified tax credit bonds only, complete Schedule A and enter amount from Schedule A, line 3
+.
+.
+.
+19c
+20
+Amount of credit allowed for the interest payment date (complete only line 20a, 20b, 20c, 20d, 20e, or 20f)
+a
+Build America bonds. Multiply line 19a by 35% (0.35) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20a
+b
+Recovery zone economic development bonds. Multiply line 19a by 45% (0.45) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20b
+c
+New clean renewable energy bonds, enter the smaller of lines 19a or 19c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20c
+d
+Qualified energy conservation bonds, enter the smaller of lines 19a or 19c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20d
+e
+Qualified zone academy bonds, enter the smaller of lines 19a or 19c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20e
+f
+Qualified school construction bonds, enter the smaller of lines 19a or 19c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+20f
+21
+Adjustment to previous credit payments (complete line 21a OR line 21b only):
+a
+Net increase to previous payments  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21a
+b
+Net decrease to previous payments 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21b
+c
+Enter explanation code for lines 21a or 21b (see instructions) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22
+Amount of credit payment requested. Combine either line 20a, 20b, 20c, 20d, 20e, or 20f with line 21a or line 21b
+.
+22
+23a
+Has there been a change to the debt service schedule most recently filed with the IRS?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+b
+If “Yes,” enter the explanation code and attach the revised debt service schedule (see instructions)
+24a
+Have you paid or will you pay all the interest from line 19a on or before the date from line 18? See instructions
+.
+.
+.
+Yes
+No
+b
+If “No,” enter the explanation code (see instructions).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25
+Is this return submitted for the final interest payment date for the bonds? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+Direct 
+Deposit
+26
+Enter direct deposit information below:
+a 
+Routing number
+▶ b Type:
+Checking
+Savings
+c 
+Account number
+Signature 
+and 
+Consent
+Under penalties of perjury, I declare that I have examined this return, and accompanying schedules and statements, and to the best of my knowledge 
+and belief, they are true, correct, and complete. I further declare that I authorize the IRS to send the requested refundable credit payment to the entity 
+identified in Part I, and I consent to the disclosure of the issuer’s return information, as necessary to process the refundable credit payment, to the 
+designated contact person(s) listed above in Parts I and II, as applicable.
+▲
+Signature of issuer
+Date
+▶
+Type or print name and title
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name      ▶
+Firm’s EIN  ▶
+Firm’s address  ▶
+Phone no.
+For Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 52810E
+Form 8038-CP (Rev. 1-2022)
+Verify & Print Form

@@ -1,0 +1,16 @@
+Form 8839 is a document provided by the Internal Revenue Service (IRS) for taxpayers to report qualified adoption expenses and claim the adoption credit or exclusion. The form is to be attached to Form 1040, 1040-SR, or 1040-NR.
+
+The form is divided into three parts:
+
+Part I: Information About Your Eligible Child or Children
+This section requires the taxpayer to provide details about each eligible child, including their name, year of birth, whether they were born before 2005 and disabled, a child with special needs, or a foreign child. The taxpayer must also indicate if the adoption became final in 2022 or earlier.
+
+Part II: Adoption Credit
+This section calculates the adoption credit per child. The maximum adoption credit per child for 2022 is $14,890. The taxpayer must enter the amount of adoption credit claimed for each child and subtract any credit claimed in prior years.
+
+Part III: Employer-Provided Adoption Benefits
+This section calculates the exclusion for employer-provided adoption benefits. The maximum exclusion per child for 2022 is also $14,890. The taxpayer must enter the amount of employer-provided adoption benefits received in 2022 and subtract any benefits received in prior years.
+
+The form also includes worksheets to calculate modified adjusted gross income and determine if the taxpayer is eligible for the adoption credit or exclusion based on income thresholds.
+
+Overall, Form 8839 is used to report and calculate the adoption credit or exclusion for qualified adoption expenses incurred by the taxpayer.

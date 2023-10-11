@@ -1,0 +1,21 @@
+Form W-12 is an application form used by tax preparers in the United States to obtain or renew their Paid Preparer Tax Identification Number (PTIN). The form is issued by the Internal Revenue Service (IRS) and must be completed accurately and truthfully. 
+
+The form consists of several sections that require the tax preparer to provide personal information, such as their name, PTIN, Social Security Number (SSN), date of birth, mailing address, and phone number. The tax preparer is also required to provide their business mailing address and phone number if different from their personal information. 
+
+If the tax preparer is self-employed or owns a tax return preparation business, they must provide their business name, CAF Number, EIN, and website address (optional). An email address for contact purposes is also required. 
+
+The tax preparer must indicate whether they have been convicted of a felony in the past 10 years and provide an explanation if applicable. They are also required to provide the address used on their last U.S. individual income tax return filed and indicate their filing status and tax year on that return. 
+
+The tax preparer must confirm their federal tax compliance status, indicating whether they are current on both their individual and business federal taxes. If not, an explanation is required. 
+
+The tax preparer must acknowledge their awareness of the data security responsibilities for paid tax return preparers, which include having a data security plan to protect taxpayer information. 
+
+The tax preparer has the option to indicate any professional credentials they hold, such as being an attorney, Certified Public Accountant (CPA), Enrolled Agent (EA), Enrolled Actuary, Enrolled Retirement Plan Agent (ERPA), or State Regulated Tax Return Preparer. They must provide the necessary licensing information for each credential. 
+
+The tax preparer must include the application processing fee with their form, payable to the IRS Tax Pro PTIN Fee. The fee amount varies depending on the calendar year being registered or renewed. The current fee for 2023 is $30.75. 
+
+The tax preparer must sign the form under penalties of perjury, declaring that the information provided is true, correct, and complete. 
+
+The form can be filed online through the IRS website or by mail. If filed online, the PTIN is generally provided immediately upon completion of the application. If filed by mail, processing may take 4 to 6 weeks. 
+
+The form includes instructions for completing and filing it, which should be referred to for additional guidance.

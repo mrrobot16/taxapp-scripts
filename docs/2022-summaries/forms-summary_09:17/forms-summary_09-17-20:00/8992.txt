@@ -1,0 +1,157 @@
+Form 8992
+(Rev. December 2022)
+Department of the Treasury 
+Internal Revenue Service
+U.S. Shareholder Calculation of Global Intangible        
+Low-Taxed Income (GILTI)
+Go to www.irs.gov/Form8992 for instructions and the latest information.
+OMB No. 1545-0123
+Attachment 
+Sequence No. 992
+Name of person filing this return
+A   Identifying number
+Name of U.S. shareholder
+B   Identifying number
+Part I
+Net Controlled Foreign Corporation (CFC) Tested Income
+1
+Sum of Pro Rata Share of Net Tested Income
+If the U.S. shareholder is not a member of a U.S. consolidated group, enter the total 
+from Schedule A (Form 8992), line 1, column (e).
+If the U.S. shareholder is a member of a U.S. consolidated group, enter the amount 
+from Schedule B (Form 8992), Part II, column (c), that pertains to the U.S. shareholder.}
+.
+.
+.
+.
+.
+1
+2
+Sum of Pro Rata Share of Net Tested Loss
+If the U.S. shareholder is not a member of a U.S. consolidated group, enter the total 
+from Schedule A (Form 8992), line 1, column (f).
+If the U.S. shareholder is a member of a U.S. consolidated group, enter the amount 
+from Schedule B (Form 8992), Part II, column (f), that pertains to the U.S. shareholder. }
+.
+.
+.
+.
+.
+2
+(                          ) 
+3
+Net CFC Tested Income. Combine lines 1 and 2. If zero or less, stop here 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Part II
+Calculation of Global Intangible Low-Taxed Income (GILTI)
+1
+Net CFC Tested Income. Enter amount from Part I, line 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Deemed Tangible Income Return (DTIR)
+If the U.S. shareholder is not a member of a U.S. consolidated group, multiply the
+total from Schedule A (Form 8992), line 1, column (g), by 10% (0.10).
+If the U.S. shareholder is a member of a U.S. consolidated group, enter the amount 
+from Schedule B (Form 8992), Part II, column (i), that pertains to the U.S. shareholder.}
+.
+.
+.
+.
+.
+2
+3 a
+Sum of Pro Rata Share of Tested Interest Expense
+If the U.S. shareholder is not a member of a U.S. consolidated 
+group, enter the total from Schedule A (Form 8992), line 1, 
+column (j).
+If the U.S. shareholder is a member of a U.S. consolidated 
+group, leave line 3a blank.
+}
+.
+.
+.
+.
+3a
+b Sum of Pro Rata Share of Tested Interest Income
+If the U.S. shareholder is not a member of a U.S. consolidated 
+group, enter the total from Schedule A (Form 8992), line 1, 
+column (i).
+If the U.S. shareholder is a member of a U.S. consolidated 
+group, leave line 3b blank.
+}
+.
+.
+.
+.
+3b
+c
+Specified Interest Expense
+If the U.S. shareholder is not a member of a U.S. consolidated group, subtract line
+3b from line 3a. If zero or less, enter -0-.
+If the U.S. shareholder is a member of a U.S. consolidated group, enter the amount 
+from Schedule B (Form 8992), Part II, column (m), that pertains to the U.S. shareholder. }
+.
+.
+.
+.
+.
+3c
+4
+Net DTIR. Subtract line 3c from line 2. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+GILTI. Subtract line 4 from line 1. If zero or less, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 37816Y
+Form 8992 (Rev. 12-2022)

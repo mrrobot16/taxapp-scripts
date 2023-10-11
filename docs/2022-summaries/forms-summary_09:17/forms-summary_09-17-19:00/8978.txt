@@ -1,0 +1,11 @@
+Form 8978 is a document provided by the Internal Revenue Service (IRS) for additional reporting of taxes by partners. It is used to report adjustments made during a review year, either as a result of a Bipartisan Budget Act (BBA) audit or an Administrative Adjustment Request (AAR) filing. 
+
+The form is divided into three parts. 
+
+Part I is used to compute the additional reporting year tax. It includes sections for entering the tax year ended for four different years, the total income per original return or previous adjustments, adjustments to income from Schedule A, and deductions from Schedule A. The form provides instructions on how to combine the lines and calculate corrected income and deductions. It also includes sections for calculating corrected taxable income, income tax, alternative minimum tax, and total corrected income tax. 
+
+Part II is used to report any penalties incurred. It includes a section for entering the penalties and calculating the total penalties. 
+
+Part III is used to report any interest incurred. It includes a section for entering the interest and calculating the total interest. 
+
+The form provides instructions and directs individuals to visit the IRS website for further information and the latest updates.

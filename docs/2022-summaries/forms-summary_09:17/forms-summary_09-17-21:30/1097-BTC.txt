@@ -1,0 +1,13 @@
+Form 1097-BTC is a tax form used by issuers of certain tax credit bonds or their agents, as well as recipients of Form 1097-BTC who are distributing the credit to others. The form is divided into three copies: Copy A is filed with Form 1096 and sent to the IRS, Copy B is furnished to the recipient, and Copy C is for the payer's records.
+
+The form requires the issuer's name, address, and telephone number, as well as their taxpayer identification number (TIN). It also requires the recipient's TIN, name, and address. The issuer must indicate whether they are the issuer of the bond or its agent, or if they received the form and are distributing the credit to others.
+
+The form includes boxes to report the total amount of credit allowed for the calendar year, as well as monthly amounts for each month of the year. There is also a space for any additional comments.
+
+The instructions for the recipient state that the form is important tax information and must be furnished to the IRS. It warns that claiming an amount of tax credit exceeding the amount reported on the form may result in penalties or sanctions. The recipient's TIN is partially redacted for privacy, but the complete TIN is reported to the IRS by the issuer.
+
+The instructions also provide details on how to interpret the information on the form, including the meaning of the checkboxes, codes, and unique identifiers. It explains that the first three quarters reported on the annual report are duplicative amounts previously reported and can only be claimed once. It also provides information on limitations and restrictions for claiming the tax credit.
+
+The instructions for the payer explain how to complete the form and furnish it to the recipient. It provides guidance on when and how to report the credit amounts, including quarterly and annual reporting. It also provides information on filing electronically and where to find additional help and resources.
+
+Overall, Form 1097-BTC is a tax form used by issuers and recipients of certain tax credit bonds to report and distribute tax credits. It provides important information for both the IRS and the recipients of the credits.

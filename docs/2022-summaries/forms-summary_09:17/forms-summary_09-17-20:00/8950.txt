@@ -1,0 +1,254 @@
+Form 8950 is filed electronically only on Pay.gov. 
+Go to www.irs.gov/form8950 for additional filing information.
+Form   8950
+(Rev. November 2017)
+Department of the Treasury  
+Internal Revenue Service 
+Application for Voluntary          
+Correction Program (VCP)
+Under the Employee Plans Compliance Resolution System (EPCRS)
+▶ Go to www.irs.gov/Form8950 for instructions and the latest information.
+OMB No. 1545-1673
+For IRS Use Only
+Review the attached Procedural Requirements Checklist before mailing this VCP submission to the IRS. 
+1a Name of plan sponsor (employer if single-employer plan) 
+1b Address of plan sponsor (if a P.O. box, see instructions) 
+1c City or town 
+1d State 
+1e ZIP code 
+1f Foreign country name 
+1g Foreign province/county 
+1h Foreign postal code 
+1i Employer identification number 
+1j Telephone number 
+1k Fax number 
+1l NAICS Business Code
+2a Person to contact if more information is needed (see instructions).
+(If a Power of Attorney is attached, check box and do not complete lines 2a through 2g.)
+Name
+2b Address
+2c City or town 
+2d State 
+2e ZIP code 
+2f Telephone number 
+2g Fax number 
+If more space is needed for any line items, attach additional sheets of the same size as this form. Identify each additional sheet with 
+the plan sponsor’s name and EIN and identify the corresponding line item. 
+Under penalties of perjury, I declare that I have examined this VCP submission, including Form 8950 and all accompanying 
+documents, and, to the best of my knowledge and belief, they and the facts presented in support of this application and submission 
+are true, correct, and complete. 
+SIGN HERE ▶
+Date ▶
+This application must generally be signed by the owner of a sole proprietor or by 
+an officer with legal authority to bind a corporation, partnership, or organization. 
+For exceptions, see instructions under Who Must Sign.
+Type or print name 
+Type or print title 
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 37769K
+Form 8950 (Rev. 11-2017)
+Form 8950 (Rev. 11-2017)
+Page 2
+3
+Type of VCP submission (see instructions) 
+Check one:
+VCP regular submission
+VCP anonymous submission
+VCP group submission
+Non-VCP 457(b) submission (see instructions)
+4a Name of plan:
+4b Enter 3-digit plan number  
+(see instructions)
+4c Enter month plan year ends 
+(MM) (see instructions)
+4d Enter the dollar value of the  
+plan’s assets (see instructions)
+4e Enter number of participants 
+(see instructions)
+5
+Indicate type of plan by entering the corresponding number from the list below:
+(Enter only one plan type.)
+01-Profit sharing (not 401(k))
+02-401(k)
+14-Stock bonus
+03-Money purchase
+06-Target benefit
+04-Defined benefit (not cash balance or 
+other statutory hybrid)
+09-Cash balance or other statutory hybrid
+05-ESOP
+15-KSOP
+07-403(b)
+08-457(b)
+10-Governmental 414(d) defined benefit 
+20-Governmental 414(d) defined contribution
+11-SEP
+12-SARSEP
+13-SIMPLE IRA
+16-Group submission defined contribution
+17-Group submission defined benefit
+99-Other (see instructions)
+Form 8950 (Rev. 11-2017)
+Form 8950 (Rev. 11-2017)
+Page 3
+Yes 
+No 
+6
+Are all qualification failures and correction methods in this VCP submission being resolved by the use of 
+schedules specified on Forms 14568-A through 14568-I?
+If “Yes,” please indicate the specific schedules you are submitting.
+Form 14568-A, Sch 1
+Form 14568-B, Sch 2
+Form 14568-C, Sch 3
+Form 14568-D, Sch 4
+Form 14568-E, Sch 5
+Form 14568-F, Sch 6
+Form 14568-G, Sch 7
+Form 14568-H, Sch 8
+Form 14568-I, Sch 9
+7
+If you are proposing to correct any section 401(a) or section 403(b) qualification failure, does the correction 
+include a retroactive plan amendment? See instructions.
+8
+Has the plan or plan sponsor been party to an abusive tax avoidance transaction? See instructions.
+If “Yes,” attach an explanation that provides details of the transaction (see instructions). 
+9
+Does the VCP submission relate to the diversion or misuse of plan assets? See instructions.
+10
+As of the date this VCP submission is mailed to the IRS, is the plan sponsor or the plan under examination?   
+ 
+If “Yes,” you are ineligible for VCP (see instructions). 
+11
+Have you previously filed a Form 5300 series determination letter application for this plan with the IRS that was 
+subsequently closed or withdrawn as a result of a failure to respond to a request for additional information?
+If “Yes,” attach an explanation (see instructions).
+Form 8950 (Rev. 11-2017)
+Form 8950 (Rev. 11-2017)
+Page 4
+Procedural Requirements Checklist
+You do not have to use this checklist, but it may help prevent delayed IRS processing caused by an incomplete submission.
+1
+Is Form 8951, User Fee for Application for Voluntary Correction Program (VCP), under the Employee Plans Compliance 
+Resolution System (EPCRS), attached to Form 8950?
+2
+Is the appropriate user fee for your submission (and a photocopy of the user fee check) attached to Form 8951?
+3
+If appropriate, is Form 2848, Power of Attorney and Declaration of Representative, and/or Form 8821, Tax Information 
+Authorization, attached? For more information, see the annual Employee Plans revenue procedure in effect at the time of 
+the submission.
+4
+Is the employer identification number (EIN) of the plan sponsor/employer (NOT the trust's EIN, or an individual's SSN) 
+entered on line 1i? See Line 1i in the instructions.
+5
+Is the application signed and dated? It generally must be signed by an authorized employee or the owner of the plan 
+sponsor. See Who Must Sign in the instructions for situations where the signer may be a different person.
+6
+If you are submitting Form 14568, Model VCP Compliance Statement, or any model document schedules using Forms 
+14568-A through 14568-I, have you used the latest official versions of these forms that are located at www.irs.gov/
+Retirement-Plans/Correcting-Plan-Errors? The forms may not be modified in any way. See instructions.
+7
+If you answered “Yes” to line 7, have you included a copy of each corrective plan amendment?
+8
+If this is an anonymous VCP submission, have you included a signed statement from the plan sponsor's representative 
+indicating the representative has the legal authorization to make this submission and is willing and able to submit Form 
+2848 to the IRS upon disclosure of the taxpayer's identity? See instructions.
+9
+If this VCP submission involves an orphan plan, have you included appropriate documentation that establishes that this 
+submission is being made by an eligible party? See instructions.
+10 Have you included an explanation of how and why the described qualification failures arose? Include a description of the 
+applicable administrative procedures for the plan that were in effect at the time the described failures occurred.
+11 Have you included a complete description for each qualification failure that is to be resolved by this VCP submission? The 
+narrative description should include the years in which the failure occurred and the number of employees affected.
+Note: If you answered “Yes” to line 6, then items 10 through 17 on this checklist do not apply as they have been incorporated into the 
+Form 14568 series (that is, Form 14568 and Forms 14568-A through 14568-I). All applicable items on each of the forms need to be 
+completed, and you must include the enclosure items listed on each applicable form with your VCP submission. The Form 14568 
+series may be used as a Model VCP Submission Compliance Statement. Forms 14568-A through 14568-I can be used to resolve 
+certain qualification failures. If you combine the model document schedules with the Form 14568, you must specify in each section of 
+Form 14568 the specific model schedules that are being submitted in that section.
+Form 8950 (Rev. 11-2017)
+Form 8950 (Rev. 11-2017)
+Page 5
+Procedural Requirements Checklist (Continued)
+12
+Have you included a detailed description of the method for correcting the failures that the plan sponsor has implemented or 
+proposes to implement to correct each failure described in this VCP submission? Each step of the correction method must 
+be described in narrative form and must include specific information needed to support the proposed correction method. 
+See the current EPCRS revenue procedure in effect at the time the submission is made to the IRS.
+13
+Have you included a description of the administrative measures that have been or will be implemented to ensure that each 
+qualification failure described in this VCP submission does not recur? See the current EPCRS revenue procedure in effect 
+at the time the submission is made to the IRS.
+14 For each failure involving corrective contributions or distributions, have you included an explanation that provides a detailed 
+narrative explaining the methodology you have used to determine lost earnings and how this is consistent with EPCRS 
+correction principles? See the current EPCRS revenue procedure in effect at the time the submission is made to the IRS.
+15
+For each failure involving corrective contributions or distributions, have you included detailed and specific calculations for 
+each affected employee or a representative sample of affected employees? The sample calculations must be sufficient to 
+demonstrate each aspect of the proposed correction method. See the current EPCRS revenue procedure in effect at the 
+time the submission is made to the IRS.
+16
+For each failure involving participant loans that does not comply with section 72(p) requirements, have you included:
+• An explanation that contains a detailed description of the failure;
+• An explanation that requests income tax reporting relief, and/or a request to report the distribution on Form 1099-R in 
+the year of correction instead of the year of failure; 
+• For each case in which income tax reporting relief has been requested, detailed calculations and narrative that describe 
+the correction proposal and demonstrate compliance with the requirements set forth in the current EPCRS revenue 
+procedure in effect at the time the submission is made to the IRS?
+17
+For each operational failure that has resulted in certain excise taxes, have you included a request and supporting 
+explanation asking the IRS to waive or not pursue excise tax under section 4972, 4973, 4974, or 4979 or additional income 
+tax under section 72(t), as applicable? Where required, have you included detailed explanations supporting the request? 
+See the current EPCRS revenue procedure in effect at the time the submission is made to the IRS for information as to 
+when such waivers are available.
+18
+Have you included an explanation that describes the method(s) used to locate and notify former employees or 
+beneficiaries? If there are no former employees or beneficiaries affected by the failure described in this VCP submission or 
+the proposed method of correction, have you provided an affirmative statement to that effect? See the current EPCRS 
+revenue procedure in effect at the time the submission is made to the IRS.
+19
+For each failure described in this VCP submission that includes a failure related to transferred assets, as defined in the 
+current EPCRS revenue procedure, have you included an attachment that describes the related employer transaction, 
+including the date of the employer transaction and the date the assets were transferred to the plan? See the current EPCRS 
+revenue procedure in effect at the time the submission is made to the IRS.
+20
+For operational failures, have you included a copy of the plan document (and adoption agreement, if applicable) or 
+applicable provisions of the plan document, that were in effect during the period of failure? See the current EPCRS revenue 
+procedure in effect at the time the submission is made to the IRS.
+Form 8950 (Rev. 11-2017)
+Form 8950 (Rev. 11-2017)
+Page 6
+Procedural Requirements Checklist (Continued)
+21 For each failure described in this VCP submission that includes a non-amender failure other than a late interim amendment, 
+have you included a copy of the plan document in effect prior to any of the amendments used to correct the failure? See 
+the current EPCRS revenue procedure in effect at the time the submission is made to the IRS.
+22 For each failure being corrected by plan amendments or the adoption of a written plan, have you:
+• Included copies of the corrective amendments?
+• Submitted corrective documents that were executed by the plan sponsor (if correcting interim amendment failures or a 
+failure to adopt a written 403(b) plan timely)?
+• Included an explanation that identifies the specific plan language that resolves each specified qualification failure 
+described in the VCP submission (including the page and section of the plan document that includes the specific plan 
+language), if a restated plan document is being submitted as evidence of correction?
+23
+If the plan in this VCP submission is a 403(b) plan, has a written attachment been included that contains the following items?
+• A statement as to the type of employer (for example, a tax-exempt organization described in section 501(c)(3)) that is 
+making the VCP submission; and  
+• A statement indicating that the plan sponsor has contacted all other entities involved with the plan and has been 
+assured of cooperation to the extent necessary to implement the applicable correction.
+24
+If you wish to receive an acknowledgement letter that the IRS has received your Form 8950 and VCP submission, have you 
+included an IRS Letter 5265, Form 8950 Application for Voluntary Correction Program Acknowledgement Letter, with your 
+submission? See the current EPCRS revenue procedure in effect at the time the submission is made to the IRS.
+25
+Have you assembled your submission as described in the current EPCRS revenue procedure in effect at the time the 
+submission is made to the IRS?
+26
+Is this VCP submission limited to a minor modification to a previously issued compliance statement, as described in the 
+current EPCRS revenue procedure in effect at the time the submission is made to the IRS?
+If “Yes,” have you included the following items?
+• An attachment describing the modification;
+• A copy of the original compliance statement;
+• A copy of the original VCP submission;
+• Any other correspondence relating to the issuance of the original compliance statement, if applicable; and
+• An attachment indicating that the modification request is being mailed to the IRS before the end of the correction 
+period specified in the original compliance statement.
+Form 8950 (Rev. 11-2017)

@@ -1,0 +1,11 @@
+Form W-8ECI is a certificate that a foreign person can use to claim that their income is effectively connected with the conduct of a trade or business in the United States. This form should be given to the withholding agent or payer and should not be sent to the IRS.
+
+The form provides instructions for when not to use Form W-8ECI and instead use other forms, such as Form W-8BEN or W-8BEN-E for claiming foreign status or treaty benefits, Form W-8EXP for certain entities, and Form W-8IMY for intermediaries.
+
+The form requires the beneficial owner to provide their name, country of incorporation or organization, type of entity, permanent residence address, business address in the United States, U.S. taxpayer identification number, foreign tax identifying number (if applicable), reference numbers, date of birth, and specify the income that is or is expected to be received from the payer that is effectively connected with a trade or business in the United States.
+
+The form also includes a certification section where the beneficial owner declares under penalties of perjury that the information provided is true, correct, and complete. They also certify that they are the beneficial owner of the payments, the amounts are effectively connected with a trade or business in the United States, the income is includible in their gross income for the taxable year, and they are not a U.S. person. The form authorizes the withholding agent to provide the form to any other withholding agent that has control or custody of the payments.
+
+The form must be signed by the beneficial owner or an individual authorized to sign for the beneficial owner, and the date of signing should be provided.
+
+This form does not need to be sent to the IRS, but the person submitting the form must file an annual U.S. income tax return to report the income claimed to be effectively connected with a U.S. trade or business.

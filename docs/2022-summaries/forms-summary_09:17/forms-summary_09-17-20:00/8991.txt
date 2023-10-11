@@ -1,0 +1,1412 @@
+Note: The form, instructions, or publication you are looking 
+for begins after this coversheet.
+Please review the updated information below.
+Change to the Instructions for Form 8991, Schedule A, Line 9b
+With the issuance of Notice 2022-30, it is necessary to update the second paragraph of the 
+Schedule A, line 9b, instructions for Form 8991. The second paragraph is revised as 
+follows.
+A taxpayer meets the reporting requirement of Regulations sections 1.59A-6(b)(2) and 
+1.6038A-2(b)(7)(ix) by entering the amount on line 9b. For tax years beginning in or after 
+2025, a taxpayer will also need to provide a representation that all payments satisfy the 
+requirements of Regulations section 1.59A-6(b)(2) and meet the reporting requirements of 
+Regulations section 1.59A-6(b)(2) and 1.6038A-2(b)(7)(ix). 
+Form 8991
+(Rev. December 2020)
+Department of the Treasury 
+Internal Revenue Service
+Tax on Base Erosion Payments of Taxpayers With  
+Substantial Gross Receipts
+For tax year beginning
+, 20
+, and ending
+, 20
+▶ Go to www.irs.gov/Form8991 for instructions and the latest information.
+▶ See instructions.
+OMB No. 1545-0123
+Name
+Employer identification number
+Part I
+Applicable Taxpayer Determination
+Check box if this form is being filed by a taxpayer with which another taxpayer has been aggregated under Regs. section 1.59A-2(c) ▶
+If the above box is checked, attach a statement listing the names and EINs of all separate taxpayers taken into account in the 
+determination of “1 person” under Regs. section 1.59A-2(c).
+(a)
+(b)
+(c)
+First 
+Preceding 
+Tax Year
+Second 
+Preceding 
+Tax Year
+Third 
+Preceding 
+Tax Year
+ 1a Gross receipts of the taxpayer. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Gross receipts from partnerships .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c Gross receipts of all other persons treated as 1 person pursuant to Regs. 
+section 1.59A-2(c) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+d
+Gross receipts. Combine lines 1a through 1c
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+e Gross receipts of first, second, and third preceding tax years. Combine columns (a), (b), and (c) of line
+1d
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1e
+f
+3-year average annual gross receipts. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1f
+g
+Is line 1f $500 million or more?
+Yes. Continue to line 2.
+No. STOP here and attach this form to your tax return.
+2a
+Base erosion tax benefit (from Schedule A, line 15, column (a-2)).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b
+Amount of deductions allowed under Chapter 1 of the Internal Revenue Code
+.
+.
+.
+.
+.
+.
+.
+.
+2b
+c Base erosion tax benefits resulting from reductions in insurance premiums
+reported on Schedule A, line 8, column (a-2)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+d Base erosion tax benefits resulting from reductions in gross receipts reported on
+Schedule A, line 10, column (a-2) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2d
+e
+Add lines 2c and 2d 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2e
+f 
+Total deductions for amounts paid or accrued for services to which the exception
+under Regs. section 1.59A-3(b)(3)(i) applies (from Schedule A, line 5b) .
+.
+.
+.
+2f
+g
+Qualified derivative payments excepted by Regs. section 1.59A-6(b)
+.
+.
+.
+.
+2g
+h
+Total deductions allowed under sections 172, 245A, and 250 for the tax year.
+.
+2h
+i 
+Does the taxpayer elect to waive deductions in accordance with Regulations
+section 1.59A-3(c)(6)(i)?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2i
+Yes. Complete Schedule B. Enter the amount from line 15 of Schedule B.
+No. Enter -0-.
+j 
+Deductions for exchange losses from section 988 transactions described in
+Regulations section 1.59A-2(e)(3)(ii)(D)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2j
+k Deductions for TLAC securities and foreign TLAC securities described in
+Regulations section 1.59A-2(e)(3)(ii)(E)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2k
+l 
+Reinsurance losses incurred and claims payments described in Regulations
+section 1.59A-2(e)(3)(ii)(F) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2l
+m Combine lines 2f through 2l .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2m
+n
+Total Deductions. Subtract line 2m from the sum of line 2b and line 2e
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2n
+o
+Base Erosion Percentage. Divide line 2a by line 2n .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2o
+%
+p Is the taxpayer’s base erosion percentage on line 2o 3% or higher (2% or higher for a bank or securities 
+dealer)?
+Yes. Continue to Part II.
+No. STOP after completing Part I and Schedule A (and, if necessary, Schedule B) and attach this 
+form to your tax return.
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 37815N
+Form 8991 (Rev. 12-2020)
+Form 8991 (Rev. 12-2020)
+Page 2
+Part II
+Modified Taxable Income (MTI)
+3a
+Taxable income after net operating loss. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3a
+b
+Base erosion tax benefits for the tax year from Schedule A, line 15, column (b-2)
+.
+.
+.
+.
+.
+.
+.
+3b
+c Base erosion percentage of the net operating loss deduction allowed under section 172 for the tax year. 
+See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3c
+d
+Modified Taxable Income. See instructions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3d
+Part III
+Regular Tax Liability Adjusted for Purposes of Computing Base Erosion Minimum Tax Amount
+4a
+Regular tax liability .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4a
+b
+Allowed credits, as adjusted (from Schedule C, line 7)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4b
+c Regular tax liability adjusted for purposes of computing Base Erosion Minimum Tax Amount. Subtract 
+line 4b from line 4a .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4c
+Part IV
+Computation of Base Erosion Minimum Tax Amount
+5a
+Modified Taxable Income (from line 3d) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a
+b
+BEAT Tax rate applicable for current tax year .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5b
+%
+c
+Base Erosion Minimum Tax. Multiply line 5a by line 5b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c
+d Regular tax liability adjusted for purposes of computing Base Erosion Minimum Tax Amount (from 
+line 4c) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5d
+e
+Base Erosion Minimum Tax Amount. Subtract line 5d from line 5c. If zero or less, enter -0-
+.
+.
+.
+5e
+Form 8991 (Rev. 12-2020)
+Form 8991 (Rev. 12-2020)
+Page 3
+Schedule A
+Base Erosion Payments and Base Erosion Tax Benefits (see instructions)
+Does the taxpayer elect to use financial statements per Regs. section 1.59A-3(b)(4)(i)(D) for purposes of calculating interest expense 
+allocable to a foreign corporation’s effectively connected income?
+Yes
+No
+(Check all applicable boxes in                   
+columns (c), (d), and (e) below)
+(a-1)
+(a-2)
+(b-1)
+(b-2)
+(c)
+(d)
+(e)
+Type of Base Erosion Payments
+Aggregate  
+Group’s Base 
+Erosion Payments
+Aggregate  
+Group’s Base 
+Erosion Tax 
+Benefits
+Taxpayer’s Base 
+Erosion Payments
+Taxpayer’s Base 
+Erosion Tax 
+Benefits
+Any 25% 
+Owner of 
+the Taxpayer
+Person Related 
+Under Sections 
+267(b) or        
+707(b)(1) to the 
+Taxpayer or Any 
+25% Owner of 
+the Taxpayer
+Any Person 
+Related Within 
+the Meaning of 
+Section 482     
+to the Taxpayer
+1
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 Purchase or creations of property rights for intangibles (patents, 
+trademarks, etc.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Rents, royalties, and license fees .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a Compensation/consideration paid for services NOT excepted by 
+Regs. section 1.59A-3(b)(3)(i) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Compensation/consideration paid for services excepted by Regs. 
+section 1.59A-3(b)(3)(i)
+.
+.
+.
+.
+.
+.
+.
+$
+6
+Interest expense
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Payments for the purchase of tangible personal property .
+.
+.
+ 
+8 
+ 
+Premiums and/or other considerations paid or accrued for 
+insurance and reinsurance as covered by Regs. section 1.59A-3(b)
+(1)(iii) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Form 8991 (Rev. 12-2020)
+Form 8991 (Rev. 12-2020)
+Page 4
+Schedule A
+Base Erosion Payments and Base Erosion Tax Benefits (see instructions) (continued from page 3)                                                                           
+(Check all applicable boxes in                   
+columns (c), (d), and (e) below)
+(a-1)
+(a-2)
+(b-1)
+(b-2)
+(c)
+(d)
+(e)
+Type of Base Erosion Payments
+Aggregate  
+Group’s Base 
+Erosion Payments
+Aggregate  
+Group’s Base 
+Erosion Tax 
+Benefits
+Taxpayer’s Base 
+Erosion Payments
+Taxpayer’s Base 
+Erosion Tax 
+Benefits
+Any 25% 
+Owner of 
+the Taxpayer
+Person Related 
+Under Sections 
+267(b) or        
+707(b)(1) to the 
+Taxpayer or Any 
+25% Owner of 
+the Taxpayer
+Any Person 
+Related Within 
+the Meaning of 
+Section 482     
+to the Taxpayer
+9a Nonqualified derivative payments .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b Qualified derivative payments excepted by Regs. section  
+1.59A-6(b)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+$
+10 Payments reducing gross receipts made to surrogate foreign 
+corporation .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Other payments—specify
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+Combine lines 3 through 11
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+ 
+ 
+Base erosion tax benefits related to payments reported on lines 3 
+through 11, on which tax is imposed by section 871 or 881, with 
+respect to which tax has been withheld under section 1441 or 
+1442 at 30% statutory withholding tax rate
+.
+.
+.
+.
+.
+.
+.
+14 
+ 
+ 
+ 
+ 
+Portion of base erosion tax benefits reported on lines 3 through 
+11, on which tax is imposed by section 871 or 881, with respect 
+to which tax has been withheld under section 1441 or 1442 at 
+reduced withholding rate pursuant to income tax treaty. Multiply 
+ratio of percentage withheld divided by 30% times tax benefit. 
+See instructions
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+ 
+Total base erosion tax benefits. Subtract the sum of line 13 and 
+line 14 from line 12. Enter the amount from column (a-2) in Part I, 
+line 2a. Enter the amount from column (b-2) in Part II, line 3b 
+.
+Form 8991 (Rev. 12-2020)
+Form 8991 (Rev. 12-2020)
+Page 5
+Schedule B
+Waiver of Deductions (see instructions)                                                                                   
+(a)                                             
+Description of item or property to which the 
+deduction relates
+(b)               
+Date on which, or 
+period in which, 
+the waived 
+deduction was 
+paid or accrued
+(c)              
+Provision of Code 
+and regulations,  
+as applicable, that 
+allows the 
+deduction for 
+which this   
+election relates
+(d)               
+Line number on  
+the controlled 
+group member tax 
+return where the 
+deduction is 
+reported
+(e)               
+Name of foreign 
+related party that 
+is or will be the 
+recipient of the 
+payment that 
+generates the 
+deduction
+(f)               
+Taxpayer 
+Identification 
+Number of foreign 
+related party
+(g)               
+Country of 
+organization of   
+the foreign   
+related party
+(h)               
+Amount of 
+deduction claimed 
+for the tax year 
+with respect to the 
+item or property
+(i)                
+Amount of 
+deduction being 
+waived for the tax 
+year with respect 
+to the item or 
+property
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Totals from attachment, if necessary .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+15
+Total deductions waived per Regulations section 1.59A-3(c)(6)(i). Add the amounts in column (i). Enter the result here and on Part I, line 2i  .
+.
+.
+.
+.
+Form 8991 (Rev. 12-2020)
+Form 8991 (Rev. 12-2020)
+Page 6
+Schedule C
+Credits Reducing Regular Tax Liability in Computing Base Erosion Minimum Tax Amount (BEMTA)
+Part I
+Credits Allowed Against Regular Tax (see instructions)
+1
+Total credits allowed in current year. See instructions 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Credits for increasing research activities from line 1c of all Parts III of Form 3800
+2
+3 
+Total allowed credit for increasing research activities for current year. Enter the amount of research
+credit reported in Form 3800, Part II, line 38. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Enter smaller of Schedule C, Part II, line 11, or Part III, line 16 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Limitation of applicable section 38 credits. Multiply line 4 by 80% (0.80)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Adjustments to allowed credits. Add lines 3 and 5
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7 
+Credits allowed against regular tax in computing BEMTA. Subtract line 6 from line 1. Enter here and 
+on Form 8991, line 4b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Part II
+Applicable Section 38 Credits 
+(Only complete Parts II and III if you have allowed applicable section 38 credits.)
+8
+Low-income housing credit from lines 1d and 4d of all Parts III of Form 3800.
+.
+8
+9 
+Renewable electricity production credit but only to extent of the renewable 
+electricity under section 45(a) from lines 1f and 4e of all Parts III of Form 3800
+.
+9
+10 
+Investment credit but only to extent of energy credit property under section 48 
+from line 4a of all Parts III of Form 3800 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10
+11 
+Total allowed applicable section 38 credits for current year. Enter the amount of applicable credits 
+reported in Form 3800, Part II, line 38. See instructions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11
+Part III
+BEMTA Determined Without Adjustment for Applicable Section 38 Credits
+12
+Base erosion minimum tax (Form 8991, line 5c)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+13
+Regular tax liability (Form 8991, line 4a) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13
+14
+Subtract Schedule C, Part I, line 3, from line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14
+15
+Regular tax adjusted for credits that offset BEMTA. Subtract line 14 from line 13
+.
+.
+.
+.
+.
+.
+.
+15
+16 
+Base erosion minimum tax determined without adjustment for applicable section 38 credits. Subtract 
+line 15 from line 12; if zero or less, enter -0-.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16
+Form 8991 (Rev. 12-2020)

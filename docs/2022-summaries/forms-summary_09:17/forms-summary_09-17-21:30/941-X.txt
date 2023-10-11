@@ -1,0 +1,15 @@
+Form 941-X is a document used by employers in the United States to correct errors made on their quarterly federal tax returns (Form 941 or 941-SS) or to claim a refund for overreported tax amounts. The form consists of five pages and must be completed in its entirety.
+
+Part 1 of the form requires the employer to select the appropriate process for their correction, either an adjusted employment tax return or a claim for refund. The form also includes certifications regarding the filing of Forms W-2 and the repayment or reimbursement of overcollected taxes.
+
+Part 2 of the form requires the employer to complete certifications related to the specific corrections being made, such as repaying or reimbursing affected employees and whether adjustments are for the employer's share only.
+
+Part 3 of the form is where the employer enters the corrections for each line item for the specific quarter being corrected. The employer must provide the total corrected amount, the amount originally reported or previously corrected, and the difference. This section includes various line items such as wages, federal income tax withheld, taxable social security wages, and Medicare wages.
+
+Part 4 of the form allows the employer to provide an explanation of the corrections being made. This section is necessary for corrections involving reclassified workers or if the corrections include both underreported and overreported amounts.
+
+Part 5 of the form requires the employer to sign the form under penalties of perjury, declaring that the information provided is true, correct, and complete. There is also a section for the preparer's information if someone other than the employer completes the form.
+
+The form includes additional instructions and guidance on which process to use for correcting underreported or overreported tax amounts, as well as information on how to treat employment tax credits and social security tax deferrals.
+
+Overall, Form 941-X is a detailed document that employers use to correct errors on their quarterly federal tax returns or to claim refunds for overreported tax amounts. It requires careful completion and adherence to the provided instructions.

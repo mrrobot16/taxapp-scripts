@@ -1,0 +1,22 @@
+Schedule O (Form 8865) is a document provided by the Department of the Treasury, Internal Revenue Service (IRS) for the purpose of reporting the transfer of property to a foreign partnership under Section 6038B of the tax code. This form must be attached to Form 8865 and the instructions for Form 8865 should be referred to for guidance.
+
+The form requires the following information to be provided:
+
+1. Details of the transferor, including their name and identifying number, as well as the name and employer identification number (EIN) of the foreign partnership.
+2. Whether the partnership is a section 721(c) partnership and if so, whether the gain deferral method was applied to avoid recognition of gain upon the contribution of property.
+3. Whether any intangible property transferred is considered or anticipated to be a platform contribution as defined in Regulations section 1.482-7(c)(1).
+
+The form also includes three parts for reporting transfers and dispositions:
+
+Part I: Transfers Reportable Under Section 6038B
+- This section requires the reporting of various types of property transferred, including stock, notes receivable and payable, other securities, inventory, tangible property used in trade or business, intangible property described in section 197(f)(9), intangible property other than described in section 197(f)(9), and other property. Information such as the date of transfer, description of property, fair market value on the date of transfer, cost or other basis, recovery period, section 704(c) allocation method, and gain recognized on transfer should be provided.
+
+Part II: Dispositions Reportable Under Section 6038B
+- This section requires the reporting of dispositions of property previously transferred. Information such as the type of property, date of the original transfer, date of disposition, manner of disposition, gain recognized by the partnership, depreciation recapture recognized by the partnership, gain allocated to partner, and depreciation recapture allocated to partner should be provided.
+
+Part III: Gain Recognition Under Section 904(f)(3) or Section 904(f)(5)(F)
+- This section requires the indication of whether any transfer reported on the schedule is subject to gain recognition under section 904(f)(3) or section 904(f)(5)(F) of the tax code.
+
+The form also includes space for providing supplemental information as required.
+
+It is important to consult the instructions for Form 8865 for further guidance and the latest information.

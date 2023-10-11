@@ -1,0 +1,17 @@
+Form 8933 is a document provided by the Internal Revenue Service (IRS) for taxpayers to claim the Carbon Oxide Sequestration Credit. The form is used to report information about the capture, disposal, and utilization of qualified carbon oxide, as well as any elections made or credits claimed by other taxpayers.
+
+The form is divided into several parts:
+
+Part I: Information About You - This section requires the taxpayer to check the applicable boxes for the actions taken regarding the capture, disposal, and utilization of qualified carbon oxide.
+
+Part II: Facilities at Which Qualified Carbon Oxide Qualifies for a Credit - This section is divided into three subsections (1, 2, and 3) that correspond to different scenarios of capturing and disposing or utilizing qualified carbon oxide. The taxpayer must provide information about the metric tons captured, the inflation-adjusted credit rate, and calculate the credit amount for each scenario.
+
+Part III: Qualified Facilities Under Section 45Q(a)(3) or (4) - This section is similar to Part II but applies to qualified facilities where no election was made under Section 45Q(b)(3). The taxpayer must provide the same information and calculate the credit amount for each scenario.
+
+Part IV: Qualified Direct Air Capture Facilities Under Section 45Q(d) Placed in Service After 2022 - This section is similar to Part III but applies specifically to qualified direct air capture facilities placed in service after 2022.
+
+Part V: Other Information - This section includes checkboxes for making elections under different sections of the tax code, reporting carbon oxide sequestration credits elected by other taxpayers, and reporting recaptured credits.
+
+The form concludes with a total calculation of the carbon oxide sequestration credit, which is reported on either Schedule K for partnerships and S corporations or Form 3800, Part III, line 1x for all other taxpayers. There are also instructions provided for attaching model certificates and reporting recaptured credits.
+
+Overall, Form 8933 is a detailed form that taxpayers use to report and claim the Carbon Oxide Sequestration Credit based on their capture, disposal, and utilization of qualified carbon oxide.

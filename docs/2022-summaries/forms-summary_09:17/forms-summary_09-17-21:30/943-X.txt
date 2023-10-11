@@ -1,0 +1,13 @@
+Form 943-X is an adjusted employers' annual federal tax return form for agricultural employees or a claim for refund. This form is used to correct errors made on Form 943, which is the employers' annual federal tax return for agricultural employees. The form must be completed for each year that needs correction and all five pages must be completed.
+
+Part 1 of the form requires the selection of one process - either the adjusted employment tax return or the claim process. The adjusted employment tax return is used if there were underreported tax amounts or if there were overreported tax amounts and the taxpayer wants to use the adjustment process to correct the errors. The claim process is used if there were only overreported tax amounts and the taxpayer wants to request a refund or abatement of the amount shown on line 25.
+
+Part 2 of the form requires the completion of certifications related to filing Forms W-2 or W-2c as required and the repayment or reimbursement of overcollected social security tax and Medicare tax for prior years.
+
+Part 3 of the form is where the corrections for the calendar year being corrected are entered. The form provides various columns to enter the total corrected amount, the amount originally reported or previously corrected, the difference, and the tax correction for each applicable line.
+
+Part 4 of the form is used to explain the corrections being made, including any corrections for reclassified workers.
+
+Part 5 of the form is where the taxpayer must sign and date the form, and where the preparer, if applicable, must also sign and provide their information.
+
+The form also includes additional instructions and guidance on which process to use based on the type of errors being corrected (underreported or overreported tax amounts) and the timing of filing the form.

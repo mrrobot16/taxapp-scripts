@@ -1,0 +1,11 @@
+Form 8804-W is a worksheet provided by the Internal Revenue Service (IRS) for partnerships to calculate their installment payments of Section 1446 tax. This form is for the tax year 2023. The form is divided into four parts.
+
+Part I is for determining the installment payments. It includes various calculations based on the partnership's allocable share of effectively connected taxable income (ECTI) for both corporate and non-corporate partners. Reductions are made for state and local taxes and certified foreign partner-level items.
+
+Part II is for partnerships that meet certain conditions and want to use the adjusted seasonal installment method. It involves calculations based on the ECTI allocable to all foreign partners for specific periods.
+
+Part III is for partnerships that want to use the annualized income installment method. It involves calculations based on the ECTI allocable to all foreign partners for different annualization periods.
+
+Part IV is for determining the required installments under either Part II or Part III. It includes calculations based on the amounts calculated in previous sections.
+
+Partnerships should not file this worksheet, but rather use it internally to calculate their installment payments. The completed calculations from this worksheet will be used to determine the amount of estimated tax payments the partnership needs to make.

@@ -1,0 +1,13 @@
+Form 2441 is a document used to claim the Child and Dependent Care Expenses credit on a taxpayer's federal income tax return. The form must be attached to Form 1040, 1040-SR, or 1040-NR. 
+
+The form consists of three parts. 
+
+Part I requires the taxpayer to provide information about the persons or organizations who provided care for their dependents. The taxpayer must enter the name, address, identifying number (such as a Social Security Number or Employer Identification Number), and whether the care provider was a household employee. The taxpayer must also indicate if they received dependent care benefits.
+
+Part II is used to calculate the credit for child and dependent care expenses. The taxpayer must enter the names and social security numbers of their qualifying dependents, indicate if any of the dependents were disabled and over the age of 12, and enter the qualified expenses incurred and paid in the tax year.
+
+Part III is used to report any dependent care benefits received by the taxpayer. The taxpayer must enter the total amount of dependent care benefits received in the tax year, any amounts carried over from previous years, and any forfeited or carried over amounts. The form provides calculations to determine the deductible, excluded, and taxable benefits.
+
+The form concludes with instructions on how to complete lines 27 through 31 to claim the child and dependent care credit.
+
+Taxpayers should refer to the instructions provided on the IRS website for detailed guidance on completing Form 2441 and claiming the credit.

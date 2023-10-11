@@ -1,0 +1,17 @@
+Form 8995 is a document issued by the Internal Revenue Service (IRS) for taxpayers to claim the qualified business income deduction. This deduction is available to individuals who have qualified business income from a qualified trade or business, real estate investment trust dividends, publicly traded partnership income, or a domestic production activities deduction passed through from an agricultural or horticultural cooperative.
+
+The form is to be attached to the taxpayer's tax return and can be accessed on the IRS website. It is applicable for taxpayers whose taxable income, before the qualified business income deduction, is at or below $170,050 ($340,100 if married filing jointly) and who are not patrons of an agricultural or horticultural cooperative.
+
+The form consists of various sections for reporting the trade or business names, taxpayer identification numbers, and the amounts of qualified business income or losses. It also includes sections for reporting qualified REIT dividends and publicly traded partnership income or losses.
+
+The form calculates the total qualified business income or loss, the qualified business net loss carryforward from the prior year, the total qualified business income, the qualified business income component, the total qualified REIT dividends and publicly traded partnership income, and the REIT and PTP component.
+
+The form then calculates the qualified business income deduction before the income limitation by adding the lines for the business income component and the REIT and PTP component. It also calculates the taxable income before the qualified business income deduction and the net capital gain.
+
+The form subtracts the net capital gain from the taxable income before the deduction to determine the income limitation. This limitation is then multiplied by 20% to calculate the qualified business income deduction.
+
+The final section of the form includes the total qualified business loss carryforward and the total qualified REIT dividends and publicly traded partnership loss carryforward.
+
+The taxpayer is instructed to enter the smaller of the amount calculated for the qualified business income deduction or the income limitation on the applicable line of their tax return.
+
+Overall, Form 8995 provides a simplified computation method for taxpayers to claim the qualified business income deduction.

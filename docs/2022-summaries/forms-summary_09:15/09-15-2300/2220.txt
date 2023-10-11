@@ -1,0 +1,17 @@
+Form 2220 is a document used by corporations to calculate the underpayment of estimated tax. The form is divided into several parts.
+
+Part I: Required Annual Payment
+- This section calculates the total tax owed by the corporation and includes additional factors such as personal holding company tax, look-back interest, and credits for federal tax paid on fuels.
+
+Part II: Reasons for Filing
+- This section lists reasons for filing Form 2220, such as using the adjusted seasonal installment method, the annualized income installment method, or being a large corporation figuring its first required installment based on the prior year's tax.
+
+Part III: Figuring the Underpayment
+- This section provides installment due dates and calculates the underpayment of tax for each period based on the required installments.
+
+Part IV: Figuring the Penalty
+- This section calculates the penalty for underpayment of estimated tax based on the number of days the payment is late and the applicable penalty interest rate.
+
+The form also includes a Schedule A, which provides instructions for using the adjusted seasonal installment method and the annualized income installment method.
+
+Overall, Form 2220 helps corporations determine if they owe a penalty for underpayment of estimated tax and provides a framework for calculating the penalty amount.

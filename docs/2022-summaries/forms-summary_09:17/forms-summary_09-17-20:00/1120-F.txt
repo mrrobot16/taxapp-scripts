@@ -1,0 +1,2944 @@
+Form 1120-F
+Department of the Treasury  
+Internal Revenue Service
+U.S. Income Tax Return of a Foreign Corporation
+For calendar year 2022, or tax year beginning
+, 2022, and ending
+, 20
+Go to www.irs.gov/Form1120F for instructions and the latest information.
+OMB No. 1545-0123
+2022
+Type 
+or 
+Print
+Name
+Number, street, and room or suite no. (see instructions)
+City or town, state or province, country, and ZIP or foreign postal code
+Employer identification number
+Check box(es) if:
+Name or address change
+First post-merger return
+Schedule M-3 attached
+Initial return
+Final return
+Amended return
+Protective return
+A 
+Country of incorporation
+B 
+Foreign country under whose laws the income reported on this return 
+is also subject to tax 
+C 
+Date incorporated
+D 
+(1) Location of corporation’s primary books and records (city, province 
+or state, and country)
+(2) Principal location of worldwide business
+(3) If the corporation maintains an office or place of business in the 
+United States, check here.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+E If the corporation had an agent in the United States at any time during 
+the tax year, enter:
+(1) Type of agent 
+(2) Name
+(3) Address
+F See the instructions and enter the corporation’s principal:
+(1) Business activity code number  
+(2) Business activity 
+(3) Product or service 
+G
+Check method of accounting:
+(1)
+Cash
+(2)
+Accrual
+(3)
+Other (specify) 
+Computation of Tax Due or Overpayment
+1 
+Tax from Section I, line 11, page 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 
+Tax from Section II, Schedule J, line 9, page 5 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Tax from Section III (add lines 6 and 10 on page 6) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Total tax.  Add lines 1 through 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5a
+2021 overpayment credited to 2022
+.
+.
+.
+.
+.
+.
+.
+5a 
+b 
+2022 estimated tax payments  .
+.
+.
+.
+.
+.
+.
+.
+.
+5b 
+c 
+Less 2022 refund applied for on Form 4466 .
+.
+.
+.
+.
+5c (
+)
+d 
+Combine lines 5a through 5c .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5d 
+e 
+Tax deposited with Form 7004 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5e 
+f 
+Credit for tax paid on undistributed capital gains (attach Form 2439) 
+.
+.
+.
+.
+.
+5f 
+g 
+Credit for federal tax paid on fuels (attach Form 4136). See instructions 
+.
+.
+.
+.
+5g 
+h 
+Reserved for future use .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5h 
+i  
+U.S. income tax paid or withheld at source (add line 12, page 3, and amounts from 
+Forms 8288-A and 8805 (attach Forms 8288-A and 8805)) 
+.
+.
+.
+.
+.
+.
+.
+.
+5i
+j
+Total payments. Add lines 5d through 5i .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5j
+6 
+Estimated tax penalty (see instructions). Check if Form 2220 is attached 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+6 
+7 
+Amount owed.  If line 5j is smaller than the total of lines 4 and 6, enter amount owed 
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 a
+Overpayment.  If line 5j is larger than the total of lines 4 and 6, enter amount overpaid .
+.
+.
+.
+.
+.
+.
+.
+8a 
+b  Amount of overpayment on line 8a resulting from tax deducted and withheld under Chapters 3 and 4 (from 
+Schedule W, line 7, page 8) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8b 
+9 
+Enter portion of line 8a you want Credited to 2023 estimated tax
+.
+.
+.
+Refunded 
+9 
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true, 
+correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature of officer
+Date
+Title
+May the IRS discuss this return 
+with the preparer shown below 
+(see instructions)?
+Yes
+No 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check         if 
+self-employed
+PTIN
+Firm’s name     
+Firm’s address 
+Firm’s EIN 
+Phone no.
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11470I
+Form 1120-F (2022)
+Form 1120-F (2022)
+Page 2 
+Additional Information  (continued from page 1)
+Yes
+No
+H Did the corporation’s method of accounting change 
+from the preceding tax year? .
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach a statement with an explanation.
+I 
+Did the corporation’s method of determining income 
+change from the preceding tax year? 
+.
+.
+.
+.
+.
+If “Yes,” attach a statement with an explanation.
+J 
+Did the corporation file a U.S. income tax return for 
+the preceding tax year? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+K 
+ 
+(1) At any time during the tax year, was the 
+corporation engaged in a trade or business in the 
+United States? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+(2) If “Yes,” is taxpayer’s trade or business within the 
+United States solely the result of a section 897 
+(FIRPTA) sale or disposition? .
+.
+.
+.
+.
+.
+.
+.
+L 
+ 
+ 
+Did the corporation have a permanent establishment 
+in the United States for purposes of any applicable tax 
+treaty between the United States and a foreign 
+country? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter the name of the foreign country:
+M Did the corporation have any transactions with related 
+parties? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” Form 5472 may have to be filed (see 
+instructions).
+Enter number of Forms 5472 attached  
+N Is the corporation a controlled foreign corporation? 
+(See section 957(a) for definition.) 
+.
+.
+.
+.
+.
+.
+O  Is the corporation a personal service corporation? 
+(See instructions for definition.) .
+.
+.
+.
+.
+.
+.
+P  Enter tax-exempt interest received or accrued during 
+the tax year (see instructions)  $
+Q  
+ 
+ 
+At the end of the tax year, did the corporation own, 
+directly or indirectly, 50% or more of the voting stock 
+of a U.S. corporation? (See section 267(c) for rules of 
+attribution.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach a statement showing (1) name and 
+EIN of such U.S. corporation; (2) percentage owned; 
+and (3) taxable income or (loss) before NOL and 
+special deductions of such U.S. corporation for the 
+tax year ending with or within your tax year.
+R  
+ 
+If the corporation has an NOL for the tax year and is 
+electing to forego the carryback period, check here 
+(see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+S  
+ 
+Enter the available NOL carryover from prior tax years. 
+(Do not reduce it by any deduction on line 30a, page 
+4.) $
+T 
+Is the corporation a subsidiary in a parent-subsidiary 
+controlled group? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter the parent corporation’s:
+(1)  EIN  
+(2)  Name  
+U
+(1) Is the corporation a dealer under section 475? .
+.
+(2) Did the corporation mark to market any securities 
+or commodities other than in a dealer capacity? .
+.
+V 
+ 
+ 
+At the end of the tax year, did any individual, partnership, 
+corporation, estate, or trust own, directly or indirectly, 50% 
+or more of the corporation’s voting stock? (See section 267
+(c) for rules of attribution.)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+If “Yes,” attach a statement showing the name and 
+identifying number. (Do not include any information already 
+entered in item T.) Enter percentage owned  
+W 
+ 
+(1) Is the corporation taking a position on this return that a 
+U.S. tax treaty overrules or modifies an Internal Revenue law 
+of the United States, thereby causing a reduction of tax? .
+If “Yes,” the corporation is generally required to complete 
+and attach Form 8833. See Form 8833 for exceptions.
+Note: Failure to disclose a treaty-based return position may 
+result in a $10,000 penalty (see section 6712).
+(2) Is the corporation claiming treaty benefits pursuant to, or 
+otherwise filing its return pursuant to, a Competent Authority 
+determination or an Advance Pricing Agreement? .
+.
+.
+If “Yes,” attach a copy of the Competent Authority 
+determination letter or Advance Pricing Agreement to your 
+return. 
+X 
+ 
+During the tax year, did the corporation own any entity that 
+was disregarded as an entity separate from its owner under 
+Regulations sections 301.7701-2 and 301.7701-3?
+.
+.
+If “Yes,” attach a statement listing the name, country under whose 
+laws the entity was organized, and EIN (if any) of each such entity.
+Y 
+ 
+ 
+(1) Did a partnership allocate to the corporation a 
+distributive share of income from a directly owned 
+partnership interest, any of which is ECI or treated as ECI by 
+the partnership or the partner? 
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” attach Schedule P. See instructions.
+(2) During the tax year, did the corporation own, directly or 
+indirectly, at least a 10% interest, in any foreign partnership?
+If “Yes,” see instructions for required attachment.
+Z  
+ 
+(1) Has the corporation engaged in any transactions the 
+results of which are subject to the arm’s-length standard 
+under section 482 and its regulations? 
+.
+.
+.
+.
+.
+.
+(2) Has the corporation recognized any interbranch amounts? 
+If “Yes,” attach statement (see instructions)
+.
+.
+.
+.
+.
+AA 
+ 
+Is the corporation required to file Schedule UTP (Form 
+1120), Uncertain Tax Position Statement (see instructions)? 
+If “Yes,” complete and attach Schedule UTP.
+BB 
+ 
+ 
+During the corporation’s tax year, did the corporation make 
+any payments that would require it to file Forms 1042 and 
+1042-S under chapter 3 (sections 1441 through 1464) or 
+chapter 4 (sections 1471 through 1474) of the Code? .
+.
+CC Is the corporation (including the home office or any branch) 
+a qualified derivatives dealer (QDD)? .
+.
+.
+.
+.
+.
+.
+(1) If “Yes,” attach Schedule Q (Form 1120-F) (see instructions) 
+(2)  If “Yes,” enter the QI-EIN  
+DD 
+ 
+Does the corporation have gross receipts of at least $500 
+million in any of the 3 preceding tax years (see sections 
+59A(e)(2) and (3))? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” complete and attach Form 8991.
+EE 
+ 
+During the tax year, did the corporation pay or accrue any 
+interest or royalty for which a deduction is not allowed 
+under section 267A (see instructions)? 
+.
+.
+.
+.
+.
+.
+If “Yes,” enter the total amount of the 
+disallowed deductions .
+.
+.
+.      $
+Form 1120-F (2022)
+Form 1120-F (2022)
+Page 3 
+Additional Information  (continued from page 2)
+FF 
+ 
+ 
+Did the corporation have an election under section 
+163(j) for any real property trade or business or any 
+farming business in effect during the tax year (see 
+instructions)?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Yes
+No
+GG Does the corporation satisfy one or more of the 
+following (see instructions)?
+.
+.
+.
+.
+.
+.
+.
+.
+(1) The corporation owns a pass-through entity with 
+current, or prior year carryover, excess business interest 
+expense.
+(2) The corporation’s aggregate average annual gross 
+receipts (determined under section 448(c)) for the 3 tax 
+years preceding the current tax year are more than $27 
+million and the corporation has business interest expense.
+(3) The corporation is a tax shelter and the 
+corporation has business interest expense.
+If “Yes,” to any, complete and attach Form 8990.
+HH 
+ 
+During the tax year, did the corporation dispose of an 
+interest in a partnership that directly or indirectly engaged in 
+a trade or business within the United States? 
+.
+.
+.
+.
+Yes
+No
+II Is the corporation attaching Form 8996 to certify as a 
+Qualified Opportunity  Fund?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If “Yes,” enter amount from 
+Form 8996, line 15
+.
+.
+.
+.
+.   $
+SECTION I—Income From U.S. Sources Not Effectively Connected With the Conduct of a Trade or Business in the 
+United States—Do not report items properly withheld and reported on Form 1042-S. See instructions.
+Report all gross transportation income subject to 4% tax on line 9. Report other column (a) income items only if not properly withheld and reported on 
+Form 1042-S. The rate of tax on these gross income items is 30% or such lower rate specified by tax treaty. No deductions are allowed against these 
+types of income. Enter treaty rates where applicable. If the corporation is claiming a lower treaty rate, also complete item W on page 2. If multiple 
+treaty rates apply to a type of income (for example, subsidiary and portfolio dividends or dividends received by disregarded entities), attach a 
+statement showing the amounts, tax rates, and withholding for each.
+Name of treaty country, if any 
+(a)  
+Class of income (see instructions)
+(b)  
+Gross amount
+(c)  
+Rate of tax (%)
+(d)  
+Amount of tax liability
+(e)  
+Amount of U.S. income tax 
+paid or withheld at the source
+1
+Interest .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a 
+ 
+Dividends (excluding payments received by 
+QDDs in their equity derivatives dealer 
+capacity) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2b 
+ 
+Dividend equivalents (excluding payments 
+received by QDDs in their equity derivatives 
+dealer capacity) 
+.
+.
+.
+.
+.
+.
+.
+.
+3
+Rents 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+Royalties  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+Annuities  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+ 
+Gains from disposal of timber, coal, or 
+domestic iron ore with a retained economic 
+interest (attach supporting statement) .
+.
+7 
+Gains from sale or exchange of patents, 
+copyrights, etc. 
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+Fiduciary distributions (attach supporting 
+statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Gross transportation income (see instructions)
+4
+10
+Other items of income
+.
+.
+.
+.
+.
+.
+    
+   
+11 
+Total. Enter here and on line 1, page 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+12 
+Total. Enter here and include on line 5i, page 1 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+13 
+Is the corporation fiscally transparent under the laws of the foreign jurisdiction with respect to any item of income 
+listed above?
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.  
+Yes
+No
+If “Yes,” attach a statement that provides the information requested above with respect to each such item of income.
+Form 1120-F (2022)
+Form 1120-F (2022)
+Page 4 
+SECTION II—Income Effectively Connected With the Conduct of a Trade or Business in the United States         
+(see instructions)
+Important:  Fill in all applicable lines and schedules. If you need more space, see Assembling the Return in the instructions.
+Income
+1 a 
+Gross receipts or sales
+b Less returns and allowances
+c  Bal 
+1c 
+2 
+Cost of goods sold (attach Form 1125-A) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 
+Gross profit (subtract line 2 from line 1c)    
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 
+Dividends (Schedule C, line 13)  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4 
+5 
+Interest   
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+Gross rents  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+7 
+Gross royalties  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 
+8 
+Capital gain net income (attach Schedule D (Form 1120))    
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+8 
+9 
+Net gain or (loss) from Form 4797, Part II, line 17 (attach Form 4797)   
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9 
+10 
+Other income (see instructions—attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+11 
+Total income.  Add lines 3 through 10
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+11 
+ Deductions (See instructions for limitations on deductions.)
+12 
+Compensation of officers (see instructions—attach Form 1125-E)  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12 
+13 
+Salaries and wages (less employment credits) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+13 
+14 
+Repairs and maintenance 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+14 
+15 
+Bad debts (for bad debts over $500,000, attach a list of debtors and amounts) 
+.
+.
+.
+.
+.
+.
+.
+.
+15 
+16 
+Rents   .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+16 
+17 
+Taxes and licenses 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+17 
+18 
+Interest expense from Schedule I, line 25 (see instructions)  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+18 
+19 
+Charitable contributions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+20 
+Depreciation from Form 4562 not claimed on Form 1125-A or elsewhere on return (attach Form 4562) .
+.
+20 
+21 
+Depletion .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+21 
+22 
+Advertising  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+22 
+23 
+Pension, profit-sharing, etc., plans 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+23 
+24 
+Employee benefit programs   
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+24 
+25 
+Reserved for future use  .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+25 
+26 
+Deductions allocated and apportioned to ECI from Schedule H, line 20 (see instructions) .
+.
+.
+.
+.
+.
+26 
+27 
+Other deductions (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+27 
+28 
+Total deductions.  Add lines 12 through 27 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+28 
+29 
+Taxable income before NOL deduction and special deductions (subtract line 28 from line 11)
+.
+.
+.
+.
+29 
+30 
+Less:
+a  Net operating loss deduction (see instructions) .
+.
+.
+.
+.
+.
+.
+30a
+b  Special deductions (Schedule C, line 14) .
+.
+.
+.
+.
+.
+.
+.
+.
+30b
+c  Add lines 30a and 30b .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+30c
+31 
+Taxable income or (loss). Subtract line 30c from line 29  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+31 
+Form 1120-F (2022)
+Form 1120-F (2022)
+Page 5 
+SECTION II—Income Effectively Connected With the Conduct of a Trade or Business in the United States  
+(continued) 
+Schedule C
+Dividends and Special Deductions  (see instructions)
+(a)  Dividends
+(b) % 
+(c)  Special deductions: 
+ (a)  ×  (b)
+1 
+Dividends from less-than-20%-owned domestic corporations (other 
+than debt-financed stock) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+50
+2 
+Dividends from 20%-or-more-owned domestic corporations (other than 
+debt-financed stock)  
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+65
+3
+Dividends on certain debt-financed stock of domestic and foreign corporations (section 246A)
+see 
+instructions
+4
+Dividends on certain preferred stock of less-than-20%-owned public utilities
+23.3
+5
+Dividends on certain preferred stock of 20%-or-more-owned public utilities .
+26.7
+6
+Dividends from less-than-20%-owned foreign corporations 
+.
+.
+.
+.
+.
+50
+7
+Dividends from 20%-or-more-owned foreign corporations .
+.
+.
+.
+.
+.
+65
+8
+Subtotal. Add lines 1 through 7. See instructions for limitation 
+.
+.
+.
+.
+see 
+instructions
+9
+Dividends from foreign corporations not included on line 3, 6, or 7 
+.
+.
+.
+10
+IC-DISC and former DISC dividends not included on line 1, 2, or 3 (section 246(d))
+11
+Other dividends 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+12
+Deduction for dividends paid on certain preferred stock of public utilities 
+.
+13
+Total dividends. Add column (a), lines 8 through 11. Enter here and on line 4, page 4 
+14
+Total special deductions. Add column (c), lines 8 and 12. Enter here and on line 30b, page 4 
+.
+.
+.
+.
+.
+.
+Schedule J
+Tax Computation  (see instructions)
+1
+Check if the corporation is a member of a controlled group (attach Schedule O (Form 1120)) .
+.
+.
+.
+.  
+2
+Income tax .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Base erosion minimum tax amount (attach Form 8991) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Add lines 2 and 3 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5a
+Foreign tax credit (attach Form 1118) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a
+b
+General business credit (attach Form 3800) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5b
+c
+Credit for prior year minimum tax (attach Form 8827) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c
+d
+Bond credits from Form 8912 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5d
+6
+Total credits. Add lines 5a through 5d 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+6
+7
+Subtract line 6 from line 4 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+8
+Other taxes. Check if from:
+Form 4255
+Form 8611
+Form 8697
+Form 8866
+Form 8902
+Other (attach statement)
+.
+.
+ 
+8
+9
+Total tax. Add lines 7 and 8. Enter here and on line 2, page 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9
+Form 1120-F (2022)
+Form 1120-F (2022)
+Page 6 
+SECTION III—Branch Profits Tax and Tax on Excess Interest 
+Part I—Branch Profits Tax  (see instructions)
+1 Enter the amount from Section II, line 29 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1 
+2 Enter total adjustments to line 1 to get effectively connected earnings and profits. (Attach required statement 
+showing the nature and amount of adjustments.) (See instructions.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2 
+3 Effectively connected earnings and profits. Combine line 1 and line 2 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3 
+4 a Enter U.S. net equity at the end of the current tax year. (Attach required statement.) .
+.
+.
+.
+.
+.
+.
+.
+.
+4a 
+b Enter U.S. net equity at the end of the prior tax year. (Attach required statement.) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4b 
+c  Increase in U.S. net equity. If line 4a is greater than or equal to line 4b, subtract line 4b from line 4a. Enter the 
+result here and skip to line 4e .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4c 
+d Decrease in U.S. net equity. If line 4b is greater than line 4a, subtract line 4a from line 4b 
+.
+.
+.
+.
+.
+.
+.
+4d 
+e  
+ 
+Non-previously taxed accumulated effectively connected earnings and profits. Enter excess, if any, of effectively 
+connected earnings and profits for preceding tax years beginning after 1986 over any dividend equivalent amounts 
+for those tax years .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4e 
+5 Dividend equivalent amount. Subtract line 4c from line 3. If zero or less, enter -0-. If no amount is entered on line 
+4c, add the lesser of line 4d or line 4e to line 3 and enter the total here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5 
+6 
+ 
+Branch profits tax. Multiply line 5 by 30% (0.30) (or lower treaty rate if the corporation is a qualified resident or 
+otherwise qualifies for treaty benefits). (See instructions.) Enter here and include on line 3, page 1. Also complete 
+item W on page 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6 
+Part II—Tax on Excess Interest  (see instructions for this Part and for Schedule I (Form 1120-F))
+7 a Enter the interest from Section II, line 18 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7a 
+b  Enter the inverse of the total amount deferred, capitalized, and disallowed from Schedule I, line 24g  (i.e., if line 24g 
+is negative, enter as a positive number; if line 24g is positive, enter as a negative number) .
+.
+.
+.
+.
+.
+.
+7b 
+c Combine lines 7a and 7b (amount must equal Schedule I, line 23) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7c 
+8 
+ 
+Branch Interest  (see instructions for definition): Enter the sum of Schedule I, line 9, column (c), and Schedule I, line 22. If 
+the interest paid by the foreign corporation’s U.S. trade or business was increased because 80% or more of the foreign 
+corporation’s assets are U.S. assets, check this box 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 
+8 
+9 a Excess interest. Subtract line 8 from line 7c. If zero or less, enter -0- 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9a 
+b  If the foreign corporation is a bank, enter the excess interest treated as interest on deposits (see instructions for 
+rules for computing this amount). Otherwise, enter -0- .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9b 
+c Subtract line 9b from line 9a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+9c 
+10 
+ 
+Tax on excess interest. Multiply line 9c by 30% (0.30) (or lower treaty rate if the corporation is a qualified resident 
+or otherwise qualifies for treaty benefits). (See instructions.) Enter here and include on line 3, page 1. Also 
+complete item W on page 2 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+10 
+Part III—Additional Information
+Yes
+No
+11
+Is the corporation claiming a reduction in, or exemption from, the branch profits tax due to:
+a A complete termination of all U.S. trades or businesses? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b The tax-free liquidation or reorganization of a foreign corporation? .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+c The tax-free incorporation of a U.S. trade or business? 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+If 11a or 11b applies and the transferee is a domestic corporation, attach Form 8848. If 11c applies, attach the statement required 
+by Temporary Regulations section 1.884-2T(d)(5).
+Form 1120-F (2022)
+Form 1120-F (2022)
+Page 7 
+Note:  Check if completing on 
+U.S. basis or
+Worldwide basis
+Schedule L
+Balance Sheets per Books
+Beginning of tax year
+End of tax year
+(                                    )
+(                                )
+(                                    )
+(                                )
+(                                    )
+(                                )
+(                                    )
+(                                )
+(                                ) 
+(                                ) 
+Assets
+(a)
+(b)
+(c)
+(d)
+1
+Cash .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a Trade notes and accounts receivable .
+.
+.
+b Less allowance for bad debts .
+.
+.
+.
+.
+3
+Inventories 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+U.S. government obligations 
+.
+.
+.
+.
+.
+5
+Tax-exempt securities (see instructions) .
+.
+6a Interbranch current assets* 
+.
+.
+.
+.
+.
+b
+Other current non-U.S. assets* 
+.
+.
+.
+.
+c
+Other current U.S. assets* .
+.
+.
+.
+.
+.
+7
+Loans to shareholders .
+.
+.
+.
+.
+.
+.
+8
+Mortgage and real estate loans 
+.
+.
+.
+.
+9a Other 
+loans 
+and 
+investments—non-U.S. 
+assets* 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Other loans and investments—U.S. assets* .  
+10a Buildings and other depreciable assets .
+.
+b
+Less accumulated depreciation 
+.
+.
+.
+.
+11a Depletable assets 
+.
+.
+.
+.
+.
+.
+.
+.
+b
+Less accumulated depletion 
+.
+.
+.
+.
+.
+12
+Land (net of any amortization) .
+.
+.
+.
+.
+13a Intangible assets (amortizable only) 
+.
+.
+.
+b
+Less accumulated amortization 
+.
+.
+.
+.
+14
+Assets held in trust .
+.
+.
+.
+.
+.
+.
+.
+15
+Other non-current interbranch assets* 
+.
+.
+16a Other non-current non-U.S. assets* .
+.
+.
+b
+Other non-current U.S. assets* 
+.
+.
+.
+.
+17
+Total assets .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Liabilities
+18
+Accounts payable 
+.
+.
+.
+.
+.
+.
+.
+.
+19 
+Mortgages, notes, bonds payable in less than 
+1 year:
+a
+Interbranch liabilities* 
+.
+.
+.
+.
+.
+.
+.
+b
+Third-party liabilities* 
+.
+.
+.
+.
+.
+.
+.
+20
+Other current liabilities* .
+.
+.
+.
+.
+.
+.
+21
+Loans from shareholders 
+.
+.
+.
+.
+.
+.
+22 
+Mortgages, notes, bonds payable in 1 year or 
+more:
+a
+Interbranch liabilities* 
+.
+.
+.
+.
+.
+.
+.
+b
+Third-party liabilities* 
+.
+.
+.
+.
+.
+.
+.
+23
+Liabilities held in trust 
+.
+.
+.
+.
+.
+.
+.
+24a
+Other interbranch liabilities* 
+.
+.
+.
+.
+.
+b
+Other third-party liabilities* .
+.
+.
+.
+.
+.
+Equity 
+25
+Capital stock: a Preferred stock .
+.
+.
+.
+ 
+b Common stock .
+.
+.
+.
+26
+Additional paid-in capital 
+.
+.
+.
+.
+.
+.
+27
+Retained earnings—Appropriated* 
+.
+.
+.
+28 
+Retained earnings—Unappropriated .
+.
+.
+29 
+Adjustments to shareholders’ equity* .
+.
+.
+30 
+Less cost of treasury stock .
+.
+.
+.
+.
+.
+31 
+Total liabilities and shareholders’ equity .
+.
+* Attach statement—see instructions.
+Form 1120-F (2022)
+Form 1120-F (2022)
+Page 8 
+Schedule W
+Overpayment Resulting From Tax Deducted and Withheld Under Chapters 3 and 4
+1
+Total Chapter 3 and 4 payments. Enter the amount from page 1, line 5i
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2
+Enter the tax amount from page 1, line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3 
+ 
+Enter the portion of the tax amount shown on page 1, line 2, pertaining to income 
+associated with amounts deducted and withheld under sections 1445 and 1446 (see 
+instructions for general guidelines) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4
+Total Chapter 3 and 4 tax. Combine lines 2 and 3 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Tentative overpayment resulting from tax deducted and withheld under Chapters 3 and 4.
+Subtract line 4 from line 1 .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5
+6
+Enter the amount from page 1, line 8a 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+6
+7
+Overpayment resulting from tax deducted and withheld under Chapters 3 and 4. 
+Enter the smaller of line 5 or line 6. Enter the result here and on page 1, line 8b 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7
+Form 1120-F (2022)

@@ -1,0 +1,14 @@
+Schedule M-3 (Form 1120-PC) is a form provided by the Internal Revenue Service (IRS) for U.S. property and casualty insurance companies with total assets of $10 million or more. It is used to reconcile the net income (loss) reported on the company's income statement with the taxable income reported on its tax return.
+
+The form consists of three parts:
+
+Part I: Financial Information and Net Income (Loss) Reconciliation
+- This part requires the company to provide information about its financial statements and net income (loss) reconciliation. It asks whether the company filed SEC Form 10-K for its income statement period, whether it prepared a certified audited non-tax-basis income statement, and whether it prepared a non-tax-basis income statement. It also asks for the income statement period, whether the income statement has been restated, and whether the company's common stock is publicly traded.
+
+Part II: Reconciliation of Net Income (Loss) per Income Statement of Includible Corporations With Taxable Income per Return
+- This part focuses on reconciling the income (loss) per the company's income statement with the taxable income per its tax return. It requires the company to provide details of various income (loss) items, including income from equity method foreign corporations, subpart F income, U.S. dividends, income from partnerships, and other pass-through entities. It also includes sections for reportable transactions, interest income, hedging transactions, and capital gains or losses.
+
+Part III: Reconciliation of Net Income (Loss) per Income Statement of Includible Corporations With Taxable Income per Return - Expense/Deduction Items
+- This part focuses on reconciling the expenses and deductions reported on the company's income statement with those reported on its tax return. It includes sections for income tax expenses, state and local taxes, foreign taxes, stock option expenses, pension and profit-sharing expenses, charitable contributions, depreciation, interest expenses, research and development costs, and other expense/deduction items.
+
+Overall, Schedule M-3 is a detailed form that helps insurance companies reconcile their financial statements with their tax returns, ensuring compliance with IRS regulations.

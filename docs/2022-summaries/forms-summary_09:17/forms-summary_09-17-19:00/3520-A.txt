@@ -1,0 +1,7 @@
+Form 3520-A is an annual information return that must be filed by foreign trusts with a U.S. owner. The form is used to report general information about the foreign trust, such as its name, address, and creation date. It also asks whether the foreign trust has appointed a U.S. agent to provide the IRS with relevant trust information.
+
+The form requires the attachment of various trust documents, including a summary of agreements and understandings relating to the trust, the trust instrument, memoranda or letters of wishes, subsequent variances to original trust documents, and an organizational chart. If a U.S. agent is not appointed, the trust must attach copies of all trust documents.
+
+The form also includes a section for reporting the foreign trust's income and expenses, as well as a balance sheet for the beginning and end of the tax year. Additionally, there are separate statements for foreign grantor trust owners and beneficiaries to report their respective information.
+
+The form must be signed under penalties of perjury by the trustee or U.S. owner, declaring that the information provided is true, correct, and complete.

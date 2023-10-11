@@ -1,0 +1,11 @@
+Form 8873 is a tax form used by individuals or corporations to claim the extraterritorial income exclusion on their tax return. The form has several sections for providing information and calculations related to the exclusion.
+
+Part I of the form includes checkboxes for electing various options related to the exclusion, such as excluding a portion of gross receipts from foreign trading gross receipts or applying the exclusion provisions to transactions involving a Foreign Sales Corporation (FSC). There is also a checkbox for foreign corporations electing to be treated as domestic corporations.
+
+Part II of the form is used to calculate foreign trade income and foreign sale and leasing income. It includes various lines for reporting different types of income and expenses related to foreign economic processes.
+
+Part III of the form is used for calculating foreign trade income using the marginal costing method. It includes sections for reporting foreign trading gross receipts, costs and expenses, and overall profit percentage.
+
+Part IV of the form is used for calculating the extraterritorial income exclusion. It includes sections for reporting foreign trade income, foreign trading gross receipts, foreign sale and leasing income, and making various calculations to determine the amount of the exclusion.
+
+Overall, Form 8873 is a detailed form that taxpayers can use to claim the extraterritorial income exclusion on their tax return. It requires providing specific information and making calculations related to foreign trade income and expenses.

@@ -1,0 +1,9 @@
+Form 5227 is the Split-Interest Trust Information Return issued by the Internal Revenue Service (IRS) for tax year 2022. It is used by split-interest trusts, such as charitable lead trusts, charitable remainder annuity trusts, charitable remainder unitrusts, and pooled income funds, to report their income, deductions, distributions, and assets. 
+
+The form consists of several parts and schedules that require the trust to provide information such as its name, trustee's name, address, employer identification number, type of entity, fair market value of assets at the end of the tax year, gross income, and various types of income and deductions. 
+
+There are also sections specific to certain types of split-interest trusts, such as the Schedule of Distributable Income for Section 664 trusts, which calculates the distributable income for the trust, and the Current Distributions Schedule for charitable lead trusts, which lists the recipients of distributions from the trust. 
+
+The form also includes a Balance Sheet section to report the trust's assets and liabilities, a section for statements regarding activities that may require the filing of Form 4720, and a questionnaire section for additional information specific to charitable lead trusts, pooled income funds, and charitable remainder trusts. 
+
+The form must be signed by the trustee or an officer representing the trustee, and under penalties of perjury, declares that the information provided is true, correct, and complete. The form also includes sections for the preparer's information if applicable.

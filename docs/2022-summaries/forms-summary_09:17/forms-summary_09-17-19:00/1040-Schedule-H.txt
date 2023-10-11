@@ -1,0 +1,17 @@
+Schedule H (Form 1040) is a tax form used by employers in the United States to report household employment taxes. The form is attached to Form 1040, 1040-SR, 1040-NR, 1040-SS, or 1041. The purpose of Schedule H is to report Social Security, Medicare, withheld income, and Federal Unemployment (FUTA) taxes related to household employees.
+
+The form begins by asking if the employer paid any one household employee cash wages of $2,400 or more in 2022. If the answer is yes, the employer skips certain lines and goes to line 1a. If the answer is no, the employer proceeds to line B.
+
+Line B asks if the employer withheld federal income tax during 2022 for any household employee. If the answer is yes, the employer skips line C and goes to line 7. If the answer is no, the employer proceeds to line C.
+
+Line C asks if the employer paid total cash wages of $1,000 or more in any calendar quarter of 2021 or 2022 to all household employees, excluding wages paid to a spouse, child under age 21, or parent. If the answer is no, the employer does not need to file this schedule. If the answer is yes, the employer skips lines 1a-9 and goes to line 10.
+
+The form then includes Part I, which calculates Social Security, Medicare, and federal income taxes. It includes calculations for various tax amounts based on cash wages subject to these taxes.
+
+Part II of the form deals with Federal Unemployment (FUTA) tax. It asks if the employer paid unemployment contributions to only one state and if all state unemployment contributions were paid by a certain deadline. It also provides calculations for FUTA tax based on cash wages subject to FUTA tax.
+
+The form concludes with Part III, which calculates the total household employment taxes by adding the amounts from line 16 (or line 24) and line 25. Line 27 asks if the employer is required to file Form 1040, and depending on the answer, the employer may need to include the amount from line 26 on Schedule 2 (Form 1040) and Schedule 3 (Form 1040).
+
+If necessary, Part IV of the form is used to provide the employer's address and signature.
+
+The form includes instructions and can be found on the IRS website.

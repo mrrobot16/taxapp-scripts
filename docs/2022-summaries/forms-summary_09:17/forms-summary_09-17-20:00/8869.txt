@@ -1,0 +1,101 @@
+Form   8869
+(Rev. December 2020)
+Qualified Subchapter S Subsidiary Election
+Department of the Treasury  
+Internal Revenue Service 
+(Under section 1361(b)(3) of the Internal Revenue Code) 
+▶ Go to www.irs.gov/Form8869 for instructions and the latest information.
+OMB No. 1545-0123
+Part I 
+Parent S Corporation Making the Election 
+1a   Name of parent 
+b   Number, street, and room or suite no. If a P.O. box, see instructions. 
+c   City or town, state or province, country, and ZIP or foreign postal code
+2   Employer identification number (EIN) 
+3   Tax year ending (month and day) 
+4   Service center where last return was filed 
+5     Name and title of officer or legal representative whom the IRS may call for more information 
+6   Telephone number of officer or legal  
+representative
+Part II 
+Subsidiary Corporation for Which Election is Made (For additional subsidiaries, see instructions.) 
+7a   Name of subsidiary 
+b   Number, street, and room or suite no. If a P.O. box, see instructions. 
+c   City or town, state or province, country, and ZIP or foreign postal code 
+8   EIN (if any) 
+9   Date incorporated 
+10  State of incorporation 
+11 Date election is to take effect (month, day, year) (see instructions) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+12
+Did the subsidiary previously file a federal income tax return? If “Yes,” complete lines 13a, 13b, and 13c 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶ 
+Yes 
+No 
+13a Service center where last return was filed 
+13b Tax year ending date of last 
+return (month, day, year) ▶
+13c Check type of return filed: 
+Form 1120 
+Form 1120-S 
+Other ▶
+14  Is this election being made in combination with a section 368(a)(1)(F) reorganization described in Rev. Rul. 2008-18, where the subsidiary was 
+an S corporation immediately before the election and a newly formed holding company will be the subsidiary’s parent? 
+.
+.
+.
+.
+.
+ ▶ 
+Yes 
+No 
+15 Was the subsidiary’s last return filed as part of a consolidated return? If “Yes,” complete lines 16a, 16b, and 16c .
+.
+.
+.
+.
+.
+.
+ ▶ 
+Yes 
+No 
+16a Name of common parent 
+16b  EIN of common parent 
+16c Service center where consolidated return was filed 
+Under penalties of perjury, I declare that I have examined this election, including accompanying statements, and to the best of my knowledge and belief, it is true, correct, 
+and complete. 
+Signature of officer   
+of parent corporation ▶
+Title ▶
+Date ▶
+For Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 28755K
+Form 8869 (Rev. 12-2020) 

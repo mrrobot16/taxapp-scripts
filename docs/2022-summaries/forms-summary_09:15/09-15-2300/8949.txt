@@ -1,0 +1,11 @@
+Form 8949 is a document provided by the Internal Revenue Service (IRS) for reporting sales and other dispositions of capital assets. It is used in conjunction with Schedule D to list transactions for certain lines on the schedule. The form includes instructions and information on where to find the latest updates.
+
+The form is divided into two parts: Part I for short-term transactions and Part II for long-term transactions. Short-term transactions are those involving capital assets held for one year or less, while long-term transactions involve assets held for more than one year.
+
+For short-term transactions, taxpayers must check Box A, B, or C based on whether the basis (usually the cost) was reported to the IRS on Form 1099-B or a substitute statement. The form provides space to enter the description of the property, acquisition and disposal dates, proceeds, cost or other basis, adjustments to gain or loss, and the resulting gain or loss. Totals of the amounts in various columns are then entered on Schedule D.
+
+The process is similar for long-term transactions in Part II, with taxpayers checking Box D, E, or F based on the reporting of basis on Form 1099-B or a substitute statement. The form provides space to enter the details of the transactions and calculate the gain or loss. Totals are then entered on Schedule D.
+
+The form includes specific instructions for entering adjustments and codes, as well as guidance on what to do if the basis reported to the IRS is incorrect.
+
+Overall, Form 8949 is used to report capital asset transactions and is an important component of filing taxes accurately.

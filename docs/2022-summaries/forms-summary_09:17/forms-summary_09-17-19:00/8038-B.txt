@@ -1,0 +1,19 @@
+Form 8038-B is an information return for Build America Bonds and Recovery Zone Economic Development Bonds under Internal Revenue Code section 149(e). The form is used by issuers to report various details about the bonds they have issued.
+
+Part I of the form requires the issuer to provide their name, employer identification number (EIN), and contact information. They also have the option to indicate if the return is an amended return.
+
+Part II of the form asks the issuer to specify the type of bonds they have issued, such as Build America bonds (Tax Credit or Direct Payment) or Recovery Zone Economic Development bonds (Direct Payment). They are also required to provide the first interest payment date and the frequency of interest payments.
+
+Part III of the form requires the issuer to identify the purpose of the bond issue and enter the issue price. They must specify the purpose of the issue, such as education, health and hospital, transportation, public safety, environment, housing, utilities, or other. For Recovery Zone Economic Development bonds, they must also identify the purpose of the issue, such as capital expenditures, public infrastructure, construction of public facilities, or job training and educational programs.
+
+Part IV of the form asks for a description of the obligations, including the stated redemption price at maturity, final maturity date, weighted average maturity, and yield. If the issue is a variable rate issue, the issuer must indicate the frequency at which rates are reset.
+
+Part V of the form requires the issuer to provide information about the use of proceeds from the bond issue, including sales proceeds, expected investment proceeds, proceeds used for accrued interest, bond issuance cost, credit enhancement, reserve fund, capital expenditures, working capital expenditures, currently refunding prior issues, and advance refunding prior issues.
+
+Part VI of the form is only completed if the bond issue includes refunding bonds. It asks for information about the remaining weighted average maturity of the bonds to be refunded and the last date on which the refunded bonds will be called.
+
+Part VII of the form includes miscellaneous information, such as the volume cap allocated to the issue, gross proceeds invested in a guaranteed investment contract (GIC), proceeds used to make loans to other governmental units, information about loans made from the proceeds of another issue, information about hedges entered into by the issuer, and whether the issuer has established written procedures to ensure compliance with certain regulations.
+
+Part VIII of the form asks for the issuer's consent to the disclosure of certain information from the return. This includes consent to publish certain information about the bond issue to assist in the reporting obligations under section 6049.
+
+The form concludes with a signature and consent section, where the issuer's authorized representative must sign and date the form. There is also a section for paid preparers to sign and provide their information if applicable.

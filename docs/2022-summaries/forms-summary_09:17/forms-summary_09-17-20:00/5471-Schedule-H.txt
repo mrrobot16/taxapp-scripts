@@ -1,0 +1,362 @@
+SCHEDULE H 
+(Form 5471)
+(Rev. December 2021)
+Current Earnings and Profits
+Department of the Treasury 
+Internal Revenue Service
+▶ Attach to Form 5471. 
+▶ Go to www.irs.gov/Form5471 for instructions and the latest information.
+OMB No. 1545-0123
+Name of person filing Form 5471
+Identifying number
+Name of foreign corporation
+EIN (if any)
+Reference ID number (see instructions)
+IMPORTANT: Enter the amounts on lines 1 through 5c in functional currency. 
+1 
+Current year net income or (loss) per foreign books of account .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1
+2 
+ 
+Net adjustments made to line 1 to determine current 
+earnings and profits according to U.S. financial and tax 
+accounting standards (see instructions):
+Net Additions
+Net Subtractions
+a Capital gains or losses 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2a
+b
+Depreciation and amortization .
+.
+.
+.
+.
+.
+.
+.
+2b
+c
+Depletion .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2c
+d
+Investment or incentive allowance .
+.
+.
+.
+.
+.
+.
+2d
+e
+Charges to statutory reserves .
+.
+.
+.
+.
+.
+.
+.
+2e
+f
+Inventory adjustments 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2f
+g Income taxes (see Schedule E, Part I, Section 1, line 6, 
+column (m), and Part III, line 3, column (i))
+.
+.
+.
+.
+2g
+h
+Foreign currency gains or losses .
+.
+.
+.
+.
+.
+.
+2h
+i
+Other (attach statement) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2i
+3
+Total net additions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+3
+4 
+Total net subtractions .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5a
+Current earnings and profits (line 1 plus line 3 minus line 4) 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5a
+b
+DASTM gain or (loss) for foreign corporations that use DASTM (see instructions) 
+.
+.
+.
+.
+.
+.
+5b
+c 
+ 
+Combine lines 5a and 5b and enter the result on line 5c. Then enter on lines 5c(i), 5c(ii), and 5c(iii)(A) 
+through 5c(iii)(D) the portion of the line 5c amount with respect to the categories of income shown
+on those lines 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c
+(i) General category (enter amount on applicable Schedule J, Part I, 
+line 3, column (a)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c(i)
+(ii) Passive category (enter amount on applicable Schedule J, Part I, 
+line 3, column (a)) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c(ii)
+(iii) Section 901(j) category:
+(A) Enter the country code of the sanctioned country ▶
+and enter the line 5c amount with respect to the sanctioned 
+country on this line 5c(iii)(A) and on the applicable Schedule J, 
+Part I, line 3, column (a) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c(iii)(A)
+(B) Enter the country code of the sanctioned country ▶
+and enter the line 5c amount with respect to the sanctioned 
+country on this line 5c(iii)(B) and on the applicable Schedule J, 
+Part I, line 3, column (a) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c(iii)(B)
+(C) Enter the country code of the sanctioned country ▶
+and enter the line 5c amount with respect to the sanctioned 
+country on this line 5c(iii)(C) and on the applicable Schedule J, 
+Part I, line 3, column (a) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c(iii)(C)
+(D) Enter the country code of the sanctioned country ▶
+and enter the line 5c amount with respect to the sanctioned 
+country on this line 5c(iii)(D) and on the applicable Schedule J, 
+Part I, line 3, column (a) .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5c(iii)(D)
+d Current earnings and profits in U.S. dollars (line 5c translated at the average exchange rate, as 
+defined in section 989(b)(3) and the related regulations (see instructions)) .
+.
+.
+.
+.
+.
+.
+.
+.
+5d
+e
+Enter exchange rate used for line 5d .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ ▶
+For Paperwork Reduction Act Notice, see instructions.
+Cat. No. 71399W
+Schedule H (Form 5471) (Rev. 12-2021) 

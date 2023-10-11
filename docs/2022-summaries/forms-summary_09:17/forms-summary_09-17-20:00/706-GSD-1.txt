@@ -1,0 +1,233 @@
+Notification of Distribution From a
+Generation-Skipping Trust
+ 
+OMB No. 1545-1143
+ 
+ Form
+706-GS(D-1)
+ 
+(Rev. October 2008)
+ 
+Complete for each skip person distributee. See separate instructions.
+ 
+Department of The Treasury
+Internal Revenue Service
+ 
+Copy A: Send to IRS
+ 
+For calendar year 
+ 
+General Information
+ 
+2a
+ 
+Trust’s employer identification number (see instructions)
+ 
+1a
+ 
+Skip person distributee’s identifying number (see instructions)
+ 
+2b
+ 
+Trust’s name, address, and ZIP code
+ 
+1b
+ 
+Skip person distributee’s name, address, and ZIP code
+ 
+Distributions
+ 
+3 
+Describe each distribution below. (see instructions)
+ 
+e 
+Value
+(see instructions)
+ 
+d
+Inclusion 
+ratio
+ 
+c
+Date of 
+distribution
+ 
+b 
+Description of property
+ 
+a
+Item
+no.
+ 1 
+Trust Information (see instructions)
+ 
+If this is not an explicit trust, check here and attach a statement describing the arrangement that makes its effect 
+substantially similar to an explicit trust
+�
+ 
+4 
+No
+ 
+Yes
+ 
+Has any property been contributed to this trust since the last Form 706-GS(T) or (D-1) was filed? If “Yes,” attach
+a schedule showing how the trust’s inclusion ratio has been refigured
+ 
+5 
+Have any contributions been made to this trust since the last Form 706-GS(T) or (D-1) was filed that were not
+included in calculating the trust’s inclusion ratio? If “Yes,” attach a statement explaining why the contributions
+were not included
+ 
+6 
+Has any exemption been allocated to this trust by reason of the deemed allocation rules?
+ 
+7 
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief,
+it is true, correct, and complete. Declaration of preparer other than trustee is based on all information of which preparer has any knowledge.
+ 
+Signature of trustee �  
+Date �  
+Signature of preparer other than trustee �  
+Address � 
+Form 706-GS(D-1) (Rev. 10-2008)
+ 
+For Paperwork Reduction Act Notice, see page 5 of the separate trustee’s instructions.
+ 
+Cat. No. 10328B
+ 
+Date �  
+Part I
+ 
+Part II
+ 
+Part III
+ 
+f
+Tentative transfer
+(multiply col. e by col. d)
+ 
+Notification of Distribution From a
+Generation-Skipping Trust
+ 
+OMB No. 1545-1143
+ 
+ Form
+706-GS(D-1)
+ 
+(Rev. October 2008)
+ 
+Complete for each skip person distributee. See separate instructions.
+ 
+Department of The Treasury
+Internal Revenue Service
+ 
+For calendar year 
+ 
+General Information
+ 
+2a
+ 
+Trust’s employer identification number (see instructions)
+ 
+1a
+ 
+Skip person distributee’s identifying number (see instructions)
+ 
+2b
+ 
+Trust’s name, address, and ZIP code
+ 
+1b
+ 
+Skip person distributee’s name, address, and ZIP code
+ 
+Distributions
+ 
+3 
+Describe each distribution below (see instructions).
+ 
+e 
+Value
+(see instructions)
+ 
+d
+Inclusion 
+ratio
+ 
+c
+Date of 
+distribution
+ 
+b 
+Description of property
+ 
+a
+Item
+no.
+ 1 
+Form 706-GS(D-1) (Rev. 10-2008)
+ 
+For Paperwork Reduction Act Notice, see page 5 of the separate trustee’s instructions.
+ 
+Part I
+ 
+Part II
+ 
+f
+Tentative transfer
+(multiply col. e by col. d)
+ 
+Skip person distributee. To report this distribution, you must file Form 706-GS(D), Generation-Skipping Transfer Tax Return for
+Distributions, at the following address: Department of the Treasury, Internal Revenue Service Center, Cincinnati, OH 45999.
+ 
+Copy B: For
+Distributee
+ 
+Instructions for Skip Person Distributee
+ 
+Specific Instructions
+ 
+General Instructions
+ 
+Part I
+ 
+Form 706-GS(D-1) is used by a trustee to report to the
+distributee and to the Internal Revenue Service
+distributions from a trust that are subject to the
+generation-skipping transfer tax. The skip person
+distributee uses the information on Form 706-GS(D-1)
+to complete Form 706-GS(D), Generation-Skipping
+Transfer Tax Return for Distributions.
+ 
+Part II
+ 
+Column c. The date of distribution is the date the title
+to the property distributed passed from the trustee to
+the distributee. This is the date used to determine the
+value of the distribution.
+ 
+Attach a copy of each Form 706-GS(D-1) you
+received during the year to your Form 706-GS(D). You
+should also keep a copy for your records.
+ 
+If you believe the trustee has made an error on your
+Form 706-GS(D-1), notify the trustee and ask for a
+corrected Form 706-GS(D-1). Do not change any items
+on your copy. Be sure to ask the trustee to send a
+copy of the corrected Form 706-GS(D-1) to the IRS.
+ 
+Column f. Enter the tentative transfer amount on Form
+706-GS(D), Part II, column c.
+ 
+Line 2a. Enter the trust’s employer identification
+number from Part I of this form on Form 706-GS(D),
+Part II, column a.
+ 
+Column a. Use the same item number used here for
+the corresponding entry on Form 706-GS(D), Part II,
+column b.
+ 
+Purpose of Form
+ 
+Errors
+ 

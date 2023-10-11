@@ -1,0 +1,17 @@
+Schedule A (Form 990) is a document that must be completed by organizations that are classified as section 501(c)(3) organizations or section 4947(a)(1) nonexempt charitable trusts. This form is used to determine the organization's public charity status and public support.
+
+The form is divided into several parts, each addressing different aspects of the organization's status and support. 
+
+Part I requires the organization to indicate the reason for its public charity status by checking the appropriate box. The options include being a church, school, hospital, medical research organization, organization benefiting a college or university, government or governmental unit, organization receiving support from a governmental unit or the general public, community trust, agricultural research organization, organization meeting specific support requirements, organization testing for public safety, or organization supporting other publicly supported organizations. 
+
+Part II is to be completed if the organization checked the box on line 5, 7, or 8 of Part I or if the organization failed to qualify under Part III. This part requires the organization to provide a support schedule for organizations described in sections 170(b)(1)(A)(iv) and 170(b)(1)(A)(vi). The organization must report gifts, grants, contributions, and membership fees received, tax revenues levied for its benefit, services or facilities furnished by a governmental unit, and calculate its public support and total support for the specified years.
+
+Part III is to be completed if the organization checked the box on line 10 of Part I or if the organization failed to qualify under Part II. This part requires the organization to provide a support schedule for organizations described in section 509(a)(2). The organization must report gifts, grants, contributions, and membership fees received, gross receipts from related activities, tax revenues levied for its benefit, services or facilities furnished by a governmental unit, and calculate its public support and total support for the specified years.
+
+Part IV is to be completed if the organization checked a box on line 12 of Part I indicating it is a supporting organization. This part requires the organization to provide information about its supporting organization status, including whether it is a Type I, Type II, Type III functionally integrated, or Type III non-functionally integrated supporting organization. The organization must also provide information about its supported organizations.
+
+Part V is to be completed if the organization checked the box on line 12d of Part I indicating it is a Type III non-functionally integrated supporting organization. This part requires the organization to calculate its adjusted net income, minimum asset amount, distributable amount, and distributions. It also requires the organization to allocate excess distributions and underdistributions.
+
+Part VI provides space for the organization to provide any supplemental information required by the form.
+
+Overall, Schedule A (Form 990) is a comprehensive document that helps organizations determine and report their public charity status and public support. It requires organizations to provide detailed information about their operations, support, and relationships with other organizations.

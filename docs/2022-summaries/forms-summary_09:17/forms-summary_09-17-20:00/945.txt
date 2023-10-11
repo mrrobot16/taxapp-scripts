@@ -1,0 +1,313 @@
+Form   945
+Department of the Treasury  
+Internal Revenue Service   
+Annual Return of Withheld Federal Income Tax
+For withholding reported on Forms 1099 and W-2G. 
+For more information on income tax withholding, see Pub. 15 and Pub. 15-A.
+Go to www.irs.gov/Form945 for instructions and the latest information.
+OMB No. 1545-1430
+2022
+ 
+Type   
+or   
+Print 
+Name (as distinguished from trade name)
+Employer identification number (EIN)
+–
+Trade name, if any
+Address (number and street)
+City or town, state or province, country, and ZIP or foreign postal code
+If address is 
+different 
+from prior 
+return, check
+here. 
+A
+If you don’t have to file returns in the future, check here 
+and enter date final payments made. 
+1
+Federal income tax withheld from pensions, annuities, IRAs, gambling winnings, etc. .
+.
+.
+.
+.
+1
+2
+Backup withholding 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+2
+3
+Total taxes. If $2,500 or more, this must equal line 7M below or Form 945-A, line M  .
+.
+.
+.
+.
+3
+4 
+Total deposits for 2022, including overpayment applied from a prior year and overpayment applied
+from Form 945-X 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+4
+5
+Balance due. If line 3 is more than line 4, enter the difference and see the separate instructions
+.
+5
+6
+Overpayment. If line 4 is more than line 3, enter the difference .
+.
+$ 
+Check one:
+Apply to next return.
+Send a refund.
+• All filers: If line 3 is less than $2,500, don’t complete line 7 or Form 945-A.
+• Semiweekly schedule depositors: Complete Form 945-A and check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+• Monthly schedule depositors: Complete line 7, entries A through M, and check here .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+7 Monthly Summary of Federal Tax Liability. (Don’t complete if you were a semiweekly schedule depositor.)
+Tax liability for month  
+           
+          
+A January .
+.
+.
+B February 
+.
+.
+C March 
+.
+.
+.
+D April .
+.
+.
+.
+E May .
+.
+.
+.
+Tax liability for month  
+           
+          
+F June .
+.
+.
+.
+.
+G July .
+.
+.
+.
+.
+H August .
+.
+.
+.
+I September  .
+.
+.
+J October .
+.
+.
+.
+Tax liability for month  
+           
+          
+K November 
+.
+.
+L December 
+.
+.
+M 
+ 
+Total liability for 
+year (add lines A 
+through L) 
+.
+.
+Third- 
+Party 
+Designee
+Do you want to allow another person to discuss this return with the IRS? See separate instructions.
+Yes. Complete the following.
+No.
+Designee’s 
+name  
+Phone 
+no.   
+Personal identification 
+number (PIN)           
+Sign 
+Here
+Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and 
+belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature 
+Print Your 
+Name and Title  
+Date 
+Paid 
+Preparer 
+Use Only
+Print/Type preparer’s name
+Preparer’s signature
+Date
+Check          if  
+self-employed 
+PTIN
+Firm’s name    
+Firm’s address
+Firm’s EIN 
+Phone no. 
+For Privacy Act and Paperwork Reduction Act Notice, see the separate instructions.
+Cat. No. 14584B
+Form 945 (2022)
+Form 945-V, 
+Payment Voucher
+Purpose of Form
+Complete Form 945-V if you’re making a payment with 
+Form 945. We will use the completed voucher to credit 
+your payment more promptly and accurately, and to 
+improve our service to you.
+Making Payments With Form 945
+To avoid a penalty, make your payment with your 2022 
+Form 945 only if:
+• Your total taxes for the year (Form 945, line 3) are less 
+than $2,500 and you’re paying in full with a timely filed 
+return, or
+• You’re a monthly schedule depositor making a payment 
+in accordance with the Accuracy of Deposits Rule. See 
+section 11 of Pub. 15 for details. In this case, the amount 
+of your payment may be $2,500 or more.
+Otherwise, you must make deposits by electronic funds 
+transfer. See section 11 of Pub. 15 for deposit 
+instructions. Don’t use Form 945-V to make federal tax 
+deposits.
+▲
+!
+CAUTION
+Use Form 945-V when making any payment with 
+Form 945. However, if you pay an amount with 
+Form 945 that should’ve been deposited,  
+you may be subject to a penalty. See Deposit 
+Penalties in section 11 of Pub. 15.
+Specific Instructions
+Box 1—Employer identification number (EIN). If you   
+don’t have an EIN, you may apply for one online by 
+visiting the IRS website at www.irs.gov/EIN. You may also 
+apply for an EIN by faxing or mailing Form SS-4 to the 
+IRS. If you haven’t received your EIN by the due date of 
+Form 945, write “Applied For” and the date you applied in 
+this entry space.
+Box 2—Amount paid. Enter the amount paid with Form 
+945.
+Box 3—Name and address. Enter your name and 
+address as shown on Form 945.
+• Enclose your check or money order made payable to 
+“United States Treasury.” Be sure to enter your EIN, 
+“Form 945,” and “2022” on your check or money order. 
+Don’t send cash. Don’t staple Form 945-V or your 
+payment to the return (or to each other).
+• Detach Form 945-V and send it with your payment and 
+Form 945 to the address provided in the Instructions for 
+Form 945.
+Note: You must also complete the entity information 
+above line A on Form 945.
+Detach Here and Mail With Your Payment and Form 945. 
+Form  945-V
+Department of the Treasury  
+Internal Revenue Service   
+Payment Voucher
+Don’t staple this voucher or your payment to Form 945.
+OMB No. 1545-1430
+2022
+1 Enter your employer identification number (EIN).
+–
+2 Enter the amount of your payment .
+.
+.
+.  
+Make your check or money order payable to “United States Treasury”
+Dollars
+Cents
+3
+Enter your business name (individual name if sole proprietor).
+Enter your address.
+Enter your city or town, state or province, country, and ZIP or foreign postal code.

@@ -1,0 +1,13 @@
+Schedule L (Form 1118) is a document that taxpayers in the United States use to report foreign tax redeterminations. It is attached to Form 1118 and is used for each category of income. The form is divided into several parts.
+
+Part I is used to report an increase in the amount of foreign taxes accrued. Taxpayers enter redetermined amounts by payor entity for each separate relation back year, along with information such as the name of the payor entity, the country or U.S. possession to which tax is paid, and the additional tax accrued in local currency and U.S. dollars.
+
+Part II is used to report a decrease in the amount of foreign taxes paid or accrued. Similar to Part I, taxpayers enter redetermined amounts by payor entity for each relation back year, along with information such as the name of the payor entity, the country or U.S. possession from which tax was refunded or deemed refunded, and the refunded amount in local currency and U.S. dollars.
+
+Part III is used to report changes in inclusions, changes to the amount of foreign taxes paid, accrued, or deemed paid, and changes in foreign tax credits claimed for each relation back year. This information is reported on an overall taxpayer basis and not on a per payor entity basis.
+
+Part IV is used to report changes in U.S. tax liability for each relation back year and other affected years. This information is also reported on an overall taxpayer basis.
+
+Part V is used for annual reporting of contested taxes. However, it states that taxpayers should not complete this part for tax year 2022. Beginning with tax year 2023, taxpayers will enter information for each contested foreign tax liability for which they have previously made an election to claim a provisional foreign tax credit.
+
+The form includes instructions and references to additional information available on the IRS website.

@@ -1,0 +1,15 @@
+Schedule M (Form 8858) is a document that must be attached to Form 8858 when filing taxes. It is used to report transactions between a foreign disregarded entity (FDE) or foreign branch (FB) and the filer or other related entities.
+
+The schedule is divided into three sets of column headings based on the status of the tax owner: Controlled Foreign Partnership, Controlled Foreign Corporation, and U.S. Tax Owner. The filer must check the box that corresponds to their status and complete the relevant lines.
+
+The schedule includes various types of transactions such as sales of inventory, sales of property rights, compensation received for certain services, commissions received, rents, royalties, and license fees received, dividends/distributions received, interest received, loan guarantee fees received, and other transactions. The filer must enter the totals for each type of transaction that occurred during the annual accounting period between the FDE or FB and the listed entities.
+
+All amounts must be stated in U.S. dollars and translated from the functional currency of the FDE or FB at the appropriate exchange rate for the tax year. The schedule also requires the entry of the relevant functional currency and the exchange rate used throughout the schedule.
+
+The document provides specific instructions for each line and clarifies which entities should be included in each column.
+
+It is important to note that a separate Schedule M must be completed for each FDE or FB.
+
+For more detailed instructions and the latest information, filers are directed to visit the IRS website at www.irs.gov/Form8858.
+
+The document includes a Paperwork Reduction Act Notice and the form number is 37387C. The revision date of the form is September 2021.

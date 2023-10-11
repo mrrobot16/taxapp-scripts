@@ -1,0 +1,11 @@
+Form 8828 is used to calculate and report the recapture of a federal mortgage subsidy when selling or disposing of a home. The form requires the taxpayer to provide information about the home subject to the federally subsidized debt, including the address, type of subsidy, and details about the original loan.
+
+The form also requires the taxpayer to provide information about the sale or disposition of the home, including the date of sale, number of years and months between the original closing date and the date of sale, and the date of full repayment of the original loan.
+
+Part II of the form is used to compute the recapture tax. The taxpayer must provide the sales price of the home, expenses of sale, and the adjusted basis of the home. The form then calculates the gain or loss from the sale or disposition, multiplies the gain by 50%, and determines the modified adjusted gross income and adjusted qualifying income.
+
+The form calculates the income percentage and federally subsidized amount, and applies a holding period percentage. The final calculation determines the recapture amount, which is entered as tax on Form 1040.
+
+The form includes instructions and references to additional information for specific situations, such as refinancing the home and receiving a reissued mortgage credit certificate.
+
+Form 8828 is to be attached to Form 1040 and is subject to the Paperwork Reduction Act.

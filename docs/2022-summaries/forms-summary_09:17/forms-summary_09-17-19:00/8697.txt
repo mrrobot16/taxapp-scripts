@@ -1,0 +1,9 @@
+Form 8697 is a document provided by the Internal Revenue Service (IRS) for taxpayers to calculate interest under the Look-Back Method for completed long-term contracts. The form is used to determine the interest due or to be refunded based on adjustments to taxable income and tax liability for prior years. 
+
+The form is divided into two parts: Part I for the Regular Method and Part II for the Simplified Marginal Impact Method. The Regular Method requires taxpayers to provide information such as taxable income or loss for prior years, adjustments to income for completed contracts, and income tax liability. The form calculates the increase or decrease in tax for prior years and determines the amount of interest due or to be refunded.
+
+The Simplified Marginal Impact Method is an alternative method that simplifies the calculations by using regular tax rates and alternative minimum tax rates. The form requires taxpayers to provide similar information as in Part I and calculates the increase or decrease in tax for prior years to determine the amount of interest due or to be refunded.
+
+The form also includes sections for taxpayer signatures, preparer information (if applicable), and instructions for filing and including the form with the tax return.
+
+For more detailed instructions and the latest information, taxpayers are directed to visit the IRS website at www.irs.gov/Form8697.

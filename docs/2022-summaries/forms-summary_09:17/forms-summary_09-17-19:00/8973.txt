@@ -1,0 +1,17 @@
+Form 8973 is a document used by Certified Professional Employer Organizations (CPEOs) to report information about their customers to the Internal Revenue Service (IRS). The form is divided into several parts.
+
+Part 1 asks the filer to indicate the reason for filing the form, such as starting or ending a service contract or correcting a previously filed Form 8973.
+
+Part 2 is for providing customer information, including the customer's employer identification number (EIN), name, trade name (if any), and address.
+
+Part 3 is for providing CPEO information, including the CPEO's EIN, name, trade name (if any), and address.
+
+Part 4 asks about the relationship between the CPEO and the customer, including whether there is a contract between them and whether the customer is a provider of employment-related services or a related party of the CPEO.
+
+Part 5 is for the customer's signature, certifying the accuracy and completeness of the information provided.
+
+Part 6 is for the CPEO's signature, certifying the accuracy and completeness of the information provided.
+
+The form also includes a separate section for CPEOs to consent to the disclosure of tax information to the customer named in the form. This section requires the CPEO's signature, name, title, and EIN.
+
+Overall, Form 8973 is used to report information about the relationship between a CPEO and its customers to the IRS, as well as to authorize the disclosure of tax information to the customer.

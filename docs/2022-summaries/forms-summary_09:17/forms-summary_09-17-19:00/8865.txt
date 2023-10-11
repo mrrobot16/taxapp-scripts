@@ -1,0 +1,9 @@
+Form 8865 is used by U.S. persons to report their ownership interest in certain foreign partnerships to the IRS. The form requires information about the filer, including their identification number and address. It also asks for details about the foreign partnership, such as its name, country of organization, principal place of business, and business activity. The form also includes sections for reporting the filer's share of liabilities, information about the parent company if applicable, and information about certain other partners. 
+
+Additionally, the form asks for information about the foreign partnership's tax year, including the name and address of the agent in the United States and in the country of organization, if applicable. It also asks about disallowed deductions, special allocations, and the classification of the partnership under the law of the country in which it is organized. 
+
+The form includes schedules for reporting constructive ownership of partnership interests, certain partners of foreign partnerships, foreign partners of section 721(c) partnerships, and an affiliation schedule. There are also schedules for reporting income, deductions, and credits, as well as balance sheets, reconciliations of income, and analysis of partners' capital accounts. 
+
+Finally, the form includes a schedule for reporting transactions between the controlled foreign partnership and related entities. 
+
+Overall, Form 8865 is a comprehensive form that allows U.S. persons to report their ownership interest in foreign partnerships and provide the necessary information to the IRS.

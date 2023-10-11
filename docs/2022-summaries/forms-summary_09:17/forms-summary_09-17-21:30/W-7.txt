@@ -1,0 +1,13 @@
+Form W-7 is an application for an Individual Taxpayer Identification Number (ITIN) issued by the Internal Revenue Service (IRS) for individuals who are not U.S. citizens or permanent residents. The ITIN is used for federal tax purposes only and should not be applied for if the individual already has or is eligible to obtain a U.S. social security number (SSN). 
+
+The form allows individuals to apply for a new ITIN or renew an existing one. The reason for submitting the form must be indicated by checking one of the boxes provided, with corresponding instructions for each box. It is important to note that if certain boxes are checked, the individual must also file a U.S. federal tax return along with the Form W-7, unless they meet specific exceptions outlined in the instructions.
+
+The form requires the applicant to provide personal information such as name, mailing address, foreign address (if applicable), date of birth, country of birth, gender, citizenship(s), foreign tax identification number (if any), U.S. visa information (if applicable), and identification document(s) submitted (such as passport, driver's license, USCIS documentation, etc.). The applicant is also asked if they have previously received an ITIN or an Internal Revenue Service Number (IRSN), and if so, they must provide the ITIN/IRSN and the name under which it was issued.
+
+The form must be signed by the applicant or their delegate, and under penalties of perjury, the signer declares that the information provided is true, correct, and complete. The applicant may authorize the IRS to share information with their acceptance agent to facilitate the processing of the Form W-7.
+
+The form includes sections for the delegate's information (if applicable), including their relationship to the applicant, and a section for acceptance agents to complete if necessary.
+
+A copy of the form should be kept for the applicant's records.
+
+This summary provides an overview of the Form W-7, but it is important to consult the separate instructions provided by the IRS for detailed guidance on completing the form.

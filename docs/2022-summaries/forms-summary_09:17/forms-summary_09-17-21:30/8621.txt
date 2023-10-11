@@ -1,0 +1,17 @@
+Form 8621 is an information return that must be filed by a shareholder of a Passive Foreign Investment Company (PFIC) or Qualified Electing Fund (QEF). The form collects information about the shareholder's holdings and income from these foreign investment entities.
+
+The form begins with identifying information about the shareholder and the tax year in question. It then asks the shareholder to indicate their filing status (individual, corporation, partnership, etc.) and whether they have any Excepted Specified Foreign Financial Assets to report.
+
+Next, the form provides options for various elections that the shareholder can make regarding the treatment of their PFIC or QEF stock. These elections include treating the stock as a Qualifying Insurance Corporation, extending the time for payment of tax, marking-to-market the stock, recognizing gain on a deemed sale, and treating post-1986 earnings and profits as an excess distribution.
+
+The form also includes a section for the shareholder to provide a summary of annual information about their PFIC holdings, including the description of each class of shares, the date of acquisition, the number of shares held at the end of the tax year, and the value of the shares.
+
+Part III of the form is for shareholders of QEFs to report their income from the fund, including ordinary earnings and total net capital gain. It also includes calculations for determining the deferred tax and the time for payment of tax.
+
+Part IV is for shareholders who have made a mark-to-market election for their PFIC stock. It includes calculations for determining the gain or loss from the mark-to-market election.
+
+Part V is for reporting distributions from and dispositions of stock of a Section 1291 Fund. It includes calculations for determining excess distributions and gain or loss from dispositions.
+
+Part VI is for reporting the status of prior year section 1294 elections and the termination of section 1294 elections. It includes calculations for determining the deferred tax, interest accrued on deferred tax, and any partial termination of a section 1294 election.
+
+Overall, Form 8621 collects important information about a shareholder's holdings and income from PFICs and QEFs, and provides calculations for determining tax liabilities and making elections regarding the treatment of these investments.
