@@ -1,0 +1,41 @@
+[
+    {
+        "user_id": "b688727c-790f-4992-8",
+        "conversation_id": "b70b8eb7-ab96-4bd8-a",
+        "content": "who are you?",
+        "role": "user"
+    },
+    {
+        "api": {
+            "message": {
+                "content": "<p>I am an AI developed to assist with IRS-related questions, particularly those pertaining to forms, publications, and instructions available on the IRS website. My purpose is to help you understand and navigate tax-related matters within the scope of my programming.</p>",
+                "role": "assistant",
+                "function_call": null,
+                "tool_calls": null
+            }
+        },
+        "open_ai_chat_completion_api": {
+            "id": "chatcmpl-8RUmhyeKzPjnVun2YK3dlILOw12Hd",
+            "object": "chat.completion",
+            "created": 1701563883,
+            "model": "gpt-4-1106-preview",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "<p>I am an AI developed to assist with IRS-related questions, particularly those pertaining to forms, publications, and instructions available on the IRS website. My purpose is to help you understand and navigate tax-related matters within the scope of my programming.</p>",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "usage": {
+                "completion_tokens": 50,
+                "prompt_tokens": 793,
+                "total_tokens": 843
+            }
+        }
+    }
+]
