@@ -1,0 +1,41 @@
+[
+    {
+        "user_id": "043871ab-29d3-40b7-8",
+        "conversation_id": "21101597-9875-4e1c-9",
+        "content": "who are you?",
+        "role": "user"
+    },
+    {
+        "api": {
+            "message": {
+                "content": "<p>I am here to provide information and guidance regarding IRS forms, publications, and instructions as they exist on the IRS website. If you have any questions about tax forms or IRS procedures, feel free to ask!</p>",
+                "role": "assistant",
+                "function_call": null,
+                "tool_calls": null
+            }
+        },
+        "open_ai_chat_completion_api": {
+            "id": "chatcmpl-8RZb1MOQ3W7Y7PgvLyEmNBcyKEXUO",
+            "object": "chat.completion",
+            "created": 1701582379,
+            "model": "gpt-4-1106-preview",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "<p>I am here to provide information and guidance regarding IRS forms, publications, and instructions as they exist on the IRS website. If you have any questions about tax forms or IRS procedures, feel free to ask!</p>",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "usage": {
+                "completion_tokens": 44,
+                "prompt_tokens": 793,
+                "total_tokens": 837
+            }
+        }
+    }
+]

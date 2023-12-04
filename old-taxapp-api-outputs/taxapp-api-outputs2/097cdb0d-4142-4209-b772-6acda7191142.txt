@@ -1,0 +1,41 @@
+[
+    {
+        "user_id": "043871ab-29d3-40b7-8",
+        "conversation_id": "21101597-9875-4e1c-9",
+        "content": "who are you?",
+        "role": "user"
+    },
+    {
+        "api": {
+            "message": {
+                "content": "<p>I am an AI digital assistant designed to provide information and guidance on tax-related questions, specifically concerning the forms, publications, and instructions provided by the Internal Revenue Service (IRS) of the United States. My expertise is based on the resources available on the IRS website. If you have any questions about IRS forms or tax procedures, feel free to ask!</p>",
+                "role": "assistant",
+                "function_call": null,
+                "tool_calls": null
+            }
+        },
+        "open_ai_chat_completion_api": {
+            "id": "chatcmpl-8RY0PpOOzz3Y2bhgUNSAGHxFk2c1G",
+            "object": "chat.completion",
+            "created": 1701576265,
+            "model": "gpt-4-1106-preview",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "<p>I am an AI digital assistant designed to provide information and guidance on tax-related questions, specifically concerning the forms, publications, and instructions provided by the Internal Revenue Service (IRS) of the United States. My expertise is based on the resources available on the IRS website. If you have any questions about IRS forms or tax procedures, feel free to ask!</p>",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "usage": {
+                "completion_tokens": 73,
+                "prompt_tokens": 793,
+                "total_tokens": 866
+            }
+        }
+    }
+]
