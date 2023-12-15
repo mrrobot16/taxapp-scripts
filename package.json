@@ -2,6 +2,7 @@
     "license": "UNLICENSED",
     "scripts": {
         "generate_summaries": "python packages/python/scripts/generate_summaries.py --pdfs ./2022-forms/forms --save-summaries ./2022-summaries/forms-summary",
-        "ask_me_tax_questions": "python packages/python/scripts/ask_me_tax_questions.py --prompt" 
+        "ask_me_tax_questions": "python packages/python/scripts/ask_me_tax_questions.py --prompt",
+        "generate_summaries:instructions": "python scripts/generate_summaries_gpt.py generate-summary ../prompts-forms-publications-instructions/2022-forms/instructions docs/2022/summaries/instructions" 
     }
 }
