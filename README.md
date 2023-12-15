@@ -1,4 +1,4 @@
-## IRS Copilot Scripts   
+## TaxApp Scripts   
 
 Sample script for generating form summaries: ```python scripts/generate_summaries.py --pdfs ../../2022-forms/forms --save-summaries ../../2022-summaries/forms-summary```
 
