@@ -1,0 +1,45 @@
+<h2>Summary of Instructions for Form 1023-EZ (Rev. January 2023)</h2>
+<p>Form 1023-EZ is a streamlined version of Form 1023, used to apply for recognition of exemption under Section 501(c)(3) of the Internal Revenue Code. It is designed for certain smaller organizations.</p>
+
+<h3>Eligibility to File Form 1023-EZ</h3>
+<ul>
+  <li>Must complete the Form 1023-EZ Eligibility Worksheet.</li>
+  <li>Annual gross receipts must not exceed $50,000 in any of the next 3 years.</li>
+  <li>Total assets must not exceed $250,000.</li>
+  <li>Must not be a church, school, hospital, medical research organization, or a supporting organization.</li>
+</ul>
+
+<h3>Filing Process</h3>
+<ol>
+  <li>Form 1023-EZ must be filed electronically through the IRS website or Pay.gov.</li>
+  <li>A user fee is required to process the application, payable through Pay.gov.</li>
+</ol>
+
+<h3>Effective Date of Exemption</h3>
+<ul>
+  <li>If filed within 27 months after formation, exemption is effective from the date of formation.</li>
+  <li>If filed after 27 months of formation, exemption is effective from the filing date.</li>
+</ul>
+
+<h3>Application Process</h3>
+<p>Incomplete or incorrect applications may be rejected or require additional information. The IRS may also conduct pre-determination reviews on a random sample of applications.</p>
+
+<h3>Annual Filing Requirements</h3>
+<p>Organizations must file an annual return (Form 990, 990-EZ, or 990-N) unless specifically excepted.</p>
+
+<h3>Foundation Classification</h3>
+<p>Organizations must qualify as a public charity or private foundation. Form 1023-EZ includes a simplified test to determine public charity status based on public support criteria.</p>
+
+<h3>Reinstatement After Automatic Revocation</h3>
+<p>Organizations that were automatically revoked for failing to file required annual returns for 3 consecutive years can apply for reinstatement under certain conditions.</p>
+
+<h3>Signature Requirements</h3>
+<p>An authorized officer, director, or trustee must sign the form electronically, attesting to the truthfulness of the application under penalties of perjury.</p>
+
+<h3>Additional Information</h3>
+<ul>
+  <li>Form 1023-EZ includes instructions for each part and various schedules that may be applicable based on the organization's activities and characteristics.</li>
+  <li>Organizations should consult the full instructions and IRS publications for comprehensive guidance.</li>
+</ul>
+
+<p>For the latest updates and information, visit <a href="https://www.irs.gov/forms-pubs/about-form-1023-ez" target="_blank">IRS.gov/Form1023EZ</a>.</p>

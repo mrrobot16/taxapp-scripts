@@ -1,0 +1,33 @@
+<h2>Summary of IRS Form 1023-EZ Instructions (Rev. January 2023)</h2>
+<p>Form 1023-EZ is a streamlined version of Form 1023, used by certain smaller organizations to apply for recognition of tax exemption under Section 501(c)(3) of the Internal Revenue Code. The form and its instructions are provided by the U.S. Department of the Treasury and the Internal Revenue Service (IRS).</p>
+
+<h3>Contents</h3>
+<ol>
+  <li>General Instructions</li>
+  <li>Purpose of Form</li>
+  <li>Who Can File This Form</li>
+  <li>How To File</li>
+  <li>User Fee</li>
+  <li>When To File (Effective Date of Exemption)</li>
+  <li>Application Process</li>
+  <li>Filing Assistance</li>
+  <li>Signature Requirements</li>
+  <li>Annual Filing Requirements</li>
+  <li>Public Inspection</li>
+  <li>State Registration Requirements</li>
+  <li>Donor Reliance on a Favorable Determination</li>
+  <li>Specific Instructions</li>
+  <li>Part I. Identification of Applicant</li>
+  <li>Part II. Organizational Structure</li>
+  <li>Part III. Your Specific Activities</li>
+  <li>Part IV. Foundation Classification</li>
+  <li>Part V. Reinstatement After Automatic Revocation</li>
+  <li>Part VI. Signature</li>
+  <li>National Taxonomy of Exempt Entities (NTEE) Codes</li>
+</ol>
+
+<p>The instructions include details on eligibility, the user fee required, the application process, the annual filing requirements, and other relevant information. Organizations must complete an eligibility worksheet before filing, and they must not exceed certain thresholds for gross receipts and assets. Form 1023-EZ can only be filed electronically.</p>
+
+<p>Organizations that have had their tax-exempt status automatically revoked for failure to file required returns or notices for 3 consecutive years may seek reinstatement under certain conditions outlined in the instructions.</p>
+
+<p>For further guidance, refer to the complete instructions available on the IRS website. This summary is not exhaustive and does not contain all details provided in the actual instructions.</p>

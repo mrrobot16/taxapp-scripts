@@ -1,0 +1,41 @@
+{
+    "request": {
+        "user_id": "adfce3da-cebb-484f-9",
+        "conversation_id": "759c9cf1-840f-4a60-9",
+        "content": "who are you?",
+        "role": "user"
+    },
+    "response": {
+        "api": {
+            "message": {
+                "content": "<p>I am here to provide assistance with questions related to IRS forms, publications, instructions, and general information about filing taxes in the United States, as per the information available on the IRS website.</p>",
+                "role": "assistant",
+                "function_call": null,
+                "tool_calls": null
+            }
+        },
+        "open_ai_chat_completion_api": {
+            "id": "chatcmpl-8RukFtIgeVaohIcb8EgFHUDBRNhaF",
+            "object": "chat.completion",
+            "created": 1701663675,
+            "model": "gpt-4-1106-preview",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "<p>I am here to provide assistance with questions related to IRS forms, publications, instructions, and general information about filing taxes in the United States, as per the information available on the IRS website.</p>",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "usage": {
+                "completion_tokens": 41,
+                "prompt_tokens": 793,
+                "total_tokens": 834
+            }
+        }
+    }
+}

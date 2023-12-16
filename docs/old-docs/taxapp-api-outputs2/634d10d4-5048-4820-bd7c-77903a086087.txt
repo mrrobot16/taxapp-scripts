@@ -1,0 +1,41 @@
+[
+    {
+        "user_id": "1f765abe-cc9d-44bd-8",
+        "conversation_id": "f289da13-d8d7-4eb9-a",
+        "content": "who are you?",
+        "role": "user"
+    },
+    {
+        "api": {
+            "message": {
+                "content": "<p>I am here to provide assistance with questions related to IRS forms, publications, instructions, and due dates, based on the information available on the IRS website.</p>",
+                "role": "assistant",
+                "function_call": null,
+                "tool_calls": null
+            }
+        },
+        "open_ai_chat_completion_api": {
+            "id": "chatcmpl-8RY0fl5OWsJX0v8Kf9R0MA3oR2nd0",
+            "object": "chat.completion",
+            "created": 1701576281,
+            "model": "gpt-4-1106-preview",
+            "choices": [
+                {
+                    "finish_reason": "stop",
+                    "index": 0,
+                    "message": {
+                        "content": "<p>I am here to provide assistance with questions related to IRS forms, publications, instructions, and due dates, based on the information available on the IRS website.</p>",
+                        "role": "assistant",
+                        "function_call": null,
+                        "tool_calls": null
+                    }
+                }
+            ],
+            "usage": {
+                "completion_tokens": 34,
+                "prompt_tokens": 793,
+                "total_tokens": 827
+            }
+        }
+    }
+]
