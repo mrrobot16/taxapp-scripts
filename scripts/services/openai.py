@@ -7,7 +7,6 @@ from constants.openai import (
     OPENAI_API_KEY_DEV
 )
 
-
 class OpenAIService:
 
     def __init__(self, keys = OPENAI_API_KEY_DEV):
@@ -39,33 +38,15 @@ class OpenAIService:
                 temperature = temperature,
                 max_tokens = max_tokens
             )
-            # message = response.choices[0].message
-            # print("\n")
-            # print('response', response)
             message = response.choices[0].message
-            # print("\n")
-            # print('message', message)
             content = message.content
-            # print("\n")
-            # print('content:', content)
             return {
                 'status': 200,
                 'message': message.content,
-
             }
-            # print('content', content)
-            # openai_api_response_model = ChatCompletionResponseModel(message = message.model_dump())
-            # openai_response_model = OpenAIChatCompletionObjectResponseModel(**response.model_dump())
-            # return {
-            #     "api": openai_api_response_model.model_dump(),
-            #     "open_ai_chat_completion_api": openai_response_model.model_dump()
-            # }
         except Exception as error:
+            print('error', error)
             return {
                 'status': 400,
-                'message': f"chat_completion error: {error}",
                 'error': error
             }
- 
-def openai_service():
-    return OpenAIService()
