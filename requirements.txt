@@ -5,3 +5,4 @@ tiktoken==0.5.1
 typer==0.9.0
 httpx==0.25.2
 asyncio==3.4.3
+pandas==2.1.4

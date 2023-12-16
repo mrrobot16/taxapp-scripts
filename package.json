@@ -5,6 +5,10 @@
         "pull": "git pull origin dev",
         "generate_summaries": "python packages/python/scripts/generate_summaries.py --pdfs ./2022-forms/forms --save-summaries ./2022-summaries/forms-summary",
         "ask_me_tax_questions": "python packages/python/scripts/ask_me_tax_questions.py --prompt",
-        "generate_summaries:instructions": "python scripts/generate_summaries_gpt.py generate-summary ../prompts-forms-publications-instructions/2022-forms/instructions docs/2022/summaries/instructions" 
+        "generate_summaries:instructions": "python scripts/generate_summaries_gpt.py generate-summary ../prompts-forms-publications-instructions/2022-forms/instructions docs/2022/summaries/instructions",
+        "generate_summaries:publications": "python scripts/generate_summaries_gpt.py generate-summary docs/forms/publications docs/2022/summaries/publications",
+        "generate_summaries_txt:publications":"python scripts/generate_summaries_gpt_text.py generate-summary docs/forms/publications docs/2022/summaries/publications",
+        "token_report":"python scripts/calculate_token_report.py token-report docs/forms/publications docs/token_reports 150000",
+        "convert_pdf_to_text:publications":"python scripts/convert_pdf_to_text.py convert-to-text docs/forms/publications docs/forms/publications"
     }
 }
