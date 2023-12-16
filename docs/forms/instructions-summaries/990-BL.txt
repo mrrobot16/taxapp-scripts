@@ -1,0 +1,45 @@
+<h2>Summary of Instructions for Form 990-BL (Rev. January 2020)</h2>
+<p><b>Overview:</b> Form 990-BL is used by black lung benefit trusts, which are tax-exempt under section 501(c)(21), to report their activities to the IRS and to calculate any initial excise taxes on the trusts or related persons under sections 4951 and 4952.</p>
+
+<h3>Who Must File:</h3>
+<ul>
+<li>Trusts exempt under section 501(a) and described in section 501(c)(21) must file if they normally have gross receipts more than $50,000.</li>
+<li>Trusts with gross receipts of $50,000 or less may file an electronic notice instead.</li>
+<li>Schedule A (Form 990-BL) is used to report initial excise taxes under sections 4951 and 4952.</li>
+</ul>
+
+<h3>When and Where To File:</h3>
+<ul>
+<li>Form 990-BL must be filed by the 15th day of the 5th month after the end of the trust's tax year.</li>
+<li>It should be filed with the IRS Center in Kansas City, MO 64999.</li>
+<li>Extensions can be requested using Form 8868.</li>
+</ul>
+
+<h3>Accounting Methods:</h3>
+<p>Trusts should use their regular accounting method for reporting income, receipts, and disbursements unless otherwise specified.</p>
+
+<h3>Public Inspection:</h3>
+<ul>
+<li>Most parts of Form 990-BL are available for public inspection, except for Part IV and Schedule A (Form 990-BL).</li>
+<li>Trusts must make their returns available for public inspection for three years after the due date or the date filed, whichever is later.</li>
+</ul>
+
+<h3>Penalties:</h3>
+<ul>
+<li>Failure to file can result in penalties, including fines and potential penalties for willful failure to file or for filing fraudulent returns.</li>
+<li>There are also penalties for failure to comply with public inspection requirements.</li>
+</ul>
+
+<h3>Specific Instructions:</h3>
+<p>Instructions are provided for completing the identification area, including the signature requirement, and for filling out Parts I to IV of Form 990-BL.</p>
+
+<h3>Schedule A (Form 990-BL):</h3>
+<ul>
+<li>Used to report initial excise taxes on self-dealing and taxable expenditures.</li>
+<li>Not open for public inspection.</li>
+<li>Includes detailed instructions for completing the form based on the filer's status (trust, trustee, or disqualified person).</li>
+</ul>
+
+<p>The instructions also contain information on recordkeeping, learning about the law, and preparing the form. Additionally, it provides contact information for comments and suggestions regarding the form.</p>
+
+<p>For the most current information regarding Form 990-BL and its instructions, visit <a href="https://www.irs.gov/forms-pubs/about-form-990-bl" target="_blank">IRS.gov/Form990bl</a>.</p>

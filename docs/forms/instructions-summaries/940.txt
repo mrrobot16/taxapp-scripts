@@ -1,0 +1,38 @@
+<h2>Summary of 2022 Instructions for Form 940</h2>
+<p>The 2022 Instructions for Form 940 provide guidance for employers on how to fill out Form 940, which is used to report annual Federal Unemployment Tax Act (FUTA) tax. The instructions include what's new for the tax year, such as any credit reduction states, and reminders about tax responsibilities and requirements.</p>
+
+<h3>What's New</h3>
+<ul>
+<li>Credit reduction states are identified, which may require additional tax when filing Form 940.</li>
+</ul>
+
+<h3>Reminders</h3>
+<ul>
+<li>Moving expense and bicycle commuting reimbursements are subject to FUTA tax.</li>
+<li>Professional Employer Organizations (PEOs) must meet certain requirements and may affect employment tax liabilities.</li>
+<li>Outsourcing payroll duties does not relieve an employer of tax responsibilities.</li>
+<li>Electronic Federal Tax Payment System (EFTPS) must be used for federal tax deposits.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Form 940 is used to report annual FUTA tax, which, along with state unemployment systems, funds unemployment compensation for workers. Employers pay FUTA tax without deducting it from employees' wages. The form details who must file, how to calculate the tax, and when and where to file.</p>
+
+<h3>Specific Instructions</h3>
+<p>Employers must provide their EIN, name, and address, and indicate the type of return they are filing. The form covers multiple parts that employers need to complete:</p>
+
+<ol>
+<li>Part 1: Employer information and whether they are a multi-state employer or credit reduction state.</li>
+<li>Part 2: Determine FUTA tax before adjustments by reporting total payments to employees, exempt payments, and payments in excess of $7,000.</li>
+<li>Part 3: Determine adjustments for credit reduction or exempt wages.</li>
+<li>Part 4: Calculate the FUTA tax after adjustments and any balance due or overpayment.</li>
+<li>Part 5: Report FUTA tax liability by quarter if the total tax exceeds $500.</li>
+<li>Part 6: Designate a third-party to discuss the return with the IRS if desired.</li>
+<li>Part 7: Signature of the employer or authorized person.</li>
+</ol>
+
+<p>The instructions also include details on how to amend a return, how to avoid penalties and interest, and what to do if unable to pay in full.</p>
+
+<h3>Privacy Act and Paperwork Reduction Act Notice</h3>
+<p>The notice explains why the IRS collects information on Form 940, how it may be used, and the estimated time burden for completing the form.</p>
+
+<p>For detailed information and filing requirements, employers should refer to the full document on the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS website</a>.</p>

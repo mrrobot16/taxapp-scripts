@@ -1,0 +1,46 @@
+<h2>Summary of 2022 Instructions for Schedule D (Form 1120)</h2>
+
+<h3>Purpose of Schedule D</h3>
+<p>Corporations use Schedule D to:</p>
+<ol>
+  <li>Calculate overall gain or loss from transactions reported on Form 8949.</li>
+  <li>Report transactions not required on Form 8949.</li>
+  <li>Report gains from installment sales or like-kind exchanges.</li>
+  <li>Report capital gain distributions not reported directly on Form 1120.</li>
+  <li>Report unused capital loss carryovers.</li>
+</ol>
+
+<h3>Who Must File</h3>
+<p>Corporations must attach Schedule D to their tax return if they have capital asset transactions, capital gain distributions, or need to report a capital loss carryover.</p>
+
+<h3>Other Forms to File</h3>
+<p>Depending on the nature of transactions, corporations may need to file:</p>
+<ul>
+  <li>Form 8949 for sales or exchanges of capital assets.</li>
+  <li>Form 4797 for sales of business property.</li>
+  <li>Form 4684 for casualties and thefts.</li>
+  <li>Form 6781 for section 1256 contracts and straddles.</li>
+  <li>Form 8824 for like-kind exchanges.</li>
+  <li>Form 8997 for investments in Qualified Opportunity Funds (QOFs).</li>
+</ul>
+
+<h3>Capital Assets</h3>
+<p>Most property held by the corporation is considered a capital asset except for inventory, certain property used in a trade or business, accounts receivable, and other specific items.</p>
+
+<h3>Capital Losses</h3>
+<p>Capital losses are limited to the extent of capital gains with a carryback of 3 years and carryforward of up to 5 years.</p>
+
+<h3>Short-Term vs. Long-Term Gain or Loss</h3>
+<p>Short-term capital gains or losses (holding period of 1 year or less) are reported in Part I, and long-term gains or losses (holding period of more than 1 year) are reported in Part II.</p>
+
+<h3>Special Situations</h3>
+<p>Special rules apply to certain transactions such as installment sales, constructive sales, wash sales, and gains from QOF investments.</p>
+
+<h3>Specific Instructions</h3>
+<p>Corporations should round off cents to whole dollars on their return and schedules. If disposing of a QOF investment, check the box on the top of Schedule D and follow additional reporting requirements.</p>
+
+<p>For transactions not reported on Form 8949, corporations can report aggregate totals on lines 1a and 8a if certain conditions are met. Otherwise, transactions must be reported on Form 8949.</p>
+
+<p>Enter short-term and long-term totals from Form 8949 on Schedule D lines 1b, 2, 3, 8b, 9, and 10. Include any unused capital loss carryover on line 6 and total capital gain distributions on line 14.</p>
+
+<p>For the most recent information, visit <a href="https://www.irs.gov/form1120" target="_blank">IRS.gov/Form1120</a>.</p>

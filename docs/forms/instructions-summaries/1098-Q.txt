@@ -1,0 +1,30 @@
+<h2>Summary of Instructions for Form 1098-Q (Rev. December 2019)</h2>
+<p>The Instructions for Form 1098-Q provide guidance on reporting information for Qualifying Longevity Annuity Contracts (QLACs). QLACs are annuities that defer required minimum distributions from retirement accounts. The form is used by issuers of contracts that are intended to be QLACs.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>The form and instructions are subject to updates for changes such as new legislation. The latest information can be found on <a href="https://www.irs.gov/forms-pubs/about-form-1098-q" target="_blank">IRS.gov/Form1098Q</a>.</li>
+  <li>General instructions for information returns also apply, covering topics like filing requirements, electronic reporting, and penalties.</li>
+  <li>Form 1098-Q should be filed for any contract intended to be a QLAC, with specific requirements detailed in the instructions.</li>
+  <li>Limitations on premiums for QLACs are outlined, including dollar and percentage limits based on the employee's account balance or IRA balance.</li>
+  <li>Excess premiums must be corrected, or the contract may lose its QLAC status.</li>
+  <li>After an employee's death, benefits are generally limited to life annuities for surviving spouses or beneficiaries, with specific rules governing the amounts.</li>
+  <li>Return of premium payments are allowed under certain conditions and must be paid within specific time frames.</li>
+  <li>Issuers of QLACs must file Form 1098-Q and furnish annual statements to participants or surviving spouses.</li>
+  <li>Specific instructions are provided for completing the form, including what information to enter in each box.</li>
+</ul>
+
+<h3>Filing Requirements:</h3>
+<p>Issuers must file Form 1098-Q for each year premiums are paid until the year the individual reaches age 85 or dies, or, if the sole beneficiary is a spouse, until the year distributions to the spouse begin or the year the spouse dies, whichever is earlier.</p>
+
+<h3>Form Details:</h3>
+<ul>
+  <li>Box 1a: Annuity amount on the start date.</li>
+  <li>Box 1b: Annuity start date.</li>
+  <li>Box 2: Indicates if the start date may be accelerated.</li>
+  <li>Box 3: Total premiums paid.</li>
+  <li>Box 4: Fair market value of the QLAC.</li>
+  <li>Boxes 5a-5l: Details of each premium paid.</li>
+</ul>
+
+<p>For complete and detailed information, refer to the actual instructions available on the IRS website.</p>

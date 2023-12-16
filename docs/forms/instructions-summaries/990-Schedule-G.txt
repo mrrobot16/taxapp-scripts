@@ -1,0 +1,26 @@
+<h2>Summary of 2022 Instructions for Schedule G (Form 990)</h2>
+<p>Schedule G (Form 990) is utilized by organizations filing Form 990 or 990-EZ to provide detailed information about their fundraising, gaming activities, and professional fundraising services. The instructions outline when and how to complete the schedule.</p>
+
+<h3>Who Must File</h3>
+<p>Organizations must file Schedule G if they meet certain criteria related to fundraising events, gaming activities, and professional fundraising services, as specified in Form 990, Part IV, lines 17-19, or if they exceed the $15,000 threshold for fundraising or gaming gross income.</p>
+
+<h3>General Instructions</h3>
+<p>The schedule is divided into three parts:</p>
+<ol>
+  <li><b>Part I:</b> For reporting professional fundraising services if expenses exceed $15,000.</li>
+  <li><b>Part II:</b> For reporting fundraising events if gross income exceeds $15,000.</li>
+  <li><b>Part III:</b> For reporting gaming activities if gross income exceeds $15,000.</li>
+</ol>
+
+<h3>Specific Instructions</h3>
+<p>Each part of the schedule has detailed instructions for what information is required, such as agreements with professional fundraisers, types of fundraising events, gaming activities, and relevant financial details. Organizations must report gross receipts, contributions, direct expenses, and net income from these activities.</p>
+
+<h3>Supplemental Information (Part IV)</h3>
+<p>Part IV is provided for additional explanations or supplemental information that may be necessary to support responses in other parts of the schedule.</p>
+
+<h3>Definitions and Special Rules</h3>
+<p>The instructions also include definitions for terms used in the schedule and special rules regarding custody or control of funds, gaming licenses, and mandatory distributions from gaming proceeds.</p>
+
+<p>For the most up-to-date information, the IRS recommends checking their website for any new developments related to Schedule G (Form 990).</p>
+
+<p>For the complete document, please refer to the <a href="https://www.irs.gov/instructions/i990sg" target="_blank">IRS website</a>.</p>

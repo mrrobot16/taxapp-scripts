@@ -1,0 +1,45 @@
+<h2>Summary of the 2022 Instructions for Form 2106</h2>
+<p><b>Form 2106</b> is used by certain employees to deduct ordinary and necessary expenses related to their jobs. For 2022, it's particularly relevant for Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest information related to Form 2106, visit <a href="https://www.irs.gov/Form2106" target="_blank">IRS.gov/Form2106</a>.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>The standard mileage rate for 2022 is 58.5 cents per mile from January 1 to June 30, and 62.5 cents per mile from July 1 to December 31.</li>
+  <li>Depreciation limits on vehicles have been updated. The maximum section 179 expense deduction is $1,080,000, with a phase-out threshold of $2,700,000. The maximum cost of an SUV for section 179 purposes is $27,000.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Form 2106 is used by employees with specific types of employment and impairment-related work expenses. Due to the suspension of miscellaneous itemized deductions under section 67(a), many employees can no longer use Form 2106.</p>
+
+<h3>Recordkeeping</h3>
+<p>Detailed records must be kept to substantiate travel, gifts, and vehicle expenses, including receipts for lodging and expenses over $75.</p>
+
+<h3>Specific Instructions</h3>
+<h4>Part I - Employee Business Expenses and Reimbursements</h4>
+<p>Complete all of Part I if reimbursed for business expenses. If not reimbursed, complete only steps 1 and 3.</p>
+<ul>
+  <li>Line 1: Rural mail carriers receive a special treatment for qualified reimbursements.</li>
+  <li>Line 2: Commuting expenses are not deductible.</li>
+  <li>Line 3: Deduct lodging and transportation expenses for overnight travel away from tax home, but not meals.</li>
+  <li>Line 4: Include other job-related expenses such as business gifts and education.</li>
+  <li>Line 5: Allowable meals expenses can be deducted, and the standard meal allowance may be used instead of actual costs.</li>
+</ul>
+
+<h4>Part II - Vehicle Expenses</h4>
+<p>Two methods are available for calculating vehicle expenses: the standard mileage rate and the actual expense method.</p>
+<ul>
+  <li>Section A: General Information for both methods.</li>
+  <li>Section B: Standard Mileage Rate details.</li>
+  <li>Section C: Actual Expenses, including depreciation and lease inclusions.</li>
+  <li>Section D: Depreciation of Vehicles, with special rules for first-year depreciation and limits.</li>
+</ul>
+
+<h3>Who Must File Form 2106</h3>
+<p>Form 2106 should only be filed by Armed Forces reservists, qualified performing artists, fee-basis state or local government officials, and employees with impairment-related work expenses.</p>
+
+<h3>Additional Information</h3>
+<p>For more details about employee business expenses, refer to Publications 463, 529, 587, and 946.</p>
+
+<p>For the full document, please visit the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS website</a>.</p>

@@ -1,0 +1,25 @@
+<h2>Summary of Instructions for Schedule C (Form 1065) - December 2014 Revision</h2>
+
+<p>The Instructions for Schedule C (Form 1065) provide guidance for filers of Form 1065 who also submit Schedule M-3, which is used for reconciling net income (loss) for certain partnerships. The document includes information on future developments, new changes, the purpose of the form, filing requirements, and specific instructions for certain questions on the form.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest updates on Schedule C (Form 1065) and its instructions, including any legislative changes after publication, filers are directed to visit <a href="https://www.irs.gov/form1065" target="_blank">www.irs.gov/form1065</a>.</p>
+
+<h3>What's New</h3>
+<p>For tax years ending December 31, 2014, or later, certain partnerships with less than $50 million in total assets or those not required to file Schedule M-3 are not required to file Schedule C (Form 1065).</p>
+
+<h3>Purpose of Form</h3>
+<p>Schedule C (Form 1065) is used to provide additional information for filers of Schedule M-3 (Form 1065).</p>
+
+<h3>Who Must File</h3>
+<p>Typically, filers of Schedule M-3 must also complete and file Schedule C (Form 1065) and attach it to their return. However, there are exceptions for certain partnerships based on asset size or voluntary filing of Schedule M-3.</p>
+
+<h3>Specific Instructions</h3>
+<ol>
+  <li>Disclosures are required for certain transfers presumed to be sales between a partnership and its partners within two years of related transactions. Form 8275 or a similar statement must be used for disclosure.</li>
+  <li>Answer "Yes" if the partnership received special allocations of income or other tax items from another partnership.</li>
+  <li>Report changes in accounting principles as per the Statement of Financial Accounting Standards No. 154.</li>
+  <li>Use Form 3115 to request a change in accounting method, and refer to its instructions for further guidance.</li>
+</ol>
+
+<p>These instructions were valid as of April 01, 2014, and the document's catalog number is 51534B.</p>

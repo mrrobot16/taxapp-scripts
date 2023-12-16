@@ -1,0 +1,29 @@
+<h2>Summary of Instructions for Form 5310-A (Rev. December 2020)</h2>
+<p>Form 5310-A is used by employers to notify the IRS of certain plan events, such as mergers, spinoffs, or transfers of plan assets or liabilities, and to indicate if they are operating Qualified Separate Lines of Business (QSLOBs).</p>
+
+<h3>General Instructions</h3>
+<p><b>Purpose:</b> To notify the IRS about plan mergers, spinoffs, transfers, or QSLOBs.</p>
+<p><b>Who Must File:</b> Sponsors or administrators of pension, profit-sharing, or other deferred compensation plans, except multi-employer plans covered by PBGC insurance.</p>
+<p><b>Exceptions From Filing:</b> Certain direct rollovers, and plan mergers, consolidations, or spinoffs that meet specific conditions.</p>
+
+<h3>When To File</h3>
+<p>At least 30 days prior to plan events or by the notification date for the testing year for QSLOBs.</p>
+
+<h3>Penalties</h3>
+<p>Late filing can result in a penalty of $250 per day, up to a maximum of $150,000.</p>
+
+<h3>Where To File</h3>
+<p>Forms should be filed with the IRS at the specified address in Covington, KY, or delivered to the specified address in Florence, KY, if using a delivery service.</p>
+
+<h3>Signature</h3>
+<p>The form must be signed by the employer or plan administrator, with additional requirements if signed by a representative.</p>
+
+<h3>Specific Instructions</h3>
+<p>Form 5310-A includes detailed instructions for filling out the form, including codes for types of plans and transactions, and requirements for actuarial statements and additional information.</p>
+
+<h3>Privacy Act and Paperwork Reduction Act Notice</h3>
+<p>Explains the legal requirements for requesting the information and the routine uses of the data provided on the form.</p>
+
+<p>For further details, refer to the full instructions on the IRS website or contact the Employee Plans Customer Service at 1-877-829-5500.</p>
+
+<p><i>Note: The summary provided above is for informational purposes only and does not cover all the details included in the full instructions for Form 5310-A.</i></p>

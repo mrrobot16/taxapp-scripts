@@ -1,0 +1,30 @@
+<h2>Summary of Instructions for Form 965-E (December 2019)</h2>
+
+<p>Form 965-E is a consent agreement form used by S corporation shareholders to obtain consent to make a section 965(h) election for payment of a net tax liability under section 965(i) following certain triggering events. This form is required due to the amendments to section 965 of the Internal Revenue Code made on December 22, 2017. These amendments require certain taxpayers to include deferred foreign income of specified foreign corporations in their income.</p>
+
+<p>Specifically, shareholders of S corporations may defer payment of their section 965(i) net tax liability until a triggering event occurs, after which they can elect to pay in installments over 8 years. However, for certain triggering events related to the S corporation's substantial asset dispositions or cessation of business, shareholders must obtain the consent of the Commissioner to make the section 965(h) election.</p>
+
+<h3>Who Must File Form 965-E</h3>
+<ul>
+  <li>Shareholders with an outstanding section 965(i) net tax liability when a section 965(i)(2)(A)(ii) triggering event occurs.</li>
+</ul>
+
+<h3>When and Where to File</h3>
+<ul>
+  <li>Form 965-E must be filed within 30 days of the triggering event and mailed to the IRS's Memphis Compliance Service Collection Operations.</li>
+  <li>A duplicate copy must be attached to the shareholder's tax return for the year in which the triggering event occurs.</li>
+</ul>
+
+<h3>Specific Instructions for Form 965-E</h3>
+<ol>
+  <li><b>Part I:</b> Shareholder Information - Provide the shareholder's legal name, taxpayer identification number, and address.</li>
+  <li><b>Part II:</b> S Corporation Information - Provide the name and taxpayer identification number of the S corporation.</li>
+  <li><b>Part III:</b> Triggering Event - Describe the triggering event and provide the date it occurred.</li>
+  <li><b>Part IV:</b> Report of Unpaid Section 965(i) Net Tax Liability - State the amount of the liability and the expected date of the first installment payment.</li>
+  <li><b>Part V:</b> Shareholder's Ability to Make Payments - Confirm the shareholder's ability to make the required payments and provide relevant financial information.</li>
+  <li><b>Part VI:</b> Terms of Agreement - By signing, the shareholder agrees to the terms and declares the information provided is true and correct.</li>
+</ol>
+
+<p>It is important to note that no extensions for filing Form 965-E will be granted, and the form must be filed within the specified timeframe. Additionally, the form does not include the section 965(h) election itself, which must be made separately in accordance with the regulations.</p>
+
+<p>For more detailed information and the latest updates, taxpayers are directed to visit the IRS website at <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS.gov/Form965E</a>.</p>

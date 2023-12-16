@@ -1,0 +1,42 @@
+<h2>Summary of Instructions for Form 965 (Rev. January 2021)</h2>
+<p>The Instructions for Form 965 provide guidance on reporting the inclusion of deferred foreign income upon the transition to a participation exemption system, as amended by the Tax Cuts and Jobs Act (TCJA) on December 22, 2017.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Most lines on Form 965 are reserved for the 2020 tax year.</li>
+  <li>Form 965 is now used only for section 965(a) inclusions derived through interests in pass-through entities that are U.S. shareholders of deferred foreign income corporations (DFICs).</li>
+  <li>Schedule F and Schedule H have been revised for the 2020 tax year.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>The form is used to report the 2020 tax year share of section 965(a) inclusions from pass-through entities, the corresponding section 965(c) deductions, and any foreign taxes deemed paid or disallowed under section 965(g).</p>
+
+<h3>Definitions</h3>
+<p>Key terms such as 2020 tax years, controlled foreign corporation (CFC), deferred foreign income corporation (DFIC), specified foreign corporation (SFC), and United States shareholder (U.S. shareholder) are defined.</p>
+
+<h3>Who Must File</h3>
+<p>Any person with income under section 965(a) due to being a direct or indirect partner in a domestic partnership, a shareholder in an S corporation, or a beneficiary of a pass-through entity that is a U.S. shareholder of a DFIC must file Form 965.</p>
+
+<h3>When and Where To File</h3>
+<p>Form 965 and related schedules should be attached to the income tax return and filed by the due date for that return.</p>
+
+<h3>Electronic Filing of Form 965</h3>
+<p>Form 965 and related schedules should be filed electronically with the income tax return.</p>
+
+<h3>Corrections to Form 965</h3>
+<p>If corrections are needed, a corrected Form 965 and related schedules should be filed with an amended tax return.</p>
+
+<h3>How To Complete</h3>
+<p>Instructions are provided on how to complete the form, including the reporting of section 965(a) inclusions and section 965(c) deductions.</p>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>Details on completing each part of Form 965 and Schedules F and H are provided.</li>
+  <li>Separate Schedules F and H may need to be completed for each applicable separate category of income.</li>
+  <li>Instructions include how to report amounts on other tax forms, such as Forms 1116 and 1118.</li>
+</ul>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The notice explains the legal requirement to provide the information on Form 965 and the estimated burden of completing the form.</p>
+
+<p>For more detailed information, the instructions for Form 965 can be accessed on the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS website</a>.</p>

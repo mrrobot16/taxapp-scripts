@@ -1,0 +1,18 @@
+<h2>Summary of Instructions for Form 8869 (Rev. December 2020)</h2>
+<p><b>Purpose of Form:</b> Form 8869 is used by a parent S corporation to elect to treat one or more of its eligible subsidiaries as a qualified subchapter S subsidiary (QSub). This election treats the subsidiary as not separate from the parent for federal tax purposes.</p>
+
+<p><b>Eligible Subsidiary:</b> An eligible subsidiary is a domestic corporation 100% owned by an S corporation, not including certain ineligible corporations like banks using reserve method for bad debts, insurance companies subject to tax under subchapter L, or a DISC/former DISC.</p>
+
+<p><b>When To Make the Election:</b> The election can be made at any time during the tax year but has timing restrictions for the effective date, generally not more than 12 months after or 2 months and 15 days before the election is filed. Late elections may be accepted with reasonable cause.</p>
+
+<p><b>Where To File:</b> Form 8869 should be filed with the service center where the subsidiary or parent corporation filed its most recent return.</p>
+
+<p><b>Acceptance of Election:</b> The service center will notify the corporation if the QSub election is accepted and its effective date, or if it's not accepted. Proof of filing includes certified mail receipts or an IRS letter confirming receipt.</p>
+
+<p><b>End of Election:</b> The QSub election remains in effect until terminated, and IRS consent is generally required for another QSub election within five years of termination.</p>
+
+<p><b>Specific Instructions:</b> The form includes instructions on addressing, additional subsidiaries, reorganizations, Employer Identification Number (EIN) requirements, effective date of the election, and signature requirements.</p>
+
+<p><b>Paperwork Reduction Act Notice:</b> This notice explains the legal need for the information and the estimated time burden for completing the form.</p>
+
+<p>For more detailed information and instructions, please refer to the <a href="https://www.irs.gov/forms-pubs/about-form-8869" target="_blank">IRS website</a>.</p>

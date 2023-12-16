@@ -1,0 +1,38 @@
+<h2>Summary of Instructions for Schedule PH (Form 1120)</h2>
+
+<p>The Instructions for Schedule PH (Form 1120) provide guidance for corporations that may be classified as Personal Holding Companies (PHCs) and are therefore subject to the PHC tax. These instructions cover the revised version of the form as of December 2016, for use with the November 2015 revision of Schedule PH (Form 1120).</p>
+
+<h3>Future Developments</h3>
+<p>Updates to Schedule PH (Form 1120) and its instructions, such as legislative changes after publication, can be found on the IRS website.</p>
+
+<h3>What's New</h3>
+<p>For tax years beginning after December 31, 2015, corporations can elect to treat dividends paid after the tax year end and before the 16th day of the 4th month following the tax year end as paid during the tax year. Special rules apply for corporations with tax years ending in June.</p>
+
+<h3>General Instructions</h3>
+<p>Schedule PH is used to calculate the PHC tax. Corporations that meet certain income and ownership tests must file Schedule PH with their income tax return.</p>
+
+<h3>Personal Holding Company (PHC) Definition</h3>
+<ul>
+<li>A corporation is generally considered a PHC if at least 60% of its adjusted ordinary gross income is PHC income, and more than 50% of its stock is owned by five or fewer individuals during the last half of the tax year.</li>
+<li>Exceptions to PHC classification include tax-exempt corporations, banks, insurance companies, and foreign corporations, among others.</li>
+</ul>
+
+<h3>Specific Instructions</h3>
+<p>To determine if a corporation is a PHC, follow the steps to complete Schedule PH and the accompanying worksheet:</p>
+<ol>
+<li>Complete Part I and then lines 1 through 5 of the Worksheet.</li>
+<li>Complete Part II and then line 6 of the Worksheet.</li>
+<li>If the PHC income test is met and the stock ownership requirement is satisfied, the corporation must file Schedule PH and pay the PHC tax.</li>
+<li>Complete Part III to determine the amount of PHC tax.</li>
+</ol>
+
+<h3>Parts of Schedule PH</h3>
+<ul>
+<li><b>Part I:</b> Calculation of Undistributed Personal Holding Company Income, including additions and deductions to taxable income.</li>
+<li><b>Part II:</b> Determination of Personal Holding Company Income, with specific exclusions and adjustments.</li>
+<li><b>Part III:</b> Calculation of PHC tax rate at 20% on undistributed personal holding company income.</li>
+</ul>
+
+<p>The instructions also include a worksheet for figuring ordinary gross income, adjusted ordinary gross income, and the PHC income test, as well as detailed guidance on adjustments and exclusions related to rents, royalties, dividends, and other specific types of income.</p>
+
+<p>For the complete and detailed instructions, please refer to the IRS website or the actual instructions document.</p>

@@ -1,0 +1,33 @@
+<h2>Summary of Instructions for Form 1099-H (Rev. December 2020)</h2>
+
+<h3>Overview</h3>
+<p>Form 1099-H is used to report advance payments of the Health Coverage Tax Credit (HCTC). Providers of qualified health insurance coverage who receive these payments on behalf of eligible recipients must file Form 1099-H and furnish a statement to the recipient, unless they elect to have the IRS HCTC Program do so on their behalf.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest updates to Form 1099-H and its instructions due to new legislation or other changes, visit <a href="https://www.irs.gov/forms-pubs/about-form-1099-h" target="_blank">IRS.gov/Form1099H</a>.</p>
+
+<h3>Who Must File</h3>
+<p>Entities that receive advance payments of the HCTC on behalf of eligible recipients are required to file Form 1099-H, as mandated by Section 6050T of the Internal Revenue Code. The IRS HCTC Program may file and furnish statements unless the entity elects to do so independently.</p>
+
+<h3>How To File</h3>
+<p>Refer to Part E of the current General Instructions for Certain Information Returns and Publication 1220 for filing procedures with the IRS.</p>
+
+<h3>Statements to Recipients</h3>
+<p>Recipients must be furnished with a statement, which the HCTC Program can provide on behalf of the filer. Alternatively, filers may choose to file Form 1099-H and furnish the statement themselves.</p>
+
+<h3>Truncating Recipient's TIN</h3>
+<p>Filers may truncate the recipient's TIN on statements but not on documents filed with the IRS. A filer's TIN may not be truncated.</p>
+
+<h3>Waiver of Penalties</h3>
+<p>The IRS may waive penalties for failure to comply with reporting requirements if failures result from reasonable cause and not willful neglect. Entities that allow the HCTC Program to file and furnish Forms 1099-H on their behalf will not face penalties under sections 6721 and 6722.</p>
+
+<h3>Box 1: Amount of HCTC Advance Payments</h3>
+<p>Enter the total amount of advance health insurance premium payments received on behalf of the recipient for the year, not exceeding 72.5% of the total premium.</p>
+
+<h3>Box 2: No. of Mos. HCTC Payments Received</h3>
+<p>Enter the number of months for which payments were received, up to a maximum of 12 months.</p>
+
+<h3>Boxes 3 Through 14: Amount of Advance Payment(s) Included in Box 1</h3>
+<p>Enter the amount of advance payment received for each month in the corresponding box, ensuring the amounts are entered correctly for the appropriate month.</p>
+
+<p>For more detailed information, refer to the instructions provided with Form 1099-H or visit the IRS website.</p>

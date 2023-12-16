@@ -1,0 +1,41 @@
+<h2>Summary of Instructions for Form 965-A (Rev. January 2021)</h2>
+<p>The Instructions for Form 965-A provide guidance for individual taxpayers and entities taxed like individuals (e.g., certain trusts and estates) on how to report their net 965 tax liability, which relates to the repatriation tax on foreign earnings as amended by the Tax Cuts and Jobs Act of 2017.</p>
+
+<h3>Key Updates:</h3>
+<ul>
+  <li>Line 4 of Parts I, II, and III is designated for 2020 reporting.</li>
+  <li>Changes due to the CARES Act regarding the carryback of net operating losses (NOLs) to section 965 years are detailed.</li>
+</ul>
+
+<h3>Background:</h3>
+<p>Section 965 was amended to require certain taxpayers to include in income the accumulated post-1986 deferred foreign income of specified foreign corporations.</p>
+
+<h3>Who Must File:</h3>
+<p>Any individual taxpayer with a net 965 tax liability for any tax year or with any net 965 tax liability remaining unpaid during a tax year must file Form 965-A.</p>
+
+<h3>Filing Details:</h3>
+<p>Form 965-A must be filed with the taxpayer's income tax return by the due date (including extensions).</p>
+
+<h3>Form 965-A Sections:</h3>
+<ol>
+  <li><b>Part I:</b> Report net 965 tax liability and election to pay in installments.</li>
+  <li><b>Part II:</b> Record of amount of net 965 tax liability paid by the taxpayer.</li>
+  <li><b>Part III:</b> S corporation shareholder report of calculation of net 965 tax liability related to 965 amounts allocated from an S corporation and election to defer such net 965 tax liability.</li>
+  <li><b>Part IV:</b> Annual report of deferred net 965 tax liability related to 965 amounts allocated from S corporations.</li>
+</ol>
+
+<h3>Specific Instructions:</h3>
+<p>Detailed instructions are provided for each part of the form, including how to report various types of 965 inclusions and deductions, how to make elections, and how to report payments and deferrals.</p>
+
+<h3>Definitions:</h3>
+<p>Key terms such as Deferred Foreign Income Corporation (DFIC), U.S. Shareholder, and Net 965 Tax Liability are defined.</p>
+
+<h3>Additional Forms:</h3>
+<p>The IRS has developed related forms such as Form 965-C, Form 965-D, and Form 965-E, which are referenced in the instructions.</p>
+
+<h3>Paperwork Reduction Act Notice:</h3>
+<p>The estimated burden for individual taxpayers filing this form is included in the estimates shown in the instructions for their individual income tax return.</p>
+
+<p>For the most current information and developments related to Form 965-A and its instructions, taxpayers are advised to visit the IRS website.</p>
+
+<p>Please note that this is a summary and does not contain all the details provided in the full instructions for Form 965-A.</p>

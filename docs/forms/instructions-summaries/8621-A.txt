@@ -1,0 +1,37 @@
+<h2>Summary of Instructions for Form 8621-A (Rev. December 2018)</h2>
+<p>Form 8621-A is used by U.S. persons who are shareholders of a Passive Foreign Investment Company (PFIC) or a Section 1297(e) PFIC to make a late election to purge the PFIC taint. This form is relevant for those who did not make a timely election on Form 8621 and wish to end the treatment of their holdings as PFIC stock.</p>
+
+<h3>General Instructions</h3>
+<p>The form is intended for shareholders who are making a late election after the regular three-year window from the original due date of their tax return. The election can be either a deemed sale or deemed dividend election, as specified under section 1298(b)(1). The form requires the shareholder to compute tax and interest due on the late election.</p>
+
+<h3>How To Complete Form 8621-A</h3>
+<ol>
+  <li>Make the applicable election in Part I.</li>
+  <li>Provide basic information about the election in Part II or Part III.</li>
+  <li>Compute the tax and interest due in Part IV.</li>
+  <li>If the election year is a closed tax year, a closing agreement must be filed.</li>
+</ol>
+
+<p>A separate Form 8621-A is required for each PFIC for which a late purging election is being made.</p>
+
+<h3>Where To File</h3>
+<p>Form 8621-A should be filed with the Internal Revenue Service at a specific address in Ogden, UT provided in the instructions.</p>
+
+<h3>Definitions</h3>
+<p>The instructions provide definitions for terms such as Controlled Foreign Corporation (CFC), CFC Overlap Rules, Section 1297(e) PFIC, Election Year, Former PFIC, Indirect Shareholder, Passive Foreign Investment Company (PFIC), Qualified Electing Fund (QEF), Shareholder, and Termination Date.</p>
+
+<h3>Specific Instructions</h3>
+<p>Details are given on how to fill out each part of the form, including information on the shareholder's address, identifying number, and contact information. Part I requires choosing the type of election, and subsequent parts involve providing further information and calculations based on the type of election made.</p>
+
+<h3>Computation of Tax and Interest Due</h3>
+<p>Part IV deals with the computation of tax and interest due as a result of the late election. It includes instructions on how to calculate the excess distribution, allocation to tax years, and how to apply foreign tax credits if applicable.</p>
+
+<h3>Closing Agreement</h3>
+<p>If the election year is a closed tax year, the shareholder must file a closing agreement to ensure no prejudice to the interests of the U.S. government.</p>
+
+<h3>Balance Sheet</h3>
+<p>A balance sheet must be completed if the shareholder is making a late deemed sale election with respect to a former PFIC or a Section 1297(e) PFIC.</p>
+
+<p>The instructions also include a notice about the Privacy Act, Paperwork Reduction Act, and estimated time for recordkeeping and preparing the form.</p>
+
+<p>For more detailed information and the latest developments, it is recommended to visit the IRS website at <a href="https://www.irs.gov/forms-pubs/about-form-8621-a" target="_blank">IRS.gov/Form8621A</a>.</p>

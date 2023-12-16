@@ -1,0 +1,37 @@
+<h2>Summary of IRS Form 6765 Instructions (Rev. January 2023)</h2>
+<p>Form 6765 is used to calculate and claim the Credit for Increasing Research Activities, also known as the research credit, which incentivizes certain research activities by businesses. This form also allows for the election of a reduced credit and the option to claim part of the credit as a payroll tax credit against the employer portion of social security taxes.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest information about developments related to Form 6765, such as new legislation, users should check the IRS website.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Specific information is now required for research credit claims on amended returns or administrative adjustment requests (AAR).</li>
+  <li>Partners of Bipartisan Budget Act (BBA) Partnerships should refer to additional information for credit adjustments.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Partnerships and S corporations must file Form 6765 to claim the credit, while other entities generally do not need to file if their only source for the credit is a pass-through entity.</p>
+
+<h3>Definitions</h3>
+<p>Qualified research is research for which expenses may be treated as section 174 expenses, and it must meet certain criteria to be eligible for the credit. There are exclusions, such as research conducted after commercial production begins, adapting existing products, duplication of existing products, and research funded by another person or entity.</p>
+
+<h3>Eligible Small Business and Qualified Small Business</h3>
+<p>An eligible small business, for the purpose of offsetting AMT, is defined as a corporation, partnership, or sole proprietorship with average annual gross receipts of $50 million or less. A qualified small business, for the payroll tax credit election, is a corporation or partnership with gross receipts of less than $5 million for the tax year and no gross receipts for any tax year before the 5-tax-year period ending with the tax year.</p>
+
+<h3>Payroll Tax Credit Election</h3>
+<p>A qualified small business can elect to use a portion of the research credit, up to $250,000, against the employer portion of social security taxes.</p>
+
+<h3>Special Rules</h3>
+<p>Special rules apply to controlled groups and businesses under common control, partnerships, estates, trusts, and short tax years.</p>
+
+<h3>Specific Instructions</h3>
+<p>Form 6765 provides two methods for calculating the credit: the regular credit in Section A and the alternative simplified credit (ASC) in Section B. The form also includes a section for claiming the credit on employment tax returns and a worksheet for figuring the general business credit carryforward.</p>
+
+<h3>Research Credit Claims on Amended Returns</h3>
+<p>For research credit claims on amended returns or AARs, specific information must be provided for the claim to be valid, including details about business components, research activities, individuals involved, information sought, and total qualified expenses.</p>
+
+<h3>Partners of BBA Partnership</h3>
+<p>Partners of a BBA Partnership must file an AAR to change any partnership-related items and may need to include certain information with their return.</p>
+
+<p>The form also includes a section about the Paperwork Reduction Act Notice and the estimated time needed to complete and file the form.</p>

@@ -1,0 +1,36 @@
+<h2>Summary of 2022 Instructions for Form 8995</h2>
+
+<p>The <b>2022 Instructions for Form 8995</b> provide guidance on how to calculate the Qualified Business Income Deduction (QBI) using the Simplified Computation. This deduction allows eligible taxpayers to deduct up to 20% of their qualified business income from a domestic business operated as a sole proprietorship or through a partnership, S corporation, trust, or estate.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest updates on Form 8995 and its instructions, taxpayers should check <a href="https://www.irs.gov/Form8995" target="_blank">IRS.gov/Form8995</a>.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Adjustments for inflation to taxable income limitations.</li>
+  <li>Change of filing status name from "qualifying widow(er)" to "qualifying surviving spouse".</li>
+  <li>Introduction of a worksheet to track losses or deductions suspended due to other provisions.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Form 8995 is used to figure the QBI deduction for individuals, trusts, and estates with QBI, qualified REIT dividends, or qualified PTP income. The total QBI deduction is limited to 20% of taxable income minus net capital gain.</p>
+
+<h3>Who Can Take the Deduction</h3>
+<p>Taxpayers with taxable income before the QBI deduction below certain thresholds ($170,050 for single filers and $340,100 for joint filers) can use Form 8995. Those with higher incomes or who are patrons in specified agricultural or horticultural cooperatives use Form 8995-A.</p>
+
+<h3>Determining Qualified Trades or Businesses</h3>
+<p>Most trades and businesses qualify, except for the trade or business of performing services as an employee or certain specified service trades or businesses (SSTBs) unless income falls below certain thresholds.</p>
+
+<h3>Determining Your Qualified Business Income</h3>
+<p>QBI includes the net amount of qualified income, gain, deduction, and loss from any qualified trade or business. Certain investment-related items are excluded from QBI.</p>
+
+<h3>Specific Instructions</h3>
+<p>Details are provided on how to complete each line of Form 8995, including aggregating multiple trades or businesses, determining QBI, and calculating the QBI deduction.</p>
+
+<h3>Losses and Deductions Suspended by Other Provisions</h3>
+<p>Guidance is provided on how to track suspended losses or deductions for future years when they are allowed.</p>
+
+<h3>QBI Flow Chart</h3>
+<p>A flow chart is included to help determine if an item is included in QBI.</p>
+
+<p>For more detailed information, taxpayers should refer to the full instructions available at the IRS website.</p>

@@ -1,0 +1,26 @@
+<h2>Summary of Instructions for Form 8993 (Rev. January 2022)</h2>
+<p><b>Overview:</b> Form 8993 is used by domestic corporations to calculate the Section 250 deduction for Foreign-Derived Intangible Income (FDII) and Global Intangible Low-Taxed Income (GILTI). This deduction was introduced by the Tax Cuts and Jobs Act of 2017.</p>
+
+<p><b>What's New:</b> Updates have been made to the instructions based on final section 250 regulations.</p>
+
+<p><b>Important Reminders:</b> The deduction is available for tax years beginning after January 1, 2018, and before January 1, 2026, with deduction rates of 37.5% for FDII and 50% for GILTI. After 2025, the rates will be reduced to 21.875% and 37.5%, respectively. There is also a taxable income limitation for the deduction.</p>
+
+<p><b>Who Must File:</b> All domestic corporations and certain U.S. individual shareholders of controlled foreign corporations (CFCs) making a section 962 election must file Form 8993.</p>
+
+<p><b>Filing Instructions:</b> The form must be attached to the income tax return and filed by the due date of the return.</p>
+
+<p><b>Steps for Computing the Deduction:</b> The instructions provide a step-by-step process for calculating the deduction, starting with the determination of Deduction Eligible Income (DEI) and ending with the computation of the eligible deduction under section 250.</p>
+
+<p><b>Definitions:</b> Key terms such as FDDEI (Foreign-Derived Deduction Eligible Income), QBAI (Qualified Business Asset Investment), and DTIR (Deemed Tangible Income Return) are defined and explained.</p>
+
+<p><b>Special Rules:</b> The instructions cover special rules for sales, foreign use, and partnerships, as well as documentation requirements for substantiating claims.</p>
+
+<p><b>Limitations:</b> If FDII and GILTI exceed taxable income, the deduction is limited to taxable income, with specific instructions for calculating reductions to FDII and GILTI.</p>
+
+<p><b>Corrections:</b> If a previously filed Form 8993 is incorrect, a corrected form should be filed with an amended tax return.</p>
+
+<p><b>Specific Instructions:</b> Detailed instructions are provided for completing each part of the form, including how to determine DEI, DII, FDDEI, and the FDII and/or GILTI deduction.</p>
+
+<p><b>Paperwork Reduction Act Notice:</b> Information on the estimated time needed to complete the form and where to send comments is provided.</p>
+
+<p>For the most current information regarding Form 8993 and its instructions, taxpayers should visit <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS.gov/Form8993</a>.</p>

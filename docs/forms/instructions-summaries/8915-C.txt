@@ -1,0 +1,66 @@
+<h2>Summary of 2022 Instructions for Form 8915-C</h2>
+
+<p>
+    Form 8915-C is used to report qualified 2018 disaster retirement plan distributions and repayments. The form and its instructions provide guidance on how to handle these distributions and repayments for tax purposes.
+</p>
+
+<h3>Future Developments</h3>
+<p>
+    For the latest information related to Form 8915-C, such as updates after publication, visit <a href="https://www.irs.gov/forms-pubs/about-form-8915-c" target="_blank">IRS.gov/Form8915C</a>.
+</p>
+
+<h3>What's New</h3>
+<p>
+    The repayment period for qualified 2018 disaster distributions ends 3 years and 1 day after the distribution was received. Repayments reported on the 2022 Form 8915-C can reduce income reported on 2019, 2020, 2021, or 2022 tax returns. If you've already filed for the year in question, you'll need to amend that return.
+</p>
+
+<h3>Coronavirus-Related Distributions</h3>
+<p>
+    Repayments for coronavirus-related distributions made in 2022 should not be reported on Form 8915-C. Instead, use Form 8915-F.
+</p>
+
+<h3>Purpose of Form</h3>
+<p>
+    Form 8915-C is used for reporting income from qualified 2018 disaster distributions taken in 2020 that are spread over 3 years and for reporting repayments made in 2022 that were not included on your 2021 Form 8915-C.
+</p>
+
+<h3>Who Must File</h3>
+<p>
+    You must file Form 8915-C if you received a qualified 2018 disaster distribution in 2020 that you're including in income over 3 years, or if you made a repayment of such a distribution in 2022.
+</p>
+
+<h3>When and Where To File</h3>
+<p>
+    File Form 8915-C with your 2022 Form 1040, 1040-SR, or 1040-NR. If you're not required to file an income tax return but must file Form 8915-C, send it to the IRS at the same time and place you would file your tax return.
+</p>
+
+<h3>Qualified 2018 Disaster Distribution</h3>
+<p>
+    To have a qualified 2018 disaster distribution, you must have been affected by a disaster listed in Table 1 at the end of the instructions. The distribution is generally included in income over 3 years unless you elected to include the entire distribution in the year it was received. Qualified 2018 disaster distributions are not subject to the 10% additional tax on early distributions.
+</p>
+
+<h3>Repayment of a Qualified 2018 Disaster Distribution</h3>
+<p>
+    Repayments must be made within 3 years and 1 day after the distribution was received and cannot exceed the original distribution amount. Repayments are treated as a trustee-to-trustee transfer and are not included in income.
+</p>
+
+<h3>Exceptions</h3>
+<ul>
+    <li>Qualified 2018 disaster distributions received as a beneficiary (other than a surviving spouse).</li>
+    <li>Required minimum distributions.</li>
+    <li>Periodic payments made for 10 years or more, or for life expectancy.</li>
+</ul>
+
+<h3>Amending Form 8915-C</h3>
+<p>
+    If you need to amend a return to claim a repayment, file Form 1040-X. The timing of your repayments determines if you need to file an amended return.
+</p>
+
+<h3>Privacy Act and Paperwork Reduction Act Notice</h3>
+<p>
+    Information on this form is used to comply with U.S. tax laws. Failure to provide this information may result in penalties. The information is confidential but may be disclosed to certain government entities as prescribed by law.
+</p>
+
+<p>
+    For a full list of the qualified 2018 disaster areas and more detailed instructions, please refer to the actual IRS instructions for Form 8915-C.
+</p>

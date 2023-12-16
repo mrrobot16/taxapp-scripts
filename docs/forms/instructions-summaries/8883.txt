@@ -1,0 +1,30 @@
+<h2>Summary of Instructions for Form 8883 (Rev. October 2017)</h2>
+
+<h3>Purpose of Form 8883</h3>
+<p>Form 8883, "Asset Allocation Statement Under Section 338," is used to report transactions involving the deemed sale of corporate assets under section 338, including information previously reported on Form 8023.</p>
+
+<h3>Who Must File</h3>
+<p>Both the old target and the new target must file Form 8883 for elections under section 338(g) and 338(h)(10).</p>
+
+<h3>When and How To File</h3>
+<p>Generally, Form 8883 should be attached to the tax return that reports the effects of the section 338 deemed sale and purchase of the target's assets. Specific filing requirements are provided for different types of entities such as S corporations, consolidated groups, and foreign targets.</p>
+
+<h3>Penalties</h3>
+<p>Failure to file a correct Form 8883 by the due date without reasonable cause may result in penalties.</p>
+
+<h3>Elections for Multiple Targets Under Section 338</h3>
+<p>Separate Form 8883 should be filed for each target corporation, even if one Form 8023 is used for multiple targets.</p>
+
+<h3>Asset Classes</h3>
+<p>Assets transferred are categorized into seven classes, from cash (Class I) to goodwill and going concern value (Class VII). Each class has specific definitions and rules for allocation of the purchase price.</p>
+
+<h3>Specific Instructions</h3>
+<p>Detailed instructions are provided for completing the form, including identifying information for the filer, other party, and target corporation, as well as general information on the transaction.</p>
+
+<h3>Original Statement of Assets Transferred</h3>
+<p>The residual method is used to allocate the aggregate deemed sales price (ADSP) or the adjusted grossed-up basis (AGUB) among the asset classes. Fair market value considerations and specific allocation steps are outlined.</p>
+
+<h3>Supplemental Statement of Assets Transferred</h3>
+<p>If there are increases or decreases in the amount allocated to any asset after the year in which the sale occurs, affected parties must complete and attach Form 8883 to their tax return for that year. Instructions for reallocation and reasons for adjustments are provided.</p>
+
+<p>For the complete and detailed instructions, refer to the official IRS instructions for Form 8883 on the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS website</a>.</p>

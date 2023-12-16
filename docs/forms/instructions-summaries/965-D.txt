@@ -1,0 +1,32 @@
+<h2>Summary of Instructions for Form 965-D (December 2019)</h2>
+<p><b>Background:</b> The Tax Cuts and Jobs Act amended Section 965 of the Internal Revenue Code on December 22, 2017. Certain taxpayers must include a Section 965(a) inclusion amount in income, which is based on the accumulated post-1986 deferred foreign income of certain foreign corporations they own. S corporation shareholders may defer this inclusion amount until a triggering event occurs.</p>
+
+<p><b>Purpose of Form 965-D:</b> This form is used by eligible S corporation shareholders to enter into a transfer agreement under Section 965(i)(2) to defer the payment of the net tax liability until a triggering event occurs.</p>
+
+<p><b>Definitions:</b>
+<ul>
+<li><b>Covered triggering event:</b> A transfer of S corporation stock that results in a change of ownership for federal income tax purposes.</li>
+<li><b>Eligible section 965(i) transferee:</b> A U.S. person who becomes a shareholder of an S corporation due to a transfer that is a covered triggering event.</li>
+<li><b>Eligible section 965(i) transferor:</b> A shareholder of an S corporation who transfers stock in a covered triggering event.</li>
+<li><b>Section 965(i) net tax liability:</b> The tax liability resulting from the inclusion of deferred foreign income.</li>
+</ul>
+</p>
+
+<p><b>Who Must File:</b> Eligible section 965(i) transferor and transferee must file Form 965-D to enter into a transfer agreement when a covered triggering event occurs.</p>
+
+<p><b>When and Where To File:</b> The form must be filed within 30 days of the covered triggering event and sent to the IRS's Memphis Compliance Service Collection Operations. A duplicate copy must be attached to the tax returns of both the transferor and transferee for the tax year in which the event occurs.</p>
+
+<p><b>Specific Instructions:</b>
+<ul>
+<li>Parts I and II require identifying information of the transferor and transferee.</li>
+<li>Part III requires identifying information of the S corporation with respect to which the Section 965(i) election was effective.</li>
+<li>Part IV details the triggering event leading to the transfer agreement.</li>
+<li>Part V reports the unpaid Section 965(i) net tax liability attributable to the transferred stock.</li>
+<li>Part VI assesses the transferee's ability to pay the remaining liability.</li>
+<li>Part VII contains the terms of the agreement, which must be signed by both parties under penalties of perjury.</li>
+</ul>
+</p>
+
+<p><b>Special Rules:</b> In the case of the death of the eligible section 965(i) transferor, the form must be filed by the unextended due date for the transferor's final income tax return. Separate transfer agreements must be filed for each transfer if there are multiple partial transfers.</p>
+
+<p><b>Paperwork Reduction Act Notice:</b> This section explains the legal requirements for requesting the information on this form and the estimated time burden for completing it.</p>

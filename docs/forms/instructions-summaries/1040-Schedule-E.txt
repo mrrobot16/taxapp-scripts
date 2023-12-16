@@ -1,0 +1,40 @@
+<h2>Summary of 2022 Instructions for Schedule E (Form 1040)</h2>
+<p>Schedule E (Form 1040) is used by taxpayers to report income or loss from various sources including rental real estate, royalties, partnerships, S corporations, estates, trusts, and REMICs.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>Separately report total income and total loss for each part of Schedule E.</li>
+  <li>Special mileage rates apply for rental activities: 58.5 cents per mile from Jan 1 to Jun 30, 2022, and 62.5 cents per mile from Jul 1 to Dec 31, 2022.</li>
+  <li>New Form 7205 is used to claim the energy-efficient commercial buildings deduction.</li>
+  <li>Business meal expenses are 100% deductible under certain conditions for a limited time.</li>
+  <li>Losses may be subject to limitations such as basis, at-risk, passive activity, and excess business loss rules.</li>
+  <li>Form 7203 is used for figuring a shareholder's stock and debt basis in an S corporation.</li>
+  <li>Additional forms may be required to report specific details or to claim deductions or losses.</li>
+</ul>
+
+<h3>Other Schedules and Forms You May Have To File:</h3>
+<ul>
+  <li>Form 1041 for estates and trusts.</li>
+  <li>Form 3520 for transactions with foreign trusts or receipt of large gifts from foreign persons.</li>
+  <li>Form 4562 for depreciation and amortization.</li>
+  <li>Form 6198 for at-risk limitations.</li>
+  <li>Form 8582 for passive activity loss limitations.</li>
+  <li>Form 8990 to determine if business interest deduction is limited.</li>
+  <li>Form 8995 or 8995-A for qualified business income deduction.</li>
+</ul>
+
+<h3>Qualified Joint Venture:</h3>
+<p>A qualified joint venture between spouses allows them to report rental real estate income and deductions directly on their joint return instead of filing Form 1065 for a partnership.</p>
+
+<h3>Reportable Transaction Disclosure Statement:</h3>
+<p>Use Form 8886 to disclose information for each reportable transaction in which you participated.</p>
+
+<h3>Limitation on Losses:</h3>
+<p>Losses from rental real estate, partnerships, S corporations, estates, or trusts may be limited by various rules and must be applied in a specific order.</p>
+
+<h3>Recordkeeping:</h3>
+<p>Keep records to support items reported on Schedule E in case the IRS has questions.</p>
+
+<p>For the latest information and developments related to Schedule E (Form 1040) and its instructions, such as legislation enacted after they were published, go to <a href="https://www.irs.gov/ScheduleE" target="_blank">IRS.gov/ScheduleE</a>.</p>
+
+<p>This summary does not cover all details and exceptions found in the full instructions. For complete guidance, refer to the official IRS instructions for Schedule E (Form 1040).</p>

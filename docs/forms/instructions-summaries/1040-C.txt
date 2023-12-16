@@ -1,0 +1,33 @@
+<h2>Instructions for Form 1040-C (Rev. January 2023)</h2>
+<p>Form 1040-C, U.S. Departing Alien Income Tax Return, is used by aliens who are leaving the United States to report income received or expected to be received for the entire tax year and pay the expected tax liability on that income, if required.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Form 1040-C is now for continuous use and will not be issued annually.</li>
+  <li>A new question regarding digital assets has been added to Form 1040-C.</li>
+  <li>The standard deduction and alternative minimum tax (AMT) exemption amounts have increased for 2023.</li>
+  <li>The maximum amount of earned income subject to social security tax is $162,200 for 2023.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Use your 2022 tax return as a guide for your 2023 tax, but consider the changes mentioned above. Specific instructions are provided for former U.S. citizens and long-term residents who expatriate, as well as for foreign students on certain visas with regards to social security or Medicare taxes withheld in error.</p>
+
+<h3>Purpose of Form</h3>
+<p>Form 1040-C must be filed before an alien leaves the United States or any of its possessions. Nonresident aliens should use the 2022 Instructions for Form 1040-NR, while resident aliens should use the 2022 Instructions for Forms 1040 and 1040-SR to help complete Form 1040-C.</p>
+
+<h3>Final Return Required</h3>
+<p>A Form 1040-C is not a final return. A final income tax return must be filed after the tax year ends.</p>
+
+<h3>Certificate of Compliance</h3>
+<p>The issuance of a certificate of compliance does not finalize your tax liability. If additional tax is owed, it must be paid.</p>
+
+<h3>Exceptions</h3>
+<p>Some individuals, such as representatives of a foreign government, certain students, trainees, and teachers, do not need a certificate of compliance.</p>
+
+<h3>How To Get the Certificate</h3>
+<p>Aliens should not leave the United States without obtaining a certificate of compliance on Form 1040-C or Form 2063. To get a certificate, file Form 1040-C or Form 2063 with your local IRS office before departure. Pay all tax shown as due and any taxes due for past years.</p>
+
+<h3>Specific Instructions</h3>
+<p>Details are provided for how to complete Form 1040-C, including information on dependents, figuring your income tax, tax rate schedules, and itemized deductions.</p>
+
+<p>For more detailed information, refer to the <a href="https://www.irs.gov/instructions/i1040c" target="_blank">official IRS instructions for Form 1040-C</a>.</p>

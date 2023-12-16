@@ -1,0 +1,37 @@
+<h2>Summary of Instructions for Form 945-A (Rev. December 2022)</h2>
+<p><b>Form 945-A: Annual Record of Federal Tax Liability</b> is used to report federal tax liability for certain tax returns, based on the dates payments were made or wages were paid. This form is for use with the December 2020 revision of Form 945-A.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest information about developments related to Form 945-A and its instructions, such as legislation enacted after they were published, visit <a href="https://www.irs.gov/Form945A" target="_blank">IRS.gov/Form945A</a>.</p>
+
+<h3>What's New</h3>
+<p>The COVID-19 related employee retention credit has expired, and instructions for adjusting tax liability for this credit have been deleted.</p>
+
+<h3>Reminders</h3>
+<p>Adjusting tax liability for nonrefundable credits claimed on Form CT-1 or Form 944 is detailed in the instructions. Reporting prior period adjustments should be done on Form 945-X, CT-1 X, or 944-X, and are not taken into account for current year tax liability.</p>
+
+<h3>General Instructions</h3>
+<p>Form 945-A is used by semiweekly schedule depositors of various taxes, including federal income tax withholding on nonpayroll payments, railroad retirement taxes, and employment taxes. Monthly schedule depositors who accumulate $100,000 or more of tax liability in a month also must file Form 945-A.</p>
+
+<h3>Who Must File?</h3>
+<p>Semiweekly schedule depositors must file Form 945-A. Monthly schedule depositors who become semiweekly schedule depositors during any month of the year must also file Form 945-A for the entire year.</p>
+
+<h3>When Must You File?</h3>
+<p>Form 945-A must be filed with Form 945, CT-1, or 944 every year when these forms are due.</p>
+
+<h3>Specific Instructions</h3>
+<p>Form 945-A requires careful entry of business information, including employer identification number (EIN) and business name. The form should be completed based on the dates wages were paid or nonpayroll payments were made, not on the dates payroll liabilities were accrued or deposits made. The total tax liability for the year reported on Form 945-A must match the net taxes reported on the respective tax forms.</p>
+
+<h3>Adjusting Tax Liability for Nonrefundable Credits</h3>
+<p>Instructions are provided for adjusting tax liability on Form 945-A for nonrefundable credits claimed on Form CT-1 or Form 944.</p>
+
+<h3>Correcting Previously Reported Tax Liability</h3>
+<p>Semiweekly schedule depositors can file an amended Form 945-A to correct errors that do not change the total liability. Monthly schedule depositors can use Form 945-A to correct errors on the monthly tax liability section of Form 945, CT-1, or 944.</p>
+
+<h3>Forms 945-X, CT-1 X, and 944-X</h3>
+<p>Amended Form 945-A may need to be filed with these forms to avoid or reduce a failure-to-deposit (FTD) penalty.</p>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>This section explains the legal need for the information and the estimated time to complete and file the form.</p>
+
+<p>For detailed instructions, it is recommended to review the actual <a href="https://www.irs.gov/forms-pubs/about-form-945" target="_blank">Instructions for Form 945-A</a> provided by the IRS.</p>

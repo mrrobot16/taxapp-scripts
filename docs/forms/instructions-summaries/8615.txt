@@ -1,0 +1,20 @@
+<h2>Summary of 2022 Instructions for Form 8615</h2>
+<p>The 2022 Instructions for Form 8615 provide guidance on how to calculate the "Tax for Certain Children Who Have Unearned Income." This form is used for children under age 18, and certain older children, who have unearned income exceeding $2,300 and whose tax rate may be affected by their parent's tax rate.</p>
+
+<h3>Key Points from the Document:</h3>
+<ul>
+  <li>The form is relevant for children with more than $2,300 of unearned income, who are required to file a tax return, and meet certain age and support conditions.</li>
+  <li>Unearned income includes income such as interest, dividends, capital gains, rents, royalties, and certain scholarships not reported on a W-2.</li>
+  <li>Form 8615 must be filed if the child's unearned income is taxed at the parent's rate, which is higher than the child's rate.</li>
+  <li>Parents can elect to modify the tax on unearned income for tax years 2018 and 2019 based on the parents' tax rates rather than the trust and estates tax rates.</li>
+  <li>For the election to modify tax on unearned income, an amended return (Form 1040-X) must be filed within certain time limits.</li>
+  <li>The document details which parent's tax return information should be used if parents are divorced, separated, or never married.</li>
+  <li>It outlines the steps to calculate the child's tax, including determining the child's net unearned income and figuring a tentative tax at the parent's tax rate.</li>
+  <li>There is a possibility of being subject to Alternative Minimum Tax (AMT) or Net Investment Income Tax (NIIT).</li>
+  <li>Specific instructions are provided for calculating the tax, including adjustments for capital gains and dividends.</li>
+  <li>The final tax is the larger of the tax calculated using the parent's tax rate on net unearned income and the child's tax rate on other income, or the tax on the child's taxable income figured at the child's tax rate.</li>
+</ul>
+
+<p>For more detailed information and specific calculations, taxpayers should refer to the actual IRS instructions for Form 8615.</p>
+
+<p><a href="https://www.irs.gov/forms-instructions" target="_blank">IRS Forms and Instructions</a></p>

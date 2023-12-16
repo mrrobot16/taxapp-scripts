@@ -1,0 +1,45 @@
+<h1>Summary of 2022 Instructions for Schedule M-3 (Form 1120-F)</h1>
+
+<p>The 2022 Instructions for Schedule M-3 (Form 1120-F) are provided by the IRS for foreign corporations with reportable assets of $10 million or more. These instructions assist in reconciling financial statement net income (loss) with taxable income (loss) as reported on Form 1120-F, U.S. Income Tax Return of a Foreign Corporation.</p>
+
+<h2>General Instructions</h2>
+<p>The purpose of Schedule M-3 is to reconcile the financial statement net income (loss) with the taxable income before net operating loss (NOL) deduction and special deductions. Part I of Schedule M-3 identifies the financial statement(s) used, while Parts II and III reconcile financial results to taxable income.</p>
+
+<h3>Who Must File</h3>
+<p>Foreign corporations filing Form 1120-F with total assets of $10 million or more must complete and file Schedule M-3 instead of Schedule M-1.</p>
+
+<h3>When and Where To File</h3>
+<p>Schedule M-3 should be attached to Form 1120-F and filed by the due date of the income tax return.</p>
+
+<h2>Completion of Schedule M-3</h2>
+<p>Form 1120-F filers with $50 million or more in total assets must complete Schedule M-3 in its entirety. Those with less than $50 million in assets must complete at least Part I and have the option to complete Schedule M-1 for Parts II and III.</p>
+
+<h2>Other Schedules Affected by Schedule M-3 Requirements</h2>
+<p>Schedule L generally reports total assets and liabilities from the books of the foreign corporation. Schedule M-2 reports unappropriated retained earnings per books.</p>
+
+<h2>Entity Considerations for Schedule M-3</h2>
+<p>The classification of an entity for U.S. federal income tax purposes affects the reporting on Schedule M-3.</p>
+
+<h2>Reportable Entity Partner Reporting Responsibilities</h2>
+<p>Entities with significant ownership in partnerships must report certain information to the partnership and retain copies of the reports.</p>
+
+<h2>Part I - Financial Information and Net Income (Loss) Reconciliation</h2>
+<p>Part I requires reconciliation of the financial net income (loss) with the taxable income (loss).</p>
+
+<h2>Parts II and III - General Reporting Information</h2>
+<p>These parts reconcile each line item of income, gain, loss, expense, or deduction from the financial statements to the amounts on the tax return.</p>
+
+<h2>Schedule M-3 Reporting Requirements for Regulations Section 1.6011-4(b) Reportable Transactions</h2>
+<p>Transactions subject to disclosure requirements must be reported on Schedule M-3, regardless of whether they result in a difference in book to tax income.</p>
+
+<h2>Part II - Reconciliation of Net Income (Loss) per Income Statement of Non-Consolidated Foreign Corporations With Taxable Income per Return</h2>
+<p>Part II reconciles income statement net income (loss) to taxable income (loss).</p>
+
+<h2>Part III - Reconciliation of Net Income (Loss) per Income Statement of Non-Consolidated Foreign Corporations With Taxable Income per Return Expense/Deduction Items</h2>
+<p>Part III reconciles expense and deduction items from the income statement to the tax return.</p>
+
+<p>The instructions also include specific guidance on reporting income and expenses related to different categories, such as dividends, interest, rental income, royalty expense, and more. Additionally, the instructions detail how to report adjustments, such as those for section 481(a) or changes in accounting methods.</p>
+
+<p>For the latest information about developments related to Schedule M-3 (Form 1120-F) and its instructions, such as legislation enacted after they were published, visit <a href="https://www.irs.gov/Form1120F" target="_blank">IRS.gov/Form1120F</a>.</p>
+
+<p><i>Note: This summary is not exhaustive and does not cover all the details in the actual instructions. For complete information, refer to the full 2022 Instructions for Schedule M-3 (Form 1120-F).</i></p>

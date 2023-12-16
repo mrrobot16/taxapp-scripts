@@ -1,0 +1,40 @@
+<h2>Summary of 2022 Instructions for Form 8835 - Renewable Electricity Production Credit</h2>
+
+<p>The instructions for Form 8835 provide guidance on claiming the renewable electricity production credit for qualified energy resources at a qualified facility. The credit is available for the sale of electricity produced in the United States or U.S. territories.</p>
+
+<h3>Future Developments</h3>
+<p>Updates to the form and instructions, including legislative changes, can be found on the IRS website.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Inflation Reduction Act of 2022 made several changes to the renewable electricity production credits.</li>
+  <li>Extended and modified production credit for renewable energy and created new section 45V for clean hydrogen production credit.</li>
+  <li>Solar energy facilities placed in service after 2021 are now eligible for the credit.</li>
+  <li>Facilities meeting certain wage, apprenticeship, domestic content, and energy community requirements may qualify for increased credits.</li>
+  <li>The credit period for refined coal and Indian coal expired after 2021.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Form 8835 is used to claim the renewable electricity production credit. Partnerships and S corporations must file this form to claim the credit. Other entities may report the credit directly on Form 3800 unless specified exceptions apply.</p>
+
+<h3>Key Definitions and Instructions</h3>
+<ul>
+  <li>Construction of a Qualified Facility: Details on establishing the beginning of construction and continuous construction requirements.</li>
+  <li>Qualified Facilities: Lists the types of facilities that qualify for the credit and the applicable credit periods.</li>
+  <li>Who Can Take the Credit: Generally, the facility owner is eligible for the credit, with some exceptions.</li>
+  <li>Increased Credit Amount: Criteria for facilities qualifying for an increased credit amount.</li>
+  <li>Wage and Apprenticeship Requirements: Requirements for increased credit amounts related to prevailing wage and apprenticeship standards.</li>
+  <li>Domestic Content Bonus Credit Amount: Additional credit for projects meeting domestic content requirements.</li>
+  <li>Energy Community: Additional credit for facilities located in an energy community.</li>
+  <li>Clean Hydrogen Production Credit: Describes eligibility, amount, and requirements for the clean hydrogen production credit.</li>
+</ul>
+
+<h3>How To Figure the Credit</h3>
+<p>Details the method for calculating the credit, including adjustments for inflation and phaseouts based on reference prices.</p>
+
+<h3>Specific Instructions</h3>
+<p>Step-by-step instructions for completing Form 8835, including how to report adjustments, calculate credit amounts, and handle grants and other financial assistance.</p>
+
+<p>The instructions also cover coordination with Department of Treasury grants, election to treat a qualified facility as energy property, and specific instructions for cooperatives, estates, and trusts.</p>
+
+<p>For more information and updates, the IRS website should be consulted.</p>

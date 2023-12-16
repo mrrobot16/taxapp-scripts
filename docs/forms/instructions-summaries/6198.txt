@@ -1,0 +1,56 @@
+<h2>Summary of IRS Form 6198 Instructions (Rev. January 2020)</h2>
+
+<h3>Purpose of Form</h3>
+<p>Form 6198 is used to determine the deductible loss from at-risk activities for the current year. It calculates:</p>
+<ol>
+  <li>The profit or loss from an at-risk activity (Part I)</li>
+  <li>The amount at risk for the current year (Part II or Part III)</li>
+  <li>The deductible loss for the current year (Part IV)</li>
+</ol>
+<p>Section 465 of the Internal Revenue Code limits losses to the amount the taxpayer is at risk.</p>
+<p>For more information, see Publication 925, Passive Activity and At-Risk Rules.</p>
+
+<h3>Who Must File</h3>
+<p>Form 6198 is filed by individuals, estates, trusts, and certain closely held C corporations engaged in at-risk activities with amounts not at risk that incurred a loss.</p>
+
+<h3>At-Risk Activities</h3>
+<p>At-risk rules apply to activities including:</p>
+<ul>
+  <li>Motion picture films or videotapes</li>
+  <li>Farming</li>
+  <li>Leasing section 1245 property</li>
+  <li>Oil and gas exploration or exploitation</li>
+  <li>Geothermal deposit exploration or exploitation</li>
+  <li>Other activities not included in the above list</li>
+</ul>
+<p>There are exceptions for holding real property placed in service before 1987 and certain qualifying businesses of qualified C corporations.</p>
+
+<h3>Amounts Not at Risk</h3>
+<p>You are not at risk for nonrecourse loans (unless it is qualified nonrecourse financing secured by real property), amounts protected against loss by guarantees or similar arrangements, and amounts borrowed from related parties.</p>
+
+<h3>Qualified Nonrecourse Financing</h3>
+<p>Qualified nonrecourse financing is financing for which no one is personally liable for repayment, secured by real property used in the activity, not convertible debt, and loaned or guaranteed by governmental entities or borrowed from a qualified person.</p>
+
+<h3>Aggregation or Separation of Activities</h3>
+<p>Depending on the situation, you may need to file one form for aggregated activities or separate forms for each activity.</p>
+
+<h3>Specific Instructions</h3>
+<p>Include only amounts related to the activity on this form using accepted tax accounting methods.</p>
+
+<h3>Part I - Current Year Profit (Loss) From the Activity</h3>
+<p>Include prior year nondeductible amounts, if applicable.</p>
+
+<h3>Part II - Simplified Computation of Amount At Risk</h3>
+<p>Use this part if you know your adjusted basis in the activity or interest in the partnership or S corporation's at-risk activity.</p>
+
+<h3>Part III - Detailed Computation of Amount At Risk</h3>
+<p>Use this part for a more detailed calculation which may allow a larger amount at risk. If you completed Part III in a prior year, you may skip certain lines.</p>
+
+<h3>Part IV - Deductible Loss</h3>
+<p>If the loss from Part I exceeds the amount at risk, the deductible loss is limited to the amount at risk, subject to other limitations.</p>
+
+<p>If you have comments or suggestions for making this form simpler, you can provide feedback to the IRS.</p>
+
+<p>The estimated burden for recordkeeping, learning about the law or the form, preparing the form, and copying, assembling, and sending the form to the IRS is provided.</p>
+
+<p><a href="https://www.irs.gov/forms-instructions" target="_blank">IRS Form 6198 Instructions</a> can be found on the IRS website for more detailed information.</p>

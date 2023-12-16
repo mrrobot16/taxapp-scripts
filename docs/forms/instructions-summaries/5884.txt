@@ -1,0 +1,37 @@
+<h2>Summary of Instructions for Form 5884 (Rev. March 2021)</h2>
+<p>The <b>Instructions for Form 5884</b> provide guidance on how to claim the Work Opportunity Credit, a tax credit available to employers for hiring individuals from certain target groups who have consistently faced significant barriers to employment.</p>
+
+<h3>Future Developments</h3>
+<p>For the most up-to-date information regarding Form 5884 and its instructions, including any legislative changes, visit <a href="https://www.irs.gov/forms-pubs/about-form-5884" target="_blank">IRS.gov/Form5884</a>.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>The Work Opportunity Credit has been extended to cover employees who begin work after December 31, 2020, and before January 1, 2026.</li>
+  <li>Wages used to calculate the coronavirus-related employee retention credit, the credit for qualified sick and family leave wages, and the disaster-related employee retention credit cannot also be used to figure the credit on Form 5884.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Form 5884 is used to claim the Work Opportunity Credit for qualified wages paid to targeted group employees. The form can be filed anytime within three years from the return's due date, and it's not limited to businesses in empowerment zones or rural renewal counties.</p>
+
+<h3>How To Claim the Credit</h3>
+<p>To claim the credit, employers must receive a certification from the state workforce agency (SWA) confirming the employee is a member of a targeted group. Form 8850 must be completed and submitted to the SWA within 28 days of the employee's start date.</p>
+
+<h3>Targeted Group Employee</h3>
+<p>Employees are considered part of a targeted group if they meet certain criteria, such as being a long-term family assistance recipient, a qualified veteran, or a recipient of SNAP benefits, among others.</p>
+
+<h3>Qualified Wages</h3>
+<p>Qualified wages are those subject to Federal Unemployment Tax Act (FUTA) and have specific exclusions, such as wages used for other tax credits or wages paid to certain related individuals.</p>
+
+<h3>Specific Instructions</h3>
+<ol>
+  <li>Employers must calculate current year credit based on qualified wages paid to targeted group employees.</li>
+  <li>Employers must reduce their wage deduction by the amount of the work opportunity credit claimed.</li>
+  <li>Partnerships, S corporations, cooperatives, estates, and trusts must report the credit on Form 5884, while others can report it directly on Form 3800.</li>
+  <li>Any unused credit is carried back or forward according to the general business credit rules.</li>
+  <li>Special rules apply for cooperatives, estates, and trusts regarding the allocation of credit and credit recapture.</li>
+</ol>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The estimated time needed to complete and file Form 5884 varies, and the form is subject to the Paperwork Reduction Act. Comments on the form's accuracy or suggestions for simplification can be sent to the IRS.</p>
+
+<p>For further details, taxpayers should consult the actual instructions and ensure they are using the most current version of the form.</p>

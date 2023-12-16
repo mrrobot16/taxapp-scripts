@@ -1,0 +1,48 @@
+<h2>Summary of 2021 Instructions for Form 8915-B</h2>
+
+<p>The document provides instructions for taxpayers who need to file Form 8915-B, which pertains to Qualified 2017 Disaster Retirement Plan Distributions and Repayments. Key points include:</p>
+
+<h3>Future Developments</h3>
+<p>For the latest updates on Form 8915-B, taxpayers are advised to visit the IRS website.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Coronavirus-related distributions are no longer reported on Form 8915-B but on Form 8915-F.</li>
+  <li>The repayment period for qualified 2017 disaster distributions ends 3 years and 1 day after the distribution was received.</li>
+  <li>The 2021 revision is the last for Form 8915-B.</li>
+</ul>
+
+<h3>Purpose of Form</h3>
+<p>Form 8915-B is used to report qualified 2017 disaster distributions and any repayments made in 2021 that weren't included on the 2020 Form 8915-B.</p>
+
+<h3>Who Must File</h3>
+<p>Those who made repayments in 2021 of qualified 2017 disaster distributions not reported on the 2020 Form 8915-B must file this form.</p>
+
+<h3>When and Where To File</h3>
+<p>File Form 8915-B with your 2021 Form 1040 or other applicable tax returns.</p>
+
+<h3>Qualified 2017 Disaster Distribution</h3>
+<ul>
+  <li>Qualified 2017 disaster distributions are related to Hurricane Harvey, Irma, Maria, or the California wildfires.</li>
+  <li>Such distributions are generally included in income over 3 years, unless the taxpayer elected to include the entire distribution in the year it was received.</li>
+  <li>These distributions are not subject to the early distribution additional tax.</li>
+</ul>
+
+<h3>Repayment of a Qualified 2017 Disaster Distribution</h3>
+<ul>
+  <li>Repayments must be made within 3 years after the distribution was received.</li>
+  <li>The repayment cannot exceed the original distribution amount.</li>
+  <li>Repayments are treated as trustee-to-trustee transfers and aren't included in income.</li>
+  <li>Some distributions, like required minimum distributions or periodic payments, cannot be repaid.</li>
+</ul>
+
+<h3>Amending Form 8915-B</h3>
+<p>If repayments affect prior year's income reported for disaster distributions, taxpayers may need to amend their returns using Form 1040-X.</p>
+
+<h3>Specific Instructions</h3>
+<p>Instructions are provided for filling out the form, including separate filings for married filers and guidance on reporting repayments and adjusting past returns.</p>
+
+<h3>Privacy Act and Paperwork Reduction Act Notice</h3>
+<p>This section explains the legal requirements for requesting information on Form 8915-B and the confidentiality of the responses.</p>
+
+<p>For detailed instructions and the most current information, taxpayers are advised to consult the actual IRS form and instructions.</p>

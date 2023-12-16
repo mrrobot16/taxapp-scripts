@@ -1,0 +1,55 @@
+<h2>Summary of Instructions for the Requester of Form W-9 (Rev. October 2018)</h2>
+<p>The document provides guidance for those who need to request a Taxpayer Identification Number (TIN) and certification using Form W-9. Key points include:</p>
+
+<h3>Future Developments</h3>
+<p>For updates related to Form W-9 and its instructions, visit <a href="https://www.irs.gov/FormW9" target="_blank">IRS.gov/FormW9</a>.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>The backup withholding rate is now 24% for reportable payments.</li>
+</ul>
+
+<h3>Reminders</h3>
+<ul>
+  <li>FATCA reporting and backup withholding exemptions are detailed on Form W-9.</li>
+  <li>Failure to collect backup withholding when required may result in liability for the requester.</li>
+  <li>TIN matching e-services are available for payers to verify TINs.</li>
+</ul>
+
+<h3>Usage of Form W-9</h3>
+<p>Form W-9 is used to request the TIN of U.S. persons, including resident aliens, and to request certain certifications. It is also used to avoid withholding for U.S. exempt recipients.</p>
+
+<h3>Electronic Submission of Forms W-9</h3>
+<p>Forms W-9 can be submitted electronically, including by fax, if certain requirements are met.</p>
+
+<h3>Individual Taxpayer Identification Number (ITIN)</h3>
+<p>For individuals who cannot obtain a Social Security Number (SSN), an ITIN should be used and provided on Form W-9.</p>
+
+<h3>Substitute Form W-9</h3>
+<p>Requesters may develop a substitute Form W-9 if it is substantially similar to the IRS Form W-9 and meets certification requirements.</p>
+
+<h3>TIN Applied For</h3>
+<p>If a payee has applied for a TIN, they can submit Form W-9 with "Applied For" written in Part I, but backup withholding may apply if a TIN is not provided within 60 days.</p>
+
+<h3>Payees Exempt From Backup Withholding</h3>
+<p>Certain payees, such as tax-exempt organizations and government entities, are exempt from backup withholding. They should indicate their exempt status on Form W-9.</p>
+
+<h3>Payments Exempt From Backup Withholding</h3>
+<p>Some payments, like wages and certain distributions, are not subject to backup withholding.</p>
+
+<h3>Payees and Account Holders Exempt From FATCA Reporting</h3>
+<p>U.S. persons are generally not subject to FATCA reporting by U.S. financial institutions.</p>
+
+<h3>Joint Foreign Payees</h3>
+<p>If there are joint foreign payees, backup withholding applies unless certain conditions are met.</p>
+
+<h3>Names and TINs To Use for Information Reporting</h3>
+<p>The full name and address as provided on Form W-9 should be used for information reporting to the IRS and provided to the payee.</p>
+
+<h3>Notices From the IRS</h3>
+<p>The IRS sends notices if the payee's name and TIN do not match IRS records. Requesters may need to solicit a new TIN from the payee.</p>
+
+<h3>Taxpayer Identification Number (TIN) Matching</h3>
+<p>TIN Matching allows payers to verify TIN and name combinations with IRS records to avoid backup withholding notices.</p>
+
+<p>For more detailed information, requesters should refer to the instructions provided in the official document.</p>

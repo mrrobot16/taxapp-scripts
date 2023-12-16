@@ -1,0 +1,24 @@
+<h2>Summary of Instructions for IRS Forms 3921 and 3922 (Rev. October 2017)</h2>
+<p>The Instructions for IRS Forms 3921 and 3922 provide guidance on reporting the exercise of incentive stock options under Section 422(b) and the transfer of stock acquired under an employee stock purchase plan under Section 423(c). These forms are used by corporations to report certain transactions to the IRS and to the individuals who exercised the options.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>Forms 3921 and 3922 are required for corporations to file with the IRS when stock options are exercised or when stock acquired through an employee stock purchase plan is transferred.</li>
+  <li>Form 3921 is used for reporting the exercise of an incentive stock option, while Form 3922 is used for reporting the first transfer of stock acquired under an employee stock purchase plan.</li>
+  <li>Corporations must also provide a statement to the individual who exercised the option or transferred the stock.</li>
+  <li>For both forms, certain details must be provided, such as the dates the options were granted and exercised, the exercise price per share, the fair market value of the shares, and the number of shares transferred.</li>
+  <li>There are exceptions for nonresident aliens who do not receive a Form W-2 from the corporation.</li>
+  <li>For the latest information and developments related to these forms, one can visit the IRS website pages for Form 3921 and Form 3922.</li>
+</ul>
+
+<h3>Specific Instructions:</h3>
+<p>Both forms require similar information, including the employee's name, address, and Taxpayer Identification Number (TIN), as well as specific details about the options and shares involved in the transaction.</p>
+
+<ul>
+  <li><b>Form 3921:</b> Reports the transfer of stock pursuant to the exercise of an incentive stock option. It includes the grant and exercise dates, exercise price, fair market value on the exercise date, and the number of shares transferred.</li>
+  <li><b>Form 3922:</b> Reports the first transfer of legal title of stock acquired under an employee stock purchase plan. It includes the grant and exercise dates, fair market value on both dates, exercise price paid per share, the number of shares transferred, and the date legal title was transferred.</li>
+</ul>
+
+<p>The instructions also mention the option to truncate the recipient's TIN on payee statements, the requirement for an account number if filing multiple forms for one person, and the need to refer to the General Instructions for Certain Information Returns for additional guidance.</p>
+
+<p>For detailed instructions and filing requirements, refer to the actual IRS documents for Forms 3921 and 3922.</p>

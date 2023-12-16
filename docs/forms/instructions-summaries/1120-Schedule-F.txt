@@ -1,0 +1,39 @@
+<h2>Instructions for Form 1120-SF (Rev. November 2022)</h2>
+<p><b>U.S. Income Tax Return for Settlement Funds</b></p>
+<p>This document provides instructions for the U.S. Income Tax Return for Settlement Funds (Form 1120-SF) used by designated or qualified settlement funds to report income, deductions, and to calculate their income tax liability.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest information about developments related to Form 1120-SF, such as legislation enacted after the instructions were published, visit <a href="https://www.irs.gov/forms-pubs/about-form-1120-sf" target="_blank">IRS.gov/Form1120SF</a>.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Form 1120-SF has not been revised; continue using the November 2018 revision.</li>
+  <li>Increased penalty for failure to file a return more than 60 days late to the smaller of the tax due or $450.</li>
+  <li>Form 1120-W is now historical; the 2022 revision will be the last.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Form 1120-SF is used by all section 468B designated and qualified settlement funds. The return is due by the 15th day of the 4th month after the end of the fund's tax year. If the due date falls on a weekend or legal holiday, the fund may file on the next business day. The return must be signed by the administrator of the fund.</p>
+
+<h3>Where To File</h3>
+<p>Send the return to the IRS based on the fund's principal business, office, or agency location.</p>
+
+<h3>Accounting Method</h3>
+<p>Accrual method of accounting must be used.</p>
+
+<h3>Tax Payments</h3>
+<p>Settlement funds must use electronic funds transfers for all federal tax deposits. Estimated tax payments are also required if the tax is expected to be $500 or more.</p>
+
+<h3>Interest and Penalties</h3>
+<p>Interest is charged on late payments. Penalties may apply for late filing and late payment unless reasonable cause is established. Other penalties may apply for negligence, substantial understatement of tax, and fraud.</p>
+
+<h3>Specific Instructions</h3>
+<p>Details are provided for completing the Form 1120-SF, including information on income, deductions, and tax computations.</p>
+
+<h3>Definitions</h3>
+<p>Qualified Settlement Fund and Designated Settlement Fund are defined, along with the terms administrator, transferor, and related person.</p>
+
+<h3>Recordkeeping</h3>
+<p>Records should be kept for as long as they may be needed for tax administration purposes.</p>
+
+<p>For detailed instructions and requirements, the full document should be consulted. The instructions also include a notice about the Paperwork Reduction Act and where to send comments about the form.</p>

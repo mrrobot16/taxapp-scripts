@@ -1,0 +1,21 @@
+<h2>Summary of Instructions for Form 1099-Q (Rev. November 2019)</h2>
+<p>The document provides instructions for filing Form 1099-Q, which is used to report distributions from Qualified Education Programs under Sections 529 and 530. For updates and developments after the publication, the IRS directs users to their website.</p>
+
+<h3>Key Points:</h3>
+<ol>
+  <li>Form 1099-Q should be filed by officers or employees in control of a state or educational institution program, or their designees, who have made distributions from a Qualified Tuition Program (QTP), or by trustees of Coverdell Education Savings Accounts (ESAs).</li>
+  <li>Form 1099-Q is not required for changes in beneficiary where the new beneficiary is a family member for QTPs, or under age 30 for Coverdell ESAs.</li>
+  <li>Form 1099-Q has been updated to a continuous use format and is available as an online fillable form.</li>
+  <li>A statement must also be provided to the recipient of the distribution.</li>
+  <li>For QTPs, the designated beneficiary is listed as the recipient only if the distribution is made directly to them or to an eligible educational institution on their behalf. Otherwise, the account owner is listed.</li>
+  <li>For Coverdell ESAs, the designated beneficiary is always listed as the recipient.</li>
+  <li>Box 1 reports the gross distribution, Box 2 reports earnings, and Box 3 reports the basis.</li>
+  <li>A checkbox in Box 4 indicates whether the distribution was a trustee-to-trustee transfer.</li>
+  <li>Box 5 identifies the type of program from which the distribution was made (Private, State, or Coverdell ESA).</li>
+  <li>Box 6 should be checked if the recipient is not the designated beneficiary.</li>
+  <li>Distribution codes may be included to specify the type of distribution.</li>
+</ol>
+
+<p>For the most accurate and updated information, filers should refer to the IRS website and the General Instructions for Certain Information Returns.</p>
+
+<p>For more detailed information, you can access the full document on the IRS website at <a target="_blank" href="https://www.irs.gov/instructions/i1099q">Instructions for Form 1099-Q</a>.</p>

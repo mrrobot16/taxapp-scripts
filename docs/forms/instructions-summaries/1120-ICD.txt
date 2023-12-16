@@ -1,0 +1,24 @@
+<h3>Instructions for Form 1120-IC-DISC (Rev. December 2021)</h3>
+<p>The Instructions for Form 1120-IC-DISC provide guidance for completing the Interest Charge Domestic International Sales Corporation (IC-DISC) Return. This form is used by IC-DISCs, former DISCs, and former IC-DISCs to report their income, gains, losses, deductions, and credits for the tax year.</p>
+
+<h3>General Instructions</h3>
+<p>The IC-DISC is a tax-exempt, domestic corporation that has elected IC-DISC status and meets certain qualifications. It is not taxed on its income, but shareholders are taxed on income when it is distributed or deemed distributed. To be an IC-DISC, a corporation must meet the gross receipts and qualified export asset tests, maintain one class of stock, and adhere to specific accounting rules.</p>
+
+<h3>Who Must File</h3>
+<p>Corporations that have elected to be treated as an IC-DISC by filing Form 4876-A and former DISCs or IC-DISCs with undistributed income that was previously taxed or accumulated DISC income must file Form 1120-IC-DISC.</p>
+
+<h3>When To File</h3>
+<p>File by the 15th day of the 9th month after the tax year ends. No extensions are allowed.</p>
+
+<h3>Where To File</h3>
+<p>File with the Department of the Treasury, Internal Revenue Service Center, Kansas City, MO 64999.</p>
+
+<h3>Other Forms and Statements That May Be Required</h3>
+<p>IC-DISCs may need to file additional forms, such as Form 8992 for GILTI, Form 8993 for FDII and GILTI deductions, and others related to dividends, payments, and transactions with foreign entities.</p>
+
+<h3>Specific Instructions</h3>
+<p>Provides detailed guidance on how to complete each part of the form, including schedules and additional statements.</p>
+
+<p>For more information on the instructions, such as definitions, penalties, and how to fill out specific parts of the form, please refer to the full document on the IRS website.</p>
+
+<a target="_blank" href="https://www.irs.gov/forms-instructions">IRS Forms and Instructions</a>

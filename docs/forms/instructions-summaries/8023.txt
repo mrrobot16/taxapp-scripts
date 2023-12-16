@@ -1,0 +1,25 @@
+<h2>Summary of Instructions for Form 8023 (Rev. November 2021)</h2>
+<p>Form 8023 is used by corporations to make elections under section 338 when a qualified stock purchase (QSP) of a target corporation has been made. A QSP involves the purchase of at least 80% of the total voting power and value of a corporation’s stock within a 12-month period.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>For the latest developments related to Form 8023 and its instructions, visit <a href="https://www.irs.gov/forms-pubs/about-form-8023" target="_blank">IRS.gov/Form8023</a>.</li>
+  <li>A section 338(g) election treats the target corporation as having sold all assets and immediately repurchased them, requiring gain or loss recognition.</li>
+  <li>A section 338(h)(10) election allows the target to be treated as if it sold its assets and liquidated, with consistent treatment for the target's shareholders.</li>
+  <li>Form 8023 must be filed by the purchasing corporation, and in some cases, jointly with other entities such as the common parent of the selling group or S corporation shareholders.</li>
+  <li>The form must be filed by the 15th day of the 9th month following the acquisition date and sent to the IRS Submission Processing Center in Ogden, UT.</li>
+  <li>One Form 8023 may be used for multiple targets if certain conditions are met, such as having the same acquisition date and being part of the same affiliated group before and after the acquisition date.</li>
+  <li>Specific sections of the form require details such as employer identification numbers (EINs), tax year ending, and country of incorporation for each corporation involved.</li>
+  <li>Special instructions are provided for foreign purchasing corporations and targets, including filing requirements and the need for Form 8883, Asset Allocation Statement Under Section 338.</li>
+</ul>
+
+<h3>Attachments and Signatures:</h3>
+<ul>
+  <li>If multiple signatures are required, they must be included on a signature attachment with the appropriate perjury declaration.</li>
+  <li>Attachments should list details of each stock purchase and the affected U.S. persons, if applicable.</li>
+</ul>
+
+<h3>Paperwork Reduction Act Notice:</h3>
+<p>Comments on the form's accuracy or suggestions for simplification can be sent to the IRS, but the form itself should not be sent to the address provided for comments.</p>
+
+<p>For complete instructions and details, taxpayers should refer to the actual IRS instructions for Form 8023.</p>

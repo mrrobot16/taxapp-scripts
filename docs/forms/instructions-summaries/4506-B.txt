@@ -1,0 +1,36 @@
+<h2>Summary of Instructions for Form 4506-B</h2>
+<p><b>Document:</b> Instructions for Form 4506-B (November 2021) - Request for a Copy of Exempt Organization IRS Application or Letter.</p>
+
+<h3>Future Developments</h3>
+<p>Updates to Form 4506-B and its instructions will be posted on the IRS website.</p>
+
+<h3>What's New</h3>
+<p>Determination letters from 2014 onwards are available on the Tax Exempt Organization Search (TEOS).</p>
+
+<h3>General Instructions</h3>
+<p><b>Purpose:</b> Form 4506-B is used to request a copy of an exempt organization's exemption application or letter under Section 6104 of the Internal Revenue Code.</p>
+<p><b>Do Not Use For:</b> Copies of forms such as 990, 990-PF, 990-T, etc., which have their own request forms or are available on TEOS.</p>
+
+<h3>How Much Will It Cost?</h3>
+<p>Inspection of documents at an IRS office is free. Charges apply for photocopies, with commercial users paying $0.20 per page and other categories getting the first 100 pages free and $0.20 per page thereafter.</p>
+
+<h3>Where To File</h3>
+<p>Form 4506-B can be mailed, faxed, or emailed to the IRS EO Correspondence Unit in Cincinnati, OH.</p>
+
+<h3>How Long Will It Take?</h3>
+<p>Processing can take up to 60 days.</p>
+
+<h3>Specific Instructions</h3>
+<ol>
+  <li>Requester's information, including name, phone number, and address, should be provided.</li>
+  <li>Enter the exempt organization's official name, address, and employer identification number.</li>
+  <li>Indicate the category of the requester and check the appropriate box.</li>
+  <li>State the reason for the request to avoid commercial rates (except for commercial users).</li>
+  <li>Check the box(es) for the item(s) being requested, such as the application for exemption, exemption determination letter, affirmation letter, or other disclosable items.</li>
+</ol>
+
+<p><b>Note:</b> Only the most recent application and related documents will be provided unless specified otherwise. Determination letters from 2014 onwards can be accessed on TEOS. Incomplete requests will be rejected.</p>
+
+<p><b>Privacy Act and Paperwork Reduction Act Notice:</b> Information requested is to fulfill your request for exempt organization documents. The estimated time for completing Form 4506-B is 57 minutes.</p>
+
+<p>For the full document, visit the IRS website or click the following link: <a href="https://www.irs.gov/forms-pubs" target="_blank">IRS Forms and Publications</a>.</p>

@@ -1,0 +1,29 @@
+<h2>Summary of Instructions for Form 990-BL (Rev. January 2020)</h2>
+<p><b>General Information</b></p>
+<p>Form 990-BL is used by black lung benefit trusts, which are exempt under section 501(a) and described in section 501(c)(21), to report required information to the IRS. It includes reporting income, expenses, and information on excise taxes if applicable. Trusts with gross receipts of $50,000 or less may file an electronic notice instead of Form 990-BL.</p>
+
+<p><b>Who Must File</b></p>
+<p>Trustees must file Form 990-BL for a trust unless it normally has gross receipts of not more than $50,000. Initial excise taxes under sections 4951 and 4952 are reported on Schedule A (Form 990-BL).</p>
+
+<p><b>Accounting Period and Methods</b></p>
+<p>The return must be based on the established annual accounting period of the organization, and gross income, receipts, and disbursements must be figured by the method of accounting regularly used by the organization.</p>
+
+<p><b>When and Where To File</b></p>
+<p>The return must be filed by the 15th day of the 5th month following the close of the filer's tax year. It should be filed with the IRS Center in Kansas City, MO. Extensions can be requested using Form 8868.</p>
+
+<p><b>Penalties</b></p>
+<p>Penalties may apply for failing to file timely, correctly, or completely, with a maximum penalty of the smaller of $10,500 or 5% of the gross receipts for the year.</p>
+
+<p><b>Public Inspection</b></p>
+<p>Generally, the information reported on or with Form 990-BL is available for public inspection, except for Part IV and Schedule A (Form 990-BL).</p>
+
+<p><b>Specific Instructions</b></p>
+<p>Part I of the form analyzes revenue and expenses, Part II provides balance sheets, Part III is a questionnaire to help determine any initial tax due under sections 4951 and 4952, and Part IV is a statement with respect to contributors and others.</p>
+
+<p><b>Schedule A (Form 990-BL)</b></p>
+<p>Schedule A is used to report initial excise taxes on black lung benefit trusts and certain related persons under sections 4951 and 4952. It must be attached to a completed Form 990-BL and is not open for public inspection.</p>
+
+<p><b>Recordkeeping and Filing Estimates</b></p>
+<p>Time estimates for recordkeeping, learning about the law or form, and preparing and sending the form to the IRS are provided, with Form 990-BL estimated to take an average of over 23 hours in total.</p>
+
+<p>For more detailed information, you can visit the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS website</a> and review the instructions for Form 990-BL.</p>

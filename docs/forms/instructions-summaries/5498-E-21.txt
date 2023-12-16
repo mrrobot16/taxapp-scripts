@@ -1,0 +1,27 @@
+<h2>Summary of 2021 Instructions for Form 5498-ESA</h2>
+
+<p>The document provides instructions for filing Form 5498-ESA, which is used to report contributions to Coverdell Education Savings Accounts (ESAs) for the year 2021. It includes guidance on who must file, when, where, and how to file, along with specifics on electronic reporting, corrected and void returns, statements to recipients, and other general topics. The full instructions can be accessed on the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS website</a>.</p>
+
+<h3>Key Points of Form 5498-ESA Instructions:</h3>
+<ol>
+  <li>Form 5498-ESA must be filed for each person with a Coverdell ESA.</li>
+  <li>Contributions, including rollovers, must be reported on this form.</li>
+  <li>For contributions made between January 1, 2021, and April 18, 2022, the trustee or issuer should determine the year for which the contributions are made.</li>
+  <li>All rollovers and trustee-to-trustee transfers must be reported.</li>
+  <li>Family members for the purpose of rollovers include a wide range of relatives.</li>
+  <li>If a total distribution was made and no contributions were added for the year, filing Form 5498-ESA may not be necessary.</li>
+  <li>Distributions must be reported on Form 1099-Q.</li>
+  <li>Statements must be furnished to the beneficiary by May 2, 2022.</li>
+  <li>Beneficiary's TIN may be truncated on payee statements but not on documents filed with the IRS.</li>
+  <li>An account number is required for multiple accounts for the same recipient.</li>
+</ol>
+
+<h3>Specific Instructions for Boxes on Form 5498-ESA:</h3>
+<ul>
+  <li><b>Box 1:</b> Enter contributions made for 2021 from January 1, 2021, through April 18, 2022. Do not include rollover contributions in this box.</li>
+  <li><b>Box 2:</b> Enter any rollover contributions received during 2021, including military death gratuity and trustee-to-trustee transfers.</li>
+</ul>
+
+<p>The document also notes that due to the low volume of paper Forms 5498-ESA, the form is available in an online fillable format at the IRS website, and Copy B can be sent to the recipient. For filing with the IRS, filers should follow the electronic filing procedures or, if eligible, send the printed black-and-white Copy A with Form 1096.</p>
+
+<p>For more detailed information and for any updates that may have occurred after the publication of the instructions, filers are encouraged to visit the <a href="https://www.irs.gov/form5498esa" target="_blank">Form 5498-ESA page on the IRS website</a>.</p>

@@ -1,0 +1,12 @@
+<h1>Summary of Instructions for Schedule M-3 (Form 1120-PC)</h1>
+<p>The Schedule M-3 (Form 1120-PC) is used by U.S. Property and Casualty Insurance Companies with total assets of $10 million or more to reconcile financial statement net income (loss) with net income (loss) for U.S. taxable income purposes. It is divided into three main parts:</p>
+<ol>
+<li><b>Part I</b> reconciles financial statement net income (loss) reported on line 4a with net income (loss) for U.S. taxable income purposes reported on line 11.</li>
+<li><b>Part II</b> reconciles financial statement net income (loss) reported on Part I, line 11, with the subtotal on Form 1120-PC, Schedule A, line 35 (or Schedule B, line 19, if applicable).</li>
+<li><b>Part III</b> details the reconciliation of expenses and deductions between the financial statement and the tax return.</li>
+</ol>
+<p>Companies must file Schedule M-3 instead of Schedule M-1 if they meet the asset threshold and are required to file Form 1120-PC. This includes non-consolidated returns, consolidated returns (Form 1120-PC only), and mixed groups (including life insurance companies).</p>
+<p>Specific instructions are provided for additional information required for each property and casualty insurance company, including details on foreign dividends, Subpart F income, foreign taxes deemed paid, and other income and expense reconciliations. Particular attention is given to reportable transactions, hedging transactions, and special filing requirements for mixed groups.</p>
+<p>The form also addresses various items such as equity-based compensation, meals and entertainment, fines and penalties, judgments, parachute payments, pension and profit-sharing, and other post-retirement benefits. It includes guidance on the treatment of acquisition/reorganization costs, amortization, discounting of unpaid losses, and capital loss limitations.</p>
+<p>Entities must attach supporting statements for certain items, such as intercompany dividends, minority interest, and other income or expense items with differences. Comprehensive income and changes in reserves or contingent liabilities must also be described in detail.</p>
+<p>The instructions for Schedule M-3 (Form 1120-PC) provide the necessary guidance to complete the form accurately, ensuring that property and casualty insurance companies properly reconcile their financial statement income with their taxable income.</p>

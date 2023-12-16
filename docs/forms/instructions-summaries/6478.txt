@@ -1,0 +1,27 @@
+<h2>Summary of Instructions for Form 6478 (Rev. January 2020)</h2>
+<p>Form 6478 is used to calculate the biofuel producer credit for second generation biofuel production, for tax years beginning after 2017. The form and its instructions may not be updated annually but only when necessary. The credit has been retroactively extended for fuel sold or used in 2018, 2019, and 2020, and should not be claimed for fuel sold or used after 2020 unless extended again.</p>
+
+<h3>General Instructions</h3>
+<p>The biofuel producer credit is part of the section 40 credits and is claimed in the tax year when the sale or use occurs. Partnerships, S corporations, cooperatives, estates, and trusts must file Form 6478 to claim the credit. Other taxpayers can report the credit directly on Form 3800, General Business Credit, without filing Form 6478 if their only source is through a pass-through entity.</p>
+
+<h3>Qualified Second Generation Biofuel Production</h3>
+<p>The credit applies to second generation biofuel which meets certain conditions, including being sold by the producer for specific uses or used by the producer as fuel. The biofuel must be produced in the United States or a U.S. possession and used as a fuel in the United States or a U.S. possession. There are also specific requirements regarding the composition and quality of the biofuel.</p>
+
+<h3>Registration</h3>
+<p>All producers of second generation biofuel must be registered with the IRS and should include their registration number on the form.</p>
+
+<h3>Recapture of Credit</h3>
+<p>If the biofuel for which the credit was claimed is not used for the intended purpose, a tax is imposed on each gallon of biofuel, which must be reported on Form 720, Quarterly Federal Excise Tax Return.</p>
+
+<h3>Specific Instructions</h3>
+<p>These instructions provide details on how to fill out each line of Form 6478, including the number of gallons of biofuel sold or used, and how to report the credit or recapture tax. Cooperatives can elect to allocate the credit to patrons, and estates and trusts must allocate the credit between the estate or trust and the beneficiaries.</p>
+
+<h3>Reporting and Documentation</h3>
+<p>Taxpayers are required to keep records that support the information provided on the form. The estimated time for recordkeeping, learning about the law or the form, and preparing and sending the form to the IRS is also provided.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest information related to Form 6478 and its instructions, taxpayers are directed to visit the IRS website.</p>
+
+<p>The instructions provide examples for reporting the credit on other forms and schedules, and also caution that the tax forms for the year 2020 and later had not been developed at the time the instructions were printed.</p>
+
+<p>For more detailed information, refer to the <a href="https://www.irs.gov/forms-pubs/about-form-6478" target="_blank">Instructions for Form 6478</a> on the IRS website.</p>

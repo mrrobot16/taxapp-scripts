@@ -1,0 +1,45 @@
+<h2>Schedule C (Form 1040) Overview</h2>
+<p>Schedule C (Form 1040) is a tax form used by sole proprietors in the United States to report the profit or loss from a business. Here is a summary of the key sections:</p>
+
+<h3>General Information</h3>
+<ul>
+  <li>Proprietor's name and Social Security Number (SSN)</li>
+  <li>Business details including name, address, and Employer Identification Number (EIN)</li>
+  <li>Accounting method used: cash, accrual, or other</li>
+  <li>Questions about material participation in the business, startup in the current year, and filing of Form(s) 1099</li>
+</ul>
+
+<h3>Part I - Income</h3>
+<ol>
+  <li>Report gross receipts or sales, returns and allowances, and calculate gross income.</li>
+  <li>Subtract returns and allowances from gross receipts to find the net receipts.</li>
+  <li>Include cost of goods sold and other income to calculate gross income.</li>
+</ol>
+
+<h3>Part II - Expenses</h3>
+<ol>
+  <li>List various business expenses such as advertising, car and truck expenses, wages, and insurance.</li>
+  <li>Calculate total expenses and net profit or loss.</li>
+  <li>Include expenses for business use of your home, if applicable.</li>
+</ol>
+
+<h3>Part III - Cost of Goods Sold</h3>
+<ol>
+  <li>Detail the methods used to value inventory and any changes in inventory accounting.</li>
+  <li>Calculate the cost of goods sold by adding inventory costs and subtracting the ending inventory.</li>
+</ol>
+
+<h3>Part IV - Information on Your Vehicle</h3>
+<ol>
+  <li>Provide information about vehicle use for business purposes if claiming car or truck expenses.</li>
+  <li>Include details such as date placed in service, mileage for business, commuting, and other uses.</li>
+</ol>
+
+<h3>Part V - Other Expenses</h3>
+<ul>
+  <li>List any additional business expenses not included in previous sections.</li>
+</ul>
+
+<p>Schedule C is attached to Form 1040, 1040-SR, 1040-NR, or 1041. Partnerships must file Form 1065 instead. For detailed instructions and more information, taxpayers are directed to the IRS website.</p>
+
+<p>For the complete and latest version of the form and its instructions, taxpayers should refer to the official IRS website.</p>

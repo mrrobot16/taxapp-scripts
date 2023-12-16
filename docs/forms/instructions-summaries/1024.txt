@@ -1,0 +1,61 @@
+<h1>Summary of Instructions for Form 1024</h1>
+<p>Form 1024 is used by certain organizations to apply for recognition of exemption under Section 501(a) or Section 521 of the Internal Revenue Code. Organizations that are not eligible to use Form 1023, 1023-EZ, or 1024-A should use this form.</p>
+
+<h2>Key Points:</h2>
+<ul>
+  <li>Keep a copy of the completed Form 1024 in the organization's permanent records.</li>
+  <li>Visit <a href="https://www.irs.gov/form1024" target="_blank">IRS.gov/Form1024</a> for the latest information about Form 1024 and its instructions.</li>
+  <li>Don't include social security numbers on this form as it will be disclosed.</li>
+  <li>For phone assistance, call 877-829-5500, available Monday through Friday.</li>
+  <li>To get forms and publications, visit <a href="https://www.irs.gov/forms-pubs" target="_blank">IRS.gov/FormsPubs</a>.</li>
+  <li>Form 1024 must be submitted electronically using Pay.gov, including payment of the correct user fee.</li>
+  <li>Organizations requesting determinations under subsections not previously using Form 1024 should now submit electronically using Form 1024.</li>
+</ul>
+
+<h2>General Instructions:</h2>
+<ul>
+  <li>Provide detailed information about past, present, and planned activities.</li>
+  <li>Financial data should be consistent with other information provided.</li>
+  <li>Complete the form in English and report financial information in U.S. dollars.</li>
+</ul>
+
+<h2>Purpose of Form:</h2>
+<ul>
+  <li>Form 1024 is used by most types of organizations to apply for recognition of exemption under section 501(a) or section 521, except for those applying under Section 501(c)(3) or 501(c)(4).</li>
+  <li>Some organizations may file Form 1024 to receive a determination letter of IRS recognition of their section 501(c) status for incidental benefits.</li>
+</ul>
+
+<h2>User Fee:</h2>
+<ul>
+  <li>A user fee must be paid through Pay.gov when filing Form 1024.</li>
+  <li>For the current user fee, visit <a href="https://www.irs.gov/charities-non-profits/user-fees-for-tax-exempt-and-government-entities-division" target="_blank">IRS.gov/Charities-Non-Profits/User-Fees-for-Tax-Exempt-and-Government-Entities-Division</a> or call 877-829-5500.</li>
+</ul>
+
+<h2>Required Attachments:</h2>
+<ul>
+  <li>All applicants must complete Parts I through VIII of Form 1024 and provide required attachments.</li>
+  <li>Consolidate attachments into a single PDF file before submitting.</li>
+</ul>
+
+<h2>Annual Return or Notice:</h2>
+<ul>
+  <li>Filing obligations begin as soon as the organization is formed, regardless of the status of Form 1024.</li>
+  <li>File the required Form 990 series return, checking the Application Pending box if applicable.</li>
+</ul>
+
+<h2>Public Inspection:</h2>
+<ul>
+  <li>Approved exemption applications and information returns are open for public inspection.</li>
+  <li>Information not subject to public inspection includes trade secrets and other information that would adversely affect the organization or national defense.</li>
+</ul>
+
+<h2>Foreign Organizations:</h2>
+<ul>
+  <li>Foreign organizations may apply for tax-exempt status on income earned in the U.S. in the same way as domestic organizations.</li>
+  <li>Contributions to foreign organizations generally aren't deductible.</li>
+</ul>
+
+<h2>Specific Instructions:</h2>
+<p>Form 1024 contains multiple parts requiring detailed information about the organization's structure, activities, financial data, and specific information related to the type of exemption sought. It also includes schedules for different types of organizations such as title-holding corporations, fraternal societies, and veterans' organizations.</p>
+
+<p>For more detailed guidance, refer to the full instructions provided by the IRS for Form 1024.</p>

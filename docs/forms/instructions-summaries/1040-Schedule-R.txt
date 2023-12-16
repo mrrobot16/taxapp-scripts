@@ -1,0 +1,40 @@
+<h2>Summary of 2022 Instructions for Schedule R (Form 1040): Credit for the Elderly or the Disabled</h2>
+
+<p>Schedule R (Form 1040) is used to calculate the credit for the elderly or the disabled. For the most recent updates regarding Schedule R, please visit <a href="https://www.irs.gov/ScheduleR" target="_blank">IRS.gov/ScheduleR</a>. More detailed information can be found in Publication 524.</p>
+
+<h3>Eligibility for the Credit</h3>
+<p>To qualify for the credit, you must be either:</p>
+<ol>
+    <li>65 or older at the end of 2022, or</li>
+    <li>Under 65, permanently and totally disabled, received taxable disability income in 2022, and had not reached mandatory retirement age as of January 1, 2022.</li>
+</ol>
+
+<p>You are considered 65 the day before your 65th birthday. If filing a return for someone who died in 2022, they are considered 65 if they were 65 or older before their death.</p>
+
+<h3>Restrictions</h3>
+<p>Those married filing separately and living with their spouse at any point during 2022 cannot take the credit. Nonresident aliens may only take the credit if filing jointly.</p>
+
+<h3>Income Limits</h3>
+<p>The credit is subject to income limits based on filing status and the amount of nontaxable social security, pensions, annuities, or disability income received.</p>
+
+<h3>IRS Calculation of the Credit</h3>
+<p>If you want the IRS to calculate the credit for you, check the box in Part I of Schedule R and fill in Part II and the applicable lines of Part III. Attach Schedule 3 and Schedule R to your return with "CFE" entered next to Schedule 3, line 6d.</p>
+
+<h3>Disability Income</h3>
+<p>Disability income includes payments under an employer's health or pension plan included in income as wages, but not payments after reaching mandatory retirement age. For more details, see Publication 525.</p>
+
+<h3>Definition of Permanent and Total Disability</h3>
+<p>A person is permanently and totally disabled if they cannot engage in any substantial gainful activity due to a physical or mental condition and a physician certifies that the condition is expected to last continuously for at least a year or result in death.</p>
+
+<h3>Statement of Permanent and Total Disability</h3>
+<p>If you are under 65 and disabled, you may need a physician's statement certifying your disability unless you have a previous statement on record. The Department of Veterans Affairs certification can also be used.</p>
+
+<h3>Calculating Your Credit</h3>
+<p>To figure your credit, complete the lines in Part III, considering any nontaxable income and your adjusted gross income. Specific instructions are provided for each line, including how to account for social security benefits and other types of nontaxable income.</p>
+
+<p>The credit may be limited based on your tax liability. Use the Credit Limit Worksheet provided in the instructions to determine your credit limit.</p>
+
+<h3>Physician's Statement</h3>
+<p>A physician's statement is required to certify that the individual was permanently and totally disabled at the time of retirement or on January 1, 1976/1977 if retired before 1977. The physician must sign to indicate the expected duration of the disability.</p>
+
+<p>For the complete instructions and specific details, please refer to the actual 2022 Instructions for Schedule R (Form 1040).</p>

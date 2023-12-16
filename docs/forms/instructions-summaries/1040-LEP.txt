@@ -1,0 +1,15 @@
+<h2>Summary of Schedule LEP Instructions (Rev. December 2022)</h2>
+<p>The Internal Revenue Service (IRS) provides Schedule LEP to enable taxpayers with limited English proficiency (LEP) to request IRS communications in a language other than English. This includes various forms of written communication, such as notices, letters, tax forms, instructions, and publications. The IRS is working on a multiyear timeline to provide translations, expected to begin in 2023. Until translations are available, communications will continue in English.</p>
+
+<h3>Who Can File</h3>
+<p>Schedule LEP is optional and can be filed with a tax return by taxpayers who wish to receive written communications in their preferred language or change their language preference.</p>
+
+<h3>How To File</h3>
+<p>Taxpayers should file Schedule LEP with their income tax return. It should be filed only with the current year tax return or subsequent year returns, not with returns for any year prior to 2020. If filing jointly, an individual Schedule LEP must be filed for each spouse preferring communications in a different language. The SSN on Schedule LEP should match the SSN on the tax return, and for nonresident or resident aliens without an SSN, an ITIN should be used.</p>
+
+<h3>Line 1 Instructions</h3>
+<p>On Line 1, taxpayers select their preferred language for future written communications by checking the appropriate box. If they wish to cancel a previous language election, they should select English.</p>
+
+<p>Special assistance is available for LEP individuals through the Volunteer Income Tax Assistance or Tax Counseling for the Elderly IRS-sponsored programs. For more information, taxpayers can visit <a href="https://www.irs.gov/vita" target="_blank">IRS.gov/VITA</a>.</p>
+
+<p>For detailed information, taxpayers can visit the IRS website and access the Schedule LEP and its instructions.</p>

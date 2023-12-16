@@ -1,0 +1,40 @@
+<h2>Summary of Instructions for Forms 1099-A and 1099-C (Rev. January 2022)</h2>
+<p>The document provides guidelines for filing Forms 1099-A (Acquisition or Abandonment of Secured Property) and 1099-C (Cancellation of Debt) as per the Internal Revenue Code.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest updates related to Forms 1099-A and 1099-C and their instructions, visit <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS.gov/Form1099A</a> and <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS.gov/Form1099C</a>.</p>
+
+<h3>What's New</h3>
+<p>Forms 1099-A and 1099-C have been converted to continuous use, meaning they will be updated as needed rather than annually. The most recent versions can be found on the IRS website.</p>
+
+<h3>Reminders</h3>
+<p>Refer to the current General Instructions for Certain Information Returns for detailed guidance on filing requirements, electronic reporting, penalties, and other general topics. Copies B and C of these forms are available in a fillable PDF format online for ease of furnishing statements to recipients and retaining records.</p>
+
+<h3>Specific Instructions for Form 1099-A</h3>
+<p>File Form 1099-A for each borrower if you acquire an interest in property securing a debt or if you know the property has been abandoned. Coordination with Form 1099-C is necessary if debt cancellation occurs in the same calendar year as the acquisition or abandonment of secured property.</p>
+
+<h3>Specific Instructions for Form 1099-C</h3>
+<p>File Form 1099-C for each debtor from whom you cancel a debt of $600 or more if an identifiable event has occurred. Include the creditor's phone number and do not file Form 1099-C for fraudulent debt cancellations due to identity theft.</p>
+
+<h3>Who Must File</h3>
+<p>These instructions detail who must file, including multiple owners of a single loan, governmental units, subsequent holders of a loan, and multiple lenders.</p>
+
+<h3>When To File</h3>
+<p>File Form 1099-A in the year following the calendar year in which you acquire an interest in the property or know it has been abandoned. File Form 1099-C in the year following the calendar year in which the identifiable event occurs.</p>
+
+<h3>Exceptions</h3>
+<p>There are exceptions to the requirement to file Form 1099-C, such as certain bankruptcies, interest, nonprincipal amounts, foreign debtors, related parties, release of a debtor, guarantor or surety, seller financing, and student loan indebtedness.</p>
+
+<h3>Multiple Debtors</h3>
+<p>For joint debts, report the entire amount of the canceled debt on each debtor's Form 1099-C if they are jointly and severally liable.</p>
+
+<h3>Recordkeeping</h3>
+<p>Keep a copy of the form or be able to reconstruct the data for at least 4 years from the due date of the return.</p>
+
+<h3>Requesting TINs</h3>
+<p>Make a reasonable effort to obtain the correct name and TIN of the person whose debt was canceled. Use Form W-9 to request the TIN if necessary.</p>
+
+<h3>Statements to Debtors</h3>
+<p>Provide a copy of Form 1099-C or an acceptable substitute statement to each debtor. Truncation of the debtor's TIN on payee statements is allowed.</p>
+
+<p>For more detailed information, refer to the full document on the IRS website.</p>

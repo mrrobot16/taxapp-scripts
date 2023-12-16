@@ -1,0 +1,39 @@
+<h2>Summary of Instructions for Form 8908 (Rev. January 2023)</h2>
+<p><b>Form 8908</b> is used by eligible contractors to claim the Energy Efficient Home Credit for qualified energy efficient homes sold or leased for use as a residence. The form is part of the general business credit.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest updates regarding Form 8908, visit <a href="https://www.irs.gov/Form8908" target="_blank">IRS.gov/Form8908</a>.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>The Inflation Reduction Act of 2022 extended the credit to cover homes sold or leased before 2033.</li>
+  <li>The credit amount and qualifications were increased and modified for certain homes sold or leased after 2022.</li>
+</ul>
+
+<h3>Who May Claim the Credit</h3>
+<p>Eligible contractors who have constructed or produced a qualified energy efficient home and own the home during its construction.</p>
+
+<h3>Definitions</h3>
+<ul>
+  <li><b>Eligible Contractor:</b> The person that constructed or produced the home and has ownership and basis during construction.</li>
+  <li><b>Qualified New Energy Efficient Home:</b> A dwelling unit in the U.S. completed after August 8, 2005, and sold or leased for use as a residence before 2033, meeting certain energy saving requirements.</li>
+</ul>
+
+<h3>Energy Saving Requirements</h3>
+<p>The credit amount is based on the energy efficiency standards met by the home. Different standards apply to homes sold or leased before 2023 and those after 2022, with credits ranging from $1,000 to $5,000 per home.</p>
+
+<h3>Certification</h3>
+<p>Contractors must obtain certification that the home meets the required energy saving standards before claiming the credit.</p>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>Homes sold or leased before 2023 meeting the 50% energy efficient standard can qualify for a $2,000 credit.</li>
+  <li>Manufactured homes meeting the 30% energy efficient standard may qualify for a $1,000 credit.</li>
+  <li>After 2022, credits range from $500 to $5,000 depending on the program requirements met by the home.</li>
+  <li>Partnerships and S corporations must file Form 8908 to claim the credit, whereas other taxpayers can report the credit directly on Form 3800, Part III, line 1p.</li>
+</ul>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The estimated time for recordkeeping is 2 hours and 9 minutes, learning about the law or the form is 12 minutes, and preparing and sending the form to the IRS is 14 minutes.</p>
+
+<p>For more detailed information, refer to the actual <a href="https://www.irs.gov/forms-pubs/about-form-8908" target="_blank">instructions for Form 8908</a>.</p>

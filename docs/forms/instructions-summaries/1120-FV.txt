@@ -1,0 +1,40 @@
+<h2>Summary of Instructions for Schedule V (Form 1120-F)</h2>
+
+<p><b>Document Title:</b> Instructions for Schedule V (Form 1120-F) - List of Vessels or Aircraft, Operators, and Owners</p>
+
+<h3>General Information</h3>
+<ul>
+  <li>These instructions relate to a schedule used by foreign corporations to report information about vessels or aircraft related to the 4% tax rate on U.S. source gross transportation income (USSGTI) under section 887.</li>
+  <li>Updates and future developments about Schedule V can be found on the IRS website at <a href="https://www.irs.gov/forms-pubs/about-form-1120-f" target="_blank">IRS.gov/Form1120F</a>.</li>
+</ul>
+
+<h3>Who Must File</h3>
+<ul>
+  <li>Foreign corporations subject to the 4% tax on USSGTI must file Schedule V.</li>
+</ul>
+
+<h3>Filing Information</h3>
+<ul>
+  <li>Schedule V should be attached to the foreign corporation's Form 1120-F income tax return.</li>
+  <li>Instructions for the filing time, place, and manner can be found in the Instructions for Form 1120-F.</li>
+</ul>
+
+<h3>Definitions</h3>
+<ul>
+  <li>USSGTI and transportation income are defined in accordance with sections 863(c)(3) and 863(c)(2)(A) of the Internal Revenue Code.</li>
+  <li>Exclusions from USSGTI are detailed, such as income not sourced under section 863(c)(2), income effectively connected with U.S. trade or business, or income taxable in a U.S. possession.</li>
+</ul>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>All information must be reported in English and all amounts in U.S. dollars.</li>
+  <li>Separate columns should be completed for each vessel or aircraft subject to the 4% tax rate.</li>
+  <li>Details are provided on how to complete each line of Schedule V, including information about the vessel or aircraft, lessor and lessee details, registered owner, and operator details.</li>
+  <li>Foreign corporations must establish the actual amount of USSGTI using a reasonable method and attach a statement describing this method.</li>
+  <li>If claiming a treaty exemption, the foreign corporation should enter the amount on line 11 and attach Form 8833.</li>
+</ul>
+
+<p>For a detailed explanation of the terms and how to fill out the schedule, filers should refer to the full document on the IRS website.</p>
+
+<p><b>Document Revision Date:</b> December 2022</p>
+<p><b>Catalog Number:</b> 51664Q</p>

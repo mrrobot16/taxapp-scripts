@@ -1,0 +1,35 @@
+<h2>Summary of Instructions for Form W-8BEN (Rev. October 2021)</h2>
+<p>Form W-8BEN, "Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting (Individuals)," is used by foreign individuals to:</p>
+<ul>
+<li>Establish non-U.S. status,</li>
+<li>Claim beneficial ownership of the income for which the form is being provided,</li>
+<li>If applicable, claim a reduced rate of, or exemption from, withholding as a resident of a foreign country with which the U.S. has an income tax treaty.</li>
+</ul>
+
+<h3>What's New</h3>
+<ul>
+<li>Guidance under section 1446(f) related to the Tax Cuts and Jobs Act (TCJA) which requires withholding tax on the sale or transfer of partnership interests by non-U.S. persons.</li>
+<li>New lines 6a and 6b for foreign tax identifying numbers (FTIN).</li>
+<li>Updated instructions for line 10 related to claims of tax treaty benefits.</li>
+<li>References to section 6050Y reporting for sellers of life insurance contracts or recipients of death benefits.</li>
+<li>Guidance on electronic signatures.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Foreign persons are subject to U.S. tax at a 30% rate on certain types of income from U.S. sources, but may be eligible for a reduced rate or exemption under an income tax treaty. Form W-8BEN must be provided to the withholding agent or payer before income is paid or credited.</p>
+
+<h3>Who Must Provide Form W-8BEN</h3>
+<p>Nonresident aliens who are beneficial owners of an amount subject to withholding or account holders of an FFI documenting themselves as nonresident aliens must provide Form W-8BEN.</p>
+
+<h3>Specific Instructions</h3>
+<p>Details on how to fill out the form, including name, country of citizenship, address, taxpayer identification numbers, and treaty claims.</p>
+
+<h3>Certification</h3>
+<p>The form must be signed and dated by the beneficial owner or the account holder, or an agent with legal authority. If any information becomes incorrect, a new form must be submitted within 30 days.</p>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The estimated burden for completing this form varies, with recordkeeping time estimated at 3 hours and 6 minutes.</p>
+
+<p>For the latest information about developments related to Form W-8BEN and its instructions, such as legislation enacted after they were published, go to <a href="https://www.irs.gov/FormW8BEN" target="_blank">IRS.gov/FormW8BEN</a>.</p>
+
+<p>Do not send Form W-8BEN to the IRS. Instead, give it to the person who is requesting it from you, usually the person from whom you receive the payment.</p>

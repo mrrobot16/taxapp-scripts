@@ -1,0 +1,40 @@
+<h2>Summary of Instructions for Form 2210-F (2022)</h2>
+<p><b>Form 2210-F</b> is used by farmers and fishermen to determine if they owe a penalty for underpaying estimated tax. To be eligible, at least two-thirds of your gross income must come from farming or fishing.</p>
+
+<h3>General Instructions</h3>
+<p>For the latest updates on Form 2210-F, visit <a href="https://www.irs.gov/forms-pubs/about-form-2210-f" target="_blank">IRS.gov/Form2210F</a>. You can use the Tax Withholding Estimator on the IRS website to adjust withholdings. Additional Medicare Tax, Net Investment Income Tax (NIIT), and the premium tax credit are also relevant for some taxpayers.</p>
+
+<h3>Purpose of Form 2210-F</h3>
+<p>Use Form 2210-F to see if you owe a penalty for underpaying your estimated tax.</p>
+
+<h3>Who Must File Form 2210-F</h3>
+<p>If you checked box A or B in Part I of Form 2210-F, you must calculate the penalty yourself and attach the form to your return. If not, the IRS will calculate any penalty for you.</p>
+
+<h3>Who Must Pay the Underpayment Penalty</h3>
+<p>You may owe the penalty for 2022 if by January 15, 2023, you didn't pay the smaller of:</p>
+<ol>
+  <li>Two-thirds of the tax shown on your 2022 return, or</li>
+  <li>100% of the tax shown on your 2021 return (which must cover a 12-month period).</li>
+</ol>
+
+<h3>Exceptions to the Penalty</h3>
+<p>You don't need to pay the penalty or file Form 2210-F if:</p>
+<ul>
+  <li>You file and pay tax due by March 1, 2023.</li>
+  <li>You had no tax liability for 2021.</li>
+  <li>The total tax shown on your 2022 return minus withholding is less than $1,000.</li>
+</ul>
+
+<h3>Waiver of Penalty</h3>
+<p>The penalty may be waived if you retired after age 62 or became disabled in 2021 or 2022, or if the underpayment was due to a casualty, disaster, or other unusual circumstance.</p>
+
+<h3>Federally Declared Disaster</h3>
+<p>If your underpayment was due to a federally declared disaster, estimated tax payment deadlines may be postponed, and the IRS may automatically apply penalty relief.</p>
+
+<h3>Specific Instructions</h3>
+<p>Complete lines 1 through 11 to figure your required annual payment. The form provides detailed instructions for each line, including how to account for various types of income, deductions, and credits.</p>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The estimated burden for individual taxpayers filing this form is included in the estimates shown in the instructions for their individual income tax return. The estimated time for preparing the form is 36 minutes.</p>
+
+<p>For more information, taxpayers can review the detailed instructions provided by the IRS for Form 2210-F.</p>

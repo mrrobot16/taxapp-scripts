@@ -1,0 +1,37 @@
+<h2>Instructions for Form 941 (Rev. March 2023)</h2>
+<p><b>Employer's QUARTERLY Federal Tax Return</b></p>
+<p><i>Internal Revenue Service</i></p>
+<p>These instructions guide employers on how to complete Form 941, which is used to report employment taxes. Employers must file this form quarterly to report wages paid, tips, federal income tax withheld, and both employer and employee shares of social security and Medicare taxes.</p>
+
+<h3>Contents</h3>
+<ol>
+  <li>Future Developments</li>
+  <li>What's New</li>
+  <li>Reminders</li>
+  <li>General Instructions</li>
+  <li>Specific Instructions</li>
+  <li>How To Get Forms, Instructions, and Publications</li>
+</ol>
+
+<h3>Future Developments</h3>
+<p>For the latest information about developments related to Form 941 and its instructions, such as legislation enacted after they were published, visit <a href="https://www.irs.gov/forms-pubs/about-form-941" target="_blank">IRS.gov/Form941</a>.</p>
+
+<h3>What's New</h3>
+<p>Changes include updates to the social security and Medicare tax rates for 2023, the social security wage base limit, and the increase in the election amount for the qualified small business payroll tax credit for increasing research activities.</p>
+
+<h3>Reminders</h3>
+<p>Employers must use the March 2023 revision of Form 941 to report taxes for the first quarter of 2023. The COVID-19 related credit for qualified sick and family leave wages is limited to leave taken after March 31, 2020, and before October 1, 2021.</p>
+
+<h3>General Instructions</h3>
+<p>These instructions provide background information about Form 941 and detailed line-by-line instructions. Topics include who must file Form 941, when to file, how to complete the form, where to file, depositing taxes, and avoiding penalties and interest.</p>
+
+<h3>Specific Instructions</h3>
+<p>This section provides detailed guidance on how to complete each part of Form 941, including how to report adjustments to social security and Medicare taxes, claim credits, and reconcile tax liabilities with deposits made.</p>
+
+<h3>How To Get Forms, Instructions, and Publications</h3>
+<p>Employers can obtain forms, instructions, and publications from the IRS website or by placing an order to have them mailed.</p>
+
+<h3>Worksheets</h3>
+<p>Worksheets are provided to calculate credits for qualified sick and family leave wages paid in 2023 for leave taken after March 31, 2020, and before April 1, 2021, as well as for leave taken after March 31, 2021, and before October 1, 2021.</p>
+
+<p>For complete and up-to-date information, always check the IRS website for the latest version of forms and instructions.</p>

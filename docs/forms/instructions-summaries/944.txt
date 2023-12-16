@@ -1,0 +1,37 @@
+<h3>Summary of 2022 Instructions for Form 944</h3>
+<p>The IRS Form 944 is designed for the smallest employers (those whose annual liability for social security, Medicare, and withheld federal income taxes is $1,000 or less) to file and pay these taxes once a year instead of every quarter. The form is used to report wages paid, tips employees reported, federal income tax withheld, and both the employer and employee shares of social security and Medicare taxes.</p>
+
+<h3>Contents of the Instructions</h3>
+<ol>
+  <li><b>Future Developments:</b> For the latest information about developments related to Form 944 and its instructions.</li>
+  <li><b>What's New:</b> Updates for the tax year, including changes in tax rates and wage limits for social security and Medicare taxes.</li>
+  <li><b>Reminders:</b> Important notes and reminders for employers about tax filing.</li>
+  <li><b>General Instructions:</b> Information on the purpose of Form 944, who must file it, when to file, and how to complete it properly.</li>
+  <li><b>Specific Instructions:</b> Detailed guidance on how to fill out each part of Form 944.</li>
+  <li><b>How To Get Forms, Instructions, and Publications:</b> Information on how to obtain IRS forms and publications.</li>
+</ol>
+
+<h3>Key Sections of the Form</h3>
+<ul>
+  <li>Employer identification number (EIN), name, and address.</li>
+  <li>Wages, tips, and other compensation.</li>
+  <li>Federal income tax withheld.</li>
+  <li>Social security and Medicare taxes.</li>
+  <li>Adjustments for current year's corrections.</li>
+  <li>Total taxes after adjustments and nonrefundable credits.</li>
+  <li>Deposits made and balance due or overpayment.</li>
+  <li>Third-party designee information.</li>
+  <li>Signature of the business owner or authorized representative.</li>
+</ul>
+
+<h3>Filing and Payment Information</h3>
+<p>Employers must file Form 944 annually by January 31st of the following year. If all taxes were deposited in full and on time, the deadline extends to February 10th. Taxes can be paid with the return if the total taxes for the year are less than $2,500. Otherwise, taxes should be deposited according to the deposit schedule.</p>
+
+<h3>Important Notes</h3>
+<ul>
+  <li>Employers can allow a third-party to discuss their Form 944 with the IRS by completing the third-party designee section.</li>
+  <li>A paid preparer must sign the form if they were compensated for preparing it.</li>
+  <li>The form includes worksheets to help calculate certain tax credits related to sick and family leave wages and COBRA premium assistance payments.</li>
+</ul>
+
+<p>For the most accurate and up-to-date information, employers should refer to the official IRS instructions for Form 944 on the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS website</a>.</p>

@@ -1,0 +1,36 @@
+<h2>Summary of Instructions for Form 8985 and Form 8985-V</h2>
+<p><b>Form 8985</b> is used by audited partnerships, AAR partnerships, or pass-through partners to summarize and transmit Forms 8986, which detail each partner's share of adjustments to partnership-related items. It also reports payments made by pass-through partners.</p>
+<p><b>Form 8985-V</b> is used by pass-through partners to make tax payments related to a BBA (Bipartisan Budget Act) exam or BBA AAR (Administrative Adjustment Request).</p>
+
+<h3>Key Points:</h3>
+<ol>
+<li>Electronic filing requirements have been updated.</li>
+<li>Reporting of positive and negative adjustments, section 199A amounts, and Schedule K-3 amounts are explained.</li>
+<li>Form 8985 should be signed by the partnership representative (PR) or designated individual (DI) for audited or AAR partnerships, or by an authorized individual for pass-through partners.</li>
+<li>Forms must be submitted electronically by audited BBA partnerships and their pass-through partners.</li>
+<li>AAR partnerships must include Form 8985 with their AAR along with Forms 8986.</li>
+<li>Submission deadlines vary depending on whether the form is related to an audit or an AAR.</li>
+<li>Pass-through partners can either make a payment to cover their share of adjustments or push out adjustments to their partners.</li>
+<li>If a payment is made, pass-through partners must provide detailed calculations of the imputed underpayment (IU), penalties, and interest.</li>
+<li>Adjustments that do not result in an IU shown on Form 8986 related to an AAR must be pushed out.</li>
+<li>Penalties and interest calculations are specified, including an example calculation.</li>
+</ol>
+
+<h3>Specific Instructions:</h3>
+<ul>
+<li>Forms must be marked as either original or corrected.</li>
+<li>Withholding obligations for foreign partners may apply if adjustments are subject to withholding under chapters 3 or 4.</li>
+<li>Adjustments to balance sheet items and capital accounts should be included in Part V with detailed explanations.</li>
+<li>Summaries of total reviewed year adjustments must be included in Part IV.</li>
+<li>Applicable penalties should be detailed in Part IV.</li>
+<li>Additional statements and explanations can be added in Part V.</li>
+</ul>
+
+<h3>Form 8985-V:</h3>
+<ul>
+<li>Should be used for check or money order payments related to BBA exam push out or BBA AAR push out.</li>
+<li>Includes specific fields for the type of payment, payment due date, and amounts of IU, penalties, and interest.</li>
+<li>Payment should be mailed to the Department of the Treasury, Internal Revenue Service, Ogden, UT 84201-0011.</li>
+</ul>
+
+<p>The instructions also address the requirements for electronic submissions, specific fields to be completed on the forms, and the process for making payments. There is a note on the Paperwork Reduction Act and the estimated burden for business taxpayers.</p>

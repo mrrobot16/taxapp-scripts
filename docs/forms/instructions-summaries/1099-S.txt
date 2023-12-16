@@ -1,0 +1,36 @@
+<h2>Summary of Instructions for Form 1099-S (Rev. January 2022)</h2>
+
+<p><b>General Overview:</b> Form 1099-S is used to report proceeds from real estate transactions. The form and its instructions are subject to updates, which can be found at <a href="https://www.irs.gov/Form1099S" target="_blank">IRS.gov/Form1099S</a>. The form has moved to continuous use, meaning it will be updated as necessary rather than annually.</p>
+
+<h3>Key Points:</h3>
+
+<ul>
+  <li>General instructions for information returns must be consulted alongside specific instructions for Form 1099-S.</li>
+  <li>Online PDF fillable Copies B and C of Form 1099-S are available at the IRS website.</li>
+  <li>Form 1099-S must be filed to report the sale or exchange of real estate, with certain exceptions.</li>
+  <li>Specific types of real estate that must be reported include land, permanent structures, condominium units, cooperative housing corporation stock, and non-contingent interests in standing timber.</li>
+  <li>Certain transactions are not reportable unless chosen to be reported, such as sales of principal residences under certain thresholds.</li>
+  <li>The person responsible for closing the transaction is generally required to file Form 1099-S.</li>
+  <li>Transactions involving foreign transferors are reportable on Form 1099-S.</li>
+  <li>Separate Forms 1099-S must be filed for each transferor when there are multiple transferors.</li>
+  <li>If real estate and other assets are sold in the same transaction, the total gross proceeds must be reported on Form 1099-S.</li>
+  <li>The transferor's Taxpayer Identification Number (TIN) must be requested at or before closing.</li>
+  <li>No separate charge for complying with Form 1099-S filing requirements is allowed.</li>
+  <li>A statement must be furnished to the transferor if Form 1099-S is required to be filed.</li>
+</ul>
+
+<h3>Specific Instructions for Form 1099-S:</h3>
+
+<ul>
+  <li>Enter the filer's name, address, and telephone number in the designated box.</li>
+  <li>Enter the transferor's name and address in the appropriate box.</li>
+  <li>Include the account number if there are multiple accounts for a recipient.</li>
+  <li>Box 1: Enter the date of closing.</li>
+  <li>Box 2: Enter the gross proceeds from the sale or exchange.</li>
+  <li>Box 3: Enter the address or legal description of the property.</li>
+  <li>Box 4: Check if the transferor received property or services as part of the consideration.</li>
+  <li>Box 5: Check if the transferor is a foreign person.</li>
+  <li>Box 6: Enter the buyer's part of real estate tax for transactions involving a residence.</li>
+</ul>
+
+<p>For detailed information and exceptions, refer to the official instructions for Form 1099-S on the IRS website.</p>

@@ -1,0 +1,30 @@
+<h2>Instructions for Form 965 (Rev. January 2021)</h2>
+<p>The Instructions for Form 965 provide guidance on how to report the inclusion of deferred foreign income upon the transition to a participation exemption system as amended by the Tax Cuts and Jobs Act (TCJA). This form is used by taxpayers who need to include in income an amount based on the accumulated post-1986 deferred foreign income of certain foreign corporations.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>For the 2020 tax year, Form 965 is used only for section 965(a) inclusions derived through interests in pass-through entities that are U.S. shareholders of deferred foreign income corporations (DFICs).</li>
+  <li>Changes in Schedule F (Form 965) include the deletion of line 16 and renumbering of former line 17 to new line 16.</li>
+  <li>Schedule H is used to report section 965(a) inclusions, section 965(c) deductions, applicable percentage for disallowance of foreign taxes, and, if applicable, foreign taxes deemed paid and disallowed under section 965(g).</li>
+</ul>
+
+<h3>General Instructions</h3>
+<ul>
+  <li>Form 965 is used to report the share of section 965(a) inclusions, section 965(c) deductions, share of foreign taxes deemed paid, and foreign taxes disallowed under section 965(g) with respect to pass-through entities.</li>
+  <li>Definitions such as 2020 tax years, controlled foreign corporation (CFC), deferred foreign income corporation (DFIC), specified foreign corporation (SFC), and United States shareholder are provided.</li>
+  <li>Who Must File: Any person with income under section 965(a) due to direct or indirect partnership in a domestic partnership, S corporation, or beneficiary of another pass-through entity that is a U.S. shareholder of a DFIC must file Form 965.</li>
+  <li>Form 965 should be attached to the income tax return and filed by the due date of the return.</li>
+  <li>If corrections are needed after filing, a corrected Form 965 should be filed with an amended tax return.</li>
+</ul>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>Form 965 includes sections for reporting section 965(a) inclusions and section 965(c) deductions, as well as schedules F and H for additional details on foreign taxes deemed paid and disallowed.</li>
+  <li>Schedule F is used to provide information necessary to compute foreign taxes deemed paid by an eligible domestic corporation or an individual with respect to section 965(a) inclusions derived through pass-through entities that are U.S. shareholders of DFICs.</li>
+  <li>Schedule H is used to report amounts with respect to section 965(a) inclusions through pass-through entities that are U.S. shareholders of DFICs.</li>
+</ul>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The form is subject to the Paperwork Reduction Act and requires a valid OMB control number. The estimated burden for business taxpayers filing this form is included in the instructions for their business income tax return.</p>
+
+<p>For more detailed information and instructions, refer to the <a href="https://www.irs.gov/pub/irs-pdf/i965.pdf" target="_blank">IRS Instructions for Form 965</a>.</p>

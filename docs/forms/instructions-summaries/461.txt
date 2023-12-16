@@ -1,0 +1,53 @@
+<h2>Summary of 2022 Instructions for Form 461 - Limitation on Business Losses</h2>
+
+<h3>General Instructions</h3>
+<p><b>Future Developments:</b> Updates to Form 461 can be found on the IRS website.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>The disallowance of excess business losses is effective for tax years beginning after 2020 and before 2029.</li>
+</ul>
+
+<h3>Reminders</h3>
+<ul>
+  <li>Excess business losses are computed without regard to certain deductions, including section 172 or 199A, or income/gains as an employee.</li>
+  <li>Capital gains and losses from sales or exchanges of capital assets are not included in the calculation of business deductions.</li>
+</ul>
+
+<h3>Purpose of Form</h3>
+<p>Form 461 is used to calculate the excess business loss that noncorporate taxpayers can't deduct in the current year, which is treated as a net operating loss (NOL) carryover.</p>
+
+<h3>Who Must File</h3>
+<p>Noncorporate taxpayers with net business losses exceeding $270,000 ($540,000 if married filing jointly) must file Form 461.</p>
+
+<h3>Definitions</h3>
+<ul>
+  <li><b>Excess Business Loss:</b> The amount by which total business deductions exceed business gross income or gains plus a threshold amount.</li>
+  <li><b>Threshold Amount:</b> For 2022, the threshold is $270,000 or $540,000 for joint filers, indexed for inflation.</li>
+</ul>
+
+<h3>Ordering Rules</h3>
+<p>Apply at-risk rules, passive activity loss rules, and then excess business loss rules in that order. Farming losses are subject to special rules.</p>
+
+<h3>Transition Rules</h3>
+<p>Prior year losses or deductions limited by other tax provisions must be considered when calculating the 2022 excess business loss.</p>
+
+<h3>Additional Information</h3>
+<p>See publications 225, 536, and 925 for more details on topics related to Form 461.</p>
+
+<h3>Specific Instructions</h3>
+<p>Joint filers should complete one Form 461 with combined information. Amended returns should also include Form 461.</p>
+
+<h3>Part I - Total Income/Loss Items</h3>
+<p>Report all business income and losses from the applicable tax return here.</p>
+
+<h3>Part II - Adjustment for Amounts not Attributable to Trade or Business</h3>
+<p>Report non-trade or business income and losses, which are used to calculate the excess business loss.</p>
+
+<h3>Part III - Limitation on Losses</h3>
+<p>Apply the threshold limitation to figure the excess business loss, which is reported as a positive number on the Other income line of the tax return.</p>
+
+<h3>Privacy Act and Paperwork Reduction Act Notice</h3>
+<p>The IRS requires the information on this form to ensure compliance with tax laws. The time needed to complete Form 461 is estimated at 23 minutes.</p>
+
+<p><b>Note:</b> This summary is based on the 2022 Instructions for Form 461 provided by the IRS. For more detailed information or for any updates, please refer to the actual IRS instructions or consult a tax professional.</p>

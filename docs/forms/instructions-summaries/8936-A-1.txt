@@ -1,0 +1,29 @@
+<h2>Summary of 2022 Instructions for Form 8936-A</h2>
+
+<p>Form 8936-A is used to claim the credit for qualified commercial clean vehicles acquired after 2022. Schedule 1 (Form 8936-A) is used to calculate the credit amount for each qualified vehicle placed in service during the tax year. Partnerships and S corporations must file this form to claim the credit, while other taxpayers can report the credit directly on Form 3800 if received through a partnership or S corporation.</p>
+
+<h3>Credit Amount</h3>
+<p>The credit is the lesser of 15% (or 30% for a vehicle not powered by gasoline or diesel) of the vehicle's basis or the incremental cost over a comparable gasoline or diesel vehicle. There's a safe harbor for incremental costs for certain vehicles placed in service in 2023, and the maximum credit per vehicle is $7,500 or $40,000 for heavier vehicles.</p>
+
+<h3>Qualified Commercial Clean Vehicle</h3>
+<p>A new vehicle with at least four wheels, acquired and placed in service after 2022, which is propelled to a significant extent by an electric motor and capable of being recharged externally. It must be manufactured for public streets or as mobile machinery, subject to depreciation, and meet additional requirements.</p>
+
+<h3>New Qualified Fuel Cell Motor Vehicle</h3>
+<p>A new vehicle with at least four wheels, acquired and placed in service after 2022, which is propelled by power from cells converting chemical energy directly into electricity by combining oxygen with hydrogen fuel. It must also meet the same conditions as the qualified commercial clean vehicle.</p>
+
+<h3>Certification and Other Requirements</h3>
+<p>The vehicle must be manufactured by a qualified manufacturer who reports to the IRS. The owner must place the vehicle in service during the tax year, acquire it for use or lease (not for resale), and use it primarily in the United States.</p>
+
+<h3>Tax-Exempt Entities</h3>
+<p>Vehicles placed in service by tax-exempt entities are not required to be subject to an allowance for depreciation.</p>
+
+<h3>Basis Reduction and Coordination With Other Credits</h3>
+<p>The basis of each qualified vehicle must be reduced by the credit amount unless an election is made not to claim the credit. A vehicle cannot be used to claim both the new clean vehicle credit and the qualified commercial clean vehicle credit.</p>
+
+<h3>Recapture of Credit</h3>
+<p>If the vehicle no longer qualifies for the credit, part or all of the credit may need to be recaptured.</p>
+
+<h3>Specific Instructions for Form 8936-A and Schedule 1 (Form 8936-A)</h3>
+<p>Instructions detail how to fill out the form, including reporting partnership and S corporation credits, identifying the vehicle with its VIN, and calculating the cost basis and incremental cost. The form also addresses the recordkeeping and reporting requirements.</p>
+
+<p>For the latest information and details on the form and its instructions, visit the IRS website at <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS.gov/forms-instructions</a>.</p>

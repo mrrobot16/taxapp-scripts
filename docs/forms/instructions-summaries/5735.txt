@@ -1,0 +1,36 @@
+<h2>Summary of Instructions for Form 5735 (Rev. January 2013)</h2>
+
+<h3>Background</h3>
+<p>Form 5735, American Samoa Economic Development Credit, is used to calculate the American Samoa economic development credit as per section 30A of the Internal Revenue Code. This credit is generally allowed against income tax imposed by Chapter 1, with certain restrictions.</p>
+
+<h3>Recent Changes</h3>
+<p>The American Samoa economic development credit has been modified and expanded for tax years beginning after December 31, 2011, due to Section 330 of the American Taxpayer Relief Act of 2012. The instructions reflect these changes.</p>
+
+<h3>Who Must File</h3>
+<p>Domestic corporations (excluding S corporations) with an effective election for the American Samoa economic development credit must file Form 5735.</p>
+
+<h3>Filing Location</h3>
+<p>The completed Form 5735 should be attached to the corporation's income tax return and filed at the Internal Revenue Service, P.O. Box 409101, Ogden, UT 84409.</p>
+
+<h3>Qualifying for the Credit</h3>
+<p>To qualify, a corporation must have positive qualified production activities income (QPAI). The corporation must also meet the criteria for qualifying production activities and gross receipts.</p>
+
+<h3>Restrictions</h3>
+<p>The credit cannot be used against certain types of taxes, including taxes on accumulated earnings, personal holding company tax, and various recapture taxes.</p>
+
+<h3>Definitions and Calculations</h3>
+<p>QPAI, Domestic Production Gross Receipts (DPGR), and Qualifying Production Property are defined in detail, with explanations on how to calculate QPAI and how to determine whether gross receipts are considered DPGR.</p>
+
+<h3>Wages and Expenses</h3>
+<p>Instructions include how to figure Form W-2 wages and how to allocate them to DPGR. There are also guidelines for allocating other deductions, expenses, or losses to DPGR.</p>
+
+<h3>Specific Instructions</h3>
+<p>Line-by-line instructions are provided for filling out Form 5735, including how to calculate the credit based on wages, employee fringe benefit expenses, and investment in qualified tangible property.</p>
+
+<h3>Additional Information</h3>
+<p>The instructions mention that any wages or expenses used to calculate the American Samoa economic development credit cannot be used to determine the research credit under section 41.</p>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The instructions acknowledge the requirements of the Paperwork Reduction Act and provide estimates for the time needed to complete the form. They also invite comments on the form's accuracy and suggestions for simplification.</p>
+
+<p>For more detailed information, refer to the actual instructions for Form 5735 on the IRS website.</p>

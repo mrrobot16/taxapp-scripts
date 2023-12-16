@@ -1,0 +1,46 @@
+<h2>Instructions for Form 8992 (Rev. December 2022)</h2>
+<p><b>Form 8992</b> is used by U.S. shareholders to calculate the Global Intangible Low-Taxed Income (GILTI) inclusion and report related information, as required by section 951A, enacted by the Tax Cuts and Jobs Act of 2017.</p>
+
+<h3>Future Developments</h3>
+<p>For updates on Form 8992, such as new legislation, visit <a href="https://www.irs.gov/forms-pubs/about-form-8992" target="_blank">IRS.gov/Form8992</a>.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Clarification on Form 8992, Part II, line 5, stating to enter "-0-" if the result is zero or less.</li>
+  <li>Changes to Schedule A and B regarding the requirement for an EIN or reference ID number for CFCs.</li>
+</ul>
+
+<h3>Reminders</h3>
+<ul>
+  <li>For the section 250 deduction related to GILTI, refer to Form 8993 and its instructions.</li>
+  <li>Domestic partnerships no longer complete Form 8992 but instead use Schedule K-2 and K-3 (Form 1065), Part VI.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<ul>
+  <li>Who Must File: U.S. shareholders owning stock in one or more Controlled Foreign Corporations (CFCs).</li>
+  <li>Members of U.S. consolidated groups must file a single consolidated Form 8992.</li>
+  <li>S corporations electing entity treatment must also file Form 8992.</li>
+  <li>When and Where To File: Attach Form 8992 to the income tax return by the due date (including extensions).</li>
+</ul>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>Use Schedule A (Form 8992) for individual U.S. shareholders not part of a U.S. consolidated group.</li>
+  <li>Use Schedule B (Form 8992) if part of a U.S. consolidated group.</li>
+  <li>Details on how to fill out the form and schedules are provided, including how to handle name changes, identifying numbers, and specific line instructions.</li>
+</ul>
+
+<h3>Corrections to Form 8992</h3>
+<p>If you discover errors after filing, submit a corrected Form 8992 with an amended tax return and write "Corrected" at the top of the form.</p>
+
+<h3>Treaty-Based Return Positions</h3>
+<p>File Form 8833 to disclose positions that override or modify the Internal Revenue Code due to a treaty.</p>
+
+<h3>Computer-Generated Form 8992</h3>
+<p>Approval is required for computer-generated forms unless they are identical to the IRS-prescribed form.</p>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The estimated burden for filing this form is included in the estimates for individual and business income tax returns under OMB control number 1545-0123.</p>
+
+<p>For more detailed instructions, please refer to the <a href="https://www.irs.gov/instructions/i8992" target="_blank">IRS Instructions for Form 8992</a>.</p>

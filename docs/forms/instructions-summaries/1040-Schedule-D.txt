@@ -1,0 +1,20 @@
+<h2>Summary of 2022 Instructions for IRS Schedule D (Form 1040)</h2>
+<p>Schedule D (Form 1040) is used to report the following:</p>
+<ul>
+  <li>Overall gain or loss from transactions reported on Form 8949.</li>
+  <li>Certain transactions not required to be reported on Form 8949.</li>
+  <li>Gain from Form 2439 or 6252, or Part I of Form 4797.</li>
+  <li>Gain or loss from Form 4684, 6781, or 8824.</li>
+  <li>Gain or loss from a partnership, S corporation, estate, or trust.</li>
+  <li>Capital gain distributions not reported directly on Form 1040 or 1040-SR.</li>
+  <li>Capital loss carryover from 2021 to 2022.</li>
+</ul>
+<p>Additional forms such as Form 461, 8949, 4797, 4684, 6781, 8824, 8960, and 8997 may be required.</p>
+<p>Most property owned for personal or investment purposes is considered a capital asset. Special rules apply to certain types of property, such as business property or stock in trade.</p>
+<p>The basis of property is usually its cost, but there are special rules for inherited property, gifts, and property received in nontaxable exchanges. Accurate records must be maintained to determine the basis of property.</p>
+<p>Short-term gains or losses are reported in Part I, and long-term gains or losses in Part II. Holding periods are generally classified as short-term (1 year or less) or long-term (more than 1 year).</p>
+<p>Capital gain distributions from mutual funds or real estate investment trusts are reported on Schedule D, line 13.</p>
+<p>The sale of your home may not need to be reported if certain tests are met. If reporting is required, Form 8949 should be completed.</p>
+<p>Partnership interests, assets held for personal use, capital losses, and nondeductible losses from related-party transactions have specific reporting requirements.</p>
+<p>For detailed information on due dates, reporting requirements, and how to calculate and report gains and losses, refer to the full instructions provided by the IRS for Schedule D and the associated forms.</p>
+<p>For the latest information related to Schedule D and its instructions, such as legislation enacted after the instructions were published, visit <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS.gov/ScheduleD</a>.</p>

@@ -1,0 +1,33 @@
+<h2>Summary of Instructions for Form 982 (Rev. December 2021)</h2>
+<p>Form 982 is used to report the exclusion of discharged indebtedness from gross income and the reduction of certain tax attributes. The form is relevant for individuals who have had their debts forgiven under specific circumstances outlined in section 108 of the Internal Revenue Code.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest updates on Form 982 and its instructions, including legislative changes after publication, visit the IRS website at <a href="https://www.irs.gov/forms-pubs/about-form-982" target="_blank">IRS.gov/Form982</a>.</p>
+
+<h3>What's New</h3>
+<p>Discharges of qualified principal residence indebtedness before January 1, 2026, can be excluded from income. The maximum exclusion amount is $750,000 ($375,000 if married filing separately).</p>
+
+<h3>Purpose of Form</h3>
+<p>Generally, discharged indebtedness is included in gross income, but section 108 allows for exclusions under certain conditions. Form 982 must be filed to report the exclusion and the corresponding reduction of tax attributes.</p>
+
+<h3>Definitions</h3>
+<ul>
+  <li><b>Title 11 case:</b> A bankruptcy case under title 11 of the United States Code where the court has jurisdiction and grants the discharge.</li>
+  <li><b>Discharge of indebtedness:</b> Forgiveness or release from a repayment obligation.</li>
+</ul>
+
+<h3>When To File</h3>
+<p>Form 982 should be filed with your federal income tax return for the year in which the discharge of indebtedness is excluded from your income under section 108(a).</p>
+
+<h3>How To Complete the Form</h3>
+<p>Steps for completing Form 982 vary depending on the type of discharged debt. There are specific instructions for qualified principal residence indebtedness, a nonbusiness debt such as a car loan or credit card debt, and any other debt. Part II of the form is used to report the reduction of tax attributes in a specified order unless an election is made to reduce the basis of depreciable property first.</p>
+
+<h3>Specific Instructions</h3>
+<p>Part I of the form deals with the exclusion of discharged indebtedness from gross income, while Part II addresses the reduction of tax attributes. Part III is for adjustments to the basis of property. Detailed instructions are provided for each line on the form, including limitations and ordering rules for the reduction of tax attributes.</p>
+
+<p>The instructions also include examples and references to other publications for more information, such as Publication 4681 for canceled debts and Publication 523 for selling your home.</p>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The estimated time for recordkeeping, learning about the law or the form, and preparing and sending the form to the IRS is provided. Comments and suggestions for improving the form are welcomed.</p>
+
+<p>It is important to consult the full instructions on the IRS website or seek professional advice to ensure proper completion and compliance with tax laws.</p>

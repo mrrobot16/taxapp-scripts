@@ -1,0 +1,31 @@
+<h2>Summary of 2022 Instructions for Form 3800 - General Business Credit</h2>
+
+<p>The instructions for Form 3800 provide guidance for claiming the General Business Credit (GBC). These credits are incentives for businesses to engage in certain activities, like investing in renewable energy or providing access for disabled individuals.</p>
+
+<h3>Future Developments</h3>
+<p>For the most recent information related to Form 3800, including updates after the publication of the instructions, visit <a href="https://www.irs.gov/Form3800" target="_blank">IRS.gov/Form3800</a>.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Energy credits have been updated by the Inflation Reduction Act of 2022, including new credits for clean hydrogen, sustainable aviation fuel, advanced manufacturing, and commercial clean vehicles.</li>
+  <li>Deemed payments allow certain filers to treat new energy credits as deemed payments for tax years beginning in 2023.</li>
+  <li>Drafts of forms are available at IRS.gov/DraftForms.</li>
+  <li>Enhanced oil recovery credit and advanced manufacturing investment credit have been updated.</li>
+  <li>Research credit claims on amended returns require specific information.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Partnerships and S corporations must always complete the source credit form, but other filers can report directly on Form 3800 with some exceptions. Form 3800 must be filed to claim any GBCs.</p>
+
+<h3>Carryback and Carryforward of Unused Credit</h3>
+<p>Unused credits can be carried back 1 year or forward up to 20 years, with specific rules for various credits and events like ownership changes or grants received under certain acts.</p>
+
+<h3>Specific Instructions</h3>
+<p>These include detailed steps to complete Form 3800, including how to assemble it, how to calculate current year credit, and how to handle carryforwards and carrybacks. There is also guidance on how to apply limitations and how to report credits from different sources.</p>
+
+<p>For example, the research credit for individuals is limited based on taxable income from the business generating the credit. Also, if you're a partner or S corporation shareholder, the business and you must meet certain gross receipts tests to be considered an eligible small business.</p>
+
+<h3>Partners of BBA Partnership and Non-pass-through Partners</h3>
+<p>Adjustments to credits are covered, including how partners of BBA partnerships should handle them.</p>
+
+<p>For more details, see the full instructions provided by the IRS for Form 3800, which can be found on the IRS website or by visiting <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS.gov/forms-instructions</a>.</p>

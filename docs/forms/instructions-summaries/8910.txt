@@ -1,0 +1,28 @@
+<h2>Summary of Instructions for Form 8910 (Rev. January 2022)</h2>
+
+<p>The Form 8910 is used for claiming the Alternative Motor Vehicle Credit for vehicles placed in service during the taxpayer's tax year. The credit applies to qualified fuel cell vehicles and is part of the general business credit for depreciable property or a personal credit otherwise.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>The alternative motor vehicle credit expired for vehicles purchased after 2021, but if you purchased a vehicle in 2021 and placed it in service in 2022, you may still claim the credit.</li>
+  <li>For the latest information on Form 8910 and any legislative changes, visit <a href="https://www.irs.gov/Form8910" target="_blank">IRS.gov/Form8910</a>.</li>
+  <li>Partnerships and S corporations must file Form 8910 to claim the credit. Other taxpayers can report the credit directly on Form 3800, General Business Credit, if their only source for this credit is from a partnership or S corporation.</li>
+  <li>Use the January 2022 revision of Form 8910 for tax years beginning in 2021 or later.</li>
+  <li>To qualify for the credit, the vehicle must be a new qualified fuel cell vehicle and meet additional requirements. The manufacturer's certification is generally required to claim the credit unless the IRS has announced the certification's withdrawal.</li>
+  <li>Certain conditions must be met to qualify for the credit, including ownership, use, and acquisition for use or lease, not for resale.</li>
+  <li>If the vehicle qualifies for the qualified plug-in electric drive motor vehicle credit (Form 8936), it does not qualify for the alternative motor vehicle credit.</li>
+  <li>There may be a need to recapture part or all of the credit if the vehicle no longer qualifies.</li>
+</ul>
+
+<h3>Form Completion Guidance:</h3>
+<ul>
+  <li>Enter the vehicle's VIN on line 2.</li>
+  <li>Enter the tentative credit amount, which is provided by the manufacturer or domestic distributor, on line 4.</li>
+  <li>For business/investment use percentage, enter 100% if solely for business, or calculate the percentage based on actual use if the vehicle is used for both personal and business purposes.</li>
+  <li>Include any alternative motor vehicle credits from Schedule K-1 (Form 1065 or 1120-S) on line 8.</li>
+  <li>Any unused personal portion of the credit cannot be carried back or forward to other tax years.</li>
+</ul>
+
+<p>The Paperwork Reduction Act Notice states that the estimated time to complete and file this form varies depending on individual circumstances, with recordkeeping taking the longest time.</p>
+
+<p>For more detailed information, taxpayers should consult the actual instructions for Form 8910 or seek professional tax advice.</p>

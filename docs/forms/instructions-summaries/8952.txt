@@ -1,0 +1,26 @@
+<h2>Summary of Instructions for Form 8952 (Rev. November 2021)</h2>
+<p><b>Form 8952</b> is used to apply for the Voluntary Classification Settlement Program (VCSP), which allows eligible taxpayers to voluntarily reclassify workers as employees for federal employment tax purposes and obtain relief similar to that under the Classification Settlement Program (CSP).</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li><b>VCSP:</b> Provides a way for taxpayers not under employment tax examination to reclassify workers with limited federal employment tax liability for past nonemployee treatment.</li>
+  <li><b>Eligibility:</b> Taxpayers must meet specific requirements, including having filed all required Forms 1099 for the workers to be reclassified for the 3 preceding years and not currently being under examination by the IRS or any state agency regarding worker classification.</li>
+  <li><b>Filing:</b> Form 8952 should be filed at least 60 days before the date the taxpayer wants to begin treating workers as employees.</li>
+  <li><b>Where to File:</b> Send Form 8952 to the IRS Detroit Federal Building or use designated private delivery services.</li>
+  <li><b>Signature:</b> Form 8952 must be signed by the taxpayer under penalties of perjury.</li>
+  <li><b>Payment:</b> Do not send payment with Form 8952. Payment will be submitted later with a signed closing agreement based on the calculated amount using Section 3509(a) rates.</li>
+  <li><b>Preparer:</b> If a paid preparer is used, they must sign the form and fill out the "Paid Preparer Use Only" section.</li>
+</ul>
+
+<h3>Assembling the Application:</h3>
+<ol>
+  <li>Attach Form 8952 and any statements.</li>
+  <li>Include Form 2848 if a representative is involved.</li>
+  <li>Ensure all applicable spaces on Form 8952 are completed.</li>
+</ol>
+
+<p>For the latest information related to Form 8952 and its instructions, taxpayers should visit the IRS website at <a href="https://www.irs.gov/forms-pubs/about-form-8952" target="_blank">IRS.gov/Form8952</a>.</p>
+
+<p><b>Privacy Act and Paperwork Reduction Act Notice:</b> The information on Form 8952 is used to determine VCSP eligibility and payment calculation. Not providing requested information may prevent processing of the application.</p>
+
+<p>For further details, taxpayers should refer to the actual instructions for Form 8952 provided by the IRS.</p>

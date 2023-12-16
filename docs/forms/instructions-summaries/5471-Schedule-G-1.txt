@@ -1,0 +1,43 @@
+<h1>Clarification Concerning Instructions for Schedule Q (Form 5471)</h1>
+<p>The document provides clarification and updated instructions for Schedule Q (Form 5471), specifically concerning new columns (xv) and (xvi) added for reporting loss allocations. These columns have been added to reflect regulations sections 1.952-1(c) and (e) and 1.951A-6.</p>
+
+<h2>What's New</h2>
+<p>Changes to Form 5471, Schedule Q:</p>
+<ul>
+  <li>New columns (xv) and (xvi) are added for reporting loss allocations.</li>
+  <li>These columns are intended to reflect specific regulations sections related to loss allocations.</li>
+</ul>
+
+<h2>Instructions for Form 5471 (Rev. January 2023)</h2>
+<p>The instructions for Form 5471 (Rev. January 2023) are to be used with the December 2022 revision of Form 5471 and separate Schedule Q. They also apply to other revisions of separate schedules as detailed in the document.</p>
+
+<h2>General Instructions</h2>
+<p>Form 5471 is used by certain U.S. persons who are officers, directors, or shareholders in certain foreign corporations. The form and its schedules are used to satisfy reporting requirements under sections 6038 and 6046, among others.</p>
+
+<h2>Specific Instructions</h2>
+<p>The document outlines specific instructions for various schedules and scenarios related to Form 5471, including:</p>
+<ul>
+  <li>Schedule B for reporting U.S. persons with certain interests in foreign corporations.</li>
+  <li>Schedule C for reporting the foreign corporation's income statement.</li>
+  <li>Schedule F for reporting the balance sheet.</li>
+  <li>Schedule G for additional information, including changes in corporate structure and transactions with related parties.</li>
+  <li>Schedule H for reporting the current earnings and profits of the foreign corporation.</li>
+  <li>Schedule I for reporting the U.S. shareholder's pro rata share of certain amounts.</li>
+  <li>Schedule J for reporting accumulated earnings and profits.</li>
+  <li>Schedule M for reporting transactions between the foreign corporation and related parties.</li>
+  <li>Schedule O for reporting organizational or structural changes.</li>
+  <li>Schedule P for reporting previously taxed earnings and profits.</li>
+  <li>Schedule Q for reporting operations by income category.</li>
+  <li>Schedule R for reporting distributions from foreign corporations.</li>
+</ul>
+
+<p>The document also includes Principal Business Activity Codes for categorizing the foreign corporation's primary business activity.</p>
+
+<h2>Future Developments</h2>
+<p>For the latest information about developments related to Form 5471, its schedules, and its instructions, such as legislation enacted after they were published, taxpayers are directed to visit the IRS website at IRS.gov/Form5471.</p>
+
+<h2>Additional Information</h2>
+<p>The document provides additional information about penalties, other reporting requirements, and the treatment of foreign currency transactions.</p>
+
+<h2>Effective Date</h2>
+<p>The clarified instructions for Schedule Q (Form 5471) are effective as of January 2023.</p>

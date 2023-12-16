@@ -1,0 +1,36 @@
+<h2>Summary of Instructions for Schedule R (Form 943)</h2>
+
+<p><b>Document Title:</b> Instructions for Schedule R (Form 943) - Allocation Schedule for Aggregate Form 943 Filers</p>
+
+<h3>General Overview</h3>
+<p>Schedule R is used alongside Form 943 to allocate aggregate reported information to individual clients when an agent or Certified Professional Employer Organization (CPEO) files on behalf of multiple clients.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest updates on Schedule R and its instructions, users should check the IRS website.</p>
+
+<h3>What's New</h3>
+<p>Instructions have been updated for the 2022 revision of Form 943. Certain columns are reserved for future use.</p>
+
+<h3>General Instructions</h3>
+<p>Schedule R is used to allocate information from Form 943 to each client of an agent or CPEO. It includes employers identified on Form 2678 or clients with specific service agreements. If there are more than five clients, additional continuation sheets should be used.</p>
+
+<h3>Who Must File?</h3>
+<p>Agents approved under section 3504 and CPEOs must file Schedule R with each aggregate Form 943. Non-certified PEOs and other third-party payers must also file if they have clients claiming certain tax credits.</p>
+
+<h3>When Must You File?</h3>
+<p>Schedule R should be filed with the aggregate Form 943 annually. Electronic or paper filing methods are available, with CPEOs generally required to file electronically.</p>
+
+<h3>Specific Instructions</h3>
+<p>The instructions detail how to complete Schedule R, including business information, the calendar year, and client and employee information. Various columns are used to allocate wages, taxes, credits, and other relevant data to each client.</p>
+
+<ul>
+  <li>Lines 6-9 are used for subtotal and total calculations.</li>
+  <li>Continuation sheets are provided for additional clients.</li>
+</ul>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>This notice explains the legal need for the information on Schedule R and the estimated time required to complete the form.</p>
+
+<p>The instructions conclude with contact information for comments or suggestions regarding the form.</p>
+
+<p>For detailed information and to ensure compliance with the latest tax laws, users should refer to the actual IRS instructions for Schedule R (Form 943).</p>

@@ -1,0 +1,1 @@
+{'status': 400, 'error': AuthenticationError("Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-00JE1***************************************sg68. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}")}

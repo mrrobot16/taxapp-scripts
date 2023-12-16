@@ -1,0 +1,19 @@
+<h2>Summary of Instructions for Form 7205 (December 2022)</h2>
+<p><b>Form 7205</b> is a new form used to claim the deduction for energy-efficient commercial building property (EECBP) placed in service before January 1, 2023. This form is relevant for taxpayers who need to calculate and claim the deduction under section 179D.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>The form is for both building owners and designers to identify themselves, provide certification information, and compute the deduction.</li>
+  <li>It includes details of the person performing the certification and the person completing the allocation if applicable.</li>
+  <li>For a short tax year beginning and ending in 2023, if the 2023 form isn't available, the December 2022 form should be used with consideration of any tax law changes effective after December 31, 2022.</li>
+  <li>The form requires certification by a qualified individual.</li>
+  <li>EECBP must be depreciable, installed in the U.S., part of the building's systems, and certified to reduce energy and power costs by 50% or more compared to a reference building.</li>
+  <li>Special rules apply for allocations to designers of government-owned buildings.</li>
+  <li>The form includes a worksheet to compute the potential deduction amount per square foot.</li>
+  <li>For buildings with EECBP installed by multiple parties, the form must reflect the aggregate of deductions claimed by all parties in prior years.</li>
+  <li>There is a maximum allowed deduction per square foot, which varies based on the tax year.</li>
+  <li>Designers can only claim the deduction if it's allocated to them in writing by the government building owner.</li>
+  <li>Instructions include recordkeeping requirements, estimated time for preparing the form, and where to send comments about the form.</li>
+</ul>
+
+<p>For more information and any future developments regarding Form 7205, taxpayers should visit <a href="https://www.irs.gov/forms-pubs/about-form-7205" target="_blank">IRS.gov/Form7205</a>.</p>

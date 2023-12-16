@@ -1,0 +1,16 @@
+<p>The <b>2022 Instructions for Form 8941</b> provide guidance for eligible small employers on how to calculate the credit for small employer health insurance premiums. This credit is available for tax years beginning after 2009, and for tax years beginning after 2013, the credit is only available for a 2-consecutive-tax-year credit period. The maximum credit is a percentage of premiums paid for health insurance coverage provided to certain employees, but may be reduced based on several factors including the number of full-time equivalent employees, average annual wages, and state premium subsidies or tax credits.</p>
+
+<p>Eligible small employers must meet three requirements:</p>
+<ol>
+  <li>They must have paid premiums for employee health insurance coverage under a qualifying arrangement.</li>
+  <li>They must have had fewer than 25 full-time equivalent employees (FTEs) for the tax year.</li>
+  <li>They must have paid average annual wages for the tax year of less than $58,000 per FTE.</li>
+</ol>
+
+<p>The credit for tax-exempt eligible small employers is limited to 35% of premiums paid and is claimed as a refundable credit on Form 990-T. For other eligible small employers, the maximum credit is 50% of premiums paid.</p>
+
+<p>Partnerships, S corporations, cooperatives, estates, trusts, and tax-exempt eligible small employers must file Form 8941 to claim the credit. Other taxpayers should report this credit directly on Form 3800, General Business Credit.</p>
+
+<p>There are also specific instructions and worksheets provided for calculating FTEs, average annual wages, and premiums paid. Additionally, the instructions cover state premium subsidy and tax credit limitations, payroll tax limitations for tax-exempt eligible small employers, and the requirement to reduce the premium deduction by the amount of the credit.</p>
+
+<p>For more details on the average premiums for the small group market in each rating area by county for each state for tax years beginning in 2022, the instructions include tables at the end of the document.</p>

@@ -1,0 +1,69 @@
+<h2>Instructions for Form 1023-EZ (Rev. January 2023)</h2>
+<p><b>Streamlined Application for Recognition of Exemption Under Section 501(c)(3) of the Internal Revenue Code</b></p>
+<p>These instructions provide guidance for completing Form 1023-EZ, a streamlined version of Form 1023, Application for Recognition of Exemption Under Section 501(c)(3) of the Internal Revenue Code. This form is designed for certain smaller organizations that meet specific eligibility requirements outlined in the Form 1023-EZ Eligibility Worksheet.</p>
+
+<h3>Contents</h3>
+<ol>
+  <li>General Instructions</li>
+  <li>Purpose of Form</li>
+  <li>Who Can File This Form</li>
+  <li>How To File</li>
+  <li>User Fee</li>
+  <li>When To File (Effective Date of Exemption)</li>
+  <li>Application Process</li>
+  <li>Filing Assistance</li>
+  <li>Signature Requirements</li>
+  <li>Annual Filing Requirements</li>
+  <li>Public Inspection</li>
+  <li>State Registration Requirements</li>
+  <li>Donor Reliance on a Favorable Determination</li>
+  <li>Specific Instructions for Form 1023-EZ Parts I-VI</li>
+  <li>National Taxonomy of Exempt Entities (NTEE) Codes</li>
+</ol>
+
+<h3>General Instructions</h3>
+<p>Throughout these instructions, the terms "you" and "your" refer to the organization applying for tax-exempt status, while "us" and "we" refer to the Internal Revenue Service.</p>
+
+<h3>Purpose of Form</h3>
+<p>Form 1023-EZ is a streamlined application for recognition of exemption from federal income tax under section 501(c)(3). Only certain organizations are eligible to file Form 1023-EZ.</p>
+
+<h3>Who Can File This Form</h3>
+<p>Eligibility to file Form 1023-EZ is determined by completing the Form 1023-EZ Eligibility Worksheet. If any question on the worksheet is answered "Yes," the organization is not eligible to file Form 1023-EZ and must file Form 1023 instead.</p>
+
+<h3>How To File</h3>
+<p>Form 1023-EZ can only be filed electronically through the IRS website or Pay.gov. Printed copies will not be accepted.</p>
+
+<h3>User Fee</h3>
+<p>A user fee is required to process the application and must be paid through Pay.gov.</p>
+
+<h3>When To File (Effective Date of Exemption)</h3>
+<p>Generally, if Form 1023-EZ is filed within 27 months after the end of the month in which the organization was legally formed, the effective date of exemption will be the legal date of formation. Otherwise, it will be the submission date of the Form 1023-EZ.</p>
+
+<h3>Application Process</h3>
+<p>Submitting Form 1023-EZ does not guarantee exemption. Incomplete or incorrect applications may be rejected, and additional information may be requested.</p>
+
+<h3>Filing Assistance</h3>
+<p>For help, call Exempt Organization Customer Account Services at 877-829-5500 or visit the IRS website for resources.</p>
+
+<h3>Signature Requirements</h3>
+<p>An authorized officer, director, or trustee must sign Form 1023-EZ with their title and date.</p>
+
+<h3>Annual Filing Requirements</h3>
+<p>Organizations that qualify for exemption under section 501(c)(3) are generally required to file an annual return.</p>
+
+<h3>Public Inspection</h3>
+<p>Approved exemption applications and information returns are subject to public disclosure.</p>
+
+<h3>State Registration Requirements</h3>
+<p>State registration may be required for soliciting contributions or obtaining exemption from state taxes.</p>
+
+<h3>Donor Reliance on a Favorable Determination</h3>
+<p>Generally, donors may rely on an organization's favorable determination letter until the IRS publishes notice of a change in status.</p>
+
+<h3>Specific Instructions</h3>
+<p>Detailed instructions are provided for each part of Form 1023-EZ, including identification of the applicant, organizational structure, specific activities, foundation classification, and reinstatement after automatic revocation.</p>
+
+<h3>National Taxonomy of Exempt Entities (NTEE) Codes</h3>
+<p>Organizations must select an NTEE code that best describes their purpose from the provided list.</p>
+
+<p>For the latest information about developments related to Form 102

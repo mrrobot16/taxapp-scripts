@@ -1,0 +1,28 @@
+<h2>Summary of Instructions for Form 1125-E (Rev. October 2018)</h2>
+<p>The IRS Form 1125-E is used by certain entities to report compensation paid to officers when total receipts are $500,000 or more. The form is attached to the entity's tax return, which could be Form 1120, 1120-C, 1120-F, 1120-RIC, 1120-REIT, or 1120S.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest information on Form 1125-E, taxpayers are advised to check the IRS website.</p>
+
+<h3>What's New</h3>
+<p>The definition of "covered employee" has changed for tax years after 2017, affecting the deduction limit for employee compensation over $1 million.</p>
+
+<h3>General Instructions</h3>
+<ul>
+  <li>Entities with total receipts of $500,000 or more must use Form 1125-E to report officer compensation.</li>
+  <li>Total receipts are calculated differently based on the type of tax form the entity uses.</li>
+  <li>Payments that may not be deductible include golden parachute payments and compensation over $1 million for certain covered employees of publicly held corporations.</li>
+  <li>The $1 million deduction limit does not apply to certain types of income, such as income from employee trusts, annuities, or pensions.</li>
+  <li>Special rules apply to compensation under the Treasury Troubled Asset Relief Program (TARP), where the deduction limit is reduced to $500,000 for covered executives.</li>
+</ul>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>Line 1 requires detailed information for all officers, including social security numbers and total deductible compensation.</li>
+  <li>Line 3 asks for compensation of officers deductible elsewhere on the return.</li>
+  <li>Line 4 requires the entry of the amount from line 4 on the applicable tax return.</li>
+</ul>
+
+<p>The Paperwork Reduction Act Notice states that the information on this form is required for compliance with U.S. tax laws, and the estimated burden of completing the form is included in the instructions for the applicable business income tax return.</p>
+
+<p>For further details, taxpayers should refer to the actual instructions for Form 1125-E and consult with a tax professional or the IRS if necessary.</p>

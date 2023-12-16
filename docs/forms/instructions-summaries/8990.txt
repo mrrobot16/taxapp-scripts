@@ -1,0 +1,46 @@
+<h2>Instructions for Form 8990 (Rev. December 2022)</h2>
+<h3>Limitation on Business Interest Expense Under Section 163(j)</h3>
+<p>These instructions are for taxpayers, including individuals, corporations, partnerships, S corporations, and certain other entities, that need to calculate the limitation on business interest expense for tax purposes under Internal Revenue Code Section 163(j).</p>
+
+<h3>Future Developments</h3>
+<p>For the latest information about developments related to Form 8990 and its instructions, such as legislation enacted after they were published, visit <a href="https://www.irs.gov/forms-pubs/about-form-8990" target="_blank">IRS.gov/Form8990</a>.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Change in adjusted taxable income (ATI) computation: For tax years beginning after 2021, ATI is computed with deductions for depreciation, amortization, and depletion.</li>
+  <li>New worksheet added: Worksheet C is used to determine eligibility for the safe-harbor election under Regulations section 1.163(j)-7(h).</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Form 8990 is used to calculate the amount of business interest expense a taxpayer can deduct and the amount to carry forward to the next year.</p>
+
+<h3>Who Must File</h3>
+<p>Generally, taxpayers with business interest expense, a disallowed business interest expense carryforward, or current year or prior year excess business interest expense must file Form 8990. Certain pass-through entities and regulated investment companies may also need to file.</p>
+
+<h3>Exclusions from Filing</h3>
+<p>Small business taxpayers and certain trades or businesses (such as electing real property or farming businesses) are not required to file Form 8990, subject to specific conditions.</p>
+
+<h3>Coordination With Other Limitations</h3>
+<p>Business interest expense must be categorized and allocated before computing the Section 163(j) limitation. It is subject to other limitations and must be applied after any basis limitation and before the operation of at-risk, passive activity loss, or excess business loss limitations.</p>
+
+<h3>Definitions</h3>
+<p>Key terms such as small business taxpayer, gross receipts test, excepted trade or business, electing real property trade or business, and others are defined for the purposes of applying Section 163(j).</p>
+
+<h3>Special Rules</h3>
+<p>Elections can be made by taxpayers engaged in certain trades or businesses to not limit business interest expense under Section 163(j). These include real property trade or business, farming business, and certain regulated utility trades or businesses. Making an election has specific consequences, such as requiring the use of the alternative depreciation system (ADS) for certain property.</p>
+
+<h3>Specific Instructions</h3>
+<p>The form includes parts for computing allowable business interest expense, partnership pass-through items, S corporation pass-through items, and various schedules and worksheets to help determine each partner's deductible business interest expense and excess items.</p>
+
+<h3>Limitation on Business Interest Expense</h3>
+<p>The business interest expense deduction allowed for the tax year is limited to the sum of business interest income, 30% of ATI, and floor plan financing interest expense.</p>
+
+<h3>Carryforward of Disallowed Business Interest</h3>
+<p>Any business interest expense not allowed as a deduction is carried forward to the following year.</p>
+
+<p>The instructions also include detailed steps for completing the form and worksheets, as well as information on how to report the relevant amounts on tax returns.</p>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The estimated burden for completing Form 8990 is included in the estimates shown in the instructions for the taxpayer's business income tax return.</p>
+
+<p>For more detailed information, taxpayers should refer to the actual form and instructions provided by the IRS.</p>

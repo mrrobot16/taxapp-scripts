@@ -1,0 +1,47 @@
+<h2>Summary of Instructions for Form 1023-EZ (Rev. January 2023)</h2>
+<p>Form 1023-EZ, titled "Streamlined Application for Recognition of Exemption Under Section 501(c)(3) of the Internal Revenue Code," is a simplified application used by certain smaller organizations to apply for recognition as tax-exempt entities under section 501(c)(3). This document provides instructions for completing and filing Form 1023-EZ.</p>
+
+<h3>Eligibility</h3>
+<p>Not all organizations are eligible to file Form 1023-EZ. Organizations must complete the Form 1023-EZ Eligibility Worksheet to determine eligibility. If any question on the worksheet is answered "Yes," the organization must file Form 1023 instead.</p>
+
+<h3>Filing Process</h3>
+<p>Form 1023-EZ must be filed electronically through the IRS website or Pay.gov. A user fee must be paid upon submission.</p>
+
+<h3>Foundation Classification</h3>
+<p>Applicants must determine their foundation classification and indicate whether they are a public charity or a private foundation.</p>
+
+<h3>Reinstatement After Automatic Revocation</h3>
+<p>Organizations that have had their tax-exempt status automatically revoked for failure to file required returns for three consecutive years can apply for reinstatement using Form 1023-EZ if they meet specific criteria outlined in the instructions.</p>
+
+<h3>Signature Requirements</h3>
+<p>The form must be signed by an authorized officer, director, or trustee of the organization.</p>
+
+<h3>Public Inspection</h3>
+<p>Approved applications and supporting documents are subject to public inspection, as required by law.</p>
+
+<h3>State Registration Requirements</h3>
+<p>Even after federal tax exemption is granted, organizations may need to register with state authorities for various purposes, such as to solicit contributions or to be exempt from state taxes.</p>
+
+<h3>Annual Filing Requirements</h3>
+<p>Most organizations recognized as tax-exempt must file an annual return. Failure to file for three consecutive years will result in automatic revocation of tax-exempt status.</p>
+
+<h3>Donor Reliance on a Favorable Determination</h3>
+<p>Generally, donors can rely on an organization's tax-exempt status until the IRS publishes a change in status.</p>
+
+<h3>Specific Instructions</h3>
+<p>The document provides detailed instructions for each part of Form 1023-EZ, including identification of the applicant, organizational structure, specific activities, foundation classification, and reinstatement after automatic revocation.</p>
+
+<h3>Further Information</h3>
+<p>For the latest information about developments related to Form 1023-EZ and its instructions, such as legislation enacted after publication, organizations are directed to the IRS website.</p>
+
+<p>Organizations are reminded not to include social security numbers on publicly disclosed forms and are encouraged to subscribe to an email service for periodic updates from the IRS regarding exempt organizations.</p>
+
+<p>The document also contains reminders about the IRS's partnership with the National Center for Missing & Exploited Children (NCMEC) and the inclusion of photographs of missing children in instructions.</p>
+
+<p>For more detailed information or assistance, organizations are advised to consult the IRS website or call the Exempt Organization Customer Account Services.</p>
+
+<p>Organizations can find additional publications that provide further information, such as Publication 557, "Tax-Exempt Status for Your Organization."</p>
+
+<p>Finally, the instructions provide a Paperwork Reduction Act Notice and invite comments on the form's accuracy and suggestions for simplification.</p>
+
+<p>To access the full document, visit the IRS website at <a href="https://www.irs.gov/forms-instructions" target="_blank">https://www.irs.gov/forms-instructions</a>.</p>

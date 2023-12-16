@@ -1,0 +1,42 @@
+<h2>Instructions for Form 8996 Summary</h2>
+<p><b>Form 8996</b> is used by corporations or partnerships to certify as a Qualified Opportunity Fund (QOF) and to report compliance with the 90% investment standard required by section 1400Z-2 of the Tax Cuts and Jobs Act (TCJA). The form is also used to calculate any penalties for failing to meet this investment standard.</p>
+
+<h3>General Instructions</h3>
+<ul>
+<li><b>Future Developments:</b> For updates regarding Form 8996, visit the IRS website.</li>
+<li><b>Purpose of Form:</b> To certify the entity as a QOF and to ensure it meets the 90% investment standard or to calculate penalties if it fails to meet the standard.</li>
+</ul>
+
+<h3>Definitions</h3>
+<ul>
+<li><b>Qualified Opportunity Zone (QOZ):</b> Census tracts designated as QOZs.</li>
+<li><b>Qualified Opportunity Fund (QOF):</b> A corporation or partnership organized for investing in QOZ property.</li>
+<li><b>90% Investment Standard:</b> A QOF must hold at least 90% of its assets in QOZ property, measured semi-annually.</li>
+<li><b>QOZ Property:</b> Includes QOZ stock, QOZ partnership interest, and QOZ business property.</li>
+<li><b>U.S. Possession:</b> Jurisdictions other than the 50 states and D.C. where there are designated QOZs.</li>
+</ul>
+
+<h3>Who Must File</h3>
+<p>Corporations or partnerships that are organized and operated as a QOF must file Form 8996 annually with their applicable tax return.</p>
+
+<h3>Specific Instructions</h3>
+<p>Form 8996 includes several parts:</p>
+<ol>
+<li><b>Part I:</b> For certifying the entity as a QOF.</li>
+<li><b>Part II:</b> For reporting compliance with the 90% investment standard or calculating the penalty for noncompliance.</li>
+<li><b>Part III:</b> For determining if the entity is subject to a penalty for failing to meet the 90% investment standard.</li>
+<li><b>Part IV:</b> For calculating the monthly penalty for noncompliance if applicable.</li>
+<li><b>Part V:</b> For reporting QOZ business property directly owned or leased.</li>
+<li><b>Part VI:</b> For reporting investments in QOZ stock or partnership interests.</li>
+<li><b>Part VII:</b> Additional lines for reporting investments in QOZ businesses if needed.</li>
+</ol>
+
+<p>The form also includes instructions on how to value assets, apportion investment value among multiple QOZs, and account for mobile tangible property used in multiple zones.</p>
+
+<h3>Penalties</h3>
+<p>If a QOF fails to meet the 90% investment standard, it may be subject to a penalty, unless the failure is due to reasonable cause.</p>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The form is subject to the Paperwork Reduction Act and requires a valid OMB control number. Suggestions for simplifying the form are welcome.</p>
+
+<p>For more detailed information, please refer to the <a href="https://www.irs.gov/instructions/i8996" target="_blank">Instructions for Form 8996</a> on the IRS website.</p>

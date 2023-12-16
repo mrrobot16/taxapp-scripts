@@ -1,0 +1,17 @@
+<h2>Summary of Instructions for Form 8904 (Rev. December 2018)</h2>
+<p>Form 8904 is used to claim the Credit for Oil and Gas Production from Marginal Wells. This credit is part of the general business credit under section 38 and is applicable for tax years beginning in 2017 for qualified natural gas production, while the credit for crude oil production remains phased out.</p>
+
+<h3>Key Points from the Document:</h3>
+<ul>
+  <li>For the latest information and developments related to Form 8904, visit <a href="https://www.irs.gov/forms-pubs/about-form-8904" target="_blank">IRS.gov/Form8904</a>.</li>
+  <li>Partnerships and S corporations must file Form 8904 to claim the credit, while other taxpayers can report the credit directly on Form 3800 if their only source of the credit is through a partnership or S corporation.</li>
+  <li>The credit amount is generally $3 per barrel of qualified crude oil production and $0.50 per 1,000 cubic feet of qualified natural gas production, subject to statutory reduction and adjustment by the inflation adjustment factor (IAF).</li>
+  <li>For tax years beginning in 2017, the credit amount for natural gas production is $0.51 per thousand cubic feet, as per Notice 2018-52.</li>
+  <li>Unused credits can be carried back to each of the preceding five tax years and then carried forward to each of the 20 tax years after the year of the credit.</li>
+  <li>The document defines terms such as qualified marginal well, crude oil, natural gas, domestic, and barrel according to section 613A(e).</li>
+  <li>Additional rules are provided for production attributable to the taxpayer, maximum production limits, operating interest requirements, and exclusions for production from nonconventional sources.</li>
+  <li>Specific instructions for completing Form 8904 are included, such as entering the credit amount of $0.51 for tax years beginning in 2017 on line 2 and how to report total credit on line 7.</li>
+  <li>The Paperwork Reduction Act Notice mentions the estimated time required for recordkeeping, learning about the law or form, and preparing and sending the form to the IRS.</li>
+</ul>
+
+<p>For more detailed instructions and the most current information, taxpayers should refer to the actual IRS instructions for Form 8904.</p>

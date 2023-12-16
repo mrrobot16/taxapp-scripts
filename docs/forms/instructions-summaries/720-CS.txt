@@ -1,0 +1,26 @@
+<h2>Summary of Instructions for Form 720-CS (Rev. July 2017)</h2>
+<p>Form 720-CS is a Carrier Summary Report used by bulk transport carriers to report monthly receipts and disbursements of liquid products at storage locations designated by a facility control number (FCN).</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>Electronic filing is required for returns reporting 25 or more transactions a month, but all taxpayers are encouraged to e-file. The Excise Summary Terminal Activity Reporting System (ExSTARS) is used for e-filing.</li>
+  <li>Form 720-CS must be filed monthly, due the last day of the month following the month in which transactions occur.</li>
+  <li>If the due date falls on a weekend or legal holiday, the form can be filed on the next business day.</li>
+  <li>Form 720-CS should be mailed to the IRS at the specified Cincinnati, OH address, and should not be folded, stapled, or taped.</li>
+  <li>Corrections to previously filed returns should be submitted as soon as possible, with the "Void" box checked for incorrect schedules and "Corrected" box checked for new schedules.</li>
+  <li>Records should be kept for at least 3 years and be available for IRS inspection.</li>
+  <li>Penalties may apply for failure to file correct information returns by the due date without reasonable cause.</li>
+  <li>Private Delivery Services (PDS) can be used to meet the timely filing/paying rule for tax returns and payments.</li>
+</ul>
+
+<h3>Specific Instructions:</h3>
+<ul>
+  <li>Form 720-CS includes details on how to complete the form, such as providing product codes, carrier and consignor names, EINs, and other required information.</li>
+  <li>Two main schedules are included: Schedule A for carrier receipts from a facility, and Schedule B for carrier deliveries to a facility.</li>
+  <li>Definitions are provided for terms such as "approved terminal," "consignor," "facility control number (FCN)," and "liquid product."</li>
+  <li>Tables are included for product codes, mode codes, abbreviations for U.S. states, Canadian provinces, and Mexican states.</li>
+</ul>
+
+<p>The instructions also mention the role of the Taxpayer Advocate Service for unresolved tax issues and provide the Privacy Act and Paperwork Reduction Act Notice.</p>
+
+<p>For the most current information related to Form 720-CS and its instructions, such as legislative changes, taxpayers are advised to visit the IRS website.</p>

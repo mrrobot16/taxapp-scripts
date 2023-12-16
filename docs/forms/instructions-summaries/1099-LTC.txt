@@ -1,0 +1,41 @@
+<h2>Summary of Instructions for Form 1099-LTC (Rev. October 2019)</h2>
+<p>The IRS Form 1099-LTC is used to report long-term care and accelerated death benefits. Below is a summarized version of the instructions:</p>
+
+<h3>Future Developments</h3>
+<p>For the latest updates on Form 1099-LTC, visit <a href="https://www.irs.gov/forms-pubs/about-form-1099-ltc" target="_blank">IRS.gov/Form1099LTC</a>.</p>
+
+<h3>Reminders</h3>
+<ul>
+  <li>Refer to the current General Instructions for Certain Information Returns for additional guidance.</li>
+  <li>Form 1099-LTC has been converted to a continuous-use form and will be updated as needed.</li>
+  <li>The form is available in an online fillable format due to the low volume of paper forms processed by the IRS.</li>
+</ul>
+
+<h3>Who Must File</h3>
+<p>Insurance companies, governmental units, and viatical settlement providers must file Form 1099-LTC if they have paid any long-term care benefits.</p>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>Long-term care benefits include payments made under a product marketed as long-term care insurance and accelerated death benefits paid under a life insurance contract or by a viatical settlement provider.</li>
+  <li>Viatical settlement providers must be licensed or meet certain requirements.</li>
+  <li>Qualified long-term care insurance contracts must meet the requirements of section 7702B.</li>
+  <li>Accelerated death benefits are paid for terminally or chronically ill individuals.</li>
+</ul>
+
+<h3>Reporting Requirements</h3>
+<ul>
+  <li>Report payments only if the policyholder is an individual.</li>
+  <li>Benefits can be reported separately or aggregated on one Form 1099-LTC if the same information applies.</li>
+  <li>Include the name, address, and TIN of both the policyholder and the insured.</li>
+</ul>
+
+<h3>Boxes on Form 1099-LTC</h3>
+<ol>
+  <li>Enter the gross long-term care benefits paid.</li>
+  <li>Enter the gross accelerated death benefits paid.</li>
+  <li>Indicate if the payments were made on a per diem or reimbursed basis.</li>
+  <li>Optional: Indicate if benefits are from a qualified long-term care insurance contract.</li>
+  <li>Optional: Indicate if the insured was chronically or terminally ill and provide the latest date certified.</li>
+</ol>
+
+<p>For more detailed information and instructions, filers should consult the actual IRS instructions for Form 1099-LTC or seek professional tax advice.</p>

@@ -1,0 +1,32 @@
+<p>The Instructions for Form 8940 (Rev. April 2023) provide guidance for organizations seeking miscellaneous determinations from the IRS. This form is used by organizations exempt under section 501(a) for various requests under sections 507, 509(a), 4940, 4942, 4945, and 6033. Additionally, Canadian registered charities and government entities use Form 8940 for specific requests. The form must be submitted electronically via Pay.gov, including the correct user fee payment.</p>
+
+<p>Key points include:</p>
+<ul>
+<li>Organizations must not include social security numbers on this form due to disclosure requirements.</li>
+<li>Telephone assistance is available for completing Form 8940.</li>
+<li>The IRS offers a subscription-based email service for tax professionals and tax-exempt organizations.</li>
+<li>Form 8940 can now be used for additional requests, such as government entities seeking voluntary termination of exempt status and private foundations notifying intent to terminate private foundation status.</li>
+<li>For forms and publications, the IRS website provides downloadable resources and online ordering.</li>
+</ul>
+
+<p>General instructions highlight:</p>
+<ul>
+<li>The requirement to avoid including social security numbers on the form.</li>
+<li>The need to answer questions completely and provide consistent financial data.</li>
+<li>The form and attachments must be completed in English, and financial information must be reported in U.S. dollars.</li>
+</ul>
+
+<p>Specific instructions detail the requirements for various types of requests, such as advance approval of set-asides, voter registration activities, individual grant procedures, exceptions from Form 990 filing requirements, unusual grants, and changes in foundation status.</p>
+
+<p>For requesting expedited review, the IRS considers compelling reasons and prioritizes the request accordingly.</li>
+<li>User fees are mandatory and vary based on the type of request.</li>
+<li>Attachments must be consolidated into a single PDF file when submitting Form 8940.</li>
+<li>Form 8940 must be filed electronically through Pay.gov.</li>
+<li>Authorized representatives must be designated using Form 2848 or Form 8821.</li>
+<li>Public inspection rules require certain information to be made available, including the Form 8940 itself, supporting documents, and correspondence with the IRS.</li>
+<li>Foreign organizations may request miscellaneous determinations similarly to domestic organizations.</li>
+</ul>
+
+<p>Finally, the instructions provide detailed guidance on filling out the form, including identification of the applicant, type of request, explanation of the request, and signature requirements.</p>
+
+<p>For further information and to ensure compliance with IRS requirements, organizations should carefully review the complete instructions provided by the IRS for Form 8940.</p>

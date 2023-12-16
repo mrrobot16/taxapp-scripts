@@ -1,0 +1,20 @@
+<h2>Summary of Instructions for Form 1099-CAP (Rev. September 2019)</h2>
+<p>The Instructions for Form 1099-CAP provide guidance on reporting changes in corporate control and capital structure. The form is used to report to the IRS and to shareholders when there's an acquisition of control or a substantial change in capital structure of a corporation.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>For updates and developments after publication, visit <a href="https://www.irs.gov/Form1099CAP" target="_blank">IRS.gov/Form1099CAP</a>.</li>
+  <li>Form 1099-CAP is part of the continuous-use form and instructions system, updated as needed.</li>
+  <li>The form is available in an online fillable format due to low paper submission volume.</li>
+  <li>Brokers or corporations must file Form 1099-CAP if they know or have reason to know of a control acquisition or substantial change in capital structure.</li>
+  <li>There are specific conditions under which corporations do not file Form 1099-CAP, such as transactions within an affiliated group or consent elections.</li>
+  <li>Exemptions exist for certain shareholders, such as tax-exempt organizations, government entities, and foreign persons with valid documentation.</li>
+  <li>Specific definitions and rules are provided for what constitutes an acquisition of control and a substantial change in capital structure.</li>
+  <li>Filing and furnishing dates are detailed in the General Instructions for Certain Information Returns and specific guidance is given for clearing organizations.</li>
+  <li>Penalties may apply for failure to file information returns under section 6043(c).</li>
+  <li>Recipients' TINs may be truncated on payee statements, but not on forms filed with the IRS.</li>
+  <li>Multiple accounts for a recipient require an account number on the form.</li>
+  <li>Instructions are provided for completing each box of Form 1099-CAP, including dates, amounts received, number of shares exchanged, and classes of stock exchanged.</li>
+</ul>
+
+<p>For detailed instructions, visit the IRS website or the specific <a href="https://www.irs.gov/instructions/i1099cap" target="_blank">Instructions for Form 1099-CAP</a> page.</p>

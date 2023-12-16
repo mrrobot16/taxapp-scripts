@@ -1,0 +1,36 @@
+<h2>Summary of Instructions for Form 8937 (Rev. December 2017)</h2>
+<p>Form 8937, "Report of Organizational Actions Affecting Basis of Securities," is used by issuers of specified securities to report organizational actions that affect the tax basis of those securities. The form is referenced to the Internal Revenue Code unless noted otherwise.</p>
+
+<h3>Who Must File</h3>
+<p>Issuers of specified securities must file Form 8937 if they take an organizational action that affects the basis of the security. Specified securities include shares of stock in corporations, interests treated as stock, options, warrants, stock rights, securities futures contracts, and certain debt instruments.</p>
+
+<h3>Exceptions to Filing</h3>
+<ul>
+  <li>Public reporting: No filing is required if the issuer posts the completed Form 8937 on its primary public website by the due date and keeps it accessible for 10 years.</li>
+  <li>Exempt recipients: No reporting is needed if all holders are exempt recipients such as C corporations, charitable organizations, foreign holders, IRAs, and government entities.</li>
+  <li>Certain money market funds: RICs that qualify as money market funds under Rule 2a-7 are not required to report.</li>
+</ul>
+
+<h3>Special Rules</h3>
+<ul>
+  <li>S corporations and certain RICs and REITs have alternative reporting methods using Schedule K-1 (Form 1120S) or Form 2439.</li>
+</ul>
+
+<h3>When To File</h3>
+<p>Form 8937 must be filed by the 45th day following the organizational action, or by January 15 of the year following the calendar year of the action, whichever is earlier.</p>
+
+<h3>Where To File</h3>
+<p>Send the completed form to the Department of the Treasury, Internal Revenue Service, Ogden, UT 84201-0054.</p>
+
+<h3>Issuer Statements</h3>
+<p>Issuers must provide a copy of Form 8937 or a written statement with similar information to each security holder or nominee by January 15 of the year following the organizational action.</p>
+
+<h3>Penalties</h3>
+<p>Penalties may apply for failure to comply with filing requirements unless it is due to reasonable cause and not willful neglect. The issuer remains liable for penalties even if using an agent.</p>
+
+<h3>Specific Instructions</h3>
+<p>Part I and Part II of Form 8937 require detailed information about the issuer, the contact person, the security involved, and the organizational action.</p>
+
+<p>For more detailed information and the latest updates, visit <a href="https://www.irs.gov/forms-pubs/about-form-8937" target="_blank">IRS.gov/Form8937</a>.</p>
+
+<p>The Paperwork Reduction Act Notice states that the estimated average time to learn about the law or the form is 35 minutes, preparing the form is 40 minutes, and recordkeeping is 2 hours and 52 minutes.</p>

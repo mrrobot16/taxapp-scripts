@@ -1,0 +1,13 @@
+<p>The document is a set of instructions for the IRS Form 5471, which is an Information Return of U.S. Persons With Respect To Certain Foreign Corporations. The document includes various sections such as What's New, General Instructions, Specific Instructions, and Instructions for Separate Schedules.</p>
+
+<p>Here's a summary of the key sections:</p>
+
+<ol>
+  <li><b>General Instructions:</b> Provides an overview of the purpose of Form 5471, who must file it, when and where to file, categories of filers, and penalties for failure to file.</li>
+  <li><b>What's New:</b> Highlights any changes to the form or instructions since the last revision.</li>
+  <li><b>Specific Instructions:</b> Offers detailed guidance on how to complete each part of Form 5471, including the identification of the filer, the foreign corporation, and instructions on how to complete Schedules A through R.</li>
+  <li><b>Instructions for Separate Schedules:</b> Provides specific instructions for completing the additional schedules that are part of Form 5471, such as Schedule E (Taxes Paid or Accrued), Schedule H (Current Earnings and Profits), Schedule I (Subpart F Income), Schedule J (Accumulated Earnings and Profits of Controlled Foreign Corporation), and Schedule M (Transactions Between Controlled Foreign Corporation and Shareholders or Other Related Persons).</li>
+  <li><b>Principal Business Activity Codes:</b> Lists the codes used to classify the principal business activity of the foreign corporation.</li>
+</ol>
+
+<p>The document also includes information on the Paperwork Reduction Act Notice and how to obtain the estimated burden for completing the form.</p>

@@ -1,0 +1,41 @@
+<h2>Summary of Instructions for Form 943-A (Rev. December 2022)</h2>
+<p>Form 943-A, "Agricultural Employer's Record of Federal Tax Liability," is used by agricultural employers who are semiweekly schedule depositors to report their federal tax liabilities. Here are the key points from the instructions:</p>
+
+<h3>Future Developments</h3>
+<p>For the latest information and updates related to Form 943-A, visit <a href="https://www.irs.gov/Form943A" target="_blank">IRS.gov/Form943A</a>.</p>
+
+<h3>What's New</h3>
+<p>The COVID-19 related employee retention credit has expired, and related instructions have been removed.</p>
+
+<h3>Reminders</h3>
+<ul>
+  <li>Adjustments to tax liability for nonrefundable credits claimed on Form 943 should be reported on Form 943-A.</li>
+  <li>Prior period adjustments should be reported on Form 943-X and not affect the current year tax liability on Form 943-A.</li>
+  <li>An amended Form 943-A may be filed in case of a failure-to-deposit penalty.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<ul>
+  <li>Form 943-A is for semiweekly schedule depositors, as determined by section 7 of Pub. 51.</li>
+  <li>The form lists tax liability based on the dates wages were paid, including federal income tax withheld and both employer and employee shares of social security and Medicare taxes.</li>
+  <li>Form 943-A should not be used for reporting federal tax deposits or for nonfarm workers' taxes.</li>
+  <li>The IRS uses Form 943-A to verify on-time tax deposits and can issue penalties for errors.</li>
+</ul>
+
+<h3>Who Must File?</h3>
+<p>Semiweekly schedule depositors and those who become such depositors during the year must file Form 943-A. If the net tax liability for the year is less than $2,500 or if you're a monthly schedule depositor without reaching the $100,000 liability in any month, you do not need to complete Form 943-A.</p>
+
+<h3>When Must You File?</h3>
+<p>Form 943-A must be filed with Form 943 by the due date of the applicable Form 943. In some cases, it may also be filed with Form 943-X.</p>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>Enter business information and the calendar year accurately.</li>
+  <li>Report tax liabilities according to the dates wages were paid.</li>
+  <li>Adjust tax liability for nonrefundable credits claimed on Form 943.</li>
+</ul>
+
+<h3>Correcting Previously Reported Tax Liability</h3>
+<p>If you made an error on Form 943-A that didn't change your total liability for the year, you could file an amended Form 943-A to potentially reduce any penalties.</p>
+
+<p>For more detailed information, you can refer to the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS Forms and Instructions page</a>.</p>

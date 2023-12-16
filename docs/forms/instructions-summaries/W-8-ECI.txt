@@ -1,0 +1,25 @@
+<h2>Summary of Instructions for Form W-8ECI (Rev. October 2021)</h2>
+<p><b>Form W-8ECI</b>, "Certificate of Foreign Person's Claim That Income Is Effectively Connected With the Conduct of a Trade or Business in the United States," is used by foreign persons, including non-U.S. entities, to certify that certain U.S. source income is effectively connected with a U.S. trade or business. Effectively connected income (ECI) is not subject to the standard 30% withholding tax rate but is taxed at graduated rates.</p>
+
+<h3>What's New</h3>
+<ul>
+<li>New line 12 added for securities dealers to claim an exception from section 1446(f) withholding.</li>
+<li>Line 4 updated to specify types of foreign government entities.</li>
+<li>New lines 8a and 8b added for foreign tax identifying number (FTIN) and exceptions.</li>
+<li>Updates to include electronic signature guidance for withholding certificates.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Form W-8ECI must be provided to the withholding agent or payer before income is paid or credited. The form is valid for three years, unless a change in circumstances makes any information on the form incorrect.</p>
+
+<h3>Who Must Provide Form W-8ECI</h3>
+<p>Foreign persons who are beneficial owners of U.S. source income that is effectively connected with a U.S. trade or business must provide Form W-8ECI. There are specific scenarios detailed for when to use this form, as well as when other forms such as W-8BEN or W-8EXP should be used instead.</p>
+
+<h3>Specific Instructions</h3>
+<p>Part I of the form requires identification details of the beneficial owner, including name, country of citizenship or other entity information, address, and taxpayer identification numbers. Part II requires the signature of the beneficial owner or authorized representative.</p>
+
+<p>It is important to accurately complete the form and provide it to the withholding agent to ensure the proper treatment of income for withholding tax purposes. The form should not be sent to the IRS but provided to the person requesting it.</p>
+
+<p>For more detailed information, instructions, and definitions regarding Form W-8ECI, individuals and entities should refer to the full instructions provided by the IRS.</p>
+
+<p>For the latest information and updates related to Form W-8ECI and its instructions, visit <a href="https://www.irs.gov/FormW8ECI" target="_blank">IRS.gov/FormW8ECI</a>.</p>

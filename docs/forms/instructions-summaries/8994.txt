@@ -1,0 +1,32 @@
+<h2>Summary of Instructions for Form 8994 (Rev. December 2021)</h2>
+<p>The Form 8994 is used by eligible employers to calculate the Employer Credit for Paid Family and Medical Leave. This credit ranges from 12.5% to 25% of certain wages paid to qualifying employees on leave.</p>
+
+<h3>Key Updates</h3>
+<ul>
+<li>New employment tax credits related to COVID-19 cannot be used for the same wages as the credit on Form 8994.</li>
+<li>Wages used for the Employee Retention Credit after June 30, 2021, cannot be used for the Paid Family and Medical Leave Credit.</li>
+<li>The Taxpayer Certainty and Disaster Tax Relief Act of 2020 extended the credit to cover tax years beginning in 2021 through 2025.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Employers use Form 8994 to figure out the credit for paid family and medical leave. Partnerships and S corporations must file this form to claim the credit, while other taxpayers should not file if their only source for this credit is a partnership or S corporation; instead, they should report it on Form 3800.</p>
+
+<h3>Eligibility</h3>
+<p>An eligible employer must have a written policy in place that offers paid family and medical leave and satisfies minimum paid leave requirements. This includes providing non-interference language if the employer has any qualifying employees not covered by the Family and Medical Leave Act (FMLA).</p>
+
+<h3>Qualifying Employee</h3>
+<p>A qualifying employee is one who has been employed for at least one year and whose previous year's compensation does not exceed certain thresholds.</p>
+
+<h3>Family and Medical Leave</h3>
+<p>Leave must be for FMLA purposes, and if paid leave is also available for non-FMLA purposes, it is not considered family and medical leave.</p>
+
+<h3>Minimum Paid Leave Requirements</h3>
+<p>The policy must provide at least two weeks of paid leave to full-time qualifying employees (proportionate for part-time) and pay at least 50% of the wages normally paid.</p>
+
+<h3>How To Figure the Credit</h3>
+<p>The credit is based on the applicable percentage of wages paid to qualifying employees during leave, up to a maximum of 12 weeks per tax year. Wages used for other credits cannot be used for this credit.</p>
+
+<h3>Specific Instructions</h3>
+<p>Employers need to answer questions about their policies and whether they paid family and medical leave to at least one qualifying employee. The form includes a worksheet to calculate the credit amount, which must be reported on the tax return. The credit must be claimed within three years from the return's due date.</p>
+
+<p>For detailed instructions and the latest information, visit <a href="https://www.irs.gov/forms-pubs/about-form-8994" target="_blank">IRS.gov/Form8994</a>.</p>

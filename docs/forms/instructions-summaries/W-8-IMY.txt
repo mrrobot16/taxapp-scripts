@@ -1,0 +1,31 @@
+<h3>Instructions for Form W-8IMY (Rev. October 2021)</h3>
+<p>The Form W-8IMY, "Certificate of Foreign Intermediary, Foreign Flow-Through Entity, or Certain U.S. Branches for United States Tax Withholding and Reporting," is used by foreign intermediaries, foreign flow-through entities, or certain U.S. branches to certify their status for withholding tax purposes and to document their account holders or investors for the purpose of withholding and reporting under chapters 3 and 4 of the Internal Revenue Code.</p>
+
+<p>The form and its instructions can be used to understand the obligations and requirements for entities that fall under these categories, including how to certify their status, claim exemptions or reductions from withholding, and provide necessary documentation to withholding agents.</p>
+
+<h3>General Instructions</h3>
+<p>The IRS provides information about developments related to Form W-8IMY through the IRS website. The form and instructions have been updated to reflect changes in the law and regulations.</p>
+
+<h3>What's New</h3>
+<p>Guidance under section 1446(f) and section 871(m) regulations, including withholding requirements for brokers and transferors of partnership interests, as well as updates for qualified securities lenders (QSLs), are highlighted in the instructions.</p>
+
+<h3>Purpose of Form</h3>
+<p>The form is used to establish the status of a foreign entity for withholding tax purposes and to document the entity's account holders or investors.</p>
+
+<h3>Who Must Provide Form W-8IMY</h3>
+<p>Entities such as foreign intermediaries, foreign flow-through entities, and certain U.S. branches must provide Form W-8IMY when receiving payments on behalf of others, acting as a QDD or QSL, or for certain other specified purposes.</p>
+
+<h3>Expiration of Form W-8IMY</h3>
+<p>Generally, the form remains valid until there is a change in circumstances that makes any information on the form incorrect, at which point a new form must be provided within 30 days.</p>
+
+<h3>Definitions</h3>
+<p>Key terms such as "account holder," "beneficial owner," "intermediary," "withholding agent," and others are defined to help entities determine their status and reporting obligations.</p>
+
+<h3>Specific Instructions</h3>
+<p>Detailed instructions are provided for each part of the form, including how to certify as a qualified intermediary, nonqualified intermediary, territory financial institution, nonwithholding foreign partnership, and other entities.</p>
+
+<p>Entities must sign and date the form, certifying under penalties of perjury that the information provided is correct.</p>
+
+<p>Paperwork Reduction Act Notice: The estimated average time for completing the form is provided, including recordkeeping, learning about the law or the form, preparing the form, and sending it to the withholding agent.</p>
+
+<p>For more detailed information, entities should consult the actual form and instructions provided by the IRS.</p>

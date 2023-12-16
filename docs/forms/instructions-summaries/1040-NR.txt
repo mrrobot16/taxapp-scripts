@@ -1,0 +1,56 @@
+<h1>Summary of 2022 Instructions for Form 1040-NR</h1>
+<p>The Form 1040-NR is used by nonresident aliens who engaged in trade or business in the U.S. or earned income from U.S. sources. The form and its instructions are provided by the IRS and can be found on their website.</p>
+
+<h2>Contents</h2>
+<ul>
+  <li>Helpful hints for Form 1040-NR</li>
+  <li>Updates for the tax year</li>
+  <li>Filing requirements and residency status</li>
+  <li>Due dates for filing</li>
+  <li>Election to be taxed as a resident alien</li>
+  <li>Dual-status taxpayers</li>
+  <li>How to report income</li>
+  <li>Line instructions for Form 1040-NR</li>
+  <li>Filing status and personal information</li>
+  <li>Income effectively connected with U.S. business</li>
+  <li>Itemized deductions or standard deduction</li>
+  <li>Payments and refundable credits</li>
+  <li>Amount you owe and penalties</li>
+  <li>Third party designee, signatures, and other information</li>
+  <li>2022 Tax Table and Tax Computation Worksheet</li>
+  <li>General information including tax help and expatriate rules</li>
+  <li>Instructions for additional schedules and forms</li>
+  <li>Disclosure, Privacy Act, and Paperwork Reduction Act Notice</li>
+  <li>Index of topics covered in the instructions</li>
+  <li>Taxpayer Bill of Rights</li>
+</ul>
+
+<h2>Key Sections</h2>
+<ol>
+  <li><b>Form 1040-NR Helpful Hints</b>: Guidance for nonresident aliens on how to use the form.</li>
+  <li><b>What's New</b>: Information on changes to tax laws that may affect nonresident aliens.</li>
+  <li><b>Filing Requirements</b>: Criteria for determining who must file Form 1040-NR.</li>
+  <li><b>Resident or Nonresident Alien</b>: Definitions and tests to determine tax residency status.</li>
+  <li><b>When and Where Should You File?</b>: Deadlines for filing and addresses for submitting the form.</li>
+  <li><b>Election To Be Taxed as a Resident Alien</b>: Conditions under which a nonresident can choose to be taxed as a resident.</li>
+  <li><b>Dual-Status Taxpayers</b>: Information for those who changed residency status during the year.</li>
+  <li><b>How To Report Income</b>: Instructions on reporting income connected with U.S. business activities.</li>
+  <li><b>Line Instructions</b>: Detailed guidance for each line on Form 1040-NR.</li>
+  <li><b>Filing Status</b>: How to determine the correct filing status.</li>
+  <li><b>Name and Address</b>: How to properly fill in personal information.</li>
+  <li><b>Income Effectively Connected With U.S. Trade or Business</b>: What income to include and where to report it.</li>
+  <li><b>Itemized Deductions or Standard Deduction</b>: How to claim deductions.</li>
+  <li><b>Payments</b>: Reporting tax payments and withholdings.</li>
+  <li><b>Refund</b>: How to request a tax refund.</li>
+  <li><b>Amount You Owe</b>: Calculating and reporting taxes owed.</li>
+  <li><b>Sign Your Return</b>: Requirements for signing and submitting the form.</li>
+  <li><b>2022 Tax Table and Tax Computation Worksheet</b>: Tools to calculate the tax owed.</li>
+  <li><b>General Information</b>: Additional resources and information for taxpayers.</li>
+  <li><b>Instructions for Schedules and Forms</b>: Additional forms that may need to be filed with Form 1040-NR.</li>
+  <li><b>Disclosure, Privacy Act, and Paperwork Reduction Act Notice</b>: Legal notices regarding the use of taxpayer information.</li>
+  <li><b>Index</b>: An alphabetical list of topics covered in the instructions.</li>
+  <li><b>Taxpayer Bill of Rights</b>: A summary of taxpayer rights.</li>
+</ol>
+
+<h2>For More Information</h2>
+<p>For the full document and forms, visit the IRS website at <a href="https://www.

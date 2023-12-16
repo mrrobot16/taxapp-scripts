@@ -1,0 +1,37 @@
+<h2>Instructions for Form 941-SS (Rev. March 2023)</h2>
+<p><b>Employer's QUARTERLY Federal Tax Return for American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands</b></p>
+<p>Form 941-SS is used by employers in American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands to report social security and Medicare taxes. The form is issued by the Internal Revenue Service (IRS), and references are to the Internal Revenue Code unless otherwise noted.</p>
+
+<h3>Contents</h3>
+<ol>
+  <li>Future Developments</li>
+  <li>What's New</li>
+  <li>Reminders</li>
+  <li>General Instructions</li>
+  <li>Specific Instructions</li>
+  <li>How To Get Forms, Instructions, and Publications From the IRS</li>
+  <li>Worksheets for Credit for Qualified Sick and Family Leave Wages</li>
+</ol>
+
+<h3>Future Developments</h3>
+<p>For the latest information about developments related to Form 941-SS and its instructions, such as legislation enacted after they were published, visit the IRS website at <a href="https://www.irs.gov/forms-pubs/about-form-941" target="_blank">IRS.gov/Form941SS</a>.</p>
+
+<h3>What's New</h3>
+<p>The social security and Medicare tax rates for 2023, the social security wage base limit, information on the qualified small business payroll tax credit for increasing research activities, and the discontinuation of Forms 941-SS and 941-PR after 2023 are covered.</p>
+
+<h3>Reminders</h3>
+<p>Employers are reminded to use the March 2023 revision of Form 941-SS for the first quarter of 2023, the expiration of COVID-19 related credit for qualified sick and family leave wages, the end of advance payments of COVID-19 credits, and other important updates.</p>
+
+<h3>General Instructions</h3>
+<p>Instructions include the purpose of Form 941-SS, who must file, when to file, how to complete the form, where to file, depositing taxes, penalties and interest, and more.</p>
+
+<h3>Specific Instructions</h3>
+<p>Detailed guidance is provided for each part of the form, including how to report wages, tips, and other compensation, adjustments for taxes, nonrefundable and refundable credits, and how to calculate the total taxes after adjustments and credits.</p>
+
+<h3>How To Get Forms, Instructions, and Publications From the IRS</h3>
+<p>Information is provided on how to obtain IRS forms, instructions, and publications online or by mail.</p>
+
+<h3>Worksheets</h3>
+<p>Worksheets 1 and 2 are included to help calculate the credit for qualified sick and family leave wages paid in the quarter for leave taken after March 31, 2020, and before April 1, 2021, and for leave taken after March 31, 2021, and before October 1, 2021, respectively.</p>
+
+<p>For more detailed information, it is recommended to read the full instructions provided by the IRS for Form 941-SS.</p>

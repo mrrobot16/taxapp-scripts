@@ -1,0 +1,25 @@
+<h2>Summary of Instructions for Form 8275-R (Rev. January 2021)</h2>
+<p>Form 8275-R, titled <q>Regulation Disclosure Statement,</q> is used to disclose positions taken on a tax return that are contrary to Treasury regulations. This disclosure can help taxpayers and tax return preparers avoid parts of the accuracy-related penalty due to disregard of regulations or substantial understatement of income tax for non-tax shelter items, provided the return position has a reasonable basis. It's also applicable for disclosures related to the economic substance penalty and preparer penalties for tax understatements due to contrary positions.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>Disclosure on Form 8275-R does not protect against all types of penalties, such as negligence or substantial understatement of income tax on a tax shelter item.</li>
+  <li>Form 8275-R must be filed separately for each tax position contrary to regulations and must represent a good-faith challenge to the validity of the regulation with a reasonable basis.</li>
+  <li>Form 8275-R should be filed by individuals, corporations, pass-through entities, and tax return preparers with their original tax return or possibly with an amended return.</li>
+  <li>Carryover items must be disclosed in the year they originated, not in the year they are taken into account.</li>
+  <li>The accuracy-related penalty is generally 20% of the underpayment due to various reasons, including substantial understatement of income tax or valuation misstatements, but can be 40% for undisclosed foreign financial asset understatement or transactions lacking economic substance.</li>
+  <li>There are specific instructions for adequately disclosing information on Form 8275-R, including a detailed description of the item and a statement explaining why the regulation is believed to be invalid.</li>
+  <li>Penalties may apply to tax return preparers who understate tax liability without substantial authority or reasonable basis for the position taken.</li>
+</ul>
+
+<h3>How to File:</h3>
+<ul>
+  <li>Complete all required information in Parts I, II, and if applicable, Part III of Form 8275-R.</li>
+  <li>File it with your original tax return or as indicated by the regulations for an amended return.</li>
+  <li>Use Part IV or additional sheets if more space is needed, making sure to include your name and identifying number on each sheet.</li>
+</ul>
+
+<h3>For More Information:</h3>
+<p>For the latest information about developments related to Form 8275-R and its instructions, such as legislation enacted after publication, visit <a href="https://www.irs.gov/forms-pubs/about-form-8275-r" target="_blank">IRS.gov/Form8275R</a>.</p>
+
+<p>Note: This summary is based on the instructions for Form 8275-R (Rev. January 2021) and is not a substitute for the actual instructions.</p>

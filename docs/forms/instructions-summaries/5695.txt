@@ -1,0 +1,33 @@
+<h2>Summary of the 2022 Instructions for Form 5695 (Residential Energy Credits)</h2>
+<p>The instructions for Form 5695 guide taxpayers on how to claim two types of residential energy credits:</p>
+<ol>
+  <li>The residential clean energy credit</li>
+  <li>The energy efficient home improvement credit</li>
+</ol>
+
+<h3>Changes for 2022</h3>
+<ul>
+  <li>The residential energy efficient property credit is now called the residential clean energy credit, with a 30% credit rate for property placed in service from 2022 through 2032.</li>
+  <li>The nonbusiness energy property credit is now the energy efficient home improvement credit, extended through December 31, 2022.</li>
+</ul>
+
+<h3>Eligibility for Credits</h3>
+<p>Taxpayers who made energy-saving improvements to a home located in the United States in 2022 may be eligible for the credits. The home can include various types of residences, and costs must be reduced by any public utility subsidies received.</p>
+
+<h3>Residential Clean Energy Credit (Part I)</h3>
+<p>This credit applies to costs related to solar, wind, geothermal, biomass, and fuel cell technology. The credit includes labor costs and has specific qualifications for each type of property.</p>
+
+<h3>Energy Efficient Home Improvement Credit (Part II)</h3>
+<p>This credit applies to improvements like insulation, windows, doors, and certain roofs, as well as costs for energy-efficient heating and cooling equipment. There are limits on the amount that can be claimed, and the credit is subject to a lifetime limit of $500 for all years after 2005.</p>
+
+<h3>Claiming the Credits</h3>
+<p>Form 5695 is used to calculate and claim the credits. It includes details on how to allocate costs for joint occupancy and provides a worksheet for the credit limit based on tax liability. Unused portions of the residential clean energy credit can be carried forward to the next year.</p>
+
+<h3>Additional Information</h3>
+<p>For the latest developments related to Form 5695 and its instructions, such as legislation enacted after publication, taxpayers are directed to the IRS website.</p>
+
+<p>The instructions also include specific details on qualifying costs, manufacturer certifications, and other requirements necessary to claim the credits.</p>
+
+<p>These instructions are important for ensuring taxpayers correctly claim the residential energy credits and comply with the tax code.</p>
+
+<p>For more detailed information, taxpayers should refer to the full instructions available on the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS website</a>.</p>

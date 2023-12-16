@@ -1,0 +1,27 @@
+<h2>Summary of Instructions for Form 4506-A (Revised November 2021)</h2>
+<p>Form 4506-A is used to request copies of exempt or political organization IRS forms under Section 6104. The form allows individuals to request a copy of an organization's return, report, or notice.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>Forms 990, 990-EZ, 990-PF, and 990-T from 2017 onwards are available for free via the Tax Exempt Organization Search (TEOS) at <a href="https://www.irs.gov/teos" target="_blank">www.irs.gov/teos</a>.</li>
+  <li>Form 4506-B is required to request copies of exemption applications and letters.</li>
+  <li>Form 8871 and Form 8872 can be inspected and printed from the IRS website.</li>
+  <li>Form 990-N images and machine-readable data for e-filed Forms 990, 990-EZ, and 990-PF are available via TEOS.</li>
+  <li>For returns received in 2015 through 2016, the IRS can provide copies on USB, with options for complete or partial sets by state.</li>
+  <li>Fees for photocopies are $0.20 per page for commercial users and free for the first 100 pages (then $0.20 per page) for other categories.</li>
+  <li>USB requests must be prepaid and fees are updated annually.</li>
+  <li>Processing a request may take up to 60 days.</li>
+  <li>Form 4506-A should be mailed or faxed to the IRS RAIVS Unit in Ogden, UT.</li>
+  <li>Specific instructions are provided for filling out the form, including details for each line and the importance of providing the organization's official name and EIN to locate the requested form.</li>
+  <li>Requesters must check the appropriate category and provide a reason for the request to avoid commercial rates.</li>
+  <li>Privacy Act and Paperwork Reduction Act Notice details the legal authority for requesting information and the potential uses of the information provided.</li>
+</ul>
+
+<h3>Where to File:</h3>
+<p>Mail or fax Form 4506-A to:</p>
+<p>Internal Revenue Service<br>
+RAIVS Unit MS: 6716<br>
+Ogden, UT 84201<br>
+Fax number: 855-653-9144</p>
+
+<p>For more detailed information, refer to the actual instructions for Form 4506-A on the IRS website.</p>

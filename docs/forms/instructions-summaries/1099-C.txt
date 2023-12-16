@@ -1,0 +1,42 @@
+<h2>Summary of Instructions for Forms 1099-A and 1099-C (Rev. January 2022)</h2>
+<p>The document provides guidelines for filing Forms 1099-A (Acquisition or Abandonment of Secured Property) and 1099-C (Cancellation of Debt). It includes instructions on who should file these forms, how to complete them, and when they should be filed.</p>
+
+<h3>Key Updates</h3>
+<ul>
+  <li>Forms and instructions are now on a continuous-use basis and will be updated as needed.</li>
+  <li>Online fillable Copies B and C are available on the IRS website.</li>
+  <li>Guidance is provided for creditors regarding discharged student loans under section 6050P.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<ul>
+  <li>Refer to the current General Instructions for Certain Information Returns for more details on filing requirements.</li>
+  <li>Statements must be provided to borrowers, and TINs must be collected.</li>
+</ul>
+
+<h3>Form 1099-A Specific Instructions</h3>
+<p>File Form 1099-A for each borrower if you acquire an interest in property that is security for the debt or if the property is abandoned. Coordination with Form 1099-C is required if a debt is canceled in the same calendar year as the acquisition or abandonment.</p>
+
+<h3>Form 1099-C Specific Instructions</h3>
+<p>File Form 1099-C for each debtor for whom you canceled a debt of $600 or more if an identifiable event has occurred. Do not file for fraudulent debt cancellations due to identity theft.</p>
+
+<h3>Who Must File</h3>
+<ul>
+  <li>Financial institutions, credit unions, certain governmental units, and entities with a significant trade or business of lending money must file these forms.</li>
+</ul>
+
+<h3>When To File</h3>
+<p>Forms should be filed in the year following the calendar year in which the acquisition, abandonment, or cancellation of debt occurred.</p>
+
+<h3>Exceptions</h3>
+<ul>
+  <li>Some exceptions apply, such as certain bankruptcies, interest, nonprincipal amounts, foreign debtors, related parties, guarantors, and seller financing.</li>
+</ul>
+
+<h3>Recordkeeping</h3>
+<p>Keep copies of the forms or be able to reconstruct the data for at least 4 years from the due date of the return.</p>
+
+<h3>Statements to Debtors</h3>
+<p>Provide a copy of Form 1099-C or an acceptable substitute statement to each debtor.</p>
+
+<p>For the most recent versions of the forms and detailed instructions, visit <a href="https://www.irs.gov/forms-pubs/about-form-1099-a" target="_blank">IRS.gov/Form1099A</a> and <a href="https://www.irs.gov/forms-pubs/about-form-1099-c" target="_blank">IRS.gov/Form1099C</a>.</p>

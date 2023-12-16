@@ -1,0 +1,63 @@
+<h2>Summary of Instructions for Form W-7A (Rev. October 2017)</h2>
+<p>Form W-7A is used to apply for an IRS Adoption Taxpayer Identification Number (ATIN) for a child in pending U.S. adoptions. This form is for individuals who are in the process of legally adopting a U.S. citizen or resident alien child and cannot obtain a Social Security Number (SSN) for the child in time to file their tax return.</p>
+
+<h3>Purpose and Use</h3>
+<ul>
+  <li>An ATIN is a temporary number used to claim certain tax benefits related to the child being adopted.</li>
+  <li>Do not use Form W-7A if the child is not a U.S. citizen or resident alien, or if an SSN can be obtained in time for tax filing.</li>
+  <li>Benefits that can be claimed with an ATIN include dependency exemption, child and dependent care expenses, adoption credit, and child tax credit (but not the earned income credit).</li>
+</ul>
+
+<h3>Validity and Expiration</h3>
+<ul>
+  <li>An ATIN is valid for 2 years from the date of issuance.</li>
+  <li>If the adoption is not finalized by the expiration date, you may apply for an extension.</li>
+  <li>Once the adoption is final, you must obtain an SSN for the child and use that instead of the ATIN.</li>
+</ul>
+
+<h3>Eligibility</h3>
+<ul>
+  <li>File Form W-7A if a child is placed in your home for legal adoption and you cannot obtain the child's SSN.</li>
+  <li>You must be eligible to claim the child as a dependent on your tax return.</li>
+</ul>
+
+<h3>Filing Process</h3>
+<ul>
+  <li>Complete Form W-7A at least 4 to 8 weeks before you need the ATIN.</li>
+  <li>Include documentation proving legal placement for adoption with the form.</li>
+  <li>Mail the signed and dated form to the IRS at the specified address.</li>
+</ul>
+
+<h3>Required Documentation</h3>
+<ul>
+  <li>Attach documentation such as a placement agreement, hospital release authorization, court order, or affidavit from an adoption attorney.</li>
+  <li>For foreign adoptions, include proof of the child's U.S. citizenship or resident alien status.</li>
+</ul>
+
+<h3>Where to File</h3>
+<p>Mail the completed Form W-7A to:</p>
+<blockquote>
+  Department of the Treasury<br>
+  Internal Revenue Service<br>
+  Stop 6182<br>
+  Austin, TX 73301-0066
+</blockquote>
+
+<h3>Processing Time</h3>
+<ul>
+  <li>It usually takes 4 to 8 weeks to receive an ATIN.</li>
+  <li>Check the status of your application after 8 weeks if necessary.</li>
+</ul>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>Complete all lines on the form, using N/A for non-applicable sections.</li>
+  <li>Include adoptive parent(s) names and SSNs or ITINs, and update any name changes with the Social Security Administration.</li>
+  <li>Provide the child's adoptive name, birth name (if known), date of birth, sex, and place of birth.</li>
+  <li>Enter the name, address, and placement date from the authorized placement agency.</li>
+</ul>
+
+<h3>Privacy and Paperwork Reduction Act Notice</h3>
+<p>The information on Form W-7A is collected to comply with the Internal Revenue laws. Failure to provide the required information may result in not being issued an ATIN.</p>
+
+<p>For more details and the most up-to-date information, visit the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS website</a>.</p>

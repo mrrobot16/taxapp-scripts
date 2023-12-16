@@ -1,0 +1,21 @@
+<h2>Summary of Instructions for Form 982 (Rev. December 2021)</h2>
+
+<p>Form 982 is used to report the exclusion of income from the discharge of indebtedness, and to reduce certain tax attributes either dollar for dollar or 33⅓ cents per dollar.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>Discharge of qualified principal residence indebtedness is excludable from income for discharges before January 1, 2026, or under certain written agreements entered into before that date.</li>
+  <li>The maximum amount eligible for exclusion is $750,000 ($375,000 if married filing separately).</li>
+  <li>Form 982 must be filed with the tax return for the year a discharge of indebtedness is excluded from income under section 108(a).</li>
+  <li>There are specific instructions for different types of discharged debt, including qualified principal residence indebtedness, nonbusiness debt, and other debts.</li>
+  <li>Tax attributes that may need to be reduced include net operating losses, general business credits, minimum tax credits, net capital losses, property basis, passive activity losses and credits, and foreign tax credits.</li>
+  <li>Special instructions are provided for insolvency, qualified farm indebtedness, qualified real property business indebtedness, and qualified principal residence indebtedness.</li>
+  <li>Part II of Form 982 is used for basis reduction in depreciable property, while Part III is for adjustments to basis for corporations.</li>
+  <li>Amendments to elections made on Form 982 can be made by filing an amended return within 6 months of the due date of the original return (excluding extensions).</li>
+</ul>
+
+<p>For detailed instructions, including definitions and how to complete the form based on the type of discharged debt, taxpayers are advised to read the form's instructions and refer to IRS Publication 4681, "Canceled Debts, Foreclosures, Repossessions, and Abandonments," and IRS Publication 523, "Selling Your Home."</p>
+
+<p>The instructions also include a notice regarding the Paperwork Reduction Act, informing taxpayers of the estimated time burden for completing Form 982 and inviting comments on the form's simplicity and time estimates.</p>
+
+<p>To access the form and its instructions, visit the IRS website at <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS.gov/forms-instructions</a>.</p>

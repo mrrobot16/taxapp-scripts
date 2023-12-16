@@ -1,0 +1,35 @@
+<h2>Summary of 2022 Instructions for Form 8824 - Like-Kind Exchanges</h2>
+<p>The 2022 Instructions for Form 8824 provide guidance on reporting like-kind exchanges of real property for tax purposes. The document includes updates, reminders, and detailed instructions on how to complete the form. Here is a summary of the key points:</p>
+
+<h3>Future Developments</h3>
+<p>For the latest information about Form 8824 and its instructions, visit the IRS website.</p>
+
+<h3>What’s New</h3>
+<p>Clarifying changes have been made throughout the instructions.</p>
+
+<h3>Reminders</h3>
+<ul>
+  <li>Capital gains invested in Qualified Opportunity Funds (QOFs) may be eligible for temporary deferral or permanent exclusion under certain conditions.</li>
+  <li>For 2018 and later years, like-kind exchange treatment is limited to exchanges of real property not primarily held for sale.</li>
+  <li>Eligible taxpayers must file Form 8997 if they held a qualified investment in a QOF.</li>
+</ul>
+
+<h3>Purpose of Form 8824</h3>
+<p>Form 8824 is used to report like-kind exchanges of business or investment real property and to calculate the deferred gain or loss. It also provides a mechanism for certain government officials to defer gain on conflict-of-interest sales.</p>
+
+<h3>General Instructions</h3>
+<p>Includes details on when to file, like-kind exchanges, definitions of real property, special rules for multi-asset exchanges, and other specific scenarios.</p>
+
+<h3>Specific Instructions</h3>
+<p>Guidance on how to complete each line of Form 8824, including descriptions of the properties exchanged, timing of identification and receipt of replacement property, handling of related party exchanges, and calculations for gain, loss, and basis.</p>
+
+<h3>Section 1043 Conflict-of-Interest Sales</h3>
+<p>Eligible government officials can defer gain on sales of property if they purchase replacement property within 60 days and follow specific rules.</p>
+
+<h3>Additional Information</h3>
+<p>If you need more information on like-kind exchanges, refer to section 1031 of the Internal Revenue Code, its regulations, and IRS Publication 544.</p>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>This section provides information on the estimated time burden for completing the form and invites feedback on the form's accuracy and suggestions for simplification.</p>
+
+<p>To access the full instructions and the form itself, visit the <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS website</a>.</p>

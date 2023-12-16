@@ -1,0 +1,35 @@
+<h2>Summary of Instructions for Schedule S (Form 1120-F)</h2>
+<p><b>Purpose:</b> Schedule S (Form 1120-F) is utilized by foreign corporations to claim exclusion from gross income under section 883 for income derived from the international operation of ships or aircraft, and to provide required reporting information.</p>
+
+<h3>Who Must File:</h3>
+<ul>
+  <li>Qualified foreign corporations engaged in international operation of ships or aircraft claiming exclusion under section 883.</li>
+</ul>
+
+<h3>When and Where To File:</h3>
+<ul>
+  <li>Schedule S must be attached to the foreign corporation's Form 1120-F income tax return, with filing details provided in the Instructions for Form 1120-F.</li>
+</ul>
+
+<h3>Definitions:</h3>
+<ul>
+  <li><b>Qualified Income:</b> Income from international ship or aircraft operation that is eligible for exemption by the corporation's country of organization.</li>
+  <li><b>Qualified Foreign Country:</b> A country that grants equivalent exemptions to U.S.-organized corporations for the same category of income.</li>
+  <li><b>Qualified Foreign Corporation:</b> A corporation organized in a qualified foreign country and meeting specific stock ownership tests.</li>
+  <li><b>International Operation:</b> Operation of ships or aircraft in international transport, excluding certain activities not considered operational, such as ship or aircraft management.</li>
+  <li><b>Equivalent Exemption:</b> Exemption granted by a foreign country to corporations organized in the U.S. for income from international operation of ships or aircraft.</li>
+</ul>
+
+<h3>Specific Instructions:</h3>
+<p>Parts I to IV of Schedule S provide detailed instructions for identifying the qualified foreign country, type of exemption, and the income categories eligible for exclusion. It also outlines the stock ownership tests for different types of corporations such as publicly-traded, controlled foreign corporations (CFCs), and those owned by qualified shareholders.</p>
+
+<h3>Stock Ownership Tests:</h3>
+<ol>
+  <li><b>Publicly-Traded Corporations:</b> Corporation's stock must be primarily and regularly traded on established securities markets.</li>
+  <li><b>Controlled Foreign Corporations (CFCs):</b> More than half of the corporation's tax year must be owned by qualified U.S. persons.</li>
+  <li><b>Qualified Shareholder Test:</b> More than 50% of the corporation's shares must be owned by qualified shareholders.</li>
+</ol>
+
+<p>For further information and detailed requirements, refer to the actual instructions for Schedule S (Form 1120-F).</p>
+
+<p><i>Note: This summary is based on the document provided and may not cover all the details in the full instructions. For comprehensive guidance, it's recommended to review the complete instructions available on the IRS website.</i></p>

@@ -1,0 +1,27 @@
+<h2>Summary of Instructions for Form 5498-ESA (2023)</h2>
+
+<p>The <b>Form 5498-ESA</b> is used to report contributions, including rollovers, to Coverdell Education Savings Accounts (ESAs). Trustees and issuers must file this form for each individual with a Coverdell ESA for the tax year 2023.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li><b>Form 5498-ESA</b> is related to Coverdell ESA Contribution Information.</li>
+  <li>For the latest updates on the form and instructions, visit <a href="https://www.irs.gov/Form5498ESA" target="_blank">IRS.gov/Form5498ESA</a>.</li>
+  <li>General instructions for information returns can be found at <a href="https://www.irs.gov/1099GeneralInstructions" target="_blank">IRS.gov/1099GeneralInstructions</a>.</li>
+  <li>The form is available in an online fillable format, and Copy B must be sent to the recipient. Copy A, if paper filed, should be sent to the IRS with Form 1096.</li>
+  <li>Contributions for the year 2023, including rollovers, must be reported on Form 5498-ESA.</li>
+  <li>A Coverdell ESA must be designated as such when created or organized.</li>
+  <li>Contributions made between January 1, 2024, and April 15, 2024, should be designated by the participant for the year they are made.</li>
+  <li>Family members for the purpose of the ESA include a wide range of relatives, including spouses, children, parents, and first cousins.</li>
+  <li>If a total distribution is made and no contributions are added for the year, filing Form 5498-ESA may not be necessary.</li>
+  <li>Distributions are reported on Form 1099-Q.</li>
+  <li>Beneficiary statements must be furnished by April 30, 2024.</li>
+  <li>Beneficiary's TIN may be truncated on payee statements but not on forms filed with the IRS.</li>
+</ul>
+
+<h3>Specific Instructions for Boxes:</h3>
+<ul>
+  <li><b>Box 1:</b> Report contributions made from January 1, 2023, through April 15, 2024, designated for 2023. Do not include rollovers.</li>
+  <li><b>Box 2:</b> Report rollover contributions received during 2023.</li>
+</ul>
+
+<p>For more detailed information, refer to the actual instructions for Form 5498-ESA on the IRS website.</p>

@@ -1,0 +1,41 @@
+<h3>Instructions for Form 941 (Rev. March 2023)</h3>
+<p>Form 941 is the Employer's QUARTERLY Federal Tax Return used by employers to report employment taxes. Employers must report wages paid, tips employees received, federal income tax withheld, and both employer's and employee's share of social security and Medicare taxes.</p>
+
+<h3>Contents</h3>
+<ul>
+  <li>Future Developments</li>
+  <li>What's New</li>
+  <li>Reminders</li>
+  <li>General Instructions</li>
+  <li>Specific Instructions</li>
+  <li>How To Get Forms, Instructions, and Publications</li>
+</ul>
+
+<h3>Key Updates</h3>
+<p>For 2023, the social security tax rate is 6.2% each for the employer and employee (12.4% total), with a wage base limit of $160,200. The Medicare tax rate remains at 1.45% each for the employee and employer, with no wage base limit. Additionally, the Inflation Reduction Act of 2022 increased the election amount for the qualified small business payroll tax credit for increasing research activities to $500,000 for tax years beginning after December 31, 2022.</p>
+
+<h3>Filing Requirements</h3>
+<p>Employers must file Form 941 quarterly and report their tax liability according to their deposit schedule (monthly or semiweekly). If the total taxes after adjustments and nonrefundable credits are less than $2,500 for the quarter, or if the prior quarter's liability was less than $2,500, employers may pay the amount with the return instead of making deposits.</p>
+
+<h3>Penalties and Interest</h3>
+<p>Employers can avoid penalties and interest by depositing or paying taxes when due, filing a complete and timely return, reporting tax liability accurately, submitting valid checks for tax payments, furnishing accurate Forms W-2 to employees, and filing Forms W-2 and W-3 with the SSA on time and accurately.</p>
+
+<h3>Adjustments</h3>
+<p>Adjustments for fractions of cents, sick pay, tips, and group-term life insurance must be made to calculate the correct tax liability for the quarter.</p>
+
+<h3>Credits</h3>
+<p>Employers may be eligible for credits such as the qualified small business payroll tax credit for increasing research activities and the credit for qualified sick and family leave wages.</p>
+
+<h3>Final Return</h3>
+<p>If a business closes or stops paying wages, a final return must be filed by checking the box on line 17 and entering the final date wages were paid.</p>
+
+<h3>Third-Party Designee</h3>
+<p>Employers can designate a third party to discuss their Form 941 with the IRS by checking the "Yes" box in Part 4 and providing the designee's information.</p>
+
+<h3>Signature Requirements</h3>
+<p>The form must be signed by the employer or a duly authorized agent. Paid preparers must sign the return if they were compensated for preparing Form 941 and provide their PTIN.</p>
+
+<h3>Resources</h3>
+<p>For the latest information about developments related to Form 941 and its instructions, such as legislation enacted after they were published, visit <a href="https://www.irs.gov/forms-pubs/about-form-941" target="_blank">IRS.gov/Form941</a>.</p>
+
+<p>For more detailed information, refer to the actual instructions for Form 941 on the IRS website.</p>

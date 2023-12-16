@@ -1,0 +1,19 @@
+<h2>Instructions for Form 1099-SB (Rev. December 2019)</h2>
+<p>The IRS provides instructions for Form 1099-SB, which is used to report a seller's investment in a life insurance contract and the surrender amount in the event of a reportable policy sale or transfer to a foreign person. The instructions reference the Internal Revenue Code and include information about future developments, reminders for filing, and specific instructions for the form itself.</p>
+
+<h3>Key Points from the Document:</h3>
+<ol>
+<li><b>Future Developments:</b> Updates to Form 1099-SB and its instructions will be posted on the IRS website.</li>
+<li><b>Reminders:</b> The document reminds issuers to also consult the General Instructions for Certain Information Returns for topics like who must file, filing deadlines, electronic reporting, and penalties.</li>
+<li><b>Continuous-use Form and Instructions:</b> Form 1099-SB and its instructions are now continuously updated rather than annually revised.</li>
+<li><b>Online Fillable Forms:</b> Copies B and C of Form 1099-SB are available in a fillable PDF format online for ease of furnishing statements to recipients.</li>
+<li><b>Who Must File:</b> Issuers of life insurance contracts must file Form 1099-SB if they receive a statement from an acquirer in a reportable policy sale or notice of a transfer of the life insurance contract to a foreign person.</li>
+<li><b>Specific Instructions:</b> The form requires details such as the issuer's and seller's information, policy number, seller's investment in the contract, and the surrender amount.</li>
+<li><b>Reporting:</b> A separate Form 1099-SB must be filed for each seller involved in a reportable policy sale or transfer to a foreign person.</li>
+<li><b>Statement to Seller:</b> Issuers must furnish a statement to the seller, such as Copy B of Form 1099-SB, and provide an information contact familiar with the reporting requirements.</li>
+<li><b>Truncating Recipient's TIN:</b> Sellers' TINs may be truncated on statements furnished to them, but not on documents filed with the IRS.</li>
+<li><b>Rescission:</b> If a reportable policy sale or transfer is rescinded, a corrected Form 1099-SB must be filed and furnished to the seller within 15 days of notice of the rescission.</li>
+<li><b>Boxes 1 and 2:</b> These boxes on the form are for entering the seller's investment in the contract and the surrender amount, respectively.</li>
+</ol>
+
+<p>The instructions provide detailed guidance on how to complete and file Form 1099-SB, including definitions of terms, the responsibilities of the issuer, and the information required for reporting.</p>

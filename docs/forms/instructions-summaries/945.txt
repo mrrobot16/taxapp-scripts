@@ -1,0 +1,57 @@
+<h2>2022 Instructions for Form 945 Summary</h2>
+<p>The 2022 Instructions for Form 945 provide guidance for reporting withheld federal income tax from nonpayroll payments. Key points include:</p>
+
+<h3>Future Developments</h3>
+<p>For the latest updates and changes related to Form 945, visit <a href="https://www.irs.gov/forms-pubs/about-form-945" target="_blank">IRS.gov/Form945</a>.</p>
+
+<h3>Reminders</h3>
+<ul>
+  <li>To correct a previously filed Form 945, use Form 945-X.</li>
+  <li>Federal tax deposits must be made by electronic funds transfer (EFT).</li>
+  <li>For EFTPS deposits to be on time, submit by 8 p.m. Eastern time the day before the due date.</li>
+  <li>The same-day wire payment option is available for late EFTPS deposits.</li>
+  <li>Electronic filing and payment options are encouraged.</li>
+  <li>Form 1099-NEC is used to report nonemployee compensation.</li>
+  <li>Paid preparers must complete the paid preparer's section of the form.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Use Form 945 to report federal income tax withheld from nonpayroll payments, including:</p>
+<ul>
+  <li>Pensions, annuities, and IRA distributions.</li>
+  <li>Military retirement.</li>
+  <li>Gambling winnings.</li>
+  <li>Indian gaming profits.</li>
+  <li>Voluntary income tax withholding on certain government payments.</li>
+  <li>Backup withholding.</li>
+</ul>
+<p>Do not report withholding from wages on Form 945, which should be reported on Form 941, 943, 944, Schedule H (Form 1040), or Form CT-1.</p>
+
+<h3>Who Must File</h3>
+<p>Any entity that withholds federal income tax from nonpayroll payments must file Form 945.</p>
+
+<h3>When To File</h3>
+<p>Form 945 is due by January 31, 2023. If taxes were deposited timely and in full, the deadline extends to February 10, 2023.</p>
+
+<h3>Where To File</h3>
+<p>Electronic filing is encouraged. Paper filing addresses vary based on whether a payment is included with the form.</p>
+
+<h3>Employer Identification Number (EIN)</h3>
+<p>An EIN is required for filing. Apply for an EIN online if you do not have one.</p>
+
+<h3>Depositing Withheld Taxes</h3>
+<p>All withheld federal income tax must be deposited by EFT. Deposit schedules may be monthly or semiweekly, and special rules apply if you accumulate $100,000 or more on any day during a month.</p>
+
+<h3>Penalties and Interest</h3>
+<p>Penalties may apply for filing late, paying late, and for failure to file information returns or furnish payee statements. Interest is charged on late payments.</p>
+
+<h3>Voluntary Income Tax Withholding</h3>
+<p>Recipients of certain government payments, social security, and railroad retirement benefits may elect federal income tax withholding.</p>
+
+<h3>Additional Information</h3>
+<p>For more details on nonpayroll payments and withholding, refer to publications like Pub. 15-A, Pub. 15-T, and instructions for other forms such as 1099-R, W-2G, and 1099-NEC.</p>
+
+<h3>Completing Form 945</h3>
+<p>Enter tax withheld and backup withholding amounts, calculate total taxes, and report monthly tax liabilities if required. If you have an overpayment, it can be refunded or applied to your next return.</p>
+
+<p>For more detailed information or if you have specific questions, consult the full instructions available on the IRS website.</p>

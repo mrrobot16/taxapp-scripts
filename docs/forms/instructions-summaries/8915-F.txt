@@ -1,0 +1,31 @@
+<h3>Instructions for Form 8915-F (Rev. January 2023)</h3>
+<p>Form 8915-F is used by individuals who were adversely affected by a qualified disaster and received a distribution from an eligible retirement plan, including IRAs, to report these distributions and any repayments.</p>
+
+<h3>General Instructions</h3>
+<p>For the latest information related to Form 8915-F and its instructions, such as legislation enacted after they are published, visit the IRS website.</p>
+
+<h3>Specific Instructions</h3>
+<p>Part I of Form 8915-F covers the total distributions from all retirement plans, including IRAs, while Parts II and III are for reporting qualified disaster distributions from retirement plans and IRAs, respectively. Part IV is for qualified distributions for the purchase or construction of a main home in qualified disaster areas.</p>
+
+<p>For qualified 2021 and later disasters, the dollar limit for retirement plan distributions is $22,000 per disaster. The qualified disaster distribution period begins on the day the disaster began and ends 179 days after the latest of the disaster's beginning date, declaration date, or December 29, 2022.</p>
+
+<p>If you received a qualified distribution, you may choose to spread the distribution over 3 years or elect to include the entire distribution in your income in the year of the distribution.</p>
+
+<p>Repayments of a qualified disaster distribution can be made at any time during the 3-year period starting the day after the distribution was received. The repayment amount cannot exceed the original distribution amount.</p>
+
+<h3>Qualified Distributions for the Purchase or Construction of a Main Home</h3>
+<p>For qualified 2021 and later disasters, a qualified distribution must be a hardship distribution from a 401(k) plan or a tax-sheltered annuity contract, or a qualified first-time homebuyer distribution from an IRA. The distribution must be received within a specific timeframe relative to the disaster and must not have been used to purchase or construct a main home due to the disaster.</p>
+
+<p>Qualified distributions aren't subject to the additional 10% tax on early distributions and can be repaid to an eligible retirement plan within a specified period.</p>
+
+<p>If you need to amend Form 8915-F, use Form 1040-X, Amended U.S. Individual Income Tax Return.</p>
+
+<p>For more detailed information, including how to distinguish between different forms 8915-F and when not to use a Form 8915-F, refer to the specific instructions provided in the IRS document.</p>
+
+<p>Worksheets are provided to assist with calculations, and completed worksheets should be attached to the filed Form 8915-F.</p>
+
+<p>If you have more than one disaster, you should complete the Form 8915-F for the oldest disaster first. The amounts entered on the form depend on whether the current year's distributions exceed the limits set for qualified disaster distributions.</p>
+
+<p>Privacy Act and Paperwork Reduction Act Notice sections explain the legal reasons for requesting the information and how it may be used.</p>
+
+<p>Appendix A provides a guide on which lines to use based on specific scenarios, and Appendix B contains blank worksheets for calculations related to the form.</p>

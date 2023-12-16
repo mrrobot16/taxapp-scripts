@@ -1,0 +1,40 @@
+<h2>Summary of Instructions for IRS Form W-8EXP (Rev. July 2017)</h2>
+<p>The IRS Form W-8EXP is a document used by foreign governments, international organizations, foreign central banks of issue, foreign tax-exempt organizations, foreign private foundations, or governments of U.S. possessions to certify their status for U.S. tax withholding and reporting purposes.</p>
+
+<h3>General Instructions</h3>
+<ul>
+  <li>For the latest updates and developments related to Form W-8EXP, visit <a href="https://www.irs.gov/forms-pubs/about-form-w-8-exp" target="_blank">IRS.gov/FormW8EXP</a>.</li>
+  <li>The form has been updated to reflect temporary and final regulations under chapters 3 and 4, including requirements for foreign TINs and electronic signatures.</li>
+</ul>
+
+<h3>Purpose of Form</h3>
+<ul>
+  <li>Foreign persons are subject to U.S. tax at a 30% rate on certain types of income from U.S. sources.</li>
+  <li>Form W-8EXP is used to establish non-U.S. status, claim beneficial ownership of the income, and claim exemption or reduced withholding rates.</li>
+  <li>Income of foreign governments from certain U.S. sources may be exempt from tax under section 892.</li>
+  <li>Income from commercial activities and controlled commercial entities does not qualify for exemption.</li>
+  <li>Payments to foreign tax-exempt organizations and governments of U.S. possessions are generally exempt from tax and withholding.</li>
+</ul>
+
+<h3>Who Must Provide Form W-8EXP</h3>
+<ul>
+  <li>Foreign governments, international organizations, foreign central banks of issue, foreign tax-exempt organizations, foreign private foundations, or governments of U.S. possessions receiving payments subject to withholding must provide Form W-8EXP.</li>
+  <li>Do not use Form W-8EXP if you are not one of the entities listed above or if you are receiving income effectively connected with a U.S. trade or business.</li>
+</ul>
+
+<h3>Completing and Providing Form W-8EXP</h3>
+<ul>
+  <li>Provide the form to the withholding agent before income is paid or credited to you.</li>
+  <li>A separate Form W-8EXP must be given to each withholding agent.</li>
+  <li>The form remains valid indefinitely unless a change in circumstances makes any information on the form incorrect.</li>
+</ul>
+
+<h3>Parts of Form W-8EXP</h3>
+<ol>
+  <li>Identification of Beneficial Owner: Provide name, country of organization, and type of entity.</li>
+  <li>Qualification Statement for Chapter 3 Status: Certify status under chapter 3 of the Internal Revenue Code.</li>
+  <li>Qualification Statement for Chapter 4 Status: Certify status under chapter 4 of the Internal Revenue Code (FATCA).</li>
+  <li>Certification: Must be signed and dated by an authorized official.</li>
+</ol>
+
+<p>Do not send Form W-8EXP to the IRS. Instead, give it to the person requesting it, usually the withholding agent. For more detailed instructions, refer to the IRS instructions for Form W-8EXP.</p>

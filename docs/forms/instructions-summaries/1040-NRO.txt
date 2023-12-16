@@ -1,0 +1,34 @@
+<p>The <b>2022 Instructions for Form 1040-NR</b> provide guidance for nonresident aliens required to file a U.S. Nonresident Alien Income Tax Return. The document includes instructions for each section of the form, including filing requirements, determining residency status, and how to report income and deductions.</p>
+
+<p>Key sections of the document include:</p>
+<ol>
+  <li><b>Form 1040-NR Helpful Hints</b>: General tips for completing the form, including the need for certain schedules based on specific circumstances.</li>
+  <li><b>What's New</b>: Updates for the tax year, such as changes to tax laws or filing requirements.</li>
+  <li><b>Filing Requirements</b>: Criteria that determine if a nonresident alien must file Form 1040-NR.</li>
+  <li><b>Resident or Nonresident Alien</b>: Criteria to determine residency status for tax purposes.</li>
+  <li><b>When and Where Should You File?</b>: Deadlines for filing and appropriate mailing addresses for paper returns.</li>
+  <li><b>Election To Be Taxed as a Resident Alien</b>: Explanation of circumstances under which a nonresident can choose to be taxed as a resident.</li>
+  <li><b>Dual-Status Taxpayers</b>: Information for those who have changed status between resident and nonresident alien during the tax year.</li>
+  <li><b>How To Report Income</b>: Guidance on reporting income that is effectively connected with a U.S. trade or business.</li>
+  <li><b>Line Instructions</b>: Detailed instructions for each line on Form 1040-NR.</li>
+  <li><b>Filing Status</b>: Instructions for determining the correct filing status.</li>
+  <li><b>Name and Address</b>: How to properly enter name and address information.</li>
+  <li><b>Dependents</b>: Criteria for claiming dependents on the tax return.</li>
+  <li><b>Income Effectively Connected With U.S. Trade or Business</b>: How to report income related to U.S. business activities.</li>
+  <li><b>Payments</b>: How to report federal income tax withheld and estimated tax payments.</li>
+  <li><b>Refund</b>: Information on how to receive a tax refund, if applicable.</li>
+  <li><b>Amount You Owe</b>: Instructions for calculating and paying any tax due.</li>
+  <li><b>Third Party Designee</b>: How to authorize someone else to discuss the return with the IRS.</li>
+  <li><b>Sign Your Return</b>: Requirements for signing the tax return.</li>
+  <li><b>Assemble Your Return</b>: Instructions on how to put together the tax return package for mailing.</li>
+  <li><b>2022 Tax Table</b>: A table to help calculate the tax liability based on taxable income.</li>
+  <li><b>General Information</b>: Additional information including how to get tax help and the Taxpayer Advocate Service.</li>
+  <li><b>Refund Information</b>: Details on refunds, especially for taxes withheld on Forms 1042-S, 8805, or 8288-A.</li>
+  <li><b>Instructions for Schedules 1, 2, 3, A, and NEC</b>: Specific instructions for each of these schedules that may need to be filed with Form 1040-NR.</li>
+  <li><b>Schedule OI</b>: Other information required for the tax return, including treaty-based return positions.</li>
+  <li><b>Tax Topics</b>: A list of relevant tax topics for nonresident aliens.</li>
+  <li><b>Disclosure, Privacy Act, and Paperwork Reduction Act Notice</b>: Legal requirements for information collection and privacy.</li>
+  <li><b>Index</b>: An alphabetical listing of topics covered in the instructions.</li>
+</ol>
+
+<p>The document also includes notices about the Taxpayer Bill of Rights and provides estimates of taxpayer burden. Taxpayers are encouraged to review the document carefully to ensure accurate and compliant tax filing.</p>

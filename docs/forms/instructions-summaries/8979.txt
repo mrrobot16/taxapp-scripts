@@ -1,0 +1,31 @@
+<h2>Summary of Instructions for Form 8979 (Rev. December 2022)</h2>
+
+<p><b>Future Developments:</b> For the latest updates and developments related to Form 8979 and its instructions, visit the IRS website.</p>
+
+<p><b>General Instructions:</b></p>
+<ul>
+  <li>Form 8979 is used to revoke a partnership representative or designated individual, designate a new one, or for a representative or individual to resign.</li>
+  <li>A partnership representative must be designated on the partnership's tax return and must have substantial presence in the United States.</li>
+  <li>Substantial presence includes availability for IRS meetings, a U.S. taxpayer identification number (TIN), and a U.S. street address and telephone number.</li>
+</ul>
+
+<p><b>Who May File:</b> Partnerships and authorized persons, partnership representatives, or designated individuals may file Form 8979.</p>
+
+<p><b>When To File:</b> Form 8979 should be filed in specific situations such as with an AAR, during an IRS examination, or when contacted by an IRS employee.</p>
+
+<p><b>Where To File:</b> If submitted with an AAR, refer to AAR instructions. Otherwise, mail or fax to the current IRS employee point of contact.</p>
+
+<p><b>Address Change:</b> A change of address for the partnership representative or designated individual does not require a new Form 8979 but should be communicated in writing to the IRS. Use Form 8822 or Form 8822-B for personal or business address changes, respectively.</p>
+
+<p><b>Specific Instructions:</b></p>
+<ul>
+  <li>Provide partnership information such as the name, address, EIN, and tax year ending date.</li>
+  <li>Part I details the reason for filing, including revocations, resignations, and designations.</li>
+  <li>Part II requires information on revocations or resignations of entity partnership representatives or designated individuals, or individual partnership representatives.</li>
+  <li>Part III involves designations and/or appointment of new representatives or individuals.</li>
+  <li>Part IV is the signature section for revocations by the partnership, resignations, and designations.</li>
+</ul>
+
+<p><b>Paperwork Reduction Act Notice:</b> The form is subject to the Paperwork Reduction Act and requires a valid OMB control number. The estimated burden for business taxpayers filing this form is included in the estimates for their business income tax return.</p>
+
+<p>For more detailed information, refer to the actual IRS instructions for Form 8979.</p>

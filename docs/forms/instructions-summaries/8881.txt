@@ -1,0 +1,37 @@
+<h2>Summary of Instructions for Form 8881 (Rev. December 2020)</h2>
+
+<p>Form 8881 is used by eligible small employers to claim a tax credit for certain costs associated with setting up and administering pension plans and for including an auto-enrollment feature in their retirement savings plan. The form and its instructions are subject to updates, and the most recent information can be found on the IRS website.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>The credit limit for small employer pension plan startup costs has been increased.</li>
+  <li>A new credit is available for small employers that add an auto-enrollment option to their retirement savings plan.</li>
+  <li>Form 8881 now has two parts: Part I for the startup costs credit and Part II for the auto-enrollment credit.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<ul>
+  <li>Eligible small employers use Part I of Form 8881 to claim the credit for qualified startup costs under section 45E.</li>
+  <li>They use Part II to claim the credit for adding an eligible automatic contribution arrangement under section 45T.</li>
+  <li>Taxpayers who receive these credits through partnerships or S corporations can report the credits directly on Form 3800 instead of filing Form 8881.</li>
+</ul>
+
+<h3>Part I: Credit for Small Employer Pension Plan Startup Costs</h3>
+<ul>
+  <li>The credit is 50% of the qualified startup costs, up to a maximum of $5,000 per year for the first three years.</li>
+  <li>An eligible employer is one with 100 or fewer employees who each received at least $5,000 in compensation in the previous year.</li>
+  <li>Qualified startup costs include expenses related to establishing, administering, or educating employees about the plan.</li>
+  <li>The credit amount must be subtracted from any deduction for startup costs.</li>
+</ul>
+
+<h3>Part II: Small Employer Auto-Enrollment Credit</h3>
+<ul>
+  <li>The credit is $500 for each of the first three years after an eligible employer includes an auto-enrollment feature in their plan.</li>
+  <li>Eligibility for employers is the same as for the startup costs credit.</li>
+</ul>
+
+<p>Both parts of the credit are affected by membership in a controlled group or business under common control, where the credit must be divided among the group members.</p>
+
+<p>The instructions also include information on recordkeeping, learning about the law or the form, and preparing and sending the form to the IRS, along with estimated time burdens for these activities.</p>
+
+<p>For the complete and detailed instructions, please refer to the official IRS document for Form 8881.</p>

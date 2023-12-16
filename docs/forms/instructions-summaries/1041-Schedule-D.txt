@@ -1,0 +1,56 @@
+<h1>Summary: 2022 Instructions for Schedule D (Form 1041)</h1>
+
+<h2>General Information</h2>
+<p>Schedule D (Form 1041) is used by estates and trusts to report capital gains and losses. The form references sections of the Internal Revenue Code (IRC).</p>
+
+<h2>Future Developments</h2>
+<p>For the latest information on changes related to Schedule D and its instructions, such as legislation enacted after the document was published, visit <a href="https://www.irs.gov/Form1041" target="_blank">IRS.gov/Form1041</a>.</p>
+
+<h2>What's New</h2>
+<p>For tax year 2022, the maximum capital gain rate of 20% applies to estates and trusts with income above $13,700. The 0% rate applies up to $2,800, and the 15% rate applies to amounts over $2,800 and up to $13,700.</p>
+
+<h2>Reminders</h2>
+<p>If you disposed of an investment in a Qualified Opportunity Fund (QOF), you must check the box on Schedule D and attach Form 8949 and Form 8997. Form 8971 is used for consistent basis reporting between an estate and a person acquiring property from an estate.</p>
+
+<h2>General Instructions</h2>
+<p>The fiduciary of the estate or trust must complete Form 8949 before Schedule D if they had capital asset transactions.</p>
+
+<h2>Purpose of Schedule</h2>
+<p>Schedule D is used to report:
+<ol>
+<li>Overall capital gains and losses from transactions reported on Form 8949.</li>
+<li>Transactions not required to be reported on Form 8949.</li>
+<li>Gain from Form 4797, 4684, 6252, 6781, 8824, and 2439.</li>
+<li>Capital gain distributions.</li>
+<li>Capital loss carryovers.</li>
+</ol>
+</p>
+
+<h2>Other Forms You May Have To File</h2>
+<p>Forms 8949, 4797, 4684, 6781, 8824, and 8971 may also be required in addition to Schedule D.</p>
+
+<h2>Special Rules</h2>
+<p>Special rules for determining the basis of estate and trust property, such as carryover basis and basis of property acquired from a decedent, are provided.</p>
+
+<h2>Short-Term or Long-Term</h2>
+<p>Capital gains and losses are classified as either short-term or long-term based on the holding period of the property.</p>
+
+<h2>Section 643(e)(3) Election</h2>
+<p>An election can be made for in-kind noncash property distributions to recognize gain or loss as if the property was sold.</p>
+
+<h2>Related Persons</h2>
+<p>Special rules apply to sales or exchanges of property between related persons.</p>
+
+<h2>Items for Special Treatment</h2>
+<p>Certain types of gains or losses, like those from collectibles or certain business property sales, have special rules.</p>
+
+<h2>Exclusion of Gain on Qualified Small Business (QSB) Stock (Section 1202)</h2>
+<p>Details are provided on how to exclude gain from the sale of QSB stock if held for more than 5 years.</p>
+
+<h2>Capital Loss Limitation</h2>
+<p>Capital losses are limited to the smaller of the net loss or $3,000. Capital loss carryovers can be used in future years.</p>
+
+<h2>Tax Computation Using Maximum Capital Gains Rates</h2>
+<p>Instructions are provided for calculating tax using the maximum capital gains rates.</p>
+
+<p>For more detailed information, refer to the full document on the IRS website.</p>

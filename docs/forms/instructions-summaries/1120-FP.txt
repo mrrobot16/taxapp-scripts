@@ -1,0 +1,51 @@
+<h2>Summary of 2022 Instructions for Schedule P (Form 1120-F)</h2>
+<p>The Schedule P (Form 1120-F) instructions provide guidance for foreign corporations to report their partnership interests in the U.S. and calculate gains or losses from the transfer of such interests.</p>
+
+<h3>Future Developments</h3>
+<p>Updates to the form and instructions will be posted on <a href="https://www.irs.gov/Form1120F" target="_blank">IRS.gov/Form1120F</a>.</p>
+
+<h3>What's New</h3>
+<ul>
+<li>New Parts IV and V to report information on foreign corporate partner's transfer of partnership interests and calculation of gain or loss.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<ul>
+<li>Schedule P is used to identify and reconcile foreign corporation's partnership interests and ECI.</li>
+<li>It also reports on transfers of partnership interests when the partnership is engaged in U.S. trade or business or holds U.S. real property interests.</li>
+</ul>
+
+<h3>Who Must Complete Schedule P</h3>
+<p>Foreign corporations engaged in a U.S. trade or business must file Schedule P for all directly owned partnership interests that have gross ECI.</p>
+
+<h3>Exceptions From Filing Schedule P</h3>
+<p>Do not file if there is no ECI or expenses allocable to ECI from any partnership interests and no transfers of such interests.</p>
+
+<h3>When and Where To File</h3>
+<p>Attach Schedule P to the Form 1120-F income tax return, following the instructions for Form 1120-F filing.</p>
+
+<h3>Other Forms and Schedules Related to Schedule P</h3>
+<ul>
+<li>Form 1120-F, Section II for reporting ECI.</li>
+<li>Schedule I (Form 1120-F) for interest expense allocation.</li>
+<li>Schedule H (Form 1120-F) for allocation and apportionment of expenses.</li>
+<li>Schedule M-3 (Form 1120-F) to report partnership income or loss.</li>
+<li>Form 8990 for limitation on business interest expense.</li>
+</ul>
+
+<h3>Part I - List of Foreign Partner Interests in Partnerships</h3>
+<p>Report directly owned partnership interests that have ECI in the partner's distributive share.</p>
+
+<h3>Part II - Foreign Partner Income and Expenses: Reconciliation to Schedule K-3 (Form 1065)</h3>
+<p>Reconcile the partner's ECI to its distributive share from each partnership.</p>
+
+<h3>Part III - Foreign Partner's Average Outside Basis Under Regulations</h3>
+<p>Report the corporation's outside basis for interest expense allocation and branch profits tax purposes.</p>
+
+<h3>Parts IV and V</h3>
+<p>Report information on the transfer of partnership interests and calculate gain or loss when the partnership is engaged in U.S. trade or business or holds U.S. real property interests.</p>
+
+<h3>Protective Election</h3>
+<p>A protective election can be made to preserve the right to allocate and apportion outside basis under a chosen method.</p>
+
+<p>For detailed instructions, refer to the IRS website or the specific section in the form's instructions.</p>

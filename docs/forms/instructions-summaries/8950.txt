@@ -1,0 +1,46 @@
+<h2>Instructions for Form 8950 (Rev. January 2022) Summary</h2>
+<p>The IRS Form 8950, Application for Voluntary Correction Program (VCP), is used by plan sponsors to request approval from the IRS to correct plan failures. This form is part of the Employee Plans Compliance Resolution System (EPCRS), as updated by Rev. Proc. 2021-30.</p>
+
+<h3>Key Updates</h3>
+<ul>
+  <li>Rev. Proc. 2021-30 replaces Rev. Proc. 2019-19, making modifications to the EPCRS and VCP.</li>
+  <li>Information submitted under VCP is confidential and not open to public inspection.</li>
+  <li>Form 8821 can be used to authorize the IRS to disclose tax information to designated individuals.</li>
+</ul>
+
+<h3>Eligibility and Types of Plans</h3>
+<ul>
+  <li>The VCP is available for qualified plans, 403(b) plans, SEP, SARSEP, or SIMPLE IRA with certain qualification failures.</li>
+  <li>Section 457(b) plans may be considered on a provisional basis.</li>
+  <li>Correction under VCP is not available if the plan or sponsor is under examination.</li>
+</ul>
+
+<h3>Who May File</h3>
+<ul>
+  <li>Employers, plan sponsors, plan administrators, eligible organizations for group submissions, and authorized representatives.</li>
+  <li>Representatives must have a power of attorney and submit Form 2848.</li>
+</ul>
+
+<h3>Pre-submission Conferences and Group Submissions</h3>
+<ul>
+  <li>Authorized representatives may request a pre-submission conference to discuss potential VCP submissions.</li>
+  <li>Group submissions are for failures affecting a large number of plans due to systemic errors.</li>
+</ul>
+
+<h3>Filing Requirements</h3>
+<ul>
+  <li>Form 8950 must be filed electronically using Pay.gov.</li>
+  <li>A user fee is required and varies based on the plan's assets or type of submission.</li>
+  <li>Applicants must attach a PDF with all required documents and fill out the form accurately.</li>
+</ul>
+
+<h3>Signatures and Submission</h3>
+<ul>
+  <li>The form must be signed electronically by an authorized individual.</li>
+  <li>After submission, retain the Pay.gov payment confirmation receipt which serves as an acknowledgment.</li>
+</ul>
+
+<h3>Privacy and Paperwork Reduction Act Notice</h3>
+<p>The collection of information on Form 8950 is authorized by the Internal Revenue Code. The form is subject to the Paperwork Reduction Act, and the IRS welcomes comments on the form's accuracy and suggestions for simplification.</p>
+
+<p>For further details, refer to the <a href="https://www.irs.gov/instructions/i8950" target="_blank">instructions for Form 8950</a> on the IRS website.</p>

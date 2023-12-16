@@ -1,0 +1,36 @@
+<h2>Summary of Instructions for Form 8978 (Including Schedule A)</h2>
+<p><b>Revision:</b> January 2023</p>
+<p><b>Title:</b> Partners Additional Reporting Year Tax</p>
+<p><b>Purpose:</b> Form 8978 and Schedule A (Form 8978) are used by partners (excluding pass-through partners) to report adjustments from Forms 8986 received from partnerships that elect to push out adjustments to their partners. It involves calculating the additional reporting year tax and any related amounts due to changes in partner-level tax attributes resulting from the adjustments.</p>
+
+<h3>What's New</h3>
+<ul>
+  <li>Adjustments from multiple Forms 8986 can be reported on one Schedule A if they are from the same source type.</li>
+  <li>Separate reporting for adjustments related to Administrative Adjustment Requests (AARs) and audits under the centralized partnership audit regime.</li>
+  <li>New checkboxes on Form 8978 and Schedule A to indicate the source of adjustments: AAR filing or BBA audit.</li>
+  <li>Separate Forms 8978 and Schedules A are required for each source of adjustment if a partner has adjustments from more than one source.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<ul>
+  <li>Reviewed year partners or affected partners must file Form 8978 with their federal income tax return for the reporting year.</li>
+  <li>Form 8978 and Schedule A detail the adjustments and the additional reporting year tax.</li>
+</ul>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>Form 8978 is divided into parts for computing additional reporting year tax, with columns for different tax years affected by the adjustments.</li>
+  <li>Schedule A lists all adjustments received on Form 8986, including those related to income, deductions, and credits.</li>
+  <li>Adjustments from Forms 8986 are entered on Schedule A and carried over to Form 8978.</li>
+  <li>Separate tax calculations are provided for each affected year, with the additional reporting year tax reported on the partner's income tax return for the reporting year.</li>
+</ul>
+
+<h3>Definitions</h3>
+<p>Various terms such as AAR partnership, BBA partnership, reviewed year, and reporting year are defined to clarify the entities and periods involved.</p>
+
+<h3>Inconsistent Positions</h3>
+<p>Partners who previously reported amounts inconsistent with the partnership's reported amounts must resolve these inconsistencies on Schedule A.</p>
+
+<p>For more detailed instructions and examples, partners should refer to the full document on the IRS website.</p>
+
+<p>Note: The Paperwork Reduction Act Notice indicates the form's OMB control number and the confidentiality of tax returns and return information as required by section 6103.</p>

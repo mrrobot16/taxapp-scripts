@@ -1,0 +1,33 @@
+<h2>Summary of Instructions for Schedule 6 (Form 8849)</h2>
+
+<h3>Future Developments</h3>
+<p>For the latest updates and developments on Schedule 6 (Form 8849), users should check the IRS website.</p>
+
+<h3>What's New</h3>
+<p>Changes have been made to the information required for credit or refund claims for vehicles sold on or after July 1, 2015.</p>
+
+<h3>General Instructions</h3>
+<p>Schedule 6 is used for claims not reportable on other schedules, specifically for refunds of excise taxes reported on Forms 720, 2290, 730, and 11-C. It is not to be used for adjustments to prior quarters' liabilities on Form 720 or for amounts claimed as credits on Form 2290 or Form 730.</p>
+
+<h3>Claim Requirements</h3>
+<p>Claims must generally be filed within 3 years of the return filing or 2 years from when the tax was paid, whichever is later.</p>
+
+<h3>How to File</h3>
+<p>Schedule 6 should be attached to Form 8849, and any additional sheets must include the taxpayer's name and identification number.</p>
+
+<h3>Specific Instructions</h3>
+<p>Claims related to the taxes listed in the Tax and CRN chart can be made, with detailed descriptions, additional required information, claim amounts by quarter, and supporting information.</p>
+
+<h3>Form 720</h3>
+<p>Includes a variety of excise taxes and requires specific information for each claim.</p>
+
+<h3>Form 2290, CRN 365</h3>
+<p>Claims for refunds may be made for overpayments, vehicles sold, destroyed, or stolen before June 1 and not used thereafter, or for vehicles used less than 5,000 miles (7,500 for agricultural vehicles).</p>
+
+<h3>Form 730, CRN 368</h3>
+<p>Refund claims for overpayment of the wagering tax require detailed explanations and specific statements regarding the collection and repayment of the tax or consent for the refund.</p>
+
+<h3>Form 11-C, CRN 367</h3>
+<p>Refund claims for overpayment of the occupational tax on wagering due to a mistake in tax liability reported on Form 11-C.</p>
+
+<p><i>For detailed information and specific instructions, refer to the official IRS instructions for Schedule 6 (Form 8849).</i></p>

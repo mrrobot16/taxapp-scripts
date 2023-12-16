@@ -1,0 +1,34 @@
+<h2>Summary of 2022 Instructions for Form 8995</h2>
+<p>The 2022 Instructions for Form 8995 provide guidance on how to compute the Qualified Business Income Deduction (QBI) using a simplified computation method. The QBI deduction allows eligible taxpayers to deduct up to 20% of their net QBI from a trade or business, including income from pass-through entities, but not from C corporations, as well as 20% of qualified real estate investment trust (REIT) dividends and qualified publicly traded partnership (PTP) income.</p>
+
+<h3>Key Updates</h3>
+<ul>
+  <li>Taxable income limitation adjustments: The threshold amounts have been adjusted for inflation.</li>
+  <li>Filing status name change: The status "qualifying widow(er)" has been renamed to "qualifying surviving spouse".</li>
+  <li>Tracking suspended losses: A worksheet has been added to help taxpayers track and compute previously disallowed losses or deductions for inclusion in QBI in the year they are allowed.</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Form 8995 is used by individuals, some trusts, and estates to calculate the QBI deduction. Taxpayers with QBI, qualified REIT dividends, or qualified PTP income who meet certain taxable income thresholds may use Form 8995. Those who do not meet the requirements must use Form 8995-A. S corporations, partnerships, and cooperatives must pass through the necessary information to their shareholders, partners, or patrons.</p>
+
+<h3>Eligibility for the Deduction</h3>
+<p>Taxpayers with taxable income before the QBI deduction below a certain threshold, and who are not patrons in a specified agricultural or horticultural cooperative, can take the deduction. The thresholds for 2022 are $170,050 for single filers and $340,100 for married filing jointly.</p>
+
+<h3>Determining Qualified Businesses</h3>
+<p>Qualified businesses include domestic trades or businesses where the primary purpose is for income or profit and are conducted with continuity and regularity. Employee services, C corporations, and certain specified service trades or businesses (SSTBs) are not qualified businesses unless the taxpayer's income is below a certain threshold.</p>
+
+<h3>Qualified Business Income</h3>
+<p>QBI includes qualified items of income, gain, deduction, and loss that are effectively connected with a U.S. trade or business. Certain types of income are excluded from QBI, such as capital gains, dividends, and interest income not allocable to a trade or business.</p>
+
+<h3>REIT Dividends and PTP Income</h3>
+<p>Qualified REIT dividends and qualified PTP income are included in the computation of the QBI deduction, subject to certain holding period requirements and other conditions.</p>
+
+<h3>Losses and Carryforwards</h3>
+<p>Losses from a qualified trade or business that are not allowed in the current year due to various limitations must be carried forward and can offset future QBI.</p>
+
+<h3>Filing Requirements</h3>
+<p>The form includes detailed instructions for calculating the QBI deduction, including various scenarios and examples. Taxpayers must report their QBI deduction on their respective tax returns and carry forward any negative amounts to the next year.</p>
+
+<p>For complete details, taxpayers should refer to the actual IRS instructions for Form 8995.</p>
+
+<p>The full document can be accessed on the IRS website at <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS.gov/Form8995</a>.</p>

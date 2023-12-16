@@ -1,0 +1,36 @@
+<h2>Summary of Instructions for Form W-14 (August 2016)</h2>
+
+<p>The Form W-14, titled "Certificate of Foreign Contracting Party Receiving Federal Procurement Payments," is designed for foreign persons (entities or individuals) receiving payments from the U.S. government under certain contracts. The form allows these foreign contracting parties to establish their status and, if applicable, claim exemptions from withholding taxes under Section 5000C of the Internal Revenue Code, which imposes a 2% tax on specified federal procurement payments.</p>
+
+<h3>General Instructions</h3>
+<ul>
+  <li>The form is used to certify a foreign contracting party's status and to claim possible exemptions from the 2% tax on federal procurement payments.</li>
+  <li>Exemptions may be based on international agreements, such as tax treaties, or if the goods are produced or services are performed in the United States.</li>
+  <li>Form W-14 should be provided to the acquiring U.S. government agency as early as possible, no later than the date of contract execution.</li>
+  <li>A revised certificate must be submitted within 30 days of any change in circumstances that makes the information previously provided incorrect.</li>
+</ul>
+
+<h3>Who Must Provide Form W-14</h3>
+<ul>
+  <li>Foreign contracting parties receiving specified federal procurement payments and seeking to claim an exemption from the tax must provide Form W-14.</li>
+  <li>Form W-14 is not required for U.S. persons, payments for purposes other than goods or services, or payments under certain exempt contracts, such as those for emergency acquisitions or foreign humanitarian assistance.</li>
+</ul>
+
+<h3>Definitions</h3>
+<p>Key definitions include acquiring agency, foreign contracting party, international procurement agreement, and specified federal procurement payment, with detailed explanations provided in the instructions.</p>
+
+<h3>Specific Instructions</h3>
+<p>The form is divided into several parts:</p>
+<ol>
+  <li>Identification of the foreign contracting party and acquiring agency.</li>
+  <li>Claiming exemption based on an international agreement.</li>
+  <li>Claiming exemption based on an international procurement agreement or because goods/services are produced/performed in the United States.</li>
+  <li>Providing an explanation if exemptions are claimed.</li>
+  <li>Certification by the foreign contracting party under penalties of perjury.</li>
+</ol>
+
+<p>The instructions also include appendices listing qualified income tax treaties that may provide exemptions from the tax imposed by Section 5000C.</p>
+
+<p>The Paperwork Reduction Act Notice provides estimated times for recordkeeping, learning about the law or the form, and preparing the form.</p>
+
+<p>For the latest updates and developments related to Form W-14 and its instructions, visit the IRS website at <a href="https://www.irs.gov/w14" target="_blank">www.irs.gov/w14</a>.</p>

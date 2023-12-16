@@ -1,0 +1,45 @@
+<p>The <b>2022 Instructions for Form 4562</b> detail the process for claiming depreciation and amortization deductions on the U.S. federal tax return. It includes information on listed property and covers various sections of the Internal Revenue Code (IRC).</p>
+
+<h3>Future Developments</h3>
+<p>For updates on Form 4562 and its instructions, such as legislative changes enacted after the form was published, visit the IRS website for Form 4562.</p>
+
+<h3>What's New</h3>
+<ul>
+<li>The section 179 deduction dollar limits have increased for tax years beginning in 2022, with a maximum deduction of $1,080,000 and a phase-out threshold starting at $2,700,000.</li>
+<li>The maximum section 179 deduction for SUVs is $27,000.</li>
+<li>The special depreciation allowance for certain property is limited to 80% for property placed in service after December 31, 2022, and before January 1, 2024.</li>
+<li>Research and experimental expenditures for tax years beginning in 2022 must now be capitalized and amortized over a 5-year period (15-year for foreign research).</li>
+</ul>
+
+<h3>General Instructions</h3>
+<p>Form 4562 is used to claim deductions for depreciation and amortization, to make the election under section 179 to expense certain property, and to provide information on the business/investment use of automobiles and other listed property.</p>
+
+<h3>Who Must File</h3>
+<p>Form 4562 must be completed and filed by taxpayers claiming depreciation for property placed in service during the tax year, a section 179 expense deduction, depreciation on any vehicle or other listed property, a deduction for any vehicle reported on a form other than Schedule C (Form 1040), any depreciation on a corporate income tax return (other than Form 1120-S), or amortization of costs that begins during the tax year.</p>
+
+<h3>Additional Information</h3>
+<p>For more information on depreciation and amortization, including listed property, refer to the following IRS publications:</p>
+<ul>
+<li>Pub. 463, Travel, Gift, and Car Expenses</li>
+<li>Pub. 534, Depreciating Property Placed in Service Before 1987</li>
+<li>Pub. 535, Business Expenses</li>
+<li>Pub. 551, Basis of Assets</li>
+<li>Pub. 946, How To Depreciate Property</li>
+</ul>
+
+<h3>Definitions</h3>
+<p>Key terms such as depreciation, section 179 property, and listed property are defined, with further details on the Accelerated Cost Recovery System (ACRS), Modified Accelerated Cost Recovery System (MACRS), and specific types of section 179 property.</p>
+
+<h3>Amortization</h3>
+<p>Amortization rules are explained for various costs, including research and experimental expenditures, pollution control facilities, bond premium, and certain section 197 intangibles.</p>
+
+<h3>Recordkeeping</h3>
+<p>The IRS does not require detailed information on depreciated assets from previous tax years to be submitted with the return, but taxpayers must maintain records to compute depreciation deductions.</p>
+
+<h3>Specific Instructions</h3>
+<p>Detailed instructions are provided for completing Form 4562, including how to calculate the section 179 expense deduction, special depreciation allowance, MACRS depreciation, and amortization.</p>
+
+<h3>Recapture</h3>
+<p>If property for which depreciation was claimed is later disposed of, taxpayers may need to recapture some of the depreciation as ordinary income.</p>
+
+<p>The document concludes with a worksheet to assist in maintaining depreciation records and an index to help locate specific information within the instructions.</p>

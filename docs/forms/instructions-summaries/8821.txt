@@ -1,0 +1,36 @@
+<h2>Summary of Instructions for Form 8821 (Rev. September 2021)</h2>
+<p><b>Form 8821</b> is a Tax Information Authorization form that allows a taxpayer to authorize an individual, corporation, firm, organization, or partnership to inspect and/or receive confidential tax information for the types specified on the form. This form can also be used to delete or revoke prior authorizations.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>For faster processing, use the all-digital Tax Pro Account on the IRS website, which records most requests immediately to the Centralized Authorization File (CAF).</li>
+  <li>Section references are to the Internal Revenue Code unless otherwise noted.</li>
+  <li>The form does not allow the designee to represent the taxpayer before the IRS, execute waivers, or receive refunds.</li>
+  <li>Authorizations on prior Forms 8821 are automatically revoked unless copies of the prior forms are attached to the new submission.</li>
+  <li>To change your address with the IRS, use Form 8822 for personal and Form 8822-B for business address changes.</li>
+</ul>
+
+<h3>Where to File:</h3>
+<p>Form 8821 should be sent to the IRS office based on the taxpayer's location, with specific fax numbers provided for each region.</p>
+
+<h3>When and How to File:</h3>
+<ul>
+  <li>Form 8821 must be received by the IRS within 120 days of the taxpayer's signature date if it's for purposes other than IRS matters.</li>
+  <li>It can be submitted online, by fax, or by mail.</li>
+  <li>If using an electronic signature, the form must be submitted online.</li>
+</ul>
+
+<h3>Specific Instructions:</h3>
+<ul>
+  <li>Provide taxpayer information such as name, TIN, and address.</li>
+  <li>Designate a representative with their full name, address, and CAF number if available.</li>
+  <li>Specify the tax information to be disclosed, including tax type, form number, and year or period.</li>
+  <li>Indicate if the form is for a specific use not recorded on the CAF, such as loan applications or background checks.</li>
+  <li>To retain previous authorizations, attach copies and check the box on line 5.</li>
+  <li>Signatures are required and must be handwritten if filing by mail or fax.</li>
+</ul>
+
+<h3>Privacy Act and Paperwork Reduction Act Notice:</h3>
+<p>The form is voluntary and is used to authorize the IRS to disclose tax information. Failure to provide complete information may prevent the authorization from being honored. The estimated average time to complete the form is 62 minutes.</p>
+
+<p>For more detailed information, refer to the <a target="_blank" href="https://www.irs.gov/forms-pubs/about-form-8821">IRS website</a>.</p>

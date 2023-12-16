@@ -1,0 +1,37 @@
+<h2>Summary of 2022 Instructions for Form 5500-EZ</h2>
+<p>The Form 5500-EZ is an annual return filed by one-participant retirement plans or foreign plans not subject to ERISA requirements. The form is used by plans covering only the owner (or the owner and their spouse) or one or more partners (or partners and their spouses) in a business partnership, and plans that only provide benefits for the aforementioned individuals.</p>
+
+<h3>Filing Tips</h3>
+<ul>
+<li>Use the online fillable form on the IRS website, the official printed paper form, or approved software to complete Form 5500-EZ.</li>
+<li>Ensure all entries are made with black or blue ink and are legible.</li>
+<li>Mail the completed form to the IRS office in Ogden, Utah.</li>
+<li>Electronic filing is available using the EFAST2 filing system or through an EFAST2-approved vendor.</li>
+</ul>
+
+<h3>Phone Help</h3>
+<p>For questions about completing the form, call the IRS Help Desk at 877-829-5500. For electronic filing questions, call the EFAST2 Help Desk at 1-866-GO-EFAST (1-866-463-3278).</p>
+
+<h3>How To Get Forms and Publications</h3>
+<p>Forms and publications can be found on the IRS website at IRS.gov/FormsPubs or IRS.gov/OrderForms.</p>
+
+<h3>General Instructions</h3>
+<p>Form 5500-EZ must be filed by the last day of the 7th month after the plan year ends. If filing under an extension, the form should not be attached to Form 5500-EZ, but the appropriate extension box should be checked in Part I.</p>
+
+<h3>Who Must File Form 5500-EZ</h3>
+<ul>
+<li>One-participant plans or foreign plans required to file an annual return under section 6058(a).</li>
+<li>Plans with assets exceeding $250,000 at the end of the plan year or plans in their final year must file.</li>
+<li>Electronic filing is mandatory for filers required to file at least 10 returns of any type with the IRS during the calendar year.</li>
+</ul>
+
+<h3>Who Does Not Have To File Form 5500-EZ</h3>
+<p>One-participant plans with total assets of all plans maintained by the employer not exceeding $250,000 at the end of the plan year, unless it's the final plan year.</p>
+
+<h3>Where To File</h3>
+<p>Mail paper Form 5500-EZ to the Department of the Treasury, Internal Revenue Service, Ogden, UT 84201-0020. Private delivery services should use the Ogden, UT address provided.</p>
+
+<h3>Penalties</h3>
+<p>Failure to file can result in penalties of $250 a day, up to a maximum of $150,000 per plan year.</p>
+
+<p>For more detailed information, refer to the specific sections and line instructions of the form and consult the IRS website or the EFAST2 website for electronic filing guidance.</p>

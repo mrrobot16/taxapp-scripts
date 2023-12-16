@@ -1,0 +1,30 @@
+<h2>Summary of Instructions for Form 965-C (December 2019)</h2>
+
+<p>The <b>Instructions for Form 965-C</b> provide guidance for taxpayers who need to enter into a transfer agreement under section 965(h)(3) due to certain acceleration events. This form is used when a taxpayer elects to pay a tax liability, specifically under section 965(a), in installments over eight years, and a transfer of liability is needed due to a change in ownership or similar event.</p>
+
+<h3>Background</h3>
+<p>Section 965 was amended on December 22, 2017, affecting taxpayers with deferred foreign income. Taxpayers can elect to pay the related tax liability in installments unless an acceleration event occurs, requiring immediate payment of the remaining amount. However, if a covered acceleration event occurs, the new responsible party (transferee) can enter into an agreement to assume the installment payments.</p>
+
+<h3>General Instructions</h3>
+<p>Form 965-C is used by both the transferor (original taxpayer) and transferee (new responsible party) to create a transfer agreement that prevents the acceleration of tax payments. The form must be completed correctly and filed within 30 days of the covered acceleration event, mailed to the IRS Memphis Compliance Service Collection Operations, and attached to the tax returns of both parties for the year in which the event occurs.</p>
+
+<h3>Definitions</h3>
+<ul>
+  <li><b>Eligible section 965(h) transferee:</b> A U.S. person (not a pass-through entity) that meets specific requirements.</li>
+  <li><b>Eligible section 965(h) transferor:</b> A U.S. person with a covered acceleration event.</li>
+  <li><b>Section 965(h) net tax liability:</b> The tax liability related to section 965(a) income inclusion.</li>
+</ul>
+
+<h3>Who Must File</h3>
+<p>Both the transferor and transferee involved in a covered acceleration event must file Form 965-C to assume the installment payment agreement.</p>
+
+<h3>When and Where To File</h3>
+<p>Form 965-C must be filed within 30 days after the covered acceleration event and sent to the IRS at the specified Memphis address. No extensions are granted for filing this form.</p>
+
+<h3>Specific Instructions</h3>
+<p>The form is divided into several parts requiring detailed information about the transferor, transferee, the acceleration event, the remaining tax liability, and the transferee's ability to pay. Both parties must sign the form under penalties of perjury, asserting the accuracy of the information provided.</p>
+
+<h3>Paperwork Reduction Act Notice</h3>
+<p>The notice explains the legal requirement to provide the information on Form 965-C and the estimated burden of completing the form.</p>
+
+<p>For the latest information and updates related to Form 965-C and its instructions, it's recommended to visit the IRS website at <a href="https://www.irs.gov/forms-instructions" target="_blank">IRS.gov/Form965C</a>.</p>

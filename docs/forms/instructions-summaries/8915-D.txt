@@ -1,0 +1,18 @@
+<h2>Summary of 2022 Instructions for Form 8915-D</h2>
+<p>The 2022 Instructions for Form 8915-D relate to reporting qualified 2019 disaster retirement plan distributions and repayments. Form 8915-D is used to report income from qualified 2019 disaster distributions that are spread over three years and to report repayments of those distributions made for 2022.</p>
+
+<h3>Key Points:</h3>
+<ul>
+<li><b>Repayments:</b> The repayment period for qualified 2019 disaster distributions ends three years and one day after the distribution was received.</li>
+<li><b>Coronavirus-Related Distributions:</b> Repayments for coronavirus-related distributions made in 2022 should not be reported on Form 8915-D but on Form 8915-F.</li>
+<li><b>Who Must File:</b> You must file Form 8915-D if you received a qualified 2019 disaster distribution in 2020 or 2021 that you're including in income over three years, or if you made a repayment for 2022 of a qualified 2019 disaster distribution.</li>
+<li><b>Filing with Tax Return:</b> Form 8915-D should be filed with your 2022 Form 1040 or other applicable tax return. If not required to file a tax return, you still need to send Form 8915-D to the IRS.</li>
+<li><b>Qualified 2019 Disaster Distribution:</b> To have a qualified 2019 disaster distribution, you must have been adversely affected by a disaster listed in Table 1 of the instructions.</li>
+<li><b>Taxation of Distributions:</b> Qualified 2019 disaster distributions are generally included in income equally over three years and are not subject to the early distribution additional tax.</li>
+<li><b>Repayment of Distributions:</b> You have three years from the day after the date you received the distribution to make a repayment to an eligible retirement plan.</li>
+<li><b>Amending Form 8915-D:</b> If you make a repayment after filing your tax return, you may need to file an amended return to refigure your taxable income using Form 1040-X.</li>
+</ul>
+
+<p>For more detailed information, refer to the specific sections of the instructions regarding repayments, taxation, eligible retirement plans, and the process for amending the form.</p>
+
+<p>The full instructions also include a table of qualified 2019 disaster areas, which is essential for determining eligibility for disaster-related relief.</p>

@@ -1,0 +1,31 @@
+<h1>Summary of 2022 Instructions for Form 8606 - Nondeductible IRAs</h1>
+
+<p>The IRS Form 8606 is used for reporting nondeductible contributions to traditional IRAs, distributions from traditional, SEP, or SIMPLE IRAs if you have a basis in these IRAs, conversions from traditional, SEP, or SIMPLE IRAs to Roth IRAs, and distributions from Roth IRAs.</p>
+
+<h2>What's New</h2>
+<ul>
+  <li>Form 8915-F and qualified 2021 and later disasters are now eligible for special tax benefits.</li>
+  <li>References to 2022 Form 8915-F are updated to include 2021 and 2022 disasters.</li>
+  <li>Filing status name changed from "qualifying widow(er)" to "qualifying surviving spouse."</li>
+  <li>Certain corrective distributions are not subject to the 10% early distribution tax if corrected by the tax return due date.</li>
+  <li>Coronavirus-related distributions are not applicable for 2022 as they can't be made after December 30, 2020.</li>
+  <li>Modified AGI limit for Roth IRA contributions increased for 2022.</li>
+  <li>The due date for making contributions for 2022 to your IRA is April 18, 2023.</li>
+</ul>
+
+<h2>General Instructions</h2>
+<p>Form 8606 is used to report certain IRA contributions and distributions. It includes sections for reporting nondeductible contributions to traditional IRAs, conversions to Roth IRAs, and distributions from Roth IRAs.</p>
+
+<h2>Who Must File</h2>
+<p>File Form 8606 if you made nondeductible contributions to a traditional IRA for 2022, received distributions from a traditional, SEP, or SIMPLE IRA in 2022 and your basis is more than zero, or you converted amounts to a Roth IRA in 2022. Other situations requiring filing Form 8606 are detailed in the instructions.</p>
+
+<h2>When and Where To File</h2>
+<p>File Form 8606 with your 2022 Form 1040, 1040-SR, or 1040-NR by the due date, including extensions. If you're not required to file an income tax return but must file Form 8606, send it to the IRS at the same time you would file Form 1040.</p>
+
+<h2>Definitions</h2>
+<p>The instructions provide definitions for terms such as "deemed IRAs," "traditional IRAs," "SEP IRAs," "SIMPLE IRAs," and "Roth IRAs," along with details on contributions, basis, distributions, and qualified distributions for Roth IRAs.</p>
+
+<h2>Specific Instructions</h2>
+<p>Detailed instructions for each part of Form 8606 are provided, including how to calculate and report nondeductible contributions, conversions, and distributions. This includes the treatment of distributions related to qualified disasters and how to handle distributions incident to divorce.</p>
+
+<p>For more detailed information or specific cases, refer to the full instructions on the IRS website or consult with a tax professional.</p>

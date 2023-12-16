@@ -1,0 +1,40 @@
+<h2>Summary of Instructions for Form 8986 (December 2021)</h2>
+<p>The Form 8986, "Partners' Share of Adjustments to Partnership-Related Items," is used by partnerships under the Bipartisan Budget Act of 2015 (BBA) audit regime to report each partner's share of adjustments following a BBA audit or administrative adjustment request (AAR).</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>The BBA replaced the partnership audit procedures under the Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA).</li>
+  <li>Form 8986 is utilized by BBA partnerships to report adjustments to partnership-related items to partners.</li>
+  <li>The form includes definitions of terms such as BBA partnership, AAR, audited partnership, pass-through partner, and others.</li>
+  <li>General instructions cover who should prepare the form, where to submit it, due dates, and withholding for foreign partners.</li>
+  <li>Specific instructions detail how to fill out each part of the form, including information about the entity submitting the form, the audited partnership or partnership that filed an AAR, the pass-through partner issuing the form, and the partner receiving the form.</li>
+  <li>Partners that receive Form 8986 should report the adjustments on Form 8978 and attach it to their tax return.</li>
+  <li>Penalties may apply if the form is not furnished and submitted on time.</li>
+  <li>Electronic submission is required for certain entities.</li>
+</ul>
+
+<h3>Instructions for Completion:</h3>
+<ul>
+  <li>Form 8986 is divided into several parts, including information about the submitting entity, the audited partnership, the pass-through partner, and the partner receiving the form.</li>
+  <li>Partners' total reviewed year income, gain, loss, deductions, credits, and other items are reported in Part V.</li>
+  <li>Statements in Part VI provide detailed explanations of the adjustments.</li>
+  <li>Corrections to the form due to incorrect TINs or other errors require submission of corrected forms.</li>
+</ul>
+
+<h3>Due Dates:</h3>
+<ul>
+  <li>For audited partnerships, Forms 8986 must be furnished to partners and submitted to the IRS within 60 days after the partnership adjustments are finally determined.</li>
+  <li>For AAR partnerships, Forms 8986 must be included with their AAR.</li>
+  <li>Pass-through partners must furnish and submit Forms 8986 by the extended due date of the audited partnership's adjustment year return.</li>
+</ul>
+
+<h3>Withholding for Foreign Partners:</h3>
+<ul>
+  <li>Audited partnerships with foreign partners may have withholding obligations and must comply with applicable tax return filing requirements.</li>
+</ul>
+
+<p>For the latest information about developments related to Form 8986 and its instructions, such as legislation enacted after they were published, visit the IRS website.</p>
+
+<p>The instructions also provide information on how to handle specific situations, such as changes to loans or disguised sale adjustments, and they include examples for clarity.</p>
+
+<p>Lastly, the Paperwork Reduction Act Notice states the purpose of the information collection and the estimated burden for business taxpayers.</p>

@@ -1,0 +1,32 @@
+<h2>Summary of the 2022 Instructions for Schedule K-1 (Form 1041) for a Beneficiary Filing Form 1040 or 1040-SR</h2>
+
+<p>The Schedule K-1 (Form 1041) is used by beneficiaries of estates and trusts to report their share of income, credits, deductions, etc., from the estate or trust on their individual tax returns (Form 1040 or 1040-SR). Beneficiaries should keep the Schedule K-1 for their records and not file it with their tax return unless backup withholding is reported.</p>
+
+<h3>General Instructions</h3>
+<ul>
+  <li>Beneficiaries must report items shown on Schedule K-1 the same way the estate or trust treated them. If there's an inconsistency, Form 8082 must be filed.</li>
+  <li>If a beneficiary believes there's an error on their Schedule K-1, they should request a corrected one from the fiduciary.</li>
+  <li>Upon termination of an estate or trust, beneficiaries may be able to claim certain deductions or credits.</li>
+</ul>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li><b>Part I</b> provides information about the estate or trust.</li>
+  <li><b>Part III</b> details the beneficiary's share of current year income, deductions, credits, and other items.</li>
+</ul>
+
+<h3>Box Instructions</h3>
+<ul>
+  <li>Interest, dividends, and capital gains are reported in the respective boxes and must be included on the beneficiary's tax return as specified.</li>
+  <li>Boxes 5 through 8 report other types of income, like business income or rental income, which may be subject to different tax treatments.</li>
+  <li>Box 9 shows deductions directly apportioned to the beneficiary.</li>
+  <li>Box 10 may include an estate tax deduction for income in respect of a decedent.</li>
+  <li>Box 11 covers excess deductions on termination, which may be claimed by the beneficiary in the final year of the estate or trust.</li>
+  <li>Box 12 provides information for alternative minimum tax items.</li>
+  <li>Box 13 lists various credits that the beneficiary may claim, such as the low-income housing credit or credit for backup withholding.</li>
+  <li>Box 14 contains other information, including net investment income tax details and section 199A information for the qualified business income deduction.</li>
+</ul>
+
+<p>Beneficiaries of generation-skipping trusts may be able to deduct the GST tax paid on income distributions. Additionally, specific instructions are provided for reporting various types of income and deductions, as well as for claiming credits and dealing with credit recapture.</p>
+
+<p>For more detailed information and updates related to Schedule K-1 (Form 1041) and its instructions, beneficiaries should visit the IRS website.</p>

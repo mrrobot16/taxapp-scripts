@@ -1,0 +1,17 @@
+<h2>Summary of Instructions for Form 8957 (Rev. June 2018)</h2>
+<p><b>Form 8957</b> is for financial institutions (FIs) and certain other entities to register with the IRS for purposes of the Foreign Account Tax Compliance Act (FATCA). It allows entities to declare their status and receive a Global Intermediary Identification Number (GIIN). The form was updated to reflect additional FATCA classifications consistent with those reported on other forms like W-8BEN-E.</p>
+
+<h3>Key Points:</h3>
+<ol>
+  <li>Form 8957 has been revised to include more specific FATCA categories.</li>
+  <li>Limited FFI and limited branch statuses have been removed.</li>
+  <li>Qualified Intermediaries (QIs), Withholding Foreign Partnerships (WPs), and Withholding Foreign Trusts (WTs) now renew their agreements using the QI/WP/WT Application and Account Management System, not Form 8957.</li>
+  <li>The form is used by various entities, such as participating foreign financial institutions (PFFIs), registered deemed-compliant foreign financial institutions (RDCFFIs), and direct reporting non-financial foreign entities (NFFEs), to register with the IRS.</li>
+  <li>Entities can register online at the FATCA registration website or by mailing in the paper form to the IRS.</li>
+  <li>Entities eligible to register include FIs under Model 1 and Model 2 IGAs, USFIs, and Direct Reporting NFFEs, among others.</li>
+  <li>There are specific instructions and definitions provided to guide entities through the registration process.</li>
+  <li>Lead FIs can manage FATCA accounts for their Member FIs and must identify their Member FIs online, not on the paper form.</li>
+  <li>The form must be signed by a Responsible Officer (RO) who certifies the accuracy and completeness of the information and the entity's intention to comply with FATCA obligations.</li>
+</ol>
+
+<p>For the most current information and for more detailed instructions, entities are advised to refer to the IRS website and the form's instructions.</p>

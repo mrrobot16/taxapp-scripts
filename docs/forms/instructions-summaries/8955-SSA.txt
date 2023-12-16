@@ -1,0 +1,47 @@
+<h2>Summary of 2022 Instructions for Form 8955-SSA</h2>
+<p>Form 8955-SSA is used to report information about participants in an employee benefit plan who have separated from service and are entitled to deferred vested benefits that are not currently being paid. This form is filed with the IRS and not with the Form 5500 or Form 5500-SF.</p>
+
+<h3>Key Points:</h3>
+<ul>
+  <li>Form 8955-SSA reports separated participants with deferred vested benefits.</li>
+  <li>It is a stand-alone form filed directly with the IRS.</li>
+  <li>The form should not be filed if there is no new information to report for the year.</li>
+  <li>Electronic filing is encouraged, and in some cases, mandatory.</li>
+  <li>Information reported is shared with the Social Security Administration (SSA).</li>
+  <li>Penalties may apply for failure to file or for incorrect filings.</li>
+  <li>Plan administrators must also provide individual statements to affected participants.</li>
+</ul>
+
+<h3>Who Must File:</h3>
+<ul>
+  <li>Plan administrators of plans subject to the vesting standards of ERISA section 203.</li>
+  <li>Government, church, and other plans not subject to ERISA section 203 may file voluntarily.</li>
+</ul>
+
+<h3>Filing Deadlines:</h3>
+<ul>
+  <li>Generally, the form must be filed by the last day of the seventh month following the plan year end.</li>
+  <li>Extensions are available through Form 5558 or an automatic extension if the employer's tax return is extended.</li>
+</ul>
+
+<h3>How to File:</h3>
+<ul>
+  <li>Form 8955-SSA can be filed electronically through the FIRE system or on paper.</li>
+  <li>Electronic filing is required for filers with 250 or more returns during the calendar year.</li>
+  <li>Hardship waivers for electronic filing are available under certain conditions.</li>
+</ul>
+
+<h3>Completing the Form:</h3>
+<ul>
+  <li>Include plan and participant information as specified in the form's instructions.</li>
+  <li>Use whole dollars, not cents.</li>
+  <li>Do not attach to Form 5500 or Form 5500-SF.</li>
+  <li>Sign and date the form as the plan sponsor or administrator.</li>
+</ul>
+
+<h3>Penalties:</h3>
+<ul>
+  <li>Penalties may be assessed for failure to file or incorrect filings, with a maximum of $50,000 for failure to report participants.</li>
+</ul>
+
+<p>For more detailed information and instructions, filers should refer to the actual IRS instructions for Form 8955-SSA.</p>

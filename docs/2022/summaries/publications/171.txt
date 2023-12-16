@@ -1,0 +1,38 @@
+<h2>Where To File</h2>
+<p>If you are filing a paper return, you must send it to the IRS at the address shown in the instructions for the form you are filing. The correct address depends on the state or foreign country in which you live and whether you are enclosing a payment. The addresses for filing certain forms may be different than the addresses for paying any amount due.</p>
+<p>If you are filing electronically, you don't need to worry about mailing addresses as your tax professional or software will guide you through the electronic submission process.</p>
+<h2>How To Get Tax Help</h2>
+<p>The IRS offers multiple ways to get help with your taxes. This includes:</p>
+<ul>
+  <li>IRS.gov for tools, forms, and publications.</li>
+  <li>Interactive Tax Assistant for tax law questions.</li>
+  <li>IRS2Go app for mobile interactions.</li>
+  <li>Taxpayer Assistance Centers for in-person help.</li>
+  <li>VITA or TCE for free tax preparation services.</li>
+  <li>Telephone assistance for individual taxpayers and businesses.</li>
+</ul>
+<p>For more information, visit <a href="https://www.irs.gov/help/telephone-assistance" target="_blank">IRS.gov/help/telephone-assistance</a>.</p>
+<h2>Introduction</h2>
+<p>This publication provides fundamental tax information for individuals, including filing requirements, forms, deadlines, extensions, and tax assistance services.</p>
+<h2>Do I Have To File a Return?</h2>
+<p>You must file a federal income tax return if you are a citizen or resident of the United States or a resident of Puerto Rico and you meet the filing requirements for your status and age.</p>
+<h2>Individuals—In General</h2>
+<p>Filing requirements for individuals depend on gross income, filing status, and age. Refer to IRS <a href="https://www.irs.gov/publications/p17#en_US_2022_publink1000170407" target="_blank">Publication 17</a> and <a href="https://www.irs.gov/forms-pubs/about-publication-501" target="_blank">Publication 501</a> for more details.</p>
+<h2>Dependents</h2>
+<p>If you are a dependent, your filing requirements may be different. See <a href="https://www.irs.gov/publications/p501#en_US_2022_publink1000220687" target="_blank">Publication 501</a> for information on whether you need to file.</p>
+<h2>Self-Employed Persons</h2>
+<p>If you are self-employed, you must file a return if your net earnings are $400 or more, or if you have other filing requirements listed in <a href="https://www.irs.gov/publications/p17#en_US_2022_publink1000170933" target="_blank">Publication 17</a>.</p>
+<h2>Who Should File</h2>
+<p>Even if you are not required to file, you may want to file a return to claim a refund of any federal income tax withheld or to claim credits like the Earned Income Credit.</p>
+<h2>When Do I Have To File?</h2>
+<p>The filing deadline for most individuals is April 18, 2023. If you need more time, you can request an automatic six-month extension using <a href="https://www.irs.gov/forms-pubs/extension-of-time-to-file-your-tax-return" target="_blank">Form 4868</a>.</p>
+<h2>Extensions of Time To File</h2>
+<p>You can get an extension if you can't file on time, but you must still pay any tax due by the original deadline to avoid interest and penalties.</p>
+<h2>Electronic Filing</h2>
+<p>E-filing is a convenient and accurate way to file your tax return. You can use IRS Free File or commercial software, or a tax professional who e-files. Most e-filed returns are processed within 21 days.</p>
+<h2>Refunds</h2>
+<p>If you are due a refund, you can expect to receive it more quickly if you choose direct deposit and file electronically.</p>
+<h2>Amount You Owe</h2>
+<p>If you owe tax, you can e-file and schedule an electronic payment for the due date, or you can send a check or money order with a <a href="https://www.irs.gov/forms-pubs/about-form-1040-v" target="_blank">Form 1040-V</a> payment voucher.</p>
+<h2>Recordkeeping</h2>
+<p>Keep copies of your filed tax returns and all supporting documents for

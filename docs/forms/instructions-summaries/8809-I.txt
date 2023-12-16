@@ -1,0 +1,22 @@
+<h2>Summary of Instructions for Form 8809-I (November 2015)</h2>
+<p>Form 8809-I is used to request an extension of time to file Form 8966, which is related to the Foreign Account Tax Compliance Act (FATCA). The form and its instructions are available on the IRS website.</p>
+
+<h3>General Instructions</h3>
+<ul>
+  <li><b>Purpose:</b> To request an initial or additional extension for filing Form 8966.</li>
+  <li><b>Who Should File:</b> Entities that need more time to file Form 8966 and are not covered by an intergovernmental agreement (IGA) that provides for different procedures.</li>
+  <li><b>Where To File:</b> Send paper Form 8809-I to the IRS at FATCA, Stop 6052 AUSC, 3651 South IH 35, Austin, TX 78741.</li>
+  <li><b>When To File:</b> As soon as it's known an extension is necessary, but not before January 1 of the filing year. The due date for filing Form 8966 is March 31 of the year following the reporting year.</li>
+  <li><b>Extension Period:</b> An automatic 90-day extension is available. A hardship exception may grant an additional 90-day extension.</li>
+  <li><b>Penalty:</b> Late filing of Form 8966 without an approved extension may result in penalties.</li>
+</ul>
+
+<h3>Specific Instructions</h3>
+<ul>
+  <li>Provide filer's information including name, address, and taxpayer identification numbers.</li>
+  <li>Indicate the method of filing Form 8966.</li>
+  <li>If an additional extension is needed, check the box on line 13 and provide detailed reasons on line 14.</li>
+  <li>No signature is required for the automatic 90-day extension. An additional extension request must be signed.</li>
+</ul>
+
+<p>For more details, visit the <a href="https://www.irs.gov/forms-pubs/about-form-8809-i" target="_blank">IRS website</a>.</p>

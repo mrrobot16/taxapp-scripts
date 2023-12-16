@@ -1,0 +1,41 @@
+<h3>Summary of Instructions for Form 1120-FSC (Rev. February 2019)</h3>
+<p>The Form 1120-FSC is used by Foreign Sales Corporations (FSCs) to report their income, gains, losses, deductions, credits, and to figure their U.S. income tax liability. The instructions provide guidance on who must file, when to file, where to file, and the various schedules and forms that may be required with the return.</p>
+
+<h3>Key Changes Noted in the Instructions</h3>
+<ol>
+  <li>Tax rates have been updated, with a flat 21% corporate tax rate replacing the graduated corporate tax structure for tax years beginning after 2017.</li>
+  <li>Alternative minimum tax (AMT) has been repealed for corporations for tax years beginning after December 31, 2017.</li>
+  <li>Base erosion minimum tax applies for corporations with at least $500 million in gross receipts in any of the 3 tax years preceding the current tax year.</li>
+  <li>Small business taxpayers may be eligible to use the cash method of accounting.</li>
+  <li>New limitations apply to business interest expense deductions.</li>
+  <li>Net operating loss (NOL) rules have changed, particularly regarding carrybacks and carryforwards.</li>
+</ol>
+
+<h3>General Instructions</h3>
+<p>The instructions detail the purpose of the form, the repeal and transition rules for existing FSCs, and specific instructions for various schedules and lines on the form.</p>
+
+<h3>Specific Instructions</h3>
+<p>These include detailed guidance on how to complete the FSC's tax return, including the identification of the principal shareholder, controlled group information, tax computations, and how to report and calculate deductions and credits.</p>
+
+<h3>Schedules and Forms</h3>
+<p>Schedules A through M-1 and various other forms may be required to be filed along with Form 1120-FSC. These include schedules for cost of goods sold, other deductions, tax computation, and a reconciliation of income per books with income per return.</p>
+
+<h3>Due Dates</h3>
+<p>Generally, the return must be filed by the 15th day of the 4th month after the end of the FSC's tax year. There are specific rules for FSCs with a fiscal tax year ending on June 30, and for those requesting extensions.</p>
+
+<h3>Where to File</h3>
+<p>FSCs must file their returns at the IRS Center in Ogden, UT.</p>
+
+<h3>Other Information</h3>
+<p>The instructions also cover topics such as estimated tax payments, interest and penalties, recordkeeping, tax payments, and other forms that may be required.</p>
+
+<h3>Future Developments</h3>
+<p>For the latest information about developments related to Form 1120-FSC and its instructions, taxpayers are directed to the IRS website.</p>
+
+<h3>Photographs of Missing Children</h3>
+<p>The IRS is a proud partner with the National Center for Missing & Exploited Children (NCMEC) and may include photographs of missing children in its instructions.</p>
+
+<h3>The Taxpayer Advocate Service</h3>
+<p>Details on how to contact the Taxpayer Advocate Service for assistance are provided.</p>
+
+<p>For more specific information, taxpayers are encouraged to refer to the actual IRS instructions for Form 1120-FSC.</p>
